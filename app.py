@@ -2137,6 +2137,16 @@ input[type="radio"]{width:18px;height:18px;margin-top:3px}
     </div>
   </div>
 
+  <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:20px">
+    {% if is_mock %}
+    <button type="button" class="btn primary" onclick="showAllAnswers()" id="showAllBtn">📋 Show All Answers</button>
+    <button type="button" class="btn primary" onclick="hideAllAnswers()" id="hideAllBtn" style="display:none;">🙈 Hide All Answers</button>
+    {% else %}
+    <button type="button" class="btn primary" onclick="showAllAnswers()" id="showAllBtn">📋 Show All Answers</button>
+    {% endif %}
+    <a href="/menu" class="btn primary" style="text-decoration:none;color:#0f1724">🏠 Back to Menu</a>
+  </div>
+
   <div id="allQuestionsContainer" style="display:flex;flex-direction:column;gap:20px;margin-bottom:20px">
     {% for question in questions %}
     <div class="card" data-question-index="{{ loop.index0 }}">
@@ -2166,16 +2176,6 @@ input[type="radio"]{width:18px;height:18px;margin-top:3px}
       <div class="feedback" id="feedback-{{ loop.index0 }}"></div>
     </div>
     {% endfor %}
-  </div>
-
-  <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:20px">
-    {% if is_mock %}
-    <button type="button" class="btn primary" onclick="showAllAnswers()" id="showAllBtn">📋 Show All Answers</button>
-    <button type="button" class="btn primary" onclick="hideAllAnswers()" id="hideAllBtn" style="display:none;">🙈 Hide All Answers</button>
-    {% else %}
-    <button type="button" class="btn primary" onclick="showAllAnswers()" id="showAllBtn">📋 Show All Answers</button>
-    {% endif %}
-    <a href="/menu" class="btn primary" style="text-decoration:none;color:#0f1724">🏠 Back to Menu</a>
   </div>
 </div>
 
