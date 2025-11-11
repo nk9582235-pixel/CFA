@@ -2137,53 +2137,41 @@ input[type="radio"]{width:18px;height:18px;margin-top:3px}
     </div>
   </div>
 
-  <div class="card" id="card">
-    <div class="q-header">
-      <div class="q-num" id="qnum">1</div>
-      <div style="flex:1">
-        <div style="color:var(--muted);font-size:13px" id="qtitle">Multiple Choice</div>
-        <div class="question-text" id="stem">Loading…</div>
-      </div>
-    </div>
-
-    <div class="progress-bar">
-      <div class="progress-fill" id="progressFill" style="width: 0%"></div>
-    </div>
-    <div class="progress-text" id="progressText">0 of {{ total }} questions</div>
-
-    <form id="form" onsubmit="return false;">
-      <div class="choices" id="choices"></div>
-
-      <div class="controls">
-        <div>
-          <button type="button" class="btn" id="prev">← Previous</button>
-          <button type="button" class="btn" id="next">Next →</button>
-        </div>
-        <div style="display:flex;align-items:center;gap:8px">
-          <div>
-            <input id="gotoInput" type="number" min="1" style="width:64px;padding:6px;border-radius:6px;border:1px solid #e6eef6;margin-left:6px"/>
-            <button class="btn" id="gotoBtn" type="button">Go</button>
-          </div>
-          <button type="button" class="btn" id="skip">Skip</button>
-          <button type="button" class="btn primary" id="submit">Submit Answer</button>
+  <div id="allQuestionsContainer" style="display:flex;flex-direction:column;gap:20px;margin-bottom:20px">
+    {% for question in questions %}
+    <div class="card" data-question-index="{{ loop.index0 }}">
+      <div class="q-header">
+        <div class="q-num">{{ loop.index }}</div>
+        <div style="flex:1">
+          <div style="color:var(--muted);font-size:13px">Question {{ loop.index }}</div>
+          <div class="question-text">{{ question.stem | safe }}</div>
         </div>
       </div>
-    </form>
 
-    <div id="feedback"></div>
+      <div class="choices">
+        {% for choice in question.choices %}
+        <label class="choice-item">
+          <input type="radio" name="choice-{{ loop.index0 }}" value="{{ choice.id }}" class="q-radio">
+          <div style="font-size:14px">{{ choice.text | safe }}</div>
+        </label>
+        {% endfor %}
+      </div>
+
+      <div class="controls" style="justify-content:flex-end">
+        <button type="button" class="btn primary" onclick="submitQuestion({{ loop.index0 }})">Submit Answer</button>
+      </div>
+
+      <div class="feedback" id="feedback-{{ loop.index0 }}"></div>
+    </div>
+    {% endfor %}
   </div>
+
+  <a href="/menu" class="btn primary" style="margin-top:20px">🏠 Back to Menu</a>
 </div>
 
 <script>
 const questions = {{ questions | tojson }};
-let idx = 0;
-const total = questions.length;
-let userAnswers = new Array(total).fill(null);
-let questionStatus = new Array(total).fill(false);
-let currentQuestions = [...questions];
-let originalOrder = [...Array(total).keys()];
-
-document.getElementById('qnum').textContent = idx+1 + ' / ' + total;
+let userAnswers = new Array(questions.length).fill(null);
 
 // Timer
 let start = Date.now();
@@ -2193,64 +2181,27 @@ setInterval(()=> {
   document.getElementById('timer').textContent = `Time ${mm}:${ss}`;
 }, 500);
 
-function updateProgress() {
-  const answeredCount = questionStatus.filter(status => status).length;
-  const progressPercent = (answeredCount / total) * 100;
-  document.getElementById('progressFill').style.width = progressPercent + '%';
-  document.getElementById('progressText').textContent = `${answeredCount} of ${total} questions answered`;
-}
-
-function stripHtml(html){
-  const d = new DOMParser().parseFromString(html,'text/html');
-  return d.body.textContent || '';
-}
-
-function render(i){
-  idx = i;
-  const q = currentQuestions[i];
-  document.getElementById('qnum').textContent = (i+1) + ' / ' + total;
-  document.getElementById('stem').innerHTML = q.stem ? q.stem : (q.title || '');
-  const choicesWrap = document.getElementById('choices');
-  choicesWrap.innerHTML = '';
-  (q.choices || []).forEach((c,j)=>{
-    const label = document.createElement('label');
-    label.className = 'choice-item';
-    const isChecked = userAnswers[i] === c.id ? 'checked' : '';
-    label.innerHTML = `<input type="radio" name="choice" value="${c.id}" id="opt-${j}" ${isChecked}> <div style="font-size:14px">${c.text ? c.text : ''}</div>`;
-    label.addEventListener('click', ()=> { document.getElementById('feedback').innerHTML=''; });
-    choicesWrap.appendChild(label);
-  });
+function submitQuestion(questionIdx) {
+  const q = questions[questionIdx];
+  const radioName = `choice-${questionIdx}`;
+  const chosen = document.querySelector(`input[name="${radioName}"]:checked`);
   
-  document.getElementById('feedback').innerHTML = '';
-  document.getElementById('gotoInput').value = '';
-  
-  if (userAnswers[i]) {
-    const prevSelected = document.querySelector(`input[value="${userAnswers[i]}"]`);
-    if (prevSelected) prevSelected.checked = true;
-  }
-}
-
-document.getElementById('submit').addEventListener('click', ()=>{
-  const chosen = document.querySelector('input[name="choice"]:checked');
   if (!chosen) {
-    document.getElementById('feedback').innerHTML = '<div class="result info">Please select an answer first.</div>';
+    document.getElementById(`feedback-${questionIdx}`).innerHTML = '<div class="result info">Please select an answer first.</div>';
     return;
   }
   
-  const fbDiv = document.getElementById('feedback');
+  const fbDiv = document.getElementById(`feedback-${questionIdx}`);
   fbDiv.innerHTML = '';
   
-  userAnswers[idx] = chosen.value;
-  questionStatus[idx] = true;
-  updateProgress();
+  userAnswers[questionIdx] = chosen.value;
   
-  const q = currentQuestions[idx];
   const correct = q.correct || null;
   const isCorrect = chosen.value === correct;
   
   let resultHTML = `<div class="result ${isCorrect ? 'correct' : 'wrong'}">${isCorrect ? '✓ Correct!' : '✗ Wrong!'}</div>`;
   
-  // Show explanations similar to quiz format
+  // Show explanations
   const hasPerChoiceFeedback = q.feedback && Object.keys(q.feedback).some(key => key !== 'neutral' && key !== 'correct' && key !== 'incorrect');
   
   resultHTML += '<div style="border-top:1px solid var(--card-border);padding-top:14px;margin-top:12px"><div style="font-weight:600;color:var(--text-primary);margin-bottom:12px">Answer Explanations:</div>';
@@ -2276,25 +2227,17 @@ document.getElementById('submit').addEventListener('click', ()=>{
       }
     }
     
-    const feedbackClass = isAnswerCorrect ? 'correct-option' : 'incorrect-option';
-    const statusIcon = isAnswerCorrect ? '✓' : (isAnswerSelected ? '✗' : '');
-    const statusText = isAnswerCorrect ? 'Correct' : (isAnswerSelected ? 'Your Answer' : '');
-    
     if (optionExplanation) {
+      const feedbackClass = isAnswerCorrect ? 'correct-option' : 'incorrect-option';
+      const statusIcon = isAnswerCorrect ? '✓' : (isAnswerSelected ? '✗' : '');
+      const statusText = isAnswerCorrect ? 'Correct' : (isAnswerSelected ? 'Your Answer' : '');
       resultHTML += `<div class="explanation" style="display:block;margin:12px 0"><div class="feedback-option ${feedbackClass}"><div class="feedback-option-header">${answerLetter}. ${statusIcon} ${statusText}</div><div class="feedback-option-text">${optionExplanation}</div></div></div>`;
     }
   });
   
   resultHTML += '</div>';
   fbDiv.innerHTML = resultHTML;
-});
-
-document.getElementById('next').addEventListener('click', ()=>{ render((idx+1) % total); });
-document.getElementById('prev').addEventListener('click', ()=>{ render((idx-1+total) % total); });
-document.getElementById('skip').addEventListener('click', ()=>{ render((idx+1) % total); });
-document.getElementById('gotoBtn').addEventListener('click', ()=>{ const num = parseInt(document.getElementById('gotoInput').value) - 1; if (num >= 0 && num < total) render(num); });
-
-render(0);
+}
 </script>
 </body>
 </html>
