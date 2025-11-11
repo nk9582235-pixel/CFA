@@ -2157,9 +2157,11 @@ input[type="radio"]{width:18px;height:18px;margin-top:3px}
         {% endfor %}
       </div>
 
+      {% if not is_mock %}
       <div class="controls" style="justify-content:flex-end">
         <button type="button" class="btn primary" onclick="submitQuestion({{ loop.index0 }})">Submit Answer</button>
       </div>
+      {% endif %}
 
       <div class="feedback" id="feedback-{{ loop.index0 }}"></div>
     </div>
@@ -2167,14 +2169,21 @@ input[type="radio"]{width:18px;height:18px;margin-top:3px}
   </div>
 
   <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:20px">
+    {% if is_mock %}
     <button type="button" class="btn primary" onclick="showAllAnswers()" id="showAllBtn">📋 Show All Answers</button>
+    <button type="button" class="btn primary" onclick="hideAllAnswers()" id="hideAllBtn" style="display:none;">🙈 Hide All Answers</button>
+    {% else %}
+    <button type="button" class="btn primary" onclick="showAllAnswers()" id="showAllBtn">📋 Show All Answers</button>
+    {% endif %}
     <a href="/menu" class="btn primary" style="text-decoration:none;color:#0f1724">🏠 Back to Menu</a>
   </div>
 </div>
 
 <script>
 const questions = {{ questions | tojson }};
+const isMock = {{ is_mock | tojson }};
 let userAnswers = new Array(questions.length).fill(null);
+let answersShown = false; // Track if answers are currently shown for mocks
 
 // Timer
 let start = Date.now();
@@ -2243,9 +2252,11 @@ function submitQuestion(questionIdx) {
 }
 
 function showAllAnswers() {
-  // Auto-submit all questions to show all answers and feedback
+  if (isMock && answersShown) return; // Prevent re-execution if already shown
+  
   const showAllBtn = document.getElementById('showAllBtn');
-  const wasDisabled = showAllBtn.disabled;
+  const hideAllBtn = document.getElementById('hideAllBtn');
+  
   showAllBtn.disabled = true;
   showAllBtn.textContent = '⏳ Revealing answers...';
   
@@ -2294,6 +2305,7 @@ function showAllAnswers() {
   
   showAllBtn.disabled = false;
   showAllBtn.textContent = '📋 Show All Answers';
+  answersShown = true;
   
   // Auto-check the radio buttons to the correct answers
   questions.forEach((q, idx) => {
@@ -2304,8 +2316,42 @@ function showAllAnswers() {
     }
   });
   
+  // For mock exams, show the Hide button and hide the Show button
+  if (isMock) {
+    showAllBtn.style.display = 'none';
+    hideAllBtn.style.display = 'inline-block';
+  }
+  
   // Scroll to first question
   document.querySelector('.card').scrollIntoView({ behavior: 'smooth' });
+}
+
+function hideAllAnswers() {
+  if (!isMock || !answersShown) return; // Only for mock exams
+  
+  const showAllBtn = document.getElementById('showAllBtn');
+  const hideAllBtn = document.getElementById('hideAllBtn');
+  
+  questions.forEach((q, idx) => {
+    const fbDiv = document.getElementById(`feedback-${idx}`);
+    fbDiv.innerHTML = ''; // Clear all feedback
+  });
+  
+  // Clear all radio selections
+  questions.forEach((q, idx) => {
+    const radioName = `choice-${idx}`;
+    const radios = document.querySelectorAll(`input[name="${radioName}"]`);
+    radios.forEach(radio => radio.checked = false);
+  });
+  
+  answersShown = false;
+  
+  // Show the Show button and hide the Hide button
+  showAllBtn.style.display = 'inline-block';
+  hideAllBtn.style.display = 'none';
+  
+  // Scroll to top
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 </script>
 </body>
@@ -2344,7 +2390,9 @@ def all_questions_file(filename):
     except Exception as e:
         return jsonify({"error": "Failed to load JSON", "detail": str(e)}), 500
 
-    return render_template_string(ALL_TEMPLATE, questions=questions, total=len(questions), data_source=os.path.basename(chosen))
+    # Determine if this is a mock exam
+    is_mock = 'Mock' in os.path.basename(chosen)
+    return render_template_string(ALL_TEMPLATE, questions=questions, total=len(questions), data_source=os.path.basename(chosen), is_mock=is_mock)
 
 
 @app.route("/debug-all-questions/<path:filename>")
