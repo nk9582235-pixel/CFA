@@ -1,0 +1,475 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6394,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 7,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 15: Credit Analysis for Government Issuers",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6394,
+        "subtopic": "Module 15: Credit Analysis for Government Issuers",
+        "question_count": 7,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4477,
+                "question_count": 6,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4694,
+                "question_count": 1,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            ""
+        ],
+        "points_possible": 7.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "e37bcf0d74e47b5f",
+        "ordered_item_ids": [
+            "55089",
+            "51192",
+            "51193",
+            "51194",
+            "51195",
+            "51196",
+            "51197"
+        ],
+        "visible_item_ids": [
+            "55089",
+            "51192",
+            "51193",
+            "51194",
+            "51195",
+            "51196",
+            "51197"
+        ]
+    },
+    "items": [
+        {
+            "id": "55089",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-FI-Simsek-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost likely \u003c/i\u003ea key factor in the credit analysis of revenue-backed non-sovereign\u0026nbsp;government\u0026nbsp;bonds?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c04111ca-349a-42e9-ba10-83a11b6cad0f"
+                },
+                "answerFeedback": {
+                    "714cc83c-de97-428c-9585-3da314abad82": "\u003cp\u003eIncorrect because per capita income is a concern for sovereign bonds or general obligation bonds, not non-sovereign government revenue bonds. Income per capita: More prosperous countries generally have a broader and\u0026nbsp;deeper tax base with which to support debt.\u0026nbsp;The economic analysis of non-sovereign government GO bonds, including US\u0026nbsp;municipal bonds, focuses on employment, per capita income (and changes in it over\u0026nbsp;time), per capita debt (and changes in it over time), the tax base (depth, breadth,\u0026nbsp;diversification, stability, etc.).\u003c/p\u003e",
+                    "946d4528-2564-4f16-b561-18cab51a5a84": "\u003cp\u003eIncorrect because the\u0026nbsp;tax base is a concern for sovereign bonds or general obligation bonds.\u0026nbsp;Income per capita: More prosperous countries generally have a broader and\u0026nbsp;deeper tax base with which to support debt. The economic analysis of non-sovereign government GO bonds, including US\u0026nbsp;municipal bonds, focuses on employment, per capita income (and changes in it over\u0026nbsp;time), per capita debt (and changes in it over time), the tax base (depth, breadth,\u0026nbsp;diversification, stability, etc.).\u003c/p\u003e",
+                    "c04111ca-349a-42e9-ba10-83a11b6cad0f": "\u003cp\u003eCorrect because revenue bonds are issued for specific project financing (e.g., financing for a new sewer system, a toll road, bridge, hospital, a sports arena, etc.). Revenue bonds, which are issued to finance a specific project, have a higher degree of risk than GO bonds because they are dependent on a single source of revenue.\u0026nbsp;A key credit measure for revenue-backed non-sovereign\u0026nbsp;government bonds is the debt-service-coverage (DSC) ratio, which measures how much\u0026nbsp;revenue is available to cover debt payments (principal and interest) after operating\u0026nbsp;expenses.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "714cc83c-de97-428c-9585-3da314abad82",
+                            "itemBody": "\u003cp\u003eA. Per capita income\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "946d4528-2564-4f16-b561-18cab51a5a84",
+                            "itemBody": "\u003cp\u003eB. Breadth of the tax base\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c04111ca-349a-42e9-ba10-83a11b6cad0f",
+                            "itemBody": "\u003cp\u003eC. Debt-service-coverage ratio of the project\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8886,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4694,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51192",
+            "entry": {
+                "title": "CFA2445-R-s03-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. This country exhibits fiscal stability as evidenced by its government budget surplus, high economic growth, and external strength given its current account surplus and freely floating currency.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements best characterizes higher creditworthiness for a non-reserve currency emerging market sovereign government?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d4f8a271-7156-446c-ba4a-655d4c53138f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d4f8a271-7156-446c-ba4a-655d4c53138f",
+                            "itemBody": "A. A country with a government budget surplus, current account surplus with high economic growth, and a freely floating currency.",
+                            "position": 1
+                        },
+                        {
+                            "id": "82478dc1-e9d7-43fe-9bf4-20263ac4b066",
+                            "itemBody": "B. A country with a government budget deficit, a current account deficit with moderate economic growth and a fixed exchange rate regime",
+                            "position": 2
+                        },
+                        {
+                            "id": "760af795-fc8d-4501-a8e7-4dd5e579f619",
+                            "itemBody": "C. A country with a government budget deficit, a current account deficit, low economic growth, and a fixed exchange rate regime.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8213,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4477,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51193",
+            "entry": {
+                "title": "CFA2445-R-s03-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n               \u003cstrong\u003e \u003c/strong\u003e\n            \u003c/p\u003e\n            \u003cdiv id=\"CFA2445-R-s03-T-3-c\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n               \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                  \n                  \u003ctbody\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eA. Low unemployment\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003ePositive\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eB. Low per capita income\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003eNegative\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eC. Low per capita debt\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003ePositive\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eD. Low tax base\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003eNegative\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eE. High dependence on sales tax\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003eNegative\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eF. High post-retirement obligations\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003eNegative\u003c/td\u003e\n                     \u003c/tr\u003e\n                  \u003c/tbody\u003e\n               \u003c/table\u003e\u003c/div\u003e\n            \u003c/div\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA. Positive, as low unemployment indicates a more productive and income-generating population with potential for higher tax revenue.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB. Negative, as low per capita income reduces the potential for tax collection and any potential tax raise.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC. Positive, as low per capita debt suggests a higher debt service ratio and greater capacity for additional debt, if required.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eD. Negative, a low tax base limits the potential for tax collection and significantly weakens the potential for state revenue to meet expenses and service its debt.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eE. Negative, as the more diversified the state’s revenue stream, the higher its credit quality. Overreliance on a single revenue stream creates the potential for volatility in case of any economic disruption.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eF. Negative, as high post-retirement obligations indicate further state indebtedness, reducing its ability to service its debt.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMatch the indicators below to the impact (positive or negative) on the creditworthiness of a general obligation bond issued by a state government:\u003c/p\u003e\u003cul id=\"CFA2445-R-s03-L1\" style=\"list-style-type: disc; margin-bottom: 15px; padding-left: 20px;\"\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ePositive\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eNegative\u003c/p\u003e\n\u003cdiv id=\"CFA2445-R-s03-T-3-b\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n                        \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                           \n                           \u003ctbody\u003e\n                              \u003ctr\u003e\n                                 \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eA. Low unemployment\u003c/td\u003e\n                                 \u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\u0026nbsp;\u003c/td\u003e\n                              \u003c/tr\u003e\n                              \u003ctr\u003e\n                                 \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eB. Low per capita income\u003c/td\u003e\n                                 \u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\u0026nbsp;\u003c/td\u003e\n                              \u003c/tr\u003e\n                              \u003ctr\u003e\n                                 \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eC. Low per capita debt\u003c/td\u003e\n                                 \u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\u0026nbsp;\u003c/td\u003e\n                              \u003c/tr\u003e\n                              \u003ctr\u003e\n                                 \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eD. Low tax base\u003c/td\u003e\n                                 \u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\u0026nbsp;\u003c/td\u003e\n                              \u003c/tr\u003e\n                              \u003ctr\u003e\n                                 \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eE. High dependence on sales tax\u003c/td\u003e\n                                 \u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\u0026nbsp;\u003c/td\u003e\n                              \u003c/tr\u003e\n                              \u003ctr\u003e\n                                 \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eF. High post-retirement obligations\u003c/td\u003e\n                                 \u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\u0026nbsp;\u003c/td\u003e\n                              \u003c/tr\u003e\n                           \u003c/tbody\u003e\n                        \u003c/table\u003e\u003c/div\u003e\n                     \u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n                  \u003c/p\u003e\n               \u003c/li\u003e\n            \u003c/ul\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8213,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4477,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51194",
+            "entry": {
+                "title": "CFA2445-R-s03-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. El Salvador is expected to have the lowest credit rating due to its high long-term external debt-to-GDP ratio. While the Dominican Republic has lower currency reserves than El Salvador, it also has a lower external debt burden and higher economic growth.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased upon the following data, which country is expected to be assigned the lowest sovereign credit rating?\u003c/p\u003e\n\u003cdiv id=\"CFA2445-R-s03-T-4-d\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003e\u0026nbsp;\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"3\" scope=\"col\"\u003e\u003cstrong\u003eCountry\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eEconomic Statistics\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eCosta Rica\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eDominican Republic\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eEl Salvador\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eLong-term external debt/GDP (%)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e39.6\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e35.7\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e57.0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eGDP growth (%)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e2.06\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e5.07\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e2.39\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCurrency reserves (% of GDP)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e13.9\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e8.1\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e12.4\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "48dd2005-e90f-417b-9d18-5db21c648677"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "359c2c2c-375d-4401-9f08-5cbebdc8f132",
+                            "itemBody": "A. Costa Rica",
+                            "position": 1
+                        },
+                        {
+                            "id": "d171b033-5e94-40c5-9ff3-888de1cc1bab",
+                            "itemBody": "B. Dominican Republic",
+                            "position": 2
+                        },
+                        {
+                            "id": "48dd2005-e90f-417b-9d18-5db21c648677",
+                            "itemBody": "C. El Salvador",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8213,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4477,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51195",
+            "entry": {
+                "title": "CFA2445-R-s03-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. GIC is a supranational issuer, as it is sponsored and owned by multiple sovereigns. Its credit rating would be assessed as a supranational based on weighted sovereign ratings of the sponsoring countries and the nature of their implicit support in case of financial distress.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eGulf Investment Corporation (GIC) is an investment company incorporated in Kuwait as a Gulf Shareholding Company. GIC is equally owned by the governments of the six member states of the Gulf Cooperation Council (GCC). GIC was formed to foster economic growth, economic diversification, and capital market development across the GCC region. The credit rating for GIC should be assessed based on its status as a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "39b76b86-106f-4794-828b-aef4ecc7ca18"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c24988b1-9a0e-46d2-9f21-6b91db068e22",
+                            "itemBody": "A. sovereign agency.",
+                            "position": 1
+                        },
+                        {
+                            "id": "39b76b86-106f-4794-828b-aef4ecc7ca18",
+                            "itemBody": "B. supranational issuer.",
+                            "position": 2
+                        },
+                        {
+                            "id": "701945db-f21e-41ea-9d18-92e25b02adbd",
+                            "itemBody": "C. specialized financial intermediary or public bank.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8213,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4477,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51196",
+            "entry": {
+                "title": "CFA2445-R-s03-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. A key factor influencing whether a non-reserve currency sovereign government can meet external debt obligations is external liquidity and solvency, or the ability to generate sufficient, stable foreign currency cash inflows to meet interest and principal payments on external debt. A is incorrect, as capital controls may restrict the ability to generate FX inflows. B is incorrect, as a fixed exchange rate regime may cause instability in the case of currency devaluation.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements best characterizes external strength for a non-reserve currency sovereign country?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1354892d-a2e2-4599-ad74-70abe4ae85ea"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7ff224bd-5351-44e2-ab98-ed15ce1b631f",
+                            "itemBody": "A. The ability to impose and enforce strict capital controls",
+                            "position": 1
+                        },
+                        {
+                            "id": "48a51f69-242e-47fb-a1be-a958a0ce63c5",
+                            "itemBody": "B. The establishment of a fixed exchange rate regime",
+                            "position": 2
+                        },
+                        {
+                            "id": "1354892d-a2e2-4599-ad74-70abe4ae85ea",
+                            "itemBody": "C. The ability to generate sufficient stable foreign currency cash inflows",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8213,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4477,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51197",
+            "entry": {
+                "title": "CFA2445-R-s03-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Since Agora has high external debt to GDP and is very dependent on foreign currency inflows, it should seek to diversify its sources of foreign currency to avoid financial distress in case of disruption in tourism revenue or immigrant repatriation. B is incorrect, as maintaining or increasing foreign currency reserves is important for debt service rather than reducing FX reserves. C is incorrect. While the devaluation of Agora’s exchange rate versus foreign reserve currencies may make it a more affordable tourist destination, it may also reduce the rationale for income repatriation, leading to lower foreign inflows and a reduced ability to service external debt.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAgora is an emerging market economy with restricted capital convertibility (domestic to foreign exchange is not freely convertible). It is significantly dependent on income from the tourism sector and repatriation of income by its citizens living in foreign countries. It also has a high percentage of external debt to GDP. Which of the following is the most important factor that may result in an improvement in its sovereign creditworthiness?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "542d489b-9824-49a9-8f81-8b4bd9d90ef1"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "542d489b-9824-49a9-8f81-8b4bd9d90ef1",
+                            "itemBody": "A. Diversification of its foreign currency inflows",
+                            "position": 1
+                        },
+                        {
+                            "id": "55c81605-2066-4d23-b4d9-ebef02c1ce3f",
+                            "itemBody": "B. Reducing foreign currency reserves as a percentage of GDP",
+                            "position": 2
+                        },
+                        {
+                            "id": "07f8f957-9c00-4bd2-9441-bdcd12df4825",
+                            "itemBody": "C. Devaluation of its exchange rate versus major reserve currencies",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8213,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4477,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

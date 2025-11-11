@@ -1,0 +1,497 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6125,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 7,
+    "hidden_question_count": 0,
+    "points": 1,
+    "points_possible": 7,
+    "correct_questions_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 9: Parametric and Non-Parametric Tests of Independence",
+        "topic_id": 1031,
+        "topic": "CFA-26-02-LI-C: Quantitative Methods",
+        "subtopic_id": 6125,
+        "subtopic": "Module 9: Parametric and Non-Parametric Tests of Independence",
+        "question_count": 7,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 799,
+                "name": "Warehouse Course: Quantitative Methods 26-LI",
+                "code": "Warehouse Course: Quantitative Methods 26-LI",
+                "module_id": 4426,
+                "question_count": 2,
+                "type": "warehouse"
+            },
+            {
+                "id": 838,
+                "name": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "code": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "module_id": 4630,
+                "question_count": 5,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            ""
+        ],
+        "points_possible": 7.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "6f088c9f6e4bef64",
+        "ordered_item_ids": [
+            "54467",
+            "54468",
+            "54469",
+            "54470",
+            "54471",
+            "53111",
+            "53112"
+        ],
+        "visible_item_ids": [
+            "53111",
+            "53112",
+            "54467",
+            "54468",
+            "54469",
+            "54470",
+            "54471"
+        ]
+    },
+    "items": [
+        {
+            "id": "54467",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.09-Quant-Tsependa-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003ebest\u003c/i\u003e referred to as\u0026nbsp;a nonparametric hypothesis test concerning correlation? A test using the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8c59b367-8ffa-464c-a875-4a1d87940851"
+                },
+                "answerFeedback": {
+                    "8c59b367-8ffa-464c-a875-4a1d87940851": "\u003cp\u003eCorrect because when we believe that the population under consideration meaningfully departs from normality, we can use a test based on the \u003cb\u003eSpearman rank correlation coefficient.\u0026nbsp;\u003c/b\u003eThe Spearman rank correlation coefficient is essentially equivalent to the usual correlation coefficient but is calculated on the \u003ci\u003eranks \u003c/i\u003eof the two variables within their respective samples,\u0026nbsp;and thus it is a nonparametric test.\u003c/p\u003e",
+                    "aa7108e1-10fa-41bf-826e-06b56c5247b5": "\u003cp\u003eIncorrect because the parametric pairwise correlation coefficient is often referred to as the \u003cb\u003ePearson correlation\u003c/b\u003e, the \u003cb\u003ebivariate correlation\u003c/b\u003e, or simply the correlation,\u0026nbsp;and thus the test using\u0026nbsp;the bivariate\u0026nbsp;correlation coefficient\u0026nbsp;is a parametric test.\u003c/p\u003e",
+                    "aad041db-acb7-490a-92f1-aa87a19f8bad": "\u003cp\u003eIncorrect because the parametric pairwise correlation coefficient is often referred to as the \u003cb\u003ePearson correlation\u003c/b\u003e, the \u003cb\u003ebivariate correlation\u003c/b\u003e, or simply the correlation,\u0026nbsp;and thus the test using\u0026nbsp;the Pearson correlation coefficient is a parametric test.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "aad041db-acb7-490a-92f1-aa87a19f8bad",
+                            "itemBody": "\u003cp\u003eA. Pearson correlation coefficient\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "aa7108e1-10fa-41bf-826e-06b56c5247b5",
+                            "itemBody": "\u003cp\u003eB. bivariate correlation coefficient\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8c59b367-8ffa-464c-a875-4a1d87940851",
+                            "itemBody": "\u003cp\u003eC. Spearman rank correlation coefficient\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8777,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4630,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54468",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.09-Quant-Chua-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst tabulates the ranks of four paired observations of random variables \u003ci\u003eX\u003c/i\u003e and \u003ci\u003eY\u003c/i\u003e as follows:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 329px; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 103px; max-width: 103px;\"\u003e\u003cstrong\u003eObservation\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 106px; max-width: 106px;\"\u003e\u003cstrong\u003eRank of \u003ci\u003eX\u003c/i\u003e\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 109px; max-width: 109px;\"\u003e\u003cstrong\u003eRank of \u003ci\u003eY\u003c/i\u003e\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 103px; max-width: 103px;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 106px; max-width: 106px;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 109px; max-width: 109px;\"\u003e2\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 103px; max-width: 103px;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 106px; max-width: 106px;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 109px; max-width: 109px;\"\u003e3\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 103px; max-width: 103px;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 106px; max-width: 106px;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 109px; max-width: 109px;\"\u003e4\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 103px; max-width: 103px;\"\u003e4\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 106px; max-width: 106px;\"\u003e4\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 109px; max-width: 109px;\"\u003e1\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe Spearman rank correlation coefficient between \u003ci\u003eX\u003c/i\u003e and \u003ci\u003eY\u003c/i\u003e is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "84a98fc6-85db-4932-aebd-6d6f54a8d29f"
+                },
+                "answerFeedback": {
+                    "1204aac6-8467-4c70-89fe-3d2b561b6025": "\u003cp\u003eIncorrect because instead of using the sum of squared differences in ranks, this answer erroneously uses the sum of unsquared differences in ranks (which, by definition, sums to zero), giving a rank correlation of 1.\u003c/p\u003e",
+                    "44691930-b2ae-4d5b-b6df-bcad53b350a9": "\u003cp\u003eIncorrect because this answer is calculated by erroneously omitting the multiple (of the sum of squared deviations) of 6, giving a rank correlation of 1 – 1/5 = 4/5 = 0.8.\u003c/p\u003e",
+                    "84a98fc6-85db-4932-aebd-6d6f54a8d29f": "\u003cp\u003eCorrect because with \u003ci\u003en\u003c/i\u003e as the sample size, the Spearman rank correlation is given by:\u003c/p\u003e\u003cp\u003e\u003ci\u003er\u003csub\u003es\u003c/sub\u003e\u003c/i\u003e = 1 – (6 ∑\u003ci\u003ed\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e\u003csup\u003e2\u003c/sup\u003e)/(n(n\u003csup\u003e2 \u003c/sup\u003e – 1))\u0026nbsp;= 1 – 6(12)/(4(4\u003csup\u003e2 \u003c/sup\u003e– 1)) = 1 – 6/5 = –1/5 = –0.2, where the sum of squared differences in ranks ∑\u003ci\u003ed\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e\u003csup\u003e2\u003c/sup\u003e = (2­ – 1)\u003csup\u003e2\u003c/sup\u003e + (3 – 2)\u003csup\u003e2\u003c/sup\u003e + (4 – 3)\u003csup\u003e2\u003c/sup\u003e + (1 – 4)\u003csup\u003e2\u003c/sup\u003e = 1 + 1 + 1 + 9 = 12.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "84a98fc6-85db-4932-aebd-6d6f54a8d29f",
+                            "itemBody": "\u003cp\u003eA. –0.2.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "44691930-b2ae-4d5b-b6df-bcad53b350a9",
+                            "itemBody": "\u003cp\u003eB. 0.8.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1204aac6-8467-4c70-89fe-3d2b561b6025",
+                            "itemBody": "\u003cp\u003eC. 1.0.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8777,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4630,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54469",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.09-Quant-Zhang-21",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst builds a contingency table of stocks with two classifications: market capitalization (small, medium, large)\u0026nbsp;and beta (high, medium, low). To test the relationship between size and beta using a test of independence, the number of\u0026nbsp;degrees of freedom for the chi-square test\u0026nbsp;statistic\u0026nbsp;is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6657dbb9-c2be-4621-be69-91d5a5cc4cf8"
+                },
+                "answerFeedback": {
+                    "41a35899-f7e2-42bd-b3fd-60ca8d48b36e": "\u003cp\u003eIncorrect because it wrongly assumes the number of degrees of freedom for the test of independence equals the product of the number of groups in each classification (=\u0026nbsp;\u003ci\u003erc).\u003c/i\u003e\u0026nbsp;For the contingency table in the stem, there are 3 rows and 3 columns as each classification has 3\u0026nbsp;groups. Hence, the number of degrees of freedom is incorrectly calculated as\u0026nbsp;\u003ci\u003erc\u003c/i\u003e\u0026nbsp;=\u0026nbsp;3 × 3 = 9.\u003c/p\u003e",
+                    "6657dbb9-c2be-4621-be69-91d5a5cc4cf8": "\u003cp\u003eCorrect because for a\u0026nbsp;contingency table\u003cb\u003e\u0026nbsp;\u003c/b\u003ethe independence test statistic has (\u003ci\u003er\u003c/i\u003e − 1)(\u003ci\u003ec\u003c/i\u003e − 1) degrees of freedom, where \u003ci\u003er\u003c/i\u003e is the number of rows and \u003ci\u003ec\u003c/i\u003e is the number of columns.\u0026nbsp;For the contingency table in the stem, there are 3 rows and 3 columns as each classification has 3\u0026nbsp;groups. Hence, the number of degrees of freedom is equal to\u0026nbsp;(\u003ci\u003er\u003c/i\u003e − 1)(\u003ci\u003ec\u003c/i\u003e − 1) =\u0026nbsp;(3\u0026nbsp;− 1)(3\u0026nbsp;− 1) = 4.\u003c/p\u003e",
+                    "6bb05521-b4f5-4514-914e-cac133129d4b": "\u003cp\u003eIncorrect because it wrongly assumes the number of degrees of freedom for the test of independence equals the sum of the number\u0026nbsp;of groups in each classification: 3 + 3 = 6.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6657dbb9-c2be-4621-be69-91d5a5cc4cf8",
+                            "itemBody": "\u003cp\u003eA. 4.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6bb05521-b4f5-4514-914e-cac133129d4b",
+                            "itemBody": "\u003cp\u003eB. 6.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "41a35899-f7e2-42bd-b3fd-60ca8d48b36e",
+                            "itemBody": "\u003cp\u003eC. 9.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8777,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4630,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54470",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.01-Quant-Zhang-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFor a hypothesis test concerning\u0026nbsp;the correlation between two normally distributed variables with sample size\u0026nbsp;\u003ci\u003en\u003c/i\u003e\u0026nbsp;each, the number of degrees of freedom is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8b497aa9-ba1c-4bb6-ad63-90b919bf1463"
+                },
+                "answerFeedback": {
+                    "0a4b83b8-02f2-470a-a05b-bf703d658266": "\u003cp\u003eIncorrect\u0026nbsp;because if the two variables are normally distributed, we can test to determine whether the null hypothesis (\u003ci\u003eH\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e: ρ = 0) should be rejected. This test statistic is \u003ci\u003et\u003c/i\u003e-distributed with \u003ci\u003en\u003c/i\u003e − 2 degrees of freedom.\u003c/p\u003e",
+                    "8b497aa9-ba1c-4bb6-ad63-90b919bf1463": "\u003cp\u003eCorrect because if the two variables are normally distributed, we can test to determine whether the null hypothesis (\u003ci\u003eH\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e: ρ = 0) should be rejected. This test statistic is \u003ci\u003et\u003c/i\u003e-distributed with \u003ci\u003en\u003c/i\u003e − 2 degrees of freedom, where ρ represents the population correlation coefficient.\u003c/p\u003e",
+                    "ea899c72-9019-4c1f-ab73-c45f7ea7788f": "\u003cp\u003eIncorrect\u0026nbsp;because if the two variables are normally distributed, we can test to determine whether the null hypothesis (\u003ci\u003eH\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e: ρ = 0) should be rejected. This test statistic is \u003ci\u003et\u003c/i\u003e-distributed with \u003ci\u003en\u003c/i\u003e − 2 degrees of freedom.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8b497aa9-ba1c-4bb6-ad63-90b919bf1463",
+                            "itemBody": "\u003cp\u003eA.\u003ci\u003e n – \u003c/i\u003e2.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0a4b83b8-02f2-470a-a05b-bf703d658266",
+                            "itemBody": "\u003cp\u003eB. n \u003ci\u003e– \u003c/i\u003e1.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ea899c72-9019-4c1f-ab73-c45f7ea7788f",
+                            "itemBody": "\u003cp\u003eC. 2\u003ci\u003en\u0026nbsp;– \u003c/i\u003e2.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8777,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4630,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54471",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.01-Quant-Chua-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn a parametric test of the correlation between\u0026nbsp;two variables with a sample size of\u0026nbsp;51 and sample correlation of 0.6, the\u0026nbsp;\u003ci\u003et\u003c/i\u003e-statistic is\u0026nbsp;\u003ci\u003eclosest\u003c/i\u003e\u0026nbsp;to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c9df1fa8-1bde-4387-a1ec-996a57daa2b1"
+                },
+                "answerFeedback": {
+                    "74a6068e-bd0e-4de3-83c5-9ab99b89f91e": "\u003cp\u003eIncorrect because this is the result if the \u003ci\u003er\u003c/i\u003e\u0026nbsp;in the denominator is not squared, i.e.\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003ci\u003er\u003c/i\u003e√(\u003ci\u003en\u003c/i\u003e – 2) / √(1 – \u003ci\u003er\u003c/i\u003e) = (0.6)√(51\u0026nbsp;– 2) / √(1 – 0.6) = (0.6)(7)/0.63246 = 6.6408 ≈ 6.64.\u003c/p\u003e",
+                    "c9df1fa8-1bde-4387-a1ec-996a57daa2b1": "\u003cp\u003eCorrect because for a \u003cb\u003eParametric Test of a Correlation\u003c/b\u003e\u0026nbsp;if the two variables are normally distributed, we can test to determine whether the null hypothesis (\u003ci\u003eH\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e: ρ = 0) should be rejected using the sample correlation,\u0026nbsp;\u003ci\u003er\u003c/i\u003e.\u0026nbsp;The formula for the\u0026nbsp;\u003ci\u003et\u003c/i\u003e-test is\u003c/p\u003e\u003cp\u003e\u003ci\u003er\u003c/i\u003e√(\u003ci\u003en\u003c/i\u003e – 2) / √(1 – \u003ci\u003er\u003c/i\u003e\u003csup\u003e2\u003c/sup\u003e)\u0026nbsp;= (0.6)√(51 – 2) / √(1 – 0.36) = (0.6)(7)/0.8 = 5.25.\u003c/p\u003e",
+                    "d8675d30-9746-4b5b-acab-77c9bb0424cd": "\u003cp\u003eIncorrect because this is the result if the positions of\u0026nbsp;√(1 – \u003ci\u003er\u003c/i\u003e\u003csup\u003e2\u003c/sup\u003e) and √(\u003ci\u003en\u003c/i\u003e\u0026nbsp;– 2) are swapped, i.e. the formula used is \u003ci\u003er\u003c/i\u003e√(1 – \u003ci\u003er\u003c/i\u003e\u003csup\u003e2\u003c/sup\u003e) / √(\u003ci\u003en\u003c/i\u003e\u0026nbsp;– 2) = (0.6)√(1 – 0.36) / √(51 – 2) = (0.6)(0.8)/7 =\u0026nbsp;0.06857 ≈ 0.07.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d8675d30-9746-4b5b-acab-77c9bb0424cd",
+                            "itemBody": "\u003cp\u003eA. 0.07.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c9df1fa8-1bde-4387-a1ec-996a57daa2b1",
+                            "itemBody": "\u003cp\u003eB. 5.25.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "74a6068e-bd0e-4de3-83c5-9ab99b89f91e",
+                            "itemBody": "\u003cp\u003eC. 6.64.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8777,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4630,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53111",
+            "entry": {
+                "title": "CFA2407-R-s02-Q7",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The calculated test statistic is\u003c/p\u003e\n\u003cdiv id=\"CFA2407-R-s02-E-2-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmsqrt\u003e \u003cmrow\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/mrow\u003e \u003c/msqrt\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsqrt\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsup\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/msqrt\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e0.1452\u003c/mn\u003e \u003cmsqrt\u003e \u003cmrow\u003e \u003cmn\u003e248\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/mrow\u003e \u003c/msqrt\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsqrt\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e0.1452\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/msqrt\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e2.30177.\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBecause the value of \u003cem\u003et\u003c/em\u003e = −2.30177 is outside the bounds of ±1.96, we reject the null hypothesis of no correlation and conclude that evidence is sufficient to indicate that the correlation is different from zero.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eJill Batten is analyzing how the returns on the stock of Stellar Energy Corp. are related with the previous month’s percentage change in the US Consumer Price Index for Energy (CPIENG). Based on 248 observations, she has computed the sample correlation between the Stellar and CPIENG variables to be −0.1452. She also wants to determine whether the sample correlation is significantly different from zero. The critical value for the test statistic at the 0.05 level of significance is approximately 1.96. Batten should conclude that the statistical relationship between Stellar and CPIENG is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ae51d5a5-5fd9-42ff-910f-ee56032bc1fc"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ae51d5a5-5fd9-42ff-910f-ee56032bc1fc",
+                            "itemBody": "A. significant, because the calculated test statistic is outside the bounds of the critical values for the test statistic.",
+                            "position": 1
+                        },
+                        {
+                            "id": "ad36bff4-9c6f-4ea4-afd1-50c36f89fe73",
+                            "itemBody": "B. significant, because the calculated test statistic has a lower absolute value than the critical value for the test statistic.",
+                            "position": 2
+                        },
+                        {
+                            "id": "669c41ec-469d-46bc-bd70-30fb9f032fa0",
+                            "itemBody": "C. insignificant, because the calculated test statistic is outside the bounds of the critical values for the test statistic.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7981,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4426,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53112",
+            "entry": {
+                "title": "CFA2407-R-s03-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The test statistic includes squared differences between the observed and expected values, so the test involves only one side, the right side. B is incorrect because the null hypothesis is that the groups are independent, and C is incorrect because with three levels of groups for the two categorical variables, there are four degrees of freedom.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements is correct regarding the chi-square test of independence?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0db6ba01-263e-4a50-bcfa-2e7f41fb8f61"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0db6ba01-263e-4a50-bcfa-2e7f41fb8f61",
+                            "itemBody": "A. The test has a one-sided rejection region.",
+                            "position": 1
+                        },
+                        {
+                            "id": "20e9e7a6-fe4f-4a91-9fa1-521b7506a19e",
+                            "itemBody": "B. The null hypothesis is that the two groups are dependent.",
+                            "position": 2
+                        },
+                        {
+                            "id": "68afe1b4-221d-4ca8-9cbe-6bf7825d7879",
+                            "itemBody": "C. If there are two categories, each with three levels or groups, there are six degrees of freedom.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7981,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4426,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {},
+    "scored_data": {
+        "points": 1,
+        "points_possible": 7
+    }
+}

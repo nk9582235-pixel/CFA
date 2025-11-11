@@ -1,0 +1,1071 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6405,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 17,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 18: Asset-Backed Security (ABS) Instrument and Market Features",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6405,
+        "subtopic": "Module 18: Asset-Backed Security (ABS) Instrument and Market Features",
+        "question_count": 17,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4480,
+                "question_count": 13,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4697,
+                "question_count": 4,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 17.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "2cf5c98dea0fd4de",
+        "ordered_item_ids": [
+            "55110",
+            "55111",
+            "55112",
+            "55113",
+            "51291",
+            "51292",
+            "51293",
+            "51294",
+            "51295",
+            "51296",
+            "51297",
+            "51298",
+            "51299",
+            "51300",
+            "51301",
+            "51302",
+            "53845"
+        ],
+        "visible_item_ids": [
+            "55110",
+            "55111",
+            "55112",
+            "55113",
+            "51291",
+            "51292",
+            "51293",
+            "51294",
+            "51295",
+            "51296",
+            "51297",
+            "51298",
+            "51299",
+            "51300",
+            "51301",
+            "51302",
+            "53845"
+        ]
+    },
+    "items": [
+        {
+            "id": "55110",
+            "entry": {
+                "title": "ITEM_CFA-L1-09052",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following types of collateralized debt obligations (CDOs) are \u003ci\u003emost likely\u003c/i\u003e backed by asset-backed securities?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c5be03d1-767a-4aca-a2d8-eef16c324d0d"
+                },
+                "answerFeedback": {
+                    "5f2d80f0-af8c-457c-be03-f1835c6139b0": "\u003cp\u003eIncorrect because collateralized debt obligation (CDO) is a generic term used to describe a security backed by a diversified pool of one or more debt obligations: CDOs backed by leveraged bank loans are collateralized loan obligations (CLOs).\u003c/p\u003e",
+                    "6e3eb464-0dde-4b26-b2e4-bbba065bfd82": "\u003cp\u003eIncorrect because collateralized debt obligation (CDO) is a generic term used to describe a security backed by a diversified pool of one or more debt obligations: CDOs backed by corporate and emerging market bonds are collateralized bond obligations (CBOs).\u003c/p\u003e",
+                    "c5be03d1-767a-4aca-a2d8-eef16c324d0d": "\u003cp\u003eCorrect because collateralized debt obligation (CDO) is a generic term used to describe a security backed by a diversified pool of one or more debt obligations: CDOs backed by ABS, RMBS, CMBS, and other CDOs are structured finance CDOs.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c5be03d1-767a-4aca-a2d8-eef16c324d0d",
+                            "itemBody": "\u003cp\u003eA. Structured finance CDOs\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5f2d80f0-af8c-457c-be03-f1835c6139b0",
+                            "itemBody": "\u003cp\u003eB. Collateralized loan obligations\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6e3eb464-0dde-4b26-b2e4-bbba065bfd82",
+                            "itemBody": "\u003cp\u003eC. Collateralized bond obligations\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8892,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4697,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55111",
+            "entry": {
+                "title": "ITEM_CFA-L1-06443",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn the event of default, investors in covered bonds \u003ci\u003emost likely\u003c/i\u003e have recourse against:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "820c6f90-8f86-4184-bfa3-251dd13f1200"
+                },
+                "answerFeedback": {
+                    "01a6249b-e380-4384-b82d-40716066b9a0": "\u003cp\u003eIncorrect because in contrast [to asset-backed securities], in the case of covered bonds, the pool of assets remains on the financial institution's balance sheet. In the event of default, bondholders have recourse against both the financial institution and the cover pool.\u003c/p\u003e",
+                    "820c6f90-8f86-4184-bfa3-251dd13f1200": "\u003cp\u003eCorrect because a\u0026nbsp;covered bond is a debt obligation backed by a segregated pool of assets called a “cover pool”\u0026nbsp;In the event of default, bondholders have recourse against both the financial institution and the cover pool.\u003c/p\u003e",
+                    "a7a68ce6-4f08-4110-a99e-582eab97913f": "\u003cp\u003eIncorrect because in contrast [to asset-backed securities], in the case of covered bonds, the pool of assets remains on the financial institution's balance sheet. In the event of default, bondholders have recourse against both the financial institution and the cover pool.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "01a6249b-e380-4384-b82d-40716066b9a0",
+                            "itemBody": "\u003cp\u003eA. the issuer only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a7a68ce6-4f08-4110-a99e-582eab97913f",
+                            "itemBody": "\u003cp\u003eB. a segregated pool of assets only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "820c6f90-8f86-4184-bfa3-251dd13f1200",
+                            "itemBody": "\u003cp\u003eC. both the issuer and a segregated pool of assets.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8892,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4697,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55112",
+            "entry": {
+                "title": "ITEM_CFA-L1-07279",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA credit card receivable asset-backed security \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a0754ee4-73c7-4bc8-833a-fa8162118b47"
+                },
+                "answerFeedback": {
+                    "4adcbb3f-aadc-4057-99a7-bc2aa595d44f": "\u003cp\u003eIncorrect because a non-amortizing loan does not involve scheduled principal repayments, an ABS backed by non-amortizing loans is not affected by prepayment risk. Credit card receivable ABS are an example of ABS backed by non-amortizing loans.\u003c/p\u003e",
+                    "a0754ee4-73c7-4bc8-833a-fa8162118b47": "\u003cp\u003eCorrect because the collateral of credit card receivable ABS is a pool of non-amortizing loans. These loans have lockout periods during which the cash flows that are paid out to security holders are based only on finance charges collected and fees. When the lockout period is over, the principal that is repaid by the cardholders is no longer reinvested but instead is distributed to investors.\u003c/p\u003e",
+                    "c47db0e1-72cf-42d8-9550-3b16e6f9aa47": "\u003cp\u003eIncorrect because a non-amortizing loan does not involve scheduled principal repayments, an ABS backed by non-amortizing loans is not affected by prepayment risk. Credit card receivable ABS are an example of ABS backed by non-amortizing loans.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c47db0e1-72cf-42d8-9550-3b16e6f9aa47",
+                            "itemBody": "\u003cp\u003eA. faces high prepayment risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4adcbb3f-aadc-4057-99a7-bc2aa595d44f",
+                            "itemBody": "\u003cp\u003eB. uses fully-amortizing loans as collateral.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a0754ee4-73c7-4bc8-833a-fa8162118b47",
+                            "itemBody": "\u003cp\u003eC. reinvests principal repayments during the lockout period.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8892,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4697,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55113",
+            "entry": {
+                "title": "ITEM_CFA-L1-08015",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn a securitization, a senior/subordinated structure is \u003ci\u003emost likely\u003c/i\u003e a form of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "09a0e0db-7877-4ace-a68e-aafa1c1ca97a"
+                },
+                "answerFeedback": {
+                    "09a0e0db-7877-4ace-a68e-aafa1c1ca97a": "\u003cp\u003eCorrect because it is common for securitizations to include a form of internal credit enhancement called subordination, also referred to as credit tranching. In such a structure, there is more than one bond class or tranche, and the bond classes differ as to how they will share any losses resulting from defaults of the borrowers whose loans are in the collateral. The bond classes are classified as senior bond classes or subordinated bond classes—hence, the reason this structure is also referred to as a senior/subordinated structure.\u003c/p\u003e",
+                    "622cc8e0-1f14-4c1c-89eb-69b648adbf79": "\u003cp\u003eIncorrect because the creation of bond classes that possess different expected maturities is referred to as time tranching. Subordination is a form of credit tranching, not time tranching.\u003c/p\u003e",
+                    "8434944f-99f1-4504-9a88-a359fc1d5d52": "\u003cp\u003eIncorrect because prepayment risk is the uncertainty that the cash flows will be different from the scheduled cash flows as set forth in the loan agreement because of the borrowers' ability to alter payments.\u0026nbsp;This risk is related to time tranching, not credit tranching.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "622cc8e0-1f14-4c1c-89eb-69b648adbf79",
+                            "itemBody": "\u003cp\u003eA. time tranching.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "09a0e0db-7877-4ace-a68e-aafa1c1ca97a",
+                            "itemBody": "\u003cp\u003eB. credit tranching.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8434944f-99f1-4504-9a88-a359fc1d5d52",
+                            "itemBody": "\u003cp\u003eC. prepayment risk management.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8892,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4697,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51291",
+            "entry": {
+                "title": "CFA2449-R-s05-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. In a true securitization, the specific pool of assets is removed from the balance sheet and transferred into a separate and independent legal entity that then issues securities backed by these pooled assets. A is incorrect because credit tranching offers credit protection for the more senior bond classes in a securitization not the equity tranche. B is incorrect because covered bonds, not pass-through securities, are the simplest securitization structure, which involves the issuer retaining the underlying assets on its balance sheet.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements regarding securitized products is correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7b6d9f34-ff30-49ca-a588-080232c91ce1"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3e05036a-1038-43a4-9950-0111929e7df2",
+                            "itemBody": "A. Credit tranching offers credit protection for the equity tranche in a securitization.",
+                            "position": 1
+                        },
+                        {
+                            "id": "ca2b22f2-fdb6-48dd-9b29-cff09e80aedc",
+                            "itemBody": "B. Pass-through securities are the simplest securitized structure and involve issuers retaining the underlying assets.",
+                            "position": 2
+                        },
+                        {
+                            "id": "7b6d9f34-ff30-49ca-a588-080232c91ce1",
+                            "itemBody": "C. In a true securitization, the underlying pool of assets is removed from the balance sheet and transferred into an independent legal entity that issues securities backed by these assets.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8225,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4480,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51292",
+            "entry": {
+                "title": "CFA2449-R-s05-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. In the case of bankruptcy covered bond investors, they have dual recourse with the first safeguard being the ringfenced loans in the cover pool that underlie the covered bond transaction. B is incorrect because while investors also have recourse to the unencumbered assets of the issuer, those serve as a subsequent safeguard. C is incorrect because this post-transaction contribution is characteristic of the non-amortizing structure of a CDO (collateralized debt obligation).\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eUpon a bankruptcy affecting a covered bond, the first available safeguards to protect against potential losses are the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "051b5f52-66e7-4315-b9bf-64aa202081a8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "051b5f52-66e7-4315-b9bf-64aa202081a8",
+                            "itemBody": "A. ringfenced loans.",
+                            "position": 1
+                        },
+                        {
+                            "id": "81903aff-e028-40d9-8aeb-ea465e82dbf2",
+                            "itemBody": "B. unencumbered assets of the issuer.",
+                            "position": 2
+                        },
+                        {
+                            "id": "013128ce-4337-4c84-97c9-6d3f87b7d7dd",
+                            "itemBody": "C. assets added by the collateral manager during ramp-up.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8225,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4480,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51293",
+            "entry": {
+                "title": "CFA2449-R-s05-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. All three of the listed reasons explain this comparative result, which has made covered bonds a relatively stable and reliable source of funding over time.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eConsider the following potential reasons to explain why covered bonds usually carry lower credit risks and offer lower yields than otherwise similar ABS:\u003c/p\u003e\u003col id=\"CFA2449-R-s05-L4\" style=\"list-style: decimal; margin-bottom: 15px; padding-left: 20px;\"\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eEligibility criteria\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDynamic cover pool\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eRedemption regime in event of sponsor default\u003c/p\u003e\n               \u003c/li\u003e\n            \u003c/ol\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following factors accurately explain(s) this result?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "673fc806-88dc-4315-9ede-90fc356e2a41"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "efd4059c-4891-4d68-b0b8-4a36db0d3bcc",
+                            "itemBody": "A. Reason 1 only",
+                            "position": 1
+                        },
+                        {
+                            "id": "9dd0eaba-7f25-42e0-9d8a-f70a86606b58",
+                            "itemBody": "B. Reasons 1 and 2 only",
+                            "position": 2
+                        },
+                        {
+                            "id": "673fc806-88dc-4315-9ede-90fc356e2a41",
+                            "itemBody": "C. Reasons 1, 2, and 3",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8225,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4480,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51294",
+            "entry": {
+                "title": "CFA2449-R-s05-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. Overcollateralization, one of the three main types of internal credit enhancements used in securitization transactions, is a provision that the collateral underlying the transaction is larger than the face value of the issued bonds. The extra collateral provides a cushion to cover losses from defaults in the underlying pool of collateral. A and C are incorrect because both are types of external, not internal, credit enhancements.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSelect the internal credit enhancement that seeks to improve the overall credit quality of a risky pool of securitized loans.\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "be76f262-7bbc-42d0-b4c1-f20703f17011"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9bd776be-f1d0-450d-a6f6-5e9f7ddec87b",
+                            "itemBody": "A. Letters of credit",
+                            "position": 1
+                        },
+                        {
+                            "id": "be76f262-7bbc-42d0-b4c1-f20703f17011",
+                            "itemBody": "B. Overcollateralization",
+                            "position": 2
+                        },
+                        {
+                            "id": "d8204f94-a24d-4e25-bae0-18908b4fdb2d",
+                            "itemBody": "C. Cash collateral accounts",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8225,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4480,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51295",
+            "entry": {
+                "title": "CFA2449-R-s05-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. A credit card ABS generates additional fee income. A is incorrect because by removing the credit card debt from the balance sheet, ABS issuance improves capital efficiency and lowers the cost of funding. C is incorrect as the ABS also reduces the cost of default risk from credit card debt.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFor an issuer, which of the following outcomes is \u003cem\u003emost likely \u003c/em\u003eafter\u003cem\u003e \u003c/em\u003eoffering a credit card ABS?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "86e44427-c8a6-46f6-b919-eddde8bc2bee"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8ec91560-8e2e-4053-b5fa-76139dd70907",
+                            "itemBody": "A. Increased cost of funding",
+                            "position": 1
+                        },
+                        {
+                            "id": "86e44427-c8a6-46f6-b919-eddde8bc2bee",
+                            "itemBody": "B. Increased income from fees",
+                            "position": 2
+                        },
+                        {
+                            "id": "d476903d-c486-45e5-a7f3-673a0b93b101",
+                            "itemBody": "C. Increased cost of default risk",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8225,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4480,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51296",
+            "entry": {
+                "title": "CFA2449-R-s05-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. Triggering rapid amortization provisions accelerates and alters principal cash flows. Noteholders will receive their investments earlier, which they can then reallocate to other investments offering more attractive risk/return characteristics. A is incorrect because typically during the revolving period, as credit cards are non-amortizing loans, the security holders receive only payments from the finance charges and fees the lender collects. Returned principal is reinvested in the collateral pool. B is incorrect because when floating-rate cap exceeds the rate cardholders must pay, there is no related binding limit on finance payments.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn action affecting the cash flow received by a credit card ABS holder during its revolving period is the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ff894643-76c4-483d-83fb-ea56af15aed3"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a824e017-ee33-48ab-bf2c-3ae58719beca",
+                            "itemBody": "A. early repayment of principal by cardholders.",
+                            "position": 1
+                        },
+                        {
+                            "id": "ed580823-74fa-4fe0-820a-1f3e8da93acb",
+                            "itemBody": "B. card’s floating-rate cap exceeding the periodic rate.",
+                            "position": 2
+                        },
+                        {
+                            "id": "ff894643-76c4-483d-83fb-ea56af15aed3",
+                            "itemBody": "C. triggering of an ABS rapid amortization provision.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8225,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4480,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51297",
+            "entry": {
+                "title": "CFA2449-R-s05-Q13",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. Default risk minimization adds to investment appeal, and solar loans provide opportunities for overcollateralization. Normally, solar ABS are collateralized by the underlying debt: mortgages, loans, or receivables. These loans can be further collateralized by a lien pledged on the installed systems, on the property itself, or both. A is incorrect as solar loans are typically extended only to prime borrowers who own their homes and have good payment records. C is incorrect as the loans enable property owner purchase of installed systems instead of rental that is transacted through solar leases.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA characteristic of solar loans that makes them attractive to potential solar ABS investors is their:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e86cbd7a-0cf2-4118-9e0b-4665c7fe46e5"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a74e9aff-e1e0-4701-bce8-8c4cd090a1d1",
+                            "itemBody": "A. universal availability to any homeowners.",
+                            "position": 1
+                        },
+                        {
+                            "id": "e86cbd7a-0cf2-4118-9e0b-4665c7fe46e5",
+                            "itemBody": "B. ability to combine multiple liens to mitigate default risk.",
+                            "position": 2
+                        },
+                        {
+                            "id": "3021ba0a-8c71-40ee-987c-99dbaae2b767",
+                            "itemBody": "C. flexibility in allowing either purchase or rental of solar systems.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8225,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4480,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51298",
+            "entry": {
+                "title": "CFA2449-R-s05-Q14",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. Investors in equity tranches take on equity-like risks with the potential to earn returns comparable to equities. Moreover, these residual tranche investors play a key role in whether a CLO is viable or not; the CLO structure has to offer competitive returns for this tranche. Facing these risk/return possibilities puts them in the position of the marginal, price-setting investors. A and C are incorrect because they are promised fixed returns without reference to the underlying performance of the collateral pool. They are also exposed to less risk in having seniority payoff preference in case of default.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich investor tranche plays a key role in determining CLO viability?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "78066af4-a20b-4451-ba29-5ca96d9fc199"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d856b1be-c23d-4c19-84dd-3d4f654f5643",
+                            "itemBody": "A. Senior",
+                            "position": 1
+                        },
+                        {
+                            "id": "78066af4-a20b-4451-ba29-5ca96d9fc199",
+                            "itemBody": "B. Equity",
+                            "position": 2
+                        },
+                        {
+                            "id": "d22c607f-37b5-40a6-872f-b81e31d93435",
+                            "itemBody": "C. Mezzanine",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8225,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4480,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51299",
+            "entry": {
+                "title": "CFA2449-R-s05-Q15",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. After the ramp-up period but before underlying collateral pool loans mature, the collateral manager may replace loans in the portfolio as long as the new asset meets the portfolio selection criteria. A is incorrect because while additional assets are added to the collateral pool during a subsequent ramp-up period, loan replacements can still occur after the ramp-up period. B is incorrect because a typical feature of CLO transactions is that the collateral portfolio is not finalized until after the transaction closes.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe inclusion of assets into a CLO collateral pool is completed:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c7efe1c7-2a4c-40cc-aef6-cb3edc5c0d77"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "22eda38f-71b5-4344-b6e8-13af80ba88d3",
+                            "itemBody": "A. during a subsequent ramp-up period.",
+                            "position": 1
+                        },
+                        {
+                            "id": "861635ff-46c2-4f83-989e-63e23f828e48",
+                            "itemBody": "B. prior to the close of the CLO transaction.",
+                            "position": 2
+                        },
+                        {
+                            "id": "c7efe1c7-2a4c-40cc-aef6-cb3edc5c0d77",
+                            "itemBody": "C. between ramp-up and loan maturity on meeting certain requirements.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8225,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4480,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51300",
+            "entry": {
+                "title": "CFA2449-R-s05-Q16",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. A complicating factor of a default can be the call features embedded in bonds. While exercising call options on debt would replenish the collateral pool, distributing these proceeds to the senior and mezzanine tranches would shrink the size of the collateral pool, further narrowing the earnings potential with junior tranches receiving the least cash flow. A is incorrect because senior tranches are then in danger of not receiving some or any payments, depending on the size of the default. C is incorrect because losses would first be absorbed by junior tranche investors, with remaining losses realized by the other tranches in order of repayment seniority.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhen a CLO transaction experiences a collateral pool default:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "04ece664-dbca-41e2-83d5-2daebfe68a17"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7cbdc667-4c8a-4389-850c-1a10d7107c40",
+                            "itemBody": "A. senior tranche holders are guaranteed full repayment.",
+                            "position": 1
+                        },
+                        {
+                            "id": "04ece664-dbca-41e2-83d5-2daebfe68a17",
+                            "itemBody": "B. call features embedded in bonds likely affect junior tranches.",
+                            "position": 2
+                        },
+                        {
+                            "id": "cce86159-1737-4a8e-9f10-a4a94612bf3b",
+                            "itemBody": "C. losses are distributed proportionately across all the tranches.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8225,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4480,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51301",
+            "entry": {
+                "title": "CFA2449-R-s05-Q17",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. As illustrated by their respective term sheets, all three types of ABS transactions have timing milestones designating due dates for investments (settlement date) and the end of their terms (maturity date). A is incorrect because in contrast to their non-amortizing counterparts, covered bonds are backed by a segregated pool of assets that typically consist of commercial or residential mortgages, for which an LTV cutoff is applicable. B is incorrect because while other ABS often use credit tranching to create bond classes with different borrower default exposures, covered bonds usually consist of one bond class per cover pool.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe feature of a covered bond transaction \u003cem\u003emost likely \u003c/em\u003eshared with both CDOs and non-mortgage ABS is its:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "da541693-f399-449b-97f5-8238e3d7d1e6"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1fdcaa12-5a68-4c00-bf3e-d9bae7342eea",
+                            "itemBody": "A. specified LTV cutoff.",
+                            "position": 1
+                        },
+                        {
+                            "id": "63824735-ae34-4240-87b8-cca27c59acf3",
+                            "itemBody": "B. multiple tranches for the cover pool.",
+                            "position": 2
+                        },
+                        {
+                            "id": "da541693-f399-449b-97f5-8238e3d7d1e6",
+                            "itemBody": "C. distinct maturity and settlement dates.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8225,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4480,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51302",
+            "entry": {
+                "title": "CFA2449-R-s05-Q18",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. A CDO is a leveraged transaction, where equity tranche holders use borrowed funds (i.e., the bond classes issued) to generate a return above the funding cost. A is incorrect because unlike MBS, the pools in a CDO are not static; so, there is a need for a collateral manager that buys and sells debt obligations for and from the CDO’s collateral pool to generate sufficient cash flows to meet the obligations to the CDO bondholders. B is incorrect because the proceeds to pay the CDO bond classes can come from interest payments from collateral assets, maturing of collateral assets, and sale of collateral assets.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements about CDOs is correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4be35aba-dd57-430b-829d-28b8fba3e87b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c203a071-9d84-48ee-8e4a-907b364b6318",
+                            "itemBody": "A. The collateral pools for CDOs are static.",
+                            "position": 1
+                        },
+                        {
+                            "id": "03bfda80-c4ce-482b-8423-8cf04cb261a9",
+                            "itemBody": "B. The proceeds to pay the CDO bond classes can only come from interest payments from collateral assets.",
+                            "position": 2
+                        },
+                        {
+                            "id": "4be35aba-dd57-430b-829d-28b8fba3e87b",
+                            "itemBody": "C. A CDO is a leveraged transaction, where equity tranche holders use borrowed funds to generate a return above the funding cost.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8225,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4480,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53845",
+            "entry": {
+                "title": "ITEM_20170607038",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn a securitization structure, credit tranching allows investors to choose between:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "81bcb153-53e4-4066-9b26-8d1099911a35"
+                },
+                "answerFeedback": {
+                    "64494956-a354-4053-8b80-f12e316d3328": "\u003cp\u003eIncorrect because extension and contraction risks refer to the types of prepayment risks in a securitization structure.\u003c/p\u003e",
+                    "81bcb153-53e4-4066-9b26-8d1099911a35": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Credit tranching allows investors to choose between subordinate and senior bond classes as a means of credit enhancement. The purpose of this structure is to redistribute the credit risk associated with the collateral.\u003c/p\u003e",
+                    "ccb49192-1952-42d6-803d-e7573c14f1a2": "\u003cp\u003eIncorrect because partially and fully amortizing loans refer to two ways in which the loan principal can be repaid.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "64494956-a354-4053-8b80-f12e316d3328",
+                            "itemBody": "\u003cp\u003eA. extension risk and contraction risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "81bcb153-53e4-4066-9b26-8d1099911a35",
+                            "itemBody": "\u003cp\u003eB. subordinated bonds and senior bonds.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ccb49192-1952-42d6-803d-e7573c14f1a2",
+                            "itemBody": "\u003cp\u003eC. partially amortizing loans and fully amortizing loans.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8676,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4480,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

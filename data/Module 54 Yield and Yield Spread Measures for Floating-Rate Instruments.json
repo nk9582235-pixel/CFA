@@ -1,0 +1,928 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6368,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 14,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 8: Yield and Yield Spread Measures for Floating-Rate Instruments",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6368,
+        "subtopic": "Module 8: Yield and Yield Spread Measures for Floating-Rate Instruments",
+        "question_count": 14,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4470,
+                "question_count": 10,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4687,
+                "question_count": 4,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 14.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "1e19b37be0b77422",
+        "ordered_item_ids": [
+            "55042",
+            "55043",
+            "55044",
+            "55045",
+            "51174",
+            "51175",
+            "51176",
+            "51177",
+            "51178",
+            "51179",
+            "51180",
+            "51181",
+            "53813",
+            "53814",
+            "53815"
+        ],
+        "visible_item_ids": [
+            "55042",
+            "55043",
+            "55044",
+            "55045",
+            "51174",
+            "51175",
+            "51176",
+            "51177",
+            "51178",
+            "51179",
+            "51180",
+            "51181",
+            "53813",
+            "53814",
+            "53815"
+        ]
+    },
+    "items": [
+        {
+            "id": "55042",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Kassem-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eMoney market yields are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ec52e7b5-7634-4b68-96cb-21becca23d2e"
+                },
+                "answerFeedback": {
+                    "59533b4b-b660-416b-84fd-9fa3ff803366": "\u003cp\u003eIncorrect because money market instruments having different times-to-maturity have different periodicities for the annual rate.\u003c/p\u003e",
+                    "de32f99d-dc20-4001-9284-59299b3580fd": "\u003cp\u003eIncorrect because bond yields-to-maturity are annualized and compounded. Yield measures in the money market are annualized but not compounded.\u003c/p\u003e",
+                    "ec52e7b5-7634-4b68-96cb-21becca23d2e": "\u003cp\u003eCorrect because the rate of return on a money market instrument is stated on a simple interest basis.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "de32f99d-dc20-4001-9284-59299b3580fd",
+                            "itemBody": "\u003cp\u003eA. annualized and compounded.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "59533b4b-b660-416b-84fd-9fa3ff803366",
+                            "itemBody": "\u003cp\u003eB. stated for a common periodicity.\u0026nbsp;\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ec52e7b5-7634-4b68-96cb-21becca23d2e",
+                            "itemBody": "\u003cp\u003eC. stated on a simple interest basis.\u0026nbsp;\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8872,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4687,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55043",
+            "entry": {
+                "title": "ITEM_CFA-L1-08935",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFor a floating-rate note, the specified yield spread over the reference rate \u003ci\u003ebest \u003c/i\u003edefines the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "914b9172-ccd9-4599-9211-86288bb88059"
+                },
+                "answerFeedback": {
+                    "1871d6af-5835-444a-a932-b9c184ab4dce": "\u003cp\u003eIncorrect because a specified yield spread is added to, or subtracted from, the reference rate which results in the coupon. For example, the floater might reset its interest rate quarterly at the reference rate\u0026nbsp;plus 0.50%. This is not the quoted margin, it is the reference rate plus the quoted margin.\u0026nbsp;\u003c/p\u003e",
+                    "593b542a-3706-4c08-bf64-74a8396859b3": "\u003cp\u003eIncorrect because the required margin is the yield spread over, or under, the reference rate such that the FRN is priced at par value on a rate reset date. Changes in the required margin usually come from changes in the issuer's credit risk.\u0026nbsp;The required margin is not specified but changes based on market forces.\u0026nbsp;\u003c/p\u003e",
+                    "914b9172-ccd9-4599-9211-86288bb88059": "\u003cp\u003eCorrect because this specified yield spread over the reference rate is called the quoted margin on the FRN. The role of the quoted margin is to compensate the investor for the difference in the credit risk of the issuer and that implied by the reference rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1871d6af-5835-444a-a932-b9c184ab4dce",
+                            "itemBody": "\u003cp\u003eA. coupon.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "914b9172-ccd9-4599-9211-86288bb88059",
+                            "itemBody": "\u003cp\u003eB. quoted margin.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "593b542a-3706-4c08-bf64-74a8396859b3",
+                            "itemBody": "\u003cp\u003eC. required margin.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8872,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4687,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55044",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FI-Groenning-18",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA commercial paper has the following characteristics:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eRedemption value\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$5,000,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eInterest earned\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$140,500\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eDays to maturity\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e160\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eFor a 365-day year, the discount rate is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ec6996db-fa54-4a99-a6f2-b8fbed12e6b6"
+                },
+                "answerFeedback": {
+                    "9086e9e7-ce56-4e57-9ad1-cdf6424565b2": "\u003cp\u003eIncorrect because this is the\u0026nbsp;add-on rate. AOR =\u0026nbsp;Year/Days\u0026nbsp;× ((FV – PV)/PV)\u0026nbsp;\u003c/p\u003e\u003cp\u003eAOR\u0026nbsp;=\u0026nbsp;(365/160)\u0026nbsp;× (140,500/(5,000,000 – 140,500))\u0026nbsp;= 0.0660\u0026nbsp;≈ 6.6%.\u0026nbsp;\u003c/p\u003e",
+                    "97c7590f-887f-4125-bab3-ba31750d2fe9": "\u003cp\u003eIncorrect because candidates confuse the redemption value with the present value and thereby add\u0026nbsp;the interest earned to the redemption value as part of the calculation.\u003c/p\u003e\u003cp\u003eDR\u0026nbsp;≠\u0026nbsp;(365/160)\u0026nbsp;× (140,500/(5,000,000 + 140,500)) = 0.0624\u0026nbsp;≈ 6.2%.\u0026nbsp;\u003c/p\u003e",
+                    "ec6996db-fa54-4a99-a6f2-b8fbed12e6b6": "\u003cp\u003eCorrect because\u0026nbsp;the discount rate,\u0026nbsp;DR =\u0026nbsp;(Year/Days)\u0026nbsp;× ((FV – PV)/FV), where Year = number of days in the year, Days = number of days between settlement and maturity, FV = future value paid at maturity/face value of\u0026nbsp;the money market instrument,\u0026nbsp;PV = present value/price of the money market instrument, and \u003ci\u003eFV\u003c/i\u003e\u003ci\u003e – \u003c/i\u003e\u003ci\u003ePV\u003c/i\u003e, is the interest earned.\u003c/p\u003e\u003cp\u003eDR = (365/160)\u0026nbsp;× (140,500/5,000,000) = 0.0641\u0026nbsp;≈ 6.4%.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "97c7590f-887f-4125-bab3-ba31750d2fe9",
+                            "itemBody": "\u003cp\u003eA. 6.2%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ec6996db-fa54-4a99-a6f2-b8fbed12e6b6",
+                            "itemBody": "\u003cp\u003eB. 6.4%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9086e9e7-ce56-4e57-9ad1-cdf6424565b2",
+                            "itemBody": "\u003cp\u003eC. 6.6%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8872,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4687,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55045",
+            "entry": {
+                "title": "ITEM_Copy of CFA-L1-04317   ",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA floating-rate note makes semiannual interest payments and has a coupon rate equal to the six-month market reference rate plus 45 basis points. The interest payments are made in June and December. If the six-month market reference rate was 1.95% in June and 2.25% in December of the same\u0026nbsp;year, the coupon rate paid in December of that year\u0026nbsp;was \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "71b94143-d9d0-44db-b236-5eb2df27700b"
+                },
+                "answerFeedback": {
+                    "2f54fcbf-8205-4364-b5d5-3a945c0a7054": "\u003cp\u003eIncorrect because the 45 bps margin is added to the average of the June and December six-month market reference rates = (2.25% + 1.95%) / 2 + 0.45% = 2.55%.\u003c/p\u003e",
+                    "71b94143-d9d0-44db-b236-5eb2df27700b": "\u003cp\u003eCorrect because the applicable interest rate in December is the six-month market reference rate in June plus the 45 basis point margin = 1.95% + 0.45% = 2.40%.\u003c/p\u003e",
+                    "d1164b25-19cf-4c4a-a655-e763ed39db3b": "\u003cp\u003eIncorrect because the 45 bps margin is added to the market reference rate in December = 2.25% + 0.45% = 2.70%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "71b94143-d9d0-44db-b236-5eb2df27700b",
+                            "itemBody": "\u003cp\u003eA. 2.40%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2f54fcbf-8205-4364-b5d5-3a945c0a7054",
+                            "itemBody": "\u003cp\u003eB. 2.55%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d1164b25-19cf-4c4a-a655-e763ed39db3b",
+                            "itemBody": "\u003cp\u003eC. 2.70%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8872,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4687,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51174",
+            "entry": {
+                "title": "CFA2438-R-s03-Q9",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eUsing the information provided, the periodic \u003cem\u003ePMT\u003c/em\u003e is equal to\u003c/p\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___27\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eQ\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003cmi\u003em\u003c/mi\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e0.055\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.016\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e100\u003c/mn\u003e \u003c/mrow\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.2625.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eUsing the RATE function in Microsoft Excel, Google Sheets, or a financial calculator and using \u003cem\u003ePV\u003c/em\u003e = –101.20, \u003cem\u003eFV\u003c/em\u003e = 100, \u003cem\u003ePMT\u003c/em\u003e =0.275, and \u003cem\u003eN\u003c/em\u003e = 8, we solve for the discount rate per period of 0.11175%. The discount margin can then be estimated by solving for \u003cem\u003eDM\u003c/em\u003e:\u003c/p\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___28\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003c/mrow\u003e \u003cmi\u003em\u003c/mi\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___29\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e0.0011175\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e0.0055\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003c/mrow\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___30\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.9970%.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe estimated discount margin is 99.7 bps.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA two-year floating-rate note issued by a French corporation pays the three-month MRR of –0.55% plus 160 bps. The floater is priced at 101.20 per 100 of par value. Assuming the 30/360 day-count convention and 90 days per period and a flat yield curve, the discount margin for the floater is closest to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "31d3e1d9-ba73-4e25-b57e-2af730237c61"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7120e1a0-a988-4bc8-9575-753f376c0aca",
+                            "itemBody": "A. 25 bps.",
+                            "position": 1
+                        },
+                        {
+                            "id": "0b81e655-60cd-4eae-849e-e098dae6365c",
+                            "itemBody": "B. 50 bps.",
+                            "position": 2
+                        },
+                        {
+                            "id": "31d3e1d9-ba73-4e25-b57e-2af730237c61",
+                            "itemBody": "\u003cp\u003eC. 100 bps\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8223,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4470,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51175",
+            "entry": {
+                "title": "CFA2438-R-s03-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The required margin is the yield spread over or under a reference rate, reflecting the credit risk of an issuer. Changes in the required margin typically come from a change in the issuer’s credit risk.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA and C are incorrect. Both risks, as “top-down” or macroeconomic risks, would be reflected in changes in the MRR, not in a spread such as the required margin.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eChanges in the required margin for a floater usually come from: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "28202870-adcc-47d6-ad97-1524e8d04908"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a9e34e74-aec3-40a4-a21a-79498b0ba489",
+                            "itemBody": "A. shifts in the yield curve.",
+                            "position": 1
+                        },
+                        {
+                            "id": "28202870-adcc-47d6-ad97-1524e8d04908",
+                            "itemBody": "B. changes in credit risk.",
+                            "position": 2
+                        },
+                        {
+                            "id": "d4c8c01d-6b63-4d10-836f-d99bdfc0e725",
+                            "itemBody": "C. increases or decrease in inflation.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8223,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4470,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51176",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA fixed-income portfolio manager is looking to value a one-year US dollar–denominated floating-rate note that has quarterly payments based on 90-day MRR plus 80 bps. Assume the following information:\u003c/p\u003e\u003cul id=\"CFA2438-R-s03-L3\" style=\"list-style-type: none; margin-bottom: 15px; padding-left: 20px;\"\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e90-Day MRR: 2.5%\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eQuoted Margin: 80 bps\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDiscount Margin: 100 bps\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFace Value: USD100\u003c/p\u003e\n               \u003c/li\u003e\n            \u003c/ul\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8223,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4470,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51177",
+            "entry": {
+                "title": "CFA2438-R-s03-Q11",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. This FRN is priced at a discount, because the quoted margin is less than the discount (required) margin.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWithout doing any calculation, this floating-rate note is priced at: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "291138ca-31fd-4eb5-8b48-0eea86854a11"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "20919901-9206-4eaf-8ef4-14dea9e7d22e",
+                            "itemBody": "A. a premium.",
+                            "position": 1
+                        },
+                        {
+                            "id": "291138ca-31fd-4eb5-8b48-0eea86854a11",
+                            "itemBody": "B. a discount.",
+                            "position": 2
+                        },
+                        {
+                            "id": "8811979c-5ed2-437a-88f7-69a37e9410cb",
+                            "itemBody": "C. par.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8223,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4470,
+            "stimulusQuizEntryId": "51176"
+        },
+        {
+            "id": "51178",
+            "entry": {
+                "title": "CFA2438-R-s03-Q12",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The FRN is priced at 99.804 per 100 of par value. Using the information provided, the periodic \u003cem\u003ePMT\u003c/em\u003e is equal to\u003c/p\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___31\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eQ\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003cmi\u003em\u003c/mi\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e0.025\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.008\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e100\u003c/mn\u003e \u003c/mrow\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.825.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe assumed discount rate per period is equal to 0.875%.\u003c/p\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___32\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003c/mrow\u003e \u003cmi\u003em\u003c/mi\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___33\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e0.025\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.01\u003c/mn\u003e \u003c/mrow\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___34\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.00875.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eTo value this FRN, take the present value of each cash flow using the discount rate per period. The FRN is priced at 99.804 per 100 of par value.\u003c/p\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___35\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e0.825\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.00875\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e0.825\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.00875\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e0.825\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.00875\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e100.825\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.00875\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___36\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e99.804.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe price of the FRN is closest to: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "71211b6f-8aa2-4f97-a100-c531b8df318c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "297b7282-4e63-4ac3-ad1a-997989eadc72",
+                            "itemBody": "A. 98.804.",
+                            "position": 1
+                        },
+                        {
+                            "id": "71211b6f-8aa2-4f97-a100-c531b8df318c",
+                            "itemBody": "B. 99.804.",
+                            "position": 2
+                        },
+                        {
+                            "id": "466ff5ed-80e5-47f8-80eb-60713bae3ea8",
+                            "itemBody": "C. 100.804.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8223,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4470,
+            "stimulusQuizEntryId": "51176"
+        },
+        {
+            "id": "51179",
+            "entry": {
+                "title": "CFA2438-R-s03-Q13",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The bond equivalent yield is closest to 0.56%.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe present value of the banker’s certificate of deposit is calculated as follows:\u003c/p\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___37\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmtext\u003eDays\u003c/mtext\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmtext\u003eYear\u003c/mtext\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___38\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e100\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e90\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e360\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e0.0055\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___39\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e99.865.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe bond equivalent yield (AOR using a 365-day year) is calculated to be approximately 0.56%:\u003c/p\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___40\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eO\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmtext\u003eYear\u003c/mtext\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmtext\u003eDays\u003c/mtext\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___41\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eO\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e365\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e90\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e100\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e99.8625\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e99.8625\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___42\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eO\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.0056.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe bond equivalent yield of a 90-day European bank certificate of deposit quoted at a discount rate of 0.55% for a 360-day year is closest to: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "adf6ef77-fd36-42e7-b7ff-2de6aa5c3a6c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2aa03ab6-dada-4c3f-9eb3-831bbf426328",
+                            "itemBody": "A. 0.21%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "42044164-c56a-496e-97df-69b1c2e8e3d0",
+                            "itemBody": "B. 0.24%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "adf6ef77-fd36-42e7-b7ff-2de6aa5c3a6c",
+                            "itemBody": "C. 0.56%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8223,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4470,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51180",
+            "entry": {
+                "title": "CFA2438-R-s03-Q14",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The discount rate is closest to 0.2011.\u003c/p\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___43\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmtext\u003eYear\u003c/mtext\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmtext\u003eDays\u003c/mtext\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___44\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e366\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e91\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e900\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___45\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.2011.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA 91-day UK gilt (Treasury bill) has a face value of GBP2 million, a discount rate of 0.25%, and a price of GBP1.9 million. If a year has 366 days, the discount rate for the UK gilt is closest to: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a05fe409-1cdc-446a-9589-55a8827d01f8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e9d6ddc7-eec3-403d-a889-693ee9a8c763",
+                            "itemBody": "A. 0.1821.",
+                            "position": 1
+                        },
+                        {
+                            "id": "a05fe409-1cdc-446a-9589-55a8827d01f8",
+                            "itemBody": "B. 0.2011.",
+                            "position": 2
+                        },
+                        {
+                            "id": "d614bb0a-e279-47b7-bdf9-14c565ba4bb3",
+                            "itemBody": "C. 0.2134.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8223,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4470,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51181",
+            "entry": {
+                "title": "CFA2438-R-s03-Q15",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFor a money market instrument, the discount rate is calculated as\u003c/p\u003e\n\u003cdiv id=\"CFA2438-R-s03-E___46\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmtext\u003eYear\u003c/mtext\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmtext\u003eDays\u003c/mtext\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe denominator for the second term is \u003cem\u003eFV\u003c/em\u003e, not \u003cem\u003ePV\u003c/em\u003e. In theory, an interest rate is the amount earned divided by the investment amount (\u003cem\u003ePV\u003c/em\u003e), not the maturity value (\u003cem\u003eFV\u003c/em\u003e), which includes the earnings. So long as \u003cem\u003eDR\u003c/em\u003e is greater than zero, \u003cem\u003eFV\u003c/em\u003e will be higher than \u003cem\u003ePV\u003c/em\u003e. Therefore, by design, a money market discount rate \u003cem\u003eunderstates\u003c/em\u003e the rate of return to the investor, and it \u003cem\u003eunderstates\u003c/em\u003e the cost of borrowed funds to the issuer.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eExplain why a money market discount rate greater than zero understates the rate of return to an investor and understates the cost of borrowed funds for the issuer. \u003c/p\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8223,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4470,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53813",
+            "entry": {
+                "title": "ITEM_20170607048",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf the yield to maturity on an annual-pay bond is 7.75%, the semiannual bond-equivalent yield is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e2916a07-d174-4c9e-9b7f-48fec67fe2ba"
+                },
+                "answerFeedback": {
+                    "75bf005b-054b-4d83-9488-d29fc1a6d8df": "\u003cp\u003eIncorrect. The semiannual bond-equivalent yield is incorrectly calculated as [(1 + 0.0775)\u003csup\u003e2\u003c/sup\u003e – 1]/2 = 0.0805 or 8.05%.\u003c/p\u003e",
+                    "e2916a07-d174-4c9e-9b7f-48fec67fe2ba": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The most common periodicity for US dollar-denominated bond yields is two\u0026nbsp;because most bonds in the US dollar market make semiannual coupon payments. An annual rate having a periodicity of two is known as a\u0026nbsp;semiannual bond basis yield,\u0026nbsp;or semiannual bond equivalent yield. Therefore, a semiannual bond basis yield is the yield per semiannual period times two. For this example, we need to take the YTM of the annual coupon bond, which is an effective annual rate, and convert it to a semiannual bond equivalent yield:\u0026nbsp;2 × (1.0775\u003csup\u003e0.5\u003c/sup\u003e – 1) = 0.07605 or 7.61%.\u003c/p\u003e",
+                    "f8312f94-ba21-4a78-b101-35227c92bfb1": "\u003cp\u003eIncorrect. The semiannual bond-equivalent yield is incorrectly calculated as [1 + (0.0775/2)]\u003csup\u003e2\u003c/sup\u003e – 1 = 0.079 or 7.90%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e2916a07-d174-4c9e-9b7f-48fec67fe2ba",
+                            "itemBody": "\u003cp\u003eA. 7.61%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f8312f94-ba21-4a78-b101-35227c92bfb1",
+                            "itemBody": "\u003cp\u003eB. 7.90%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "75bf005b-054b-4d83-9488-d29fc1a6d8df",
+                            "itemBody": "\u003cp\u003eC. 8.05%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8658,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4470,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53814",
+            "entry": {
+                "title": "ITEM_20170607058",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eDMT Corp. issued a five-year floating-rate note (FRN) that pays a quarterly coupon of three-month market reference rate (MRR) plus 125 bps. The FRN is priced at 96 per 100 of par value. Assuming a 30/360-day count convention, evenly spaced periods, and constant three-month market reference rate (MRR) of 5%, the discount margin for the FRN is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f5a48852-a73a-40f1-80ce-93c24b8319dc"
+                },
+                "answerFeedback": {
+                    "122e777b-2929-48c3-a725-9dd4b1929f87": "\u003cp\u003eIncorrect because it uses the quarterly discount rate 1.8025% as the solution, i.e., 180 bps.\u003c/p\u003e",
+                    "587dcc93-7e1d-4539-89cb-3c52464efd58": "\u003cp\u003eIncorrect because it uses the price discount of 100% – 96% = 4%, i.e., 400 bps.\u003c/p\u003e",
+                    "f5a48852-a73a-40f1-80ce-93c24b8319dc": "\u003cp\u003e\u003cstrong\u003eCorrect\u003c/strong\u003e because the interest payment each period per 100 of par value is\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmtext\u003eIndex\u003c/mtext\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmi\u003eQ\u003c/mi\u003e\u003cmi\u003eM\u003c/mi\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmi\u003eF\u003c/mi\u003e\u003cmi\u003eV\u003c/mi\u003e\u003c/mrow\u003e \u003cmi\u003em\u003c/mi\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.05\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.0125\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e100\u003c/mn\u003e\u003c/mrow\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e1.5625\u003c/mn\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e\n\u003cp\u003eWhere index is the market reference rate\u003c/p\u003e\n\u003cp\u003eThe discount margin can be estimated by solving for \u003cem\u003eDM\u003c/em\u003e in the equation\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e96\u003c/mn\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.5625\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e0.05\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmi\u003eD\u003c/mi\u003e\u003cmi\u003eM\u003c/mi\u003e\u003c/mrow\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.5625\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e0.05\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmi\u003eD\u003c/mi\u003e\u003cmi\u003eM\u003c/mi\u003e\u003c/mrow\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmo\u003e⋯\u003c/mo\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.5625\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e0.05\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmi\u003eD\u003c/mi\u003e\u003cmi\u003eM\u003c/mi\u003e\u003c/mrow\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e20\u003c/mn\u003e\u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e\n\u003cp\u003eThe solution for the discount rate, \u003cem\u003er\u003c/em\u003e = (0.05 + \u003cem\u003eDM\u003c/em\u003e)/4 is 1.8025%. Therefore, \u003cem\u003eDM\u003c/em\u003e = 2.21% or 221 bps.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "122e777b-2929-48c3-a725-9dd4b1929f87",
+                            "itemBody": "\u003cp\u003eA. 180 bps.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f5a48852-a73a-40f1-80ce-93c24b8319dc",
+                            "itemBody": "\u003cp\u003eB. 221 bps.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "587dcc93-7e1d-4539-89cb-3c52464efd58",
+                            "itemBody": "\u003cp\u003eC. 400 bps.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8658,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4470,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53815",
+            "entry": {
+                "title": "ITEM_20170607059",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003e\n\u003cp\u003eWhich of the following 90-day money market instruments \u003ci\u003emost likely\u003c/i\u003e offers the investor the highest rate of return?\u003c/p\u003e\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 672px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"8\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; width: 226px;\"\u003e\u003cstrong\u003eMoney Market Instrument\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 121px;\"\u003e\u003cstrong\u003eQuoted Rate\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 150px;\"\u003e\u003cstrong\u003eQuotation Basis\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 157px;\"\u003e\u003cstrong\u003eDay Convention\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle;\"\u003eInstrument A\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle;\"\u003e5.78%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle;\"\u003e360\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle;\"\u003eDiscount rate\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle;\"\u003eInstrument B\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle;\"\u003e5.80%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle;\"\u003e365\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle;\"\u003eDiscount rate\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle;\"\u003eInstrument C\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle;\"\u003e5.96%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle;\"\u003e365\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle;\"\u003eAdd-on rate\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9418cfd4-ed40-46a2-ac2b-a8d4f6eb1470"
+                },
+                "answerFeedback": {
+                    "76eca831-04d3-42ec-a52e-11f5755bda48": "\u003cp\u003eIncorrect. To calculate the bond equivalent yield: \u003cem\u003eFV\u003c/em\u003e = 100, Days = 90, Year = 360, \u003cem\u003eDR\u003c/em\u003e = 0.0578.\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u003cem\u003ePV\u003c/em\u003e = 100 × [1 – (90/360) × 0.0578] = 98.555\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u003cem\u003eAOR\u003c/em\u003e = (365/90) × [(100 – 98.555)/98.555] = 5.946%\u003c/p\u003e",
+                    "8d109f2b-4482-4962-ba45-681b8409b57c": "\u003cp\u003eIncorrect. To calculate the bond equivalent yield: \u003cem\u003eFV\u003c/em\u003e = 100, Days = 90, Year = 365, \u003cem\u003eDR\u003c/em\u003e = 0.058.\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u003cem\u003ePV\u003c/em\u003e = 100 × [1 – (90/365) × 0.058] = 98.570\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u003cem\u003eAOR\u003c/em\u003e = (365/90) × [(100 – 98.570)/98.5705] = 5.883%\u003c/p\u003e",
+                    "9418cfd4-ed40-46a2-ac2b-a8d4f6eb1470": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Instrument C provides a bond equivalent yield of 5.96%, compared with 5.946% for Instrument A and 5.883% for Instrument B.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "76eca831-04d3-42ec-a52e-11f5755bda48",
+                            "itemBody": "\u003cp\u003eA. Instrument A\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8d109f2b-4482-4962-ba45-681b8409b57c",
+                            "itemBody": "\u003cp\u003eB. Instrument B\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9418cfd4-ed40-46a2-ac2b-a8d4f6eb1470",
+                            "itemBody": "\u003cp\u003eC. Instrument C\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8658,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4470,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

@@ -1,0 +1,1049 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6335,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 16,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 2: Fixed-Income Cash Flows and Types",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6335,
+        "subtopic": "Module 2: Fixed-Income Cash Flows and Types",
+        "question_count": 16,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4464,
+                "question_count": 9,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4681,
+                "question_count": 7,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 16.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "4d672d275c892f22",
+        "ordered_item_ids": [
+            "55022",
+            "55023",
+            "55024",
+            "55025",
+            "55026",
+            "55027",
+            "55028",
+            "51120",
+            "51121",
+            "51123",
+            "51124",
+            "51125",
+            "51126",
+            "53808",
+            "53809",
+            "53810",
+            "53811"
+        ],
+        "visible_item_ids": [
+            "55022",
+            "55023",
+            "55024",
+            "55025",
+            "55026",
+            "55027",
+            "55028",
+            "51120",
+            "51121",
+            "51123",
+            "51124",
+            "51125",
+            "51126",
+            "53808",
+            "53809",
+            "53810",
+            "53811"
+        ]
+    },
+    "items": [
+        {
+            "id": "55022",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Kashyap-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eBonds issued in the Eurobond market are\u0026nbsp;\u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ef0b9f84-31fe-465d-9d02-eaafb7a21a2e"
+                },
+                "answerFeedback": {
+                    "93be9f5d-15ac-4c74-af2e-0dd86833ccaa": "\u003cp\u003eIncorrect because Eurobonds are issued outside the jurisdiction of any single country, are usually unsecured, and may be denominated in any currency, including the issuer’s domestic currency.\u003c/p\u003e",
+                    "bc6e5149-b057-41d4-926c-95ca29b90edd": "\u003cp\u003eIncorrect because bonds issued and traded on the Eurobond market are called Eurobonds, and they are named after the currency in which they are denominated. For example, Eurodollar and Euroyen bonds are denominated in US dollars and Japanese yens, respectively. Bonds that are denominated in euros are called euro-denominated Eurobonds.\u003c/p\u003e",
+                    "ef0b9f84-31fe-465d-9d02-eaafb7a21a2e": "\u003cp\u003eCorrect because Eurobonds, domestic, and foreign bonds are now registered bonds for which ownership is recorded by either name or serial number.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bc6e5149-b057-41d4-926c-95ca29b90edd",
+                            "itemBody": "\u003cp\u003eA. denominated only in euros.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ef0b9f84-31fe-465d-9d02-eaafb7a21a2e",
+                            "itemBody": "\u003cp\u003eB. in the form of registered bonds.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "93be9f5d-15ac-4c74-af2e-0dd86833ccaa",
+                            "itemBody": "\u003cp\u003eC. issued within the jurisdiction of the issuer's\u0026nbsp;home country.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8860,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4681,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55023",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Young-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe price of a bond issued in the United Kingdom by a US-based company and denominated in British pounds \u003ci\u003emost likely \u003c/i\u003echanges when:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2c9fd69e-4ec4-4af0-9e3c-aa0ad2f2dece"
+                },
+                "answerFeedback": {
+                    "2c9fd69e-4ec4-4af0-9e3c-aa0ad2f2dece": "\u003cp\u003eCorrect because the currency denomination of a bond’s cash flows influences which country’s interest rates affect a bond’s price. The price of a bond issued by a US-based\u0026nbsp;company and denominated in British pounds\u0026nbsp;will be affected by British interest rates.\u003c/p\u003e",
+                    "b78719e7-4481-45fc-a90f-3582deda61ea": "\u003cp\u003eIncorrect because the currency denomination of a bond’s cash flows influences which country’s interest rates affect a bond’s price. The price of a bond issued by a US-based\u0026nbsp;company and denominated in British pounds will be affected by British\u0026nbsp;interest rates.\u003c/p\u003e",
+                    "f7621a6a-d1db-4478-a446-17e526ee31b9": "\u003cp\u003eIncorrect because the currency denomination of a bond’s cash flows influences which country’s interest rates affect a bond’s price. The price of a bond issued by a US-based\u0026nbsp;company and denominated in British pounds\u0026nbsp;will be affected by British interest rates.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b78719e7-4481-45fc-a90f-3582deda61ea",
+                            "itemBody": "\u003cp\u003eA. US interest rates change only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2c9fd69e-4ec4-4af0-9e3c-aa0ad2f2dece",
+                            "itemBody": "\u003cp\u003eB. British interest rates change only.\u0026nbsp;\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f7621a6a-d1db-4478-a446-17e526ee31b9",
+                            "itemBody": "\u003cp\u003eC. both US and British interest rates change.\u0026nbsp;\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8860,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4681,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55024",
+            "entry": {
+                "title": "ITEM_CFA-L1-08930",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe number of common shares a convertible bond can be converted into is the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5b082fd1-bccb-4278-92eb-b3fc2f77b963"
+                },
+                "answerFeedback": {
+                    "5627f386-37a9-4823-b0df-cf7934359c85": "\u003cp\u003eIncorrect because the conversion price is the price per share at which the convertible bond can be converted into shares.\u003c/p\u003e",
+                    "5b082fd1-bccb-4278-92eb-b3fc2f77b963": "\u003cp\u003eCorrect because the conversion ratio is the number of common shares that each bond can be converted into.\u003c/p\u003e",
+                    "b23553b8-a888-4e16-a92c-6b73dd300f2d": "\u003cp\u003eIncorrect because the conversion value, sometimes called the parity value, is the current share price multiplied by the conversion ratio.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5b082fd1-bccb-4278-92eb-b3fc2f77b963",
+                            "itemBody": "\u003cp\u003eA. conversion ratio.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5627f386-37a9-4823-b0df-cf7934359c85",
+                            "itemBody": "\u003cp\u003eB. conversion price.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b23553b8-a888-4e16-a92c-6b73dd300f2d",
+                            "itemBody": "\u003cp\u003eC. conversion value.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8860,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4681,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55025",
+            "entry": {
+                "title": "ITEM_2019B-FI-04DTL",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA bond that allows the issuer to pay interest in the form of additional amounts of the existing bond issue rather than a cash payment \u003ci\u003ebest \u003c/i\u003edescribes a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4cfd2566-9ba2-4698-aa42-dc0e4e4735fd"
+                },
+                "answerFeedback": {
+                    "4cfd2566-9ba2-4698-aa42-dc0e4e4735fd": "\u003cp\u003eCorrect because a payment-in-kind (PIK) coupon bond typically allows the issuer to pay interest in the form of additional amounts of the bond issue rather than as a cash payment.\u003c/p\u003e",
+                    "a044ecce-7571-485e-ae1b-5ece2a4c610a": "\u003cp\u003eIncorrect because the coupon of a \u003cb\u003estep-up coupon bond\u003c/b\u003e, which may be fixed or floating, increases by specified margins at specified dates. It does not allow the issuer to pay interest in the form of additional amounts of the bond issue in lieu of a cash payment.\u0026nbsp;\u003c/p\u003e",
+                    "b76e3326-1801-4577-9dd9-7dd69383aa1a": "\u003cp\u003eIncorrect because a\u0026nbsp;\u003cb\u003edeferred coupon bond\u003c/b\u003e, sometimes called a \u003cb\u003esplit coupon bond\u003c/b\u003e, pays no coupons for its first few years but then pays a higher coupon than it otherwise normally would for the remainder of its life. It does not allow the issuer to pay interest in the form of additional amounts of the bond issue in lieu of a cash payment.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a044ecce-7571-485e-ae1b-5ece2a4c610a",
+                            "itemBody": "\u003cp\u003eA. step-up coupon bond.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b76e3326-1801-4577-9dd9-7dd69383aa1a",
+                            "itemBody": "\u003cp\u003eB. deferred coupon bond.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4cfd2566-9ba2-4698-aa42-dc0e4e4735fd",
+                            "itemBody": "\u003cp\u003eC. payment-in-kind coupon bond.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8860,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4681,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55026",
+            "entry": {
+                "title": "ITEM_CFA-L1-03214",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll else being equal, reinvestment risk is greatest for:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0ebc6e70-77e2-4ca2-b467-5b86cab2f9fc"
+                },
+                "answerFeedback": {
+                    "0ebc6e70-77e2-4ca2-b467-5b86cab2f9fc": "\u003cp\u003eCorrect because callable bonds present investors with a higher level of reinvestment risk than non-callable bonds; that is, if the bonds are called, bondholders have to reinvest funds in a lower interest rate environment.\u003c/p\u003e",
+                    "a211d0bb-9b47-4a8f-adbb-0b99c8b11a63": "\u003cp\u003eIncorrect because a convertible bond can be viewed as the combination of a straight bond (option-free bond) plus an embedded equity call option. Convertible bonds can also include additional provisions, the most common being a call provision.\u0026nbsp;As there is no call provision applicable in this instance, reinvestment risk will be lower than for an equivalent bond with a call provision: callable bonds present investors with a higher level of reinvestment risk than non-callable bonds; that is, if the bonds are called, bondholders have to reinvest funds in a lower interest rate environment.\u003c/p\u003e",
+                    "d841208a-13f6-461c-88c7-be8800743fc9": "\u003cp\u003eIncorrect because \u003cb\u003ep\u003c/b\u003e\u003cb\u003eutable bonds \u003c/b\u003eare beneficial for the bondholder by guaranteeing a pre-specified selling price at the redemption dates. If interest rates rise after the issue date, thus depressing the bond's price, the bondholders can put the bond back to the issuer and get cash. This cash can be reinvested in bonds that offer higher yields, in line with the higher market interest rates.\u0026nbsp;Thus reinvestment risk is lower for a putable bond than for a callable bond, all else being equal.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d841208a-13f6-461c-88c7-be8800743fc9",
+                            "itemBody": "\u003cp\u003eA. putable bonds.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0ebc6e70-77e2-4ca2-b467-5b86cab2f9fc",
+                            "itemBody": "\u003cp\u003eB. callable bonds.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a211d0bb-9b47-4a8f-adbb-0b99c8b11a63",
+                            "itemBody": "\u003cp\u003eC. non-callable convertible bonds.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8860,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4681,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55027",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FI-Simsek-07",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCompared to an otherwise similar option-free bond, investors require a higher yield for a corporate bond with a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "88c5cfdc-f7c4-4092-a91c-e6f65921f6b5"
+                },
+                "answerFeedback": {
+                    "88c5cfdc-f7c4-4092-a91c-e6f65921f6b5": "\u003cp\u003eCorrect because the call provision is a valuable option for the issuer. Thus, other things equal, investors require a higher yield (and thus pay a lower price) for a callable bond than for an otherwise similar non-callable bond.\u003c/p\u003e",
+                    "cd107532-ab30-4182-ac1c-3f509aefc7e6": "\u003cp\u003eIncorrect because a convertible bond gives the bondholder the right to convert the bond into common shares of the issuing company. Because this option favors the bondholder, convertible bonds offer a lower yield and sell at a higher price than otherwise similar non-convertible bonds.\u003c/p\u003e",
+                    "d1fc4053-8e5d-4e1f-b70f-854b19d6fcb1": "\u003cp\u003eIncorrect because the put provision is a valuable option for the bondholders, therefore\u0026nbsp;putable bonds offer a lower yield (and thus have a higher price) than otherwise similar non-putable bonds.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d1fc4053-8e5d-4e1f-b70f-854b19d6fcb1",
+                            "itemBody": "\u003cp\u003eA. put provision.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "88c5cfdc-f7c4-4092-a91c-e6f65921f6b5",
+                            "itemBody": "\u003cp\u003eB. call provision.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "cd107532-ab30-4182-ac1c-3f509aefc7e6",
+                            "itemBody": "\u003cp\u003eC. conversion provision.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8860,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4681,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55028",
+            "entry": {
+                "title": "ITEM_20170607016",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf an issuer is required to retire a specified portion of the bond’s principal each year, the bond \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "29cbd944-8e78-40a5-b820-a4c465ac7e64"
+                },
+                "answerFeedback": {
+                    "29cbd944-8e78-40a5-b820-a4c465ac7e64": "\u003cp\u003eCorrect\u003cb\u003e.\u0026nbsp;\u003c/b\u003eA sinking fund provision requires retirement of a portion of the bond’s principal every year, rather than retirement of the entire issue at maturity.\u003c/p\u003e",
+                    "5de48dac-01f8-4b36-8b16-d0ad87f95cca": "\u003cp\u003eIncorrect because a bond that is currently callable may be retired by the issuer, but the issuer is not required to do so.\u003c/p\u003e",
+                    "a439edde-6fbf-4795-9d5a-732739a17213": "\u003cp\u003eIncorrect because a step-up note has a coupon rate that increases over time according to a predetermined schedule.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5de48dac-01f8-4b36-8b16-d0ad87f95cca",
+                            "itemBody": "\u003cp\u003eA. is callable.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a439edde-6fbf-4795-9d5a-732739a17213",
+                            "itemBody": "\u003cp\u003eB. is a step-up note.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "29cbd944-8e78-40a5-b820-a4c465ac7e64",
+                            "itemBody": "\u003cp\u003eC. has a sinking fund provision.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8860,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4681,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51120",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDigistrype Logistics (DILO) is a Canadian firm that generates a large portion of revenue in Europe. To finance its planned expansion into digital logistics, DILO is seeking to issue euro-denominated bonds to institutional investors in Germany. A term sheet for the proposed bond issue is presented below.\u003c/p\u003e\n\u003cdiv id=\"CFA2432-R-s04-T-2-c\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"2\" scope=\"row\"\u003e\u003cstrong\u003e1.25% Digistrype Logistics (DILO) Seven-Year Convertible Notes (the “Notes”)\u003c/strong\u003e \u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eTerm Sheet\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eIssuer:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eDigistrype Logistics Inc.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eSettlement Date:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e[T + 3 Business Days]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eMaturity Date:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eSeven Years from Settlement Date unless the Notes are redeemed earlier in a Conversion\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003ePrincipal Amount:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eEUR250 million\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eUnit Size:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eEUR1,000 per bond\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eInterest:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e3.25% fixed coupon to be paid annually starting one Year from the Settlement Date with the final coupon paid at Maturity\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eSeniority:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe Notes are an unsecured obligation of DILO and rank pari passu with other unsecured debt.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eConversion Provision:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eAn Investor has, at its sole option, the right to convert a portion or the full sum of the Principal Amount, or any part outstanding at any time at the Conversion Price during the Conversion Period.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eCurrent Share Price:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eEUR60.00 per DILO common equity share\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eConversion Price:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eEUR75.00 per DILO common equity share\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eConversion Period:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eAny Business Day starting from the Settlement Date through the Maturity Date\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eInstitutional investors have expressed concern about increased credit risk due to Digistrype’s planned expansion outside of its core business. Digistrype’s CFO would prefer to fund the expansion using debt, despite an expectation of lower market interest rates in the next few years. The CFO is also considering removing the conversion feature because of a concern about the possible share dilution if the bonds are converted to equity and a belief that DILO shares are significantly undervalued.\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8209,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4464,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51121",
+            "entry": {
+                "title": "CFA2432-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Digistrype, a Canadian firm, is planning to issue and sell euro-denominated bonds to investors in Germany. Bonds issued by entities that are incorporated in another country are called foreign bonds.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because Eurobonds are cross-border bonds that are not necessarily denominated in euros.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because domestic bonds refer to a domestic \u003cem\u003eissuer\u003c/em\u003e, not investor.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements \u003cem\u003ebest\u003c/em\u003e describes the \u003cem\u003etype\u003c/em\u003e of bonds to be issued given the issuer’s country and where the bonds will be issued and traded?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "90466c36-5842-4a32-9c27-79905ef9d980"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "09d47e2c-14b7-4adb-af9d-fed3f36affdb",
+                            "itemBody": "A. Since Digistrype is planning to issue and sell euro-denominated bonds, its bonds would be considered Eurobonds.",
+                            "position": 1
+                        },
+                        {
+                            "id": "90466c36-5842-4a32-9c27-79905ef9d980",
+                            "itemBody": "B. Since Digistrype is planning to issue and sell euro-denominated bonds to investors in Germany, its bonds would be considered foreign bonds.",
+                            "position": 2
+                        },
+                        {
+                            "id": "bc87b694-b7b1-49ab-a7ca-f08758dff9f5",
+                            "itemBody": "C. Since Digistrype is planning to issue and sell bonds to domestic investors in Germany, its bonds would be considered domestic bonds.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8209,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4464,
+            "stimulusQuizEntryId": "51120"
+        },
+        {
+            "id": "51123",
+            "entry": {
+                "title": "CFA2432-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Principal repayment acceleration, such as full amortization, partial principal amortization, or a sinking fund arrangement, is a way to reduce credit risk. Alternatively, Digistrype could incorporate debt coupon changes linked to financial covenants and/or credit ratings in order to address investor concerns.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because it would delay rather than accelerate repayment.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because a call provision does not address credit concerns.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following modifications could Digistrype incorporate to \u003cem\u003ebest\u003c/em\u003e mitigate the investors’ credit concerns?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "849b7cb8-3b79-4a99-ab41-c0d929eed2be"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4794fa85-4245-497c-a818-ceb943ae3ad2",
+                            "itemBody": "A. Digistrype could consider deferred debt coupons and/or principal payments.",
+                            "position": 1
+                        },
+                        {
+                            "id": "167cd27f-eaf6-4879-883e-dca703288fe0",
+                            "itemBody": "B. Digistrype could consider adding a call provision to its new debt.",
+                            "position": 2
+                        },
+                        {
+                            "id": "849b7cb8-3b79-4a99-ab41-c0d929eed2be",
+                            "itemBody": "C. Digistrype could consider accelerating principal repayment or linking debt coupon changes to financial covenants.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8209,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4464,
+            "stimulusQuizEntryId": "51120"
+        },
+        {
+            "id": "51124",
+            "entry": {
+                "title": "CFA2432-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. A call provision gives Digistrype the right to redeem all or part of the bond prior to maturity if interest rates decline, so new debt could be issued at a lower cost.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because a put provision grants investors, not issuers, the right to redeem debt prior to maturity but would not be exercised if interest rates fell, because a put provision is intended to limit investor’s downside, not upside.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect; a step-up coupon is not a contingency provision.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is the \u003cem\u003ebest\u003c/em\u003e contingency feature Digistrype could add to mitigate its own concerns regarding lower interest rates?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "47137ba4-335d-4bc2-945c-8935ecd1d012"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "47137ba4-335d-4bc2-945c-8935ecd1d012",
+                            "itemBody": "A. Add a call provision to the proposed new debt.",
+                            "position": 1
+                        },
+                        {
+                            "id": "b2afe066-3979-4840-ae44-12367aa52f03",
+                            "itemBody": "B. Add a put provision to the proposed new debt.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2c428bdc-144d-47b8-9408-6fae08dd6e15",
+                            "itemBody": "C. Add a step-up coupon to the proposed new debt.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8209,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4464,
+            "stimulusQuizEntryId": "51120"
+        },
+        {
+            "id": "51125",
+            "entry": {
+                "title": "CFA2432-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The conversion value of a bond equals its par value if the current share price and conversion price are equal.\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2432-R-s04-E-2-\"\u003eConversion ratio = Convertible bond par value/Conversion price.\u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWe know that\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2432-R-s04-E-2-___1\"\u003eConversion value = Conversion ratio × Current share price.\u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eOr, after rearranging,\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2432-R-s04-E-2-___2\"\u003eConversion ratio = Conversion value/Current share price,\u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ewhich can be substituted into the lefthand side of the first equation:\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2432-R-s04-E-2-___3\"\u003eConversion value/Current share price = Convertible bond par value/Conversion price.\u003c/div\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2432-R-s04-E-2-___4\"\u003eIf Current share price = Conversion price, then Conversion value = Convertible bond par value.\u003c/div\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf DILO’s share price on the Frankfurt Stock Exchange were to rise to EUR75, the bond’s conversion value would be:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "46652cce-17a6-4267-bcba-f7f4270b96bd"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "46652cce-17a6-4267-bcba-f7f4270b96bd",
+                            "itemBody": "A. EUR1,000.",
+                            "position": 1
+                        },
+                        {
+                            "id": "9dca3fe2-f675-44b1-9467-760d46cfc916",
+                            "itemBody": "B. EUR15,000.",
+                            "position": 2
+                        },
+                        {
+                            "id": "4514a163-360b-4ae1-87f8-7889d2f7f7fd",
+                            "itemBody": "C. EUR75,000.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8209,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4464,
+            "stimulusQuizEntryId": "51120"
+        },
+        {
+            "id": "51126",
+            "entry": {
+                "title": "CFA2432-R-s04-Q11",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Because the conversion provision is valuable to bondholders, the convertible bond price is higher than the price of an otherwise similar bond without the conversion provision. Similarly, the yield on a convertible bond is lower than the yield on an otherwise similar non-convertible bond. Thus, should the Digistrype team elect to remove the conversion feature, it would likely have to increase the bond’s coupon rate in order to attract investors.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because removal of the conversion feature would decrease, not increase, the bond price.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because removal of the conversion feature would not change the credit risk.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements \u003cem\u003ebest\u003c/em\u003e describes the implications of removing the conversion feature from the bond?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4d4977ff-69ee-4edd-a207-3f28d454c609"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4d4977ff-69ee-4edd-a207-3f28d454c609",
+                            "itemBody": "A. Removal of the conversion feature would likely result in a higher coupon.",
+                            "position": 1
+                        },
+                        {
+                            "id": "a5d2244a-f69f-41b3-82f2-5c1026167248",
+                            "itemBody": "B. Removal of the conversion feature would likely increase the bond price.",
+                            "position": 2
+                        },
+                        {
+                            "id": "bb86b2b4-f15e-4553-b825-e43239636309",
+                            "itemBody": "C. Removal of the conversion feature would likely reduce credit risk.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8209,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4464,
+            "stimulusQuizEntryId": "51120"
+        },
+        {
+            "id": "53808",
+            "entry": {
+                "title": "ITEM_20170607002",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following bonds is \u003ci\u003emost likely \u003c/i\u003eto trade at a lower price relative to an otherwise identical option-free bond?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8cbc1c65-4cc3-4614-a691-79146111c526"
+                },
+                "answerFeedback": {
+                    "8cbc1c65-4cc3-4614-a691-79146111c526": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A callable bond benefits the issuer because it gives the issuer the right to redeem all (or part) of the bonds before the maturity date. Thus, the price of a callable bond will typically be lower than the price of an otherwise identical non-callable bond.\u003c/p\u003e",
+                    "99ae4e3b-1380-46a3-8258-a5232bcdae7a": "\u003cp\u003eIncorrect because a convertible bond also benefits bondholders as it gives them the right to convert the bonds into the issuer’s common stock. All else being equal, the price of a convertible bond will typically be higher than the price of an otherwise identical non-convertible bond.\u003c/p\u003e",
+                    "a996194a-2eb1-4bf7-896b-cce15eecca37": "\u003cp\u003eIncorrect because a putable bond benefits bondholders as it gives them the right to sell the bonds back to the issuer before the maturity date. All else being equal, the price of a putable bond will typically be higher than the price of an otherwise identical non-putable bond.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a996194a-2eb1-4bf7-896b-cce15eecca37",
+                            "itemBody": "\u003cp\u003eA. Putable bond\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8cbc1c65-4cc3-4614-a691-79146111c526",
+                            "itemBody": "\u003cp\u003eB. Callable bond\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "99ae4e3b-1380-46a3-8258-a5232bcdae7a",
+                            "itemBody": "\u003cp\u003eC. Convertible bond\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8652,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4464,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53809",
+            "entry": {
+                "title": "ITEM_20170607017",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eTed Nguyen is an investor domiciled in a country with an original issue discount tax provision. He purchases a zero-coupon bond at a deep discount to par value with the intention of holding the bond until maturity. At maturity, he will \u003ci\u003emost likely\u003c/i\u003e face:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "adf3befd-51a9-45cb-8448-2b0a55f75c0d"
+                },
+                "answerFeedback": {
+                    "adf3befd-51a9-45cb-8448-2b0a55f75c0d": "\u003cp\u003eCorrect because for bonds such as zero-coupon bonds issued at a discount, the tax status of the original issue discount (OID) is an additional tax consideration that varies by country. The OID is the difference between the par value and the original issue price. For example, the United States includes a prorated portion of the discount in interest income every tax year, while Japan does not.\u0026nbsp;Under the OID tax provision, the investor will recognize a prorated portion of the OID as taxable income each year and pay no capital gains tax upon maturity. Investors without an OID tax provision will recognize no taxable income until maturity, upon which they will face capital gains tax on the OID (provided there is capital gains tax in their jurisdiction).\u003c/p\u003e",
+                    "b834e677-3444-4675-8976-7d1fdf836e71": "\u003cp\u003eIncorrect because the investor will face neither a capital gain nor a loss as the original issue discount tax provision allows the investor to increase the cost basis of the bond.\u003c/p\u003e",
+                    "daac1fd9-71c8-4d12-a50a-2013497d46d7": "\u003cp\u003eIncorrect because the investor will face neither a capital gain nor a loss as the original issue discount tax provision allows the investor to increase the cost basis of the bond.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "daac1fd9-71c8-4d12-a50a-2013497d46d7",
+                            "itemBody": "\u003cp\u003eA. a capital loss.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b834e677-3444-4675-8976-7d1fdf836e71",
+                            "itemBody": "\u003cp\u003eB. a capital gain.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "adf3befd-51a9-45cb-8448-2b0a55f75c0d",
+                            "itemBody": "\u003cp\u003eC. neither a capital loss nor gain.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8652,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4464,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53810",
+            "entry": {
+                "title": "ITEM_20170607071",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eA company issues a 10-year bond on 1 January 2014. Its contract requires that the coupon rate increase by specified margins at specified dates as shown in the following table:\u003c/div\u003e\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 400px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"8\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; width: 261px;\"\u003e\u003cstrong\u003eCoupon Payment Date Range\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 130px;\"\u003e\u003cstrong\u003eCoupon Rate\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle;\"\u003e1 Jan 2014–31 Dec 2015\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle;\"\u003e4.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle;\"\u003e1 Jan 2016–31 Dec 2017\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle;\"\u003e5.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle;\"\u003e1 Jan 2018–31 Dec 2019\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle;\"\u003e7.5%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle;\"\u003e1 Jan 2020–31 Dec 2023\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle;\"\u003e9.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003cp\u003e\u003cbr\u003eThis security is \u003ci\u003emost likely\u003c/i\u003e a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ee5a3702-9a24-4709-a48a-54987e66ef20"
+                },
+                "answerFeedback": {
+                    "47c8a858-f69d-4153-918c-8723b95f9185": "\u003cp\u003eIncorrect because \u003cb\u003edeferred coupon bonds\u003c/b\u003e pay no interest for the first few years and have a higher coupon paid later through maturity.\u003c/p\u003e",
+                    "8f91464c-7485-4e64-aefc-f6a9e6c13af7": "\u003cp\u003eIncorrect because a floating rate bond’s coupon rate will change in ways that are not known in advance, depending on future changes in the reference rate. Bonds with variable interest payments are called \u003cb\u003efloating-rate notes\u003c/b\u003e (FRNs).\u003c/p\u003e",
+                    "ee5a3702-9a24-4709-a48a-54987e66ef20": "\u003cp\u003eCorrect because a bond coupon increases by specified margins at specified dates. These bonds are referred to as \u003cb\u003estep-up bonds\u003c/b\u003e and are used to protect investors against rising rates and, in some cases, to provide an incentive for issuers to take advantage of a contingency provision.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8f91464c-7485-4e64-aefc-f6a9e6c13af7",
+                            "itemBody": "\u003cp\u003eA. floating rate bond.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ee5a3702-9a24-4709-a48a-54987e66ef20",
+                            "itemBody": "\u003cp\u003eB. step-up coupon bond.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "47c8a858-f69d-4153-918c-8723b95f9185",
+                            "itemBody": "\u003cp\u003eC. deferred coupon bond.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8652,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4464,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53811",
+            "entry": {
+                "title": "ITEM_20170607099",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhen compared with an option-free bond, which type of bond \u003ci\u003emost likely\u003c/i\u003e offers a higher yield to bondholders?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6366952c-a7b4-4367-be1b-31fa6a7b4fc0"
+                },
+                "answerFeedback": {
+                    "227cff22-9491-42f0-a0a6-96b52fbdbf11": "\u003cp\u003eIncorrect because a convertible bond gives the bondholder the right to convert the bond into the common stock of the issuer. As a result, a convertible bond will offer a lower yield compared with a similar non-convertible bond.\u003c/p\u003e",
+                    "6366952c-a7b4-4367-be1b-31fa6a7b4fc0": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A callable bond gives the issuer the right to buy back the bond prior to maturity. This feature increases the reinvestment risk faced by bondholders, causing them to require a higher yield than for a similar non-callable bond.\u003c/p\u003e",
+                    "7673d1e8-916c-4800-a6d0-ecd52272d5cc": "\u003cp\u003eIncorrect because a putable bond gives the bondholder the right to sell the bonds back to the issuer prior to maturity. As a result, a putable bond will offer a lower yield compared with a similar non-putable bond.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7673d1e8-916c-4800-a6d0-ecd52272d5cc",
+                            "itemBody": "\u003cp\u003eA. Putable\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6366952c-a7b4-4367-be1b-31fa6a7b4fc0",
+                            "itemBody": "\u003cp\u003eB. Callable\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "227cff22-9491-42f0-a0a6-96b52fbdbf11",
+                            "itemBody": "\u003cp\u003eC. Convertible\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8652,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4464,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

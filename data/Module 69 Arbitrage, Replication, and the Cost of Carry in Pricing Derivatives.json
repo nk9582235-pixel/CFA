@@ -1,0 +1,982 @@
+{
+    "user_id": 239466,
+    "quiz_id": 5978,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 15,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 4: Arbitrage, Replication, and the Cost of Carry in Pricing Derivatives",
+        "topic_id": 1037,
+        "topic": "CFA-26-02-LI-C: Derivatives",
+        "subtopic_id": 5978,
+        "subtopic": "Module 4: Arbitrage, Replication, and the Cost of Carry in Pricing Derivatives",
+        "question_count": 15,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 853,
+                "name": "Warehouse Course: Derivatives 26-LI",
+                "code": "Warehouse Course: Derivatives 26-LI",
+                "module_id": 4485,
+                "question_count": 9,
+                "type": "warehouse"
+            },
+            {
+                "id": 844,
+                "name": "Practice Pack Warehouse: Derivatives 26-LI",
+                "code": "Practice Pack Warehouse: Derivatives 26-LI",
+                "module_id": 4738,
+                "question_count": 6,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 15.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "76e1cb39fc0dfe22",
+        "ordered_item_ids": [
+            "56332",
+            "56333",
+            "56334",
+            "56335",
+            "56336",
+            "56337",
+            "53595",
+            "53596",
+            "53597",
+            "53598",
+            "53599",
+            "53600",
+            "53906",
+            "53907",
+            "53908",
+            "53909"
+        ],
+        "visible_item_ids": [
+            "56332",
+            "56333",
+            "56334",
+            "56335",
+            "56336",
+            "56337",
+            "53595",
+            "53596",
+            "53597",
+            "53598",
+            "53599",
+            "53600",
+            "53906",
+            "53907",
+            "53908",
+            "53909"
+        ]
+    },
+    "items": [
+        {
+            "id": "56332",
+            "entry": {
+                "title": "ITEM_CFA-L1-06693",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf the net cost of carry is zero, the forward price of a commodity is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "579d54f6-e980-443d-a49d-389a92d4ef8c"
+                },
+                "answerFeedback": {
+                    "3299c684-1b67-4e6f-9de9-74dcb938d5d6": "\u003cp\u003eIncorrect because when benefits exceed the costs, then the forward transaction would return less than the spot transaction. The formula adjusts the forward price downward by the expression \u003ci\u003e– (γ – θ)(\u003c/i\u003e1\u003ci\u003e + r)\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e to reflect this net loss over the spot transaction. In other words, acquiring the asset in the forward market would be cheaper because it forgoes benefits that exceed the costs. Therefore, forward price of a commodity will be less than the commodity's spot price compounded at the risk-free rate over the life of the contract when net cost of carry, \u003ci\u003e(γ –θ)\u003c/i\u003e, is positive, not when it is zero.\u003c/p\u003e",
+                    "579d54f6-e980-443d-a49d-389a92d4ef8c": "\u003cp\u003eCorrect because the forward price of an asset with benefits and/or costs is the spot price compounded at the risk-free rate over the life of the contract minus the future value of those benefits and costs. That is, \u003ci\u003eF\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e\u003ci\u003e(T) = S\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e\u003ci\u003e(\u003c/i\u003e1\u003ci\u003e+r)\u003csup\u003eT\u003c/sup\u003e – (γ – θ)(\u003c/i\u003e1\u003ci\u003e+r)\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e, where the net cost of carry consists of the benefits, denoted as γ (dividends or interest plus convenience yield), minus the costs, denoted as \u003ci\u003eθ\u003c/i\u003e. When net cost of carry is zero, the term \u003ci\u003e(γ – θ)\u003c/i\u003e is zero, resulting in \u003ci\u003e(γ – θ)(\u003c/i\u003e1\u003ci\u003e+r)\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e being zero. Then, \u003ci\u003eF\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e\u003ci\u003e(T) = S\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e\u003ci\u003e(\u003c/i\u003e1\u003ci\u003e+r)\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e. Hence, the forward price of a commodity is equal to the commodity's spot price compounded at the risk-free rate over the life of the contract when the net cost of carry is zero.\u003c/p\u003e",
+                    "58bc635c-9523-4101-bebf-2f76a8ac5945": "\u003cp\u003eIncorrect because if the costs exceeded the benefits, the forward price would be higher because the forward contract avoids the costs at the expense of the lesser benefits.\u0026nbsp;Then, the term \u003ci\u003e(γ – θ)(\u003c/i\u003e1\u003ci\u003e+r)\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e will be negative, adding to \u003cem\u003eS\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e(1+\u003cem\u003er\u003c/em\u003e)\u003csup\u003e\u003cem\u003eT\u003c/em\u003e\u003c/sup\u003e in absolute terms (due to preceding negative sign), resulting in a forward price that is higher than the spot price compounded at the risk-free rate. Therefore, the forward price of a commodity will be greater than the commodity's spot price compounded at the risk-free rate over the life of the contract when the net cost of carry, \u003ci\u003e(γ – θ)\u003c/i\u003e, is negative, not when it is zero.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3299c684-1b67-4e6f-9de9-74dcb938d5d6",
+                            "itemBody": "\u003cp\u003eA. less than the commodity's spot price compounded at the risk-free rate over the life of the contract.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "579d54f6-e980-443d-a49d-389a92d4ef8c",
+                            "itemBody": "\u003cp\u003eB. equal to the commodity's spot price compounded at the risk-free rate over the life of the contract.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "58bc635c-9523-4101-bebf-2f76a8ac5945",
+                            "itemBody": "\u003cp\u003eC. greater than the commodity's spot price compounded at the risk-free rate over the life of the contract.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8975,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4738,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56333",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Kashyap-15",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA stock with a dividend yield of 3% is trading in the spot market at $50. If the\u0026nbsp;annual risk-free rate is\u0026nbsp;5%, the\u0026nbsp;6-month forward price\u0026nbsp;of the stock is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "cb2f699e-b878-4e74-bb81-a85fd2d9b791"
+                },
+                "answerFeedback": {
+                    "a52f7653-7c87-47ba-a7eb-979141184213": "\u003cp\u003eIncorrect because the risk-free rate and the dividend yield were reversed.\u003c/p\u003e\u003cp\u003e≠ \u003ci\u003eF\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e(\u003ci\u003eT\u003c/i\u003e) = $50e\u003csup\u003e(0.03 – 0.05)0.5\u003c/sup\u003e\u003c/p\u003e\u003cp\u003e= $49.50249 ≈ $49.50.\u003c/p\u003e",
+                    "a649e241-1a4d-4f5c-9c18-ab4b0ef59fc3": "\u003cp\u003eIncorrect because the dividend was excluded from the calculation.\u003c/p\u003e\u003cp\u003e≠ \u003ci\u003eF\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e(\u003ci\u003eT\u003c/i\u003e) = $50e\u003csup\u003e(0.05)0.5\u003c/sup\u003e\u003c/p\u003e\u003cp\u003e= $51.26576 ≈ $51.27.\u003c/p\u003e",
+                    "cb2f699e-b878-4e74-bb81-a85fd2d9b791": "\u003cp\u003eCorrect because the forward price is: \u003ci\u003eF\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e(\u003ci\u003eT\u003c/i\u003e) = \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003ee\u003csup\u003e(\u003ci\u003er\u003c/i\u003e – \u003ci\u003ei\u003c/i\u003e)\u003ci\u003eT\u003c/i\u003e\u003c/sup\u003e\u0026nbsp;where \u003ci\u003er\u003c/i\u003e is the risk-free rate, \u003ci\u003ei\u003c/i\u003e is the dividend yield, and \u003ci\u003eT\u003c/i\u003e is the time period.\u003c/p\u003e\u003cp\u003e\u003ci\u003eF\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e(\u003ci\u003eT\u003c/i\u003e) = $50e\u003csup\u003e(0.05\u0026nbsp;– 0.03)0.5\u003c/sup\u003e\u003c/p\u003e\u003cp\u003e= $50.50251\u0026nbsp;≈ $50.50.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a52f7653-7c87-47ba-a7eb-979141184213",
+                            "itemBody": "\u003cp\u003eA. $49.50.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "cb2f699e-b878-4e74-bb81-a85fd2d9b791",
+                            "itemBody": "\u003cp\u003eB. $50.50.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a649e241-1a4d-4f5c-9c18-ab4b0ef59fc3",
+                            "itemBody": "\u003cp\u003eC. $51.27.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8975,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4738,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56334",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Pirie-12",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll else being equal, the cost of carry on a dividend-paying stock is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "37d79ef0-9168-4241-9af6-bf809cfab1be"
+                },
+                "answerFeedback": {
+                    "37d79ef0-9168-4241-9af6-bf809cfab1be": "\u003cp\u003eCorrect because\u0026nbsp;the benefit of the dividend reduces the costs associated with carrying the stock. The cost of carry is the net of the costs and benefits related to owning an underlying asset for a specific period.\u0026nbsp;The cost of carry is the opportunity cost plus\u0026nbsp;other costs of ownership less benefits of ownership, and stock dividends or bond coupons are examples of cash flow benefits.\u003c/p\u003e",
+                    "be6cb832-1cac-4d93-9ab2-667e6494eb44": "\u003cp\u003eIncorrect because\u0026nbsp;the benefit of the dividend reduces the costs associated with carrying the stock. The cost of carry is the net of the costs and benefits related to owning an underlying asset for a specific period.\u0026nbsp;The cost of carry is the opportunity cost plus\u0026nbsp;other costs of ownership less benefits of ownership, and stock dividends or bond coupons are examples of cash flow benefits.\u003c/p\u003e",
+                    "c60163c6-8234-4651-a8a5-535540133253": "\u003cp\u003eIncorrect because\u0026nbsp;the benefit of the dividend reduces the costs associated with carrying the stock. The cost of carry is the net of the costs and benefits related to owning an underlying asset for a specific period.\u0026nbsp;The cost of carry is the opportunity cost plus\u0026nbsp;other costs of ownership less benefits of ownership, and stock dividends or bond coupons are examples of cash flow benefits.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "37d79ef0-9168-4241-9af6-bf809cfab1be",
+                            "itemBody": "\u003cp\u003eA. lower than the cost of carry on a stock with no dividends.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "be6cb832-1cac-4d93-9ab2-667e6494eb44",
+                            "itemBody": "\u003cp\u003eB. the same as the cost of carry on a stock with no dividends.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c60163c6-8234-4651-a8a5-535540133253",
+                            "itemBody": "\u003cp\u003eC. higher than the cost of carry on a stock with no dividends.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8975,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4738,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56335",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Young-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following asset classes is \u003ci\u003emost likely\u003c/i\u003e to have a convenience yield?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f2d498bf-292f-4b63-a506-c9898db66ed5"
+                },
+                "answerFeedback": {
+                    "8c030a2a-b1f8-4180-a43c-f552afaebf84": "\u003cp\u003eIncorrect because a convenience yield is a non-cash benefit associated with physical assets. In contrast to securities or cash stored electronically, commodities usually involve known costs associated with the storage, insurance, transportation, and potential spoilage (in the case of soft commodities) of these physical assets. A non-cash benefit of holding a physical commodity versus a derivative is known as a \u003cb\u003econvenience yield\u003c/b\u003e.\u003c/p\u003e",
+                    "ca7c3b10-15a5-495e-943e-16a81f52c77d": "\u003cp\u003eIncorrect because a convenience yield is a non-cash benefit associated with physical assets. In contrast to securities or cash stored electronically, commodities usually involve known costs associated with the storage, insurance, transportation, and potential spoilage (in the case of soft commodities) of these physical assets. A non-cash benefit of holding a physical commodity versus a derivative is known as a \u003cb\u003econvenience yield\u003c/b\u003e.\u003c/p\u003e",
+                    "f2d498bf-292f-4b63-a506-c9898db66ed5": "\u003cp\u003eCorrect because convenience yield is a non-cash benefit associated with physical assets. In contrast to securities or cash stored electronically, commodities usually involve known costs associated with the storage, insurance, transportation, and potential spoilage (in the case of soft commodities) of these physical assets. A non-cash benefit of holding a physical commodity versus a derivative is known as a \u003cb\u003econvenience yield\u003c/b\u003e.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f2d498bf-292f-4b63-a506-c9898db66ed5",
+                            "itemBody": "\u003cp\u003eA. Commodities\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ca7c3b10-15a5-495e-943e-16a81f52c77d",
+                            "itemBody": "\u003cp\u003eB. Interest rates\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8c030a2a-b1f8-4180-a43c-f552afaebf84",
+                            "itemBody": "\u003cp\u003eC. Foreign exchange\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8975,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4738,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56336",
+            "entry": {
+                "title": "ITEM_CFA-L1-Kashyap-Clone02ofCFA-L1-05921",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eThe risk-free rate is 3% and the risk premium for an asset is 2%. If an investor creates a perfect hedge by combining the asset with a derivative, the combined position should earn:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4e1504fc-515b-4a97-a08c-5d75affeeadb"
+                },
+                "answerFeedback": {
+                    "1fd94104-50ba-4a21-90c0-e08d6ef49797": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eIncorrect because when a long position in the underlying is combined with a short position in the derivative to produce a perfect hedge, all of the risk is eliminated and the position should earn the risk-free rate\u0026nbsp;not zero percent.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                    "4e1504fc-515b-4a97-a08c-5d75affeeadb": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eCorrect because when a long position in the underlying is combined with a short position in the derivative to produce a perfect hedge, all of the risk is eliminated and the position should earn the risk-free rate which is 3% in this case.\u003c/span\u003e\u003c/p\u003e",
+                    "dbf2ae24-3d29-4034-9b7a-1a1eea68367c": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eIncorrect because when a long position in the underlying is combined with a short position in the derivative to produce a perfect hedge, all of the risk is eliminated and the position should earn the risk-free rate not 5% percent. This incorrect answer choice is equal to the risk-free rate of 3% plus the risk premium of 2%.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1fd94104-50ba-4a21-90c0-e08d6ef49797",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e0%.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4e1504fc-515b-4a97-a08c-5d75affeeadb",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e3%.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "dbf2ae24-3d29-4034-9b7a-1a1eea68367c",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e5%.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8975,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4738,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56337",
+            "entry": {
+                "title": "ITEM_2019BDeriv05HXE13U3",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe rate typically used in derivative pricing models to discount expected payoffs is the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "58d21a9b-1f75-43ae-ae91-48a26d421c94"
+                },
+                "answerFeedback": {
+                    "58d21a9b-1f75-43ae-ae91-48a26d421c94": "\u003cp\u003eCorrect because virtually all derivative pricing models ultimately take this form: discounting the expected payoff of the derivative at the risk-free rate.\u003c/p\u003e",
+                    "96c3a947-52ef-41fc-85ef-5386bdfb76db": "\u003cp\u003eIncorrect because in the process of derivative pricing, there is an intermediate step, which entails altering the probabilities of the outcomes from the true probabilities to something called risk-neutral probabilities.\u0026nbsp;Therefore, risk-neutral probabilities are used to determine the likelihood of expected outcomes and are not the rate used in derivative pricing models to discount expected payoffs.\u0026nbsp;\u003c/p\u003e",
+                    "cbd33ef3-5c73-48e1-9b9a-aaa72f4a6b3b": "\u003cp\u003eIncorrect because because the risk aversion of the investor is not relevant to pricing the derivative, one can just as easily obtain the derivative price by assuming that the investor is risk neutral. That means that the expected payoff of the derivative can be discounted at the risk-free rate rather than the risk-free rate plus a risk premium. Virtually all derivative pricing models ultimately take this form: discounting the expected payoff of the derivative at the risk- free rate. Therefore, the rate used in derivative pricing models to discount expected payoffs is not described as the risk-free rate plus a risk premium.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "58d21a9b-1f75-43ae-ae91-48a26d421c94",
+                            "itemBody": "\u003cp\u003eA. risk-free rate.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "cbd33ef3-5c73-48e1-9b9a-aaa72f4a6b3b",
+                            "itemBody": "\u003cp\u003eB. risk-free rate plus a risk premium.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "96c3a947-52ef-41fc-85ef-5386bdfb76db",
+                            "itemBody": "\u003cp\u003eC. risk-free rate multiplied by the risk-neutral probability.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8975,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4738,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53595",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eRook Point Investors LLC is a firm based in Auckland, New Zealand, that employs trading strategies to exploit mispricing opportunities across markets and geographies. A newly hired financial analyst at Rook Point has been asked to address the following questions.\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8583,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4485,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53596",
+            "entry": {
+                "title": "CFA0921-R-s04-Q1",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e1. C is correct. The short sale of an asset at time \u003cem\u003et\u003c/em\u003e = 0 creates a position that replicates a short forward, as the return is equal to \u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e) – \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\n                  \u003c/em\u003e for both a short forward and the replication strategy.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e2. A is correct. This long cash, short derivative position earns the risk-free rate \u003cem\u003er\u003c/em\u003e as long as the no-arbitrage condition (\u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e) = \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(1 + \u003cem\u003er\u003c/em\u003e)\u003cem\u003e\n                     \u003csup\u003eT\u003c/sup\u003e\n                  \u003c/em\u003e) holds. If the investor instead borrows at the risk-free rate, \u003cem\u003er\u003c/em\u003e, to purchase the underlying asset at \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e, the return is zero.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e3. B is correct. This strategy returns \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\n                  \u003c/em\u003e – \u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e), as in the case of a long forward commitment, with \u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e) = \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(1 + \u003cem\u003er\u003c/em\u003e)\u003cem\u003e\n                     \u003csup\u003eT\u003c/sup\u003e\n                  \u003c/em\u003e under the no-arbitrage condition.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIdentify which of the following activities corresponds to which replication strategy.\u003c/p\u003e\n\u003cdiv id=\"CFA0921-R-s04-Ta\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; width: 100.064%;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 70.4842%;\"\u003e1. Sell the asset short for \u003cem\u003eS\u003c/em\u003e \u003csub\u003e0\u003c/sub\u003e at \u003cem\u003et\u003c/em\u003e = 0, and lend proceeds of the asset sale at the risk-free rate, \u003cem\u003er\u003c/em\u003e. At time \u003cem\u003et\u003c/em\u003e = \u003cem\u003eT\u003c/em\u003e, buy back the asset at the spot price, \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e \u003c/em\u003e.\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 29.384%;\"\u003eA. Risk-free trade replication\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 70.4842%;\"\u003e2. Purchase an asset at today’s spot price (\u003cem\u003eS\u003c/em\u003e \u003csub\u003e0\u003c/sub\u003e), and simultaneously enter into a forward commitment to sell the asset at the forward price, \u003cem\u003eF\u003c/em\u003e \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e).\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 29.384%;\"\u003eB. Long forward replication\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 70.4842%;\"\u003e3. Borrow at the risk-free rate, \u003cem\u003er\u003c/em\u003e, and buy the underlying asset at today’s spot price (\u003cem\u003eS\u003c/em\u003e \u003csub\u003e0\u003c/sub\u003e). At time \u003cem\u003eT\u003c/em\u003e, sell the asset at the spot price (\u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e \u003c/em\u003e). Repay the loan principal and interest (\u003cem\u003eS\u003c/em\u003e \u003csub\u003e0\u003c/sub\u003e(1 + \u003cem\u003er\u003c/em\u003e)\u003cem\u003e \u003csup\u003eT\u003c/sup\u003e \u003c/em\u003e) at time \u003cem\u003eT\u003c/em\u003e.\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 29.384%;\"\u003eC. Short forward replication\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8583,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4485,
+            "stimulusQuizEntryId": "53595"
+        },
+        {
+            "id": "53597",
+            "entry": {
+                "title": "CFA0921-R-s04-Q2",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Recall from Equation 7 that the spot versus forward relationship for a foreign exchange may be shown as follows:\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0921-R-s04-E7\"\u003e\n                  \u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0,\u003c/sub\u003e\n                  \u003cem\u003e\n                     \u003csub\u003ef\u003c/sub\u003e\n                  \u003c/em\u003e\n                  \u003csub\u003e/\u003c/sub\u003e\n                  \u003cem\u003e\n                     \u003csub\u003ed\u003c/sub\u003e\n                  \u003c/em\u003e(\u003cem\u003eT\u003c/em\u003e) = \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0,\u003c/sub\u003e\n                  \u003cem\u003e\n                     \u003csub\u003ef\u003c/sub\u003e\n                  \u003c/em\u003e\n                  \u003csub\u003e/\u003c/sub\u003e\n                  \u003cem\u003e\n                     \u003csub\u003ed\u003c/sub\u003ee\u003c/em\u003e\n                  \u003csup\u003e(\u003c/sup\u003e\n                  \u003cem\u003e\n                     \u003csup\u003er\u003c/sup\u003e\n                     \u003csub\u003ef\u003c/sub\u003e\n                  \u003c/em\u003e\n                  \u003csup\u003e–\u003c/sup\u003e\n                  \u003cem\u003e\n                     \u003csup\u003er\u003c/sup\u003e\n                     \u003csub\u003ed\u003c/sub\u003e\n                  \u003c/em\u003e\n                  \u003csup\u003e)\u003c/sup\u003e\n                  \u003cem\u003e\n                     \u003csup\u003eT\u003c/sup\u003e\n                  \u003c/em\u003e.\u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn the specific case of USD/EUR, the equation may be rewritten as\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0921-R-s04-E\"\u003e\n                  \u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0,\u003c/sub\u003e\n                  \u003cem\u003e\n                     \u003csub\u003eUSD\u003c/sub\u003e\n                  \u003c/em\u003e\n                  \u003csub\u003e/\u003c/sub\u003e\n                  \u003cem\u003e\n                     \u003csub\u003eEUR\u003c/sub\u003e\n                  \u003c/em\u003e(\u003cem\u003eT\u003c/em\u003e) = \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0,\u003c/sub\u003e\n                  \u003cem\u003e\n                     \u003csub\u003eUSD\u003c/sub\u003e\n                  \u003c/em\u003e\n                  \u003csub\u003e/\u003c/sub\u003e\n                  \u003cem\u003e\n                     \u003csub\u003eEUR\u003c/sub\u003ee\u003c/em\u003e\n                  \u003csup\u003e(\u003c/sup\u003e\n                  \u003cem\u003e\n                     \u003csup\u003er\u003c/sup\u003e\n                     \u003csub\u003eUSD\u003c/sub\u003e\n                  \u003c/em\u003e\n                  \u003csup\u003e–\u003c/sup\u003e\n                  \u003cem\u003e\n                     \u003csup\u003er\u003c/sup\u003e\n                     \u003csub\u003eEUR\u003c/sub\u003e\n                  \u003c/em\u003e\n                  \u003csup\u003e)\u003c/sup\u003e\n                  \u003cem\u003e\n                     \u003csup\u003eT\u003c/sup\u003e\n                  \u003c/em\u003e.\u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = 1.192, \u003cem\u003er\u003csub\u003ef\u003c/sub\u003e\n                  \u003c/em\u003e = 0.5%, and \u003cem\u003er\u003csub\u003ed\u003c/sub\u003e\n                  \u003c/em\u003e = –0.25%, the no-arbitrage forward price in one year equals 1.201 (= 1.192\u003cem\u003ee\u003c/em\u003e\n                  \u003csup\u003e(0.005 + 0.0025)\u003c/sup\u003e) and no riskless profit opportunity exists.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe analyst observes a current USD/EUR spot exchange rate of 1.192 (that is, USD1.192 = EUR1), a US dollar risk-free rate of 0.5%, and a euro risk-free rate of –0.25%. Which of the following statements describes the action Rook Point can take today to earn a riskless profit if the one-year USD/EUR forward rate is observed to be 1.201?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "310c7382-5b0d-4e8b-a025-1e43a6200da9"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "310c7382-5b0d-4e8b-a025-1e43a6200da9",
+                            "itemBody": "A. No arbitrage opportunity exists, because the observed one-year USD/EUR FX forward rate equals the no-arbitrage rate capturing the net effect of the domestic versus foreign risk-free rate for one year.",
+                            "position": 1
+                        },
+                        {
+                            "id": "915f262b-0ff0-47f8-979c-4a7c5cfcddfa",
+                            "itemBody": "B. Since the no-arbitrage one-year USD/EUR forward rate is 1.195, Rook Point should borrow in euros and buy US dollars today, simultaneously selling US dollars against euros one year forward.",
+                            "position": 2
+                        },
+                        {
+                            "id": "cfec6d24-f3fe-4498-9eb8-8890d4b4b4c2",
+                            "itemBody": "C. Since the no-arbitrage one-year USD/EUR forward rate is 1.195, Rook Point should borrow in US dollars and buy euros today, simultaneously buying US dollars and selling euros one year forward.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8583,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4485,
+            "stimulusQuizEntryId": "53595"
+        },
+        {
+            "id": "53598",
+            "entry": {
+                "title": "CFA0921-R-s04-Q3",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. First, solve for the no-arbitrage price for three-month, six-month, and one-year platinum futures prices using Equation 5 with PV\u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eI\u003c/em\u003e) = 0:\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0921-R-s04-E___1\"\u003e\n                  \u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e) = [\u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e + PV\u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eC\u003c/em\u003e)](1 + \u003cem\u003er\u003c/em\u003e)\u003cem\u003e\n                     \u003csup\u003eT\u003c/sup\u003e\n                  \u003c/em\u003e,\u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ewith \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = USD1,097, \u003cem\u003er\u003c/em\u003e = 1.5% and \u003cem\u003eC\u003c/em\u003e = USD1 to obtain the following:\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0921-R-s04-E___2\"\u003e\n                  \u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(3m) = [USD1,097 + (1.015)\u003csup\u003e–0.25\u003c/sup\u003e](1.015)\u003csup\u003e0.25\u003c/sup\u003e.\u003c/div\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0921-R-s04-E___3\"\u003eUSD1,102.09 = (USD1,097 + 0.9963)(1.015)\u003csup\u003e0.25\u003c/sup\u003e.\u003c/div\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0921-R-s04-E___4\"\u003e\n                  \u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(6m) = [USD1,097 + (1.015)\u003csup\u003e–0.25\u003c/sup\u003e + (1.015)\u003csup\u003e–0.5\u003c/sup\u003e](1.015)\u003csup\u003e0.5\u003c/sup\u003e.\u003c/div\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0921-R-s04-E___5\"\u003eUSD1,107.20 = (USD1,097 + 0.9963 + 0.9926)(1.015)\u003csup\u003e0.5\u003c/sup\u003e.\u003c/div\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0921-R-s04-E___6\"\u003e\n                  \u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(1y) = [USD1,097 + (1.015)\u003csup\u003e–0.25\u003c/sup\u003e + (1.015)\u003csup\u003e–0.5\u003c/sup\u003e + (1.015)\u003csup\u003e–0.75\u003c/sup\u003e + (1.015)\u003csup\u003e–1\u003c/sup\u003e](1.015).\u003c/div\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0921-R-s04-E___7\"\u003eUSD1,117.48 = (USD1,097 + 0.9963 + 0.9926 + 0.9889 + 0.9852)(1.015).\u003c/div\u003e\n               \u003cdiv id=\"CFA0921-R-s04-Tc\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n                  \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                     \n                     \u003cthead\u003e\n                        \u003ctr\u003e\n                           \u003cth style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003e\u003c/th\u003e\n                           \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \" colspan=\"3\"\u003e\n                              \u003cstrong\u003eNo-Arbitrage Futures Prices\u003c/strong\u003e\n                           \u003c/th\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003cth style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003eSpot\u003c/strong\u003e\n                           \u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003e3-month futures\u003c/strong\u003e\n                           \u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003e6-month futures\u003c/strong\u003e\n                           \u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003eOne-year futures\u003c/strong\u003e\n                           \u003c/th\u003e\n                        \u003c/tr\u003e\n                     \u003c/thead\u003e\n                     \u003ctbody\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003eUSD1,097\u003c/strong\u003e\n                           \u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003eUSD1,102.09\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003eUSD1,107.20\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003eUSD1,117.48\u003c/td\u003e\n                        \u003c/tr\u003e\n                     \u003c/tbody\u003e\n                  \u003c/table\u003e\u003c/div\u003e\n                  \u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003eNote that the current three-month futures price is equal to the no-arbitrage price, while the six-month price is USD0.30 greater than the no-arbitrage price (= USD1,107.50 – USD1,107.20). The one-year price is USD2.48 below the no-arbitrage price (= USD1,115.00 – USD1,117.48). The one-year contract represents the opportunity to earn the \u003cem\u003emaximum\u003c/em\u003e riskless profit by buying the one-year forward commitment and selling the asset short today in the spot market.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003c/span\u003e\u003c/p\u003e\n               \u003c/div\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eRook Point has asked the analyst to review the platinum market for investment opportunities. The analyst incorporates platinum storage and handling costs of USD1 per ounce payable at the end of each quarter and observes a risk-free rate of 1.5%. The following table represents today’s platinum spot and futures prices (per ounce of platinum):\u003c/p\u003e\n\u003cdiv id=\"CFA0921-R-s04-Tb\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: middle; padding: 8px;\" scope=\"col\"\u003e\u003c/th\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" colspan=\"3\" scope=\"col\"\u003e\u003cstrong\u003eObserved Futures Prices\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: top; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eSpot\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003e3-month futures\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003e6-month futures\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eOne-year futures\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eUSD1,097\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD1,102.09\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD1,107.50\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD1,115.00\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following activities \u003cem\u003emaximizes\u003c/em\u003e Rook Point’s riskless profit in the platinum market?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e336d901-ef2f-4d0c-8c1d-96ea20f70ed4"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e336d901-ef2f-4d0c-8c1d-96ea20f70ed4",
+                            "itemBody": "A. Sell platinum short in the spot market, and simultaneously buy the one-year platinum futures contract.",
+                            "position": 1
+                        },
+                        {
+                            "id": "79e241bd-6454-430c-b120-12d435d71012",
+                            "itemBody": "B. Borrow to purchase and store platinum for six months, and simultaneously sell the one-year platinum futures contract.",
+                            "position": 2
+                        },
+                        {
+                            "id": "44e02f53-ffb9-4496-a13c-9a0c5ddf125a",
+                            "itemBody": "C. Sell platinum short in the spot market, and simultaneously buy the three-month futures contract.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8583,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4485,
+            "stimulusQuizEntryId": "53595"
+        },
+        {
+            "id": "53599",
+            "entry": {
+                "title": "CFA0921-R-s04-Q4",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Based on the current \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e of JPY31,000, \u003cem\u003er\u003c/em\u003e = –0.1%, \u003cem\u003ei\u003c/em\u003e = 1.4%, and \u003cem\u003eT\u003c/em\u003e of 0.5, we may solve for the no-arbitrage forward commitment price in six months as JPY30,768.37 (= JPY31,000\u003cem\u003ee\u003c/em\u003e\n                  \u003csup\u003e[(–0.001 – 0.014) × 0.5]\u003c/sup\u003e). The observed six-month futures price exceeds the no-arbitrage price by JPY464.63 (= JPY31,233 – JPY30,768.37). In order to capitalize on this price discrepancy, Rook Point should borrow at the risk-free rate, \u003cem\u003er\u003c/em\u003e, today to purchase the index at the spot price and simultaneously sell the futures contract, using the long cash position to settle the futures at time \u003cem\u003eT\u003c/em\u003e.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eRook Point is evaluating Japanese equities with a focus on the Nikkei 225 index. An analyst observes a spot index price of JPY31,000, a six-month Japanese yen risk-free rate of –0.1%, and an index dividend yield of 1.4%. Which of the following statements most accurately describes both the arbitrage opportunity and the action Rook Point should take today to earn a riskless profit if the current six-month index futures price is JPY31,233?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0646d6d4-14a6-42fa-bdf2-03f74836a462"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3dfd9fa1-5af1-4531-91e1-6f95e3df1b95",
+                            "itemBody": "A. No arbitrage opportunity exists, because the Nikkei 225 six-month forward commitment price incorporates the net effect of all costs and benefits associated with owning the underlying asset for six months.",
+                            "position": 1
+                        },
+                        {
+                            "id": "b7778bc6-1704-40e5-88d2-572ef86d2634",
+                            "itemBody": "B. The current Nikkei 225 six-month forward commitment price is above the no-arbitrage price, so Rook Point should sell the futures contract and sell the index short today, investing the proceeds at the risk-free rate.",
+                            "position": 2
+                        },
+                        {
+                            "id": "0646d6d4-14a6-42fa-bdf2-03f74836a462",
+                            "itemBody": "C. The current Nikkei 225 six-month forward commitment price is above the no-arbitrage price, so Rook Point should borrow at the risk-free rate to purchase the spot index at the spot price and simultaneously sell the futures contract.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8583,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4485,
+            "stimulusQuizEntryId": "53595"
+        },
+        {
+            "id": "53600",
+            "entry": {
+                "title": "CFA0921-R-s04-Q5",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The copper market is likely exhibiting the effects of the convenience yield benefit. If we assume that storage costs are positive (along with interest rates), the cost-of-carry component that would cause the spot price to be above the futures price is the convenience yield. Specifically, the convenience yield benefit would need to be greater than the combination of interest and storage costs.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn reviewing spot and forward commitment price relationships in commodity markets, the analyst finds that copper futures prices are below spot prices although the risk-free interest rate is positive. Which of the following statements provides the most likely explanation for this relationship?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a51e1591-8302-4ce5-b1e9-377f03d45208"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d6810c25-ecb6-4d87-a50d-5ee76bd8f9b6",
+                            "itemBody": "A. The cost of storage and other carry costs are greater than the risk-free rate, causing the spot price to rise above the futures price.",
+                            "position": 1
+                        },
+                        {
+                            "id": "bdd853ac-bc76-46b4-9ed8-125e682c5768",
+                            "itemBody": "B. The cost of storage and other carry costs are below the risk-free rate, causing the spot price to rise above the futures price.",
+                            "position": 2
+                        },
+                        {
+                            "id": "a51e1591-8302-4ce5-b1e9-377f03d45208",
+                            "itemBody": "C. The convenience yield benefit is greater than the risk-free interest rate plus storage and other costs.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8583,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4485,
+            "stimulusQuizEntryId": "53595"
+        },
+        {
+            "id": "53906",
+            "entry": {
+                "title": "ITEM_20170601004",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eConvenience yield is \u003ci\u003ebest\u003c/i\u003e described as a nonmonetary benefit of holding a(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fe51d99b-3b77-437a-9dbd-f478819fa9ec"
+                },
+                "answerFeedback": {
+                    "726bb078-9a74-444c-818e-551a18d8a28d": "\u003cp\u003eIncorrect because convenience yield is a benefit for the holder of the asset and not the holder of a forward contract.\u003c/p\u003e",
+                    "959807a3-3e1d-43db-a086-7d4d4439528a": "\u003cp\u003eIncorrect because convenience yield is a benefit for the holder of the asset and not the holder of an option contract.\u003c/p\u003e",
+                    "fe51d99b-3b77-437a-9dbd-f478819fa9ec": "\u003cp\u003eCorrect because convenience yield represents the nonmonetary advantage of holding the asset.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fe51d99b-3b77-437a-9dbd-f478819fa9ec",
+                            "itemBody": "\u003cp\u003eA. asset.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "959807a3-3e1d-43db-a086-7d4d4439528a",
+                            "itemBody": "\u003cp\u003eB. option contract.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "726bb078-9a74-444c-818e-551a18d8a28d",
+                            "itemBody": "\u003cp\u003eC. forward contract.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8688,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4485,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53907",
+            "entry": {
+                "title": "ITEM_20170601005",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFor a forward contract with a value of zero, a situation where the spot price is above the forward price is \u003ci\u003ebest\u003c/i\u003e explained by high:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3608efdf-3d4b-4117-921a-4decea8ccde1"
+                },
+                "answerFeedback": {
+                    "13adfaf6-7273-46df-8ac2-c76f13d5d037": "\u003cp\u003eIncorrect. High storage costs make the forward contract more valuable. Thus the forward rate is above the spot rate.\u003c/p\u003e",
+                    "3608efdf-3d4b-4117-921a-4decea8ccde1": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e If the convenience yield is high, holding the underlying confers large benefits, thus the spot price can exceed the forward price for a forward contract with a value of zero. Based on the formula\u003c/p\u003e\u003cp\u003e\u003cem\u003eV\u003csub\u003et\u003c/sub\u003e\u003c/em\u003e(\u003cem\u003eT\u003c/em\u003e) = \u003cem\u003eS\u003csub\u003et\u003c/sub\u003e\u003c/em\u003e – (γ – θ)(1 + \u003cem\u003er\u003c/em\u003e)\u003cem\u003e\u003csup\u003et\u003c/sup\u003e\u003c/em\u003e – \u003cem\u003eF\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e)(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e–(\u003c/sup\u003e\u003cem\u003e\u003csup\u003eT\u003c/sup\u003e\u003c/em\u003e\u003csup\u003e–\u003c/sup\u003e\u003cem\u003e\u003csup\u003et\u003c/sup\u003e\u003c/em\u003e\u003csup\u003e)\u003c/sup\u003e\u003c/p\u003e\u003cp\u003eand an initial value \u003cem\u003eV\u003csub\u003et\u003c/sub\u003e\u003c/em\u003e(0) of zero, large benefits γ explain why the spot price can exceed the forward price.\u003c/p\u003e",
+                    "c609437f-88e6-4a5d-a11b-36cfdd590800": "\u003cp\u003eIncorrect. High interest rates make the forward contract more valuable. Thus the forward rate is above the spot rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c609437f-88e6-4a5d-a11b-36cfdd590800",
+                            "itemBody": "\u003cp\u003eA. interest rates.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "13adfaf6-7273-46df-8ac2-c76f13d5d037",
+                            "itemBody": "\u003cp\u003eB. storage costs.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3608efdf-3d4b-4117-921a-4decea8ccde1",
+                            "itemBody": "\u003cp\u003eC. convenience yield.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8688,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4485,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53908",
+            "entry": {
+                "title": "ITEM_20170601039",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA perfectly hedged position consisting of a derivative and its underlying asset will\u003ci\u003e most likely\u003c/i\u003e yield a return that is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "48711a03-d418-4dc7-8a69-6707d567140b"
+                },
+                "answerFeedback": {
+                    "48711a03-d418-4dc7-8a69-6707d567140b": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e If a risk-free position earns a return that is different from the risk-free return, arbitrage will lead to the elimination of the mispricing.\u003c/p\u003e",
+                    "9aa5748f-dee6-46dc-8510-cbf0d3f1d51e": "\u003cp\u003eIncorrect. If a risk-free position earns a return that is smaller than the risk-free return, arbitrage will lead to the elimination of the mispricing.\u003c/p\u003e",
+                    "e3ce0cc2-2d43-435c-ad75-6e06e7acf922": "\u003cp\u003eIncorrect. If a risk-free position earns a return that is smaller than the risk-free return, arbitrage will lead to the elimination of the mispricing.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e3ce0cc2-2d43-435c-ad75-6e06e7acf922",
+                            "itemBody": "\u003cp\u003eA. smaller than the risk-free rate.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "48711a03-d418-4dc7-8a69-6707d567140b",
+                            "itemBody": "\u003cp\u003eB. equal to the risk-free rate.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9aa5748f-dee6-46dc-8510-cbf0d3f1d51e",
+                            "itemBody": "\u003cp\u003eC. greater than the risk-free rate.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8688,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4485,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53909",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Deriv-Eichenberger-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eDerivatives are typically priced by forming a hedge involving the underlying asset and a derivative such that the combination must pay the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a3ec53ed-6d29-4327-bcde-c1d62a74a6da"
+                },
+                "answerFeedback": {
+                    "a3ec53ed-6d29-4327-bcde-c1d62a74a6da": "\u003cp\u003eCorrect because Derivatives are typically priced by forming a hedge involving the underlying asset and a derivative such that the combination must pay the risk-free rate and do so for only one derivative price.\u003c/p\u003e",
+                    "add8b489-9237-4510-9021-ef222c4e9e9b": "\u003cp\u003eIncorrect because Derivatives are typically priced by forming a hedge involving the underlying asset and a derivative such that the combination must pay the risk-free rate and do so for only one derivative price. Also,\u0026nbsp;some commodities generate a benefit that is somewhat opaque and difficult to measure. This benefit is called the convenience yield. It represents a nonmonetary advantage of holding the asset.\u0026nbsp;Therefore, it is the risk-free rate and not the convenience yield a hedge involving the underlying asset and a derivative must pay.\u0026nbsp;\u003c/p\u003e",
+                    "b5148cf2-b6e0-40dc-8a3d-7a2fb802dfa8": "\u003cp\u003eIncorrect because Derivatives are typically priced by forming a hedge involving the underlying asset and a derivative such that the combination must pay the risk-free rate and do so for only one derivative price. Therefore, it is the risk-free rate and not the dividend yield a hedge involving the underlying asset and a derivative must pay.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a3ec53ed-6d29-4327-bcde-c1d62a74a6da",
+                            "itemBody": "\u003cp\u003eA. risk-free rate.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b5148cf2-b6e0-40dc-8a3d-7a2fb802dfa8",
+                            "itemBody": "\u003cp\u003eB. dividend yield.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "add8b489-9237-4510-9021-ef222c4e9e9b",
+                            "itemBody": "\u003cp\u003eC. convenience yield.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8688,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4485,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

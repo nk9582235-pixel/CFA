@@ -1,0 +1,867 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6402,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 13,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 17: Fixed-Income Securitization",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6402,
+        "subtopic": "Module 17: Fixed-Income Securitization",
+        "question_count": 13,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4479,
+                "question_count": 11,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4696,
+                "question_count": 2,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 13.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "38829ef1db6160f8",
+        "ordered_item_ids": [
+            "55108",
+            "55109",
+            "51231",
+            "51232",
+            "51233",
+            "51234",
+            "51235",
+            "51236",
+            "51237",
+            "51238",
+            "51239",
+            "53842",
+            "53843",
+            "53844"
+        ],
+        "visible_item_ids": [
+            "55108",
+            "55109",
+            "51231",
+            "51232",
+            "51233",
+            "51234",
+            "51235",
+            "51236",
+            "51237",
+            "51238",
+            "51239",
+            "53842",
+            "53843",
+            "53844"
+        ]
+    },
+    "items": [
+        {
+            "id": "55108",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-FI-Pirie-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn a securitization, the purchase agreement between the seller of the collateral and the special purpose entity \u003ci\u003emost likely\u0026nbsp;\u003c/i\u003eprovides:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e433b6b3-4b6d-4964-b887-d86fd9e3ab43"
+                },
+                "answerFeedback": {
+                    "4aaeaaee-fc1f-4dae-8efe-0ea9bfbd9cef": "\u003cp\u003eIncorrect because\u0026nbsp;this is part of the prospectus. Another important legal document is the prospectus, which describes the structure of the securitization.\u003c/p\u003e",
+                    "e433b6b3-4b6d-4964-b887-d86fd9e3ab43": "\u003cp\u003eCorrect because an important legal document is the purchase agreement between the seller of the collateral and the SPE, which\u0026nbsp;sets forth the representations and warranties that the seller makes about the assets sold. These representations and warranties assure investors about the quality of the assets.\u003c/p\u003e",
+                    "f82f56af-6fe8-46ca-9fbd-b7dba296731d": "\u003cp\u003eIncorrect because\u0026nbsp;this is part of the prospectus. Securitizations often use several forms of\u003cbr\u003ecredit enhancements, which are documented in the prospectus.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4aaeaaee-fc1f-4dae-8efe-0ea9bfbd9cef",
+                            "itemBody": "\u003cp\u003eA. a description of the transaction structure.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e433b6b3-4b6d-4964-b887-d86fd9e3ab43",
+                            "itemBody": "\u003cp\u003eB. representations about the quality of the assets.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f82f56af-6fe8-46ca-9fbd-b7dba296731d",
+                            "itemBody": "\u003cp\u003eC. documentation of enhancements used to reduce credit risk.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8890,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4696,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55109",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-FI-Kashyap-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn the securitization process, the trustee \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "30ab622e-f7cc-443f-88ed-08d961bdabcd"
+                },
+                "answerFeedback": {
+                    "30ab622e-f7cc-443f-88ed-08d961bdabcd": "\u003cp\u003eCorrect because a\u0026nbsp;trustee or trustee agent is typically a financial institution with trust powers that safeguards the assets after they have been sold to the SPE, holds the funds due to the ABS holders until they are paid, and provides periodic information to the ABS holders.\u003c/p\u003e",
+                    "a2bba348-552c-44a6-99d6-80cc140079f3": "\u003cp\u003eIncorrect because the SPE purchases the loans or receivables and uses them as collateral to issue the ABS. After the sale is completed, it is the SPE, not the depositor/seller, that legally owns them.\u0026nbsp;The SPE owns the collateral but does not hold the collateral, and although the trustee does not own the underlying collateral it does hold it.\u003c/p\u003e",
+                    "a6440169-8c60-4b0b-b4da-29f18f515831": "\u003cp\u003eIncorrect because the seller of the collateral, sometimes called the depositor\u0026nbsp;is the corporation that originated the loans. They are sold to an SPE and held by the trustee.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a6440169-8c60-4b0b-b4da-29f18f515831",
+                            "itemBody": "\u003cp\u003eA. sells the underlying collateral.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a2bba348-552c-44a6-99d6-80cc140079f3",
+                            "itemBody": "\u003cp\u003eB. owns the underlying collateral.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "30ab622e-f7cc-443f-88ed-08d961bdabcd",
+                            "itemBody": "\u003cp\u003eC. holds the underlying collateral.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8890,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4696,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51231",
+            "entry": {
+                "title": "CFA2447-R-s03-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. Securitization provides a direct conduit between borrowers and investors. It also allows investors to tailor interest rate and credit risk exposures to suit their specific risk, return, and maturity needs. A is incorrect because securitization creates efficiency for issuers and financial markets more directly than for investors. Securitization allows issuers to sell illiquid assets and operate more efficiently on a risk-adjusted basis. Moreover, because securitization creates tradable securities with higher liquidity than the original underlying assets, it makes financial markets more efficient. B is incorrect because securitization improves overall liquidity in the financial system and reduces liquidity risk, which benefits participants in financial markets.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following benefits of securitization is most likely to be important for investors?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e1ac70e1-cee9-4ab3-bc5e-9ea9ad4631f7"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6ed3b0a3-10eb-4b80-a84b-84d79dc7f954",
+                            "itemBody": "A. Increased efficiency",
+                            "position": 1
+                        },
+                        {
+                            "id": "853fcae4-499c-43ac-bf44-b83444dcb030",
+                            "itemBody": "B. Reduced liquidity risk",
+                            "position": 2
+                        },
+                        {
+                            "id": "e1ac70e1-cee9-4ab3-bc5e-9ea9ad4631f7",
+                            "itemBody": "C. The ability to tailor interest rate and credit risk exposures",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8231,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4479,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51232",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAR\u0026amp;C Limited leases private jets to corporations in North America for a fixed term of five years. AR\u0026amp;C retains ownership of the jets. The corporations make equal interest payments each month. If a customer defaults, AR\u0026amp;C can repossess the jet. AR\u0026amp;C has been in business for approximately fifteen years and has a B3 credit rating, meaning that its debt is non-investment grade. AR\u0026amp;C has CAD500 million in leases on its balance sheet, which it wants to securitize into ABS. \u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8231,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4479,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51233",
+            "entry": {
+                "title": "CFA2447-R-s03-Q6",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. In order for these assets (leases) to be securitized, they must be held in a separate legal entity structure distinct from AR\u0026amp;C. The separate legal entity structure ensures that if AR\u0026amp;C, the originator of the leases, files for bankruptcy, the leases backing the ABS that are issued by the separate legal entity are secure there, thus AR\u0026amp;C’s creditors cannot have any claim on them. A is incorrect because if AR\u0026amp;C issues the securities, the leases remain on AR\u0026amp;C’s balance sheet and thus could still be accessible to AR\u0026amp;C’s creditors in the event of a bankruptcy. C is incorrect because servicing the leases must continue whether or not by AR\u0026amp;C or another entity, but servicing the leases is separate from securitizing them.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDetermine which of the following is the \u003cem\u003ebest\u003c/em\u003e next step for AR\u0026amp;C.\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d2dcd041-3833-4d00-9d3b-7b4f2952a182"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "eec5a11b-2b31-493b-a3ee-b589ee5a8c58",
+                            "itemBody": "A. AR\u0026amp;C issues and sells securities backed by the pool of leases.",
+                            "position": 1
+                        },
+                        {
+                            "id": "d2dcd041-3833-4d00-9d3b-7b4f2952a182",
+                            "itemBody": "B. AR\u0026amp;C sets up a separate legal entity to which it sells the CAD500 million in leases.",
+                            "position": 2
+                        },
+                        {
+                            "id": "ba344f1d-fe10-474d-8592-1257f26d986c",
+                            "itemBody": "C. AR\u0026amp;C discontinues servicing the leases, shifting this responsibility to a special purpose company.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8231,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4479,
+            "stimulusQuizEntryId": "51232"
+        },
+        {
+            "id": "51234",
+            "entry": {
+                "title": "CFA2447-R-s03-Q7",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp\u003eThe correct answer is B. As shown in the diagram below, the SPE (in rectangle 9 above), pays AR\u0026amp;C for the leases (as noted in shape 3 above). A is incorrect because shape 2 above represents the sale of the leases (as shown in the diagram below), not the payment for them, and C is incorrect because shape 5 above represents payments from the investors for the ABS sold by the SPE (as shown in the diagram below).\u003cbr\u003e\u003cimg id=\"CFA2447-R-s03-img002\" style=\"width: clamp(250px, 100%, 800px); height: auto; display: block; margin-left: auto; margin-right: auto;\" src=\"https://quiz-api-production-s3-uploads-pdx.s3.us-west-2.amazonaws.com/quiz_assets/ad215b1d-362f-4f66-9289-bc5a556fe02b/1a42f12e62cbaddc5b0b9db6aa51e86f.png\" alt=\"Investors provide funding. Cash payments for A B S go to the Special Purpose Entity. Revenue becomes accounts receivable. Company collects and reduces A R balance through customer\u0026nbsp;payments.\" height=\"436\"\u003e\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp\u003eWhich shape \u003cem\u003ebest\u003c/em\u003e represents the cash payments for the Leases? \u003cbr\u003e\u003cimg id=\"CFA2447-R-s03-img001\" style=\"width: clamp(250px, 100%, 800px); height: auto; display: block; margin-left: auto; margin-right: auto;\" src=\"https://quiz-api-production-s3-uploads-pdx.s3.us-west-2.amazonaws.com/quiz_assets/ad215b1d-362f-4f66-9289-bc5a556fe02b/9fd196d46923771fac93aefa8a98c506.png\" alt=\" The Investors fund the company. Customers buy goods or services. Revenue becomes accounts receivable. Company collects and reduces A R balance through customer payments.\" height=\"452\"\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "68aba7bd-2496-4bb8-98cb-b0b3114055ec"
+                },
+                "answerFeedback": {
+                    "fe4d4354-4d72-4802-a592-d10c2c1276e7": ""
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fe4d4354-4d72-4802-a592-d10c2c1276e7",
+                            "itemBody": "A. Shape 2",
+                            "position": 1
+                        },
+                        {
+                            "id": "68aba7bd-2496-4bb8-98cb-b0b3114055ec",
+                            "itemBody": "B. Shape 3",
+                            "position": 2
+                        },
+                        {
+                            "id": "cb9dd10c-f056-4ce2-93fd-17dedddf753a",
+                            "itemBody": "C. Shape 5",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8231,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4479,
+            "stimulusQuizEntryId": "51232"
+        },
+        {
+            "id": "51235",
+            "entry": {
+                "title": "CFA2447-R-s03-Q8",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. The SPE purchases the leases from AR\u0026amp;C and uses them as collateral for the ABS, which it issues and sells to the investors. A is incorrect because AR\u0026amp;C is the seller of the collateral, not the SPE. C is incorrect because the diagram does not show clearly who services the leases, but it does show that the entity in shape 9 is the SPE.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp\u003eWhich of the following \u003cem\u003ebest\u003c/em\u003e describes the entity shown in shape 9? \u003cbr\u003e\u003cimg id=\"CFA2447-R-s03-img003\" style=\"width: clamp(250px, 100%, 800px); height: auto; display: block; margin-left: auto; margin-right: auto;\" src=\"https://quiz-api-production-s3-uploads-pdx.s3.us-west-2.amazonaws.com/quiz_assets/ad215b1d-362f-4f66-9289-bc5a556fe02b/9fd196d46923771fac93aefa8a98c506.png\" height=\"468\"\u003e\u003cbr\u003eThe entity in shape 9 is the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4993f13d-4b9f-41f6-be9b-970339e69026"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "52a5d9d3-01a8-477f-8549-baa5535b803e",
+                            "itemBody": "A. seller of the collateral.",
+                            "position": 1
+                        },
+                        {
+                            "id": "9bb80576-1175-41e1-8cb5-0d47d7ad207e",
+                            "itemBody": "B. servicer of the leases.",
+                            "position": 2
+                        },
+                        {
+                            "id": "4993f13d-4b9f-41f6-be9b-970339e69026",
+                            "itemBody": "C. SPE that purchases the leases and uses them as collateral for the ABS.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8231,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4479,
+            "stimulusQuizEntryId": "51232"
+        },
+        {
+            "id": "51236",
+            "entry": {
+                "title": "CFA2447-R-s03-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. An important benefit of securitization is that it provides an alternative means of funding business operations beyond traditional financing tools, such as bonds, preferred equity, and common equity. A is incorrect because securitization improves overall liquidity in the financial system and reduces liquidity risk. C is incorrect because securitization allows companies to directly access the financial markets and move loans off their balance sheet.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements about securitization’s impact on economies and financial markets is correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "391505f7-1a9d-44d6-97d9-ccb9a59ba1f7"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4556e58c-2cbd-44d4-808a-178033f8415c",
+                            "itemBody": "A. Securitization decreases overall liquidity in the financial system.",
+                            "position": 1
+                        },
+                        {
+                            "id": "391505f7-1a9d-44d6-97d9-ccb9a59ba1f7",
+                            "itemBody": "B. Securitization provides an alternative means of funding business operations beyond traditional financing.",
+                            "position": 2
+                        },
+                        {
+                            "id": "19bd64fd-4e7a-4c9e-9bf7-db5c2718565c",
+                            "itemBody": "C. Securitization allows companies to directly access the financial markets and purchase loans that will be held on their balance sheet.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8231,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4479,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51237",
+            "entry": {
+                "title": "CFA2447-R-s03-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. The ABS that are created by pooling loans and receivables have characteristics similar to those of a standard bond. B is incorrect because it is a correct statement. Holding securitized debt helps pension fund investors increase exposure to the risk–return characteristics of a wider range of underlying assets. C is incorrect because it is a correct statement. Securitization transactions allow issuers to design risk–return characteristics to satisfy the risk tolerance of different investors.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements about securitization is incorrect?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "579c1571-91a3-46ea-a7cf-961bc25c4438"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "579c1571-91a3-46ea-a7cf-961bc25c4438",
+                            "itemBody": "A. The ABS that are created by securitization have characteristics similar to those of equity investments.",
+                            "position": 1
+                        },
+                        {
+                            "id": "bd702520-f527-4b67-8a07-7959a2b3aa1a",
+                            "itemBody": "B. Buying securitized debt helps investors increase exposure to the risk–return characteristics of a wider range of underlying assets.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b009d4a7-6822-4e99-b80f-1867cd531438",
+                            "itemBody": "C. Securitization transactions allow issuers to create risk–return characteristics to satisfy the risk tolerance of different investors.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8231,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4479,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51238",
+            "entry": {
+                "title": "CFA2447-R-s03-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. Since the SPE, which owns the loans, is bankruptcy remote from the seller of the collateral, the bankruptcy of the seller of the collateral will not affect the holders of securities issued by the SPE and backed by the collateral. The only credit risk that the investors face is the risk that the borrowers whose loans are included in the SPE default on their loans.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn the event of a bankruptcy of the originator in a loan securitization, the investors would \u003cem\u003emost likely\u003c/em\u003e experience:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dc5ec7e9-e5d5-4ef0-b47c-e0762c8f9e96"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "981c98ce-9b8b-4026-ad03-3ffd31a016a9",
+                            "itemBody": "A. gains.",
+                            "position": 1
+                        },
+                        {
+                            "id": "3fafdacb-ee55-4b79-aab3-c321a44956aa",
+                            "itemBody": "B. losses.",
+                            "position": 2
+                        },
+                        {
+                            "id": "dc5ec7e9-e5d5-4ef0-b47c-e0762c8f9e96",
+                            "itemBody": "C. no impact.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8231,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4479,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51239",
+            "entry": {
+                "title": "CFA2447-R-s03-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. The SPE is often referred to as the issuer in the prospectus because it is the entity that issues the securities to investors. B is incorrect because the seller of the collateral, also called the depositor, is the party that originally aggregated the assets and sold them to the SPE. C is incorrect because the servicer has an administrative function and is the entity that collects payments from borrowers.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn a securitization, the party that purchases the loans or receivables and uses them as collateral to issue ABS is the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0a10ef5e-7609-4884-a4de-31480cbc9661"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0a10ef5e-7609-4884-a4de-31480cbc9661",
+                            "itemBody": "A. SPE.",
+                            "position": 1
+                        },
+                        {
+                            "id": "a7c9bb6d-de47-4ca9-b13c-b3aaca0e030d",
+                            "itemBody": "B. seller.",
+                            "position": 2
+                        },
+                        {
+                            "id": "880b355d-d822-4be4-a971-874f4380bf81",
+                            "itemBody": "C. servicer.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8231,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4479,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53842",
+            "entry": {
+                "title": "ITEM_20170607004",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA BBB rated corporation wishes to issue debt to finance its operations at the lowest cost possible. If it decides to sell a pool of receivables into a special purpose entity\u0026nbsp;(SPE), its primary motivation is \u003ci\u003emost likely\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f8712c94-4069-4168-9a0c-a3bcb662e48d"
+                },
+                "answerFeedback": {
+                    "4014d770-cb04-49f7-8800-090d5c8db7c7": "\u003cp\u003eIncorrect because the SPE\u0026nbsp;does not receive a guaranty. The seller of the collateral sells the collateral to the SPE.\u0026nbsp;Besides the standard bond indenture and its covenants, two additional legal documents play an important role in the securitization process. One is the purchase agreement between the seller of the collateral (the original lender) and the SPE, which outlines the representations and warranties that the seller makes about the assets sold.\u003c/p\u003e",
+                    "7d9be817-1736-4e1f-a50b-c5d95ccef398": "\u003cp\u003eIncorrect because the corporation does not retain a lien on those assets. The seller of the collateral sells the collateral to the SPE.\u0026nbsp;Besides the standard bond indenture and its covenants, two additional legal documents play an important role in the securitization process. One is the purchase agreement between the seller of the collateral (the original lender) and the SPE, which outlines the representations and warranties that the seller makes about the assets sold.\u003c/p\u003e",
+                    "f8712c94-4069-4168-9a0c-a3bcb662e48d": "\u003cp\u003eCorrect because in a securitization, the courts in most jurisdictions have no discretion to change seniority because the bankruptcy of the originating company does not affect the SPE. Hence removing assets from the balance sheet into an SPE is an important decoupling of the credit risk of the entity needing funds from the SPE and the bond classes issued by it. This explains why the SPE is structured as a bankruptcy-remote entity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7d9be817-1736-4e1f-a50b-c5d95ccef398",
+                            "itemBody": "\u003cp\u003eA. allow the corporation to retain a first lien on the assets of the SPE.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f8712c94-4069-4168-9a0c-a3bcb662e48d",
+                            "itemBody": "\u003cp\u003eB. segregate the assets into a bankruptcy-remote entity for bondholders.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4014d770-cb04-49f7-8800-090d5c8db7c7",
+                            "itemBody": "\u003cp\u003eC. receive a guaranty from the SPE\u0026nbsp;to improve the corporation’s credit rating.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8674,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4479,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53843",
+            "entry": {
+                "title": "ITEM_20170607043",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn the securitization process, which of the following is \u003ci\u003emost likely\u003c/i\u003e a third party to the transaction? The:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5094d5ed-04c1-4753-9efe-d780ad769afa"
+                },
+                "answerFeedback": {
+                    "431bca68-7ce1-48bc-a1fb-a95146487859": "\u003cp\u003eIncorrect because in the securitization process the seller of the collateral is one of the main parties to the transaction.\u003c/p\u003e",
+                    "5094d5ed-04c1-4753-9efe-d780ad769afa": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e In the securitization process, the seller of the collateral, the special purpose entity, and the servicer of the loan are the main parties. All other parties, including independent accountants, lawyers/attorneys, trustees, underwriters, rating agencies, and financial guarantors are third parties to the transaction.\u003c/p\u003e",
+                    "c7d61cfb-57bf-4ee7-acd3-6e48b3309901": "\u003cp\u003eIncorrect because in the securitization process the special purpose entity is one of the main parties to the transaction.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5094d5ed-04c1-4753-9efe-d780ad769afa",
+                            "itemBody": "\u003cp\u003eA. financial guarantor.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "431bca68-7ce1-48bc-a1fb-a95146487859",
+                            "itemBody": "\u003cp\u003eB. seller of the collateral.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c7d61cfb-57bf-4ee7-acd3-6e48b3309901",
+                            "itemBody": "\u003cp\u003eC. special purpose entity.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8674,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4479,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53844",
+            "entry": {
+                "title": "ITEM_20170607135",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eProceeds for repaying securitized bonds \u003ci\u003emost likely\u003c/i\u003e come from the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a32d28c6-b0ea-42ed-8820-2b794b102eb3"
+                },
+                "answerFeedback": {
+                    "75cb0fc3-bf97-44da-ac8f-b79a50ad1912": "\u003cp\u003eIncorrect because the pool of assets are the securitized assets, also called the reference portfolio or collateral. In turn, that legal entity issues securities backed by these pooled assets to investors and uses the cash flows to pay interest and repay the principal to investors.\u003c/p\u003e",
+                    "98c5ebd3-d8ab-4ef3-90ca-b9b53307424e": "\u003cp\u003eIncorrect because the pool of assets are the securitized assets, also called the reference portfolio or collateral. In turn, that legal entity issues securities backed by these pooled assets to investors and uses the cash flows to pay interest and repay the principal to investors.\u003c/p\u003e",
+                    "a32d28c6-b0ea-42ed-8820-2b794b102eb3": "\u003cp\u003eCorrect because the securitization process pools and transfers the ownership of cash flow generating assets, such as loans or receivables, from the original lender into a specially created legal entity. The pool of assets are the securitized assets, also called the reference portfolio or collateral. In turn, that legal entity issues securities backed by these pooled assets to investors and uses the cash flows to pay interest and repay the principal to investors.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "98c5ebd3-d8ab-4ef3-90ca-b9b53307424e",
+                            "itemBody": "\u003cp\u003eA. claims-paying ability of the operating entity.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a32d28c6-b0ea-42ed-8820-2b794b102eb3",
+                            "itemBody": "\u003cp\u003eB. cash flows of the underlying financial assets.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "75cb0fc3-bf97-44da-ac8f-b79a50ad1912",
+                            "itemBody": "\u003cp\u003eC. cash flows of the project the bond is financing.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8674,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4479,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

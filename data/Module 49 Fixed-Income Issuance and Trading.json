@@ -1,0 +1,450 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6340,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 6,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 3: Fixed-Income Issuance and Trading",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6340,
+        "subtopic": "Module 3: Fixed-Income Issuance and Trading",
+        "question_count": 6,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4465,
+                "question_count": 5,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4682,
+                "question_count": 1,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            ""
+        ],
+        "points_possible": 6.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "3289901a68dc32fa",
+        "ordered_item_ids": [
+            "55029",
+            "60472",
+            "51153",
+            "51154",
+            "51155",
+            "51156"
+        ],
+        "visible_item_ids": [
+            "55029",
+            "60472",
+            "51153",
+            "51154",
+            "51155",
+            "51156"
+        ]
+    },
+    "items": [
+        {
+            "id": "55029",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Berlinicke-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eUsing the rating scale from Moody's, the lowest rating for an investment-grade bond is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "130ffe94-a038-47c6-9348-c8469591340c"
+                },
+                "answerFeedback": {
+                    "130ffe94-a038-47c6-9348-c8469591340c": "\u003cp\u003eCorrect because bonds rated Baa3 or higher by Moody's and BBB– or higher by Standard \u0026amp; Poor's and Fitch are considered investment grade.\u003c/p\u003e",
+                    "657ff96e-6c1c-48de-98f6-56321d023689": "\u003cp\u003eIncorrect because bonds rated Baa3 or higher by Moody's and BBB–\u0026nbsp;or higher by Standard \u0026amp; Poor's and Fitch are considered investment grade.\u003c/p\u003e",
+                    "df3e2326-7725-437f-89b3-966930eb012b": "\u003cp\u003eIncorrect because bonds rated Baa3 or higher by Moody's and BBB– or higher by Standard \u0026amp; Poor's and Fitch are considered investment grade.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "657ff96e-6c1c-48de-98f6-56321d023689",
+                            "itemBody": "\u003cp\u003eA. Baa1.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "df3e2326-7725-437f-89b3-966930eb012b",
+                            "itemBody": "\u003cp\u003eB. Baa2.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "130ffe94-a038-47c6-9348-c8469591340c",
+                            "itemBody": "\u003cp\u003eC. Baa3.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8862,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4682,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "60472",
+            "entry": {
+                "title": "CFA2433-R-s04-Q6 (revised)",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp\u003eThe correct answer is:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 67.9245%; height: 81px;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"width: 50%; height: 29px;\"\u003eA. Commercial paper\u003c/td\u003e\n\u003ctd style=\"width: 50%; height: 29px;\"\u003eIII. Money market funds\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"width: 50%; height: 29px;\"\u003eB. Unsecured corporate bonds\u003c/td\u003e\n\u003ctd style=\"width: 50%; height: 29px;\"\u003eII. Hedge funds\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 23px;\"\u003e\n\u003ctd style=\"width: 50%; height: 23px;\"\u003eC. Secured corporate bonds\u003c/td\u003e\n\u003ctd style=\"width: 50%; height: 23px;\"\u003eI. Insurance companies\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp\u003eMatch the instrument type on the left with its typical investor on the right.\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "questions": {
+                            "shuffled": false
+                        }
+                    }
+                },
+                "scoringData": {
+                    "value": {
+                        "78938": "III. Money market funds",
+                        "88957": "I. Insurance companies",
+                        "97655": "II. Hedge funds"
+                    },
+                    "editData": {
+                        "matches": [
+                            {
+                                "answerBody": "III. Money market funds",
+                                "questionId": "78938",
+                                "questionBody": "A. Commercial paper"
+                            },
+                            {
+                                "answerBody": "II. Hedge funds",
+                                "questionId": "97655",
+                                "questionBody": "B. Unsecured corporate bonds"
+                            },
+                            {
+                                "answerBody": "I. Insurance companies",
+                                "questionId": "88957",
+                                "questionBody": "C. Secured corporate bonds"
+                            }
+                        ],
+                        "distractors": []
+                    }
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "answers": [
+                        "III. Money market funds",
+                        "I. Insurance companies",
+                        "II. Hedge funds"
+                    ],
+                    "questions": [
+                        {
+                            "id": "78938",
+                            "itemBody": "A. Commercial paper"
+                        },
+                        {
+                            "id": "97655",
+                            "itemBody": "B. Unsecured corporate bonds"
+                        },
+                        {
+                            "id": "88957",
+                            "itemBody": "C. Secured corporate bonds"
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "PartialDeep",
+                "interactionTypeSlug": "matching"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8229,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4465,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51153",
+            "entry": {
+                "title": "CFA2433-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Sovereign government issuers typically have the lowest credit risk (highest credit rating) in each market, due to sovereign governments’ right to tax economic activity. High-yield issuers have below-investment-grade credit ratings (BBB- or below), while distressed issuers typically have high-yield ratings or are in default.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn issuer with a AAA credit rating would \u003cem\u003emost likely\u003c/em\u003e be a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6ec690d9-2d50-4d80-89cf-0c865231f4c0"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fa489aae-0866-4a8c-b5e5-5fc0b7680692",
+                            "itemBody": "A. distressed issuer.",
+                            "position": 1
+                        },
+                        {
+                            "id": "a53e1c3f-d436-4200-b314-ea5fa714444b",
+                            "itemBody": "B. high-yield issuer.",
+                            "position": 2
+                        },
+                        {
+                            "id": "6ec690d9-2d50-4d80-89cf-0c865231f4c0",
+                            "itemBody": "C. sovereign issuer.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8229,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4465,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51154",
+            "entry": {
+                "title": "CFA2433-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Mutual funds and ETFs that track this benchmark index offer \u003cem\u003ecomprehensive\u003c/em\u003e exposure to many fixed-income markets with \u003cem\u003eno\u003c/em\u003e active security selection and portfolio turnover limited solely to either new issuance or issues no longer meeting inclusion criteria.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn index tracking the Bloomberg Barclays Global Aggregate Index would \u003cem\u003emost likely\u003c/em\u003e have:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2ff91490-70ac-451a-a899-0c611f997afd"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c952d9e3-5017-4a2c-b2f4-5c8fb4c78436",
+                            "itemBody": "A. limited security selection.",
+                            "position": 1
+                        },
+                        {
+                            "id": "a4a321e1-54f2-4412-8c67-002aec1a05ce",
+                            "itemBody": "B. modest turnover due to changes in market values.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2ff91490-70ac-451a-a899-0c611f997afd",
+                            "itemBody": "C. comprehensive exposure to fixed-income markets.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8229,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4465,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51155",
+            "entry": {
+                "title": "CFA2433-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Increasing the size of an existing bond with a price significantly different from par is referred to as the reopening of an existing bond. A private placement refers to bonds being sold to a selected investor or group of investors, versus a sale to the public. Bonds of issuers believed to be very close to or in bankruptcy are referred to as distressed.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA firm that increases the size of an existing bond issue with a price significantly different from par is conducting a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "652e3900-5fb5-4369-8bb3-da3322b3255f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "652e3900-5fb5-4369-8bb3-da3322b3255f",
+                            "itemBody": "A. reopening.",
+                            "position": 1
+                        },
+                        {
+                            "id": "2d93840d-2e60-439d-80c3-d102c72b7978",
+                            "itemBody": "B. private placement.",
+                            "position": 2
+                        },
+                        {
+                            "id": "d1ddca12-62ae-44ce-8ccf-2c5e0d80c091",
+                            "itemBody": "C. distressed debt issuance.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8229,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4465,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51156",
+            "entry": {
+                "title": "CFA2433-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Bonds of less frequent corporate issuers or more seasoned bonds of frequent issuers are rarely traded, leading dealers to quote bid–offer spreads of at least 10–20 basis points or more for small sizes. The most recently issued, or on-the-run, developed market sovereign bonds are typically the most liquid fixed-income securities, with primary dealers making active markets in large size with bid–offer spreads equal to a fraction of a basis point. Among corporate issuers, recently issued corporate bonds from frequent issuers of higher credit quality usually exhibit the greatest liquidity and tightest bid–offer spreads.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe bond issue trading at the highest bid–offer spread is \u003cem\u003emost likely\u003c/em\u003e a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9cd89c5d-46e1-4a81-8143-08a85253c486"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bbc97a76-1a0d-4210-8532-73b8da6f6798",
+                            "itemBody": "A. recently issued sovereign bond.",
+                            "position": 1
+                        },
+                        {
+                            "id": "9cd89c5d-46e1-4a81-8143-08a85253c486",
+                            "itemBody": "B. seasoned investment-grade corporate bond.",
+                            "position": 2
+                        },
+                        {
+                            "id": "3b8ab56a-6ee8-40b6-a332-862e7f664439",
+                            "itemBody": "C. recently issued investment-grade corporate bond.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8229,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4465,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

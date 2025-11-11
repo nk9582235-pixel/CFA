@@ -1,0 +1,875 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6035,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 13,
+    "hidden_question_count": 0,
+    "points": 3,
+    "points_possible": 13,
+    "correct_questions_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 1: Organizational Forms, Corporate Issuer Features, and Ownership",
+        "topic_id": 1033,
+        "topic": "CFA-26-02-LI-C: Corporate Issuers",
+        "subtopic_id": 6035,
+        "subtopic": "Module 1: Organizational Forms, Corporate Issuer Features, and Ownership",
+        "question_count": 13,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 849,
+                "name": "Warehouse Course: Corporate Issuers 26-LI",
+                "code": "Warehouse Course: Corporate Issuers 26-LI",
+                "module_id": 4436,
+                "question_count": 7,
+                "type": "warehouse"
+            },
+            {
+                "id": 840,
+                "name": "Practice Pack Warehouse: Corporate Issuers 26-LI",
+                "code": "Practice Pack Warehouse: Corporate Issuers 26-LI",
+                "module_id": 4653,
+                "question_count": 6,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 13.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "9c504ed124b9ea7a",
+        "ordered_item_ids": [
+            "54679",
+            "54680",
+            "54681",
+            "54682",
+            "54683",
+            "54684",
+            "53640",
+            "53641",
+            "50834",
+            "50835",
+            "50836",
+            "50837",
+            "50838",
+            "50839"
+        ],
+        "visible_item_ids": [
+            "54679",
+            "54680",
+            "54681",
+            "54682",
+            "54683",
+            "54684",
+            "53640",
+            "53641",
+            "50834",
+            "50835",
+            "50836",
+            "50837",
+            "50838",
+            "50839"
+        ]
+    },
+    "items": [
+        {
+            "id": "54679",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Moustra-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eOwners have limited liability in a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bee990e7-0961-447a-93a1-91f71db6fb7c"
+                },
+                "answerFeedback": {
+                    "18cbf3a6-ac36-49f0-8914-6423ea1d1afe": "\u003cp\u003eIncorrect because a\u0026nbsp;general partnership has two or more owners called partners\u0026nbsp;and all profits, losses, and risks of the business are collectively assumed and shared by the partners. If one partner is unable to pay their share of the business’s debts, the remaining partners are fully liable.\u0026nbsp;Partners in a general partnership have unlimited liability.\u0026nbsp;\u003c/p\u003e",
+                    "5ee7b692-1686-42c4-bc55-83abd3cdd529": "\u003cp\u003eIncorrect because in a sole proprietorship the owner has unlimited liability and retains all risk associated with the business, meaning she can be held financially responsible for all debt the business owes.\u003c/p\u003e",
+                    "bee990e7-0961-447a-93a1-91f71db6fb7c": "\u003cp\u003eCorrect because owners in a corporation have limited liability.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bee990e7-0961-447a-93a1-91f71db6fb7c",
+                            "itemBody": "\u003cp\u003eA. corporation.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5ee7b692-1686-42c4-bc55-83abd3cdd529",
+                            "itemBody": "\u003cp\u003eB. sole proprietorship.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "18cbf3a6-ac36-49f0-8914-6423ea1d1afe",
+                            "itemBody": "\u003cp\u003eC. general partnership.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8804,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4653,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54680",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Garcia-Huidobro-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCompared to those of public companies, share issuances of private companies \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9e51f435-55e2-411f-8cf1-6d649a494ff7"
+                },
+                "answerFeedback": {
+                    "9e51f435-55e2-411f-8cf1-6d649a494ff7": "\u003cp\u003eCorrect because to raise more capital after listing, public companies may issue additional shares in the capital markets, typically raising very large amounts from many investors who may then actively trade shares among themselves in the secondary market. In contrast, private companies finance much smaller amounts in the primary market (private debt or equity) with far fewer investors who have much longer holding periods.\u003c/p\u003e",
+                    "a8e438bc-b8d9-4766-87cc-89208789d7ae": "\u003cp\u003eIncorrect because private companies usually raise less cash compared to public companies.\u0026nbsp;In contrast, private companies finance much smaller amounts in the primary market (private debt or equity) with far fewer investors who have much longer holding periods.\u003c/p\u003e",
+                    "c04439cf-3b93-4d33-adac-db04d9b8a0b8": "\u003cp\u003eIncorrect because the number of investors that participate in offerings of private\u0026nbsp;companies is lower. In contrast, private companies finance much smaller amounts in the primary market (private debt or equity) with far fewer investors who have much longer holding periods.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a8e438bc-b8d9-4766-87cc-89208789d7ae",
+                            "itemBody": "\u003cp\u003eA. raise larger amounts of capital.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c04439cf-3b93-4d33-adac-db04d9b8a0b8",
+                            "itemBody": "\u003cp\u003eB. include a larger number of investors.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9e51f435-55e2-411f-8cf1-6d649a494ff7",
+                            "itemBody": "\u003cp\u003eC. include investors with longer holding periods.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8804,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4653,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54681",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Simsek-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eDouble taxation of profits is \u003ci\u003emost likely\u003c/i\u003e a concern for owners in:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fc0fe379-426a-477b-be55-f53b0ab31043"
+                },
+                "answerFeedback": {
+                    "d18a6576-715c-425b-aac1-592b95a9ebac": "\u003cp\u003eIncorrect because profits of general partnerships are taxed only at the personal level. A key feature\u0026nbsp;of general partnerships is that all partners share all return, with profits taxed as personal income.\u003c/p\u003e",
+                    "dbde2577-84d3-4d42-b1a6-1bd7baa0cfe9": "\u003cp\u003eIncorrect because profits of limited partnerships are taxed only at the personal level. A key feature\u0026nbsp;of limited partnerships is that all partners share in return, with profits taxed as personal income.\u003c/p\u003e",
+                    "fc0fe379-426a-477b-be55-f53b0ab31043": "\u003cp\u003eCorrect because tax disadvantage for owners\u0026nbsp;in countries with double taxation is a key feature of corporations. In most countries, corporations are taxed directly on their profits. In many countries, shareholders pay an additional tax on distributions (dividends) that are passed on to them. Economists refer to this as the double taxation of corporate profits.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fc0fe379-426a-477b-be55-f53b0ab31043",
+                            "itemBody": "\u003cp\u003eA. corporations.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "dbde2577-84d3-4d42-b1a6-1bd7baa0cfe9",
+                            "itemBody": "\u003cp\u003eB. limited partnerships.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d18a6576-715c-425b-aac1-592b95a9ebac",
+                            "itemBody": "\u003cp\u003eC. general partnerships.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8804,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4653,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54682",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.01-CorpIssuers-Kassem-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn a limited partnership, business operations are the responsibility of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "580ded97-461d-4498-85e1-763b757a18b8"
+                },
+                "answerFeedback": {
+                    "580ded97-461d-4498-85e1-763b757a18b8": "\u003cp\u003eCorrect because key features of limited partnerships include: •\u0026nbsp;GP operates the business, having unlimited liability,\u0026nbsp;•\u0026nbsp;LPs have limited liability but lack control over business operations.\u003c/p\u003e",
+                    "6f7d0c80-7e6d-4d39-b52b-b83d8e1be53b": "\u003cp\u003eIncorrect because key features of limited partnerships include: •\u0026nbsp;GP operates the business, having unlimited liability,\u0026nbsp;•\u0026nbsp;LPs have limited liability but lack control over business operations.\u003c/p\u003e",
+                    "ac5a290b-87a7-4e5d-92c5-f4d35756ecb0": "\u003cp\u003eIncorrect because key features of limited partnerships include: •\u0026nbsp;GP operates the business, having unlimited liability,\u0026nbsp;•\u0026nbsp;LPs have limited liability but lack control over business operations.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "580ded97-461d-4498-85e1-763b757a18b8",
+                            "itemBody": "\u003cp\u003eA. the general partner only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ac5a290b-87a7-4e5d-92c5-f4d35756ecb0",
+                            "itemBody": "\u003cp\u003eB. the limited partners only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6f7d0c80-7e6d-4d39-b52b-b83d8e1be53b",
+                            "itemBody": "\u003cp\u003eC. both the general partner and the limited partners.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8804,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4653,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54683",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.01-CorpIssuers-Tsependa-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCompared to private corporations, which of the following is a typical characteristic of public corporations?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5bf38657-d65b-462e-a5af-78e64fd5a113"
+                },
+                "answerFeedback": {
+                    "5bf38657-d65b-462e-a5af-78e64fd5a113": "\u003cp\u003eCorrect because when it comes to corporations, 'public'\u0026nbsp;and 'private'\u0026nbsp;are typically defined by whether the company’s equity is listed on a stock exchange, although in some countries whether a company is considered public or not may depend on its number of shareholders, irrespective of whether it is listed.\u003c/p\u003e",
+                    "651e9f5c-cd05-4873-a778-bc8a765edb3a": "\u003cp\u003eIncorrect because the word 'public'\u0026nbsp;can be misleading because it typically implies government involvement. However, when it comes to corporations, 'public'\u0026nbsp;and 'private'\u0026nbsp;are typically defined by whether the company’s equity is listed on a stock exchange.\u003c/p\u003e",
+                    "e23b6b6e-bbca-4c4c-8f61-0726d46f92fb": "\u003cp\u003eIncorrect because these are private company shares do not trade on an exchange, so no visible valuation or price transparency exists for the company and shares are not easily bought and sold. This makes ownership transfers between seller and buyer much more difficult than for a public company.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "651e9f5c-cd05-4873-a778-bc8a765edb3a",
+                            "itemBody": "\u003cp\u003eA. A government is a shareholder\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5bf38657-d65b-462e-a5af-78e64fd5a113",
+                            "itemBody": "\u003cp\u003eB. Shares are listed on a stock exchange\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e23b6b6e-bbca-4c4c-8f61-0726d46f92fb",
+                            "itemBody": "\u003cp\u003eC. Transfer of ownership between investors is more difficult\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8804,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4653,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54684",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-CorpIssuers-Burke-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe purchase of which of the following shares\u0026nbsp;\u003ci\u003emost likely\u003c/i\u003e requires investors to be accredited?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "020cdf58-0119-4a89-b197-e56790357e29"
+                },
+                "answerFeedback": {
+                    "011de7e9-da8e-4f04-a54a-353b5fbc3f03": "\u003cp\u003eIncorrect because private company investors may be limited to qualified or so-called accredited investors or sophisticated investors, or those deemed to be able and willing by regulatory authorities to assume the greater risk of a non-public offering.\u003c/p\u003e",
+                    "020cdf58-0119-4a89-b197-e56790357e29": "\u003cp\u003eCorrect because private company investors may be limited to qualified or so-called accredited investors or sophisticated investors, or those deemed to be able and willing by regulatory authorities to assume the greater risk of a non-public offering.\u003c/p\u003e",
+                    "6df8b65e-c3e4-4c59-a958-2cf6060ae2b3": "\u003cp\u003eIncorrect because private company investors may be limited to qualified or so-called accredited investors or sophisticated investors, or those deemed to be able and willing by regulatory authorities to assume the greater risk of a non-public offering.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "011de7e9-da8e-4f04-a54a-353b5fbc3f03",
+                            "itemBody": "\u003cp\u003eA. Public company shares only\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "020cdf58-0119-4a89-b197-e56790357e29",
+                            "itemBody": "\u003cp\u003eB. Private company shares only\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6df8b65e-c3e4-4c59-a958-2cf6060ae2b3",
+                            "itemBody": "\u003cp\u003eC. Both public company shares and private company shares\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8804,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4653,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53640",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.01-CorpIssuers-Kassem-19PRACTICE",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe business structure that provides the \u003ci\u003emost\u003c/i\u003e operational simplicity and flexibility is a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1a19a1b0-cb95-4c27-9af7-6b6ed08b25d4"
+                },
+                "answerFeedback": {
+                    "1a19a1b0-cb95-4c27-9af7-6b6ed08b25d4": "\u003cp\u003eCorrect because the simplest business structure is the sole proprietorship, also called the sole trader. Key features of sole proprietorships include: Operational simplicity and flexibility.\u003c/p\u003e",
+                    "66cdbff7-9009-4ca2-abbe-6b6f93b00c96": "\u003cp\u003eIncorrect because key features of limited partnerships include the following:\u003c/p\u003e\u003cp\u003e•\u0026nbsp;GP operates the business, having unlimited liability,\u0026nbsp;•\u0026nbsp;LPs have limited liability but lack control over business operations.\u0026nbsp;Due to multiple partners and partnership agreement, this structure is not as simple and flexible as a sole proprietorship.\u0026nbsp;Key features of sole proprietorships include: Operational simplicity and flexibility.\u003c/p\u003e",
+                    "d674dca5-5283-4da0-aaa6-72d682c07e48": "\u003cp\u003eIncorrect because a\u0026nbsp;general partnership has two or more owners called partners whose roles and responsibilities in the business are outlined in a\u0026nbsp;partnership agreement.\u0026nbsp;As such, this structure is not as simple and flexible as a sole proprietorship. Key features of sole proprietorships include: Operational simplicity and flexibility.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "66cdbff7-9009-4ca2-abbe-6b6f93b00c96",
+                            "itemBody": "\u003cp\u003eA. limited partnership.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d674dca5-5283-4da0-aaa6-72d682c07e48",
+                            "itemBody": "\u003cp\u003eB. general partnership.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1a19a1b0-cb95-4c27-9af7-6b6ed08b25d4",
+                            "itemBody": "\u003cp\u003eC. sole proprietorship.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8601,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4436,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53641",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.01-CorpIssuers-Barker-06PRACTICE",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe owner exposed\u0026nbsp;to the\u0026nbsp;\u003ci\u003eleast \u003c/i\u003ebusiness liability is a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "eb69b612-cc25-4665-9e06-e69820e784c2"
+                },
+                "answerFeedback": {
+                    "74b7c629-1b7f-4507-9419-bdc1b6dcbf0d": "\u003cp\u003eIncorrect because a sole trader retains all return and assumes all risk.\u003c/p\u003e",
+                    "b5b90e97-2073-4b03-a046-26afae3b259b": "\u003cp\u003eIncorrect because a\u0026nbsp;limited partnership must have at least one general partner with unlimited liability who is responsible for the management of the business.\u003c/p\u003e",
+                    "eb69b612-cc25-4665-9e06-e69820e784c2": "\u003cp\u003eCorrect because general partnerships are like sole proprietorships with the important distinction that they allow for additional resources to be brought into the business along with the sharing of business risk among a larger group of individuals.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "74b7c629-1b7f-4507-9419-bdc1b6dcbf0d",
+                            "itemBody": "\u003cp\u003eA. sole trader.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "eb69b612-cc25-4665-9e06-e69820e784c2",
+                            "itemBody": "\u003cp\u003eB. partner in a general partnership.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b5b90e97-2073-4b03-a046-26afae3b259b",
+                            "itemBody": "\u003cp\u003eC. general partner in a limited partnership.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8601,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4436,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50834",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDee’s Arbor Group Inc. (DAG Inc.) is a large international investor in timber and forest assets located on the North and South American continents. DAG Inc. is the general partner of DAG LP, a limited partnership that is the 100% owner of the timber and forest assets. DAG LP is controlled by DAG Inc. and its limited partners; the limited partners own a 20% stake in the partnership, while DAG Inc. holds the remaining majority stake.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDAG Inc.’s shares are listed on stock exchanges in the United States and Canada. DAG Inc. is organized as a special corporate form available in its jurisdiction in which it does not pay corporate income taxes so long as it distributes all of its net income as dividends to its shareholders and complies with other conditions. In the current and past fiscal years, DAG Inc. has complied with all of these conditions.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDAG Inc.’s shares are owned by various members of the Dee family, who hold several key senior management positions at DAG Inc. and DAG LP, and collectively they own 30% of the shares of DAG Inc. The remainder of DAG Inc.’s shares are owned by a variety of individual and institutional investors, none of whom own more than 5%. The following diagram shows the organizational structure of DAG Inc. and DAG LP.\u003c/p\u003e\n\u003cp\u003e\u003cimg id=\"CFA2328-R-s04-img05\" style=\"width: clamp(250px, 100%, 500px); height: auto; display: block; margin-left: auto; margin-right: auto;\" src=\"https://quiz-api-production-s3-uploads-pdx.s3.us-west-2.amazonaws.com/quiz_assets/ad215b1d-362f-4f66-9289-bc5a556fe02b/42854ed4dceec1fc35acf63a38bf8859.png\" alt=\"D A G L P is the 100 percent owner of the timber and forest assets. The D A G Inc is the general partner of D A G L P. The shares of D A G Inc are owned by members of the Dee family and outside shareholders.\" width=\"229\" height=\"450\"\u003e\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8181,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4436,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50835",
+            "entry": {
+                "title": "CFA2328-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The Dee family effectively owns 24% of the timber and forest assets. They own 30% of the shares of DAG (the publicly traded corporation), and they own 80% of the limited partnership (which owns the assets): 24% = 30% × 80%.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhat percentage of the timber and forest assets are effectively owned by the Dee family members in this scenario?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "49e3ca38-d84b-452c-9a34-e35cd088b4b0"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "49e3ca38-d84b-452c-9a34-e35cd088b4b0",
+                            "itemBody": "A. 24%",
+                            "position": 1
+                        },
+                        {
+                            "id": "2992d4c8-6477-4f45-8051-116c4c1e0ee4",
+                            "itemBody": "B. 30%",
+                            "position": 2
+                        },
+                        {
+                            "id": "07e9f4cd-dd61-4f44-be2b-bc8dfeac9ed5",
+                            "itemBody": "C. 80%",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8181,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4436,
+            "stimulusQuizEntryId": "50834"
+        },
+        {
+            "id": "50836",
+            "entry": {
+                "title": "CFA2328-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. DAG Inc. is organized as a special corporate form available in its jurisdiction in which it does not pay corporate income taxes. DAG LP, as a limited partnership, is a pass-through entity. DAG Inc. shareholders pay tax on dividend income.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect. DAG LP is a limited partnership. Partnership income is passed through to each partner, and the partners pay tax at the personal level. \u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect. DAG Inc. is organized as a special corporate form available in its jurisdiction in which it does not pay corporate income taxes.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following best describes the taxation of DAG Inc. and DAG LP?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "411f14e3-4343-431f-8f91-49193a3299f4"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "da61851a-bf37-4c92-b597-c098d8a572b8",
+                            "itemBody": "A. DAG LP pays tax based on its pre-tax income.",
+                            "position": 1
+                        },
+                        {
+                            "id": "411f14e3-4343-431f-8f91-49193a3299f4",
+                            "itemBody": "B. Shareholders of DAG Inc. pay tax based on dividend income.",
+                            "position": 2
+                        },
+                        {
+                            "id": "225ba2f3-ee9c-4647-98d0-243254e024b4",
+                            "itemBody": "C. DAG Inc. pays tax based on its pre-tax income.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8181,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4436,
+            "stimulusQuizEntryId": "50834"
+        },
+        {
+            "id": "50837",
+            "entry": {
+                "title": "CFA2328-R-s04-Q11",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. DAG Inc. is the general partner of DAG LP and thus has unlimited liability in the partnership. However, as a corporation, DAG Inc.’s shareholders have limited liability for its losses and obligations.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect. DAG LP is 80% owned by DAG Inc., the general partner that manages the partnership. DAG Inc. is 30% owned by the Dee family, who holds several key managerial positions.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect. As a public company, DAG Inc. can raise new equity by issuing shares on an exchange. The dividend requirement is not a binding limit on its ability to raise capital but, rather, might be an attractive feature to prospective investors.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following best describes DAG LP and DAG Inc.?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2e5a86e7-2c9e-4243-aa7e-70a39fcb6b34"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "60e2964c-2178-4011-8bed-a3ef9b857423",
+                            "itemBody": "A. Neither DAG LP nor DAG Inc. is managed by a majority owner.",
+                            "position": 1
+                        },
+                        {
+                            "id": "4a7e90fa-a515-4f24-8b49-e6deebcbe29e",
+                            "itemBody": "B. DAG Inc. has limits to its ability to raise new capital because of the dividend requirement on its corporate form.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2e5a86e7-2c9e-4243-aa7e-70a39fcb6b34",
+                            "itemBody": "C. DAG Inc. faces unlimited liability as the general partner, while DAG Inc.’s status as a corporation implies that its shareholders face limited liability.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8181,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4436,
+            "stimulusQuizEntryId": "50834"
+        },
+        {
+            "id": "50838",
+            "entry": {
+                "title": "CFA2328-R-s04-Q12",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The limited partners of DAG LP are not shareholders of DAG Inc., so they do not have voting rights in the corporation. Additionally, because the limited partners own only 20% of the partnership, they also have little ability to remove DAG Inc. as the general partner. In contrast, outside shareholders own 70% of DAG Inc. and have voting rights. They could use their collective ownership to effect change in the management of DAG Inc.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect. Neither the DAG LP limited partners nor the outside shareholders of DAG Inc. have managerial responsibilities. The general partner has managerial responsibilities of the partnership, and the board of DAG Inc. has managerial responsibilities of the corporation. \u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect. Owing to the special corporate form of DAG Inc., both the corporation \u003cem\u003eand\u003c/em\u003e the limited partnership are pass-through entities. Therefore, neither the partnership nor the corporation pays entity-level income taxes, but both the limited partners and shareholders are responsible for personal income taxes. \u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhat is a significant difference between the limited partners of DAG LP and the outside shareholders of DAG Inc.?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8ccf2467-86d6-4ef6-b453-864f1cc86bd0"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "60bbdc44-3110-4df6-b1e5-86e59f63365e",
+                            "itemBody": "A. Managerial responsibilities",
+                            "position": 1
+                        },
+                        {
+                            "id": "93559bae-9c9a-4375-8b53-456fe55cdc73",
+                            "itemBody": "B. Taxation of income from the partnership",
+                            "position": 2
+                        },
+                        {
+                            "id": "8ccf2467-86d6-4ef6-b453-864f1cc86bd0",
+                            "itemBody": "C. The ability to vote and replace members of the DAG Inc. board of directors",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8181,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4436,
+            "stimulusQuizEntryId": "50834"
+        },
+        {
+            "id": "50839",
+            "entry": {
+                "title": "CFA2328-R-s04-Q13",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The Dee family can effectively control management of the timber and forest assets with only a 24% effective ownership stake in the partnership. If the family had opted for a limited partnership as the organizational form, they likely would need a much higher ownership stake to assert management control and would have unlimited personal liability.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect. The double taxation problem is not an issue in the more complex structure, nor is it a problem in the partnership structure, because both are pass-throughs.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect. The complex structure potentially creates problems because of the existence of outside shareholders constituting a majority of votes. \u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following rationales would be most consistent with the Dee family’s choice to create this complex organizational structure instead of simply organizing as a limited partnership?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3dc5c966-d9c9-4482-b548-5dd7d08cfb35"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3dc5c966-d9c9-4482-b548-5dd7d08cfb35",
+                            "itemBody": "A. It provides management control without the need for majority ownership by the family, while maintaining limited liability.",
+                            "position": 1
+                        },
+                        {
+                            "id": "0f969cbd-a992-4902-9889-4bb8961d04f7",
+                            "itemBody": "B. The complex structure eliminates the potential for double taxation.",
+                            "position": 2
+                        },
+                        {
+                            "id": "28c9e1fc-1f8c-441f-b4ad-b2e97f59a3d0",
+                            "itemBody": "C. The complex structure avoids potential problems associated with outside investors exercising voting rights.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8181,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4436,
+            "stimulusQuizEntryId": "50834"
+        }
+    ],
+    "responses": {},
+    "scored_data": {
+        "points": 3,
+        "points_possible": 13
+    }
+}

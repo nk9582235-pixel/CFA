@@ -1,0 +1,1281 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6398,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 20,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 16: Credit Analysis for Corporate Issuers",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6398,
+        "subtopic": "Module 16: Credit Analysis for Corporate Issuers",
+        "question_count": 20,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4478,
+                "question_count": 12,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4695,
+                "question_count": 8,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 20.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "f0229f2b4d3059cb",
+        "ordered_item_ids": [
+            "55100",
+            "55101",
+            "55102",
+            "55103",
+            "55104",
+            "55105",
+            "55106",
+            "55107",
+            "51215",
+            "51216",
+            "51217",
+            "51218",
+            "51219",
+            "51220",
+            "51221",
+            "51222",
+            "51223",
+            "51224",
+            "53839",
+            "53840",
+            "53841"
+        ],
+        "visible_item_ids": [
+            "55100",
+            "55101",
+            "55102",
+            "55103",
+            "55104",
+            "55105",
+            "55106",
+            "55107",
+            "51215",
+            "51216",
+            "51217",
+            "51218",
+            "51219",
+            "51220",
+            "51221",
+            "51222",
+            "51223",
+            "51224",
+            "53839",
+            "53840",
+            "53841"
+        ]
+    },
+    "items": [
+        {
+            "id": "55100",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Moustra-20",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWith respect to the notching process adopted by credit rating agencies, a corporate's\u0026nbsp;subordinated debt is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6b2cdc96-a5fd-42d0-b057-cac8d24ce36e"
+                },
+                "answerFeedback": {
+                    "6b2cdc96-a5fd-42d0-b057-cac8d24ce36e": "\u003cp\u003eCorrect because the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating, which is usually the rating applied to its senior unsecured debt. As a general rule, the higher the senior unsecured rating, the smaller the notching adjustment.\u003c/p\u003e",
+                    "71d51b38-6fd1-424d-8fcf-46a193ec9ff3": "\u003cp\u003eIncorrect because recognizing these different payment priorities, and thus the potential for higher\u0026nbsp;(or lower) loss severity in the event of default,\u0026nbsp;the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating, which is usually the rating applied to its senior unsecured debt.\u0026nbsp;Issue ratings are thus notched up or down from the issuer rating, and not from more junior ratings such as junior subordinated ratings.\u003c/p\u003e",
+                    "a859fbb9-aea4-4370-a5ec-25b39464e633": "\u003cp\u003eIncorrect because recognizing these different payment priorities, and thus the potential for higher\u0026nbsp;(or lower) loss severity in the event of default,\u0026nbsp;the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating\u0026nbsp;and also cross-default provisions, whereby events of default (such as non-payment of interest) on one bond trigger default on all outstanding debt, imply the same default probability for all issues, specific issues may be assigned different credit ratings—higher or lower—due to a rating adjustment methodology known as notching. It is the higher loss severity, and not higher probability of default, that is driving the notching process.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "71d51b38-6fd1-424d-8fcf-46a193ec9ff3",
+                            "itemBody": "\u003cp\u003eA. notched up from the corporate's junior subordinated debt.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6b2cdc96-a5fd-42d0-b057-cac8d24ce36e",
+                            "itemBody": "\u003cp\u003eB. subject to a smaller notching adjustment the higher the corporate's issuer rating.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a859fbb9-aea4-4370-a5ec-25b39464e633",
+                            "itemBody": "\u003cp\u003eC. notched down from the corporate's issuer rating due to higher probability of default.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8888,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4695,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55101",
+            "entry": {
+                "title": "ITEM_CFA-L1-09551",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe EBITDA/interest expense ratio is \u003ci\u003ebest\u003c/i\u003e classified as a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fe0b4fae-2520-4640-8966-73599807aa14"
+                },
+                "answerFeedback": {
+                    "01aca5d4-ab93-4a0c-a067-232bb01febda": "\u003cp\u003eIncorrect because EBITDA/interest is a coverage ratio, not a leverage ratio. There are a few measures of leverage used by credit analysts. The most common are the debt/capital, debt/EBITDA, and measures of funds or cash flows/debt ratios.\u003c/p\u003e",
+                    "3336b20d-ab1e-4f34-b9a5-ebcb30816b8a": "\u003cp\u003eIncorrect because while there are several measures of cash flow and profitability\u0026nbsp;used in credit analysis, EBITDA/interest is not a measure of profitability. EBITDA is a commonly used measure of cash flow that takes operating income and adds back depreciation and amortization expense because those are noncash items.\u003c/p\u003e",
+                    "fe0b4fae-2520-4640-8966-73599807aa14": "\u003cp\u003eCorrect because coverage ratios measure an issuer's ability to meet—to “cover”—its interest payments. The two most common are the EBITDA/interest expense and EBIT/interest expense ratios.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "01aca5d4-ab93-4a0c-a067-232bb01febda",
+                            "itemBody": "\u003cp\u003eA. leverage ratio.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fe0b4fae-2520-4640-8966-73599807aa14",
+                            "itemBody": "\u003cp\u003eB. coverage ratio.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3336b20d-ab1e-4f34-b9a5-ebcb30816b8a",
+                            "itemBody": "\u003cp\u003eC. profitability ratio.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8888,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4695,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55102",
+            "entry": {
+                "title": "ITEM_CFA-L1-10403",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA bond issuer has a credit rating of BBB. Based only on this information, the rating of a senior unsecured bond from this issuer is \u003ci\u003emost likely \u003c/i\u003eto be:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9ba6fa74-acac-4df7-a209-2b8031093c28"
+                },
+                "answerFeedback": {
+                    "28c9ae71-e251-4b9f-97cb-bb663a0258e8": "\u003cp\u003eIncorrect because as noted in the rationale for the correct answer, the issuer credit rating usually applies to senior unsecured debt.\u003c/p\u003e",
+                    "69cc5f19-df5e-476b-8acc-9b5388bcccde": "\u003cp\u003eIncorrect because as noted in the rationale for the correct answer, the issuer credit rating usually applies to senior unsecured debt.\u0026nbsp;\u003c/p\u003e",
+                    "9ba6fa74-acac-4df7-a209-2b8031093c28": "\u003cp\u003eCorrect because the issuer credit rating usually applies to its senior unsecured debt.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "69cc5f19-df5e-476b-8acc-9b5388bcccde",
+                            "itemBody": "\u003cp\u003eA. lower than BBB.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9ba6fa74-acac-4df7-a209-2b8031093c28",
+                            "itemBody": "\u003cp\u003eB. BBB.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "28c9ae71-e251-4b9f-97cb-bb663a0258e8",
+                            "itemBody": "\u003cp\u003eC. higher than BBB.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8888,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4695,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55103",
+            "entry": {
+                "title": "ITEM_CFA-L1-10548",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about a company (in $ millions):\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eOperating income\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e120\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eNet income\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e85\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eInterest expense\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e15\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eDepreciation and amortization\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e15\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eInterest coverage using EBIT is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e0620674-d47c-44e9-9fd3-0bc873fd842c"
+                },
+                "answerFeedback": {
+                    "c699075e-f1d5-49c2-8d7f-973a85d0796c": "\u003cp\u003eIncorrect because this is net income plus depreciation \u0026amp; amortization divided by interest expense.\u003c/p\u003e\u003cp\u003eInterest coverage ≠ (85 + 15) / 15 = $100/15 = 6.7, rounded to 7.\u003c/p\u003e",
+                    "e0620674-d47c-44e9-9fd3-0bc873fd842c": "\u003cp\u003eCorrect because operating income is defined as operating revenues minus operating expenses and is commonly referred to as 'earnings before interest and taxes' (EBIT).\u003cbr\u003eInterest coverage using EBIT is operating income/interest expense. = $120/15 = 8.\u0026nbsp;\u003c/p\u003e",
+                    "e1f81748-b08d-4fee-8aeb-495b9ee8ecf6": "\u003cp\u003eIncorrect because this is interest coverage using EBIT plus depreciation \u0026amp; amortization (EBITDA. not EBIT) divided by interest expense.\u003c/p\u003e\u003cp\u003eInterest coverage ≠ ($120+$15)/15 = 9.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c699075e-f1d5-49c2-8d7f-973a85d0796c",
+                            "itemBody": "\u003cp\u003eA. 7x.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e0620674-d47c-44e9-9fd3-0bc873fd842c",
+                            "itemBody": "\u003cp\u003eB. 8x.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e1f81748-b08d-4fee-8aeb-495b9ee8ecf6",
+                            "itemBody": "\u003cp\u003eC. 9x.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8888,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4695,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55104",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FI-Georgiou-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about a company that only has senior unsecured debt:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth scope=\"col\"\u003e\u003cstrong\u003eType\u003c/strong\u003e\u003c/th\u003e\n\u003cth scope=\"col\"\u003e\u003cstrong\u003eTotal Amount Outstanding\u003c/strong\u003e\u003c/th\u003e\n\u003cth scope=\"col\"\u003e\u003cstrong\u003eTime to Maturity\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eFloating-rate note (FRN)\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$50 million\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\n\u003cp\u003e12 years\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eFixed-rate bond\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$10 million\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e2 years\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIn a bankruptcy scenario, if the priority of claims is enforced, it is \u003ci\u003emost likely\u003c/i\u003e that:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f59349b9-1adf-42bc-8487-b971a4f4849b"
+                },
+                "answerFeedback": {
+                    "866ba56c-4df0-43b0-a9ad-f5ed8cfdded3": "\u003cp\u003eIncorrect because all creditors at the same level of the capital structure are treated as one class; thus, a senior unsecured bondholder whose debt is due in 30 years has the same pro rata claim in bankruptcy as one whose debt matures in six months. This provision is referred to as bonds ranking \u003cb\u003epari passu \u003c/b\u003e('on an equal footing') in right of payment.\u003c/p\u003e",
+                    "f4256ae6-91ea-4ab9-853b-0ad069717c33": "\u003cp\u003eIncorrect because all creditors at the same level of the capital structure are treated as one class; thus, a senior unsecured bondholder whose debt is due in 30 years has the same pro rata claim in bankruptcy as one whose debt matures in six months. This provision is referred to as bonds ranking \u003cb\u003epari passu \u003c/b\u003e('on an equal footing') in right of payment.\u003c/p\u003e",
+                    "f59349b9-1adf-42bc-8487-b971a4f4849b": "\u003cp\u003eCorrect because both bonds represent forms of senior unsecured debt and therefore,\u0026nbsp;all\u0026nbsp;creditors are\u0026nbsp;at the same level of the capital structure and\u0026nbsp;treated as one class; thus, a senior unsecured bondholder whose debt is due in 30 years has the same pro rata claim in bankruptcy as one whose debt matures in six months. This provision is referred to as bonds ranking \u003cb\u003epari passu \u003c/b\u003e('on an equal footing') in right of payment.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "866ba56c-4df0-43b0-a9ad-f5ed8cfdded3",
+                            "itemBody": "\u003cp\u003eA. fixed-rate bond is repaid first because it matures earlier.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f59349b9-1adf-42bc-8487-b971a4f4849b",
+                            "itemBody": "\u003cp\u003eB. both bondholders are repaid proportionally to the amount owed.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f4256ae6-91ea-4ab9-853b-0ad069717c33",
+                            "itemBody": "\u003cp\u003eC. FRN\u0026nbsp;is repaid first because it has the highest amount outstanding.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8888,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4695,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55105",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FI-Garcia-Huidobro-15",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following debt categories\u0026nbsp;has the highest\u0026nbsp;ranking in terms of priority of payment?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8138cf15-0f11-477f-886a-58a5274fbadb"
+                },
+                "answerFeedback": {
+                    "8138cf15-0f11-477f-886a-58a5274fbadb": "\u003cp\u003eCorrect because this is a secured debt and therefore has higher priority than any unsecured debt. In the event of default, unsecured debtholders’ claims rank below (i.e., get paid after) those of secured creditors\u0026nbsp;under what’s known as the priority of claims. First lien debt or loan refers to a pledge of certain assets that could include buildings but might also include property and equipment, licenses, patents, brands, and so on. There can also be second lien, or even third lien, secured debt, which, as the name implies, has a secured interest in the pledged assets but ranks below first lien debt in both collateral protection and priority of payment.\u003c/p\u003e",
+                    "85a2b858-575a-4830-b9cf-b97b54ca4284": "\u003cp\u003eIncorrect because within unsecured debt, there can also be finer gradations and seniority rankings. The highest-ranked unsecured debt is senior unsecured debt. It is the most common type of all corporate bonds outstanding. Other, lower-ranked debt includes subordinated debt and junior subordinated debt. Among the various creditor classes, these obligations have among the lowest priority of claims and frequently have little or no recovery in the event of default.\u003c/p\u003e",
+                    "d63d4257-1e85-4601-8357-a3e61339686e": "\u003cp\u003eIncorrect because in the event of default, unsecured debtholders’ claims rank below (i.e., get paid after) those of secured creditors\u0026nbsp;under what’s known as the priority of claims. Within unsecured debt, there can also be finer gradations and seniority rankings. The highest-ranked unsecured debt is senior unsecured debt.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8138cf15-0f11-477f-886a-58a5274fbadb",
+                            "itemBody": "\u003cp\u003eA. Second lien debt\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "85a2b858-575a-4830-b9cf-b97b54ca4284",
+                            "itemBody": "\u003cp\u003eB. Subordinated debt\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d63d4257-1e85-4601-8357-a3e61339686e",
+                            "itemBody": "\u003cp\u003eC. Senior unsecured debt\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8888,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4695,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55106",
+            "entry": {
+                "title": "ITEM_2019B-FI-12PJN",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA corporate family rating \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a8eed9e9-d70d-48cb-9c79-64e0b1da1222"
+                },
+                "answerFeedback": {
+                    "2a41b598-e26e-4d15-b973-2aa02ab99ba2": "\u003cp\u003eIncorrect because corporate credit ratings or issue ratings (not corporate family ratings) refer to specific financial obligations of an issuer.\u003c/p\u003e",
+                    "a8eed9e9-d70d-48cb-9c79-64e0b1da1222": "\u003cp\u003eCorrect because corporate family ratings or issuer ratings will address an obligor’s overall creditworthiness – its ability to and willingness to make timely payments of interest and principal on its debt. The issuer credit rating usually applies to its senior unsecured debt.\u003c/p\u003e",
+                    "ec4a8490-19a5-4243-a8b9-de851f5b73db": "\u003cp\u003eIncorrect because a corporate family rating is meant to address an obligor’s overall creditworthiness, whereas issue ratings refer to specific financial obligation of an issuer and take into consideration such factors as ranking in the capital structure (e.g., secured or subordinated).\u0026nbsp;Hence, the priority of claims in a bankruptcy is reflected in an issue rating and not in a corporate family rating.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ec4a8490-19a5-4243-a8b9-de851f5b73db",
+                            "itemBody": "\u003cp\u003eA. reflects the priority of claims in a bankruptcy.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2a41b598-e26e-4d15-b973-2aa02ab99ba2",
+                            "itemBody": "\u003cp\u003eB. refers to specific financial obligations of an issuer.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a8eed9e9-d70d-48cb-9c79-64e0b1da1222",
+                            "itemBody": "\u003cp\u003eC. is assigned to a company based on its overall creditworthiness.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8888,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4695,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55107",
+            "entry": {
+                "title": "ITEM_CFA-L1-08228",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eAn issuer's credit rating \u003ci\u003emost likely\u003c/i\u003e applies to its:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "eee620e9-b307-40ce-81c2-4d9f4a7f77a6"
+                },
+                "answerFeedback": {
+                    "9e794378-f7ed-4d65-b5ec-140406d03236": "\u003cp\u003eIncorrect because the issuer credit rating usually applies to senior unsecured debt, not subordinated debt or senior secured debt.\u003c/p\u003e",
+                    "b97e7842-2d95-46e4-85b4-fda3d7798a3b": "\u003cp\u003eIncorrect because the issuer credit rating usually applies to senior unsecured debt, not subordinated debt or senior secured debt.\u003c/p\u003e",
+                    "eee620e9-b307-40ce-81c2-4d9f4a7f77a6": "\u003cp\u003eCorrect because an issuer credit rating is meant to address an obligor's overall creditworthiness – its ability and willingness to make timely payments of interest and principal on its debt. The issuer credit rating usually applies to its senior unsecured debt.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b97e7842-2d95-46e4-85b4-fda3d7798a3b",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003esubordinated debt.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9e794378-f7ed-4d65-b5ec-140406d03236",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003esenior secured debt.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "eee620e9-b307-40ce-81c2-4d9f4a7f77a6",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003esenior unsecured debt.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8888,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4695,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51215",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe following questions are related to Mojofon Holdings:\u003c/p\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMojofon Holdings specializes in the design, manufacturing, and marketing of its own branded smartphones. An evolving sector, the smartphone market is dominated by few large firms who together have close to 70% of the global market. Mojofon’s global market share is consistently around 3%, and it is positioned as a niche player.\u003c/p\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn industry assessment leads to the following observations:\u003c/p\u003e\u003cul id=\"CFA2446-R-s04-L2\" style=\"list-style-type: disc; margin-bottom: 15px; padding-left: 20px;\"\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCompetition of the smartphone industry is intense, driven by consistent technology upgrades and new models with short product life cycles. The large investment and marketing budgets of dominant players have sustained high industry concentration.\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eNew entrants positioned as niche producers of “cult” models like Mojofon consistently compete for market share.\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCustomers are “price-takers,” as smartphones are seen as a necessity. Pricing is usually set by the top three producers, and small firms have little pricing power. Surveys show that customers defer new phone purchases unless they have damaged their phones or there is a leap in technology.\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCore mobile phone technology, such as semiconductor chips and mobile operating licenses, are concentrated among few key suppliers that command large profit margins at the expense of phone manufacturers.\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSmartphone shipment has seen low growth in recent years due to market saturation and high penetration, limited technological advancement, and an economic slowdown. There are signs the sector is maturing. Industry concentration is increasing, with the top five firms accounting for 60–70% of global shipment and industry profit.\u003c/p\u003e\n               \u003c/li\u003e\n            \u003c/ul\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8227,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4478,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51216",
+            "entry": {
+                "title": "CFA2446-R-s04-Q6",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. Based on the industry assessment:\u003c/p\u003e\n               \u003cdiv id=\"CFA2446-R-s04-T-2-e\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n                  \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                     \n                     \u003cthead\u003e\n                        \u003ctr\u003e\n                           \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\n                              \u003cstrong\u003eCompetitive Forces\u003c/strong\u003e\n                           \u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                              \u003cstrong\u003eIntensity\u003c/strong\u003e\n                           \u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                              \u003cstrong\u003eCapacity to Support Debt\u003c/strong\u003e\n                           \u003c/th\u003e\n                        \u003c/tr\u003e\n                     \u003c/thead\u003e\n                     \u003ctbody\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eThreat of new entrants\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003eLow\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003eHigh\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eBargaining power of suppliers\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003eHigh\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003eLow\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eBargaining power of customers\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003eLow\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003eHigh\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eThreat of substitutes\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003eLow\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003eHigh\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003eIndustry rivalry\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003eHigh\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003eLow\u003c/td\u003e\n                        \u003c/tr\u003e\n                     \u003c/tbody\u003e\n                  \u003c/table\u003e\u003c/div\u003e\n               \u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIndustry rivalry and bargaining power of suppliers are all high intensity, implying low capacity to support debt.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on her smartphone industry assessment, the credit analyst concludes that Mojofon’s debt service capacity is low because:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "97c1382d-a1c8-4827-89d2-5f4177a91704"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1f34457a-13c6-4525-8a84-b33ca6ee029e",
+                            "itemBody": "A. the threat of substitutes is low.",
+                            "position": 1
+                        },
+                        {
+                            "id": "67a994fa-1f3e-4562-8925-dea1f82019b9",
+                            "itemBody": "B. the threat of new entrants and bargaining power of customers are low.",
+                            "position": 2
+                        },
+                        {
+                            "id": "97c1382d-a1c8-4827-89d2-5f4177a91704",
+                            "itemBody": "C. the industry rivalry and the bargaining power of suppliers are high.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8227,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4478,
+            "stimulusQuizEntryId": "51215"
+        },
+        {
+            "id": "51217",
+            "entry": {
+                "title": "CFA2446-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. If the industry is maturing with low growth and the market becomes further concentrated among a few dominant firms, credit conditions for smaller smartphone producers will most likely tighten.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on the overall industry assessment, the credit analyst concludes that the credit conditions for Mojofon will \u003cem\u003emost likely\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3d01cebe-c40c-4f82-a32b-231bb754ff45"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3d01cebe-c40c-4f82-a32b-231bb754ff45",
+                            "itemBody": "A. tighten because the sector is maturing, and industry concentration is increasing.",
+                            "position": 1
+                        },
+                        {
+                            "id": "985fe34c-0514-4c35-af8e-46d64bcf5d61",
+                            "itemBody": "B. remain unchanged because Mojofon’s market share is constant despite low industry growth.",
+                            "position": 2
+                        },
+                        {
+                            "id": "a152e82c-d7ef-4766-95ab-fd7eee19b0de",
+                            "itemBody": "C. expand since niche market entrants are consistently seizing market share from dominant firms.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8227,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4478,
+            "stimulusQuizEntryId": "51215"
+        },
+        {
+            "id": "51218",
+            "entry": {
+                "title": "CFA2446-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. Extending debt maturity proactively will help extend Mojofon’s debt maturity profile and reduce near-term default risk. B is incorrect, as debt-funded acquisitions reduce future cash flow certainty and increase credit risk. A is incorrect since increasing the dividend is a shareholder-friendly action that increases leverage and credit risk.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following will \u003cem\u003emost likely\u003c/em\u003e reduce Mojofon’s near-term default risk?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e6018875-daa2-4c92-9be8-02b2bde0a8f5"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "45acf8f7-957c-4b43-9495-c593ffd2833d",
+                            "itemBody": "A. A new policy to increase dividends on a steady basis",
+                            "position": 1
+                        },
+                        {
+                            "id": "a2d8ce30-5250-4ee7-af97-4cb07cbf2e61",
+                            "itemBody": "B. A three-year strategy to pursue acquisitions funded by debt",
+                            "position": 2
+                        },
+                        {
+                            "id": "e6018875-daa2-4c92-9be8-02b2bde0a8f5",
+                            "itemBody": "C. Proactive management of debt maturity by issuing longer-term bonds",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8227,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4478,
+            "stimulusQuizEntryId": "51215"
+        },
+        {
+            "id": "51219",
+            "entry": {
+                "title": "CFA2446-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. Debt/capital = Debt / (Debt + Equity)\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e= 100/(100 + 100) = 0.5 or 50% for Mojofon for the current year.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe credit analyst studies the key financial information of Mojofon and that of its peers below:\u003c/p\u003e\n\u003cdiv id=\"CFA2446-R-s04-T-2-f\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" rowspan=\"2\" scope=\"col\"\u003e\u003cstrong\u003eKey Credit Metrics\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: middle; padding: 8px;\" colspan=\"2\" scope=\"row\"\u003e\u003cstrong\u003eMojofon\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\" rowspan=\"2\" scope=\"col\"\u003e\u003cstrong\u003ePeer Average\u003c/strong\u003e \u003cbr\u003e\u003cstrong\u003eCurrent Year\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: center; vertical-align: middle; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003ePrior Year\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: middle; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eCurrent Year\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px;\"\u003eEBITDA\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e27\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e20\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e55\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px;\"\u003eRevenue\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e121\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e100\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e305\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px;\"\u003eFCF\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e9\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e−5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e40\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px;\"\u003eFCF after dividends\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e−7\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e32\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px;\"\u003eInterest expense\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e8\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e10\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px;\"\u003eTotal debt\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e100\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e100\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e150\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px;\"\u003eTotal equity\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e120\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e100\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e250\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDebt/capital for Mojofon for the current year is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "26ae32b6-81ae-4723-8053-844d384da9b5"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4a5cf09e-3632-4bc7-811f-0adba28571cf",
+                            "itemBody": "A. 37.5%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "26ae32b6-81ae-4723-8053-844d384da9b5",
+                            "itemBody": "B. 50.0%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "0ea0faf0-7c4a-4d99-ac65-edebc42b6f72",
+                            "itemBody": "C. 100.0%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8227,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4478,
+            "stimulusQuizEntryId": "51215"
+        },
+        {
+            "id": "51220",
+            "entry": {
+                "title": "CFA2446-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. EBITDA/Interest coverage for Mojofon for the current year = 20/8 = 2.5. The corresponding ratio for the prior year = 27/5 = 5.4. Therefore, Mojofon’s coverage ratio has deteriorated, and the company has breached its coverage ratio covenant (\u0026gt;= 3.0). On the other hand, EBITDA/Interest among its peers = 55/10 = 5.5, which is much better than that of Mojofon. Based on coverage ratio analysis, Mojofon has higher, not lower, credit risk than its peers.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe outstanding bonds of Mojofon contain a covenant that requires its EBITDA/Interest coverage ratio to be above 3.0. Based on coverage ratio analysis, Mojofon \u003cem\u003emost likely\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "aa12f7fe-a394-4532-b64a-27b240d1349e"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f07789d6-4987-4b6e-a8f2-2768aba7ea39",
+                            "itemBody": "A. has improved its coverage ratio.",
+                            "position": 1
+                        },
+                        {
+                            "id": "aa12f7fe-a394-4532-b64a-27b240d1349e",
+                            "itemBody": "B. is in breach of this bond covenant.",
+                            "position": 2
+                        },
+                        {
+                            "id": "0e5c026b-5286-491a-ac4c-54ec3e477005",
+                            "itemBody": "C. has lower credit risk than its peers.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8227,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4478,
+            "stimulusQuizEntryId": "51215"
+        },
+        {
+            "id": "51221",
+            "entry": {
+                "title": "CFA2446-R-s04-Q11",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. Despite the better profit measure, EBITDA margin, versus its peers, Mojofon’s cash flow measures, leverage, and coverage ratios are all considerably worse than its peers. Therefore, it has higher credit risk.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on the financial information, Mojofon’s credit risk is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "df696e6b-4b5a-41c1-8375-56a2443f286f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "12507c13-11ad-4bab-80bf-3dcd431cc4fc",
+                            "itemBody": "A. below that of its peers.",
+                            "position": 1
+                        },
+                        {
+                            "id": "acd9cde6-b510-43f5-9656-0012dbe01e9b",
+                            "itemBody": "B. similar to that of its peers.",
+                            "position": 2
+                        },
+                        {
+                            "id": "df696e6b-4b5a-41c1-8375-56a2443f286f",
+                            "itemBody": "C. above that of its peers.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8227,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4478,
+            "stimulusQuizEntryId": "51215"
+        },
+        {
+            "id": "51222",
+            "entry": {
+                "title": "CFA2446-R-s04-Q12",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. Senior secured bonds rank the highest in the priority of claims, and their recovery depends on the value of the asset collateral. Since the value of asset collateral (60) exceeds the amount of secured bonds outstanding (50), the secured bonds are likely to have full recovery in an event of default. Senior unsecured bonds have higher priority over subordinated bonds, which in turn have higher priority over common equity in insolvency.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMojofon’s capital structure consists of the following:\u003c/p\u003e\n\u003cdiv id=\"CFA2446-R-s04-T-2-g\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eType\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eAmount\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eSenior secured bonds\u003cbr\u003e(pledged by collateral valued at 60)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e50\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eSenior unsecured bonds\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e35\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eSubordinated bonds\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e15\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCommon equity\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e100\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMojofon’s bonds all contain a cross-default provision. If the company is to default on one of its senior unsecured bonds:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0fb69f6d-d8df-420b-a05d-be8cf3e347cf"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0fb69f6d-d8df-420b-a05d-be8cf3e347cf",
+                            "itemBody": "A. the secured bonds are likely to have full recovery.",
+                            "position": 1
+                        },
+                        {
+                            "id": "9f12bf0b-ae11-42c7-a02a-b6a92e6b490b",
+                            "itemBody": "B. the credit loss on senior unsecured bonds will be the same as that on subordinated bonds.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b90adea5-954f-4127-871a-fb47f5b18c8b",
+                            "itemBody": "C. the subordinated bonds will rank below shareholders, who may dictate how recovery is to be distributed.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8227,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4478,
+            "stimulusQuizEntryId": "51215"
+        },
+        {
+            "id": "51223",
+            "entry": {
+                "title": "CFA2446-R-s04-Q13",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. Senior unsecured bonds issued by the holding company are said to be structurally subordinated to those issued by the major operating subsidiary. Debt at the operating subsidiary will be serviced by the cash flow and assets of the subsidiary first before any funds can be upstreamed to the holding company to service debt at that level.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSince the operating subsidiary accounts for over 90% of the group’s cash flow and assets but only half of the group’s senior unsecured debt, the holding company debt can only be serviced after the operating subsidiary debt is paid in full. The unsecured bonds issued by the subsidiary will most likely have higher recovery.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eHalf of Mojofon’s senior unsecured bonds are issued by its major operating subsidiary, which contributes over 90% of the group’s cash flow and assets, and the remainder of the group’s senior unsecured bonds are issued by the holding company that relies on dividend upstreamed by its subsidiaries. There is no cross-guarantee between the holding company and the subsidiary. In an event of default, it is \u003cem\u003emost likely\u003c/em\u003e that:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "51bd2cb9-324e-4f0e-91f3-bdc91f8bd1fb"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e7c46cce-bd74-425f-a417-46212be3ffbe",
+                            "itemBody": "A. the unsecured bonds issued by the holding company will have a higher recovery rate.",
+                            "position": 1
+                        },
+                        {
+                            "id": "51bd2cb9-324e-4f0e-91f3-bdc91f8bd1fb",
+                            "itemBody": "B. the unsecured bonds issued by the operating subsidiary will have a higher recovery rate.",
+                            "position": 2
+                        },
+                        {
+                            "id": "d0a552ac-e75c-4a70-b6ea-3ecb374e970b",
+                            "itemBody": "C. the recovery rate will be the same for all senior unsecured bonds since they rank pari passu with each other.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8227,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4478,
+            "stimulusQuizEntryId": "51215"
+        },
+        {
+            "id": "51224",
+            "entry": {
+                "title": "CFA2446-R-s04-Q14",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. An issuer credit rating is the rating applied to a company’s senior unsecured debt. The rating agency will usually apply a notching adjustment to the lower-ranked subordinated debt, whose rating should therefore be lower than that of the senior unsecured debt.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMojofon’s S\u0026amp;P issuer credit rating is B+. Its S\u0026amp;P subordinated bond issue rating is \u003cem\u003emost likely\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b7df3c4c-0c69-4608-adbd-55cf78ec2937"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c12eef55-0df9-4401-b186-1647d1709e3b",
+                            "itemBody": "A. BB –.",
+                            "position": 1
+                        },
+                        {
+                            "id": "23e82a2d-cfd2-44fb-98ab-891df7f69d6f",
+                            "itemBody": "B. B+.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b7df3c4c-0c69-4608-adbd-55cf78ec2937",
+                            "itemBody": "C. B –.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8227,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4478,
+            "stimulusQuizEntryId": "51215"
+        },
+        {
+            "id": "53839",
+            "entry": {
+                "title": "ITEM_20170607056",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich bonds \u003ci\u003emost likely\u003c/i\u003e rank the highest with respect to priority of claims?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "749c87be-4550-4fa5-bedc-e5424938d9bb"
+                },
+                "answerFeedback": {
+                    "2ae745ab-8ff8-4226-abd3-6076891ba5d4": "\u003cp\u003eIncorrect because subordinated debts are the lowest rank among those three.\u003c/p\u003e",
+                    "749c87be-4550-4fa5-bedc-e5424938d9bb": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Second lien debt has a secured interest in the pledged assets and ranks higher than the unsecured debt, such as senior unsecured bonds and subordinated debt.\u003c/p\u003e",
+                    "aa9c7350-b7be-4a8a-b28e-63a2c0cf4499": "\u003cp\u003eIncorrect because senior unsecured bonds are a type of unsecured claim. They rank lower than second lien debts, which are secured claims to the pledged assets.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "749c87be-4550-4fa5-bedc-e5424938d9bb",
+                            "itemBody": "\u003cp\u003eA. Second lien debt\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2ae745ab-8ff8-4226-abd3-6076891ba5d4",
+                            "itemBody": "\u003cp\u003eB. Subordinated debt\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "aa9c7350-b7be-4a8a-b28e-63a2c0cf4499",
+                            "itemBody": "\u003cp\u003eC. Senior unsecured bond\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8672,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4478,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53840",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Mazur-20",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWith respect to the credit rating agencies'\u0026nbsp;practice of notching, the size of a notching adjustment:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "75f5cbe7-3b87-44a8-946a-e530c2822fea"
+                },
+                "answerFeedback": {
+                    "09890bd5-feb2-4fe1-ae1b-6258c2715350": "\u003cp\u003eIncorrect because notching is applied according to each credit rating agency's\u0026nbsp;notching guidelines.\u003c/p\u003e",
+                    "75f5cbe7-3b87-44a8-946a-e530c2822fea": "\u003cp\u003eCorrect because recognizing different payment priorities, and thus the potential for higher (or lower) loss severity in the event of default, the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating, which is usually the rating applied to its senior unsecured debt. As a general rule, the higher the senior unsecured rating, the smaller the notching adjustment. The reason behind this is that the higher the rating, the lower the perceived risk of default; so, the need to 'notch' the rating to capture the potential difference in loss severity is greatly reduced. For lower-rated credits, however, the risk of default is greater and thus the potential difference in loss from a lower (or higher) priority\u0026nbsp;ranking is a bigger consideration in assessing an issue’s credit riskiness.\u003c/p\u003e",
+                    "bbc46862-d0f8-4719-83bf-276fe8d76234": "\u003cp\u003eIncorrect because as a general rule, the higher the senior unsecured rating, the smaller the notching adjustment.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bbc46862-d0f8-4719-83bf-276fe8d76234",
+                            "itemBody": "\u003cp\u003eA. is larger\u0026nbsp;for higher-rated credits.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "09890bd5-feb2-4fe1-ae1b-6258c2715350",
+                            "itemBody": "\u003cp\u003eB. is standardized between rating agencies.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "75f5cbe7-3b87-44a8-946a-e530c2822fea",
+                            "itemBody": "\u003cp\u003eC. depends on the rating of the issuer's senior unsecured debt.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8672,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4478,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53841",
+            "entry": {
+                "title": "ITEM_CFA-L1-06234",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA corporation with a holding company structure has debt at both its parent holding company and operating subsidiaries. Debt at the operating level must be serviced before funds can be upstreamed to pay debt at the holding company. This arrangement \u003ci\u003ebest \u003c/i\u003edescribes:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2f297066-1eb2-46c9-8a13-368e7f729559"
+                },
+                "answerFeedback": {
+                    "2f297066-1eb2-46c9-8a13-368e7f729559": "\u003cp\u003eCorrect because another factor considered by rating agencies is structural subordination, which can arise when a corporation with a holding company structure has debt at both its parent holding company and operating subsidiaries. Debt at the operating subsidiaries will get serviced by the cash flow and assets of the subsidiaries before funds can be passed (“upstreamed”) to the holding company to service debt at that level.\u003c/p\u003e",
+                    "a349a0db-6aad-4a7e-a8db-06b55b7ab56f": "\u003cp\u003eIncorrect because cross-default provisions, occur when default such as non-payment of interest on one bond trigger default on all outstanding debt.\u0026nbsp;This is not structural subordination.\u003c/p\u003e",
+                    "edbe39cd-3b6c-4a61-8089-802131c1b127": "\u003cp\u003eIncorrect because rating agencies will typically provide both issuer and issue ratings, particularly as they relate to corporate debt. Terminology used to distinguish between issuer and issue ratings includes corporate family rating.\u0026nbsp;This is not structural subordination.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2f297066-1eb2-46c9-8a13-368e7f729559",
+                            "itemBody": "\u003cp\u003eA. structural subordination.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a349a0db-6aad-4a7e-a8db-06b55b7ab56f",
+                            "itemBody": "\u003cp\u003eB. a cross-default provision.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "edbe39cd-3b6c-4a61-8089-802131c1b127",
+                            "itemBody": "\u003cp\u003eC. the corporate family rating.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8672,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4478,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

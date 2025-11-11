@@ -1,0 +1,980 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6113,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 15,
+    "hidden_question_count": 0,
+    "points": 2,
+    "points_possible": 15,
+    "correct_questions_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 5: Portfolio Mathematics",
+        "topic_id": 1031,
+        "topic": "CFA-26-02-LI-C: Quantitative Methods",
+        "subtopic_id": 6113,
+        "subtopic": "Module 5: Portfolio Mathematics",
+        "question_count": 15,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 799,
+                "name": "Warehouse Course: Quantitative Methods 26-LI",
+                "code": "Warehouse Course: Quantitative Methods 26-LI",
+                "module_id": 4105,
+                "question_count": 11,
+                "type": "warehouse"
+            },
+            {
+                "id": 838,
+                "name": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "code": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "module_id": 4626,
+                "question_count": 4,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 15.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "2391853b4df82746",
+        "ordered_item_ids": [
+            "53108",
+            "53580",
+            "53581",
+            "53582",
+            "53583",
+            "53584",
+            "53585",
+            "53586",
+            "53587",
+            "53588",
+            "53589",
+            "54421",
+            "54422",
+            "54423",
+            "54424"
+        ],
+        "visible_item_ids": [
+            "53108",
+            "53580",
+            "53581",
+            "53582",
+            "53583",
+            "53584",
+            "53585",
+            "53586",
+            "53587",
+            "53588",
+            "53589",
+            "54421",
+            "54422",
+            "54423",
+            "54424"
+        ]
+    },
+    "items": [
+        {
+            "id": "53108",
+            "entry": {
+                "title": "CFA2403-R-s03-Q2",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The covariance is 26.56, calculated as follows. First, expected returns are\u003c/p\u003e\n\u003cdiv id=\"CFA2403-R-s03-E-2-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cem\u003eE\u003c/em\u003e(R\u003csub\u003eFI\u003c/sub\u003e) = (0.25 × 25) + (0.50 × 15) + (0.25 × 10)\u003c/div\u003e\n\u003cdiv id=\"CFA2403-R-s03-E-2-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e= 6.25 + 7.50 + 2.50 = 16.25 and\u003c/div\u003e\n\u003cdiv id=\"CFA2403-R-s03-E-2-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cem\u003eE\u003c/em\u003e(R\u003csub\u003eDI\u003c/sub\u003e) = (0.25 × 30) + (0.50 × 25) + (0.25 × 15)\u003c/div\u003e\n\u003cdiv id=\"CFA2403-R-s03-E-2-___3\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e= 7.50 + 12.50 + 3.75 = 23.75.\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCovariance is\u003c/p\u003e\n\u003cdiv id=\"CFA2403-R-s03-E-2-___4\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003eCov(R\u003csub\u003eFI\u003c/sub\u003e,R\u003csub\u003eDI\u003c/sub\u003e) = \u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmunder\u003e \u003cmstyle\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003c/mstyle\u003e \u003cmi\u003ei\u003c/mi\u003e \u003c/munder\u003e \u003cmunder\u003e \u003cmstyle\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003c/mstyle\u003e \u003cmi\u003ej\u003c/mi\u003e \u003c/munder\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eI\u003c/mi\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmi\u003ei\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003eI\u003c/mi\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmi\u003ej\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eI\u003c/mi\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmi\u003ei\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003eE\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eI\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003eI\u003c/mi\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmi\u003ej\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003eE\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003eI\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2403-R-s03-E-2-___5\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e= 0.25[(25\u0026nbsp;–\u0026nbsp;16.25)(30\u0026nbsp;–\u0026nbsp;23.75)] + 0.50[(15\u0026nbsp;–\u0026nbsp;16.25)(25\u0026nbsp;–\u0026nbsp;23.75)] + 0.25[(10\u0026nbsp;–\u0026nbsp;16.25)(15\u0026nbsp;–\u0026nbsp;23.75)]\u003c/div\u003e\n\u003cdiv id=\"CFA2403-R-s03-E-2-___6\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e= 13.67 + (–0.78) + 13.67 = 26.56.\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst produces the following joint probability function for a foreign index (FI) and a domestic index (DI).\u003c/p\u003e\n\u003cdiv id=\"CFA2403-R-s03-T-2-c\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: center; vertical-align: top;\"\u003e\u0026nbsp;\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom;\"\u003eR\u003csub\u003eDI\u003c/sub\u003e = 30%\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom;\"\u003eR\u003csub\u003eDI\u003c/sub\u003e = 25%\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom;\"\u003eR\u003csub\u003eDI\u003c/sub\u003e = 15%\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eR\u003csub\u003eFI\u003c/sub\u003e = 25%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e0.25\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eR\u003csub\u003eFI\u003c/sub\u003e = 15%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e0.50\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eR\u003csub\u003eFI\u003c/sub\u003e = 10%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e0.25\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe covariance of returns on the foreign index and the returns on the domestic index is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "421a3fe5-fc18-4613-852f-516954666fc6"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "dd92acd7-b0a7-4bfc-8da1-e20f9a4d7c87",
+                            "itemBody": "A. 26.39.",
+                            "position": 1
+                        },
+                        {
+                            "id": "421a3fe5-fc18-4613-852f-516954666fc6",
+                            "itemBody": "B. 26.56.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2e21acbe-f59a-4cdf-a82d-fac573d2054d",
+                            "itemBody": "C. 28.12.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7983,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4105,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53580",
+            "entry": {
+                "title": "ITEM_20170421027",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eThe following information applies to a portfolio composed of Fund \u003ci\u003eA\u003c/i\u003e and Fund \u003ci\u003eB\u003c/i\u003e:\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eFund \u003ci\u003eA\u003c/i\u003e\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eFund \u003ci\u003eB\u003c/i\u003e\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003ePortfolio weights (%)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e70\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e30\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eExpected returns (%)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e10\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e16\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eStandard deviations (%)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e7\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e13\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eCorrelation between the returns of Fund A and Fund B\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\" colspan=\"2\"\u003e0.80\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eThe portfolio's standard deviation of return is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c28d07ab-ad21-4c31-bc0d-c5d09ac73e2a"
+                },
+                "answerFeedback": {
+                    "45f32472-ba60-4526-a693-acdfae3c5e38": "\u003cp\u003eIncorrect. In the formula of the portfolio standard deviation of returns the term \u003cem\u003ew\u003csub\u003eA\u003c/sub\u003ew\u003csub\u003eB\u003c/sub\u003e\u003c/em\u003eCov(\u003cem\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/em\u003e,\u003cem\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/em\u003e) is used only once:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003ew\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003cmsup\u003e \u003cmi\u003eσ\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmsubsup\u003e \u003cmi\u003ew\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003cmsup\u003e \u003cmi\u003eσ\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmsub\u003e \u003cmi\u003ew\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003cmsub\u003e \u003cmi\u003ew\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003cmtext\u003eCov\u003c/mtext\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003cmo\u003e,\u003c/mo\u003e\u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.5\u003c/mn\u003e\u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e= [0.70\u003csup\u003e2\u003c/sup\u003e × 0.07\u003csup\u003e2\u003c/sup\u003e + 0.30\u003csup\u003e2\u003c/sup\u003e × 0.13\u003csup\u003e2\u003c/sup\u003e + 0.70 × 0.30 × 0.00728]\u003csup\u003e0.5\u003c/sup\u003e = 7.38%\u003c/p\u003e",
+                    "78d00651-e10c-47b5-bee9-2a72557fce9b": "\u003cp\u003eIncorrect. It uses a wrong formula: \u003cem\u003ew\u003csub\u003eA\u003c/sub\u003e\u003c/em\u003eσ(\u003cem\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/em\u003e) + \u003cem\u003ew\u003csub\u003eB\u003c/sub\u003e\u003c/em\u003eσ(\u003cem\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/em\u003e) = 0.70 × 0.07 + 0.30 × 0.13 = 8.80%\u003c/p\u003e",
+                    "c28d07ab-ad21-4c31-bc0d-c5d09ac73e2a": "\u003cp\u003eCorrect. The covariance between Fund \u003cem\u003eA\u003c/em\u003e and Fund \u003cem\u003eB\u003c/em\u003e, given the standard deviation of returns and the correlation between the two funds, is calculated as: Cov(\u003cem\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/em\u003e,\u003cem\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/em\u003e) = ρ(\u003cem\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/em\u003e,\u003cem\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/em\u003e)σ(\u003cem\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/em\u003e)σ(\u003cem\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/em\u003e) = 0.80 × 7% × 13% = 0.00728, where\u003c/p\u003e\n\u003cp\u003eσ(\u003cem\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/em\u003e) and σ(\u003cem\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/em\u003e) = the standard deviations of returns of funds \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e, respectively\u003c/p\u003e\n\u003cp\u003eρ(\u003cem\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/em\u003e,\u003cem\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/em\u003e) = the correlation between the returns of funds \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003eThen the portfolio standard deviation of returns is calculated as follow:\u003cmath style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eσ\u003c/mi\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmrow\u003e \u003cmtext\u003eportfolio\u003c/mtext\u003e\u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003ew\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003cmsup\u003e \u003cmi\u003eσ\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmsubsup\u003e \u003cmi\u003ew\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003cmsup\u003e \u003cmi\u003eσ\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003cmsub\u003e \u003cmi\u003ew\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003cmsub\u003e \u003cmi\u003ew\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003cmtext\u003eCov\u003c/mtext\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003cmo\u003e,\u003c/mo\u003e\u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.5\u003c/mn\u003e\u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e where \u003cem\u003ew\u003csub\u003eA\u003c/sub\u003e\u003c/em\u003e and \u003cem\u003ew\u003csub\u003eB\u003c/sub\u003e\u003c/em\u003e are the weights of funds \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e in the portfolio.\u003c/p\u003e\n\u003cp\u003eσ(\u003cem\u003eR\u003c/em\u003e\u003csub\u003eportfolio\u003c/sub\u003e) = [0.70\u003csup\u003e2\u003c/sup\u003e × 0.07\u003csup\u003e2\u003c/sup\u003e + 0.30\u003csup\u003e2\u003c/sup\u003e × 0.13\u003csup\u003e2\u003c/sup\u003e + 2 × 0.70 × 0.30 × 0.00728]\u003csup\u003e0.5\u003c/sup\u003e = \u003cstrong\u003e8.35%\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eAlternatively, correlation is used directly in the formula for portfolio standard deviation:\u003cmath style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003cmi\u003eσ\u003c/mi\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e\u003cmsub\u003e\u003cmi\u003eR\u003c/mi\u003e\u003cmtext\u003eportfolio\u003c/mtext\u003e\u003c/msub\u003e\u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmsup\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e\u003cmsubsup\u003e\u003cmi\u003ew\u003c/mi\u003e\u003cmi\u003eA\u003c/mi\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/msubsup\u003e\u003cmsup\u003e\u003cmi\u003eσ\u003c/mi\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/msup\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e\u003cmsub\u003e\u003cmi\u003eR\u003c/mi\u003e\u003cmi\u003eA\u003c/mi\u003e\u003c/msub\u003e\u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmsubsup\u003e\u003cmi\u003ew\u003c/mi\u003e\u003cmi\u003eB\u003c/mi\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/msubsup\u003e\u003cmsup\u003e\u003cmi\u003eσ\u003c/mi\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/msup\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e\u003cmsub\u003e\u003cmi\u003eR\u003c/mi\u003e\u003cmi\u003eB\u003c/mi\u003e\u003c/msub\u003e\u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003cmsub\u003e\u003cmi\u003ew\u003c/mi\u003e\u003cmi\u003eA\u003c/mi\u003e\u003c/msub\u003e\u003cmsub\u003e\u003cmi\u003ew\u003c/mi\u003e\u003cmi\u003eB\u003c/mi\u003e\u003c/msub\u003e\u003cmi\u003eρ\u003c/mi\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e\u003cmsub\u003e\u003cmi\u003eR\u003c/mi\u003e\u003cmi\u003eA\u003c/mi\u003e\u003c/msub\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmsub\u003e\u003cmi\u003eR\u003c/mi\u003e\u003cmi\u003eB\u003c/mi\u003e\u003c/msub\u003e\u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmi\u003eσ\u003c/mi\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e\u003cmsub\u003e\u003cmi\u003eR\u003c/mi\u003e\u003cmi\u003eA\u003c/mi\u003e\u003c/msub\u003e\u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmi\u003eσ\u003c/mi\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e\u003cmsub\u003e\u003cmi\u003eR\u003c/mi\u003e\u003cmi\u003eB\u003c/mi\u003e\u003c/msub\u003e\u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003cmn\u003e0.5\u003c/mn\u003e\u003c/msup\u003e\u003c/math\u003e\u003c/p\u003e\n\u003cp\u003eσ(\u003cem\u003eR\u003c/em\u003e\u003csub\u003eportfolio\u003c/sub\u003e) = [0.70\u003csup\u003e2\u003c/sup\u003e × 0.07\u003csup\u003e2\u003c/sup\u003e + 0.30\u003csup\u003e2\u003c/sup\u003e × 0.13\u003csup\u003e2\u003c/sup\u003e + 2 × 0.70 × 0.30 × 0.80 × 0.07 × 0.13]\u003csup\u003e0.5\u003c/sup\u003e = \u003cstrong\u003e8.35%\u003c/strong\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "45f32472-ba60-4526-a693-acdfae3c5e38",
+                            "itemBody": "\u003cp\u003eA. 7.38%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "78d00651-e10c-47b5-bee9-2a72557fce9b",
+                            "itemBody": "\u003cp\u003eB. 8.80%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c28d07ab-ad21-4c31-bc0d-c5d09ac73e2a",
+                            "itemBody": "\u003cp\u003eC. 8.35%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8578,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4105,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53581",
+            "entry": {
+                "title": "ITEM_20170421020",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAssuming no short selling, a diversification benefit is \u003ci\u003emost likely\u003c/i\u003e to occur when the correlations among the securities contained in the portfolio are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "218c954a-7138-4c58-be5b-24161f34c667"
+                },
+                "answerFeedback": {
+                    "218c954a-7138-4c58-be5b-24161f34c667": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e As long as security returns are not perfectly positively correlated, diversification benefits are possible.\u003c/p\u003e",
+                    "a0de3226-e3d5-4e30-8b97-62795478f917": "\u003cp\u003eIncorrect.\u0026nbsp;Correlation cannot be greater than positive one.\u003c/p\u003e",
+                    "e6909340-1a41-4918-b9d6-344721a8b32d": "\u003cp\u003eIncorrect.\u0026nbsp;If correlations equal 1, no diversification benefit occurs.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a0de3226-e3d5-4e30-8b97-62795478f917",
+                            "itemBody": "\u003cp\u003eA. greater than +1.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e6909340-1a41-4918-b9d6-344721a8b32d",
+                            "itemBody": "\u003cp\u003eB. equal to +1.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "218c954a-7138-4c58-be5b-24161f34c667",
+                            "itemBody": "\u003cp\u003eC. less than +1.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8578,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4105,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53582",
+            "entry": {
+                "title": "ITEM_20170421132",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eThe joint probability of returns for securities A and B are as follows:\n\u003cdiv\u003e\n\u003cp\u003e\u003cstrong\u003eJoint Probability Function of Security A and Security B Returns (Entries Are Joint Probabilities)\u003c/strong\u003e\u003c/p\u003e\n\u003c/div\u003e\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eReturn on Security B = 30%\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eReturn on Security B = 20%\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eReturn on Security A = 25%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e0.60\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eReturn on Security A = 20%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e0\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e0.40\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eThe covariance of the returns between Securities A and B is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7b3c6ce0-5bff-4fb2-bcd6-82bfd9225d1d"
+                },
+                "answerFeedback": {
+                    "28afd4e4-6a4f-4ddc-b62f-9624e1f00814": "\u003cp\u003eIncorrect. In the covariance calculation, it uses the joint probabilities in the wrong positions:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmtext\u003eCov\u003c/mtext\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003cmo\u003e,\u003c/mo\u003e\u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e0.4\u003c/mn\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e25\u003c/mn\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e23\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e30\u003c/mn\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e26\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.6\u003c/mn\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e20\u003c/mn\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e23\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e20\u003c/mn\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e26\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e0.4\u003c/mn\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e4\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.6\u003c/mn\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e3\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e6\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e0.4\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e8\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.6\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e18\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e3.2\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e10.8\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e14\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e",
+                    "7b3c6ce0-5bff-4fb2-bcd6-82bfd9225d1d": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e First calculate the expected returns on securities A and B with the formula:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eE\u003c/mi\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e \u003cmunderover\u003e \u003cmo style=\"font-size: x-large; font-family: serif;\"\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/mrow\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/munderover\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmi\u003ei\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmsub\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmi\u003ei\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp\u003eExpected return on security A = 0.6 × 25% + 0.4 × 20% = 15% + 8% = 23%\u003c/p\u003e\n\u003cp\u003eExpected return on security B = 0.6 × 30% + 0.4 × 20% = 18% + 8% = 26%\u003c/p\u003e\n\u003cp\u003eThen calculate the covariance of returns between securities A and B with the formula:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eCov(\u003cem\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/em\u003e,\u003cem\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/em\u003e) = \u003cmath style=\"font-family: Arial;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmstyle\u003e \u003cmunderover\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e∑\u003c/mo\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmrow\u003e\u003c/mrow\u003e \u003c/munderover\u003e \u003cmrow\u003e \u003cmstyle\u003e \u003cmunderover\u003e \u003cmo style=\"font-size: x-large; font-family: serif;\"\u003e∑\u003c/mo\u003e \u003cmi\u003ej\u003c/mi\u003e \u003cmrow\u003e\u003c/mrow\u003e \u003c/munderover\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmi\u003ei\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003eB\u003c/mi\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmi\u003ej\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmi\u003ei\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003eE\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003eB\u003c/mi\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmi\u003ej\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003eE\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/mstyle\u003e \u003c/mrow\u003e \u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp\u003ewhere\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/em\u003e and \u003cem\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/em\u003e = the returns on securities A and B, respectively\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem\u003eP\u003c/em\u003e = the joint probability\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem\u003eER\u003csub\u003eA\u003c/sub\u003e\u003c/em\u003e and \u003cem\u003eER\u003csub\u003eB\u003c/sub\u003e\u003c/em\u003e = the expected returns of securities A and B, respectively\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem\u003ei\u003c/em\u003e and \u003cem\u003ej\u003c/em\u003e = the line and column of the joint probability function table above\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e \u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmtext\u003eCov\u003c/mtext\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.6\u003c/mn\u003e \u003cmrow\u003e \u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e25\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e23\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e30\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e26\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.4\u003c/mn\u003e \u003cmrow\u003e \u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e20\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e23\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e20\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e26\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.6\u003c/mn\u003e \u003cmrow\u003e \u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.4\u003c/mn\u003e \u003cmrow\u003e \u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e6\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.6\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e8\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.4\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e18\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e4.8\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e7.2\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e12\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e \u003c/semantics\u003e \u003c/math\u003e\u003c/p\u003e",
+                    "93979c1c-c085-4f58-88ba-a84c26ad2425": "\u003cp\u003eIncorrect. In the covariance calculation, it uses a joint probability of 0.5:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmtext\u003eCov\u003c/mtext\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003cmo\u003e,\u003c/mo\u003e\u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e0.5\u003c/mn\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e25\u003c/mn\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e23\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e30\u003c/mn\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e26\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.5\u003c/mn\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e20\u003c/mn\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e23\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e20\u003c/mn\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e26\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e0.5\u003c/mn\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e4\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.5\u003c/mn\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e3\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e6\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e0.5\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e8\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.5\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e18\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e4\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e9\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e13\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7b3c6ce0-5bff-4fb2-bcd6-82bfd9225d1d",
+                            "itemBody": "\u003cp\u003eA. 12.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "93979c1c-c085-4f58-88ba-a84c26ad2425",
+                            "itemBody": "\u003cp\u003eB. 13.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "28afd4e4-6a4f-4ddc-b62f-9624e1f00814",
+                            "itemBody": "\u003cp\u003eC. 14.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8578,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4105,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53583",
+            "entry": {
+                "title": "ITEM_20170421035",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003e\n\u003cp\u003eAn investor wants to maximize the possibility of earning at least 5% on her investments each year.\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 445px; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 88px; max-width: 88px;\"\u003e\u003cstrong\u003ePortfolio\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 102px; max-width: 102px; text-align: center;\"\u003e\u003cstrong\u003eExpected Return\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 119px; max-width: 119px; text-align: center;\"\u003e\u003cstrong\u003eStandard Deviation\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 124px; max-width: 124px; text-align: center;\"\u003e\u003cstrong\u003eRoy’s Safety-First Ratio\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 88px; max-width: 88px; text-align: center;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"width: 102px; max-width: 102px; text-align: center;\"\u003e---\u003c/td\u003e\n\u003ctd style=\"width: 119px; max-width: 119px; text-align: center;\"\u003e---\u003c/td\u003e\n\u003ctd style=\"width: 124px; max-width: 124px; text-align: center;\"\u003e0.35\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 88px; max-width: 88px; text-align: center;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"width: 102px; max-width: 102px; text-align: center;\"\u003e---\u003c/td\u003e\n\u003ctd style=\"width: 119px; max-width: 119px; text-align: center;\"\u003e---\u003c/td\u003e\n\u003ctd style=\"width: 124px; max-width: 124px; text-align: center;\"\u003e0.64\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 88px; max-width: 88px; text-align: center;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"width: 102px; max-width: 102px; text-align: center;\"\u003e22%\u003c/td\u003e\n\u003ctd style=\"width: 119px; max-width: 119px; text-align: center;\"\u003e40%\u003c/td\u003e\n\u003ctd style=\"width: 124px; max-width: 124px; text-align: center;\"\u003e??\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eUsing Roy’s safety-first criterion, the \u003ci\u003emost\u003c/i\u003e appropriate choice for the investor is portfolio:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "02cebce8-7dcd-4d6a-9b91-b0d801860920"
+                },
+                "answerFeedback": {
+                    "02cebce8-7dcd-4d6a-9b91-b0d801860920": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The portfolio with the highest safety-first ratio (SFRatio) is preferred. The SFRatio is calculated by subtracting the threshold return (\u003cem\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/em\u003e) from the expected return [\u003cem\u003eE\u003c/em\u003e(\u003cem\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/em\u003e)] and dividing by the standard deviation (σ\u003cem\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/em\u003e).\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eSFRatio = [\u003cem\u003eE\u003c/em\u003e(\u003cem\u003eR\u003c/em\u003e\u003csub\u003eP\u003c/sub\u003e) − \u003cem\u003eR\u003c/em\u003e\u003csub\u003eL\u003c/sub\u003e]/σ\u003csub\u003eP\u003c/sub\u003e. For the choices given:\u003c/p\u003e\u003ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:538px\"\u003e\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:165px; max-width:165px\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:105px; max-width:105px\"\u003e\u003cstrong\u003ePortfolio 1\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width:106px; max-width:106px; text-align:center\"\u003e\u003cb\u003ePortfolio 2\u003c/b\u003e\u003c/td\u003e\n\u003ctd style=\"width:149px; max-width:149px; text-align:center\"\u003e\u003cb\u003ePortfolio 3\u003c/b\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:165px; max-width:165px\"\u003eRoy’s Safety First Criterion\u003c/td\u003e\n\u003ctd style=\"width:105px; max-width:105px; text-align:center\"\u003e0.35\u003c/td\u003e\n\u003ctd style=\"width:106px; max-width:106px; text-align:center\"\u003e\u003cb\u003e0.64\u003c/b\u003e\u003c/td\u003e\n\u003ctd style=\"width:149px; max-width:149px; text-align:center\"\u003e0.425=[(22-5)/40]\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\u003c/table\u003e",
+                    "33555f48-1fe7-4f42-b501-f95ad4b60fe1": "\u003cp\u003eIncorrect because 0.425 is less than 0.64.\u003c/p\u003e",
+                    "e46bf169-0d4a-47eb-b971-9bb668bae8a7": "\u003cp\u003eIncorrect because 0.35 is less than 0.64.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "33555f48-1fe7-4f42-b501-f95ad4b60fe1",
+                            "itemBody": "\u003cp\u003eA. 3.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "02cebce8-7dcd-4d6a-9b91-b0d801860920",
+                            "itemBody": "\u003cp\u003eB. 2.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e46bf169-0d4a-47eb-b971-9bb668bae8a7",
+                            "itemBody": "\u003cp\u003eC. 1.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8578,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4105,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53584",
+            "entry": {
+                "title": "ITEM_20170421139",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003e\n\u003cp\u003eAn investor currently has a portfolio valued at $700,000. The investor’s objective is long-term growth, but she will need $30,000 by the end of the year to pay her son’s college tuition and another $10,000 by year-end for her annual vacation. The investor is considering three alternative portfolios:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 694px; border-style: solid;\" border=\"1\" cellspacing=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 86px; max-width: 86px; text-align: center;\"\u003e\u003cstrong\u003ePortfolio\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 158px; max-width: 158px; text-align: center;\"\u003e\u003cstrong\u003eExpected Return\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 272px; max-width: 272px; text-align: center;\"\u003e\u003cstrong\u003eStandard Deviation of Returns\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 163px; max-width: 163px; text-align: center;\"\u003e\u003cstrong\u003eSafety-First Ratio\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 86px; max-width: 86px; text-align: center;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"width: 158px; max-width: 158px; text-align: center;\"\u003e--\u003c/td\u003e\n\u003ctd style=\"width: 272px; max-width: 272px; text-align: center;\"\u003e--\u003c/td\u003e\n\u003ctd style=\"width: 163px; max-width: 163px; text-align: center;\"\u003e0.2290\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 86px; max-width: 86px; text-align: center;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"width: 158px; max-width: 158px; text-align: center;\"\u003e--\u003c/td\u003e\n\u003ctd style=\"width: 272px; max-width: 272px; text-align: center;\"\u003e--\u003c/td\u003e\n\u003ctd style=\"width: 163px; max-width: 163px; text-align: center;\"\u003e0.3300\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 86px; max-width: 86px; text-align: center;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"width: 158px; max-width: 158px; text-align: center;\"\u003e14%\u003c/td\u003e\n\u003ctd style=\"width: 272px; max-width: 272px; text-align: center;\"\u003e22%\u003c/td\u003e\n\u003ctd style=\"width: 163px; max-width: 163px; text-align: center;\"\u003e--\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cdiv\u003eUsing Roy’s safety-first criterion, which of the alternative portfolios \u003ci\u003emost likely\u003c/i\u003e minimizes the probability that the investor’s portfolio will have a value lower than $700,000 at year-end?\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "678a97eb-2325-4e61-9119-04fd15aa289a"
+                },
+                "answerFeedback": {
+                    "034a5c7e-a28c-48ba-b8dd-d4fb26d41288": "\u003cp\u003eIncorrect. The investor requires a minimum return of ($30,000 + $10,000)/$700,000 or 5.71 percent. Roy’s safety-first model uses the excess portfolio’s expected return over the minimum return and divides that excess by the standard deviation for that portfolio:\u003c/p\u003e\u003cp\u003eSafety-first ratio = [\u003cem\u003eE\u003c/em\u003e(\u003cem\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/em\u003e) − \u003cem\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/em\u003e]/σ\u003cem\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/em\u003e,\u003c/p\u003e\u003cp\u003ewhere\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u003cem\u003eE\u003c/em\u003e(\u003cem\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/em\u003e) = is the expected return of portfolio \u003cem\u003eP\u003c/em\u003e\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u003cem\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/em\u003e = the minimum return required by the investor\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eσ\u003cem\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/em\u003e = the standard deviation of returns of portfolio \u003cem\u003eP\u003c/em\u003e\u003c/p\u003e\u003cdiv\u003e\u003ctable border=\"1\"\u003e\n\u003cthead\u003e\u003ctr\u003e\n\u003ctd style=\"vertical-align:bottom; text-align:center\"\u003e\u003cstrong\u003ePortfolio\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"vertical-align:bottom; text-align:center\"\u003e\u003cstrong\u003eSafety-First Ratio\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e1\u003c/td\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e0.2290\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e2\u003c/td\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e0.3300\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top\"\u003e(14% − 5.71%)/22% = 0.3768\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/div\u003e\u003cp\u003eThe portfolio with the highest safety-first ratio minimizes the probability that the investor’s portfolio will have a value lower than $700,000 at year end. The highest safety-first ratio is associated with Portfolio 3: 0.3768.\u003c/p\u003e",
+                    "4f0f75af-970f-463a-a916-194a263efbf0": "\u003cp\u003eIncorrect. The investor requires a minimum return of ($30,000 + $10,000)/$700,000 or 5.71 percent. Roy’s safety-first model uses the excess portfolio’s expected return over the minimum return and divides that excess by the standard deviation for that portfolio:\u003c/p\u003e\u003cp\u003eSafety-first ratio = [\u003cem\u003eE\u003c/em\u003e(\u003cem\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/em\u003e) − \u003cem\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/em\u003e]/σ\u003cem\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/em\u003e,\u003c/p\u003e\u003cp\u003ewhere\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u003cem\u003eE\u003c/em\u003e(\u003cem\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/em\u003e) = is the expected return of portfolio \u003cem\u003eP\u003c/em\u003e\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u003cem\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/em\u003e = the minimum return required by the investor\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eσ\u003cem\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/em\u003e = the standard deviation of returns of portfolio \u003cem\u003eP\u003c/em\u003e\u003c/p\u003e\u003cdiv\u003e\u003ctable border=\"1\"\u003e\n\u003cthead\u003e\u003ctr\u003e\n\u003ctd style=\"vertical-align:bottom; text-align:center\"\u003e\u003cstrong\u003ePortfolio\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"vertical-align:bottom; text-align:center\"\u003e\u003cstrong\u003eSafety-First Ratio\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e1\u003c/td\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e0.2290\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e2\u003c/td\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e0.3300\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top\"\u003e(14% − 5.71%)/22% = 0.3768\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/div\u003e\u003cp\u003eThe portfolio with the highest safety-first ratio minimizes the probability that the investor’s portfolio will have a value lower than $700,000 at year end. The highest safety-first ratio is associated with Portfolio 3: 0.3768.\u003c/p\u003e",
+                    "678a97eb-2325-4e61-9119-04fd15aa289a": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The investor requires a minimum return of ($30,000 + $10,000)/$700,000, or 5.71%. Roy’s safety-first model uses the excess portfolio’s expected return over the minimum return and divides that excess by the standard deviation for that portfolio:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eSafety-first ratio = [\u003cem\u003eE\u003c/em\u003e(\u003cem\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/em\u003e) − \u003cem\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/em\u003e]/σ\u003cem\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/em\u003e,\u003c/p\u003e\u003cp\u003ewhere\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u003cem\u003eE\u003c/em\u003e(\u003cem\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/em\u003e) = the expected return of portfolio \u003cem\u003eP\u003c/em\u003e\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u003cem\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/em\u003e = the minimum return required by the investor\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eσ\u003cem\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/em\u003e = the standard deviation of returns of portfolio \u003cem\u003eP\u003c/em\u003e\u003c/p\u003e\u003cdiv\u003e\u003ctable border=\"1\"\u003e\n\u003cthead\u003e\u003ctr\u003e\n\u003ctd style=\"vertical-align:bottom; text-align:center\"\u003e\u003cstrong\u003ePortfolio\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"vertical-align:bottom; text-align:center\"\u003e\u003cstrong\u003eSafety-First Ratio\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e1\u003c/td\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e0.2290\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e2\u003c/td\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e0.3300\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align:top; text-align:center\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top\"\u003e(14% − 5.71%)/22% = 0.3768\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/div\u003e\u003cp\u003eThe portfolio with the highest safety-first ratio minimizes the probability that the investor’s portfolio will have a value lower than $700,000 at year end. The highest safety-first ratio is associated with Portfolio 3: 0.3768.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "034a5c7e-a28c-48ba-b8dd-d4fb26d41288",
+                            "itemBody": "\u003cp\u003eA. Portfolio 1\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4f0f75af-970f-463a-a916-194a263efbf0",
+                            "itemBody": "\u003cp\u003eB. Portfolio 2\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "678a97eb-2325-4e61-9119-04fd15aa289a",
+                            "itemBody": "\u003cp\u003eC. Portfolio 3\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8578,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4105,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53585",
+            "entry": {
+                "title": "ITEM_CFA-L1-06935",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA portfolio manager will invest €100,000 and is presented with the following information about three portfolios with normally distributed returns:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 465px; border-style: solid;\" border=\"1\"\u003e\u003ccolgroup\u003e \u003ccol width=\"17.67%\"\u003e \u003ccol width=\"37.34%\"\u003e \u003ccol width=\"44.99%\"\u003e \u003c/colgroup\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 102px; max-width: 102px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 136px; max-width: 136px;\"\u003e\u003cstrong\u003eExpected Annual Return\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 239px; max-width: 239px;\"\u003e\u003cstrong\u003eStandard Deviation of Returns\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 102px; max-width: 102px;\"\u003ePortfolio 1\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 136px; max-width: 136px;\"\u003e23%\u003c/td\u003e\n\u003ctd style=\"width: 239px; max-width: 239px; text-align: center;\"\u003e15%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 102px; max-width: 102px;\"\u003ePortfolio 2\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 136px; max-width: 136px;\"\u003e12%\u003c/td\u003e\n\u003ctd style=\"width: 239px; max-width: 239px; text-align: center;\"\u003e6%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 102px; max-width: 102px;\"\u003ePortfolio 3\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 136px; max-width: 136px;\"\u003e15%\u003c/td\u003e\n\u003ctd style=\"width: 239px; max-width: 239px; text-align: center;\"\u003e8%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf the manager wants to withdraw €5,000 in one year without invading initial capital, the safety-first optimal portfolio is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7d544c06-9a09-49c3-9404-769f77bbfdfb"
+                },
+                "answerFeedback": {
+                    "5cb0b39c-2583-4ec5-aa92-602cc725d1b3": "\u003cp\u003eIncorrect because Portfolio 2 has the lowest standard deviation of returns, but not the highest safety-first ratio. Portfolio 2 also has the highest ratio of expected return to standard deviation (i.e., when the return threshold is omitted); Portfolio 1: 23%/15% ≈ 1.53; Portfolio 2: 12%/6% = 2.00; Portfolio 3: 15%/8% ≈ 1.88.\u003c/p\u003e",
+                    "7d544c06-9a09-49c3-9404-769f77bbfdfb": "\u003cp\u003e\u003cstrong\u003eCorrect\u003c/strong\u003e because if returns are normally distributed, the safety-first optimal portfolio maximizes the safety-first ratio.\u0026nbsp;SFRatio = [\u003ci\u003eE\u003c/i\u003e(\u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e) – \u003ci\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e] / σ\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e, where \u003ci\u003eE\u003c/i\u003e(\u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e) is the expected portfolio return, \u003ci\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e is the investor's minimum acceptable return, and σ\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e is the standard deviation of portfolio returns. The minimum acceptable return is 5% (= €5,000 / €100,000) as the investor needs to withdraw €5,000 without invading initial capital; SF\u003csub\u003eP1\u003c/sub\u003e = (23% – 5%) / 15% = 1.20; SF\u003csub\u003eP2\u003c/sub\u003e = (12% – 5%) / 6% ≈ 1.17; SF\u003csub\u003eP3\u003c/sub\u003e = (15% – 5%) / 8% = 1.25. Therefore, Portfolio 3 is the safety-first optimal portfolio. “The portfolio for which \u003ci\u003eE\u003c/i\u003e(\u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e) − \u003ci\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e is largest relative to standard deviation minimizes \u003ci\u003eP\u003c/i\u003e(\u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e \u0026lt; \u003ci\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e).\u003c/p\u003e",
+                    "a7327332-d16f-4718-8b21-c052f31b30ab": "\u003cp\u003eIncorrect because Portfolio 1 has the highest expected return and the highest difference between expected return and standard deviation, but not the highest safety-first ratio.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a7327332-d16f-4718-8b21-c052f31b30ab",
+                            "itemBody": "\u003cp\u003eA. Portfolio 1.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5cb0b39c-2583-4ec5-aa92-602cc725d1b3",
+                            "itemBody": "\u003cp\u003eB. Portfolio 2.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7d544c06-9a09-49c3-9404-769f77bbfdfb",
+                            "itemBody": "\u003cp\u003eC. Portfolio 3.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8578,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4105,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53586",
+            "entry": {
+                "title": "ITEM_2019BQuant13KJG",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf the covariance between two positively correlated random variables remains the same but the variance of both variables increases, the correlation between the two variables:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f01d576f-3702-4a26-94c0-ceb8e1a897cc"
+                },
+                "answerFeedback": {
+                    "16ff9e99-d5d1-4e30-9c53-827e73617207": "\u003cp\u003eIncorrect because the correlation between two random variables, \u003ci\u003eR\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e and \u003ci\u003eR\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e, is defined as ρ(\u003ci\u003eR\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e) = Cov(\u003ci\u003eR\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e)/[σ(\u003ci\u003eR\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e)σ(\u003ci\u003eR\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e)],\u0026nbsp;where Cov denotes the covariance and σ the standard deviation. Hence an increase in variance will decrease the correlation, not keep it the same. Candidates may select this answer choice since the covariance of correlated variables has remained the same, or if they assume that correlation is independent of variance.\u003c/p\u003e",
+                    "c4360675-a4d0-4900-b848-49e2f0242d90": "\u003cp\u003eIncorrect because the correlation between two random variables, \u003ci\u003eR\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e and \u003ci\u003eR\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e, is defined as ρ(\u003ci\u003eR\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e) = Cov(\u003ci\u003eR\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e)/[σ(\u003ci\u003eR\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e)σ(\u003ci\u003eR\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e)],\u0026nbsp;where Cov denotes the covariance and σ the standard deviation. Hence an increase in variance will decrease the correlation, not increase it. Candidates may select this answer choice if they think that more variance means more covariance and hence more correlation, or if they swap numerator and denominator of the correlation formula; [σ(\u003ci\u003eR\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e)σ(\u003ci\u003eR\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e)]/Cov(\u003ci\u003eR\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e).\u003c/p\u003e",
+                    "f01d576f-3702-4a26-94c0-ceb8e1a897cc": "\u003cp\u003e\u003cstrong\u003eCorrect\u003c/strong\u003e because the correlation between two random variables, \u003ci\u003eR\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e and \u003ci\u003eR\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e, is defined as ρ(\u003ci\u003eR\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e) = Cov(\u003ci\u003eR\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e)/[σ(\u003ci\u003eR\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e)σ(\u003ci\u003eR\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e)],\u0026nbsp;where Cov denotes the covariance and σ the standard deviation. Since the standard deviation of each asset occurs in the denominator of the correlation formula, it is clear that, all else being equal, an increase in the variance (hence standard deviation) of either variable will decrease the correlation.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f01d576f-3702-4a26-94c0-ceb8e1a897cc",
+                            "itemBody": "\u003cp\u003eA. decreases.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "16ff9e99-d5d1-4e30-9c53-827e73617207",
+                            "itemBody": "\u003cp\u003eB. stays the same.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c4360675-a4d0-4900-b848-49e2f0242d90",
+                            "itemBody": "\u003cp\u003eC. increases.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8578,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4105,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53587",
+            "entry": {
+                "title": "ITEM_CFA-L1-00602",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn equally weighted portfolio consists of two securities, each with a standard deviation of 3%. If the two securities' returns are uncorrelated, the portfolio's standard deviation is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "244dedd5-34f8-4f12-8dfc-eea707d06978"
+                },
+                "answerFeedback": {
+                    "244dedd5-34f8-4f12-8dfc-eea707d06978": "\u003cp\u003e\u003cstrong\u003eCorrect\u003c/strong\u003e because the portfolio standard deviation is 2.1%;\u0026nbsp;\u003cmath\u003e \u003cmsqrt\u003e \u003cmsup\u003e \u003cmfenced\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e.\u003c/mo\u003e \u003cmn\u003e5\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfenced\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmsup\u003e \u003cmfenced\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mfenced\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsup\u003e \u003cmfenced\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e.\u003c/mo\u003e \u003cmn\u003e5\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfenced\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmsup\u003e \u003cmfenced\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mfenced\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmfenced\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e.\u003c/mo\u003e \u003cmn\u003e5\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfenced\u003e \u003cmfenced\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e.\u003c/mo\u003e \u003cmn\u003e5\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfenced\u003e \u003cmfenced\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mfenced\u003e \u003cmfenced\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mfenced\u003e \u003cmfenced\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e-\u003c/mn\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mfenced\u003e \u003c/msqrt\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsqrt\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/msqrt\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmn\u003e%\u003c/mn\u003e \u003c/math\u003e\u0026nbsp;or 2.12%, using the formula\u0026nbsp;\u003cmath\u003e \u003cmsqrt\u003e \u003cmsubsup\u003e \u003cmi\u003eσ\u003c/mi\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/msqrt\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsqrt\u003e \u003cmsubsup\u003e \u003cmi\u003ew\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003ew\u003c/mi\u003e \u003c/msubsup\u003e \u003cmsubsup\u003e \u003cmi\u003eσ\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsubsup\u003e \u003cmi\u003ew\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003cmsubsup\u003e \u003cmi\u003eσ\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmsub\u003e \u003cmi\u003ew\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003cmsub\u003e \u003cmi\u003ew\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003ev\u003c/mi\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/msqrt\u003e \u003c/math\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003ewhere the Cov(R\u003csub\u003e1\u003c/sub\u003e,R\u003csub\u003e2\u003c/sub\u003e) =\u0026nbsp;\u003ci\u003eρ(R\u003csub\u003e1\u003c/sub\u003e,R\u003csub\u003e2\u003c/sub\u003e)σ(R\u003csub\u003e1\u003c/sub\u003e)σ(R\u003csub\u003e2\u003c/sub\u003e)\u003c/i\u003e\u0026nbsp;, which is equal to zero because the funds are uncorrelated;\u0026nbsp;\u003ci\u003eρ(R\u003csub\u003e1\u003c/sub\u003e,R\u003csub\u003e2\u003c/sub\u003e) = 0.\u003c/i\u003e\u003c/p\u003e",
+                    "9afce079-5a98-46a2-8eae-94363672f20b": "\u003cp\u003eIncorrect because it is the weighted average of the two securities' standard deviation and calculates the portfolio standard deviation as: σ\u003csub\u003ep\u003c/sub\u003e = (0.5)(3%)+(0.5)(3%) = 3.0%.\u003c/p\u003e",
+                    "f8462ac9-5ad7-4665-88a1-cdf79533ed76": "\u003cp\u003eIncorrect because \"uncorrelated” is misinterpreted as having a correlation value of –1 (i.e., perfect negative correlation is used instead of zero) when calculating the portfolio standard deviation;\u003c/p\u003e\n\u003cp\u003eσ\u003csub\u003ep\u003c/sub\u003e =\u0026nbsp;\u003cmath\u003e \u003cmsqrt\u003e \u003cmsup\u003e \u003cmfenced\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e.\u003c/mo\u003e \u003cmn\u003e5\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfenced\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmsup\u003e \u003cmfenced\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mfenced\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsup\u003e \u003cmfenced\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e.\u003c/mo\u003e \u003cmn\u003e5\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfenced\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmsup\u003e \u003cmfenced\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mfenced\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmfenced\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e.\u003c/mo\u003e \u003cmn\u003e5\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfenced\u003e \u003cmfenced\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e.\u003c/mo\u003e \u003cmn\u003e5\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfenced\u003e \u003cmfenced\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mfenced\u003e \u003cmfenced\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mfenced\u003e \u003cmfenced\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmo\u003e-\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfenced\u003e \u003c/msqrt\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsqrt\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/msqrt\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e%\u003c/mo\u003e \u003c/math\u003e\u0026nbsp;.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f8462ac9-5ad7-4665-88a1-cdf79533ed76",
+                            "itemBody": "\u003cp\u003eA. 0.0%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "244dedd5-34f8-4f12-8dfc-eea707d06978",
+                            "itemBody": "\u003cp\u003eB. 2.1%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9afce079-5a98-46a2-8eae-94363672f20b",
+                            "itemBody": "\u003cp\u003eC. 3.0%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8578,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4105,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53588",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Quant-Tomter-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst produces the following joint probability function for the returns on two companies, \u003ci\u003eX\u003c/i\u003e and \u003ci\u003eY\u003c/i\u003e:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 389px; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 141px; max-width: 141px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"width: 76px; text-align: center; max-width: 76px;\"\u003e\u003cstrong\u003eReturn of \u003ci\u003eY\u003c/i\u003e = 15%\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 81px; text-align: center; max-width: 81px;\"\u003e\u003cstrong\u003eReturn of \u003ci\u003eY\u003c/i\u003e = 10%\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 78px; text-align: center; max-width: 78px;\"\u003e\u003cstrong\u003eReturn of \u003ci\u003eY\u003c/i\u003e = 5%\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 141px; text-align: center; max-width: 141px;\"\u003e\u003cstrong\u003eReturn of \u003ci\u003eX\u003c/i\u003e = 20%\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 76px; text-align: center; max-width: 76px;\"\u003e0.2\u003c/td\u003e\n\u003ctd style=\"width: 81px; text-align: center; max-width: 81px;\"\u003e0\u003c/td\u003e\n\u003ctd style=\"width: 78px; text-align: center; max-width: 78px;\"\u003e0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 141px; text-align: center; max-width: 141px;\"\u003e\u003cstrong\u003eReturn of \u003ci\u003eX\u003c/i\u003e = 15%\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 76px; text-align: center; max-width: 76px;\"\u003e0\u003c/td\u003e\n\u003ctd style=\"width: 81px; text-align: center; max-width: 81px;\"\u003e0.4\u003c/td\u003e\n\u003ctd style=\"width: 78px; text-align: center; max-width: 78px;\"\u003e0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 141px; text-align: center; max-width: 141px;\"\u003e\u003cstrong\u003eReturn of \u003ci\u003eX\u003c/i\u003e = 10%\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 76px; text-align: center; max-width: 76px;\"\u003e0\u003c/td\u003e\n\u003ctd style=\"width: 81px; text-align: center; max-width: 81px;\"\u003e0\u003c/td\u003e\n\u003ctd style=\"width: 78px; text-align: center; max-width: 78px;\"\u003e0.4\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe expected returns of companies \u003ci\u003eX\u003c/i\u003e and \u003ci\u003eY \u003c/i\u003eare 14% and 9%, respectively. The covariance of returns between \u003ci\u003eX\u003c/i\u003e and \u003ci\u003eY\u003c/i\u003e (in percent squared) is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1ee06115-b5d0-4b3c-912f-795ee467193e"
+                },
+                "answerFeedback": {
+                    "1ee06115-b5d0-4b3c-912f-795ee467193e": "\u003cp\u003e\u003cstrong\u003eCorrect\u003c/strong\u003e because the formula for calculating the covariance between random variables \u003ci\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/i\u003e and \u003ci\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/i\u003e is\u0026nbsp;Cov(\u003ci\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/i\u003e) = ΣΣ\u003ci\u003eP(R\u003csub\u003eA\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e,\u003c/sub\u003e\u003ci\u003e\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e,\u003c/sub\u003e\u003ci\u003e\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e)(\u003ci\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e,\u003c/sub\u003e\u003ci\u003e\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;– \u003ci\u003eE\u003c/i\u003e[\u003ci\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/i\u003e])(\u003ci\u003eR\u003csub\u003eB,j\u003c/sub\u003e\u0026nbsp;– E\u003c/i\u003e[\u003ci\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/i\u003e]).\u003c/p\u003e\u003cp\u003eThe expected return (given) for each company is:\u003c/p\u003e\u003cp\u003e\u003ci\u003eE\u003c/i\u003e[\u003ci\u003eR\u003csub\u003eX\u003c/sub\u003e\u003c/i\u003e] = 0.2(20) + 0.4(15) + 0.4(10) = 4\u0026nbsp;+ 6\u0026nbsp;+ 4\u0026nbsp;= 14,\u003c/p\u003e\u003cp\u003e\u003ci\u003eE\u003c/i\u003e[\u003ci\u003eR\u003csub\u003eY\u003c/sub\u003e\u003c/i\u003e] = 0.2(15) + 0.4(10) + 0.4(5) = 3\u0026nbsp;+ 4\u0026nbsp;+ 2\u0026nbsp;= 9.\u003c/p\u003e\u003cp\u003eHence,\u0026nbsp;Cov(\u003ci\u003eR\u003csub\u003eX\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003eY\u003c/sub\u003e\u003c/i\u003e) = 0.2(20\u0026nbsp;– 14)(15\u0026nbsp;– 9) + 0.4(15\u0026nbsp;– 14)(10\u0026nbsp;– 9) + 0.4(10\u0026nbsp;– 14)(5\u0026nbsp;– 9) = 0.2(6)(6) + 0.4(1)(1) + 0.4(\u003ci\u003e–\u003c/i\u003e4)(\u003ci\u003e–\u003c/i\u003e4) = 7.2 + 0.4 + 6.4 = 14.\u0026nbsp;\u003c/p\u003e",
+                    "4d81dcc6-8327-4475-bb53-18c8793017d9": "\u003cp\u003eIncorrect because the covariance formula is misapplied as Cov(\u003ci\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/i\u003e) = Σ\u003ci\u003eP\u003c/i\u003e(\u003ci\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e,\u003c/sub\u003e\u003ci\u003e\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e,\u003c/sub\u003e\u003ci\u003e\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e)(\u003ci\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e,\u003c/sub\u003e\u003ci\u003e\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;– \u003ci\u003eE\u003c/i\u003e[\u003ci\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/i\u003e]) + Σ\u003ci\u003eP(R\u003csub\u003eA\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e,\u003c/sub\u003e\u003ci\u003e\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e,\u003c/sub\u003e\u003ci\u003e\u003csub\u003ej\u003c/sub\u003e\u003c/i\u003e)(\u003ci\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/i\u003e\u003ci\u003e\u003csub\u003e,j\u003c/sub\u003e\u0026nbsp;– E\u003c/i\u003e[\u003ci\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/i\u003e]), resulting in 0.2(20\u0026nbsp;– 14) + 0.4(15\u0026nbsp;– 14) + 0.4(10\u0026nbsp;– 14) +\u0026nbsp;0.2(15\u0026nbsp;– 9) + 0.4(10\u0026nbsp;– 9) + 0.4(5\u0026nbsp;– 9) = 1.2 + 0.4 + (–1.6) + 1.2 + 0.4 + (–1.6)\u0026nbsp;= 0.\u003c/p\u003e",
+                    "9aef6d98-dd53-4837-a976-12b6ca73646c": "\u003cp\u003eIncorrect because the covariance formula is misapplied as Cov(\u003ci\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/i\u003e) = Σ\u003ci\u003eP(R\u003csub\u003eA\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e,\u003c/sub\u003e\u003ci\u003e\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e,\u003ci\u003eR\u003csub\u003eB\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e,\u003c/sub\u003e\u003ci\u003e\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e)(\u003ci\u003eR\u003csub\u003eA\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e,\u003c/sub\u003e\u003ci\u003e\u003csub\u003ei\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;– \u003ci\u003eR\u003csub\u003eB,i\u003c/sub\u003e\u003c/i\u003e)\u0026nbsp;resulting in 0.2(20\u0026nbsp;– 15) + 0.4(15\u0026nbsp;– 10) + 0.4(10\u0026nbsp;– 5) = 0.2(5) + 0.4(5) + 0.4(5) = 1 + 2 + 2 = 5. This answer also represents the difference between the expected returns of \u003ci\u003eX \u003c/i\u003eand \u003ci\u003eY\u003c/i\u003e: 14 – 9 = 5.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4d81dcc6-8327-4475-bb53-18c8793017d9",
+                            "itemBody": "\u003cp\u003eA. 0.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9aef6d98-dd53-4837-a976-12b6ca73646c",
+                            "itemBody": "\u003cp\u003eB. 5.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1ee06115-b5d0-4b3c-912f-795ee467193e",
+                            "itemBody": "\u003cp\u003eC. 14.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8578,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4105,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53589",
+            "entry": {
+                "title": "ITEM_CFA-L1-08951",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eRoy's safety-first criterion:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ce27c3de-a9ca-4f2b-8b93-8d8d3862921b"
+                },
+                "answerFeedback": {
+                    "4730a914-cad5-4233-88e3-428134fe3f87": "\u003cp\u003eIncorrect because Roy's safety-first criterion assumes that portfolio returns are normally distributed.\u0026nbsp;If returns are normally distributed, the safety-first optimal portfolio maximizes the safety-first ratio (SFRatio): SFRatio = [\u003ci\u003eE\u003c/i\u003e(\u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e) – \u003ci\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e]/σ\u003csub\u003e\u003ci\u003eP\u003c/i\u003e\u003c/sub\u003e. The normal distribution, however, is less suitable as a model for asset prices than as a model for returns. A normal random variable has no lower limit. This characteristic has several implications for investment applications. An asset price can drop only to 0, at which point the asset becomes worthless. As a result, practitioners generally do not use the normal distribution to model the distribution of asset prices.\u003c/p\u003e",
+                    "6ce27735-68d5-4bcc-b3ca-ce3bb46ac564": "\u003cp\u003eIncorrect because the safety-first ratio uses standard deviation, not semideviation, as a risk measure. The safety-first optimal portfolio maximizes the safety-first ratio (SFRatio): SFRatio = [\u003ci\u003eE\u003c/i\u003e(\u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e) – \u003ci\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e]/σ\u003csub\u003e\u003ci\u003eP\u003c/i\u003e\u003c/sub\u003e\u003ci\u003e. \u003c/i\u003eThe quantity \u003ci\u003eE\u003c/i\u003e(\u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e) − \u003ci\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e is the distance from the mean return to the shortfall level. Dividing this distance by σ\u003csub\u003e\u003ci\u003eP\u003c/i\u003e\u003c/sub\u003e gives the distance in units of standard deviation. Although not used in Roy's safety-first criterion, semivariance, semideviation, and related dispersion measures [also] focus on downside risk. Semivariance is defined as the average squared deviation below the mean. Semideviation (sometimes called semistandard deviation) is the positive square root of semivariance.\u003c/p\u003e",
+                    "ce27c3de-a9ca-4f2b-8b93-8d8d3862921b": "\u003cp\u003e\u003cstrong\u003eCorrect\u003c/strong\u003e because mean–variance analysis generally considers risk symmetrically in the sense that standard deviation captures variability both above and below the mean. An alternative approach evaluates only downside risk. We discuss one such approach, safety-first rules, as it provides an excellent illustration of the application of normal distribution theory to practical investment problems. Safety-first rules focus on shortfall risk, the risk that portfolio value will fall below some minimum acceptable level over some time horizon. Roy's safety-first criterion states that the optimal portfolio minimizes the probability that portfolio return, \u003ci\u003eR\u003c/i\u003e\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e, falls below the threshold level, \u003ci\u003eR\u003c/i\u003e\u003ci\u003e\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ce27c3de-a9ca-4f2b-8b93-8d8d3862921b",
+                            "itemBody": "\u003cp\u003eA. evaluates only downside risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6ce27735-68d5-4bcc-b3ca-ce3bb46ac564",
+                            "itemBody": "\u003cp\u003eB. uses semideviation as a risk measure.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4730a914-cad5-4233-88e3-428134fe3f87",
+                            "itemBody": "\u003cp\u003eC. assumes asset prices are normally distributed.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8578,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4105,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54421",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.01-Quant-Lamba-16",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA portfolio manager considers the following joint probability function:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 485px; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 223px; max-width: 223px; text-align: center;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 268px; max-width: 268px;\" colspan=\"2\" rowspan=\"1\"\u003e\u003cstrong\u003eReturn on Foreign Portfolio\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 223px; max-width: 223px;\"\u003eReturn on Foreign Currency\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 139px; max-width: 139px;\"\u003e\u003cstrong\u003e\u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e = –10%\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e = 25%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 223px; max-width: 223px;\"\u003e\u003ci\u003eR\u003csub\u003eC\u003c/sub\u003e\u003c/i\u003e = –15%\u003c/td\u003e\n\u003ctd style=\"width: 139px; max-width: 139px; text-align: center;\"\u003e0.6\u003c/td\u003e\n\u003ctd style=\"width: 124px; max-width: 124px; text-align: center;\"\u003e0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 223px; max-width: 223px;\"\u003e\u003ci\u003eR\u003csub\u003eC\u003c/sub\u003e\u003c/i\u003e = 30%\u003c/td\u003e\n\u003ctd style=\"width: 139px; max-width: 139px; text-align: center;\"\u003e0\u003c/td\u003e\n\u003ctd style=\"width: 124px; max-width: 124px; text-align: center;\"\u003e0.4\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe covariance (in % squared) between the returns on the foreign portfolio and the foreign currency is \u003ci\u003eclosest \u003c/i\u003eto:\u003cstrong\u003e\u003c/strong\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "69aca5d3-1425-478d-bf34-82249d4271c6"
+                },
+                "answerFeedback": {
+                    "69aca5d3-1425-478d-bf34-82249d4271c6": "\u003cp\u003eCorrect because the covariance is 378\u0026nbsp;and calculated as follows:\u003c/p\u003e\u003cp\u003eExpected return on the foreign portfolio = 0.6(–10%) + 0.4(25%) = 4%.\u003c/p\u003e\u003cp\u003eExpected return on the foreign currency = 0.6(–15%) + 0.4(30%) = 3%.\u003c/p\u003e\u003cp\u003eCovariance = 0.6(–10% – 4%)(–15% – 3%) + 0.4(25% – 4%)(30% – 3%) = 378 (% squared).\u003c/p\u003e",
+                    "977a590f-eb31-4c3b-843a-513b22a1be2d": "\u003cp\u003eIncorrect because the variance of the foreign portfolio return is calculated as follows:\u003c/p\u003e\u003cp\u003eExpected return on the foreign portfolio = 0.6(–10%) + 0.4(25%) = 4%.\u003c/p\u003e\u003cp\u003eVariance of foreign portfolio return = 0.6(–10% – 4%)\u003csup\u003e2\u003c/sup\u003e + 0.4(25% – 4%)\u003csup\u003e2\u003c/sup\u003e = 294 (% squared).\u003c/p\u003e",
+                    "e81033fe-23b5-482c-8de1-9fcea77e92f5": "\u003cp\u003eIncorrect because the covariance is calculated without weighting the products of the deviations with the probabilities, as follows:\u003c/p\u003e\u003cp\u003eExpected return on the foreign portfolio = 0.6(–10%) + 0.4(25%) = 4%.\u003c/p\u003e\u003cp\u003eExpected return on the foreign currency = 0.6(–15%) + 0.4(30%) = 3%.\u003c/p\u003e\u003cp\u003eCovariance = (–10% – 4%)(–15% – 3%) + (25% – 4%)(30% – 3%) = 819 (% squared).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "977a590f-eb31-4c3b-843a-513b22a1be2d",
+                            "itemBody": "\u003cp\u003eA. 294.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "69aca5d3-1425-478d-bf34-82249d4271c6",
+                            "itemBody": "\u003cp\u003eB. 378.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e81033fe-23b5-482c-8de1-9fcea77e92f5",
+                            "itemBody": "\u003cp\u003eC. 819.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8768,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4626,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54422",
+            "entry": {
+                "title": "ITEM_CFA-L1-00152",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf a portfolio's safety-first ratio and coefficient of variation both equal 1.2, the portfolio's return threshold is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1a4b2982-d5e4-453d-9e10-3caa9241328c"
+                },
+                "answerFeedback": {
+                    "0ab8c856-2518-47cf-b317-980d482f89d9": "\u003cp\u003eIncorrect because the safety-first ratio is: [\u003ci\u003eE\u003c/i\u003e(\u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e) – \u003ci\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e] / σ\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e, where \u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e is the portfolio return, \u003ci\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e is the return threshold (shortfall level), and σ\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e is the portfolio standard deviation. The coefficient of variation (CV) is: σ\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e / \u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e. When this ratio is greater than 1.0, risk is greater than return. With a CV greater than 1.0 (i.e., σ\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e \u0026gt; \u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e), the only way for the SFRatio to be greater than 1.0 is if the shortfall level is negative.\u0026nbsp;\u003c/p\u003e",
+                    "1a4b2982-d5e4-453d-9e10-3caa9241328c": "\u003cp\u003eCorrect because the safety-first ratio is: [\u003ci\u003eE\u003c/i\u003e(\u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e) – \u003ci\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e]/σ\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e, where \u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e is the portfolio return, \u003ci\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e is the return threshold (shortfall level), and σ\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e is the portfolio standard deviation. The coefficient of variation (CV) is: σ\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e/\u003ci\u003eE\u003c/i\u003e(\u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e). When this ratio is greater than 1.0, risk is greater than return. With a CV greater than 1.0 (i.e., σ\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e \u0026gt; \u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e), the only way for the SFRatio to be greater than 1.0 is if the shortfall level is negative.\u0026nbsp;\u003c/p\u003e",
+                    "b7bb8802-fb6c-469b-ac90-7431232c81db": "\u003cp\u003eIncorrect because the safety-first ratio is: [\u003ci\u003eE\u003c/i\u003e(\u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e) – \u003ci\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e] / σ\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e, where \u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e is the portfolio return, \u003ci\u003eR\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e is the return threshold (shortfall level), and σ\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e is the portfolio standard deviation. The coefficient of variation (CV) is: σ\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e / \u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e. When this ratio is greater than 1.0, risk is greater than return. With a CV greater than 1.0 (i.e., σ\u003ci\u003e\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e \u0026gt; \u003ci\u003eR\u003csub\u003eP\u003c/sub\u003e\u003c/i\u003e), the only way for the SFRatio to be greater than 1.0 is if the shortfall level is negative.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1a4b2982-d5e4-453d-9e10-3caa9241328c",
+                            "itemBody": "\u003cp\u003eA. negative.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b7bb8802-fb6c-469b-ac90-7431232c81db",
+                            "itemBody": "\u003cp\u003eB. zero.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0ab8c856-2518-47cf-b317-980d482f89d9",
+                            "itemBody": "\u003cp\u003eC. positive.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8768,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4626,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54423",
+            "entry": {
+                "title": "ITEM_CFA-L1-05380",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAn analyst estimates the following correlation matrix of two securities' returns:\u003c/span\u003e\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"width: 89px; max-width: 89px;\" scope=\"col\"\u003e\u0026nbsp;\u003c/th\u003e\n\u003cth style=\"width: 86px; max-width: 86px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eSecurity 1\u003c/span\u003e\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"width: 100px; max-width: 100px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eSecurity 2\u003c/span\u003e\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 89px; max-width: 89px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eSecurity 1\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 86px; max-width: 86px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e1.0\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 100px; max-width: 100px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e0.5\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 89px; max-width: 89px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eSecurity 2\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 86px; max-width: 86px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e0.5\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 100px; max-width: 100px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e1.0\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eIf the standard deviation of returns of each security is 9%, the covariance (in units of % squared) between the two securities is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5b0b0691-1046-49cd-892b-e70301a97da2"
+                },
+                "answerFeedback": {
+                    "5b0b0691-1046-49cd-892b-e70301a97da2": "\u003cp\u003eCorrect because the covariance is Cov (R\u003csub\u003e1\u003c/sub\u003e, R\u003csub\u003e2\u003c/sub\u003e) = ρ(R\u003csub\u003e1\u003c/sub\u003e, R\u003csub\u003e2\u003c/sub\u003e) σ(R\u003csub\u003e1\u003c/sub\u003e)σ(R\u003csub\u003e2\u003c/sub\u003e) = (0.5)(9)(9) = 40.5.\u003c/p\u003e",
+                    "8a2808a4-27da-4782-9995-4b6e6eb2c31a": "\u003cp\u003eIncorrect because it uses the wrong correlation value of 1; 0.5 x 0.5 x 9^2 = 20.25.\u0026nbsp;\u003c/p\u003e",
+                    "a1f6ffda-262a-4bb8-9a2d-21c09fe3480e": "\u003cp\u003eIncorrect because it uses the correlation formula;\u003c/p\u003e\n\u003cp\u003e\u003cmath\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e0.5\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmo stretchy=\"false\"\u003e(\u003c/mo\u003e\u003cmn\u003e0.09\u003c/mn\u003e\u003cmo stretchy=\"false\"\u003e)\u003c/mo\u003e\u003cmo stretchy=\"false\"\u003e(\u003c/mo\u003e\u003cmn\u003e0.09\u003c/mn\u003e\u003cmo stretchy=\"false\"\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e61.7.\u003c/mn\u003e\u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8a2808a4-27da-4782-9995-4b6e6eb2c31a",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA. 20.3.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5b0b0691-1046-49cd-892b-e70301a97da2",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eB. 40.5.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a1f6ffda-262a-4bb8-9a2d-21c09fe3480e",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eC. 61.7.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8768,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4626,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54424",
+            "entry": {
+                "title": "ITEM_CFA-L1-01936",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eIf the returns of two assets exhibit perfect positive correlation, the two-asset portfolio's standard deviation of returns is:\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e30603df-23f7-428a-9f92-1fa0506fbce2"
+                },
+                "answerFeedback": {
+                    "478156c7-bae1-4050-9631-318a9fe6a0c8": "\u003cp\u003eIncorrect because the portfolio standard deviation can never be greater than the weighted average standard deviation. This is a result of correlation having an upper limit of 1.0.\u0026nbsp;\u003c/p\u003e",
+                    "e30603df-23f7-428a-9f92-1fa0506fbce2": "\u003cp\u003eCorrect because correlation is a number between –1 and +1 for two random variables.\u0026nbsp;Increasingly positive correlation indicates an increasingly strong positive linear relationship (up to 1, which indicates a perfect linear relationship). Thus, a perfectly positive linear relationship indicates correlation of 1.0. As long as security returns are not perfectly positively correlated, diversification benefits are possible. Since correlation equals 1.0, diversification benefits cannot be obtained and the portfolio standard deviation formula simplifies to a weighted average.\u0026nbsp;\u003c/p\u003e",
+                    "edc04811-ffaf-445e-b864-6cd83cf88e9c": "\u003cp\u003eIncorrect because when assets are perfectly positively correlated, no diversification benefit exists. Therefore, the portfolio standard deviation will not be less than the weighted average standard deviation.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "edc04811-ffaf-445e-b864-6cd83cf88e9c",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA. less than the weighted average standard deviation.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e30603df-23f7-428a-9f92-1fa0506fbce2",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eB. equal to the weighted average standard deviation.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "478156c7-bae1-4050-9631-318a9fe6a0c8",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eC. greater than the weighted average standard deviation.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8768,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4626,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {},
+    "scored_data": {
+        "points": 2,
+        "points_possible": 15
+    }
+}

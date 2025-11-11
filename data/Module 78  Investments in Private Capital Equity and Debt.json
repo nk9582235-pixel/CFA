@@ -1,0 +1,1557 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6067,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 25,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 3: Investments in Private Capital: Equity and Debt",
+        "topic_id": 1038,
+        "topic": "CFA-26-02-LI-C: Alternative Investments",
+        "subtopic_id": 6067,
+        "subtopic": "Module 3: Investments in Private Capital: Equity and Debt",
+        "question_count": 25,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 854,
+                "name": "Warehouse Course: Alternative Investments 26-LI",
+                "code": "Warehouse Course: Alternative Investments 26-LI",
+                "module_id": 4494,
+                "question_count": 15,
+                "type": "warehouse"
+            },
+            {
+                "id": 845,
+                "name": "Practice Pack Warehouse: Alternative Investments 26-LI",
+                "code": "Practice Pack Warehouse: Alternative Investments 26-LI",
+                "module_id": 4763,
+                "question_count": 10,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 25.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "d054476033366ad5",
+        "ordered_item_ids": [
+            "56655",
+            "56656",
+            "56657",
+            "56658",
+            "56659",
+            "56660",
+            "56661",
+            "56662",
+            "56663",
+            "56664",
+            "51335",
+            "51336",
+            "51337",
+            "51338",
+            "51339",
+            "51340",
+            "51341",
+            "51342",
+            "51343",
+            "53964",
+            "53965",
+            "53966",
+            "53967",
+            "53968",
+            "53969"
+        ],
+        "visible_item_ids": [
+            "56655",
+            "56656",
+            "56657",
+            "56658",
+            "56659",
+            "56660",
+            "56661",
+            "56662",
+            "56663",
+            "56664",
+            "51335",
+            "51336",
+            "51337",
+            "51338",
+            "51339",
+            "51340",
+            "51341",
+            "51342",
+            "51343",
+            "53964",
+            "53965",
+            "53966",
+            "53967",
+            "53968",
+            "53969"
+        ]
+    },
+    "items": [
+        {
+            "id": "56655",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Alts-Loo-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about private debt is \u003ci\u003emost \u003c/i\u003eaccurate? Mezzanine debt is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "20cbb95b-b54f-411f-8feb-296bb1debb59"
+                },
+                "answerFeedback": {
+                    "1a0d3e6a-6ba5-425a-a598-e385140c4507": "\u003cp\u003eIncorrect as this describes venture\u0026nbsp;debt rather than mezzanine debt.\u0026nbsp;Venture debt is private debt funding that provides venture capital backing to start-up or early-stage companies that may be generating little or negative cash flow.\u003c/p\u003e",
+                    "20cbb95b-b54f-411f-8feb-296bb1debb59": "\u003cp\u003eCorrect because mezzanine debt refers to private credit subordinated to senior secured debt but senior to equity in the borrower’s capital structure.\u003c/p\u003e",
+                    "bbe8d24a-a0de-4705-a3dd-096e1affc799": "\u003cp\u003eIncorrect as this describes unitranche debt rather than mezzanine debt. Unitranche debt consists of a hybrid or blended loan structure combining different tranches of secured and unsecured debt into a single loan with a single, blended interest rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1a0d3e6a-6ba5-425a-a598-e385140c4507",
+                            "itemBody": "\u003cp\u003eA. funding provided to start-up or early-stage companies generating negative cash flow.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "20cbb95b-b54f-411f-8feb-296bb1debb59",
+                            "itemBody": "\u003cp\u003eB. subordinated to senior secured debt but senior to equity in the borrower’s capital structure.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bbe8d24a-a0de-4705-a3dd-096e1affc799",
+                            "itemBody": "\u003cp\u003eC. a hybrid loan structure that combines different tranches of secured and unsecured debt into a single loan.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9026,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4763,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56656",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Alt-Huffman-08",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost likely\u003c/i\u003e a primary exit strategy for a company held by a private equity fund's portfolio?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "25591738-2614-461b-855e-1e25524b5b8e"
+                },
+                "answerFeedback": {
+                    "25591738-2614-461b-855e-1e25524b5b8e": "\u003cp\u003eCorrect because key\u0026nbsp;private equity investment strategies include leveraged buyouts (e.g., MBOs and MBIs) and venture capital. Primary exit strategies include trade sale, IPO, and recapitalization.\u003c/p\u003e",
+                    "5e51354f-984a-4e25-bd21-7d29c310e479": "\u003cp\u003eIncorrect because key\u0026nbsp;private equity investment strategies include leveraged buyouts (e.g., MBOs and MBIs) and venture capital. Primary exit strategies include trade sale, IPO, and recapitalization.\u003c/p\u003e",
+                    "d207e174-b3d4-4d81-8941-bbdf8dbbed5a": "\u003cp\u003eIncorrect because key\u0026nbsp;private equity investment strategies include leveraged buyouts (e.g., MBOs and MBIs) and venture capital. Primary exit strategies include trade sale, IPO, and recapitalization.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "25591738-2614-461b-855e-1e25524b5b8e",
+                            "itemBody": "\u003cp\u003eA. IPO\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d207e174-b3d4-4d81-8941-bbdf8dbbed5a",
+                            "itemBody": "\u003cp\u003eB. Management buy-in\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "5e51354f-984a-4e25-bd21-7d29c310e479",
+                            "itemBody": "\u003cp\u003eC. Management buyout\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9026,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4763,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56657",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Alt-Mazararu-07",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFrom the perspective of a private equity firm, an advantage of exiting a portfolio company through a special purpose acquisition company (SPAC)\u0026nbsp;\u003ci\u003emost likely \u003c/i\u003einclude:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "46e3d881-b55e-44b6-ace4-61289751eadc"
+                },
+                "answerFeedback": {
+                    "00e2cc4e-dc11-4883-8d00-90f73d742d32": "\u003cp\u003eIncorrect because advantages of a SPAC exit include fixed valuation with lower volatility of share pricing.\u003c/p\u003e",
+                    "059982b8-e67a-4a09-83f0-7da765d2ca29": "\u003cp\u003eIncorrect because redemptions are allowed and increase the deal\u0026nbsp;risk. Also,\u0026nbsp;disadvantages include\u003c/p\u003e\u003cp\u003ea. potential higher costs of capital from sponsor dilution, warrants, and other fees,\u003c/p\u003e\u003cp\u003eb. spread between the announced and true equity value because of the dilution,\u003c/p\u003e\u003cp\u003ec. deal and capital risk due to potential redemptions, and\u003c/p\u003e\u003cp\u003ed. significant stockholder overhang and churn over the number of months after the merger.\u003c/p\u003e",
+                    "46e3d881-b55e-44b6-ace4-61289751eadc": "\u003cp\u003eCorrect because advantages of a SPAC exit include:\u0026nbsp;\u003c/p\u003e\u003cp\u003ea. extended time for public disclosure on company prospects to build investor interest,\u003c/p\u003e\u003cp\u003eb. fixed valuation with lower volatility of share pricing,\u003c/p\u003e\u003cp\u003ec. flexibility of transaction structure to best suit the company’s context, and\u003c/p\u003e\u003cp\u003ed. association with potentially high-profile and seasoned sponsors and their extensive investor network.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "00e2cc4e-dc11-4883-8d00-90f73d742d32",
+                            "itemBody": "\u003cp\u003eA. floating valuation.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "46e3d881-b55e-44b6-ace4-61289751eadc",
+                            "itemBody": "\u003cp\u003eB. flexibility of the transaction structure.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "059982b8-e67a-4a09-83f0-7da765d2ca29",
+                            "itemBody": "\u003cp\u003eC. lower deal risk\u0026nbsp;due to restrictions on redemptions.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9026,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4763,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56658",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Alts-Mazararu-13",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWith respect to private equity, the growth capital strategy is\u0026nbsp;also known as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "48f29a94-29b6-4567-acb6-294b945d215b"
+                },
+                "answerFeedback": {
+                    "2d7b6fb0-dde9-4c0c-aed4-c5a379468f34": "\u003cp\u003eIncorrect because it is an exit strategy.\u0026nbsp;Recapitalization in the context of private equity describes the steps a firm takes to increase or introduce leverage to its portfolio company and pay itself a dividend out of the new capital structure.\u003c/p\u003e",
+                    "48f29a94-29b6-4567-acb6-294b945d215b": "\u003cp\u003eCorrect because among several other specialties, some private equity firms specialize in growth capital, also known as growth equity or minority equity investing. Growth capital generally refers to minority equity investments, whereby the firm takes a less-than-controlling interest in more mature companies that are looking for capital to expand or restructure operations, enter new markets, or finance major acquisitions.\u003c/p\u003e",
+                    "97fbaf7e-4d30-4806-87c6-35ce07f8c66d": "\u003cp\u003eIncorrect because venture capital is a different private equity strategy from growth capital.\u0026nbsp;Venture capital (VC) entails investing in or providing financing to private companies with high growth potential. Typically these are start-ups or young companies, but venture capital can be provided at a variety of stages, ranging from the inception of an idea for a company to the point when the company is about to launch an IPO (initial public offering) or be acquired.\u0026nbsp;Growth capital generally refers to minority equity investments, whereby the firm takes a less-than-controlling interest in more mature companies that are looking for capital to expand or restructure operations, enter new markets, or finance major acquisitions.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "97fbaf7e-4d30-4806-87c6-35ce07f8c66d",
+                            "itemBody": "\u003cp\u003eA. venture capital.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2d7b6fb0-dde9-4c0c-aed4-c5a379468f34",
+                            "itemBody": "\u003cp\u003eB. recapitalization.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "48f29a94-29b6-4567-acb6-294b945d215b",
+                            "itemBody": "\u003cp\u003eC. minority equity investing.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9026,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4763,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56659",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-Alt-Kennan-12",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn the private debt market, venture debt:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "083904ae-b71f-42cd-8ccc-9612ea5a9c16"
+                },
+                "answerFeedback": {
+                    "083904ae-b71f-42cd-8ccc-9612ea5a9c16": "\u003cp\u003eCorrect because this is the definition of venture debt. Venture debt is private debt funding that provides venture capital backing to start-up or early-stage companies that may be generating little or negative cash flow.\u003c/p\u003e",
+                    "196a41f5-e96b-4586-bf81-4b639c0ae74f": "\u003cp\u003eIncorrect because the first part of the answer is not correct; as indicated in the correct response, venture debt provides funding to start-up or early-stage companies not mature companies.\u0026nbsp;\u003c/p\u003e",
+                    "fd93719b-33bf-4317-af65-aeef0eb8c1ef": "\u003cp\u003eIncorrect because this refers to distressed debt. Involvement in distressed debt typically entails buying the debt of mature companies in financial difficulty.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fd93719b-33bf-4317-af65-aeef0eb8c1ef",
+                            "itemBody": "\u003cp\u003eA. entails buying the debt of mature companies in financial difficulty.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "083904ae-b71f-42cd-8ccc-9612ea5a9c16",
+                            "itemBody": "\u003cp\u003eB. provides capital to early-stage companies that may be generating little cash flow.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "196a41f5-e96b-4586-bf81-4b639c0ae74f",
+                            "itemBody": "\u003cp\u003eC. entails buying the debt of mature companies in financial difficulty and provides capital to early-stage companies that may be generating little cash flow.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9026,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4763,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56660",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-Alt-Vervloet-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following\u0026nbsp;sources of private debt\u0026nbsp;financing may provide equity participation to lenders or investors?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "70f00e00-b62c-432c-8222-66920ab6c58e"
+                },
+                "answerFeedback": {
+                    "09ba1a65-1e2e-4ae3-a746-e8f0b44ec77f": "\u003cp\u003eIncorrect because both\u0026nbsp;venture debt and mezzanine debt\u0026nbsp;might provide equity participation to lenders or investors.\u003c/p\u003e",
+                    "70f00e00-b62c-432c-8222-66920ab6c58e": "\u003cp\u003eCorrect because mezzanine debt often comes with additional features, such as warrants or conversion rights. These provide equity participation to lenders/investors, conveying the option to convert their debt into equity or purchasing the equity of the underlying borrower under certain circumstances.\u0026nbsp;Similar to mezzanine debt, venture debt may carry additional features that compensate the investor/lender for the increased risk of default or for the start-up and early-stage companies that lack substantial assets for debt collateral. One such feature could grant the lender rights to purchase equity in the borrowing company under certain circumstances.\u003c/p\u003e",
+                    "e17fe9e6-2812-4e25-bf4e-cc6ddb7217cf": "\u003cp\u003eIncorrect because both\u0026nbsp;venture debt and mezzanine debt\u0026nbsp;might provide equity participation to lenders or investors.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e17fe9e6-2812-4e25-bf4e-cc6ddb7217cf",
+                            "itemBody": "\u003cp\u003eA. Venture debt only\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "09ba1a65-1e2e-4ae3-a746-e8f0b44ec77f",
+                            "itemBody": "\u003cp\u003eB. Mezzanine debt only\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "70f00e00-b62c-432c-8222-66920ab6c58e",
+                            "itemBody": "\u003cp\u003eC. Both venture debt and mezzanine debt\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9026,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4763,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56661",
+            "entry": {
+                "title": "ITEM_CFA-L1-04718",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ePrivate equity indexes\u0026nbsp;\u003ci\u003emost likely\u003c/i\u003e overestimate:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9d1b050d-60c3-4e8c-bcd6-f77c9ee550ec"
+                },
+                "answerFeedback": {
+                    "9d1b050d-60c3-4e8c-bcd6-f77c9ee550ec": "\u003cp\u003eCorrect because published private equity indexes may be an unreliable measure of performance. Measuring historical private equity performance is challenging; as with hedge funds, which will be discussed later, private equity return indexes typically rely on self-reporting and are subject to survivorship, backfill, and other biases. This typically leads to an overstatement of returns.\u003c/p\u003e",
+                    "b53f3e61-7b92-4f6b-968b-dc149794121f": "\u003cp\u003eIncorrect because\u0026nbsp;published private equity indexes may be an unreliable measure of performance. Moreover, prior to the global financial crisis of 2008–2009, in the absence of a liquidity event, private equity firms did not necessarily mark their investments to market. Failure to mark to market combined with the lag to mark investments due to inherent illiquidity will understate measures of volatility and correlations with other investments.\u003c/p\u003e",
+                    "b9002c0a-c901-4ac8-96ba-448f5b9e641b": "\u003cp\u003eIncorrect because published private equity indexes may be an unreliable measure of performance. Moreover, prior to the global financial crisis of 2008–2009, in the absence of a liquidity event, private equity firms did not necessarily mark their investments to market. Failure to mark to market combined with the lag to mark investments due to inherent illiquidity will understate measures of volatility and correlations with other investments.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b9002c0a-c901-4ac8-96ba-448f5b9e641b",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003evolatility.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9d1b050d-60c3-4e8c-bcd6-f77c9ee550ec",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eperformance.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b53f3e61-7b92-4f6b-968b-dc149794121f",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ecorrelation with traditional assets.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9026,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4763,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56662",
+            "entry": {
+                "title": "ITEM_CFA-L1-07370",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eAn exit strategy where a private equity manager sells a company to a strategic buyer in the same industry \u003ci\u003ebest\u003c/i\u003e describes a:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "281253ec-1b11-4821-b5dd-743376016ced"
+                },
+                "answerFeedback": {
+                    "281253ec-1b11-4821-b5dd-743376016ced": "\u003cp\u003eCorrect because in a trade sale, a portion or a division of the private company is sold either via direct sale or auction to a strategic buyer interested in increasing the scale and scope of the existing business.\u003c/p\u003e",
+                    "4128b009-206a-42bb-85b9-ca72f72002f2": "\u003cp\u003eIncorrect because this approach represents a sale of the company to another private equity firm or group of financial buyers.\u003c/p\u003e",
+                    "4e962407-bcb8-4888-be66-ae5cbc86d963": "\u003cp\u003eIncorrect because a\u0026nbsp;recapitalization is not a true exit strategy, because the private equity firm typically maintains control; however, it does allow the private equity investor to extract money from the company to pay its investors and improve its internal rate of return (IRR).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "281253ec-1b11-4821-b5dd-743376016ced",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003etrade sale.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4128b009-206a-42bb-85b9-ca72f72002f2",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003esecondary sale.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4e962407-bcb8-4888-be66-ae5cbc86d963",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003erecapitalization.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9026,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4763,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56663",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.06-Alt-Hambusch-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following entails buying the debt of mature companies in financial difficulty?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6ed22b05-0be2-49fb-afbc-be5af457838c"
+                },
+                "answerFeedback": {
+                    "6ed22b05-0be2-49fb-afbc-be5af457838c": "\u003cp\u003eCorrect because involvement in distressed debt\u003cb\u003e \u003c/b\u003eentails buying the debt of mature companies in financial difficulty.\u003c/p\u003e",
+                    "879fc545-12a6-4ced-86e4-34286c74fd05": "\u003cp\u003eIncorrect because venture debt is private debt funding that provides venture capital backing to start-up or early-stage companies that may be generating little or negative cash flow.\u0026nbsp;Venture debt does not entail\u0026nbsp;buying the debt of mature companies in financial difficulty.\u003c/p\u003e",
+                    "8de2ded9-9465-4040-9c66-c111a7373af0": "\u003cp\u003eIncorrect because unitranche debt consists of a hybrid or blended loan structure combining different tranches of secured and unsecured debt into a single loan with a single, blended interest rate.\u0026nbsp;Unitranche debt does not entail\u0026nbsp;buying the debt of mature companies in financial difficulty.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "879fc545-12a6-4ced-86e4-34286c74fd05",
+                            "itemBody": "\u003cp\u003eA. Venture debt\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6ed22b05-0be2-49fb-afbc-be5af457838c",
+                            "itemBody": "\u003cp\u003eB. Distressed debt\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8de2ded9-9465-4040-9c66-c111a7373af0",
+                            "itemBody": "\u003cp\u003eC. Unitranche debt\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9026,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4763,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56664",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.06-Alt-Tyler-27",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCompared to unsecured debt, unitranche debt \u003ci\u003emost likely\u003c/i\u003e features:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9a82c7cc-5917-4a02-aec4-8b4279772bca"
+                },
+                "answerFeedback": {
+                    "51e73072-6d33-47f9-bee4-d23db510c9ee": "\u003cp\u003eIncorrect because since unitranche debt is a blend of secured and unsecured debt, its interest rate will generally fall in between the interest rates often demanded on secured and unsecured debt. That is, unitranche loans will most likely be less costly than, not equally as costly as,\u0026nbsp;unsecured loans.\u003c/p\u003e",
+                    "9a82c7cc-5917-4a02-aec4-8b4279772bca": "\u003cp\u003eCorrect because since unitranche debt is a blend of secured and unsecured debt, its interest rate will generally fall in between the interest rates often demanded on secured and unsecured debt.\u0026nbsp;That is, unitranche loans will most likely be less costly than unsecured loans.\u003c/p\u003e",
+                    "a4db0930-605e-402a-a1a7-b25fb4fc2f4a": "\u003cp\u003eIncorrect because since unitranche debt is a blend of secured and unsecured debt, its interest rate will generally fall in between the interest rates often demanded on secured and unsecured debt.\u0026nbsp;That is, unitranche loans will most likely be less costly than, not more costly than,\u0026nbsp;unsecured loans.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9a82c7cc-5917-4a02-aec4-8b4279772bca",
+                            "itemBody": "\u003cp\u003eA. lower borrowing costs.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "51e73072-6d33-47f9-bee4-d23db510c9ee",
+                            "itemBody": "\u003cp\u003eB. the same borrowing costs.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a4db0930-605e-402a-a1a7-b25fb4fc2f4a",
+                            "itemBody": "\u003cp\u003eC. higher borrowing costs.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9026,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4763,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51335",
+            "entry": {
+                "title": "CFA2465-R-s04-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Strategic investors typically join in at early-stage to later-stage financing. A is incorrect because founders are typically part of the investor group at the earliest, pre-seed stage. B is incorrect because angel investors are typically involved in the beginning stages, either pre-seed or seed.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is \u003cem\u003emost likely\u003c/em\u003e to participate in early-stage financing?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3f5fc38a-ff5a-4daa-adb5-04f78a1e6b0f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f8817307-9bee-4cfb-bbcb-e4e33479c4d8",
+                            "itemBody": "A. Founders",
+                            "position": 1
+                        },
+                        {
+                            "id": "5b1ce634-263a-4a6c-b5d1-f78fdcc0cc20",
+                            "itemBody": "B. Angel investors",
+                            "position": 2
+                        },
+                        {
+                            "id": "3f5fc38a-ff5a-4daa-adb5-04f78a1e6b0f",
+                            "itemBody": "C. Strategic investors",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8275,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51336",
+            "entry": {
+                "title": "CFA2465-R-s04-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Many private equity transactions involve leveraged buyouts to acquire public companies or established private companies. B and C are incorrect because these are strategies implemented by other types of alternative investors, such as hedge funds.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ePrivate equity funds are \u003cem\u003emost likely\u003c/em\u003e to use:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e0e6a8ea-cc70-44c4-9218-116a7d4a6934"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e0e6a8ea-cc70-44c4-9218-116a7d4a6934",
+                            "itemBody": "A. leveraged buyouts.",
+                            "position": 1
+                        },
+                        {
+                            "id": "f24bcd7e-12a1-4932-9ea3-d1a0f9a35ed4",
+                            "itemBody": "B. option-based strategies.",
+                            "position": 2
+                        },
+                        {
+                            "id": "88ccb9f5-082d-4838-bad7-118f8e0f0c20",
+                            "itemBody": "C. merger arbitrage strategies.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8275,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51337",
+            "entry": {
+                "title": "CFA2465-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. IPOs can gain public attention for sponsors by high-profile business launches, and SPACs often have high-profile, seasoned sponsors and their investor networks as participants. A is incorrect because this is an advantage of a trade sale exit strategy. C is incorrect because it is a benefit specific to SPACs, with IPOs having fairly rigid and defined features, such as onerous disclosure requirements and lock-up periods.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA shared advantage of IPO and SPAC exit strategies for a private equity fund is their:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "60dba24c-84ac-4a8a-9959-12134814d3d6"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "25c01854-46c5-45dc-a175-47aceeed1caa",
+                            "itemBody": "A. fast and simple execution.",
+                            "position": 1
+                        },
+                        {
+                            "id": "60dba24c-84ac-4a8a-9959-12134814d3d6",
+                            "itemBody": "B. ability to win market attention.",
+                            "position": 2
+                        },
+                        {
+                            "id": "8e05a32b-0097-4415-989d-45f82d3582c6",
+                            "itemBody": "C. transaction structure flexibility.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8275,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51338",
+            "entry": {
+                "title": "CFA2465-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. These financial characteristics are typical of the start-up stage in the corporate life cycle, when it is suitable to rely on venture debt. A is incorrect because these are features of the maturity stage, when direct lending, mezzanine financing, and leveraged lending are customary. B is incorrect because these are features of the maturity stage, when direct lending, mezzanine financing, and leveraged lending are customary.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following combinations of financial characteristics \u003cem\u003emost likely\u003c/em\u003e would be associated with a venture debt transaction?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fa56d4dd-2d2f-41d4-a47c-021483eab319"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1de8a20b-c46e-4d7a-ac92-5d5bc8e229fb",
+                            "itemBody": "A. Positive revenues and cash flow",
+                            "position": 1
+                        },
+                        {
+                            "id": "0d39fd21-9c63-496a-8b65-f3926da2b2bd",
+                            "itemBody": "B. Declining revenues and cash flow",
+                            "position": 2
+                        },
+                        {
+                            "id": "fa56d4dd-2d2f-41d4-a47c-021483eab319",
+                            "itemBody": "C. Low revenues and negative cash flow",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8275,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51339",
+            "entry": {
+                "title": "CFA2465-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Because of its typically junior ranking and its usually unsecured status, mezzanine debt is riskier than senior secured debt. To compensate investors for this heightened risk, investors commonly demand higher interest rates. A is incorrect because leverage is typically a feature of a form of direct lending in which firms may also provide debt in the form of a leveraged loan, a loan that is itself levered with borrowing costs figuring into returns. C is incorrect because operational involvement over a possibly lengthy time with unpredictable risks describes the role of turnaround investors involved with distressed debt.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn contrast to direct lending and distressed debt, mezzanine debt \u003cem\u003emost likely\u003c/em\u003e requires higher interest rates for its investors due to its:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "daaeb3a8-8896-4fa2-b358-66b5af74f3f6"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "36e14158-e68f-4d1d-9cb1-96d9624e904a",
+                            "itemBody": "A. reliance on leverage.",
+                            "position": 1
+                        },
+                        {
+                            "id": "daaeb3a8-8896-4fa2-b358-66b5af74f3f6",
+                            "itemBody": "B. overall ranking and status in company debt structure.",
+                            "position": 2
+                        },
+                        {
+                            "id": "26f09cf3-beb3-47f2-b0b9-43a987d6358f",
+                            "itemBody": "C. need for management involvement over an extended time.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8275,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51340",
+            "entry": {
+                "title": "CFA2465-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. For both public debt and private debt, return on debt capital tends to follow and change with the benchmark interest rate environment. B is incorrect because there is a need for specialized knowledge for private debt financing to add value to the investor through consideration of such factors as the debt’s life cycle timing, its place in the financial structure, and the quality of underlying assets. C is incorrect because in market disruptions, such as the 2008 financial crisis, private debt exclusively benefited from an illiquidity premium when private lending funds filled the financing gap left by traditional lenders because traditional lenders were reluctant to underwrite public debt.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA feature that private debt and public debt share in the setting of their investment returns is their:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "92478103-265a-46e6-9249-297b071bfb73"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "92478103-265a-46e6-9249-297b071bfb73",
+                            "itemBody": "A. relationship to benchmark interest rates.",
+                            "position": 1
+                        },
+                        {
+                            "id": "094b9149-e104-4ddf-b1b5-ed5cc9e2011d",
+                            "itemBody": "B. need for specialized investment knowledge.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b2ef24c3-b282-428a-9ea3-572f73ab10a0",
+                            "itemBody": "C. opportunity for illiquidity premiums in market crises.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8275,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51341",
+            "entry": {
+                "title": "CFA2465-R-s04-Q11",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Private capital can have overall positive contributions to diversification. Note, however, that direct lending can involve a large capital commitment to a single borrower, with increased concentration risk and reduced diversification\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe \u003cem\u003emost likely\u003c/em\u003e effect on a portfolio’s diversification when exposure to direct lending commences is that it:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8cc31339-999b-4095-a0df-1b4f79bfb4ee"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7f50b651-c8ba-486a-a164-3059661285b6",
+                            "itemBody": "A. decreases.",
+                            "position": 1
+                        },
+                        {
+                            "id": "450bf73a-0020-42ac-a38e-a7ec54acef44",
+                            "itemBody": "B. remains the same.",
+                            "position": 2
+                        },
+                        {
+                            "id": "8cc31339-999b-4095-a0df-1b4f79bfb4ee",
+                            "itemBody": "C. increases.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8275,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51342",
+            "entry": {
+                "title": "CFA2465-R-s04-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Fund performance is greatly determined by the vintage year and the coinciding phase of the business cycle. Funds seeded during the expanding phase tend to earn excess returns investing in early-stage companies. Funds seeded during the contracting phase tend to do best with distressed companies. Results may be intermediate with mature, stable companies.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ePrivate equity funds whose vintage year occurs in the expanding phase of the business cycle tend to earn excess returns by investing in companies that are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2eee37cf-b508-44fa-b78b-9f14ce7f6a4a"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8ce917e8-f21c-4449-8b1d-f9d8a61110a7",
+                            "itemBody": "A. mature.",
+                            "position": 1
+                        },
+                        {
+                            "id": "20045a3a-d15e-4eb4-81ba-409483637e6f",
+                            "itemBody": "B. distressed.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2eee37cf-b508-44fa-b78b-9f14ce7f6a4a",
+                            "itemBody": "C. early stage.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8275,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51343",
+            "entry": {
+                "title": "CFA2465-R-s04-Q13",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Research on the correlations between portfolios holding these public assets shows that venture capital has the lowest correlations across all major market indexes. This relationship implies a higher diversification benefit for venture capital.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe private capital category \u003cem\u003emost likely\u003c/em\u003e to offer the highest diversification benefit for portfolios holding public stock and bonds is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a3914720-c7f0-44ab-b930-b941db9d8b42"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1fa241d5-a684-43c2-b2f3-24ef87acde60",
+                            "itemBody": "A. private debt.",
+                            "position": 1
+                        },
+                        {
+                            "id": "67da9034-ca2f-4866-bc41-fce7b984ce95",
+                            "itemBody": "B. private equity.",
+                            "position": 2
+                        },
+                        {
+                            "id": "a3914720-c7f0-44ab-b930-b941db9d8b42",
+                            "itemBody": "C. venture capital.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8275,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53964",
+            "entry": {
+                "title": "ITEM_20170427025",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIlliquidity is \u003ci\u003emost likely\u003c/i\u003e a major concern when investing in:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fe5a5dac-2dd9-4dbd-b30e-4e258982fd1f"
+                },
+                "answerFeedback": {
+                    "15384f25-1a6f-4fe5-bc65-b7eed444a672": "\u003cp\u003eIncorrect because the majority of commodity investments are implemented through derivatives, so liquidity is not a major concern.\u0026nbsp;Oher forms of more liquid investments in alternative assets are real estate investment trusts (REITs), commodity funds, and various exchange-traded funds (ETFs).\u003c/p\u003e",
+                    "8cc3ba56-0603-44bd-9052-d5ac9e85b0f8": "\u003cp\u003eIncorrect because real estate investment trusts are publicly listed, so liquidity is not a major concern. Other forms of more liquid investments in alternative assets are real estate investment trusts (REITs), commodity funds, and various exchange-traded funds (ETFs).\u003c/p\u003e",
+                    "fe5a5dac-2dd9-4dbd-b30e-4e258982fd1f": "\u003cp\u003eCorrect because once a commitment in a private equity fund has been made, the investor has very limited liquidity options. Investing in private equity, including venture capital, is riskier than investing in common stocks and requires a higher return for accepting its higher risk, including illiquidity and leverage risks.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fe5a5dac-2dd9-4dbd-b30e-4e258982fd1f",
+                            "itemBody": "\u003cp\u003eA. private equity.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "15384f25-1a6f-4fe5-bc65-b7eed444a672",
+                            "itemBody": "\u003cp\u003eB. commodity funds.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8cc3ba56-0603-44bd-9052-d5ac9e85b0f8",
+                            "itemBody": "\u003cp\u003eC. real estate investment trusts.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8706,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53965",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Alt-Huffman-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll else being equal, which of the following types\u0026nbsp;of private debt is \u003ci\u003emost likely\u003c/i\u003e to have the lowest level of risk?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d49a2142-71a7-4068-bf38-8635b5a30f4f"
+                },
+                "answerFeedback": {
+                    "2805d79a-e59f-42e0-891e-793a74632d5c": "\u003cp\u003eIncorrect because, unitranche debt is a blend of secured and unsecured debt.\u0026nbsp;The unitranche loan will usually be structured between senior and subordinated debt in priority ranking.\u0026nbsp;As\u0026nbsp;mezzanine debt refers to private credit subordinated to senior secured debt but senior to equity in the borrower’s capital structure,\u0026nbsp;mezzanine debt has more risk than unitranched debt.\u0026nbsp;\u003c/p\u003e",
+                    "cd12286a-0075-4fab-a14d-5b6afaf04ec0": "\u003cp\u003eIncorrect because,\u0026nbsp;private debt investments vary in risk and return, with senior private debt providing a steadier yield and moderate risk and mezzanine private debt carrying higher growth potential, equity upside, and higher risk.\u003c/p\u003e",
+                    "d49a2142-71a7-4068-bf38-8635b5a30f4f": "\u003cp\u003eCorrect because, as a junior form of subordinated debt, mezzanine private debt offers higher growth potential, equity upside, and higher risk, with the comparatively highest returns. Infrastructure debt is senior and poses the lowest risk,\u0026nbsp;as compared to unitranche debt and mezzanine debt.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "cd12286a-0075-4fab-a14d-5b6afaf04ec0",
+                            "itemBody": "\u003cp\u003eA. Mezzanine\u0026nbsp;debt\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2805d79a-e59f-42e0-891e-793a74632d5c",
+                            "itemBody": "\u003cp\u003eB. Unitranche debt\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d49a2142-71a7-4068-bf38-8635b5a30f4f",
+                            "itemBody": "\u003cp\u003eC. Infrastructure debt\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8706,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53966",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Alt-Shaw-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA leveraged loan is \u003ci\u003ebest\u003c/i\u003e defined as a loan:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8f8e3d57-4946-482c-96a6-e4ef1b0668fd"
+                },
+                "answerFeedback": {
+                    "22a35f45-a69c-42a0-a811-8f3174f479d2": "\u003cp\u003eIncorrect because mezzanine debt often comes with additional features, such as warrants or conversion rights. These provide equity participation to lenders/investors, conveying the option to convert their debt into equity or purchasing the equity of the underlying borrower under certain circumstances.\u003c/p\u003e",
+                    "8f8e3d57-4946-482c-96a6-e4ef1b0668fd": "\u003cp\u003eCorrect because a leveraged loan is\u0026nbsp;a loan that is itself levered. Private debt firms that invest in leveraged loans first borrow money to finance the debt and then extend it to another borrower. By using leverage, a private debt firm can enhance the return on its loan portfolio.\u003c/p\u003e",
+                    "985d040b-2ab4-4a94-8267-26b3b2db07bf": "\u003cp\u003eIncorrect because involvement in distressed debt typically entails buying the debt of mature companies in financial difficulty. These companies may be in bankruptcy, have defaulted on debt, or seem likely to default on debt. Some investors identify companies with a temporary cash-flow problem but a good business plan to help the company survive and ultimately flourish. These investors buy the company’s debt, expecting both the company and its debt to increase in value. Turnaround investors buy debt aiming to be more active in distressed company management and direction, seeking to restructure and revive them.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8f8e3d57-4946-482c-96a6-e4ef1b0668fd",
+                            "itemBody": "\u003cp\u003eA. that is itself levered.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "985d040b-2ab4-4a94-8267-26b3b2db07bf",
+                            "itemBody": "\u003cp\u003eB. to mature companies in financial difficulty.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "22a35f45-a69c-42a0-a811-8f3174f479d2",
+                            "itemBody": "\u003cp\u003eC. that comes with warrants or conversion rights.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8706,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53967",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Alts-Roberts-13",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about private debt is \u003ci\u003emost \u003c/i\u003eaccurate? Mezzanine debt:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0659e860-e949-4dd0-8655-ab889b78cd3e"
+                },
+                "answerFeedback": {
+                    "0659e860-e949-4dd0-8655-ab889b78cd3e": "\u003cp\u003eCorrect because mezzanine debt often comes with additional features, such as warrants or conversion rights, which provide equity participation to lenders/investors, meaning they have the option of converting their debt into equity or purchasing the equity of the underlying borrower under certain circumstances.\u003c/p\u003e",
+                    "41e9b228-7dd4-4539-bf3e-bc8c08d228cc": "\u003cp\u003eIncorrect because in private debt, mezzanine debt refers to private credit that is subordinated to senior secured debt but is senior to equity in the borrower’s capital structure.\u003c/p\u003e",
+                    "43b92447-861c-4d4b-8751-ef60eb98fd5a": "\u003cp\u003eIncorrect because mezzanine debt is more risky, not less, than senior secured debt. Because of its typically junior ranking and the fact that it is usually unsecured, mezzanine debt is riskier than senior secured debt; to compensate investors for this heightened risk profile, investors commonly demand higher interest rates and may require options for equity participation.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "41e9b228-7dd4-4539-bf3e-bc8c08d228cc",
+                            "itemBody": "\u003cp\u003eA. is subordinated to equity in a borrower's capital structure.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "43b92447-861c-4d4b-8751-ef60eb98fd5a",
+                            "itemBody": "\u003cp\u003eB. is less risky than senior secured debt issued by the same company.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0659e860-e949-4dd0-8655-ab889b78cd3e",
+                            "itemBody": "\u003cp\u003eC. may include additional features such as warrants to provide equity participation to lenders.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8706,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53968",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.06-Alt-Chua-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eMezzanine debt:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0c220a7a-6321-4460-bd33-246fb4937de6"
+                },
+                "answerFeedback": {
+                    "09d00852-1612-4937-8c68-79f8dba6cd0d": "\u003cp\u003eIncorrect because mezzanine debt is riskier than senior secured debt.\u003c/p\u003e",
+                    "0c220a7a-6321-4460-bd33-246fb4937de6": "\u003cp\u003eCorrect because mezzanine debt often comes with additional features, such as warrants or conversion rights. These provide equity participation to lenders/ investors.\u003c/p\u003e",
+                    "ed60f44d-27a3-411e-a7ec-fdb169728e0f": "\u003cp\u003eIncorrect because\u0026nbsp;it is unitranche debt that consists of a hybrid or blended loan structure combining different tranches of secured and unsecured debt into a single loan with a single, blended interest rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "09d00852-1612-4937-8c68-79f8dba6cd0d",
+                            "itemBody": "\u003cp\u003eA. is less risky than senior secured debt.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0c220a7a-6321-4460-bd33-246fb4937de6",
+                            "itemBody": "\u003cp\u003eB. often provides equity participation features.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ed60f44d-27a3-411e-a7ec-fdb169728e0f",
+                            "itemBody": "\u003cp\u003eC. combines different tranches of secured and unsecured debt into a single loan with a single, blended interest rate.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8706,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53969",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.06-Alt-Chua-12",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements is \u003ci\u003emost\u003c/i\u003e accurate? Venture debt:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "24e67558-d939-41a5-9b03-27f56c9ee0b9"
+                },
+                "answerFeedback": {
+                    "111b027c-332a-4353-b59b-1fd58adc4f60": "\u003cp\u003eIncorrect because venture debt may carry additional features that compensate the investor/lender for the increased risk of default or for the start-up and early-stage companies that lack substantial assets for debt collateral.\u003c/p\u003e",
+                    "24e67558-d939-41a5-9b03-27f56c9ee0b9": "\u003cp\u003eCorrect because entrepreneurs may seek venture debt, often in the form of a line of credit or term loan, to obtain additional financing without further diluting shareholder ownership.\u003c/p\u003e",
+                    "e5588cc2-814e-4e72-ae93-c44c99d0ab06": "\u003cp\u003eIncorrect because venture debt is private debt funding that provides venture capital backing to start-up or early-stage companies that may be generating little or negative cash flow.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "111b027c-332a-4353-b59b-1fd58adc4f60",
+                            "itemBody": "\u003cp\u003eA. requires assets as debt collateral.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "24e67558-d939-41a5-9b03-27f56c9ee0b9",
+                            "itemBody": "\u003cp\u003eB. allows entrepreneurs to obtain additional financing without further diluting shareholder ownership.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e5588cc2-814e-4e72-ae93-c44c99d0ab06",
+                            "itemBody": "\u003cp\u003eC. is a common form of debt financing for companies approaching the mature phase of their life cycle.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8706,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4494,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

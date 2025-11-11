@@ -1,0 +1,626 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6280,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 9,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 5: Company Analysis: Past and Present",
+        "topic_id": 1035,
+        "topic": "CFA-26-02-LI-C: Equity",
+        "subtopic_id": 6280,
+        "subtopic": "Module 5: Company Analysis: Past and Present",
+        "question_count": 9,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 851,
+                "name": "Warehouse Course: Equity 26-LI",
+                "code": "Warehouse Course: Equity 26-LI",
+                "module_id": 4459,
+                "question_count": 6,
+                "type": "warehouse"
+            },
+            {
+                "id": 842,
+                "name": "Practice Pack Warehouse: Equity 26-LI",
+                "code": "Practice Pack Warehouse: Equity 26-LI",
+                "module_id": 4676,
+                "question_count": 3,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            ""
+        ],
+        "points_possible": 9.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "047699c02ab84e14",
+        "ordered_item_ids": [
+            "54968",
+            "54969",
+            "54970",
+            "53290",
+            "53291",
+            "53292",
+            "53293",
+            "53294",
+            "53295",
+            "53296"
+        ],
+        "visible_item_ids": [
+            "54968",
+            "54969",
+            "54970",
+            "53290",
+            "53291",
+            "53292",
+            "53293",
+            "53294",
+            "53295",
+            "53296"
+        ]
+    },
+    "items": [
+        {
+            "id": "54968",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-Equity-Berlinicke-07",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eDownside and upside risk factors are\u0026nbsp;\u003ci\u003emost likely\u003c/i\u003e included in:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6d3f4231-3c67-4eb1-86ed-ea524d3ba8da"
+                },
+                "answerFeedback": {
+                    "6d3f4231-3c67-4eb1-86ed-ea524d3ba8da": "\u003cp\u003eCorrect\u0026nbsp;because downside and upside risk factors are part of the company research report element \"Risks\" which is not only part of the initial company research report elements but also\u0026nbsp;listed amongst\u0026nbsp;the five elements for the subsequent company research report: 1.\u0026nbsp;Front Matter, 2.\u0026nbsp;Recommendation, 3. Analysis of New Information, 4.\u0026nbsp;Valuation and 5.\u0026nbsp;Risks.\u003c/p\u003e",
+                    "8c2925bf-3ccf-4ee7-873b-b4a78027453d": "\u003cp\u003eIncorrect\u0026nbsp;because downside and upside risk factors are part of the company research report element \"Risks\" which is in fact\u0026nbsp;part of the initial company research report elements as well as\u0026nbsp;listed amongst\u0026nbsp;the five elements for the subsequent company research report: 1.\u0026nbsp;Front Matter, 2.\u0026nbsp;Recommendation, 3. Analysis of New Information,\u0026nbsp;4. Valuation and 5.\u0026nbsp;Risks.\u003c/p\u003e",
+                    "d94a030c-bd99-475a-9182-c3e189ac0f0a": "\u003cp\u003eIncorrect\u0026nbsp;because downside and upside risk factors are part of the company research report element \"Risks\" which is not only part of the initial company research report elements but also\u0026nbsp;listed amongst\u0026nbsp;the five elements for the subsequent company research report: 1.\u0026nbsp;Front Matter, 2.\u0026nbsp;Recommendation, 3.\u0026nbsp;Analysis of New Information, 4.\u0026nbsp;Valuation and 5.\u0026nbsp;Risks.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d94a030c-bd99-475a-9182-c3e189ac0f0a",
+                            "itemBody": "\u003cp\u003eA. an initial company research report only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8c2925bf-3ccf-4ee7-873b-b4a78027453d",
+                            "itemBody": "\u003cp\u003eB. a subsequent company research report only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6d3f4231-3c67-4eb1-86ed-ea524d3ba8da",
+                            "itemBody": "\u003cp\u003eC. both\u0026nbsp;initial and subsequent company research reports.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8850,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4676,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54969",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-Equity-Berlinicke-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA natural resources company having access to cheap energy \u003ci\u003emost likely\u003c/i\u003e will be able to sell its output:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1f7bc181-9301-4e39-a027-d468c531c6f8"
+                },
+                "answerFeedback": {
+                    "13f1813f-2b95-4c42-ba15-74fa76f38470": "\u003cp\u003eIncorrect because this would apply to a company with pricing power which a natural resources company does not have.\u003c/p\u003e",
+                    "1f7bc181-9301-4e39-a027-d468c531c6f8": "\u003cp\u003eCorrect because in the most competitive markets, where firms are selling nearly identical products, firms are price\u0026nbsp;\u003ci\u003etakers\u003c/i\u003e—that is, price is dictated by the forces of supply and demand—and all firms generally sell at the same price, i.e. the prevailing market price. Other attributes of highly competitive markets include little to no product differentiation, low barriers to firm entry, available substitutes, a lack of customer loyalty, and low switching costs for customers. Many markets fit this description, including retail, oil and gas and other natural resources.\u003c/p\u003e",
+                    "2b9a5f7a-b615-47ee-ac13-c1b36741113e": "\u003cp\u003eIncorrect because in the most competitive markets, where firms are selling nearly identical products, firms are price\u0026nbsp;\u003ci\u003etakers\u003c/i\u003e—that is, price is dictated by the forces of supply and demand—and all firms generally sell at the same price, i.e. the prevailing market price. Other attributes of highly competitive markets include little to no product differentiation, low barriers to firm entry, available substitutes, a lack of customer loyalty, and low switching costs for customers. Many markets fit this description, including retail, oil and gas and other natural resources.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1f7bc181-9301-4e39-a027-d468c531c6f8",
+                            "itemBody": "\u003cp\u003eA. at market price.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2b9a5f7a-b615-47ee-ac13-c1b36741113e",
+                            "itemBody": "\u003cp\u003eB. above market price.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "13f1813f-2b95-4c42-ba15-74fa76f38470",
+                            "itemBody": "\u003cp\u003eC. at a price unilaterally set by management.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8850,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4676,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54970",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-Equity-Glover-12",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003ebest\u003c/i\u003e described as a source of capital?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "feb466a1-aec9-43f3-b22a-792401e5c544"
+                },
+                "answerFeedback": {
+                    "ebe5a618-55c4-4fed-b378-b032730033e4": "\u003cp\u003eIncorrect because a positive net working capital is\u0026nbsp;a use, not a source, of capital. If the net working capital was negative then it would be a source, however a positive net working capital means that a company's resources (capital) will be used to support a level of current assets higher than current liabilities.\u003c/p\u003e",
+                    "f7feb52c-a9a3-481e-92a0-0032e1953fa8": "\u003cp\u003eIncorrect because share repurchases are a use, not a source, of capital. In other words, a\u0026nbsp;company will need to use its resources (capital) to repurchase the shares.\u0026nbsp;\u003c/p\u003e",
+                    "feb466a1-aec9-43f3-b22a-792401e5c544": "\u003cp\u003eCorrect because issuing debt will raise money for a company and so is a source of capital, not a use.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "feb466a1-aec9-43f3-b22a-792401e5c544",
+                            "itemBody": "\u003cp\u003eA. Debt issuances\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f7feb52c-a9a3-481e-92a0-0032e1953fa8",
+                            "itemBody": "\u003cp\u003eB. Share repurchases\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ebe5a618-55c4-4fed-b378-b032730033e4",
+                            "itemBody": "\u003cp\u003eC. Positive net working capital\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8850,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4676,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53290",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eJoshua Hu, a research analyst, is initiating coverage on several companies in the ocean freight shipping industry. OldShips is a mature company with high fixed costs and a high capital expenditure to sales ratio because it owns and operates its own fleet of ships. CleanYards is a technologically advanced, sustainable shipyard with a focus on specialized repairs and ship construction. Hu has compiled the following data for the two companies:\u003c/p\u003e\n\u003cdiv id=\"CFA0165-R-s06-T-2-a\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: top;\"\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eOldShips\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eCleanYards\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eDegree of Financial Leverage (DFL)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e2.0\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e2.0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eDegree of Operating Leverage (DOL)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e1.0\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e2.0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eAsset turnover ratio\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e0.84×\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e0.42×\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eDSO\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e27\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e98\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eDOH\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e12\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e46\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eDPO\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e55\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e40\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eNewShips, a third company, is a web-based shipping technology platform that connects ship operators such as OldShips with customers in a wide variety of industries who need ocean freight shipping. NewShips’ customers place orders online and pay for freight to be placed on a container to any destination in the world. NewShips’ partners, like OldShips, provide vessels on both long- and short-term charters.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn 2X19, NewShips’ platform brokered orders for 900,000 twenty-foot equivalent unit (TEU) containers in aggregate, with an average gross freight rate of USD3,848 per TEU. On average, NewShips’ commission, which it receives as a broker from the customer, was 5% of the freight rate.\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8524,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4459,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53291",
+            "entry": {
+                "title": "CFA0165-R-s06-Q5",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. A subsequent company research report focuses on updating investors on new information or changes in an analyst’s price target and recommendation.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA and C are incorrect, because in-depth information regarding industry size, growth rate, and key drivers or ownership structure and management composition is more suited to an initiation report.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is \u003cem\u003emost likely\u003c/em\u003e to be an element of Hu’s subsequent reports?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9c86b479-c695-4b77-bd6d-3c72d7a3358e"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c4bd12e9-b1e0-4db5-8898-cfe120e21cd6",
+                            "itemBody": "A. Industry size, growth rate, and key drivers",
+                            "position": 1
+                        },
+                        {
+                            "id": "9c86b479-c695-4b77-bd6d-3c72d7a3358e",
+                            "itemBody": "B. Summary of changes to the recommendation",
+                            "position": 2
+                        },
+                        {
+                            "id": "6cbb57a8-43c5-4fd0-930b-12b7c89811a9",
+                            "itemBody": "C. Ownership structure and management composition",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8524,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4459,
+            "stimulusQuizEntryId": "53290"
+        },
+        {
+            "id": "53292",
+            "entry": {
+                "title": "CFA0165-R-s06-Q6",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Only NewShips has a capital-light business model. Both OldShips and CleanYards require substantial capital investment in order to increase supply capacity. New ship construction (for OldShips) and acquiring new yards (for CleanYards) take time and cannot be met immediately.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eShipping is a highly cyclical industry. Which of the following companies \u003cem\u003emost likely\u003c/em\u003e has the most ability to ramp up capacity to meet increased demand for shipping services?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "478bb7e1-2103-4ddb-bfb5-a0d7f577bb7d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ff64cf98-62b2-43c3-aaca-d3f0ff62e7ac",
+                            "itemBody": "A. OldShips",
+                            "position": 1
+                        },
+                        {
+                            "id": "478bb7e1-2103-4ddb-bfb5-a0d7f577bb7d",
+                            "itemBody": "B. NewShips",
+                            "position": 2
+                        },
+                        {
+                            "id": "306053e3-bfcb-4e41-90b2-ea37d86191c0",
+                            "itemBody": "C. CleanYards",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8524,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4459,
+            "stimulusQuizEntryId": "53290"
+        },
+        {
+            "id": "53293",
+            "entry": {
+                "title": "CFA0165-R-s06-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. NewShips acts as a broker and earns 5% of the freight rate in commissions. In 2X19, NewShips brokered 900,000 TEUs at an average freight rate of 3,848 per TEU, earning a 5% commission: 900,000 × 3,848 × 0.05 = $173 million.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn 2X19, NewShips’ revenue was \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "123ba8a2-bb02-422a-8549-a5606ab0377a"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "123ba8a2-bb02-422a-8549-a5606ab0377a",
+                            "itemBody": "A. $173 million.",
+                            "position": 1
+                        },
+                        {
+                            "id": "fd80d3bc-26f7-4d40-bcfc-ecd6852f9447",
+                            "itemBody": "B. $1.46 billion.",
+                            "position": 2
+                        },
+                        {
+                            "id": "f3cf9541-da21-4455-81c7-c7f6a25e7fb2",
+                            "itemBody": "C. $3.63 billion.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8524,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4459,
+            "stimulusQuizEntryId": "53290"
+        },
+        {
+            "id": "53294",
+            "entry": {
+                "title": "CFA0165-R-s06-Q9",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Competing products and substitutes are analyzed in Porter’s Five Forces. This analysis is usually performed to better understand a company’s industry and its competitive positioning. Management comments are unlikely to guide the analyst to better understand the company’s business model.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA and C are incorrect, because both are relevant sources for an analyst in determining the company’s business model.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhen conducting company analysis, which of the following is \u003cem\u003eleast\u003c/em\u003e relevant to determining a company’s business model?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f61065de-ea82-49e2-8208-21f678ff71ab"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1bd9ab66-5fb6-4d0f-9d63-bac147b96ca1",
+                            "itemBody": "A. Company annual report describing the firm’s product lines",
+                            "position": 1
+                        },
+                        {
+                            "id": "f61065de-ea82-49e2-8208-21f678ff71ab",
+                            "itemBody": "B. Comments by management about competing products and substitutes",
+                            "position": 2
+                        },
+                        {
+                            "id": "3ec02c42-3679-4210-b70d-b22141de6c40",
+                            "itemBody": "C. Industry white papers regarding the company’s product pricing strategy",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8524,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4459,
+            "stimulusQuizEntryId": "53290"
+        },
+        {
+            "id": "53295",
+            "entry": {
+                "title": "CFA0165-R-s06-Q10",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCCC = DOH + DSO – DPO, so:\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0165-R-s06-E-2-\"\u003eOldShips’ CCC = 12 + 27 − 55 = −16 days\u003c/div\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0165-R-s06-E-2-___1\"\u003eCleanYards’ CCC = 46 + 98 − 40 = 104 days\u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eOldShips, in fact, has a negative cash conversion cycle. OldShips takes advantage of the favorable credit terms granted by its suppliers.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB and C are incorrect, because OldShips’ CCC is lower than CleanYards’.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eOldShips’ cash conversion cycle (CCC) is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c9b5ca85-95ce-4bf6-9777-2fb32cf98f4e"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c9b5ca85-95ce-4bf6-9777-2fb32cf98f4e",
+                            "itemBody": "A. lower than CleanYards’.",
+                            "position": 1
+                        },
+                        {
+                            "id": "24a07333-88db-47b3-ad9f-4723fdf12333",
+                            "itemBody": "B. similar to CleanYards’.",
+                            "position": 2
+                        },
+                        {
+                            "id": "071a541e-2b90-43d5-ade2-d8fe124fe3e4",
+                            "itemBody": "C. higher than CleanYards’.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8524,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4459,
+            "stimulusQuizEntryId": "53290"
+        },
+        {
+            "id": "53296",
+            "entry": {
+                "title": "CFA0165-R-s06-Q11",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Before a review of a company’s capital investments, the first step is to determine the company’s sources and uses of capital on a historical basis.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA and B are incorrect, because both take place after the analyst has identified the company’s sources and uses of cash and determined what to focus on.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe first step in reviewing a company’s capital investments is to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "014f995c-bde8-4cdb-95b6-e6a80651ed66"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "30e2529e-3fb3-4b57-aff5-a42f53c5db10",
+                            "itemBody": "A. evaluate management’s investments.",
+                            "position": 1
+                        },
+                        {
+                            "id": "75ed2128-85c8-4cd3-81fe-e3c2e1f9ae17",
+                            "itemBody": "B. identify operating cash flow drivers.",
+                            "position": 2
+                        },
+                        {
+                            "id": "014f995c-bde8-4cdb-95b6-e6a80651ed66",
+                            "itemBody": "C. determine the major sources and uses of cash.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8524,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4459,
+            "stimulusQuizEntryId": "53290"
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

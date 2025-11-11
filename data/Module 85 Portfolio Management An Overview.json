@@ -1,0 +1,2445 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6319,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 40,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 3: Portfolio Management: An Overview",
+        "topic_id": 1039,
+        "topic": "CFA-26-02-LI-C: Portfolio Management",
+        "subtopic_id": 6319,
+        "subtopic": "Module 3: Portfolio Management: An Overview",
+        "question_count": 40,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 855,
+                "name": "Warehouse Course: Portfolio Management 26-LI",
+                "code": "Warehouse Course: Portfolio Management 26-LI",
+                "module_id": 4501,
+                "question_count": 26,
+                "type": "warehouse"
+            },
+            {
+                "id": 846,
+                "name": "Practice Pack Warehouse: Portfolio Management 26-LI",
+                "code": "Practice Pack Warehouse: Portfolio Management 26-LI",
+                "module_id": 4753,
+                "question_count": 14,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 40.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "c18e76f57f7caf7a",
+        "ordered_item_ids": [
+            "56635",
+            "56636",
+            "56637",
+            "56638",
+            "56639",
+            "56640",
+            "56641",
+            "56642",
+            "56643",
+            "56644",
+            "56645",
+            "56646",
+            "56647",
+            "56648",
+            "51385",
+            "51386",
+            "51387",
+            "51388",
+            "51389",
+            "51390",
+            "51391",
+            "51392",
+            "51393",
+            "51394",
+            "51395",
+            "51396",
+            "51397",
+            "51398",
+            "51399",
+            "53986",
+            "53987",
+            "53988",
+            "53989",
+            "53990",
+            "53991",
+            "53992",
+            "53993",
+            "53994",
+            "53995",
+            "53996"
+        ],
+        "visible_item_ids": [
+            "56635",
+            "56636",
+            "56637",
+            "56638",
+            "56639",
+            "56640",
+            "56641",
+            "56642",
+            "56643",
+            "56644",
+            "56645",
+            "56646",
+            "56647",
+            "56648",
+            "51385",
+            "51386",
+            "51387",
+            "51388",
+            "51389",
+            "51390",
+            "51391",
+            "51392",
+            "51393",
+            "51394",
+            "51395",
+            "51396",
+            "51397",
+            "51398",
+            "51399",
+            "53986",
+            "53987",
+            "53988",
+            "53989",
+            "53990",
+            "53991",
+            "53992",
+            "53993",
+            "53994",
+            "53995",
+            "53996"
+        ]
+    },
+    "items": [
+        {
+            "id": "56635",
+            "entry": {
+                "title": "ITEM_CFA-L1-03760",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eIn an equally weighted portfolio, the diversification ratio is \u003ci\u003ebest\u003c/i\u003e described as a measure of the:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "80f01113-366a-4972-b548-8c31015d4af1"
+                },
+                "answerFeedback": {
+                    "80f01113-366a-4972-b548-8c31015d4af1": "\u003cp\u003eCorrect because the level of risk reduction from the portfolio approach to investing, relative to the risk of investing in a single security, can be measured by the diversification ratio. A\u0026nbsp;simple measure of the value of diversification is calculated as the ratio of the standard deviation of the equally weighted portfolio to the standard deviation of the randomly selected security. This ratio may be referred to as the \u003cstrong\u003ediversification ratio\u003c/strong\u003e. The diversification ratio of the portfolio's standard deviation to the individual asset's standard deviation measures the risk reduction benefits of a simple portfolio construction method, equal weighting.\u003c/p\u003e",
+                    "e1424e8d-23c6-447e-a1cd-8d950197e77e": "\u003cp\u003eIncorrect because the diversification ratio compares the risk of an overall portfolio relative to a single security; it does not measure the amount of risk an asset contributes to the portfolio's risk.\u0026nbsp;\u003c/p\u003e",
+                    "efd02a2c-9c30-4b05-ba56-99da5abe8889": "\u003cp\u003eIncorrect because the diversification ratio compares volatility between a portfolio and a single asset, not between two single assets. A\u0026nbsp;simple measure of the value of diversification is calculated as the ratio of the standard deviation of the equally weighted portfolio to the standard deviation of the randomly selected security.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "efd02a2c-9c30-4b05-ba56-99da5abe8889",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA. relative level of risk between any two individual assets.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e1424e8d-23c6-447e-a1cd-8d950197e77e",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eB. amount of risk an asset contributes to the portfolio's risk.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "80f01113-366a-4972-b548-8c31015d4af1",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eC. risk reduction benefit of investing in the portfolio versus a security from the portfolio.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9006,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4753,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56636",
+            "entry": {
+                "title": "ITEM_20170606084",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost likely\u003c/i\u003e part of the feedback step in the portfolio management process?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e193ee5f-e872-4ebb-8821-eb331c3f6278"
+                },
+                "answerFeedback": {
+                    "44b1a89d-bad2-490f-a37d-2f6bd904fb78": "\u003cp\u003eIncorrect because developing the investment policy statement is part of the planning step.\u003c/p\u003e",
+                    "e053a2e4-bbbf-4fe9-a6c8-b335ec7669b5": "\u003cp\u003eIncorrect because portfolio construction is part of the execution step.\u003c/p\u003e",
+                    "e193ee5f-e872-4ebb-8821-eb331c3f6278": "\u003cp\u003eCorrect because performance measurement, along with portfolio monitoring and rebalancing, is part of the feedback step.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e053a2e4-bbbf-4fe9-a6c8-b335ec7669b5",
+                            "itemBody": "\u003cp\u003eA. Portfolio construction\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e193ee5f-e872-4ebb-8821-eb331c3f6278",
+                            "itemBody": "\u003cp\u003eB. Performance measurement\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "44b1a89d-bad2-490f-a37d-2f6bd904fb78",
+                            "itemBody": "\u003cp\u003eC. Developing the investment policy statement\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9006,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4753,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56637",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Chua-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe diversification ratio of a portfolio is \u003ci\u003ebest\u003c/i\u003e described as the ratio of the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1401624a-8902-44c5-b08e-c6a8faaa7cb9"
+                },
+                "answerFeedback": {
+                    "1401624a-8902-44c5-b08e-c6a8faaa7cb9": "\u003cp\u003eCorrect because a simple measure of the value of diversification is calculated as the ratio of the standard deviation of the equally weighted portfolio to the standard deviation of the randomly selected security. This ratio may be referred to as the \u003cb\u003ediversification ratio\u003c/b\u003e. In the example of the 5-stock\u0026nbsp;portfolio\u0026nbsp;given,\u0026nbsp;the equally weighted portfolio’s standard deviation is approximately 71 percent of the average standard deviation of the 5 stocks (24.9%); i.e., the denominator is the average standard deviation of all individual securities in the portfolio and the numerator is the standard deviation of the equally weighted portfolio.\u003c/p\u003e",
+                    "7f9ab3c2-2a69-46ae-8bcf-28409b7487b7": "\u003cp\u003eIncorrect because the standard deviation of the equally weighted portfolio should be the numerator (not the denominator) and the denominator should be the average standard deviation of all individual securities in the portfolio.\u003c/p\u003e",
+                    "bf683164-8a14-4422-af4a-e55ff52b9a20": "\u003cp\u003eIncorrect because the average standard deviation of all individual securities in the portfolio should be the denominator (not the numerator) and the numerator should be\u0026nbsp;the standard deviation of the equally weighted portfolio.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1401624a-8902-44c5-b08e-c6a8faaa7cb9",
+                            "itemBody": "\u003cp\u003eA. standard deviation of the equally weighted portfolio's returns to the average standard deviation of the individual securities' returns.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7f9ab3c2-2a69-46ae-8bcf-28409b7487b7",
+                            "itemBody": "\u003cp\u003eB. standard deviation of the market-capitalization-weighted portfolio's returns to the standard deviation of the equally weighted portfolio's returns.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bf683164-8a14-4422-af4a-e55ff52b9a20",
+                            "itemBody": "\u003cp\u003eC. average standard deviation of the individual securities' returns to the standard deviation of the market-capitalization-weighted portfolio's returns.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9006,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4753,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56638",
+            "entry": {
+                "title": "ITEM_CFA-L1-08462",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe portfolio approach to investing \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "70196407-7dcf-4cf5-b6f1-a4472e501b88"
+                },
+                "answerFeedback": {
+                    "20cd52f2-f481-4aa7-8eee-de278e6388f9": "\u003cp\u003eIncorrect because an asset's risk should be measured in relation to the remaining systematic or non-diversifiable risk, which should be the only risk that affects the asset's price. Systematic risk is risk that cannot be avoided and is inherent in the overall market. It is non-diversifiable because it includes risk factors that are innate within the market and affect the market as a whole. Therefore, portfolio diversification does not reduce the systematic risk of individual assets in a portfolio.\u003c/p\u003e",
+                    "5f749cff-c1fc-4722-9dcf-efa0ea59f5cb": "\u003cp\u003eIncorrect because, although the portfolio approach helps avoid disasters by way of diversification, it does not necessarily provide downside protection (prevent losses) during market downturns. A major reason that portfolios can effectively reduce risk is that combining securities whose returns do not move together provides diversification. \u0026nbsp;However, an important issue is that the co-movement or correlation pattern of the securities' returns in the portfolio can change in a manner unfavorable to the investor. Despite diversification, a portfolio is unlikely to preserve its value during market downturns.\u0026nbsp;\u003c/p\u003e",
+                    "70196407-7dcf-4cf5-b6f1-a4472e501b88": "\u003cp\u003eCorrect because portfolio diversification helps investors avoid disastrous investment outcomes. A main tenet of the portfolio approach to investing is diversification. A disastrous outcome can result from ‘putting all your eggs into one basket' or investing everything into one stock whose value could then go to zero. A diversified portfolio holding many securities is likely to avoid this outcome. Although diversification may not prevent losses during market downturns, it does help avoid disastrous investment outcomes during normal market conditions.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5f749cff-c1fc-4722-9dcf-efa0ea59f5cb",
+                            "itemBody": "\u003cp\u003eA. prevents portfolio losses during market downturns.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "20cd52f2-f481-4aa7-8eee-de278e6388f9",
+                            "itemBody": "\u003cp\u003eB. reduces the systematic risk of individual assets in a portfolio.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "70196407-7dcf-4cf5-b6f1-a4472e501b88",
+                            "itemBody": "\u003cp\u003eC. helps avoid disastrous investment outcomes during normal market conditions.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9006,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4753,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56639",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Tomter-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about pension plans is \u003ci\u003emost\u003c/i\u003e accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "39f1d191-3089-4107-97dc-b0bb2e805c7e"
+                },
+                "answerFeedback": {
+                    "2487c219-7751-4388-8fc7-ebaf36c024dd": "\u003cp\u003eIncorrect because the risk tolerance for defined benefit pension plans will vary with the maturity of the plan, but is typically quite high.\u003c/p\u003e",
+                    "39f1d191-3089-4107-97dc-b0bb2e805c7e": "\u003cp\u003eCorrect because \u003cb\u003edefined benefit pension plans\u003c/b\u003e (DB plans) are company-sponsored plans that offer employees a predefined benefit on retirement. The future benefit is defined because the DB plan requires the plan sponsor to specify the obligation stated in terms of the retirement income benefits owed to participants.\u003c/p\u003e",
+                    "af634905-4ddc-4f68-ad7f-0098e93cbed9": "\u003cp\u003eIncorrect because defined contribution pension plans are managed for individual investors, therefore the risk tolerance of each plan varies with the individual. Some individuals will be investing for growth and will therefore seek assets that have the potential for capital gains. Others, such as retirees, may need to draw an income from their assets and may therefore choose to invest more in fixed-income and dividend-paying shares. The investment needs of individuals will depend in part on their broader financial circumstances, such as their employment prospects and whether or not they own their own residence. They may also need to consider such issues as building up a cash reserve and the purchase of appropriate insurance policies before undertaking longer-term investments. The risk tolerance of an individual investor varies by individual.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2487c219-7751-4388-8fc7-ebaf36c024dd",
+                            "itemBody": "\u003cp\u003eA. Defined benefit plans typically have a low risk tolerance.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "af634905-4ddc-4f68-ad7f-0098e93cbed9",
+                            "itemBody": "\u003cp\u003eB. Defined contribution plans typically have a low risk tolerance.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "39f1d191-3089-4107-97dc-b0bb2e805c7e",
+                            "itemBody": "\u003cp\u003eC. The sponsor of a defined benefit plan specifies the obligation owed to participants.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9006,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4753,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56640",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Tomter-05",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eOpen-end mutual funds typically:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "09ceeba3-d75c-4830-91dd-65ecf3d7511d"
+                },
+                "answerFeedback": {
+                    "09ceeba3-d75c-4830-91dd-65ecf3d7511d": "\u003cp\u003eCorrect because the minimum required investment in ETFs is usually smaller than that of mutual funds.\u003c/p\u003e",
+                    "6c3b87e9-e94a-450f-9a68-0c7fd12a92ca": "\u003cp\u003eIncorrect because closed-end, not open-end, mutual funds have a fixed number of shares outstanding. An alternative to setting the fund up as an open-end fund would be to create a \u003cb\u003eclosed-end fund\u003c/b\u003e in which no new investment money is accepted into the fund. New investors invest by buying existing shares, and investors in the fund liquidate by selling their shares to other investors. Hence, the number of outstanding shares does not change. One consequence of this fixed share base is that, unlike open-end funds in which new shares are created and sold at the current net asset value per share, closed-end funds can sell for a premium or discount to net asset value depending on the demand for the shares.\u003c/p\u003e",
+                    "a2056051-0d10-4942-bf7c-d550668ef60f": "\u003cp\u003eIncorrect because it is an ETF that is priced intraday, not a mutual fund. The value of a mutual fund is referred to as the 'net asset value'. It is computed daily based on the closing price of the securities in the portfolio. Because they are traded on exchanges, ETFs can be transacted (and are priced) intraday. In contrast, mutual funds typically can be purchased or sold only once a day.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a2056051-0d10-4942-bf7c-d550668ef60f",
+                            "itemBody": "\u003cp\u003eA. are priced intraday.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6c3b87e9-e94a-450f-9a68-0c7fd12a92ca",
+                            "itemBody": "\u003cp\u003eB. have a fixed number of shares outstanding.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "09ceeba3-d75c-4830-91dd-65ecf3d7511d",
+                            "itemBody": "\u003cp\u003eC. have a larger required minimum investment than ETFs.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9006,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4753,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56641",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Niininen-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eRobo-advisers \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7f8cbb50-2263-4205-af66-f33e79b3539c"
+                },
+                "answerFeedback": {
+                    "769814d2-6c3b-4e49-a568-e539d74a38a6": "\u003cp\u003eIncorrect because robo-advisers often rely on lower fee underlying portfolio investment options, such as index funds or ETFs, when constructing portfolios for clients.\u003c/p\u003e",
+                    "7f8cbb50-2263-4205-af66-f33e79b3539c": "\u003cp\u003eCorrect because rapid growth in robo-advisory assets is based on several industry trends including \u003cb\u003egrowing demand from 'mass affluent' and younger investors.\u003c/b\u003e\u0026nbsp;Traditional investment advice has often underserved younger and 'mass affluent' investors with lower relative levels of investable assets.\u003c/p\u003e",
+                    "d121bdee-1f1b-4e26-ae30-29c8bc49cb8d": "\u003cp\u003eIncorrect because reflecting low barriers to entry, large wealth management firms have introduced robo-adviser solutions to service certain customer segments and appeal to a new generation of investors.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d121bdee-1f1b-4e26-ae30-29c8bc49cb8d",
+                            "itemBody": "\u003cp\u003eA. face high barriers to entry.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7f8cbb50-2263-4205-af66-f33e79b3539c",
+                            "itemBody": "\u003cp\u003eB. cater to the demand from investors with lower levels of investable assets.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "769814d2-6c3b-4e49-a568-e539d74a38a6",
+                            "itemBody": "\u003cp\u003eC. prefer actively managed funds to index funds when constructing client portfolios.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9006,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4753,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56642",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Conover-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn regard\u0026nbsp;to the asset allocation process, a top-down analysis \u003ci\u003emost likely\u003c/i\u003e begins with an examination of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e650ac27-9ea8-4f16-91d5-dbd907e3dd62"
+                },
+                "answerFeedback": {
+                    "26badaa1-cf44-436e-ab1a-9159a5735940": "\u003cp\u003eIncorrect because a\u0026nbsp;\u003cb\u003etop-down analysis\u003c/b\u003e begins with consideration of macroeconomic conditions.\u0026nbsp;Bottom-up analysis focuses on company specifics. Rather than emphasizing economic cycles or industry analysis, a \u003cb\u003ebottom-up analysis\u003c/b\u003e focuses on company-specific circumstances, such as management quality and business prospects.\u003c/p\u003e",
+                    "e548a2a3-5abb-479c-a550-e7c01b13f611": "\u003cp\u003eIncorrect because a\u0026nbsp;\u003cb\u003etop-down analysis\u003c/b\u003e begins with consideration of macroeconomic conditions.\u0026nbsp;Bottom-up analysis focuses on company specifics. Rather than emphasizing economic cycles or industry analysis, a \u003cb\u003ebottom-up analysis\u003c/b\u003e focuses on company-specific circumstances, such as management quality and business prospects.\u003c/p\u003e",
+                    "e650ac27-9ea8-4f16-91d5-dbd907e3dd62": "\u003cp\u003eCorrect because a\u0026nbsp;\u003cb\u003etop-down analysis\u003c/b\u003e begins with consideration of macroeconomic conditions. Based on the current and forecasted economic environment, analysts evaluate markets and industries with the purpose of investing in those that are expected to perform well. Finally, specific companies within these industries are considered for investment.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e650ac27-9ea8-4f16-91d5-dbd907e3dd62",
+                            "itemBody": "\u003cp\u003eA. macroeconomic growth.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "26badaa1-cf44-436e-ab1a-9159a5735940",
+                            "itemBody": "\u003cp\u003eB. a company's board of directors.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e548a2a3-5abb-479c-a550-e7c01b13f611",
+                            "itemBody": "\u003cp\u003eC. the expected growth of a company's competitors.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9006,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4753,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56643",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Chua-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following \u003ci\u003ebest\u003c/i\u003e describes a characteristic of defined contribution pension plans?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b7146daf-da21-4381-adfe-3813bad1e7e9"
+                },
+                "answerFeedback": {
+                    "0c45ef83-b11d-48b8-94a0-c2bafac02304": "\u003cp\u003eIncorrect\u0026nbsp;because this applies for defined benefit (DB) plans, as generally, employers are responsible for the contributions made to a DB plan and bear the risk associated with adequately funding the benefits offered to employees.\u003c/p\u003e",
+                    "b7146daf-da21-4381-adfe-3813bad1e7e9": "\u003cp\u003eCorrect because the key to a defined contribution (DC) plan is that the employee accepts the investment and inflation risk and is responsible for ensuring that there are enough assets in the plan to meet their needs upon retirement.\u003c/p\u003e",
+                    "be130af2-69fb-4ae1-ac16-384f7b06f7ca": "\u003cp\u003eIncorrect because defined contribution (DC)\u0026nbsp;plans typically have lower costs/risk to the company.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b7146daf-da21-4381-adfe-3813bad1e7e9",
+                            "itemBody": "\u003cp\u003eA. The employee accepts the investment and inflation risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0c45ef83-b11d-48b8-94a0-c2bafac02304",
+                            "itemBody": "\u003cp\u003eB. The employer is responsible for adequately funding the plan.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "be130af2-69fb-4ae1-ac16-384f7b06f7ca",
+                            "itemBody": "\u003cp\u003eC. Defined contribution plans typically have a higher cost to the company than defined benefit plans.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9006,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4753,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56644",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Y.Zhang-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about different types of investors is\u0026nbsp;\u003ci\u003emost\u003c/i\u003e\u0026nbsp;accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dc37f020-5516-474d-aae7-e9056e9885e5"
+                },
+                "answerFeedback": {
+                    "5890c012-3ae7-47aa-badd-3e9b6345aa39": "\u003cp\u003eIncorrect because an insurance company’s general account is typically invested conservatively in a diverse allocation of fixed-income securities, while an insurer’s surplus account typically targets a higher return than the general account and thus often invests in less-conservative asset classes.\u003c/p\u003e",
+                    "dc37f020-5516-474d-aae7-e9056e9885e5": "\u003cp\u003eCorrect because liquidity is a paramount concern for banks that stand ready to meet depositor requests for withdrawals.\u003c/p\u003e",
+                    "f01bb7a7-b4bc-4977-b32e-5431de3833dc": "\u003cp\u003eIncorrect because most foundations and endowments are established with the intent of having perpetual lives. The large allocation to alternative investments primarily reflects the typically long time horizon of endowments and foundations.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "dc37f020-5516-474d-aae7-e9056e9885e5",
+                            "itemBody": "\u003cp\u003eA. For banks, the liquidity of their investments is a paramount concern.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f01bb7a7-b4bc-4977-b32e-5431de3833dc",
+                            "itemBody": "\u003cp\u003eB. For endowments, investment horizons are short due to their short-term spending needs.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "5890c012-3ae7-47aa-badd-3e9b6345aa39",
+                            "itemBody": "\u003cp\u003eC. For insurance companies, the risk tolerance of their general and surplus accounts is typically the same.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9006,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4753,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56645",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Ermogenous-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eRelative to passive market-cap-weighted strategies, smart beta strategies typically have:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8acf6880-09d6-441a-8898-dc75892b2ef4"
+                },
+                "answerFeedback": {
+                    "7e40dafc-8eae-4a13-a75a-8e2bd02ff41a": "\u003cp\u003eIncorrect because\u0026nbsp;typically, smart beta strategies feature somewhat higher management fees and higher (not lower)\u0026nbsp;portfolio turnover relative to passive market-cap weighted strategies.\u003c/p\u003e",
+                    "8acf6880-09d6-441a-8898-dc75892b2ef4": "\u003cp\u003eCorrect because typically, smart beta strategies feature somewhat higher management fees and higher portfolio turnover relative to passive market-cap weighted strategies.\u003c/p\u003e",
+                    "8daea6ca-dfcb-44d1-b640-70b0826ae0f6": "\u003cp\u003eIncorrect because\u0026nbsp;typically, smart beta strategies feature somewhat higher (not lower) management fees and higher portfolio turnover relative to passive market-cap weighted strategies.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8daea6ca-dfcb-44d1-b640-70b0826ae0f6",
+                            "itemBody": "\u003cp\u003eA. lower management fees and higher portfolio turnover.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7e40dafc-8eae-4a13-a75a-8e2bd02ff41a",
+                            "itemBody": "\u003cp\u003eB. higher management fees and lower portfolio turnover.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8acf6880-09d6-441a-8898-dc75892b2ef4",
+                            "itemBody": "\u003cp\u003eC. higher management fees and higher portfolio turnover.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9006,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4753,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56646",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Niininen-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eExchange-traded funds (ETFs):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ac8e087f-f790-4322-b753-d0f63e0d6abe"
+                },
+                "answerFeedback": {
+                    "268ca424-7169-4b40-b4f1-c0215e20298b": "\u003cp\u003eIncorrect because ETFs can be transacted (and are priced) intraday.\u003c/p\u003e",
+                    "32b3e0ff-a80c-4e77-92fb-259e60c013f1": "\u003cp\u003eIncorrect because exchange-traded funds (ETFs) are generally structured as open-end funds.\u003c/p\u003e",
+                    "ac8e087f-f790-4322-b753-d0f63e0d6abe": "\u003cp\u003eCorrect because dividends on ETFs are paid out to the shareholders whereas mutual funds usually reinvest the dividends.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "268ca424-7169-4b40-b4f1-c0215e20298b",
+                            "itemBody": "\u003cp\u003eA. are priced once a trading day.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ac8e087f-f790-4322-b753-d0f63e0d6abe",
+                            "itemBody": "\u003cp\u003eB. usually pay out dividends to shareholders.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "32b3e0ff-a80c-4e77-92fb-259e60c013f1",
+                            "itemBody": "\u003cp\u003eC. are generally structured as closed-end funds.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9006,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4753,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56647",
+            "entry": {
+                "title": "ITEM_CFA-L1-08953",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eSovereign wealth funds are \u003ci\u003ebest\u003c/i\u003e described as investment funds:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ecafba49-4ae3-403f-9425-1a8cfd81db79"
+                },
+                "answerFeedback": {
+                    "1a03ce40-b198-4061-9c9b-170fba0a5dc6": "\u003cp\u003eIncorrect because sovereign wealth funds (SWFs) are government-owned investment funds or entities that\u0026nbsp;invest in financial or real assets. In order to meet their long-term return objectives, SWFs invest in a wide range of real and financial assets or in alternative investments. The name \"sovereign\" wealth funds refers to the funds' ownership rather than their permitted investments.\u003c/p\u003e",
+                    "8068cd63-2752-477f-8c78-6cbe3467aeb4": "\u003cp\u003eIncorrect because sovereign wealth funds (SWFs) are government-owned investment funds. Closed-end funds are mutual funds in which no new investment money is accepted into the fund. New investors invest by buying existing shares, and investors in the fund liquidate by selling their shares to other investors. A mutual fund is a comingled investment pool in which investors in the fund each have a pro-rata claim on the income and value of the fund. SWFs do not pool investment money from individual investors and institutions, and they are not traded.\u003c/p\u003e",
+                    "ecafba49-4ae3-403f-9425-1a8cfd81db79": "\u003cp\u003eCorrect because sovereign wealth funds (SWFs) are government-owned investment funds.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ecafba49-4ae3-403f-9425-1a8cfd81db79",
+                            "itemBody": "\u003cp\u003eA. owned by governments.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8068cd63-2752-477f-8c78-6cbe3467aeb4",
+                            "itemBody": "\u003cp\u003eB. traded as closed-end country funds.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1a03ce40-b198-4061-9c9b-170fba0a5dc6",
+                            "itemBody": "\u003cp\u003eC. restricted from investing in foreign securities.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9006,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4753,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56648",
+            "entry": {
+                "title": "ITEM_CFA-L1-07930",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eWhich of the following funds is \u003ci\u003emost likely\u003c/i\u003e to trade at a price furthest from its net asset value?\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3ec77354-fc35-45f5-a649-ae561182039b"
+                },
+                "answerFeedback": {
+                    "08279c70-cb08-4422-bc05-803008859209": "\u003cp\u003eIncorrect because in an open-end mutual fund new shares are created and sold at the current net asset value per share.\u003c/p\u003e",
+                    "3ec77354-fc35-45f5-a649-ae561182039b": "\u003cp\u003eCorrect because in a closed-end mutual fund the number of outstanding shares does not change. One consequence of this fixed share base is that, unlike open-end funds in which new shares are created and sold at the current net asset value per share, closed-end funds can sell for a premium or discount to net asset value depending on the demand for the shares.\u003c/p\u003e",
+                    "8df9b4d1-8145-426d-80c0-1117159b728d": "\u003cp\u003eIncorrect because in practice, the market price of the ETF is likely to be close to the net asset value of the underlying investments.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8df9b4d1-8145-426d-80c0-1117159b728d",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA. Exchange-traded fund\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "08279c70-cb08-4422-bc05-803008859209",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eB. Open-end mutual fund\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3ec77354-fc35-45f5-a649-ae561182039b",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eC. Closed-end mutual fund\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9006,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4753,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51385",
+            "entry": {
+                "title": "CFA0158-Q1",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Combining assets into a portfolio should reduce the portfolio’s volatility. Specifically, “individuals and institutions should hold portfolios to reduce risk.” As illustrated in the reading, however, risk reduction may not be as great during a period of dramatic economic change.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eInvestors should use a portfolio approach to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2b174b94-fb66-4358-adfe-a0b6cc136eef"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2b174b94-fb66-4358-adfe-a0b6cc136eef",
+                            "itemBody": "A. reduce risk.",
+                            "position": 1
+                        },
+                        {
+                            "id": "3f613eaa-2a1e-4d3e-a79d-e085154db3c8",
+                            "itemBody": "B. monitor risk.",
+                            "position": 2
+                        },
+                        {
+                            "id": "0ceea04c-2625-431f-9c62-d094201e3011",
+                            "itemBody": "C. eliminate risk.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51386",
+            "entry": {
+                "title": "CFA0158-Q2",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Combining assets into a portfolio should reduce the portfolio’s volatility. The portfolio approach does not necessarily provide downside protection or guarantee that the portfolio always will avoid losses.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is the \u003cem\u003ebest\u003c/em\u003e reason for an investor to be concerned with the composition of a portfolio?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1e1edb93-bdfb-4071-8bc2-7da17dc9e667"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1e1edb93-bdfb-4071-8bc2-7da17dc9e667",
+                            "itemBody": "A. Risk reduction.",
+                            "position": 1
+                        },
+                        {
+                            "id": "ffb59ab9-cf95-4cb3-9613-221f985cf59d",
+                            "itemBody": "B. Downside risk protection.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b4c4a20e-5d14-4e55-910a-7d9cef8e9c79",
+                            "itemBody": "C. Avoidance of investment disasters.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51387",
+            "entry": {
+                "title": "CFA0158-Q3",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. As illustrated in the reading, portfolios reduce risk more than they increase returns.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWith respect to the formation of portfolios, which of the following statements is \u003cem\u003emost accurate\u003c/em\u003e?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "30127761-a160-4f29-9186-0071a4af316e"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "23ce695e-890d-4969-bd9d-3518da2e6349",
+                            "itemBody": "A. Portfolios affect risk less than returns.",
+                            "position": 1
+                        },
+                        {
+                            "id": "30127761-a160-4f29-9186-0071a4af316e",
+                            "itemBody": "B. Portfolios affect risk more than returns.",
+                            "position": 2
+                        },
+                        {
+                            "id": "8745050e-ffb6-4fd9-9f35-8a5f6824cf2b",
+                            "itemBody": "C. Portfolios affect risk and returns equally.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51388",
+            "entry": {
+                "title": "CFA0158-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The client’s objectives and constraints are established in the investment policy statement and are used to determine the client’s target asset allocation, which occurs in the execution step of the portfolio management process.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWith respect to the portfolio management process, the asset allocation is determined in the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "abe3b784-d3ab-4c55-8262-da1eab166bbf"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "592ebcde-eedd-4b1b-bdbf-6fa56a5e64a4",
+                            "itemBody": "A. planning step.",
+                            "position": 1
+                        },
+                        {
+                            "id": "023f3ba0-5ba7-45ae-94eb-ebe0f51f2b75",
+                            "itemBody": "B. feedback step.",
+                            "position": 2
+                        },
+                        {
+                            "id": "abe3b784-d3ab-4c55-8262-da1eab166bbf",
+                            "itemBody": "C. execution step.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51389",
+            "entry": {
+                "title": "CFA0158-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Securities are analyzed in the execution step. In the planning step, a client’s objectives and constraints are used to develop the investment policy statement.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe planning step of the portfolio management process is \u003cem\u003eleast likely\u003c/em\u003e to include an assessment of the client’s\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "327dfe66-2d6e-4117-9524-d827fcd564ab"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "327dfe66-2d6e-4117-9524-d827fcd564ab",
+                            "itemBody": "A. securities.",
+                            "position": 1
+                        },
+                        {
+                            "id": "db099fc3-b7b4-4853-b69e-314244e81374",
+                            "itemBody": "B. constraints.",
+                            "position": 2
+                        },
+                        {
+                            "id": "3e410c22-0680-411b-8707-daeb78eb6371",
+                            "itemBody": "C. risk tolerance.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51390",
+            "entry": {
+                "title": "CFA0158-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Portfolio monitoring and rebalancing occurs in the feedback step of the portfolio management process.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWith respect to the portfolio management process, the rebalancing of a portfolio’s composition is \u003cem\u003emost likely\u003c/em\u003e to occur in the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "25deddb9-19cd-4102-a303-bfd0b94bf32f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d244c427-4110-4733-8002-53198ff9831e",
+                            "itemBody": "A. planning step.",
+                            "position": 1
+                        },
+                        {
+                            "id": "25deddb9-19cd-4102-a303-bfd0b94bf32f",
+                            "itemBody": "B. feedback step.",
+                            "position": 2
+                        },
+                        {
+                            "id": "95c71eaa-10fa-4012-910f-409a04a20b40",
+                            "itemBody": "C. execution step.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51391",
+            "entry": {
+                "title": "CFA0158-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Portfolio 3 has the same equity exposure as Portfolio 1 and has a higher exposure to alternative assets, which have greater volatility (as discussed in the section of the reading comparing the endowments from Yale University and the University of Virginia).\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst gathers the following information for the asset allocations of three portfolios:\u003c/p\u003e\n\u003cdiv id=\"CFA0158-P-Ta\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003ePortfolio\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eFixed Income (%)\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eEquity (%)\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eAlternative Assets (%)\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: middle; padding: 8px; text-align: left;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e25\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e60\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e15\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: middle; padding: 8px; text-align: left;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e60\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e25\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e15\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: middle; padding: 8px; text-align: left;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e15\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e60\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e25\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the portfolios is \u003cem\u003emost likely\u003c/em\u003e appropriate for a client who has a high degree of risk tolerance?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b3245577-482a-4cb5-a3c8-4c5de9ac53b2"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7ed0a52d-211c-471b-9532-e3639ead0a5b",
+                            "itemBody": "A. Portfolio 1.",
+                            "position": 1
+                        },
+                        {
+                            "id": "8339fbab-96c6-4552-8519-abaf1313d86d",
+                            "itemBody": "B. Portfolio 2.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b3245577-482a-4cb5-a3c8-4c5de9ac53b2",
+                            "itemBody": "C. Portfolio 3.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51392",
+            "entry": {
+                "title": "CFA0158-Q4",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The excess reserves invested by banks need to be relatively liquid. Although investment companies and non-life insurance companies have high liquidity needs, the liquidity need for banks is on average the greatest.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following institutions will \u003cem\u003eon average\u003c/em\u003e have the greatest need for liquidity?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ee4b1528-8117-422b-a51f-ed7821b3419b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ee4b1528-8117-422b-a51f-ed7821b3419b",
+                            "itemBody": "A. Banks.",
+                            "position": 1
+                        },
+                        {
+                            "id": "5f562e13-dc07-4782-88d0-3e8a8f7a2cb4",
+                            "itemBody": "B. Investment companies.",
+                            "position": 2
+                        },
+                        {
+                            "id": "6e243bac-5d8c-4c9a-aefa-74a7eb0dc43a",
+                            "itemBody": "C. Non-life insurance companies.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51393",
+            "entry": {
+                "title": "CFA0158-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Most foundations and endowments are established with the intent of having perpetual lives. Although defined benefit plans and life insurance companies have portfolios with a long time horizon, they are not perpetual.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following institutional investors will \u003cem\u003emost likely\u003c/em\u003e have the longest time horizon?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f181d1c7-7912-4822-b452-e2728317bfac"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "45300b5f-4c88-43a1-91a8-acc20e2f1bd8",
+                            "itemBody": "A. Defined benefit plan.",
+                            "position": 1
+                        },
+                        {
+                            "id": "f181d1c7-7912-4822-b452-e2728317bfac",
+                            "itemBody": "B. University endowment.",
+                            "position": 2
+                        },
+                        {
+                            "id": "9405370e-6314-47a4-8bb6-3fa02ca39e71",
+                            "itemBody": "C. Life insurance company.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51394",
+            "entry": {
+                "title": "CFA0158-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Income is necessary to meet the cash flow obligation to retirees. Although defined benefit plans have a need for income, the need for liquidity typically is quite low. A retiree may need life insurance; however, a defined benefit plan does not need insurance.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA defined benefit plan with a large number of retirees is \u003cem\u003elikely\u003c/em\u003e to have a high need for:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "142e67f6-c8f2-4557-b157-9a5e0e150773"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "142e67f6-c8f2-4557-b157-9a5e0e150773",
+                            "itemBody": "A. income.",
+                            "position": 1
+                        },
+                        {
+                            "id": "ccb3682d-e739-4b90-8ce3-638197529267",
+                            "itemBody": "B. liquidity.",
+                            "position": 2
+                        },
+                        {
+                            "id": "802bd660-d819-42f7-bdfb-cac734557197",
+                            "itemBody": "C. insurance.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51395",
+            "entry": {
+                "title": "CFA0158-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Investment companies manage investments in mutual funds. Although endowments and insurance companies may own mutual funds, they do not issue or redeem shares of mutual funds.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following institutional investors is \u003cem\u003emost likely\u003c/em\u003e to manage investments in mutual funds?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "20fee990-4841-4401-ab45-b56e53920826"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bd1effa0-8c5b-4757-bbcd-f415514dcef6",
+                            "itemBody": "A. Insurance companies.",
+                            "position": 1
+                        },
+                        {
+                            "id": "20fee990-4841-4401-ab45-b56e53920826",
+                            "itemBody": "B. Investment companies.",
+                            "position": 2
+                        },
+                        {
+                            "id": "e9ea88e1-53f8-497b-9b9b-8aa87f66b560",
+                            "itemBody": "C. University endowments.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51396",
+            "entry": {
+                "title": "CFA0158-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Open-end funds trade at their net asset value per share, whereas closed-end funds and exchange traded funds can trade at a premium or a discount.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following investment products is \u003cem\u003emost likely\u003c/em\u003e to trade at their net asset value per share?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c8107f1a-bd02-4310-b841-9d14bde896ea"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ea14170b-3fc1-4254-9f83-dfed44279985",
+                            "itemBody": "A. Exchange traded funds.",
+                            "position": 1
+                        },
+                        {
+                            "id": "c8107f1a-bd02-4310-b841-9d14bde896ea",
+                            "itemBody": "B. Open-end mutual funds.",
+                            "position": 2
+                        },
+                        {
+                            "id": "7cd7e22b-1f25-4661-97b4-b63b652d2ce0",
+                            "itemBody": "C. Closed-end mutual funds.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51397",
+            "entry": {
+                "title": "CFA0158-Q13",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Exchange traded funds do not have capital gain distributions. If an investor sells shares of an ETF (or open-end mutual fund or closed-end mutual fund), the investor may have a capital gain or loss on the shares sold; however, the gain (or loss) from the sale is not a distribution.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following financial products is \u003cem\u003eleast likely\u003c/em\u003e to have a capital gain distribution?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "432e7ded-7d18-40fc-9155-fbb06f5ba2e2"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "432e7ded-7d18-40fc-9155-fbb06f5ba2e2",
+                            "itemBody": "A. Exchange traded funds.",
+                            "position": 1
+                        },
+                        {
+                            "id": "e7c81197-e7cc-4649-8454-359334bc4e6b",
+                            "itemBody": "B. Open-end mutual funds.",
+                            "position": 2
+                        },
+                        {
+                            "id": "3538a448-646b-4f6d-b54f-d04afba3cf1f",
+                            "itemBody": "C. Closed-end mutual funds.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51398",
+            "entry": {
+                "title": "CFA0158-Q14",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Hedge funds are currently exempt from the reporting requirements of a typical public investment company.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following forms of pooled investments is subject to the \u003cem\u003eleast\u003c/em\u003e amount of regulation?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "604835e9-9d17-4159-9e85-dd669c026538"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "604835e9-9d17-4159-9e85-dd669c026538",
+                            "itemBody": "A. Hedge funds.",
+                            "position": 1
+                        },
+                        {
+                            "id": "d44d6783-7535-4ec1-a0f0-3a85cfb1d672",
+                            "itemBody": "B. Exchange traded funds.",
+                            "position": 2
+                        },
+                        {
+                            "id": "47f64d9d-def1-4709-a717-9c737f75e061",
+                            "itemBody": "C. Closed-end mutual funds.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51399",
+            "entry": {
+                "title": "CFA0158-Q15",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Buyout funds or private equity firms make only a few large investments in private companies with the intent of selling the restructured companies in three to five years. Venture capital funds also have a short time horizon; however, these funds consist of many small investments in companies with the expectation that only a few will have a large payoff (and that most will fail).\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following pooled investments is \u003cem\u003emost likely\u003c/em\u003e characterized by a few large investments?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bd52c6b7-6f98-43d3-b873-9ba01f934aac"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "359e6f82-8763-4dad-9000-b246d4e63f33",
+                            "itemBody": "A. Hedge funds.",
+                            "position": 1
+                        },
+                        {
+                            "id": "bd52c6b7-6f98-43d3-b873-9ba01f934aac",
+                            "itemBody": "B. Buyout funds.",
+                            "position": 2
+                        },
+                        {
+                            "id": "16922d6c-6bbd-48e9-80ed-b822d24a3372",
+                            "itemBody": "C. Venture capital funds.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8279,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53986",
+            "entry": {
+                "title": "ITEM_20170606001",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003eleast likely\u003c/i\u003e a part of the execution step of the portfolio management process?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f739abab-1b07-4af4-9c72-cd2cafabecb7"
+                },
+                "answerFeedback": {
+                    "0f916d07-4b3c-41a9-8337-c6c2b525f268": "\u003cp\u003eIncorrect. Portfolio construction is a part of the execution step of the portfolio management process.\u003c/p\u003e",
+                    "6d337b0f-fe04-4353-9cf5-388780988797": "\u003cp\u003eIncorrect. Security analysis is a part of the execution step of the portfolio management process.\u003c/p\u003e",
+                    "f739abab-1b07-4af4-9c72-cd2cafabecb7": "\u003cp\u003eCorrect. Performance measurement is a part of the feedback step of the portfolio management process. The execution step includes asset allocation, security analysis, and portfolio construction.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6d337b0f-fe04-4353-9cf5-388780988797",
+                            "itemBody": "\u003cp\u003eA. Security analysis\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0f916d07-4b3c-41a9-8337-c6c2b525f268",
+                            "itemBody": "\u003cp\u003eB. Portfolio construction\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f739abab-1b07-4af4-9c72-cd2cafabecb7",
+                            "itemBody": "\u003cp\u003eC. Performance measurement\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8720,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53987",
+            "entry": {
+                "title": "ITEM_20170606009",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following institutional investors is \u003ci\u003emost likely\u003c/i\u003e to have a low tolerance for investment risk and relatively high liquidity needs?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a548c51a-33a1-4c22-b000-0aed5d5a2d4e"
+                },
+                "answerFeedback": {
+                    "750f6bda-7585-4cd4-9676-c8deded7f1e5": "\u003cp\u003eIncorrect. Defined-benefit pension plans tend to have quite high risk tolerances and quite low liquidity needs.\u003c/p\u003e",
+                    "a548c51a-33a1-4c22-b000-0aed5d5a2d4e": "\u003cp\u003eCorrect. Insurance companies need to be relatively conservative and liquid, given the necessity of paying claims when due.\u003c/p\u003e",
+                    "ea47484e-b42e-4fcd-b9e9-46cc04aa2117": "\u003cp\u003eIncorrect. Endowments/foundations typically have high risk tolerances and quite low liquidity needs.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a548c51a-33a1-4c22-b000-0aed5d5a2d4e",
+                            "itemBody": "\u003cp\u003eA. Insurance company\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "750f6bda-7585-4cd4-9676-c8deded7f1e5",
+                            "itemBody": "\u003cp\u003eB. Defined-benefit pension plan\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ea47484e-b42e-4fcd-b9e9-46cc04aa2117",
+                            "itemBody": "\u003cp\u003eC. Charitable foundation\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8720,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53988",
+            "entry": {
+                "title": "ITEM_20170606014",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe execution step of the portfolio management process includes:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b85928a8-6bf7-449d-a7ef-b0bb4578842c"
+                },
+                "answerFeedback": {
+                    "05a84f1d-101d-41d0-a4d7-593d5bec5428": "\u003cp\u003eIncorrect. Preparation of the investment policy statement occurs in the planning step.\u003c/p\u003e",
+                    "819085a7-9954-4b26-95c4-852985919c56": "\u003cp\u003eIncorrect. Portfolio monitoring occurs in the feedback step.\u003c/p\u003e",
+                    "b85928a8-6bf7-449d-a7ef-b0bb4578842c": "\u003cp\u003eCorrect. Asset allocation occurs in the execution step.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "05a84f1d-101d-41d0-a4d7-593d5bec5428",
+                            "itemBody": "\u003cp\u003eA. preparing the investment policy statement.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b85928a8-6bf7-449d-a7ef-b0bb4578842c",
+                            "itemBody": "\u003cp\u003eB. finalizing the asset allocation.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "819085a7-9954-4b26-95c4-852985919c56",
+                            "itemBody": "\u003cp\u003eC. monitoring the portfolio performance.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8720,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53989",
+            "entry": {
+                "title": "ITEM_20170606043",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following types of institutions is \u003ci\u003emost likely\u003c/i\u003e to have a long investment time horizon and a higher level of risk tolerance?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b3283683-fb33-43b8-9064-bb4e5feb9a06"
+                },
+                "answerFeedback": {
+                    "087c3827-9768-49fe-b6e2-fe3511444fdb": "\u003cp\u003eIncorrect. Banks have a short investment time horizon and a low level of risk tolerance.\u003c/p\u003e",
+                    "53f407d2-7491-4f4d-b082-a510f61af459": "\u003cp\u003eIncorrect. Insurance companies have a short investment time horizon and a low level of risk tolerance.\u003c/p\u003e",
+                    "b3283683-fb33-43b8-9064-bb4e5feb9a06": "\u003cp\u003eCorrect. Endowments have a long investment time horizon and a high level of risk tolerance.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b3283683-fb33-43b8-9064-bb4e5feb9a06",
+                            "itemBody": "\u003cp\u003eA. An endowment\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "53f407d2-7491-4f4d-b082-a510f61af459",
+                            "itemBody": "\u003cp\u003eB. An insurance company\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "087c3827-9768-49fe-b6e2-fe3511444fdb",
+                            "itemBody": "\u003cp\u003eC. A bank\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8720,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53990",
+            "entry": {
+                "title": "ITEM_20170606048",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWith respect to the portfolio management process, asset allocation decisions are \u003ci\u003emost likely\u003c/i\u003e made in the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "16700ecd-10ab-48c3-927f-1b62a301d8a9"
+                },
+                "answerFeedback": {
+                    "16700ecd-10ab-48c3-927f-1b62a301d8a9": "\u003cp\u003eCorrect. Asset allocation decisions are made in the execution step.\u003c/p\u003e",
+                    "58b47503-8c37-4de0-a166-bc95a3f1fdf9": "\u003cp\u003eIncorrect. Asset allocation decisions are not made in the feedback step.\u003c/p\u003e",
+                    "737cbb96-c7f5-4ad5-8420-4ecc2512e3f4": "\u003cp\u003eIncorrect. Asset allocation decisions are not made in the planning step.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "16700ecd-10ab-48c3-927f-1b62a301d8a9",
+                            "itemBody": "\u003cp\u003eA. execution step.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "737cbb96-c7f5-4ad5-8420-4ecc2512e3f4",
+                            "itemBody": "\u003cp\u003eB. planning step.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "58b47503-8c37-4de0-a166-bc95a3f1fdf9",
+                            "itemBody": "\u003cp\u003eC. feedback step.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8720,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53991",
+            "entry": {
+                "title": "ITEM_20170606049",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA key difference between a wrap account and a mutual fund is that wrap accounts:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "25a19df5-166d-45ba-9cd3-20c1dadfb7c5"
+                },
+                "answerFeedback": {
+                    "25a19df5-166d-45ba-9cd3-20c1dadfb7c5": "\u003cp\u003eCorrect. The key difference between a wrap account and a mutual fund is that in a wrap account, the assets are owned directly by the individual.\u003c/p\u003e",
+                    "6753f95c-8a8a-4c26-9552-80be407819e0": "\u003cp\u003eIncorrect. Wrap accounts can be tailored to the tax needs of a client.\u003c/p\u003e",
+                    "7c43a2b2-9e83-4e2d-a3d7-d347c97cce63": "\u003cp\u003eIncorrect. Wrap accounts have higher required minimum investments.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "25a19df5-166d-45ba-9cd3-20c1dadfb7c5",
+                            "itemBody": "\u003cp\u003eA. have assets that are owned directly by the individual.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6753f95c-8a8a-4c26-9552-80be407819e0",
+                            "itemBody": "\u003cp\u003eB. cannot be tailored to the tax needs of a client.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7c43a2b2-9e83-4e2d-a3d7-d347c97cce63",
+                            "itemBody": "\u003cp\u003eC. have a lower required minimum investment.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8720,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53992",
+            "entry": {
+                "title": "ITEM_20170606063",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following types of investment clients \u003ci\u003emost likely\u003c/i\u003e have the lowest liquidity needs?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f860429f-3870-4731-a807-5c43eac07e00"
+                },
+                "answerFeedback": {
+                    "1fffea19-9ff8-4f75-af2e-ae1c71e638d7": "\u003cp\u003eIncorrect. Insurance companies have liquidity needs to meet claims.\u003c/p\u003e",
+                    "f860429f-3870-4731-a807-5c43eac07e00": "\u003cp\u003eCorrect. A typical investment objective of an endowment or a foundation is to maintain the real capital value of the fund while generating income to fund the objectives of the institution. Liquidity needs are typically rather low.\u003c/p\u003e",
+                    "fe450d53-09cd-40a8-9261-228012143a7d": "\u003cp\u003eIncorrect. Banks have high liquidity needs to meet repayment of deposits.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1fffea19-9ff8-4f75-af2e-ae1c71e638d7",
+                            "itemBody": "\u003cp\u003eA. Insurance companies\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fe450d53-09cd-40a8-9261-228012143a7d",
+                            "itemBody": "\u003cp\u003eB. Banks\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f860429f-3870-4731-a807-5c43eac07e00",
+                            "itemBody": "\u003cp\u003eC. Endowments and foundations\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8720,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53993",
+            "entry": {
+                "title": "ITEM_20170606064",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eSecurity analysis is \u003ci\u003emost likely\u003c/i\u003e a part of which step in the portfolio management process?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2f27249c-7008-4a9d-808c-3ac078feb4cc"
+                },
+                "answerFeedback": {
+                    "20e63fc1-ada3-4bbe-b734-c83b09768ba8": "\u003cp\u003eIncorrect. Under the planning step, there are two parts: understating the client’s needs and preparation of an investment policy statement.\u003c/p\u003e",
+                    "2f27249c-7008-4a9d-808c-3ac078feb4cc": "\u003cp\u003eCorrect. The execution step of the portfolio management process has three parts: asset allocation, security analysis, and portfolio construction.\u003c/p\u003e",
+                    "e34d73b3-e066-4849-b7c8-7b63c46ee6a0": "\u003cp\u003eIncorrect. Under the feedback step, there are two parts: portfolio monitoring and rebalancing and performance measurement and reporting.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "20e63fc1-ada3-4bbe-b734-c83b09768ba8",
+                            "itemBody": "\u003cp\u003eA. The feedback step\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2f27249c-7008-4a9d-808c-3ac078feb4cc",
+                            "itemBody": "\u003cp\u003eB. The execution step\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e34d73b3-e066-4849-b7c8-7b63c46ee6a0",
+                            "itemBody": "\u003cp\u003eC. The planning step\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8720,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53994",
+            "entry": {
+                "title": "ITEM_20170606070",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost likely\u003c/i\u003e a feature of a defined-contribution pension plan? The\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f4a6c575-06a7-451b-a685-e4bd83a588df"
+                },
+                "answerFeedback": {
+                    "1ca07b8c-bb21-4786-8f41-1b8f63344dd4": "\u003cp\u003eIncorrect. This is a feature of a defined-benefit plan.\u003c/p\u003e",
+                    "3d7f71d1-eead-41df-a36a-0a19188253f5": "\u003cp\u003eIncorrect. This is a feature of a defined-benefit plan.\u003c/p\u003e",
+                    "f4a6c575-06a7-451b-a685-e4bd83a588df": "\u003cp\u003eCorrect. In a defined-contribution pension plan, the employee accepts the investment risk and is responsible for ensuring that the plan contains enough funds to meet retirement needs.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3d7f71d1-eead-41df-a36a-0a19188253f5",
+                            "itemBody": "\u003cp\u003eA. employer accepts the investment risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1ca07b8c-bb21-4786-8f41-1b8f63344dd4",
+                            "itemBody": "\u003cp\u003eB. employer provides a specified retirement benefit.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f4a6c575-06a7-451b-a685-e4bd83a588df",
+                            "itemBody": "\u003cp\u003eC. employee accepts the investment risk.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8720,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53995",
+            "entry": {
+                "title": "ITEM_20170606087",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003eleast likely\u003c/i\u003e true for a separately managed account (SMA) compared with a mutual fund?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8b7fac8b-24a3-4f7e-9399-f1619759323b"
+                },
+                "answerFeedback": {
+                    "216bb538-928a-43a4-b0ca-6f5de90cb022": "\u003cp\u003eIncorrect.\u0026nbsp;SMA assets are directly owned by the individual. The investor has control over which assets are bought and sold as well as the timing of the transactions.\u003c/p\u003e",
+                    "8b7fac8b-24a3-4f7e-9399-f1619759323b": "\u003cp\u003eCorrect. The minimum investment required to open a separately managed account is usually much higher than that to open a mutual fund.\u003c/p\u003e",
+                    "d87e5ce1-6ea4-43eb-9c87-579b984ed12a": "\u003cp\u003eIncorrect. SMA transactions can be tailored to the specific tax needs of the investor.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "216bb538-928a-43a4-b0ca-6f5de90cb022",
+                            "itemBody": "\u003cp\u003eA. Assets are directly owned by the individual.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8b7fac8b-24a3-4f7e-9399-f1619759323b",
+                            "itemBody": "\u003cp\u003eB. The minimum investment required to open a SMA is lower than that of a mutual fund.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d87e5ce1-6ea4-43eb-9c87-579b984ed12a",
+                            "itemBody": "\u003cp\u003eC. Transactions can be tailored to the specific tax needs of the investor.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8720,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53996",
+            "entry": {
+                "title": "ITEM_20170606093",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eABC Fund invests in Singapore’s government debt with maturities up to three months. It is \u003ci\u003emost likely\u003c/i\u003e classified as a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dd93a8ea-d546-4caf-b23d-0d1d03f713ff"
+                },
+                "answerFeedback": {
+                    "6587ae95-6dbd-4cde-b25d-df2c9d5be4c0": "\u003cp\u003eIncorrect. A fixed-income arbitrage fund attempts to profit from arbitrage opportunities in interest rate securities.\u003c/p\u003e",
+                    "8b6be645-745a-427a-ac41-fd1ad2f9ebf7": "\u003cp\u003eIncorrect. Bond mutual funds hold bonds with maturities as short as one year and as long as 30 years.\u003c/p\u003e",
+                    "dd93a8ea-d546-4caf-b23d-0d1d03f713ff": "\u003cp\u003eCorrect. Money market funds invest in short-term corporate or government debt. The difference between a bond mutual fund and a money market fund is the maturity of the underlying assets. In a money market fund, the maturity is as short as overnight and rarely longer than 90 days.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6587ae95-6dbd-4cde-b25d-df2c9d5be4c0",
+                            "itemBody": "\u003cp\u003eA. fixed-income arbitrage fund.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "dd93a8ea-d546-4caf-b23d-0d1d03f713ff",
+                            "itemBody": "\u003cp\u003eB. money market fund.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8b6be645-745a-427a-ac41-fd1ad2f9ebf7",
+                            "itemBody": "\u003cp\u003eC. bond mutual fund.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8720,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4501,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

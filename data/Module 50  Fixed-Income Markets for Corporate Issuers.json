@@ -1,0 +1,482 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6346,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 7,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 4: Fixed-Income Markets for Corporate Issuers",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6346,
+        "subtopic": "Module 4: Fixed-Income Markets for Corporate Issuers",
+        "question_count": 7,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4466,
+                "question_count": 6,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4683,
+                "question_count": 1,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            ""
+        ],
+        "points_possible": 7.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "ab83ad7e8ae00c45",
+        "ordered_item_ids": [
+            "55030",
+            "51225",
+            "51226",
+            "51227",
+            "51228",
+            "51229",
+            "51230"
+        ],
+        "visible_item_ids": [
+            "55030",
+            "51225",
+            "51226",
+            "51227",
+            "51228",
+            "51229",
+            "51230"
+        ]
+    },
+    "items": [
+        {
+            "id": "55030",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FI-Su-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"line-height:107%\"\u003eIn a repurchase agreement, the initial\u0026nbsp;margin protects:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "977a4b9b-b566-4f95-9bdd-4e09bf1c15c3"
+                },
+                "answerFeedback": {
+                    "977a4b9b-b566-4f95-9bdd-4e09bf1c15c3": "\u003cp\u003eCorrect\u0026nbsp;because in addition to the high quality of underlying securities, repos include features designed to reduce the risk of a collateral shortfall over the contract life. One such feature is the provision of collateral in excess of the cash exchanged, known as initial margin. A 100% initial margin indicates a fully collateralized loan, while a higher margin indicates even greater initial collateral protection. This is alternatively considered a \u003ci\u003ereduction \u003c/i\u003eor haircut\u003cb\u003e \u003c/b\u003eof the underlying loan relative to the initial collateral value. The repo margin allows for some worsening in market value, and thus provides the cash lender a margin of safety if the collateral’s market value declines.\u003c/p\u003e",
+                    "b927fc5b-d9c2-4d7b-a764-4f1d70bb06c8": "\u003cp\u003eIncorrect because in addition to the high quality of underlying securities, repos include features designed to reduce the risk of a collateral shortfall over the contract life. One such feature is the provision of collateral in excess of the cash exchanged, known as initial margin.\u0026nbsp;The repo margin allows for some worsening in market value, and thus provides only to the cash lender a margin of safety if the collateral’s market value declines.\u003c/p\u003e",
+                    "e9f443ab-c9de-4d25-aeb7-03fc6894bd6c": "\u003cp\u003eIncorrect because in addition to the high quality of underlying securities, repos include features designed to reduce the risk of a collateral shortfall over the contract life. One such feature is the provision of collateral in excess of the cash exchanged, known as initial margin.\u0026nbsp;The repo margin allows for some worsening in market value, and thus provides the cash lender, not the cash borrower, a margin of safety if the collateral’s market value declines.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "977a4b9b-b566-4f95-9bdd-4e09bf1c15c3",
+                            "itemBody": "\u003cp\u003eA. the cash lender only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e9f443ab-c9de-4d25-aeb7-03fc6894bd6c",
+                            "itemBody": "\u003cp\u003eB. the cash borrower only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b927fc5b-d9c2-4d7b-a764-4f1d70bb06c8",
+                            "itemBody": "\u003cp\u003eC. both the cash lender and\u0026nbsp;the cash borrower.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8864,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4683,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51225",
+            "entry": {
+                "title": "CFA2434-R-s04-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The bank will reduce capital costs by providing undrawn backup liquidity instead of holding the short-term loans to maturity. A is incorrect because the bank receives cash when the ABCP is issued, which increases the bank’s return. C is incorrect because investors purchase a liquid, short-term note with interest and principal payments from a short-term loan portfolio to which it would otherwise not have direct access.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is a benefit to a bank that makes short-term loans and issues asset-backed commercial paper?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ec5fb316-f784-4215-ab99-30b6d61eea1d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bd74f1f4-fe87-4c1b-916c-53d8ea2a0dc5",
+                            "itemBody": "A. The bank receives commercial paper when the ABCP is issued.",
+                            "position": 1
+                        },
+                        {
+                            "id": "ec5fb316-f784-4215-ab99-30b6d61eea1d",
+                            "itemBody": "B. Capital costs are reduced by providing undrawn backup liquidity instead of holding the short-term loans to maturity.",
+                            "position": 2
+                        },
+                        {
+                            "id": "24e709aa-1d39-4740-9b70-6cd9d7dc3adb",
+                            "itemBody": "C. The bank purchases a liquid, short-term note with interest and principal payments from a short-term loan portfolio to which it would otherwise not have direct access.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8217,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4466,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51226",
+            "entry": {
+                "title": "CFA2434-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Committed lines require more bank capital than uncommitted lines, although commitments of less than a year (usually 364 days) minimize a bank’s capital requirement. A is incorrect because Sycamore will receive an upfront commitment fee on a committed line of credit. C is incorrect because Sycamore can form a syndicate to reduce the amount of committed capital needed under a committed line of credit.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eEwing Corp. is a large corporation that has an existing relationship with Sycamore Bank. Ewing is seeking short-term financing from a committed line of credit; however, Sycamore will offer only an uncommitted line of credit. Which of the following \u003cem\u003ebest\u003c/em\u003e supports Sycamore’s decision?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bd2c4b70-70dc-4c9d-b7b6-4e737109a218"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "12848015-299f-4001-a9e6-4c4a8f07860d",
+                            "itemBody": "A. Sycamore will receive an upfront commitment fee on the uncommitted line of credit.",
+                            "position": 1
+                        },
+                        {
+                            "id": "bd2c4b70-70dc-4c9d-b7b6-4e737109a218",
+                            "itemBody": "B. Sycamore will require less bank capital for the uncommitted line than for the committed line of credit.",
+                            "position": 2
+                        },
+                        {
+                            "id": "0dc52952-f2e4-4ad2-a849-68207732dde2",
+                            "itemBody": "C. Sycamore can form a syndicate to reduce the amount of committed capital needed under an uncommitted line of credit.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8217,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4466,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51227",
+            "entry": {
+                "title": "CFA2434-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. USD50,023,438 is calculated as:\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2434-R-s04-E-1-\"\u003eUSD50,000,000 × [1 + (0.375% × 45/360)] = USD50,023,438.\u003c/div\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn effect, the security seller borrows USD50,000,000 on a short-term basis at a low cost, with interest (USD23,438) paid at maturity, because the loan is collateralized by the US Treasury note.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because a repo term of 30 days, as opposed to 45 days, is incorrectly used:\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2434-R-s04-E-1-___1\"\u003eUSD50,000,000 × [1 + (0.375% × 30/360)] = USD50,015,625.\u003c/div\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because the repo term and number of days in a year are not used:\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2434-R-s04-E-1-___2\"\u003eUSD50,000,000 × (1 + 0.375%) = USD50,187,500.\u003c/div\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAssume that today (\u003cem\u003et\u003c/em\u003e = 0) the current US five-year Treasury note trades at a price equal to the bond’s face value of USD50,000,000. The security buyer takes delivery of the US Treasury note today and pays the security seller USD50,000,000. Assume a repo term of 45 days (and 360 days in a year) and a repo rate of 0.375%. If the buyer agrees to return the five-year Treasury note 45 days from today (\u003cem\u003et\u003c/em\u003e = \u003cem\u003eT\u003c/em\u003e) to the seller, the repurchase price is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2da1a289-6be4-4173-9254-98c0e6b93856"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2ff0100d-c8eb-45c3-94af-121d66e88f05",
+                            "itemBody": "A. USD50,015,625.",
+                            "position": 1
+                        },
+                        {
+                            "id": "2da1a289-6be4-4173-9254-98c0e6b93856",
+                            "itemBody": "B. USD50,023,438.",
+                            "position": 2
+                        },
+                        {
+                            "id": "8adb317a-2308-427b-bedc-64b23e742f83",
+                            "itemBody": "C. USD50,187,500.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8217,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4466,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51228",
+            "entry": {
+                "title": "CFA2434-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. When viewed from the perspective of the security buyer (cash lender), a repo transaction is referred to as a reverse repurchase agreement or reverse repo. B is incorrect because under a triparty repo, both parties agree to use a third-party agent for the transaction. C is incorrect because financing the ownership of a security is not the purpose undertaken by the hedge fund.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA transaction where a hedge fund enters into a repo by taking a short position in a security with a view that its price will decline relative to the price of another security held is \u003cem\u003ebest\u003c/em\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "980128e6-d081-4330-a7b7-c37c0bd7b777"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "980128e6-d081-4330-a7b7-c37c0bd7b777",
+                            "itemBody": "A. a reverse repo.",
+                            "position": 1
+                        },
+                        {
+                            "id": "f7f2aeaf-3325-4527-9191-db32592f7c1e",
+                            "itemBody": "B. a triparty repo.",
+                            "position": 2
+                        },
+                        {
+                            "id": "f37ecf5e-b6b6-43d3-9177-0fd2ddbe31f1",
+                            "itemBody": "C. financing the ownership of a security.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8217,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4466,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51229",
+            "entry": {
+                "title": "CFA2434-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Under normal market conditions, longer maturities are associated with both higher interest rates (yields-to-maturity on government bonds) and higher credit spreads for a given issuer. A is incorrect because long-term debt provides more stable funding for short-term activities. C is incorrect because long-term debt provides more stable funding for long-term needs, such as capital investments.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is \u003cem\u003enot\u003c/em\u003e a reason why issuers elect to issue long-term debt as opposed to short-term debt?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "711340fa-f20b-4411-afda-869908a89460"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "26287cac-d1b8-4b40-9455-a2e58be1de46",
+                            "itemBody": "A. More stable funding for short-term activities",
+                            "position": 1
+                        },
+                        {
+                            "id": "711340fa-f20b-4411-afda-869908a89460",
+                            "itemBody": "B. Lower interest rates for longer maturities for a given issuer",
+                            "position": 2
+                        },
+                        {
+                            "id": "508c3d2b-8aaa-4a83-9192-d357b37989ed",
+                            "itemBody": "C. More stable funding for long-term needs, such as capital investments",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8217,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4466,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51230",
+            "entry": {
+                "title": "CFA2434-R-s04-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Issuers in the high-yield market often seek to retain financial flexibility by borrowing under leveraged loans with prepayment features or issuing bonds with contingency features, such as callable debt. A is incorrect because high-yield investors benefit from higher bond prices as issuer-specific credit spreads fall, but in the case of callable debt, these gains are capped at the call price and not the original purchase price. C is incorrect because issuers who believe that their creditworthiness will not decline frequently choose to issue callable debt, because the value of this contingency feature rises as a firm’s borrowing costs fall.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements about high yield is correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8a2eb5a7-3e36-4dfc-af44-66fbe4ff5478"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6ce936c5-cd17-4d88-990a-acb848f1b87f",
+                            "itemBody": "A. High-yield investors benefit from higher bond prices as issuer-specific credit spreads fall, but in the case of callable debt, these gains are capped at the original purchase price.",
+                            "position": 1
+                        },
+                        {
+                            "id": "8a2eb5a7-3e36-4dfc-af44-66fbe4ff5478",
+                            "itemBody": "B. Issuers in the high-yield market seek to retain financial flexibility by borrowing under leveraged loans with prepayment features or issuing bonds with contingency features.",
+                            "position": 2
+                        },
+                        {
+                            "id": "a8d72b8b-368f-4e01-81c5-abbe21863df4",
+                            "itemBody": "C. Issuers who believe that their creditworthiness will decline frequently choose to issue callable debt, because the value of this contingency feature rises as a firm’s borrowing costs rise.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8217,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4466,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

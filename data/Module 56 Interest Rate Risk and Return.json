@@ -1,0 +1,1561 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6377,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 25,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 10: Interest Rate Risk and Return",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6377,
+        "subtopic": "Module 10: Interest Rate Risk and Return",
+        "question_count": 25,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4472,
+                "question_count": 15,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4689,
+                "question_count": 10,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 25.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "ab4bf44e70ee6585",
+        "ordered_item_ids": [
+            "55061",
+            "55062",
+            "55063",
+            "55064",
+            "55065",
+            "55066",
+            "55067",
+            "55068",
+            "55069",
+            "55070",
+            "51250",
+            "51251",
+            "51252",
+            "51253",
+            "51254",
+            "51255",
+            "51256",
+            "51257",
+            "53822",
+            "53823",
+            "53824",
+            "53825",
+            "53826",
+            "53827",
+            "53828"
+        ],
+        "visible_item_ids": [
+            "55061",
+            "55062",
+            "55063",
+            "55064",
+            "55065",
+            "55066",
+            "55067",
+            "55068",
+            "55069",
+            "55070",
+            "51250",
+            "51251",
+            "51252",
+            "51253",
+            "51254",
+            "51255",
+            "51256",
+            "51257",
+            "53822",
+            "53823",
+            "53824",
+            "53825",
+            "53826",
+            "53827",
+            "53828"
+        ]
+    },
+    "items": [
+        {
+            "id": "55061",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Berlinicke-24",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor gathers the following information about an investment in\u0026nbsp;a bond with a 10-year tenor:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 367px; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003ePurchase price\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e95.27\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eSale price\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e102.06\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eSum of reinvested coupon payments\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e24.28\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf the holding period was seven years, the horizon yield is \u003ci\u003eclosest \u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4e87d498-9a0a-4569-a592-e8e670ebc652"
+                },
+                "answerFeedback": {
+                    "357614d4-2487-4f47-bda7-b2c89e104728": "\u003cp\u003eIncorrect because the sale and purchase price are accidentally swapped in the formula:\u003c/p\u003e\u003cp\u003e102.06 = (95.27 + 24.28) / (1 + r)^7 =\u0026gt; r = 0.022853 ≈\u0026nbsp;2.29%.\u003c/p\u003e\u003cp\u003eCalculator solution: N = 7; PV =\u0026nbsp;–102.06; FV = 95.27 + 24.28; CPT I/Y = 2.29%.\u003c/p\u003e",
+                    "4e87d498-9a0a-4569-a592-e8e670ebc652": "\u003cp\u003eCorrect because\u0026nbsp;a\u0026nbsp;horizon yield is the internal rate of return between the total return (the sum of reinvested coupon payments and the sale price or redemption amount) and the purchase price of the bond. The horizon yield on a bond investment is the annualized holding-period rate of return.\u003c/p\u003e\u003cp\u003e95.27 = (102.06 + 24.28) / (1 + r)^7 =\u0026gt; r = 0.041147 ≈\u0026nbsp;4.11%.\u003c/p\u003e\u003cp\u003eCalculator solution: N = 7; PV =\u0026nbsp;–95.27; FV = 102.06 + 24.28; CPT I/Y = 4.11%.\u003c/p\u003e",
+                    "63e9591a-0485-453c-8a67-94c17fcecc9e": "\u003cp\u003eIncorrect because holding period and\u0026nbsp;tenor of bond are accidentally swapped in the formula:\u003c/p\u003e\u003cp\u003e95.27 = (102.06 + 24.28) / (1 + r)^10\u0026nbsp;=\u0026gt; r = 0.028628\u0026nbsp;≈\u0026nbsp;2.86%.\u003c/p\u003e\u003cp\u003eCalculator solution: N = 10; PV =\u0026nbsp;–95.27; FV = 102.06 + 24.28; CPT I/Y = 2.86%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "357614d4-2487-4f47-bda7-b2c89e104728",
+                            "itemBody": "\u003cp\u003eA. 2.29%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "63e9591a-0485-453c-8a67-94c17fcecc9e",
+                            "itemBody": "\u003cp\u003eB. 2.86%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4e87d498-9a0a-4569-a592-e8e670ebc652",
+                            "itemBody": "\u003cp\u003eC. 4.11%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8876,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4689,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55062",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Georgiou-15",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWith respect to interest rate risk, an investor who sells a fixed-rate bond after the first coupon is received and before its maturity is exposed to:\u0026nbsp;\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8b7ede5b-e9d0-4a34-b2ea-02ba16d7f98f"
+                },
+                "answerFeedback": {
+                    "119e41f7-e93c-4102-83c4-cd2b5946820d": "\u003cp\u003eIncorrect because changes in interest rates change the future value of reinvested coupon payments. Therefore, the investor faces coupon reinvestment risk, too.\u003c/p\u003e",
+                    "8b7ede5b-e9d0-4a34-b2ea-02ba16d7f98f": "\u003cp\u003eCorrect because the investor faces coupon reinvestment risk for all coupons received (first coupon plus any others until sale) and also faces market price risk as changes in the interest rate will impact the sale price of the bond.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\u003cp\u003eCoupon reinvestment risk matters more when the investor has a long-term horizon relative to the time-to-maturity of the bond. For instance, a buy-and-hold investor only has coupon reinvestment risk. Market price risk matters more when the investor has a short-term horizon relative to the time-to-maturity. For example, an investor who sells the bond before the first coupon is received has only market price risk.\u003c/p\u003e",
+                    "93977aef-3b83-44e3-8fb5-1db0f540b81d": "\u003cp\u003eIncorrect because the investor will be selling the bond before maturity and faces\u0026nbsp;the risk that it will be sold at a higher or lower price (market price risk).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "119e41f7-e93c-4102-83c4-cd2b5946820d",
+                            "itemBody": "\u003cp\u003eA. market price risk, only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "93977aef-3b83-44e3-8fb5-1db0f540b81d",
+                            "itemBody": "\u003cp\u003eB. coupon reinvestment risk, only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8b7ede5b-e9d0-4a34-b2ea-02ba16d7f98f",
+                            "itemBody": "\u003cp\u003eC. both market price risk and coupon reinvestment risk.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8876,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4689,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55063",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Georgiou-13",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about a bond:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003ePar value\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e100\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eCoupon rate\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e5.50%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eCoupon frequency\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003eAnnual\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eTime to maturity\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e5 years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eHolding period\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e3 years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf the market discount rate is 4.75% for the holding period, the future value of reinvested coupons at the end of the holding period is\u0026nbsp;\u003ci\u003eclosest\u003c/i\u003e\u0026nbsp;to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "285ad8c0-be62-406a-98c3-2a16372bc4f7"
+                },
+                "answerFeedback": {
+                    "11b86ce3-a6ff-465d-bf44-7dd0a62f8cee": "\u003cp\u003eIncorrect because the coupons are deemed to have been reinvested over 3 years, 2 years, and 1 year, respectively,\u0026nbsp;resulting in (5.50 × 1.0475^3) + (5.50 × 1.0475 ^2) + (5.50 × 1.0475) = 18.1177 ≈ 18.12.\u003c/p\u003e\u003cp\u003eInterest rates are the rates at which coupon payments are reinvested and the market discount rates at the time of purchase and at the time of sale if the bond is not held to maturity.\u003c/p\u003e",
+                    "1de0673c-7d47-422d-8834-9a97b643549e": "\u003cp\u003eIncorrect because 4.75% is used as the coupon rate and 5.50% as the reinvestment rate, resulting in (4.75 × 1.0550^2) + (4.75 × 1.0550) + 4.75 = 15.0481 ≈ 15.05.\u003c/p\u003e\u003cp\u003eInterest rates are the rates at which coupon payments are reinvested and the market discount rates at the time of purchase and at the time of sale if the bond is not held to maturity.\u003c/p\u003e",
+                    "285ad8c0-be62-406a-98c3-2a16372bc4f7": "\u003cp\u003eCorrect because the first coupon is reinvested at 4.75% for two years, the second coupon is reinvested at 4.75% for one year, and the third coupon has not yet been reinvested.\u0026nbsp;\u003c/p\u003e\u003cp\u003e(5.50 × 1.0475^2) + (5.50 × 1.0475) + 5.50 = 17.2962 ≈ 17.30.\u003c/p\u003e\u003cp\u003eInterest rates are the rates at which coupon payments are reinvested and the market discount rates at the time of purchase and at the time of sale if the bond is not held to maturity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1de0673c-7d47-422d-8834-9a97b643549e",
+                            "itemBody": "\u003cp\u003eA. 15.05.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "285ad8c0-be62-406a-98c3-2a16372bc4f7",
+                            "itemBody": "\u003cp\u003eB. 17.30.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "11b86ce3-a6ff-465d-bf44-7dd0a62f8cee",
+                            "itemBody": "\u003cp\u003eC. 18.12.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8876,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4689,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55064",
+            "entry": {
+                "title": "ITEM_CFA-L1-03848",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFor a fixed-rate bond, when interest rates decrease, the future value of reinvested coupon payments \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0d2bd3c8-6795-49e2-88a2-f77d7d4b2d5d"
+                },
+                "answerFeedback": {
+                    "0d2bd3c8-6795-49e2-88a2-f77d7d4b2d5d": "\u003cp\u003eCorrect because there are two offsetting types of interest rate risk that affect the bond investor: coupon reinvestment risk and market price risk. The future value of reinvested coupon payments (and in a portfolio, the principal on bonds that mature before the horizon date) \u003ci\u003eincreases\u003c/i\u003e when interest rates go up and \u003ci\u003edecreases\u003c/i\u003e when rates go down. The sale price on a bond that matures after the horizon date (and thus needs to be sold) \u003ci\u003edecreases\u003c/i\u003e when interest rates go up and \u003ci\u003eincreases\u003c/i\u003e when rates go down.\u003c/p\u003e",
+                    "4ddef906-2b72-4af4-afa6-f4a79eeecdd8": "\u003cp\u003eIncorrect because the future value of reinvested coupon payments (and in a portfolio, the principal on bonds that mature before the horizon date) \u003ci\u003eincreases\u003c/i\u003e when interest rates go up. The sale price on a bond that matures after the horizon date (and thus needs to be sold) \u003ci\u003edecreases\u003c/i\u003e when interest rates go up.\u003c/p\u003e",
+                    "676d665b-a86c-4c6e-8816-37243e94a8d8": "\u003cp\u003eIncorrect because the future value of reinvested coupon payments (and in a portfolio, the principal on bonds that mature before the horizon date) \u003ci\u003eincreases\u003c/i\u003e when interest rates go up. The sale price on a bond that matures after the horizon date (and thus needs to be sold) \u003ci\u003edecreases\u003c/i\u003e when interest rates go up.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0d2bd3c8-6795-49e2-88a2-f77d7d4b2d5d",
+                            "itemBody": "\u003cp\u003eA. decreases and the market price of the bond increases.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "676d665b-a86c-4c6e-8816-37243e94a8d8",
+                            "itemBody": "\u003cp\u003eB. increases and the market price of the bond decreases.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4ddef906-2b72-4af4-afa6-f4a79eeecdd8",
+                            "itemBody": "\u003cp\u003eC. increases and the market price of the bond increases.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8876,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4689,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55065",
+            "entry": {
+                "title": "ITEM_CFA-L1-08238",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor holds a bond with the following characteristics:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eYield to maturity\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e9%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eModified duration\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e7.4\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf the duration gap is zero, the investment horizon is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "14b4fc93-0eca-482e-88b6-83a19ff0d980"
+                },
+                "answerFeedback": {
+                    "1207a274-09cf-4fb6-a49d-bade796a3175": "\u003cp\u003eIncorrect because the candidate confuses the Macaulay duration with the modified duration, thus incorrectly determining the investment horizon as 7.4 years.\u003c/p\u003e",
+                    "14b4fc93-0eca-482e-88b6-83a19ff0d980": "\u003cp\u003eCorrect because we use the fact that ModDur = MacDur / (1 + \u003ci\u003er\u003c/i\u003e) to calculate the Macaulay duration of the bond: MacDur = 7.4 × (1 + 9%) = 8.07. Because the duration gap is equal to the bond's Macaulay duration minus the investment horizon the investment horizon is closest to 8.1 years.\u003c/p\u003e",
+                    "e46978d0-0556-4cc0-8899-b08fcb93384e": "\u003cp\u003eIncorrect because the candidate calculates the Macaulay duration incorrectly: MacDur ≠ 7.4 / (1 + 9%) = 6.8.\u0026nbsp; Because the duration gap is equal to the bond's Macaulay duration minus the investment horizon the investment horizon is incorrectly stated as 6.8 years.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e46978d0-0556-4cc0-8899-b08fcb93384e",
+                            "itemBody": "\u003cp\u003eA. 6.8 years.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1207a274-09cf-4fb6-a49d-bade796a3175",
+                            "itemBody": "\u003cp\u003eB. 7.4 years.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "14b4fc93-0eca-482e-88b6-83a19ff0d980",
+                            "itemBody": "\u003cp\u003eC. 8.1 years.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8876,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4689,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55066",
+            "entry": {
+                "title": "ITEM_2019B-FI-08HYH",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about a 4% annual-payment bond with a current yield-to-maturity of 4.0%:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth scope=\"col\"\u003e\u003cstrong\u003eAnnualized Yield to Maturity\u003c/strong\u003e\u003c/th\u003e\n\u003cth scope=\"col\"\u003e\u003cstrong\u003eBond Price\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e3.9%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e100.45\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e4.0%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e100.00\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e4.1%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e99.56\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe bond’s annualized Macaulay duration is \u003ci\u003eclosest \u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e39603b5-ed3b-48a7-8407-de3ad330b83f"
+                },
+                "answerFeedback": {
+                    "3025ffd5-4fcb-4630-bcbb-dfd915f8a91c": "\u003cp\u003eIncorrect because it does not further adjust the modified duration to determine the Macaulay duration. AppxModDur = [(PV\u003csub\u003e-\u003c/sub\u003e) − (PV\u003csub\u003e+\u003c/sub\u003e)]/[2 × (ΔYield) × (PV\u003csub\u003e0\u003c/sub\u003e)] = (100.45 – 99.56)/(2 × 0.001 × 100) = 4.45.\u003c/p\u003e",
+                    "80ff8b66-8104-4f40-ac80-b7aefadf985d": "\u003cp\u003eIncorrect because it determines ApproxModDur but then adjusts the calculated duration measure by dividing it by (1 + r), instead of multiplying.\u003cbr\u003eAppxModDur = [(PV\u003csub\u003e-\u003c/sub\u003e) − (PV\u003csub\u003e+\u003c/sub\u003e)]/[2 × (ΔYield) × (PV\u003csub\u003e0\u003c/sub\u003e)] = (100.45 – 99.56)/(2 × 0.001 × 100) = 4.45. ApproxMacDur ≠ ApproxModDur / (1 + r) = 4.45/(1 + 0.04) = 4.279 ≈ 4.28.\u0026nbsp;\u003c/p\u003e",
+                    "e39603b5-ed3b-48a7-8407-de3ad330b83f": "\u003cp\u003eCorrect because it adjusts the Approximate Modified Duration by 1 + yield to maturity to determine the Macaulay duration. AppxModDur = [(PV\u003csub\u003e-\u003c/sub\u003e) − (PV\u003csub\u003e+\u003c/sub\u003e)]/[2 × (ΔYield) × (PV\u003csub\u003e0\u003c/sub\u003e)] = (100.45 – 99.56)/(2 × 0.001 × 100) = 4.45.\u003cbr\u003eMacaulay duration = modified duration × (1 + YTM) = 4.45 × (1 + 0.04) = 4.628 ≈ 4.63.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "80ff8b66-8104-4f40-ac80-b7aefadf985d",
+                            "itemBody": "\u003cp\u003eA. 4.28.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3025ffd5-4fcb-4630-bcbb-dfd915f8a91c",
+                            "itemBody": "\u003cp\u003eB. 4.45.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e39603b5-ed3b-48a7-8407-de3ad330b83f",
+                            "itemBody": "\u003cp\u003eC. 4.63.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8876,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4689,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55067",
+            "entry": {
+                "title": "ITEM_CFA-L1-10056",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf interest rates rise over the holding period, the total return of a coupon bond held until maturity is \u003ci\u003emost \u003c/i\u003e\u003ci\u003elikely\u003c/i\u003e to be:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "580ef95b-b740-48a4-97d8-450bf333888c"
+                },
+                "answerFeedback": {
+                    "0abc8c95-7d4f-40e1-a044-7d88a1a15b5b": "\u003cp\u003eIncorrect because a buy-and-hold investor has a higher total return if interest rates rise\u0026nbsp;due to the unexpected excess coupon reinvestment proceeds. If interest rates fall, a buy-and-hold investor realizes no market price returns as he is redeemed at par at maturity. This choice may be attractive to uninformed candidates who focus on the buy-and-hold investor, and not any market interest rate changes.\u003c/p\u003e",
+                    "193a4f1e-01b5-4f31-a583-a157a5e4c402": "\u003cp\u003eIncorrect because a buy-and-hold investor has a higher total return if interest rates rise\u0026nbsp;due to the unexpected excess coupon reinvestment proceeds. If interest rates fall, a buy-and-hold investor realizes no market price returns as he is redeemed at par at maturity.\u003c/p\u003e",
+                    "580ef95b-b740-48a4-97d8-450bf333888c": "\u003cp\u003eCorrect because a long-term investor faces coupon reinvestment risk as well as market price risk if the bond needs to be sold prior to maturity. A buy-and-hold investor in a 10-year bond with a 10-year time horizon is concerned only with coupon reinvestment risk. This situation assumes, of course, that the issuer makes all of the coupon and principal payments as scheduled. The buy-and-hold investor has a higher total return if interest rates rise and a lower total return if rates fall.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "193a4f1e-01b5-4f31-a583-a157a5e4c402",
+                            "itemBody": "\u003cp\u003eA. less than the yield to maturity at purchase.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0abc8c95-7d4f-40e1-a044-7d88a1a15b5b",
+                            "itemBody": "\u003cp\u003eB. equal to the yield to maturity at purchase.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "580ef95b-b740-48a4-97d8-450bf333888c",
+                            "itemBody": "\u003cp\u003eC. greater than the yield to maturity at purchase.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8876,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4689,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55068",
+            "entry": {
+                "title": "ITEM_CFA-L1-05033",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe Macaulay duration of a zero-coupon bond is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5721a281-ae80-4845-baf4-c81153d2556b"
+                },
+                "answerFeedback": {
+                    "0437a19b-b1c7-4c2c-8242-84dd77f008cc": "\u003cp\u003eIncorrect because the Macaulay duration of a zero-coupon bond is equal to the time-to-maturity, not greater-than the time-to-maturity.\u0026nbsp;\u003c/p\u003e",
+                    "338e73d1-e29b-451e-b23a-54bd17586c59": "\u003cp\u003eIncorrect because the Macaulay duration of a zero-coupon bond is equal to the time-to-maturity, not less-than the time-to-maturity.\u0026nbsp;\u003c/p\u003e",
+                    "5721a281-ae80-4845-baf4-c81153d2556b": "\u003cp\u003eCorrect because the Macaulay duration of a zero-coupon bond is its time-to-maturity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "338e73d1-e29b-451e-b23a-54bd17586c59",
+                            "itemBody": "\u003cp\u003eA. less than the time to maturity.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5721a281-ae80-4845-baf4-c81153d2556b",
+                            "itemBody": "\u003cp\u003eB. equal to the time to maturity.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0437a19b-b1c7-4c2c-8242-84dd77f008cc",
+                            "itemBody": "\u003cp\u003eC. greater than the time to maturity.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8876,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4689,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55069",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FI-Georgiou-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor\u0026nbsp;sells a fixed-rate bond originally purchased at a discount. The resulting capital gain or loss should be measured by comparing the bond's selling price with its:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3d6b60b8-18b0-40f8-80c3-93067f58efbb"
+                },
+                "answerFeedback": {
+                    "3d6b60b8-18b0-40f8-80c3-93067f58efbb": "\u003cp\u003eCorrect because\u0026nbsp;capital gains arise if a bond is sold at a price above its constant-yield price trajectory and capital losses occur if a bond is sold at a price below its constant-yield price trajectory. Also,\u0026nbsp;capital gains and losses are measured from the carrying value of the bond and not from the purchase price. The carrying value includes the amortization of the discount or premium if the bond is purchased at a price below or above par value. The carrying value is any point on the constant-yield price trajectory.\u0026nbsp;\u003c/p\u003e",
+                    "b02ebc6f-d841-426d-b8b6-dbeb96ab443b": "\u003cp\u003eIncorrect because\u0026nbsp;capital gains and losses are measured from the carrying value of the bond and not from the purchase price.\u003c/p\u003e",
+                    "bd61645b-2873-418b-8030-8e8b1f6fbd4c": "\u003cp\u003eIncorrect because\u0026nbsp;capital gains and losses are measured from the carrying value of the bond and not from the purchase price or par value.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bd61645b-2873-418b-8030-8e8b1f6fbd4c",
+                            "itemBody": "\u003cp\u003eA. par value.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3d6b60b8-18b0-40f8-80c3-93067f58efbb",
+                            "itemBody": "\u003cp\u003eB. carrying value.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b02ebc6f-d841-426d-b8b6-dbeb96ab443b",
+                            "itemBody": "\u003cp\u003eC. purchase price.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8876,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4689,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55070",
+            "entry": {
+                "title": "ITEM_CFA-L1-07188",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA portfolio manager gathers the following information about an option-free bond that was held to maturity:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eRealized horizon yield\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e4.2%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eReinvestment rate\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e4.1%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe yield to maturity at purchase was \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "68b29fe0-9dbc-4261-bcf5-d2e4d7a5b6df"
+                },
+                "answerFeedback": {
+                    "5737e59d-a13f-425b-acd8-db9bb03fd744": "\u003cp\u003eIncorrect because, since the reinvestment rate is less than the horizon yield, the yield-to-maturity is greater than the horizon yield of 4.2%.\u0026nbsp;\u003c/p\u003e",
+                    "68b29fe0-9dbc-4261-bcf5-d2e4d7a5b6df": "\u003cp\u003eCorrect because the realized horizon yield matches the original yield-to-maturity if (1) coupon payments are reinvested at the same interest rate as the original yield-to-maturity, and (2) the bond is sold at a price on the constant-yield price trajectory, which implies that the investor does not have any capital gains or losses when the bond is sold.\u0026nbsp;Since the reinvestment rate is less than the horizon yield and the bond is held to maturity, the yield to maturity is greater than the horizon yield.\u0026nbsp;\u003c/p\u003e",
+                    "f8d5c058-1ec3-4d6d-adf0-c943af289a93": "\u003cp\u003eIncorrect because, since the reinvestment rate is less than the horizon yield, the yield-to-maturity is greater than the horizon yield of 4.2%.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f8d5c058-1ec3-4d6d-adf0-c943af289a93",
+                            "itemBody": "\u003cp\u003eA. less than 4.2%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5737e59d-a13f-425b-acd8-db9bb03fd744",
+                            "itemBody": "\u003cp\u003eB. equal to 4.2%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "68b29fe0-9dbc-4261-bcf5-d2e4d7a5b6df",
+                            "itemBody": "\u003cp\u003eC. greater than 4.2%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8876,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4689,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51250",
+            "entry": {
+                "title": "CFA2440-R-s04-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. For the horizon yield to match the original yield-to-maturity of the bond, two conditions must be met:\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e(1) The coupon payments are reinvested at the original yield-to-maturity.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e(2) The bond is sold at the constant-yield price trajectory, implying no capital gain or loss when the bond is sold.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSince there is no gain or loss when the bond is sold, the horizon yield will be equal to the yield-to-maturity if the first condition is met (i.e., the coupons are reinvested at the original yield-to-maturity).\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because the horizon yield will be lower than the yield-to-maturity if the coupons are reinvested at a lower rate than the original yield-to-maturity, assuming no capital gain or loss on sale of the bond.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because the horizon yield will be higher than the yield-to-maturity if the coupons are reinvested at a higher rate than the original yield-to-maturity, assuming no capital gain or loss on sale of the bond.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAssuming no capital gain or loss when the bond is sold, an investor’s horizon yield is equal to a bond’s yield-to-maturity at the time of investment if coupons are reinvested at a rate:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e0ad6043-1e88-4662-b664-fa24e92ca87f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1ec7a99d-17a4-469d-8d7f-8631d4ed29bd",
+                            "itemBody": "A. lower than the bond’s yield-to-maturity at investment.",
+                            "position": 1
+                        },
+                        {
+                            "id": "e0ad6043-1e88-4662-b664-fa24e92ca87f",
+                            "itemBody": "B. equal to the bond’s yield-to-maturity at investment.",
+                            "position": 2
+                        },
+                        {
+                            "id": "bcafe7ec-44ce-4e90-b884-12723d918267",
+                            "itemBody": "C. higher than the bond’s yield-to-maturity at investment.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8219,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51251",
+            "entry": {
+                "title": "CFA2440-R-s04-Q6",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The future value of reinvested coupon interest is\u003c/p\u003e\n\u003cdiv id=\"CFA2440-R-s04-E___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e= \u003cem\u003eFV\u003c/em\u003e(0.074,6,6.4,0,0) = 46.245.\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe sale price of the bond at the end of six years is\u003c/p\u003e\n\u003cdiv id=\"CFA2440-R-s04-E___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e= \u003cem\u003ePV\u003c/em\u003e(0.054,2,6.40,100,0) = 98.202,\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ewhich results in a six-year horizon yield of 6.32%, which is lower than 6.40%:\u003c/p\u003e\n\u003cdiv id=\"CFA2440-R-s04-E___3\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003eT\u003c/mi\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e1.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2440-R-s04-E___4\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e46.245\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e98.202\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e100\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmn\u003e6\u003c/mn\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e1.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2440-R-s04-E___5\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cem\u003er\u003c/em\u003e = 0.0632 = 6.32%.\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB and C are incorrect, because interest rates have risen and the investor’s investment horizon is not long enough to offset the price decline with additional reinvestment return.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn investor purchases an eight-year, 6.4% annual coupon eurobond priced at par (settlement: 15 June 2031; maturity: 15 December 2039) and sells it after six years. Assuming interest rates rise by 100 bps immediately after purchase, the investor’s rate of return at the end of six years is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "292bb41f-7cfa-4226-a4a9-0b2c4cc919dc"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "292bb41f-7cfa-4226-a4a9-0b2c4cc919dc",
+                            "itemBody": "A. lower than 6.4%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "2a9f17cb-350f-4255-a28d-383b9350c856",
+                            "itemBody": "B. equal to 6.4%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "7906aa53-d559-43c3-903f-f21b17e2834e",
+                            "itemBody": "C. higher than 6.4%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8219,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51252",
+            "entry": {
+                "title": "CFA2440-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. A bond purchased at a discount will have its price “pulled to par” as it approaches maturity. Its carrying value at time \u003cem\u003et\u003c/em\u003e is equal to its purchase price plus the accumulated discount amortization.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because a bond purchased below par is purchased at a discount, not a premium.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because the accumulated discount amortization is added, not subtracted, from the purchase price to calculate carrying value.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe carrying value of a bond purchased at a price below par is equal to the original purchase price:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d3345070-2f23-419d-af54-ab9038d3c965"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9800bbf9-8cd4-438a-813e-f257b6608991",
+                            "itemBody": "A. minus the accumulated premium amortization.",
+                            "position": 1
+                        },
+                        {
+                            "id": "d55b0a94-2404-49a2-816d-0fd7b4d21632",
+                            "itemBody": "B. minus the accumulated discount amortization.",
+                            "position": 2
+                        },
+                        {
+                            "id": "d3345070-2f23-419d-af54-ab9038d3c965",
+                            "itemBody": "C. plus the accumulated discount amortization.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8219,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51253",
+            "entry": {
+                "title": "CFA2440-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Reinvestment risk and price risk equally offset each other when an investor’s investment horizon equals a bond’s Macaulay duration. This is when the duration gap is zero.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because a duration gap of less than zero means that Macaulay duration is less than the investor’s investment horizon and that reinvestment risk is higher than price risk.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because when the duration gap is greater than zero, the Macaulay duration is greater than the investor’s investment horizon, so price risk is higher than reinvestment risk.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe duration gap at which reinvestment risk and price risk are equal is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "da6748c8-5570-461d-962b-52e3d54444da"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0138803a-a00e-4abd-86b4-7bfe3c86d386",
+                            "itemBody": "A. less than zero.",
+                            "position": 1
+                        },
+                        {
+                            "id": "da6748c8-5570-461d-962b-52e3d54444da",
+                            "itemBody": "B. equal to zero.",
+                            "position": 2
+                        },
+                        {
+                            "id": "28b20b64-81e9-490e-a3de-78dc4141a92d",
+                            "itemBody": "C. greater than zero.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8219,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51254",
+            "entry": {
+                "title": "CFA2440-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. If the investment horizon is less than the bond’s Macaulay duration, then the investor’s risk is higher interest rates. For such an investor, the market price risk dominates the coupon reinvestment risk.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because an investor faces risk due to a lower interest rate when the investment horizon is greater than the bond’s Macaulay duration.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because when the investment horizon is less than the Macaulay duration, the investor faces risk due to higher interest rates, not lower interest rates.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhen an investor’s investment horizon is less than a bond’s Macaulay duration, the investor faces downside risk if, after the purchase of the bond, interest rates:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b6a88736-090f-464c-917a-f11ef568ee9f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1006e7db-e53b-4aed-8b29-14137c6737d6",
+                            "itemBody": "A. decrease.",
+                            "position": 1
+                        },
+                        {
+                            "id": "b6a88736-090f-464c-917a-f11ef568ee9f",
+                            "itemBody": "B. increase.",
+                            "position": 2
+                        },
+                        {
+                            "id": "057e767f-66ec-4400-ae41-de0682fd91f7",
+                            "itemBody": "C. either decrease or increase.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8219,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51255",
+            "entry": {
+                "title": "CFA2440-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The investor has an investment horizon of 10 years, which is greater than the Macaulay duration of 8.97 years. Therefore, reinvestment risk dominates price risk.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because the investor faces reinvestment risk because the investment horizon is higher than the Macaulay duration.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because the investor faces negative coupon reinvestment risk, not positive coupon reinvestment risk, since the coupons will be reinvested at a lower interest rate.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn investor purchases a 12-year, 5.8% annual bond and intends to sell it after 10 years. The Macaulay duration of the bond is 8.97 years. If interest rates fall by 75 bps immediately after the purchase of the bond, the investor faces:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a68552b2-1911-4bae-adfe-527518af1349"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a68552b2-1911-4bae-adfe-527518af1349",
+                            "itemBody": "A. negative reinvestment risk.",
+                            "position": 1
+                        },
+                        {
+                            "id": "00d74f69-9411-4e31-830e-fe706b1ebe5a",
+                            "itemBody": "B. no reinvestment risk.",
+                            "position": 2
+                        },
+                        {
+                            "id": "d9aeaf5b-f0fe-44bf-9229-1e0729eec3de",
+                            "itemBody": "C. positive reinvestment risk.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8219,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51256",
+            "entry": {
+                "title": "CFA2440-R-s04-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct.\u003c/p\u003e\n            \u003cdiv id=\"CFA2440-R-s04-Ti\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n               \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                  \n                  \u003cthead\u003e\n                     \u003ctr\u003e\n                        \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003ePeriod\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003eTime to Receipt\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003eCash Flow\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003ePV\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003eWeight\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003eTime to Receipt × Weight\u003c/strong\u003e\n                        \u003c/th\u003e\n                     \u003c/tr\u003e\n                  \u003c/thead\u003e\n                  \u003ctbody\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e1.0000\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.9333\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.0000\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.9580\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.0199\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.0186\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e2.0000\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.9333\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.0000\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.9140\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.0194\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.0376\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e3.0000\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.9333\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.0000\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.8709\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.0190\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.0557\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e4.0000\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.9333\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.0000\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.8289\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.0186\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.0730\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e5.0000\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e4.9333\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.0000\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.7878\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.0182\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.0896\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e6.0000\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e5.9333\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e102.0000\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e89.1261\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.9050\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e5.3695\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e98.4856\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.0000\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e5.6439\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: right; vertical-align: top; padding: 8px; \" colspan=\"2\"\u003eAnnualized MacDur\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.8220\u003c/td\u003e\n                     \u003c/tr\u003e\n                  \u003c/tbody\u003e\n               \u003c/table\u003e\u003c/div\u003e\n            \u003c/div\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eConsider a bond that has three years remaining to maturity, a coupon of 4% paid semiannually, and a yield-to-maturity of 4.60%. Assuming it is 12 days into the first coupon period and a 30/360 basis, the bond’s annualized Macaulay duration is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9631c211-12d7-4dfb-a238-7124ab77c451"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bffa97aa-3df4-40fb-a6a1-b06459915671",
+                            "itemBody": "A. 1.8764 years.",
+                            "position": 1
+                        },
+                        {
+                            "id": "9631c211-12d7-4dfb-a238-7124ab77c451",
+                            "itemBody": "B. 2.8386 years.",
+                            "position": 2
+                        },
+                        {
+                            "id": "6321a4ec-3e5f-490a-bd20-5e39845a8a43",
+                            "itemBody": "C. 2.8553 years.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8219,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51257",
+            "entry": {
+                "title": "CFA2440-R-s04-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Hightest Capital’s investment horizon is four years, which is less than the bond’s Macaulay duration of 5.86 years. Therefore, price risk dominates reinvestment risk and Hightest Capital faces price risk from rising interest rates.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because the increase in interest rates is beneficial for coupon reinvestment. Therefore, Hightest Capital has positive reinvestment risk.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because Hightest Capital faces the risk that the price of the bond will fall as a result of the 50 bp increase in interest rates and therefore has negative price risk.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eHightest Capital purchases a seven-year, 6.4% coupon bond and has an intended investment horizon of four years. The Macaulay duration of the bond is 5.86 years. If interest rates increase by 50 bps immediately after buying the bond, Hightest Capital faces:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "601d35d9-d961-44e6-ae2e-bd425a8250c0"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "601d35d9-d961-44e6-ae2e-bd425a8250c0",
+                            "itemBody": "A. negative price risk.",
+                            "position": 1
+                        },
+                        {
+                            "id": "6dab4a2e-af55-49c8-9376-db84f5f127eb",
+                            "itemBody": "B. negative reinvestment risk.",
+                            "position": 2
+                        },
+                        {
+                            "id": "4243e79e-3ccf-4db6-8bdd-2bdbf22cd5fe",
+                            "itemBody": "C. positive price risk.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8219,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53822",
+            "entry": {
+                "title": "ITEM_20170607042",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA long-term bond investor with an investment horizon of 8 years invests in option-free, fixed-rate bonds with a Macaulay duration of 10.5. The investor \u003ci\u003emost likely\u003c/i\u003e currently has a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b67f9f94-d6f0-41dd-9b81-f7c966beba0f"
+                },
+                "answerFeedback": {
+                    "6b68c546-5f32-4932-8267-916f061a0f33": "\u003cp\u003eIncorrect because the duration gap is positive, not negative, implying that the investor is currently exposed to the risk of higher interest rates.\u003c/p\u003e",
+                    "b67f9f94-d6f0-41dd-9b81-f7c966beba0f": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The duration gap is the bond’s Macaulay duration minus the investment horizon, which is positive in this case. A positive duration gap implies that the investor is currently exposed to the risk of higher interest rates.\u003c/p\u003e",
+                    "d588a56f-9b91-4677-b080-34e952987f9a": "\u003cp\u003eIncorrect because while the duration gap is positive the investor is currently exposed to the risk of higher, not lower, interest rates.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d588a56f-9b91-4677-b080-34e952987f9a",
+                            "itemBody": "\u003cp\u003eA. positive duration gap and is currently exposed to the risk of lower interest rates.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b67f9f94-d6f0-41dd-9b81-f7c966beba0f",
+                            "itemBody": "\u003cp\u003eB. positive duration gap and is currently exposed to the risk of higher interest rates.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6b68c546-5f32-4932-8267-916f061a0f33",
+                            "itemBody": "\u003cp\u003eC. negative duration gap and is currently exposed to the risk of higher interest rates.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8662,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53823",
+            "entry": {
+                "title": "ITEM_20170607051",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor is \u003ci\u003eleast likely\u003c/i\u003e exposed to reinvestment risk from owning a(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "73fc1a3a-19a4-4e30-9dfb-fbe19b5ee9f4"
+                },
+                "answerFeedback": {
+                    "57d45a55-4cfd-4124-9a86-a8c10fca171d": "\u003cp\u003eIncorrect because the investor has to reinvest the amortized principle before the maturity.\u003c/p\u003e",
+                    "73fc1a3a-19a4-4e30-9dfb-fbe19b5ee9f4": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e There are no interim cash flows for a zero-coupon bond until the maturity.\u003c/p\u003e",
+                    "b6338927-3b5f-47a3-b55c-121937ad37e3": "\u003cp\u003eIncorrect because when a callable bond is called before the maturity, the investor is facing the reinvestment risk between the call date to the maturity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b6338927-3b5f-47a3-b55c-121937ad37e3",
+                            "itemBody": "\u003cp\u003eA. callable bond.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "73fc1a3a-19a4-4e30-9dfb-fbe19b5ee9f4",
+                            "itemBody": "\u003cp\u003eB. zero-coupon bond.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "57d45a55-4cfd-4124-9a86-a8c10fca171d",
+                            "itemBody": "\u003cp\u003eC. amortizing security.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8662,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53824",
+            "entry": {
+                "title": "ITEM_20170607123",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following conditions is \u003ci\u003enot\u003c/i\u003e required for the realized horizon yield to equal the original yield to maturity on an option-free, fixed-coupon bond?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "da4e12c6-d99e-4ae5-afc2-264ab859456f"
+                },
+                "answerFeedback": {
+                    "5d4bbc2f-d473-466c-9578-282d30f30d89": "\u003cp\u003eIncorrect because this condition is required for the realized horizon yield to equal the original yield to maturity.\u003c/p\u003e",
+                    "d4ed4399-ee6a-4a1d-a46a-84451fabdb7c": "\u003cp\u003eIncorrect because this condition is required for the realized horizon yield to equal the original yield to maturity.\u003c/p\u003e",
+                    "da4e12c6-d99e-4ae5-afc2-264ab859456f": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The realized horizon yield will equal the original yield to maturity if the coupon payments are reinvested at the original yield to maturity and the bond is sold at a price on the constant-yield price trajectory. The latter condition ensures that the investor does not have any capital gains or losses when the bond is sold.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "da4e12c6-d99e-4ae5-afc2-264ab859456f",
+                            "itemBody": "\u003cp\u003eA. The bond is held to maturity.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5d4bbc2f-d473-466c-9578-282d30f30d89",
+                            "itemBody": "\u003cp\u003eB. The bond is sold at a price on the constant-yield price trajectory.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d4ed4399-ee6a-4a1d-a46a-84451fabdb7c",
+                            "itemBody": "\u003cp\u003eC. The coupon payments are reinvested at the same interest rate as the original yield to maturity.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8662,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53825",
+            "entry": {
+                "title": "ITEM_20180516043",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor purchases a five-year, 4% annual coupon bond for 104.58 and sells it exactly three years later. Immediately after the bond is purchased and before the first coupon is received, interest rates decline to 2.25%, and they remain at that level for the next three years.\u003c/p\u003e\u003cp\u003eAssuming that the coupon payments are received and reinvested at 2.25%, the investor’s realized horizon yield is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7524900c-8632-4aaf-9715-8bbe344825d4"
+                },
+                "answerFeedback": {
+                    "05c71058-1572-4320-a860-637a3ed8c6e8": "\u003cp\u003eIncorrect because 2.31% reflects an omission of the return on reinvested cash flows and also reflects a sale price of the bond at the end of the third year at its par value rather than the present value of remaining future cash flows. The incorrect realized horizon yield of 2.31% is calculated as follows:\u003c/p\u003e\n\u003cp\u003eThe future value of coupons assuming no reinvestment (0% return) is 12.0000:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e12.0000 = [4 × (1 + 0.0000)\u003csup\u003e2\u003c/sup\u003e] + [4 × (1 + 0.0000)\u003csup\u003e1\u003c/sup\u003e] + 4.\u003c/p\u003e\n\u003cp\u003eAt the end of the third year, the sale price of the bond is incorrectly stated at 100 par value.\u003c/p\u003e\n\u003cp\u003eThe total return is 112.0000 (= 12.0000 + 100.0000), resulting in a realized three-year horizon yield of 2.31%:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e104.58\u003c/mn\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e112.0000\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmi\u003er\u003c/mi\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e,\u003c/mo\u003e\u003cmtext\u003e \u003c/mtext\u003e\u003cmtext\u003e \u003c/mtext\u003e\u003cmtext\u003e \u003c/mtext\u003e\u003cmtext\u003e \u003c/mtext\u003e\u003cmi\u003er\u003c/mi\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e0.0231\u003c/mn\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e.\u003c/p\u003e",
+                    "7524900c-8632-4aaf-9715-8bbe344825d4": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The investor’s three-year horizon yield is 3.41%, based on the total of the reinvested coupon payments during the holding period and the sale price of the bond, calculated as follows:\u003c/p\u003e\n\u003cp\u003eThe future value of reinvested coupons for three years at 2.25% is 12.2720:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e12.2720 = [4 × (1 + 0.0225)\u003csup\u003e2\u003c/sup\u003e] + [4 × (1 + 0.0225)\u003csup\u003e1\u003c/sup\u003e] + 4.\u003c/p\u003e\n\u003cp\u003eAt the end of the third year, the sale price of the bond is 103.3853:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e103.3853\u003c/mn\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmfrac\u003e \u003cmn\u003e4\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.0225\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e104\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.0225\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e.\u003c/p\u003e\n\u003cp\u003eSo, the total return is 115.6573 (= 12.2720 + 103.3853), resulting in a realized three-year horizon yield of 3.41%:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e104.58\u003c/mn\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e115.6573\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmi\u003er\u003c/mi\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e,\u003c/mo\u003e\u003cmtext\u003e \u003c/mtext\u003e\u003cmtext\u003e \u003c/mtext\u003e\u003cmtext\u003e \u003c/mtext\u003e\u003cmtext\u003e \u003c/mtext\u003e\u003cmi\u003er\u003c/mi\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e0.0341\u003c/mn\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e.\u003c/p\u003e",
+                    "c79a21b9-098e-4721-9457-80f8014bf617": "\u003cp\u003eIncorrect because 2.26% reflects an incorrect sale price of the bond at the end of the third year: It omits the final coupon in the calculation of the present value of remaining future cash flows. The incorrect realized horizon yield of 2.26% is calculated as follows:\u003c/p\u003e\n\u003cp\u003eThe correct future value of reinvested coupons at 2.25% is 12.2720:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e12.2720 = [4 × (1 + 0.0225)\u003csup\u003e2\u003c/sup\u003e] + [4 × (1 + 0.0225)\u003csup\u003e1\u003c/sup\u003e] + 4.\u003c/p\u003e\n\u003cp\u003eAt the end of the third year, the sale price of the bond incorrectly omits the present value of the $4 final coupon:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e99.5594\u003c/mn\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmfrac\u003e \u003cmn\u003e4\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.0225\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e100\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.0225\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e.\u003c/p\u003e\n\u003cp\u003eThe total return is 111.8314 (= 12.2720 + 99.5594), resulting in a realized three-year horizon yield of 2.26%:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e104.58\u003c/mn\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e111.8314\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmi\u003er\u003c/mi\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e,\u003c/mo\u003e\u003cmtext\u003e \u003c/mtext\u003e\u003cmtext\u003e \u003c/mtext\u003e\u003cmtext\u003e \u003c/mtext\u003e\u003cmtext\u003e \u003c/mtext\u003e\u003cmi\u003er\u003c/mi\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e0.0226\u003c/mn\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c79a21b9-098e-4721-9457-80f8014bf617",
+                            "itemBody": "\u003cp\u003eA. 2.26%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "05c71058-1572-4320-a860-637a3ed8c6e8",
+                            "itemBody": "\u003cp\u003eB. 2.31%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7524900c-8632-4aaf-9715-8bbe344825d4",
+                            "itemBody": "\u003cp\u003eC. 3.41%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8662,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53826",
+            "entry": {
+                "title": "ITEM_20180516044",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements regarding the interest rate risk of a fixed-rate bond is correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e702fcdd-de40-4464-b78c-f169744ff19b"
+                },
+                "answerFeedback": {
+                    "61dacb0b-8500-4ad2-852b-d6ba6a9eb99f": "\u003cp\u003eIncorrect because investors holding the same bond can have very different exposures to interest rate risk if they have different investment horizons. When the investor’s horizon is short relative to a bond’s time to maturity, market price risk matters more than coupon reinvestment risk. In contrast, when the investor’s horizon is long, reinvestment risk matters more than market price risk.\u003c/p\u003e",
+                    "e702fcdd-de40-4464-b78c-f169744ff19b": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Market price risk matters more than coupon reinvestment risk when the investor has a short horizon relative to the bond’s time to maturity.\u003c/p\u003e",
+                    "fcda854e-bc55-41eb-9210-d58dee64229b": "\u003cp\u003eIncorrect because coupon reinvestment risk and market price risk are offsetting types of interest rate risk that are inversely (not positively) related. When interest rates go up (down), the future value of reinvested coupons increases (decreases) whereas the sale price of a bond that matures after the horizon date decreases (increases).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fcda854e-bc55-41eb-9210-d58dee64229b",
+                            "itemBody": "\u003cp\u003eA. Coupon reinvestment risk and market price risk are positively related.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "61dacb0b-8500-4ad2-852b-d6ba6a9eb99f",
+                            "itemBody": "\u003cp\u003eB. All investors in a particular bond are exposed to the same interest rate risk.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e702fcdd-de40-4464-b78c-f169744ff19b",
+                            "itemBody": "\u003cp\u003eC. Market price risk matters more than coupon reinvestment risk when the investor’s time horizon is short relative to the bond’s time to maturity.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8662,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53827",
+            "entry": {
+                "title": "ITEM_20180516046",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe weighted average number of years to receipt of the principal and interest payments that will result in realization of the initial market discount rate on a bond is \u003ci\u003ebest\u003c/i\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "62cc8e2b-c093-4786-aaff-8ee04f8d8a5e"
+                },
+                "answerFeedback": {
+                    "62cc8e2b-c093-4786-aaff-8ee04f8d8a5e": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Macaulay duration is a weighted average of the time to receipt (expressed in years) of a bond’s promised payments where the weights are the shares of the full price that correspond to each of the bond’s promised future payments. This weighted average results in the realization of the bond’s initial market discount rate.\u003c/p\u003e",
+                    "d8a1f48c-272b-4b5a-ac74-2e86c0402774": "\u003cp\u003eIncorrect because effective duration is a measure of the sensitivity of the bond’s price (expressed as a percentage\u003cem\u003e \u003c/em\u003echange) to a change in the benchmark yield curve.\u003c/p\u003e",
+                    "fff8d4e8-fa5d-4e53-bf36-f7cb6d7a9fd5": "\u003cp\u003eIncorrect because modified duration provides an estimate of a bond’s percentage price change given a change in its yield to maturity (rather than a measure expressed as a weighted average period of years).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d8a1f48c-272b-4b5a-ac74-2e86c0402774",
+                            "itemBody": "\u003cp\u003eA. effective duration.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fff8d4e8-fa5d-4e53-bf36-f7cb6d7a9fd5",
+                            "itemBody": "\u003cp\u003eB. modified duration.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "62cc8e2b-c093-4786-aaff-8ee04f8d8a5e",
+                            "itemBody": "\u003cp\u003eC. Macaulay duration.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8662,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53828",
+            "entry": {
+                "title": "ITEM_20180516067",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhen a bond investor’s coupon reinvestment risk dominates market price risk, the investor’s investment horizon must be:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a5fdf053-f3f7-4a87-94d3-f6d63e1f56f0"
+                },
+                "answerFeedback": {
+                    "418b71a2-399f-4c2c-ae2e-c3ece5ab0a11": "\u003cp\u003eIncorrect because when the investment horizon is less than the Macaulay duration of the bond, market price risk dominates coupon reinvestment risk and the investor is at risk of higher interest rates.\u003c/p\u003e",
+                    "a5fdf053-f3f7-4a87-94d3-f6d63e1f56f0": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e When the investment horizon is greater than the Macaulay duration of the bond, coupon reinvestment risk dominates market price risk and the investor is at risk of lower interest rates.\u003c/p\u003e",
+                    "e74c805f-5afe-4abd-bf67-68efc5b8c11d": "\u003cp\u003eIncorrect because when the investment horizon is equal to the Macaulay duration of the bond, coupon reinvestment risk offsets market price risk.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "418b71a2-399f-4c2c-ae2e-c3ece5ab0a11",
+                            "itemBody": "\u003cp\u003eA. less than the Macaulay duration of the bond.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e74c805f-5afe-4abd-bf67-68efc5b8c11d",
+                            "itemBody": "\u003cp\u003eB. equal to the Macaulay duration of the bond.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a5fdf053-f3f7-4a87-94d3-f6d63e1f56f0",
+                            "itemBody": "\u003cp\u003eC. greater than the Macaulay duration of the bond.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8662,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4472,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

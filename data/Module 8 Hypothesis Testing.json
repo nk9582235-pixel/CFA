@@ -1,0 +1,2620 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6122,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 43,
+    "hidden_question_count": 0,
+    "points": 3,
+    "points_possible": 43,
+    "correct_questions_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 8: Hypothesis Testing",
+        "topic_id": 1031,
+        "topic": "CFA-26-02-LI-C: Quantitative Methods",
+        "subtopic_id": 6122,
+        "subtopic": "Module 8: Hypothesis Testing",
+        "question_count": 43,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 799,
+                "name": "Warehouse Course: Quantitative Methods 26-LI",
+                "code": "Warehouse Course: Quantitative Methods 26-LI",
+                "module_id": 4425,
+                "question_count": 37,
+                "type": "warehouse"
+            },
+            {
+                "id": 838,
+                "name": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "code": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "module_id": 4629,
+                "question_count": 6,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 43.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "9f2ea35e5a8c85bf",
+        "ordered_item_ids": [
+            "53161",
+            "53162",
+            "53163",
+            "53164",
+            "53165",
+            "53166",
+            "53167",
+            "53168",
+            "53169",
+            "53170",
+            "53171",
+            "53172",
+            "53173",
+            "53174",
+            "53175",
+            "53176",
+            "53177",
+            "53178",
+            "53179",
+            "53180",
+            "53541",
+            "53542",
+            "53543",
+            "53544",
+            "53545",
+            "53546",
+            "53547",
+            "53548",
+            "53549",
+            "53550",
+            "53551",
+            "53552",
+            "53553",
+            "53554",
+            "53555",
+            "53556",
+            "53557",
+            "54435",
+            "54436",
+            "54437",
+            "54438",
+            "54439",
+            "54440"
+        ],
+        "visible_item_ids": [
+            "53161",
+            "53162",
+            "53163",
+            "53164",
+            "53165",
+            "53166",
+            "53167",
+            "53168",
+            "53169",
+            "53170",
+            "53171",
+            "53172",
+            "53173",
+            "53174",
+            "53175",
+            "53176",
+            "53177",
+            "53178",
+            "53179",
+            "53180",
+            "53541",
+            "53542",
+            "53543",
+            "53544",
+            "53545",
+            "53546",
+            "53547",
+            "53548",
+            "53549",
+            "53550",
+            "53551",
+            "53552",
+            "53553",
+            "53554",
+            "53555",
+            "53556",
+            "53557",
+            "54435",
+            "54436",
+            "54437",
+            "54438",
+            "54439",
+            "54440"
+        ]
+    },
+    "items": [
+        {
+            "id": "53161",
+            "entry": {
+                "title": "CFA2406-R-s02-Q4",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The null hypothesis is what she wants to reject in favor of the alternative, which is that population mean excess return is less than 5%. This is a one-sided (left-side) alternative hypothesis.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst suspects that, in the most recent year, excess returns on stocks have fallen below 5%. She wants to study whether the excess returns are less than 5%. Designating the population mean as \u003cem\u003eμ\u003c/em\u003e, which hypotheses are most appropriate for her analysis?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2ec66626-f166-422b-b977-c754ffa02822"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "64f40df2-4e29-4eae-8079-231a2c93b30b",
+                            "itemBody": "A. H 0: µ = 5% versus Ha: µ ≠ 5%",
+                            "position": 1
+                        },
+                        {
+                            "id": "2ec66626-f166-422b-b977-c754ffa02822",
+                            "itemBody": "B. H 0: µ \u0026gt; 5% versus Ha: µ \u0026lt; 5%",
+                            "position": 2
+                        },
+                        {
+                            "id": "c1357b6a-65bf-4cfb-8db9-5bdd629dc815",
+                            "itemBody": "C. H 0: µ \u0026lt; 5% versus Ha: µ \u0026gt; 5%",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53162",
+            "entry": {
+                "title": "CFA2406-R-s02-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Together, the null and alternative hypotheses account for all possible values of the parameter. Any possible values of the parameter not covered by the null must be covered by the alternative hypothesis (e.g., \u003cem\u003eH\u003c/em\u003e\n               \u003csub\u003e0\u003c/sub\u003e: \u003cem\u003eμ\u003c/em\u003e ≤ 5 versus \u003cem\u003eH\u003csub\u003ea\u003c/sub\u003e\n               \u003c/em\u003e: \u003cem\u003eμ\u003c/em\u003e \u0026gt; 5). A is incorrect because the null hypothesis is what the researcher wants to reject; the “hoped for” or “suspected” condition is often set up as the alternative hypothesis. B is incorrect because the null (not the alternative) hypothesis is considered to be true unless the sample used to conduct the hypothesis test gives convincing evidence that the null hypothesis is false.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements about hypothesis testing is correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0004cb49-93bc-4242-b661-432ec3cde9c8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0eae5d95-2bd3-47a1-9554-2761236bdfe3",
+                            "itemBody": "A. The null hypothesis is the condition a researcher hopes to support.",
+                            "position": 1
+                        },
+                        {
+                            "id": "abc805d9-bef3-4bb7-8eb3-a3224c996b68",
+                            "itemBody": "B. The alternative hypothesis is the proposition considered true without conclusive evidence to the contrary.",
+                            "position": 2
+                        },
+                        {
+                            "id": "0004cb49-93bc-4242-b661-432ec3cde9c8",
+                            "itemBody": "C. The alternative hypothesis exhausts all potential parameter values not accounted for by the null hypothesis.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53163",
+            "entry": {
+                "title": "CFA2406-R-s02-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The null and alternative hypotheses are complements of one another and must be both mutually and collectively exhaustive. Differently put: all possible values or outcomes need to be contained in either the null or the alternative hypothesis.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because the null hypothesis must always include the equality sign (less than or equal to, equal to, or greater than or equal to). C is incorrect because, in a two-tailed test, the null hypothesis is generally set up as equality between the hypothesized value and the population parameter. If evidence supports equality, then the null hypothesis would not be rejected.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements regarding the null hypothesis is correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "468a8e31-1f33-44c8-991c-fa611f85b52c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e6db6163-2fb7-4c97-8525-c9f0e8148360",
+                            "itemBody": "A. It can be stated as “not equal to” provided the alternative hypothesis is stated as “equal to.”",
+                            "position": 1
+                        },
+                        {
+                            "id": "468a8e31-1f33-44c8-991c-fa611f85b52c",
+                            "itemBody": "B. Along with the alternative hypothesis, it considers all possible values of the population parameter.",
+                            "position": 2
+                        },
+                        {
+                            "id": "6038caf9-01bb-4210-939a-d608d2616fe2",
+                            "itemBody": "C. In a two-tailed test, it is rejected when evidence supports equality between the hypothesized value and the population parameter.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53164",
+            "entry": {
+                "title": "CFA2406-R-s02-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. One-tailed tests in which the alternative is “greater than” or “less than” represent the beliefs of the researcher more firmly than a “not equal to” alternative hypothesis.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because a smaller significance level implies a smaller rejection region. C is incorrect because the absolute value of the critical value for a one-tailed hypothesis test is smaller than that of a two-tailed test.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFor example, for a two-tailed t-test with 30 degrees of freedom at the 5% significance level, the corresponding critical value is ±2.042 (2.5% in each tail) whereas the corresponding critical value for a one-tailed t-test is +1.697 or –1.697 (5% in the left or right tail). Thus, the absolute value of the critical value is smaller for the one-tailed test than it is for the two-tailed test for the same level of significance.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements regarding a one-tailed hypothesis test is correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "45cd77f1-49a7-4811-a1b4-e45654218983"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9a20ba00-aa49-424a-8d90-ee29dca5e352",
+                            "itemBody": "A. The rejection region increases in size as the level of significance becomes smaller.",
+                            "position": 1
+                        },
+                        {
+                            "id": "45cd77f1-49a7-4811-a1b4-e45654218983",
+                            "itemBody": "B. A one-tailed test more strongly reflects the beliefs of the researcher than a two-tailed test.",
+                            "position": 2
+                        },
+                        {
+                            "id": "009f62d9-920c-461f-87aa-a2de8ab63c8c",
+                            "itemBody": "C. The absolute value of the critical value is larger than that for a two-tailed test at the same level of significance.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53165",
+            "entry": {
+                "title": "CFA2406-R-s02-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The 5 percent level of significance (i.e., probability of a Type I error) corresponds to 1 − 0.05 = 0.95, or a 95 percent confidence level (i.e., probability of not rejecting a true null hypothesis). The level of significance is the complement to the confidence level; in other words, they sum to 1.00, or 100 percent.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf a researcher selects a 5 percent level of significance for a hypothesis test, the confidence level is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e71189f0-7cdf-4c04-a61c-9730763d7e24"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "54da5d61-92ee-4f1e-87d2-9c535aa9544a",
+                            "itemBody": "A. 2.5 percent.",
+                            "position": 1
+                        },
+                        {
+                            "id": "bfabae45-e8ff-42aa-9636-b05a4fee69b5",
+                            "itemBody": "B. 5 percent.",
+                            "position": 2
+                        },
+                        {
+                            "id": "e71189f0-7cdf-4c04-a61c-9730763d7e24",
+                            "itemBody": "C. 95 percent.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53166",
+            "entry": {
+                "title": "CFA2406-R-s02-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. For a one-tailed hypothesis test, there is a 5 percent rejection region in one tail of the distribution. A is incorrect because a 5 percent significance level implies a 5 percent probability of rejecting the null hypothesis and a 95 percent confidence interval. B is incorrect because the probability of a Type I error (mistakenly rejecting a true null) is the stated 5 percent significance level.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA hypothesis test for a normally distributed population, at a 0.05 significance level, implies a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "293e2073-cc59-4de3-b2c3-405522a3ec69"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4a0efd0e-bda4-4667-b9a3-9fb5e6495ece",
+                            "itemBody": "A. 95 percent probability of rejecting a true null hypothesis.",
+                            "position": 1
+                        },
+                        {
+                            "id": "15e7a544-0325-4ec7-b91d-916ad01234fc",
+                            "itemBody": "B. 95 percent probability of a Type I error for a two-tailed test.",
+                            "position": 2
+                        },
+                        {
+                            "id": "293e2073-cc59-4de3-b2c3-405522a3ec69",
+                            "itemBody": "C. 5 percent critical value rejection region for a one-tailed test.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53167",
+            "entry": {
+                "title": "CFA2406-R-s02-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. In hypothesis testing, a test statistic is a quantity whose value is the basis for deciding whether to reject the null hypothesis.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe value of a test statistic is \u003cem\u003ebest\u003c/em\u003e described as the basis for deciding whether to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8dcd86cd-10fa-46b1-98d6-fc339f2884fc"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8dcd86cd-10fa-46b1-98d6-fc339f2884fc",
+                            "itemBody": "A. reject the null hypothesis.",
+                            "position": 1
+                        },
+                        {
+                            "id": "da855432-35ad-468d-9fde-599e6436da2a",
+                            "itemBody": "B. accept the null hypothesis.",
+                            "position": 2
+                        },
+                        {
+                            "id": "5afbc526-777b-48b3-a250-2d8616b905a1",
+                            "itemBody": "C. reject the alternative hypothesis.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53168",
+            "entry": {
+                "title": "CFA2406-R-s02-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The definition of a Type I error is when a true null hypothesis is rejected.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following \u003cem\u003ebest\u003c/em\u003e describes a Type I error?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "194b29cb-b716-4d06-8c49-dd23a5f5727b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "194b29cb-b716-4d06-8c49-dd23a5f5727b",
+                            "itemBody": "A. Rejecting a true null hypothesis",
+                            "position": 1
+                        },
+                        {
+                            "id": "b8b7b19a-236e-43c8-a848-c5d21174c0b7",
+                            "itemBody": "B. Rejecting a false null hypothesis",
+                            "position": 2
+                        },
+                        {
+                            "id": "b0102c8f-329c-4c9d-bc7e-44e92a8f720a",
+                            "itemBody": "C. Failing to reject a false null hypothesis",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53169",
+            "entry": {
+                "title": "CFA2406-R-s02-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. A Type II error occurs when a false null hypothesis is not rejected.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA Type II error is \u003cem\u003ebest\u003c/em\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d078b87d-63b4-4dc2-9426-4e6cacd48b07"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0388f095-1231-4053-ae47-49d7c5ed40f0",
+                            "itemBody": "A. rejecting a true null hypothesis.",
+                            "position": 1
+                        },
+                        {
+                            "id": "d078b87d-63b4-4dc2-9426-4e6cacd48b07",
+                            "itemBody": "B. failing to reject a false null hypothesis.",
+                            "position": 2
+                        },
+                        {
+                            "id": "994b8753-02b7-4abe-ab99-d72fd3204f5d",
+                            "itemBody": "C. failing to reject a false alternative hypothesis.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53170",
+            "entry": {
+                "title": "CFA2406-R-s02-Q13",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The level of significance is used to establish the rejection points of the hypothesis test. A is incorrect because the significance level is not used to calculate the test statistic; rather, it is used to determine the critical value. C is incorrect because the significance level specifies the probability of making a Type I error.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe level of significance of a hypothesis test is \u003cem\u003ebest\u003c/em\u003e used to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2aa19f07-dd5c-4905-adf8-b330b25b771c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ca3702f8-0ceb-4a9c-b1d1-b1a43da5b889",
+                            "itemBody": "A. calculate the test statistic.",
+                            "position": 1
+                        },
+                        {
+                            "id": "2aa19f07-dd5c-4905-adf8-b330b25b771c",
+                            "itemBody": "B. define the test’s rejection points.",
+                            "position": 2
+                        },
+                        {
+                            "id": "fa1b3cf9-d208-4f6d-984c-3804d870c420",
+                            "itemBody": "C. specify the probability of a Type II error.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53171",
+            "entry": {
+                "title": "CFA2406-R-s02-Q14",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The power of a test is the probability of rejecting the null hypothesis when it is false. A is incorrect because the p-value is the smallest level of significance at which the null hypothesis can be rejected. C is incorrect because the level of significance is the probability of mistakenly rejecting the null hypothesis (Type I error).\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe probability of correctly rejecting the null hypothesis is the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "18498d75-d810-4a7e-a15c-328765ff062e"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "423b5a78-e459-4542-9d10-2c5c0ef92613",
+                            "itemBody": "A. p-value.",
+                            "position": 1
+                        },
+                        {
+                            "id": "18498d75-d810-4a7e-a15c-328765ff062e",
+                            "itemBody": "B. power of a test.",
+                            "position": 2
+                        },
+                        {
+                            "id": "e43eaf67-e22f-4a5d-8703-63a7ccf84590",
+                            "itemBody": "C. level of significance.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53172",
+            "entry": {
+                "title": "CFA2406-R-s02-Q15",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The power of a hypothesis test is the probability of correctly rejecting the null when it is false. Failing to reject the null when it is false is a Type II error. Thus, the power of a hypothesis test is the probability of not committing a Type II error.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe power of a hypothesis test is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "60a9cda5-d9ba-40a4-a14d-924bac668232"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1ff728bb-1431-4c7c-b11e-da33c2d7a541",
+                            "itemBody": "A. equivalent to the level of significance.",
+                            "position": 1
+                        },
+                        {
+                            "id": "60a9cda5-d9ba-40a4-a14d-924bac668232",
+                            "itemBody": "B. the probability of not making a Type II error.",
+                            "position": 2
+                        },
+                        {
+                            "id": "182f804b-0127-4a6b-b32e-b5677d451097",
+                            "itemBody": "C. unchanged by increasing a small sample size.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53173",
+            "entry": {
+                "title": "CFA2406-R-s02-Q16",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The critical value in a decision rule is the rejection point for the test. It is the point with which the test statistic is compared to determine whether to reject the null hypothesis, which is part of the fourth step in hypothesis testing. B is incorrect because the power of a test refers to the probability of rejecting the null hypothesis when it is false. C is incorrect because the value of the test statistic is specified in the ‘Identify the appropriate test statistic and its probability distribution” step.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn the step “stating a decision rule” in testing a hypothesis, which of the following elements must be specified?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5365b6a5-67cb-4bf4-90d9-138b95a4b909"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5365b6a5-67cb-4bf4-90d9-138b95a4b909",
+                            "itemBody": "A. Critical value",
+                            "position": 1
+                        },
+                        {
+                            "id": "4a57ab5f-e468-4edf-9eac-976e4c68b69b",
+                            "itemBody": "B. Power of a test",
+                            "position": 2
+                        },
+                        {
+                            "id": "97257a3c-be7d-4915-bc3d-a54734f4a020",
+                            "itemBody": "C. Value of a test statistic",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53174",
+            "entry": {
+                "title": "CFA2406-R-s03-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The assumption that the variances are equal allows for the combining of both samples to obtain a pooled estimate of the common variance.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA pooled estimator is used when testing a hypothesis concerning the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8728b6f7-85c1-48d6-ad03-fb2ee9718f3d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e7e5943b-8c39-47aa-b157-8ae4c6047218",
+                            "itemBody": "A. equality of the variances of two normally distributed populations.",
+                            "position": 1
+                        },
+                        {
+                            "id": "8728b6f7-85c1-48d6-ad03-fb2ee9718f3d",
+                            "itemBody": "B. difference between the means of two approximately normally distributed populations with unknown but assumed equal variances.",
+                            "position": 2
+                        },
+                        {
+                            "id": "a88412b8-54b8-418c-b1d9-86dc5117caec",
+                            "itemBody": "C. difference between the means of two at least approximately normally distributed populations with unknown and assumed unequal variances.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53175",
+            "entry": {
+                "title": "CFA2406-R-s03-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. A paired comparisons test is appropriate to test the mean differences of two samples believed to be dependent. A is incorrect because a z-test is used to determine whether two population means are different when the variances are known and the sample size is large. B is incorrect because a chi-square test is used for tests concerning the variance of a single normally distributed population.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhen evaluating mean differences between two dependent samples, the \u003cem\u003emost\u003c/em\u003e appropriate test is a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b1e60bc2-b76c-4172-949a-100746f60c09"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "44bb1cd9-7810-4502-a6c1-61c4fd351092",
+                            "itemBody": "A. z-test.",
+                            "position": 1
+                        },
+                        {
+                            "id": "c3333e4a-01ac-4977-a578-dacd372129e3",
+                            "itemBody": "B. chi-square test.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b1e60bc2-b76c-4172-949a-100746f60c09",
+                            "itemBody": "C. paired comparisons test.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53176",
+            "entry": {
+                "title": "CFA2406-R-s03-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. A chi-square test is used for tests concerning the variance of a single normally distributed population.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA chi-square test is \u003cem\u003emost\u003c/em\u003e appropriate for tests concerning:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ad8b43bf-1a42-4176-9c31-d985b65db7a8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ad8b43bf-1a42-4176-9c31-d985b65db7a8",
+                            "itemBody": "A. a single variance.",
+                            "position": 1
+                        },
+                        {
+                            "id": "6bae9835-3086-493a-85ab-f94454eedb36",
+                            "itemBody": "B. differences between two population means with variances assumed to be equal.",
+                            "position": 2
+                        },
+                        {
+                            "id": "94548c3a-c7f7-455c-9a5b-8d8eecc0faa7",
+                            "itemBody": "C. differences between two population means with variances not assumed to be equal.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53177",
+            "entry": {
+                "title": "CFA2406-R-s03-Q13",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. An \u003cem\u003eF\u003c/em\u003e-test is used to conduct tests concerning the difference between the variances of two normally distributed populations with random independent samples.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following tests should be used to test the difference between the variances of two normally distributed populations with random independent samples?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "602bca81-eefa-45f7-b791-f647c47a49e2"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "87fb7bbd-1601-42bf-a11d-00e669e1f286",
+                            "itemBody": "A. t-test",
+                            "position": 1
+                        },
+                        {
+                            "id": "602bca81-eefa-45f7-b791-f647c47a49e2",
+                            "itemBody": "B. F-test",
+                            "position": 2
+                        },
+                        {
+                            "id": "a193c865-1258-4853-86ba-5f3adc594ee5",
+                            "itemBody": "C. Paired comparisons test",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 17,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53178",
+            "entry": {
+                "title": "CFA2406-R-s04-Q1",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. When the samples consist of ranked values, parametric tests are not appropriate. In such cases, nonparametric tests are most appropriate.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA nonparametric test is most appropriate when the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a70683c2-a5d6-4612-ab53-e1cfb7121981"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a70683c2-a5d6-4612-ab53-e1cfb7121981",
+                            "itemBody": "A. data consist of ranked values.",
+                            "position": 1
+                        },
+                        {
+                            "id": "5575e5e2-4e5a-4370-8ce0-dd145336628b",
+                            "itemBody": "B. validity of the test depends on many assumptions.",
+                            "position": 2
+                        },
+                        {
+                            "id": "03ad3323-113b-431a-a320-44caad8925b6",
+                            "itemBody": "C. sample sizes are large but are drawn from a population that may be non-normal.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 18,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53179",
+            "entry": {
+                "title": "CFA2406-R-s04-Q2",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. A nonparametric test is used when the data are given in ranks.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn which of the following situations would a nonparametric test of a hypothesis \u003cem\u003emost likely\u003c/em\u003e be used?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "cad2eb73-e075-49e0-bcab-39a132d05c6a"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "cad2eb73-e075-49e0-bcab-39a132d05c6a",
+                            "itemBody": "A. The sample data are ranked according to magnitude.",
+                            "position": 1
+                        },
+                        {
+                            "id": "4f82a731-5f59-4da4-b8b6-d56cd4047a8a",
+                            "itemBody": "B. The sample data come from a normally distributed population.",
+                            "position": 2
+                        },
+                        {
+                            "id": "ed64d4de-7e91-46c2-8ab1-b6789a112974",
+                            "itemBody": "C. The test validity depends on many assumptions about the nature of the population.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 19,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53180",
+            "entry": {
+                "title": "CFA2406-R-s04-Q3",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. There are only 12 (monthly) observations over the one year of the sample and thus the samples are small. Additionally, the funds’ returns are non-normally distributed. Therefore, the samples do not meet the distributional assumptions for a parametric test. The Mann–Whitney U test (a nonparametric test) could be used to test the differences between population means.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst is examining the monthly returns for two funds over one year. Both funds’ returns are non-normally distributed. To test whether the mean return of one fund is greater than the mean return of the other fund, the analyst can use:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "41eb97b3-2304-4f75-a44c-36ec0b199b2c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e4d7dc62-bd14-4f6a-bd5a-8c6cee57b66c",
+                            "itemBody": "A. a parametric test only.",
+                            "position": 1
+                        },
+                        {
+                            "id": "41eb97b3-2304-4f75-a44c-36ec0b199b2c",
+                            "itemBody": "B. a nonparametric test only.",
+                            "position": 2
+                        },
+                        {
+                            "id": "cb66b69b-d8c4-46d1-8a6a-fe7689698fe1",
+                            "itemBody": "C. both parametric and nonparametric tests.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 20,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53541",
+            "entry": {
+                "title": "ITEM_20170421046",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA Type I error is \u003ci\u003ebest\u003c/i\u003e described as the probability of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a1ffb066-0121-42da-86a2-353c853352bd"
+                },
+                "answerFeedback": {
+                    "0bd061d8-30f1-4cef-925e-cebee22dd56f": "\u003cp\u003eIncorrect. This is the definition of a Type II error.\u003c/p\u003e",
+                    "a1ffb066-0121-42da-86a2-353c853352bd": "\u003cp\u003eCorrect. A Type I error is the mistake of rejecting the null hypothesis when it is, in fact, true.\u003c/p\u003e",
+                    "f2232157-7fd6-4f60-ab18-f133299942c9": "\u003cp\u003eIncorrect. This is an entirely wrong statement and it is not one of possible outcomes when we test a null hypothesis.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0bd061d8-30f1-4cef-925e-cebee22dd56f",
+                            "itemBody": "\u003cp\u003eA. failing to reject a false null hypothesis.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f2232157-7fd6-4f60-ab18-f133299942c9",
+                            "itemBody": "\u003cp\u003eB. rejecting a true alternative hypothesis.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a1ffb066-0121-42da-86a2-353c853352bd",
+                            "itemBody": "\u003cp\u003eC. rejecting a true null hypothesis.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53542",
+            "entry": {
+                "title": "ITEM_20170421010",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003e\n\u003cp\u003eUsing the following sample results drawn as 25 paired observations from their underlying distributions, test whether the mean returns of the two portfolios differ from each other at the 1% level of statistical significance. Assume the underlying distributions of returns for each portfolio are normal and that their population variances are not known.\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 719px; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 180px; max-width: 180px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"width: 172px; max-width: 172px; text-align: center;\"\u003e\u003cstrong\u003ePortfolio 1\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 170px; max-width: 170px; text-align: center;\"\u003e\u003cstrong\u003ePortfolio 2\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 181px; max-width: 181px; text-align: center;\"\u003e\u003cstrong\u003eDifference\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 180px; max-width: 180px;\"\u003eMean return\u003c/td\u003e\n\u003ctd style=\"width: 172px; max-width: 172px; text-align: center;\"\u003e17.00\u003c/td\u003e\n\u003ctd style=\"width: 170px; max-width: 170px; text-align: center;\"\u003e21.25\u003c/td\u003e\n\u003ctd style=\"width: 181px; max-width: 181px; text-align: center;\"\u003e4.25\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 180px; max-width: 180px;\"\u003eStandard deviation\u003c/td\u003e\n\u003ctd style=\"width: 172px; max-width: 172px; text-align: center;\"\u003e15.50\u003c/td\u003e\n\u003ctd style=\"width: 170px; max-width: 170px; text-align: center;\"\u003e15.75\u003c/td\u003e\n\u003ctd style=\"width: 181px; max-width: 181px; text-align: center;\"\u003e6.25\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 713px; max-width: 713px;\" colspan=\"4\"\u003e\n\u003cp\u003e\u003ci\u003et\u003c/i\u003e-statistic for 24 degrees of freedom and at the 1% level of statistical significance = 2.807\u003c/p\u003e\n\u003cp\u003eNull hypothesis (\u003ci\u003eH\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e): Mean difference of returns = 0\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cdiv\u003eBased on the paired comparisons test of the two portfolios, the \u003ci\u003emost\u003c/i\u003e appropriate conclusion is that \u003ci\u003eH\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e should be:\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "289c704f-77b6-47d8-8abe-7f6754247128"
+                },
+                "answerFeedback": {
+                    "0bbdf299-0779-491b-b282-a9f2fd8edda5": "\u003cp\u003eIncorrect because the correctly computed test statistic exceeds the critical value of 2.807.\u003c/p\u003e",
+                    "0cc6bdb0-98b3-46ac-a0cf-83cc06398411": "\u003cp\u003eIncorrect because a too large (or too small) test statistic leads to the rejection of the null hypothesis.\u003c/p\u003e",
+                    "289c704f-77b6-47d8-8abe-7f6754247128": "\u003cp\u003eCorrect because the test statistic is: \u003cmath style=\"font-family: Arial; font-size: 18pt;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmover\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eμ\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmrow\u003e \u003cmsqrt\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/msqrt\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e where\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e \u003cmover\u003e \u003cmi style=\"font-size: 18pt;\"\u003ed\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003c/math\u003e = the mean difference\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eμ\u003cem\u003e\u003csub\u003ed\u003c/sub\u003e\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e = the hypothesized difference in the means\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem style=\"font-size: 18pt;\"\u003es\u003csub style=\"font-size: 18pt;\"\u003ed\u003c/sub\u003e\u003c/em\u003e = the sample standard deviation of differences\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem style=\"font-size: 18pt;\"\u003en\u003c/em\u003e = the sample size\u003c/p\u003e\n\u003cp\u003eIn this case, the test statistic equals: \u003cmath style=\"font-family: Arial; font-size: 18pt;\"\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e4.25\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmn\u003e6.25\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmrow\u003e \u003cmsqrt\u003e \u003cmrow\u003e \u003cmn\u003e25\u003c/mn\u003e \u003c/mrow\u003e \u003c/msqrt\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003c/math\u003e = 3.40.\u003c/p\u003e\n\u003cp\u003e2.807, the null hypothesis that the mean difference is zero is rejected.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "289c704f-77b6-47d8-8abe-7f6754247128",
+                            "itemBody": "\u003cp\u003eA. rejected because the computed test statistic exceeds 2.807.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0cc6bdb0-98b3-46ac-a0cf-83cc06398411",
+                            "itemBody": "\u003cp\u003eB. accepted because the computed test statistic exceeds 2.807.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0bbdf299-0779-491b-b282-a9f2fd8edda5",
+                            "itemBody": "\u003cp\u003eC. accepted because the computed test statistic is less than 2.807.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53543",
+            "entry": {
+                "title": "ITEM_20170421045",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA small-cap growth fund’s monthly returns for the past 36 months have been consistently outperforming its benchmark. An analyst is determining whether the standard deviation of monthly returns is greater than 6%. Which of the following \u003ci\u003ebest\u003c/i\u003e describes the hypothesis to be tested?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "30466594-bc07-46c4-aba2-c7534d466179"
+                },
+                "answerFeedback": {
+                    "30466594-bc07-46c4-aba2-c7534d466179": "\u003cp\u003eCorrect because this is a one-tailed hypothesis testing with a “greater than” alternative hypothesis. A squared standard deviation is being used to obtain a test of variance. The hypotheses are \u003cem\u003eH\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e: σ\u003csup\u003e2\u003c/sup\u003e ≤ 0.36% versus \u003cem\u003eH\u003csub\u003ea\u003c/sub\u003e\u003c/em\u003e: σ\u003csup\u003e2\u003c/sup\u003e \u0026gt; 0.36%.\u003c/p\u003e",
+                    "ca444953-0381-420d-bf3f-c5c490b78b7d": "\u003cp\u003eIncorrect because this is a one-tailed hypothesis testing with a “greater than” alternative hypothesis. A squared standard deviation is being used to obtain a test of variance. The hypotheses are \u003cem\u003eH\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e: σ\u003csup\u003e2\u003c/sup\u003e ≤ 0.36% versus \u003cem\u003eH\u003csub\u003ea\u003c/sub\u003e\u003c/em\u003e: σ\u003csup\u003e2\u003c/sup\u003e \u0026gt; 0.36%.\u003c/p\u003e",
+                    "cd1985ee-9c7a-4f40-a314-9f481d8718e9": "\u003cp\u003eIncorrect because this is a one-tailed hypothesis testing with a “greater than” alternative hypothesis. A squared standard deviation is being used to obtain a test of variance. The hypotheses are \u003cem\u003eH\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e: σ\u003csup\u003e2\u003c/sup\u003e ≤ 0.36% versus \u003cem\u003eH\u003csub\u003ea\u003c/sub\u003e\u003c/em\u003e: σ\u003csup\u003e2\u003c/sup\u003e \u0026gt; 0.36%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "30466594-bc07-46c4-aba2-c7534d466179",
+                            "itemBody": "\u003cp\u003eA. \u003ci\u003eH\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e: σ\u003csup\u003e2\u003c/sup\u003e ≤ 0.36%\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ca444953-0381-420d-bf3f-c5c490b78b7d",
+                            "itemBody": "\u003cp\u003eB. \u003ci\u003eH\u003csub\u003ea\u003c/sub\u003e\u003c/i\u003e: σ\u003csup\u003e2\u003c/sup\u003e \u0026gt; 6%\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "cd1985ee-9c7a-4f40-a314-9f481d8718e9",
+                            "itemBody": "\u003cp\u003eC. \u003ci\u003eH\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e: σ\u003csup\u003e2\u003c/sup\u003e ≥ 0.36%\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53544",
+            "entry": {
+                "title": "ITEM_20170421085",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003e\n\u003cp\u003eIndependent samples drawn from normally distributed populations exhibit the following characteristics:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 476px; border-style: solid; height: 87px;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"width: 24px; max-width: 24px; height: 29px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"width: 129px; max-width: 129px; text-align: center; height: 29px;\"\u003e\u003cstrong\u003eSample Size\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 132px; max-width: 132px; text-align: center; height: 29px;\"\u003e\u003cstrong\u003eSample Mean\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 176px; max-width: 176px; text-align: center; height: 29px;\"\u003e\u003cstrong\u003eStandard Deviation\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"width: 24px; max-width: 24px; height: 29px;\"\u003eA\u003c/td\u003e\n\u003ctd style=\"width: 129px; max-width: 129px; text-align: center; height: 29px;\"\u003e25\u003c/td\u003e\n\u003ctd style=\"width: 132px; max-width: 132px; text-align: center; height: 29px;\"\u003e200\u003c/td\u003e\n\u003ctd style=\"width: 176px; max-width: 176px; text-align: center; height: 29px;\"\u003e45\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"width: 24px; max-width: 24px; height: 29px;\"\u003eB\u003c/td\u003e\n\u003ctd style=\"width: 129px; max-width: 129px; text-align: center; height: 29px;\"\u003e18\u003c/td\u003e\n\u003ctd style=\"width: 132px; max-width: 132px; text-align: center; height: 29px;\"\u003e185\u003c/td\u003e\n\u003ctd style=\"width: 176px; max-width: 176px; text-align: center; height: 29px;\"\u003e60\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003cp\u003eAssuming that the variances of the underlying populations are equal, the pooled estimate of the common variance is 2,678.05. The \u003ci\u003et\u003c/i\u003e-test statistic appropriate to test the hypothesis that the two population means are equal is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "55cd1bff-fe2b-41a0-8f28-7fab13524653"
+                },
+                "answerFeedback": {
+                    "55cd1bff-fe2b-41a0-8f28-7fab13524653": "\u003cp\u003eCorrect. The \u003cem\u003et\u003c/em\u003e-statistic for the given information (normally distributed populations, population variances assumed equal) is calculated as:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial; font-size: 24pt;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmover\u003e \u003cmi\u003ex\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsub\u003e \u003cmover\u003e \u003cmi\u003ex\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eμ\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eμ\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.5\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp\u003eIn this case we have:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial; font-size: 16pt;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e = 2678.05\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial; font-size: 24pt;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e200\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e185\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2678.05\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e25\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2678.05\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e18\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.5\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e = 0.93768 \u003cstrong\u003e~ 0.94\u003c/strong\u003e\u003c/p\u003e",
+                    "aaad1230-7e36-4cb0-b134-7b1a658c9f1d": "\u003cp\u003eIncorrect. The mistake is to divide 2678.05 by 43 (25 + 18) and use the square root of the result as the divisor for the \u003cem\u003et\u003c/em\u003e-statistic: (200 − 185)/(2678.05/43)\u003csup\u003e0.5\u003c/sup\u003e = 1.90.\u003c/p\u003e",
+                    "de43ac24-dd3e-40fc-afba-1c94549d5ff2": "\u003cp\u003eIncorrect. The mistake is to take an equally weighted average of the given standard deviations and use this as the divisor for the \u003cem\u003et\u003c/em\u003e-statistic: (200 − 185)/[(45 + 60)/2] = 0.28571.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "aaad1230-7e36-4cb0-b134-7b1a658c9f1d",
+                            "itemBody": "\u003cp\u003eA. 1.90.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "de43ac24-dd3e-40fc-afba-1c94549d5ff2",
+                            "itemBody": "\u003cp\u003eB. 0.29.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "55cd1bff-fe2b-41a0-8f28-7fab13524653",
+                            "itemBody": "\u003cp\u003eC. 0.94.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53545",
+            "entry": {
+                "title": "ITEM_20170421086",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003e\n\u003cp\u003eAn analyst collects the following data related to paired observations for Sample A and Sample B. Assume that both samples are dependent and are drawn from normally distributed populations and that the population variances are not known.\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cstrong\u003ePaired Observation\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cstrong\u003eSample A Value\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cstrong\u003eSample B Value\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e1\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e25\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e18\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e2\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e12\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e9\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e–5\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e–8\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e4\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e6\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e3\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e5\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e–8\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e1\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003cp\u003eThe \u003ci\u003et\u003c/i\u003e-statistic to test the hypothesis that the mean difference is equal to zero is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "446b5011-f17c-456c-b741-a553a2e5fb51"
+                },
+                "answerFeedback": {
+                    "0df98476-603f-4912-a28c-68efc3810d5c": "\u003cp\u003eIncorrect. The mistake is to calculate the standard deviations of the separate samples and then use the average of these two sample standard deviations as the estimate of \u003cem\u003es\u003csub\u003ed\u003c/sub\u003e\u003c/em\u003e.\u003c/p\u003e\n\u003cdiv\u003e\n\u003ctable border=\"1\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom;\"\u003e\u003cstrong\u003eSample A Value\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eSquared Differences\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e25\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(25 − 6)\u003csup\u003e2\u003c/sup\u003e = 361\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e12\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(12 − 6)\u003csup\u003e2\u003c/sup\u003e = 36\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e−5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(−5 − 6)\u003csup\u003e2\u003c/sup\u003e = 121\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e6\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(6 − 6)\u003csup\u003e2\u003c/sup\u003e = 0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e−8\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(−8 − 6)\u003csup\u003e2\u003c/sup\u003e = 196\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eSum = 30\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003eSum = 714\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eMean = 30/5 = 6\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003eStandard deviation = [714/(5 − 1)]\u003csup\u003e0.5\u003c/sup\u003e\u003cbr\u003e= 13.36039\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003c/div\u003e\n\u003cdiv\u003e\n\u003ctable border=\"1\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom;\"\u003e\u003cstrong\u003eSample B Value\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eSquared Differences\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e18\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(18 − 4.6)\u003csup\u003e2\u003c/sup\u003e = 179.56\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e9\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(9 − 4.6)\u003csup\u003e2\u003c/sup\u003e = 19.36\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e−8\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(−8 − 4.6)\u003csup\u003e2\u003c/sup\u003e = 158.76\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(3 − 4.6)\u003csup\u003e2\u003c/sup\u003e = 2.56\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(1 − 4.6)\u003csup\u003e2\u003c/sup\u003e = 12.96\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eSum = 23\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003eSum = 373.2\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eMean = 23/5 = 4.6\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003eStandard deviation = [373.2/(5 − 1)]\u003csup\u003e0.5\u003c/sup\u003e\u003cbr\u003e= 9.65919\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003cp\u003eThe average of the two sample standard deviations is: (13.36039 + 9.65919)/2 = 11.50979. Then, the result is found as follows: \u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.4\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e11.50979\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmrow\u003e \u003cmsqrt\u003e \u003cmn\u003e5\u003c/mn\u003e \u003c/msqrt\u003e \u003c/mrow\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e\u003c/math\u003e = 0.27.\u003c/p\u003e",
+                    "1f8d3a47-d210-4335-b19a-d8a41ff766c1": "\u003cp\u003eIncorrect. The mistake is to use the sample standard deviation of the differences rather than the standard error of the mean difference in the \u003cem\u003et\u003c/em\u003e-statistic: \u003cspan\u003e\u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e1.4\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmrow\u003e \u003cmsqrt\u003e \u003cmrow\u003e \u003cmn\u003e36.8\u003c/mn\u003e\u003c/mrow\u003e \u003c/msqrt\u003e \u003c/mrow\u003e\u003c/mrow\u003e \u003c/mrow\u003e\u003c/math\u003e\u003c/span\u003e = 0.23.\u003c/p\u003e",
+                    "446b5011-f17c-456c-b741-a553a2e5fb51": "\u003cp\u003eCorrect. First, the mean difference is calculated:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial; font-size: 24pt;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmover\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmfrac\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/mfrac\u003e \u003cmstyle\u003e \u003cmunderover\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/mrow\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/munderover\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmi\u003ei\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp\u003eThen, the sample variance and the standard error of the mean difference are calculated:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial; font-size: 24pt;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmstyle\u003e \u003cmunderover\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/mrow\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/munderover\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmi\u003ei\u003c/mi\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmover\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mstyle\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial; font-size: 24pt;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmover\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmrow\u003e \u003cmsqrt\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/msqrt\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp\u003eThen, the \u003cem\u003et\u003c/em\u003e-statistic is calculated:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial; font-size: 24pt;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmover\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eμ\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmover\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp\u003eIn this case, the mean difference is 1.4. The sample variance is 36.8. The standard error of the mean difference is 2.712932. The \u003cem\u003et\u003c/em\u003e-statistic is 0.51605 ~ \u003cstrong\u003e0.52\u003c/strong\u003e.\u003c/p\u003e\n\u003cdiv\u003e\n\u003ctable border=\"1\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom;\"\u003e\u003cstrong\u003ePaired Observation\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eSample A Value\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eSample B Value\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eDifferences\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eDifferences Minus the Mean Difference, Then Squared\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e25\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e18\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e7\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(7 − 1.4)\u003csup\u003e2\u003c/sup\u003e = 31.36\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e12\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e9\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(3 − 1.4)\u003csup\u003e2\u003c/sup\u003e = 2.56\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e−5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e−8\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(3 − 1.4)\u003csup\u003e2\u003c/sup\u003e = 2.56\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e4\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e6\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(3 − 1.4)\u003csup\u003e2\u003c/sup\u003e = 2.56\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e−8\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e−9\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e(−9 − 1.4)\u003csup\u003e2\u003c/sup\u003e = 108.16\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003eSum = 7\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003eSum of squared differences = 147.2\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e7/5 = mean difference \u003cmath style=\"font-family: Arial;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmover\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e of 1.4\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eSample Variance \u003cmath style=\"font-family: Arial;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e: 147.2/4 = 36.8\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eStandard Error \u003cmath style=\"font-family: Arial;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmover\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e: (36.8/5)\u003csup\u003e0.5\u003c/sup\u003e = 2.712932\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem\u003et\u003c/em\u003e-statistic: (1.4 − 0)/2.712932 = 0.51605 ~ \u003cstrong\u003e0.52\u003c/strong\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "446b5011-f17c-456c-b741-a553a2e5fb51",
+                            "itemBody": "\u003cp\u003eA. 0.52.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0df98476-603f-4912-a28c-68efc3810d5c",
+                            "itemBody": "\u003cp\u003eB. 0.27.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1f8d3a47-d210-4335-b19a-d8a41ff766c1",
+                            "itemBody": "\u003cp\u003eC. 0.23.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53546",
+            "entry": {
+                "title": "ITEM_20170421107",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eSamples of size (\u003ci\u003en\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e,\u003ci\u003en\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e) are drawn respectively from two populations (\u003ci\u003eX\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e,\u003ci\u003eX\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e) with associated sample means and standard deviations of \u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmover\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e,\u003c/mo\u003e\u003cmsub\u003e \u003cmover\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e\u003c/math\u003e and (\u003ci\u003es\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e,\u003ci\u003es\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e) and associated population means and standard deviations of (μ\u003csub\u003e1\u003c/sub\u003e,μ\u003csub\u003e2\u003c/sub\u003e) and (σ\u003csub\u003e1\u003c/sub\u003e,σ\u003csub\u003e2\u003c/sub\u003e) where σ\u003csub\u003e1\u003c/sub\u003e ≠ σ\u003csub\u003e2\u003c/sub\u003e. In addition, \u003cmath style=\"font-family: Arial;\"\u003e \u003cmover\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e\u003c/math\u003e is the sample mean of \u003ci\u003eX\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e − \u003ci\u003eX\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e with a standard error of \u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmover\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003c/msub\u003e \u003c/mrow\u003e\u003c/math\u003e and a population mean of μ\u003ci\u003e\u003csub\u003ed\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e and \u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/mrow\u003e\u003c/math\u003e is a pooled estimator of the common variance.\u003c/p\u003e\n\u003cp\u003eThe \u003ci\u003emost\u003c/i\u003e appropriate test statistic to determine the equality of the two population means assuming \u003ci\u003eX\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e and \u003ci\u003eX\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e are independent and normally distributed is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "47df222b-c798-45ce-9d37-6eab156562e8"
+                },
+                "answerFeedback": {
+                    "246610d3-b056-492d-bdf1-1c4fc8b5bbca": "\u003cp\u003eIncorrect. This is the \u003cem\u003et\u003c/em\u003e-test for testing the difference between two population means (population unknown but assumed equal) where \u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/mrow\u003e\u003c/math\u003e is a pooled estimator of the common variance.\u003c/p\u003e",
+                    "47df222b-c798-45ce-9d37-6eab156562e8": "\u003cp\u003eCorrect. The most appropriate test statistic for the difference between two population means (unequal and unknown population variances) is\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial; font-size: 24pt;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmover\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsub\u003e \u003cmover\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eμ\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eμ\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.5\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e\u003c/p\u003e",
+                    "c4fe7497-081f-470d-850f-0f11dfc8548a": "\u003cp\u003eIncorrect. This is the \u003cem\u003et\u003c/em\u003e-test for testing the mean differences (paired comparisons test) with unknown population variances.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c4fe7497-081f-470d-850f-0f11dfc8548a",
+                            "itemBody": "\u003cp\u003eA. \u003cmath style=\"font-family: Arial; font-size: 24pt;\"\u003e \u003cmrow\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmover\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eμ\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmover\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "246610d3-b056-492d-bdf1-1c4fc8b5bbca",
+                            "itemBody": "\u003cp\u003eB. \u003cmath style=\"font-family: Arial; font-size: 24pt;\"\u003e \u003cmrow\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmover\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsub\u003e \u003cmover\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eμ\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eμ\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.5\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "47df222b-c798-45ce-9d37-6eab156562e8",
+                            "itemBody": "\u003cp\u003eC. \u003cmath style=\"font-family: Arial; font-size: 24pt;\"\u003e \u003cmrow\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmover\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsub\u003e \u003cmover\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eμ\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eμ\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.5\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53547",
+            "entry": {
+                "title": "ITEM_20170421124",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eGiven a large random sample, which of the following types of data are \u003ci\u003eleast\u003c/i\u003e appropriately analyzed with nonparametric tests?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c6b09e44-7629-4bb9-844a-4bc2fe446942"
+                },
+                "answerFeedback": {
+                    "4e68b0d3-2209-4710-b3f0-892a0d3f71db": "\u003cp\u003eIncorrect. Nonparametric tests can be used on grouped or counted data.\u003c/p\u003e",
+                    "76f8706f-7bb6-4531-b21e-1af11c554176": "\u003cp\u003eIncorrect. Nonparametric tests can be used on ranked data.\u003c/p\u003e",
+                    "c6b09e44-7629-4bb9-844a-4bc2fe446942": "\u003cp\u003eCorrect. Nonparametric tests are primarily concerned with ranks, signs, or groups, and they are used when numerical parameters are not known or do not meet assumptions about distributions. Even if the underlying distribution is unknown, parametric tests can be used on numerical data if the sample is large.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4e68b0d3-2209-4710-b3f0-892a0d3f71db",
+                            "itemBody": "\u003cp\u003eA. Signed data (e.g., number of positives and negatives)\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "76f8706f-7bb6-4531-b21e-1af11c554176",
+                            "itemBody": "\u003cp\u003eB. Ranked data (e.g., 1st, 3rd)\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c6b09e44-7629-4bb9-844a-4bc2fe446942",
+                            "itemBody": "\u003cp\u003eC. Numerical values (e.g., 28.43, 79.11)\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53548",
+            "entry": {
+                "title": "ITEM_20170421176",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eDuring the past 36 months, the standard deviation of a portfolio’s monthly returns has been 4.9%. To test a claim that this portfolio’s investment strategy results in a standard deviation of monthly returns that is less than 5.0%, the value of the test statistic is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e87bf73f-f615-44f2-ae2b-bd0dbf6feb63"
+                },
+                "answerFeedback": {
+                    "a67c9974-0381-4c18-82fd-0a18a3ae5116": "\u003cp\u003eIncorrect. If using \u003cem\u003en\u003c/em\u003e as degrees of freedom instead of \u003cem\u003en\u003c/em\u003e − 1, that is\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e36\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.049\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.05\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e34.57\u003c/mn\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e",
+                    "bb32b879-348a-4c73-876f-a6a8aad900f2": "\u003cp\u003eIncorrect. If there is no squared to both \u003cem\u003es\u003c/em\u003e and σ.\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e36\u003c/mn\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.049\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.05\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e34.30\u003c/mn\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e",
+                    "e87bf73f-f615-44f2-ae2b-bd0dbf6feb63": "\u003cp\u003eCorrect. The most appropriate test is chi-square, with 36 − 1 = 35 degrees of freedom. The calculated test statistic is: \u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmi\u003eχ\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003en\u003c/mi\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmsup\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003eσ\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e36\u003c/mn\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.049\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.05\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e33.61\u003c/mn\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e\n\u003cp\u003ewhere\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eχ\u003csup\u003e2\u003c/sup\u003e = is the chi-square test statistic\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem\u003en\u003c/em\u003e = is the sample size\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem\u003es\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e = is the sample variance\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003eσ\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msubsup\u003e \u003c/mrow\u003e\u003c/math\u003e = the hypothesized value of the variance σ\u003csup\u003e2\u003c/sup\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bb32b879-348a-4c73-876f-a6a8aad900f2",
+                            "itemBody": "\u003cp\u003eA. 34.30.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e87bf73f-f615-44f2-ae2b-bd0dbf6feb63",
+                            "itemBody": "\u003cp\u003eB. 33.61.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a67c9974-0381-4c18-82fd-0a18a3ae5116",
+                            "itemBody": "\u003cp\u003eC. 34.57.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53549",
+            "entry": {
+                "title": "ITEM_20170421177",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA parametric test is \u003ci\u003emost likely\u003c/i\u003e preferred to a non-parametric test when:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3d2a36b7-7814-4a90-a111-14e8f1585923"
+                },
+                "answerFeedback": {
+                    "3d2a36b7-7814-4a90-a111-14e8f1585923": "\u003cp\u003eCorrect. A parametric test is more appropriate than a non-parametric one when an analyst is concerned with parameters whose validity depends on a definite set of assumptions—for example, assumptions about the distribution of the population producing the sample.\u003c/p\u003e",
+                    "dc3a5a13-aa8a-4c71-9e9b-b1d070055eb8": "\u003cp\u003eIncorrect. A nonparametric test is suitable for this case.\u003c/p\u003e",
+                    "e6df6430-132d-4132-a165-20099f70e633": "\u003cp\u003eIncorrect. A nonparametric test is also suitable for this.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "dc3a5a13-aa8a-4c71-9e9b-b1d070055eb8",
+                            "itemBody": "\u003cp\u003eA. the data are given in ratio or ordinal scale.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3d2a36b7-7814-4a90-a111-14e8f1585923",
+                            "itemBody": "\u003cp\u003eB. defined sets of assumptions are given.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e6df6430-132d-4132-a165-20099f70e633",
+                            "itemBody": "\u003cp\u003eC. the population is heavily skewed.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53550",
+            "entry": {
+                "title": "ITEM_20170421170",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost likely\u003c/i\u003e to be an explanation of the power of a test? The power of a test is the probability of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "944b6131-3cf9-4b42-ad02-69e60aab5830"
+                },
+                "answerFeedback": {
+                    "31967b85-db73-4e6a-b480-d9eb4d12181c": "\u003cp\u003eIncorrect. The power of a test is the probability of correctly rejecting the null—that is, the probability of rejecting the null when it is false. The probability of a Type I error is equal to the probability of rejecting the null when it is true and is also known as the level of significance. Therefore, it is not an explanation of the power of a test.\u003c/p\u003e",
+                    "944b6131-3cf9-4b42-ad02-69e60aab5830": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The power of a test is the probability of correctly rejecting the null—that is, the probability of rejecting the null when it is false.\u003c/p\u003e",
+                    "a2ff65df-0b50-4b34-9a65-cc4501d92e09": "\u003cp\u003eIncorrect. The power of a test is the probability of correctly rejecting the null—that is, the probability of rejecting the null when it is false. If the alternative is not accepted when it is false, it means that a true null hypothesis is not rejected. Therefore, the probability of not accepting the alternative when it is false is not an explanation of the power of a test.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "944b6131-3cf9-4b42-ad02-69e60aab5830",
+                            "itemBody": "\u003cp\u003eA. rejecting the null when it is false.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a2ff65df-0b50-4b34-9a65-cc4501d92e09",
+                            "itemBody": "\u003cp\u003eB. not accepting the alternative when it is false.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "31967b85-db73-4e6a-b480-d9eb4d12181c",
+                            "itemBody": "\u003cp\u003eC. a Type I error.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53551",
+            "entry": {
+                "title": "ITEM_CFA-L1-05900",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn hypothesis testing, which of the following \u003ci\u003ebest\u003c/i\u003e describes a Type II error?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1ab4218c-0147-4be5-90c2-96559c7b28ff"
+                },
+                "answerFeedback": {
+                    "1ab4218c-0147-4be5-90c2-96559c7b28ff": "\u003cp\u003eCorrect because, when we make a decision in a hypothesis test, we run the risk of making either a Type I or a Type II error. These are mutually exclusive errors: If we mistakenly reject the null hypothesis, we can only be making a Type I error; if we mistakenly fail to reject the null, we can only be making a Type II error.\u003c/p\u003e",
+                    "8256a74d-8163-4983-81c0-7a5dd82f2deb": "\u003cp\u003eIncorrect because rejecting a false null hypothesis is a correct decision and therefore not a Type II error.\u003c/p\u003e",
+                    "84d997ac-b9b2-4e44-ac72-268f75091bc0": "\u003cp\u003eIncorrect because if we mistakenly reject the null hypothesis, we can only be making a Type I error.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "84d997ac-b9b2-4e44-ac72-268f75091bc0",
+                            "itemBody": "\u003cp\u003eA. Rejecting a true null hypothesis\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8256a74d-8163-4983-81c0-7a5dd82f2deb",
+                            "itemBody": "\u003cp\u003eB. Rejecting a false null hypothesis\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1ab4218c-0147-4be5-90c2-96559c7b28ff",
+                            "itemBody": "\u003cp\u003eC. Failure to reject a false null hypothesis\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53552",
+            "entry": {
+                "title": "ITEM_CFA-L1-01376",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe probability of correctly rejecting a null hypothesis is \u003ci\u003ebest\u003c/i\u003e defined as the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "698770fc-ba07-4272-b2af-004e6ff387e2"
+                },
+                "answerFeedback": {
+                    "698770fc-ba07-4272-b2af-004e6ff387e2": "\u003cp\u003eCorrect because the \u003cstrong\u003epower of a test\u003c/strong\u003e is the probability of \u003cem\u003ecorrectly\u003c/em\u003e rejecting the null—that is, the probability of rejecting the null when it is false.\u003c/p\u003e",
+                    "8514c4d7-2c62-4595-bd65-4e8f62347aca": "\u003cp\u003eIncorrect because the \u003ci\u003ep\u003c/i\u003e-value is the smallest level of significance at which the null hypothesis can be rejected.\u003c/p\u003e",
+                    "d0cf1b54-11c2-4385-a21b-f40dd9d14899": "\u003cp\u003eIncorrect because the significance level of a test is the probability of rejecting a true null hypothesis (i.e., the probability of incorrectly rejecting a null hypothesis).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8514c4d7-2c62-4595-bd65-4e8f62347aca",
+                            "itemBody": "\u003cp\u003eA. \u003ci\u003ep\u003c/i\u003e-value.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "698770fc-ba07-4272-b2af-004e6ff387e2",
+                            "itemBody": "\u003cp\u003eB. power of the test.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d0cf1b54-11c2-4385-a21b-f40dd9d14899",
+                            "itemBody": "\u003cp\u003eC. level of significance.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53553",
+            "entry": {
+                "title": "ITEM_CFA-L1-00837",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe probability of correctly rejecting a false null hypothesis is \u003ci\u003ebest\u003c/i\u003e described as one minus the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "98554def-6695-4b8f-ad41-32790f2306ed"
+                },
+                "answerFeedback": {
+                    "2fbab368-9707-4957-af0b-d0b81aea245b": "\u003cp\u003eIncorrect because the power of the test is equal to one minus the probability of Type II error. The \u003ci\u003ep\u003c/i\u003e-value is a measure of Type I error and is synonymous with distracter B.\u0026nbsp;\u003c/p\u003e",
+                    "98554def-6695-4b8f-ad41-32790f2306ed": "\u003cp\u003eCorrect because the power of a test is the probability of correctly rejecting the null–that is, the probability of rejecting the null when it is false. Failing to reject the null hypothesis when it is false is a Type II error. So the power of the test is equal to one minus the probability of Type II error.\u003c/p\u003e",
+                    "ef50852c-941a-40ab-8425-20492b4dd036": "\u003cp\u003eIncorrect because the power of the test is equal to one minus the probability of Type II error. The \u003ci\u003ep\u003c/i\u003e-value is a measure of Type I error and is synonymous with distracter B.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2fbab368-9707-4957-af0b-d0b81aea245b",
+                            "itemBody": "\u003cp\u003eA. test statistic's \u003ci\u003ep\u003c/i\u003e-value.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ef50852c-941a-40ab-8425-20492b4dd036",
+                            "itemBody": "\u003cp\u003eB. probability of a Type I error.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "98554def-6695-4b8f-ad41-32790f2306ed",
+                            "itemBody": "\u003cp\u003eC. probability of a Type II error.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53554",
+            "entry": {
+                "title": "ITEM_CFA-L1-09467",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eTo test whether a population's mean, µ, is greater than zero, the alternative hypothesis should be formulated as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "334beba1-2e65-4285-aa57-3e8cb2b505a1"
+                },
+                "answerFeedback": {
+                    "334beba1-2e65-4285-aa57-3e8cb2b505a1": "\u003cp\u003eCorrect because despite the different ways to formulate hypotheses, we always conduct a test of the null hypothesis at the point of equality, θ = θ\u003csub\u003e0\u003c/sub\u003e. We may have a ‘suspected' or ‘hoped for' condition for which we want to find supportive evidence. In that case, we can formulate the alternative hypothesis as the statement that this condition is true; the null hypothesis that we test is the statement that this condition is not true.\u0026nbsp;Here, the “suspected” condition is that the population's mean is greater than zero (µ \u0026gt; 0).\u0026nbsp;\u003c/p\u003e",
+                    "e2bc0756-8291-48f4-a19d-dae46ba1081e": "\u003cp\u003eIncorrect because µ ≤ 0 is the null and not the alternative hypothesis in this test. We state the null and alternative hypotheses such that they account for all possible values of the parameter.\u0026nbsp;Since the alternative hypothesis is formulated using the “suspected” condition µ \u0026gt; 0, the null hypothesis should be formulated using the condition µ ≤ 0.\u0026nbsp;\u003c/p\u003e",
+                    "e3415e1c-05d6-4012-a469-e1fd57932c89": "\u003cp\u003eIncorrect because the “suspected” condition in this test is µ \u0026gt; 0, not µ ≥ 0. The best formulation of the alternative hypothesis uses the ‘suspected' or ‘hoped for' condition.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e2bc0756-8291-48f4-a19d-dae46ba1081e",
+                            "itemBody": "\u003cp\u003eA. µ ≤ 0.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e3415e1c-05d6-4012-a469-e1fd57932c89",
+                            "itemBody": "\u003cp\u003eB. µ ≥ 0.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "334beba1-2e65-4285-aa57-3e8cb2b505a1",
+                            "itemBody": "\u003cp\u003eC. µ \u0026gt; 0.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53555",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Quant-C.Zhang-16",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst examines 30 paired monthly returns for two stock indexes. To determine if the mean difference of the returns is zero, the number of degrees of freedom of the \u003ci\u003et\u003c/i\u003e-test is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "96aaba7d-9b78-4b92-8dd3-54e435507e5f"
+                },
+                "answerFeedback": {
+                    "603f15b6-a250-4e0a-a130-e51fffabdea3": "\u003cp\u003eIncorrect because this is the number of degrees of freedom of the\u0026nbsp;\u003ci\u003et\u003c/i\u003e-statistic for a hypothesis test concerning the equality of the population means of two independent samples, which\u0026nbsp;is \u003ci\u003en\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e + \u003ci\u003en\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e − 2. When both\u0026nbsp;\u003ci\u003en\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e\u0026nbsp;and\u0026nbsp;\u003ci\u003en\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e\u0026nbsp;is 30, the number of degrees of freedom\u0026nbsp;of the\u0026nbsp;\u003ci\u003et\u003c/i\u003e-statistic for a hypothesis test concerning the equality of the population means of two independent samples\u0026nbsp;is 30 + 30 − 2 = 58.\u0026nbsp;\u003c/p\u003e",
+                    "96aaba7d-9b78-4b92-8dd3-54e435507e5f": "\u003cp\u003eCorrect because the \u003ci\u003et\u003c/i\u003e-statistic for a paired comparisons test has \u003ci\u003en\u0026nbsp;\u003c/i\u003e– 1 degrees of\u0026nbsp;freedom, where \u003ci\u003en\u003c/i\u003e is the number of pairs of observations. When \u003ci\u003en\u003c/i\u003e = 30, the number of degrees of freedom is\u0026nbsp;30 – 1 = 29.\u003c/p\u003e",
+                    "b0b37403-ab3b-4d3c-9aab-97f4b7fa2135": "\u003cp\u003eIncorrect because the \u003ci\u003et\u003c/i\u003e-statistic for a paired comparisons test has \u003ci\u003en\u003c/i\u003e – 1 degrees of freedom, not \u003ci\u003en\u003c/i\u003e – 2 degrees of freedom, where \u003ci\u003en\u003c/i\u003e is the number of pairs of observations. When \u003ci\u003en\u003c/i\u003e = 30, the number of degrees of freedom is 30 – 1 = 29, not 30 – 2 = 28.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b0b37403-ab3b-4d3c-9aab-97f4b7fa2135",
+                            "itemBody": "\u003cp\u003eA. 28.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "96aaba7d-9b78-4b92-8dd3-54e435507e5f",
+                            "itemBody": "\u003cp\u003eB. 29.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "603f15b6-a250-4e0a-a130-e51fffabdea3",
+                            "itemBody": "\u003cp\u003eC. 58.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53556",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Quant-Ma-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst performs a\u0026nbsp;hypothesis test concerning the difference between the mean returns\u0026nbsp;of two portfolios, assuming normally distributed populations with unknown but equal variances. If the analyst decides\u0026nbsp;to change the hypothesized difference in mean returns from 0%\u0026nbsp;to 1%, which of the following will\u0026nbsp;change?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a8fd721b-2d2f-4a55-b1ab-2dec70c63a2c"
+                },
+                "answerFeedback": {
+                    "96954671-3343-450e-b865-e4aea980127c": "\u003cp\u003eIncorrect because \u003ci\u003es\u003csub\u003ep\u003c/sub\u003e\u003c/i\u003e\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;= ((\u003ci\u003en\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e\u0026nbsp;– 1)\u003ci\u003es\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;+ (\u003ci\u003en\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e\u0026nbsp;– 1)\u003ci\u003es\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e\u003csup\u003e2\u003c/sup\u003e)/(\u003ci\u003en\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e\u0026nbsp;+ \u003ci\u003en\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e\u0026nbsp;– 2) is a pooled estimator of the common variance. It is independent of the\u0026nbsp;hypothesized difference\u003ci\u003e μ\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e\u0026nbsp;–\u003ci\u003e μ\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e.\u0026nbsp;\u003c/p\u003e",
+                    "a8fd721b-2d2f-4a55-b1ab-2dec70c63a2c": "\u003cp\u003eCorrect because when\u0026nbsp;the unknown population variances are equal, a \u003ci\u003et\u003c/i\u003e-test based on independent random samples is given by\u0026nbsp;\u003ci\u003et\u003c/i\u003e = (\u003ci\u003eX\u003csub\u003e1\u003c/sub\u003e\u0026nbsp;–\u0026nbsp;X\u003csub\u003e2\u003c/sub\u003e\u0026nbsp;–\u0026nbsp;μ\u003csub\u003e1\u003c/sub\u003e\u0026nbsp;+\u0026nbsp;μ\u003csub\u003e2\u003c/sub\u003e\u003c/i\u003e)/(\u003ci\u003es\u003csub\u003ep\u003c/sub\u003e\u003csup\u003e2\u003c/sup\u003e/n\u003csub\u003e1\u003c/sub\u003e\u0026nbsp;+ s\u003csub\u003ep\u003c/sub\u003e\u003csup\u003e2\u003c/sup\u003e/n\u003csub\u003e2\u003c/sub\u003e)\u003csup\u003e½\u003c/sup\u003e\u003c/i\u003e\u0026nbsp;where\u0026nbsp;\u003ci\u003es\u003csub\u003ep\u003c/sub\u003e\u003c/i\u003e\u003csup\u003e\u003ci\u003e2\u003c/i\u003e\u0026nbsp;\u003c/sup\u003eis\u0026nbsp;a pooled estimator of the common variance.\u0026nbsp;Hence, a\u0026nbsp;change in hypothesized difference \u003ci\u003eμ\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e\u0026nbsp;– \u003ci\u003eμ\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e\u0026nbsp;will change the value of the test statistic.\u0026nbsp;\u003c/p\u003e",
+                    "e1757fba-00e0-47d2-b1ac-a3dc9a52a11c": "\u003cp\u003eIncorrect because the number of degrees of freedom is \u003ci\u003en\u003csub\u003e1\u003c/sub\u003e\u003c/i\u003e +\u003ci\u003e n\u003csub\u003e2\u003c/sub\u003e\u003c/i\u003e − 2 and it is independent of the\u0026nbsp;hypothesized difference\u003ci\u003e μ\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e\u0026nbsp;–\u003ci\u003e μ\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a8fd721b-2d2f-4a55-b1ab-2dec70c63a2c",
+                            "itemBody": "\u003cp\u003eA. The value of the test statistic\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e1757fba-00e0-47d2-b1ac-a3dc9a52a11c",
+                            "itemBody": "\u003cp\u003eB. The degrees of freedom used in the test\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "96954671-3343-450e-b865-e4aea980127c",
+                            "itemBody": "\u003cp\u003eC. The pooled estimate of the common population variance\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53557",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.09-Quant-Tomter-20",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFor a sample of 50 observations, in which of the following situations is\u0026nbsp;a nonparametric test \u003ci\u003eleast likely\u003c/i\u003e to be appropriate? The data:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1a43f9f7-bf27-489c-8bc1-8cade1367c30"
+                },
+                "answerFeedback": {
+                    "1a43f9f7-bf27-489c-8bc1-8cade1367c30": "\u003cp\u003eCorrect because a nonparametric test would be less appropriate compared to other answers as in this case a parametric test can be used. We may want to test a hypothesis concerning the mean of a population but believe that neither \u003ci\u003et\u003c/i\u003e- nor \u003ci\u003ez\u003c/i\u003e-distributed tests are appropriate because the sample is small and may come from a markedly non-normally distributed population. In that case, we may use a nonparametric test.\u0026nbsp;In our case, the data sample is large, thus a\u0026nbsp; parametric test can be used instead.\u003c/p\u003e",
+                    "bfda3b19-0db6-4404-848d-a9a38c5b5252": "\u003cp\u003eIncorrect because\u0026nbsp;we primarily use nonparametric procedures in four situations: (1) when the data we use do not meet distributional assumptions, (2) when there are outliers, (3) when the data are given in ranks or use an ordinal scale, or (4) when the hypotheses we are addressing do not concern a parameter.\u0026nbsp;This is one of the situations (situation 2) in which a nonparametric test would be appropriate.\u003c/p\u003e",
+                    "fb74beed-a098-4a92-ad9a-4f5feb93a6ad": "\u003cp\u003eIncorrect because we primarily use nonparametric procedures in four situations: (1) when the data we use do not meet distributional assumptions, (2) when there are outliers, (3) when the data are given in ranks or use an ordinal scale, or (4) when the hypotheses we are addressing do not concern a parameter.\u0026nbsp;This is one of the situations (situation 3) in which a nonparametric test would be appropriate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bfda3b19-0db6-4404-848d-a9a38c5b5252",
+                            "itemBody": "\u003cp\u003eA. contain\u0026nbsp;outliers.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fb74beed-a098-4a92-ad9a-4f5feb93a6ad",
+                            "itemBody": "\u003cp\u003eB. are given in ranks.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1a43f9f7-bf27-489c-8bc1-8cade1367c30",
+                            "itemBody": "\u003cp\u003eC. come from a population with a lognormal distribution.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 17,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8574,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4425,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54435",
+            "entry": {
+                "title": "ITEM_20170421047",
+                "feedback": {},
+                "itemBody": "\u003cp class=\"x_x_x_x_x_x_x_cfa-stem\"\u003eWhen testing a hypothesis, the power of a test is \u003ci\u003ebest\u003c/i\u003e described as the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ce3ec24a-9991-4d0f-b50b-1e63f561bbc9"
+                },
+                "answerFeedback": {
+                    "142b9217-775d-481f-ae2d-4abf24538e3c": "\u003cp\u003eIncorrect because this is the definition of Type I error.\u003c/p\u003e",
+                    "3eade674-593b-467a-bd3d-34db143d8a58": "\u003cp\u003eIncorrect because this is in fact a Type I error.\u003c/p\u003e",
+                    "ce3ec24a-9991-4d0f-b50b-1e63f561bbc9": "\u003cp\u003eCorrect because the power of a test is the probability of correctly rejecting the null hypothesis—that is, the probability of rejecting the null when it is false.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "142b9217-775d-481f-ae2d-4abf24538e3c",
+                            "itemBody": "\u003cp\u003eA. same as the level of significance of the test.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3eade674-593b-467a-bd3d-34db143d8a58",
+                            "itemBody": "\u003cp\u003eB. probability of rejecting a true null hypothesis.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ce3ec24a-9991-4d0f-b50b-1e63f561bbc9",
+                            "itemBody": "\u003cp\u003eC. probability of correctly rejecting the null hypothesis.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8774,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4629,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54436",
+            "entry": {
+                "title": "ITEM_20170421181",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA nonparametric test is \u003ci\u003emost\u003c/i\u003e appropriate when:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "22c89e3a-a64b-4d59-97e2-42d0509213e5"
+                },
+                "answerFeedback": {
+                    "22c89e3a-a64b-4d59-97e2-42d0509213e5": "\u003cp\u003eCorrect. A nonparametric test is used under three circumstances:\u003c/p\u003e\n\u003col style=\"list-style-type: decimal;\"\u003e\n\u003cli\u003ewhen the data do not meet distributional assumptions,\u003c/li\u003e\n\u003cli\u003ewhen the data are given in ranks, and\u003c/li\u003e\n\u003cli\u003ewhen the hypothesis does not concern a parameter.\u003c/li\u003e\n\u003c/ol\u003e",
+                    "66db3a5b-0236-4978-9606-94d9af607a30": "\u003cp\u003eIncorrect. Tests related to differences between means concern a parameter. Nonparametric tests are used when the data do not concern a parameter or the data do not meet distributional assumptions.\u003c/p\u003e",
+                    "6d83b2f7-1626-4e45-acf1-4daf25e405de": "\u003cp\u003eIncorrect. When the data meet distributional assumptions, a parametric test is used instead of a nonparametric test.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "66db3a5b-0236-4978-9606-94d9af607a30",
+                            "itemBody": "\u003cp\u003eA. comparing differences between means.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "22c89e3a-a64b-4d59-97e2-42d0509213e5",
+                            "itemBody": "\u003cp\u003eB. data are given in ranks.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6d83b2f7-1626-4e45-acf1-4daf25e405de",
+                            "itemBody": "\u003cp\u003eC. data meet distributional assumptions.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8774,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4629,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54437",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Quant-Chua-19",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAn analyst wants to test the mean difference between two normally distributed populations using dependent samples. If the population variances are unknown, the \u003ci\u003emost\u003c/i\u003e appropriate hypothesis test is a:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "df228102-948f-44d6-ac7e-4b378b96bc09"
+                },
+                "answerFeedback": {
+                    "096f2bd0-d366-4ad0-9e25-a3baf7b55170": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e\u003cspan style=\"font-size:16px\"\u003eIncorrect because in tests concerning the variance of a single normally distributed population, we make use of a chi-square test statistic, denoted χ\u003cspan style=\"vertical-align:3pt\"\u003e2\u003c/span\u003e.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "8727b426-73c7-4dc3-8890-39a50e6be706": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e\u003cspan style=\"font-size:16px\"\u003eIncorrect because when it is reasonable to believe that the samples are from populations at least approximately normally distributed and that the samples are also independent of each other, these\u0026nbsp;techniques\u0026nbsp;apply. \u003c/span\u003eWe discuss two\u0026nbsp;\u003ci\u003et\u003c/i\u003e-tests for a test concerning differences between the means of two populations.\u003cspan style=\"font-size:16px\"\u003e\u0026nbsp;The test of the difference between two population means, with population variances unknown but assumed equal, uses a \u003c/span\u003epooled estimator of the common variance\u003cspan style=\"font-size:16px\"\u003e.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "df228102-948f-44d6-ac7e-4b378b96bc09": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e\u003cspan style=\"font-size:16px\"\u003eCorrect because when we want to conduct tests on two means based on samples that we believe are dependent, these\u0026nbsp;methods apply. \u003c/span\u003e\u003cspan style=\"font-size:16px\"\u003eThe \u003ci style=\"font-family:\u0026quot;WarnockPro\u0026quot;; font-style:italic\"\u003et\u003c/i\u003e-test is based on data arranged in paired observations, and the test itself is sometimes called a paired comparisons test.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "096f2bd0-d366-4ad0-9e25-a3baf7b55170",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA. chi-square test.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "df228102-948f-44d6-ac7e-4b378b96bc09",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e\u003cspan style=\"font-size: 12pt;\"\u003eB. paired comparisons \u003ci\u003et\u003c/i\u003e-test.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8727b426-73c7-4dc3-8890-39a50e6be706",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e\u003cspan style=\"font-size: 12.0pt;\"\u003eC.\u003ci\u003e t\u003c/i\u003e-test with a pooled estimator of the common variance.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8774,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4629,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54438",
+            "entry": {
+                "title": "ITEM_CFA-L1-01380",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eWhich of the following test statistics is used when testing the variance of a single normally distributed population?\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "650af4da-a09d-484d-83a9-3440a5371e26"
+                },
+                "answerFeedback": {
+                    "2d5a1ca8-2948-48f5-9479-9ca3eb4f58c2": "\u003cp\u003eIncorrect because the \u003ci\u003ez\u003c/i\u003e-statistic is used for tests of a population's mean when the variance is known. The \u003ci\u003ez\u003c/i\u003e-statistic is not appropriate for tests concerning the variance of a single normally distributed population.\u0026nbsp;\u003c/p\u003e",
+                    "3d37eee6-e730-4d2d-9ec3-7c96ca0d9579": "\u003cp\u003eIncorrect because tests concerning the difference between the variances of two [normally distributed] populations make use of the \u003ci\u003eF\u003c/i\u003e-distribution.\u0026nbsp;The \u003ci\u003eF\u003c/i\u003e-statistic is not appropriate for tests concerning a single population variance.\u0026nbsp;\u003c/p\u003e",
+                    "650af4da-a09d-484d-83a9-3440a5371e26": "\u003cp\u003eCorrect because in tests concerning the variance of a single normally distributed population, we make use of a chi-square test statistic.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2d5a1ca8-2948-48f5-9479-9ca3eb4f58c2",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA. z-statistic\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3d37eee6-e730-4d2d-9ec3-7c96ca0d9579",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eB. F-statistic\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "650af4da-a09d-484d-83a9-3440a5371e26",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eC. Chi-square statistic\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8774,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4629,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54439",
+            "entry": {
+                "title": "ITEM_CFA-L1-09071",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAll else being equal, if an analyst specifies a smaller significance level for a hypothesis test, the probability of a Type II error:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b0063c9e-9d1f-43c9-a8cb-5d1c51da7348"
+                },
+                "answerFeedback": {
+                    "76923e71-ad72-420a-856f-2a13aa20c2f3": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eIncorrect because all else equal, if we decrease the probability of a Type I error by specifying a smaller significance level (say, 1% rather than 5%), we increase the probability of making a Type II error because we will reject the null less frequently, including when it is false.\u0026nbsp;A Type II error occurs when we fail to reject a false null hypothesis.\u003c/span\u003e\u003c/p\u003e",
+                    "851de547-6420-4385-af4b-7876fa19e6f9": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eIncorrect because all else equal, if we decrease the probability of a Type I error by specifying a smaller significance level (say, 1% rather than 5%), we increase the probability of making a Type II error because we will reject the null less frequently, including when it is false.\u0026nbsp;A Type II error occurs when we fail to reject a false null hypothesis.\u003c/span\u003e\u003c/p\u003e",
+                    "b0063c9e-9d1f-43c9-a8cb-5d1c51da7348": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eCorrect because all else equal, if we decrease the probability of a Type I error by specifying a smaller significance level (say, 1% rather than 5%), we increase the probability of making a Type II error because we will reject the null less frequently, including when it is false.\u0026nbsp;A Type II error occurs when we fail to reject a false null hypothesis.\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "76923e71-ad72-420a-856f-2a13aa20c2f3",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA. decreases.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "851de547-6420-4385-af4b-7876fa19e6f9",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eB. remains the same.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b0063c9e-9d1f-43c9-a8cb-5d1c51da7348",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eC. increases.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8774,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4629,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54440",
+            "entry": {
+                "title": "ITEM_CFA-L1-09019",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAn analyst gathers the following information about a random sample of salaries:\u003c/span\u003e\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 367px; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 237px; max-width: 237px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eSample size\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 122px; max-width: 122px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e64\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 237px; max-width: 237px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eSample mean\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 122px; max-width: 122px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e$32,000\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 237px; max-width: 237px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eSample standard deviation\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 122px; max-width: 122px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e$12,000\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eTo test the hypothesis that the mean salary of the underlying population is greater than $11,000, the appropriate test statistic is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1154d40e-9fe0-471c-a218-e5c63c6a579e"
+                },
+                "answerFeedback": {
+                    "1154d40e-9fe0-471c-a218-e5c63c6a579e": "\u003cp\u003eCorrect because the population variance is not given and so must be assumed to be unknown. Also, the sample size of 64 can be considered large. In general, a sample size of 30 or more usually can be treated as a large sample and a sample size of 29 or less is treated as a small sample.\u0026nbsp;In this case, the test statistic for hypothesis tests concerning a single population mean, µ, is \u003ci\u003et\u003csub\u003en\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e – 1\u003c/sub\u003e = (\u003ci\u003eX\u003c/i\u003e – µ\u003csub\u003e0\u003c/sub\u003e)/(\u003ci\u003es\u003c/i\u003e/√\u003ci\u003en\u003c/i\u003e), where \u003ci\u003et\u003csub\u003en\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e – 1\u003c/sub\u003e = \u003ci\u003et\u003c/i\u003e-statistic with \u003ci\u003en\u003c/i\u003e – 1 degrees of freedom (\u003ci\u003en\u003c/i\u003e is the sample size), \u003ci\u003eX\u003c/i\u003e = the sample mean, µ\u003csub\u003e0\u003c/sub\u003e = the hypothesized value of the population mean, \u003ci\u003es\u003c/i\u003e = the sample standard deviation. Thus, the appropriate test statistic to test if the mean salary is greater than $11,000 is \u003ci\u003et\u003c/i\u003e\u003csub\u003e63\u003c/sub\u003e = ($32,000 – $11,000)/($12,000/√64) = $21,000/$1,500 = 14.0.\u0026nbsp;\u003c/p\u003e",
+                    "607c464c-5671-401a-9d4c-0cb0124566c6": "\u003cp\u003eIncorrect because it does not subtract the hypothesized mean (µ\u003csub\u003e0\u003c/sub\u003e) from the sample mean (\u003ci\u003eX\u003c/i\u003e) in the correct calculation; $32,000/($12,000/√64) = $32,000/$1,500 = 21.33 ≈ 21.3.\u0026nbsp;\u003c/p\u003e",
+                    "6379a46b-9e3e-41e8-880f-ae4d23317c3c": "\u003cp\u003eIncorrect because it confuses the standard error (of the sample mean) with the sample standard deviation, i.e. it does not divide \u003ci\u003es\u003c/i\u003e by √\u003ci\u003en\u003c/i\u003e in the correct calculation; ($32,000 – $11,000)/$12,000 = $21,000/$12,000 = 1.75 ≈ 1.8.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6379a46b-9e3e-41e8-880f-ae4d23317c3c",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA. 1.8.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1154d40e-9fe0-471c-a218-e5c63c6a579e",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eB. 14.0.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "607c464c-5671-401a-9d4c-0cb0124566c6",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eC. 21.3.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8774,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4629,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {},
+    "scored_data": {
+        "points": 3,
+        "points_possible": 43
+    }
+}

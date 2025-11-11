@@ -1,0 +1,804 @@
+{
+    "user_id": 239466,
+    "quiz_id": 5988,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 12,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 6: Pricing and Valuation of Futures Contracts",
+        "topic_id": 1037,
+        "topic": "CFA-26-02-LI-C: Derivatives",
+        "subtopic_id": 5988,
+        "subtopic": "Module 6: Pricing and Valuation of Futures Contracts",
+        "question_count": 12,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 853,
+                "name": "Warehouse Course: Derivatives 26-LI",
+                "code": "Warehouse Course: Derivatives 26-LI",
+                "module_id": 4487,
+                "question_count": 6,
+                "type": "warehouse"
+            },
+            {
+                "id": 844,
+                "name": "Practice Pack Warehouse: Derivatives 26-LI",
+                "code": "Practice Pack Warehouse: Derivatives 26-LI",
+                "module_id": 4740,
+                "question_count": 6,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 12.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "5c131edcc805bfc4",
+        "ordered_item_ids": [
+            "56294",
+            "56295",
+            "56296",
+            "56297",
+            "56298",
+            "56299",
+            "51127",
+            "51128",
+            "51129",
+            "51130",
+            "51131",
+            "53930",
+            "53931"
+        ],
+        "visible_item_ids": [
+            "56294",
+            "56295",
+            "56296",
+            "56297",
+            "56298",
+            "56299",
+            "51127",
+            "51128",
+            "51129",
+            "51130",
+            "51131",
+            "53930",
+            "53931"
+        ]
+    },
+    "items": [
+        {
+            "id": "56294",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Derivs-Terry-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following derivatives realize a gain as the market reference rate rises above the initial fixed rate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "512fe137-fc2b-4bfe-91b3-44341a275300"
+                },
+                "answerFeedback": {
+                    "512fe137-fc2b-4bfe-91b3-44341a275300": "\u003cp\u003eCorrect because realizing a gain on the FRA contract as rates rise. Note that this would be equivalent to taking a short position on a CNY MRR futures contract if one were available.\u0026nbsp;A long FRA (i.e., FRA floating-rate receiver (fixed-rate payer)\u0026nbsp;position realizes a gain as MRR rises. A short futures contract price is based on (100 − yield), which gains as yield-to-maturity (MRR) rises.\u003c/p\u003e",
+                    "720e0ef4-c773-468a-8de3-b55c11910457": "\u003cp\u003eIncorrect because long forward rate agreements also gain from a rising market reference rate.\u003c/p\u003e",
+                    "82e43827-24ac-4f03-a515-991ce1e8713e": "\u003cp\u003eIncorrect because short interest rate futures contracts also gain from a rising market reference rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "82e43827-24ac-4f03-a515-991ce1e8713e",
+                            "itemBody": "\u003cp\u003eA. Long forward rate agreements only\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "720e0ef4-c773-468a-8de3-b55c11910457",
+                            "itemBody": "\u003cp\u003eB. Short interest rate futures contracts only\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "512fe137-fc2b-4bfe-91b3-44341a275300",
+                            "itemBody": "\u003cp\u003eC. Both long forward rate agreements and short interest rate futures contracts\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4740,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56295",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Simsek-15",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information:\u003c/p\u003e\u003cul\u003e\n\u003cli\u003eThe current spot price of crude oil is $120 per barrel.\u003c/li\u003e\n\u003cli\u003eThe risk-free rate is 3% with annual compounding.\u003c/li\u003e\n\u003cli\u003eA futures contract has 182 days until settlement.\u003c/li\u003e\n\u003cli\u003eThe storage cost is $5 per barrel, payable at the end of the futures contract.\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eBased on 365 days per year, the futures price per barrel of crude oil is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1965b390-0093-4661-b45f-4a07a341de2a"
+                },
+                "answerFeedback": {
+                    "1965b390-0093-4661-b45f-4a07a341de2a": "\u003cp\u003eCorrect because the futures price for a commodity with known storage cost amounts may be determined as:\u0026nbsp;f\u003csub\u003e0\u003c/sub\u003e(T) = [S\u003csub\u003e0\u003c/sub\u003e + PV\u003csub\u003e0\u003c/sub\u003e(C)]\u0026nbsp;× (1 + r)\u003csup\u003eT\u003c/sup\u003e.\u003c/p\u003e\u003cp\u003ePV\u003csub\u003e0\u003c/sub\u003e(C) = $5×(1 + 3%)\u003csup\u003e-182/365\u003c/sup\u003e.\u003c/p\u003e\u003cp\u003ef\u003csub\u003e0\u003c/sub\u003e(T) = [$120\u0026nbsp;+ $5×(1 + 3%)\u003csup\u003e-182/365\u003c/sup\u003e]×(1 + 3%)\u003csup\u003e182/365\u003c/sup\u003e\u0026nbsp;= $126.781768 ≈ $126.78.\u003c/p\u003e",
+                    "30148cb3-439f-4a56-a7b6-38f8805bdf63": "\u003cp\u003eIncorrect because it compounds the storage cost from today to settlement instead of discounting to find its present value since\u0026nbsp;the futures price for a commodity with known storage cost amounts may be determined as:\u0026nbsp;f\u003csub\u003e0\u003c/sub\u003e(T) = [S\u003csub\u003e0\u003c/sub\u003e + PV\u003csub\u003e0\u003c/sub\u003e(C)]\u0026nbsp;× (1 + r)\u003csup\u003eT\u003c/sup\u003e.\u003c/p\u003e\u003cp\u003eIf compounding is applied to the storage cost, it would be incorrectly assumed to be PV\u003csub\u003e0\u003c/sub\u003e(C) = $5\u0026nbsp;×\u0026nbsp;(1 + 3%)\u003csup\u003e182/365\u003c/sup\u003e.\u003c/p\u003e\u003cp\u003ef\u003csub\u003e0\u003c/sub\u003e(T) = [$120\u0026nbsp;+ $5\u0026nbsp;×\u0026nbsp;(1 + 3%)\u003csup\u003e182/365\u003c/sup\u003e]\u0026nbsp;× (1 + 3%)\u003csup\u003e182/365\u003c/sup\u003e\u0026nbsp;= $126.931351 ≈ $126.93.\u003c/p\u003e",
+                    "3118844e-7710-4d27-92bb-024eaa4429ef": "\u003cp\u003eIncorrect because it doesn't discount the storage cost from settlement day to today to find its present value since\u0026nbsp;the futures price for a commodity with known storage cost amounts may be determined as:\u0026nbsp;f\u003csub\u003e0\u003c/sub\u003e(T) = [S\u003csub\u003e0\u003c/sub\u003e + PV\u003csub\u003e0\u003c/sub\u003e(C)]\u0026nbsp;× (1 + r)\u003csup\u003eT\u003c/sup\u003e.\u003c/p\u003e\u003cp\u003eIf no discounting is applied to the storage cost, it would be incorrectly assumed to be PV\u003csub\u003e0\u003c/sub\u003e(C) = $5.\u003c/p\u003e\u003cp\u003ef\u003csub\u003e0\u003c/sub\u003e(T) = [$120\u0026nbsp;+ $5]\u0026nbsp;× (1 + 3%)\u003csup\u003e182/365\u003c/sup\u003e\u0026nbsp;= $126.856008 ≈ $126.86.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1965b390-0093-4661-b45f-4a07a341de2a",
+                            "itemBody": "\u003cp\u003eA. $126.78.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3118844e-7710-4d27-92bb-024eaa4429ef",
+                            "itemBody": "\u003cp\u003eB. $126.86.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "30148cb3-439f-4a56-a7b6-38f8805bdf63",
+                            "itemBody": "\u003cp\u003eC. $126.93.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4740,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56296",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Simsek-17",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following interest rate derivatives \u003ci\u003emost likely\u003c/i\u003e has the largest convexity bias?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f770c6d9-e57b-4e59-bc8f-0ce9f129b8c2"
+                },
+                "answerFeedback": {
+                    "aa7d9a95-4db5-4547-80b2-01671703127a": "\u003cp\u003eIncorrect because\u0026nbsp;the discounting feature of the FRA, which is not present in the futures contract, leads to a convexity bias that is greater for longer discounting periods.\u0026nbsp;Since the length of the discounting\u0026nbsp;period depends\u0026nbsp;on the maturity of the underlying market reference rate, 1-month market reference rate results in a shorter discounting period than the 3-month rate. Therefore, it will suffer\u0026nbsp;from a smaller convexity bias.\u003c/p\u003e",
+                    "d7a2ebd3-9460-410c-841d-1b624cc56fad": "\u003cp\u003eIncorrect because convexity bias does not exist in interest rate futures contracts since their prices are not based on discounting. The futures contract has a fixed linear payoff profile for a given basis point change.\u0026nbsp;On the other hand, the discounting feature of the FRA, which is not present in the futures contract, leads to a convexity bias that is greater for longer discounting periods.\u003c/p\u003e",
+                    "f770c6d9-e57b-4e59-bc8f-0ce9f129b8c2": "\u003cp\u003eCorrect because\u0026nbsp;the discounting feature of the FRA, which is not present in the futures contract, leads to a convexity bias that is greater for longer discounting periods. Since the length of the discounting\u0026nbsp;period depends\u0026nbsp;on the maturity of the underlying market reference rate, 3-month market reference rate results in a longer discounting period than the 1-month rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "aa7d9a95-4db5-4547-80b2-01671703127a",
+                            "itemBody": "\u003cp\u003eA. Forward rate agreement on a 1-month market reference rate\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f770c6d9-e57b-4e59-bc8f-0ce9f129b8c2",
+                            "itemBody": "\u003cp\u003eB. Forward rate agreement on a 3-month market reference rate\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d7a2ebd3-9460-410c-841d-1b624cc56fad",
+                            "itemBody": "\u003cp\u003eC. Interest rate futures contract\u0026nbsp;on a 3-month market reference rate\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4740,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56297",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Lee-07",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA futures contract’s:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e9458636-5aa6-45ed-89cc-577a2ece1924"
+                },
+                "answerFeedback": {
+                    "6a75a77d-6fa9-4716-9356-80e734115c6c": "\u003cp\u003eIncorrect because forward (not future) contract MTM is not settled until maturity.\u003c/p\u003e",
+                    "e7885c71-bca9-4988-8f85-1e0405dfc242": "\u003cp\u003eIncorrect because the forward price, F\u003csub\u003e0\u003c/sub\u003e(T), is constant until the contract matures, whereas the futures price, f\u003csub\u003e0\u003c/sub\u003e(T), fluctuates daily based upon market changes.\u003c/p\u003e",
+                    "e9458636-5aa6-45ed-89cc-577a2ece1924": "\u003cp\u003eCorrect because the daily settlement mechanism resets the futures MTM to zero, and variation margin is exchanged to settle the difference, reducing counterparty credit risk.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6a75a77d-6fa9-4716-9356-80e734115c6c",
+                            "itemBody": "\u003cp\u003eA. mark-to-market is not settled until maturity.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e7885c71-bca9-4988-8f85-1e0405dfc242",
+                            "itemBody": "\u003cp\u003eB. price remains fixed until the contract matures.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e9458636-5aa6-45ed-89cc-577a2ece1924",
+                            "itemBody": "\u003cp\u003eC. variation margin reduces counterparty credit risk.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4740,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56298",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Deriv-Gottschalk-25",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe differential between forward and futures prices is determined by which of the following?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "43112d56-8d54-4efa-810c-3320f27e3102"
+                },
+                "answerFeedback": {
+                    "235a425a-df73-457b-905e-f1d8e83b0fa8": "\u003cp\u003eIncorrect because the differential between forward and futures prices is determined by both the correlation between futures prices and interest rates, and by interest rate volatility, as described in the response rationale for the correct answer.\u003c/p\u003e",
+                    "43112d56-8d54-4efa-810c-3320f27e3102": "\u003cp\u003eCorrect because the different patterns of cash flows for forwards and futures can lead to a difference in the pricing of forwards versus futures. Forward and futures prices are identical under certain conditions, namely:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eif interest rates are constant, or\u003c/li\u003e\n\u003cli\u003eif futures prices and interest rates are uncorrelated.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eOn the other hand, violations of these assumptions can give rise to differences in pricing between these two contracts. For example, if futures prices are positively correlated with interest rates, long futures contracts are more attractive than long forward positions for the same underlying and maturity. The reason is because rising prices lead to futures profits that are reinvested in periods of rising interest rates, and falling prices lead to losses that occur in periods of falling interest rates. The price differential will also vary with the volatility of interest rates. Therefore, the differential between forward and futures prices is determined by both interest rate volatility and the correlation between futures prices and interest rates.\u003c/p\u003e",
+                    "a7727947-57d1-4c14-a440-6356abfce374": "\u003cp\u003eIncorrect because the differential between forward and futures prices is determined by both the correlation between futures prices and interest rates, and by interest rate volatility, as described in the response rationale for the correct answer.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a7727947-57d1-4c14-a440-6356abfce374",
+                            "itemBody": "\u003cp\u003eA. Interest rate volatility only\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "235a425a-df73-457b-905e-f1d8e83b0fa8",
+                            "itemBody": "\u003cp\u003eB. The correlation between futures prices and interest rates only\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "43112d56-8d54-4efa-810c-3320f27e3102",
+                            "itemBody": "\u003cp\u003eC. Both interest rate volatility and\u0026nbsp;the correlation between futures prices and interest rates\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4740,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56299",
+            "entry": {
+                "title": "ITEM_CFA-L1-09538",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eAll else being equal, the price of a forward contract is \u003ci\u003emost likely\u003c/i\u003e higher than the price of a futures contract if interest rates are:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b7f320dc-0db2-49a0-a770-85da7e2b6dc0"
+                },
+                "answerFeedback": {
+                    "b408dac7-0875-4057-b2c7-29ea84a05111": "\u003cp\u003eIncorrect because if futures prices are positively correlated with interest rates, futures contracts are more desirable to holders of long positions than are forwards. The more desirable contract will tend to have the higher price.\u0026nbsp;Therefore, the price of the futures contract is higher than the price of the forward contract, and not the other way around, if interest rates are positively correlated with futures prices.\u0026nbsp;\u003c/p\u003e",
+                    "b7f320dc-0db2-49a0-a770-85da7e2b6dc0": "\u003cp\u003eCorrect because a\u0026nbsp;negative correlation between futures prices and interest rates leads to\u0026nbsp;forwards being more desirable than futures to the long position. The reason is that rising prices lead to futures profits that are reinvested in periods of falling interest rates, and falling prices lead to losses that occur in periods of rising interest rates. It is far better to receive all cash flows at expiration under such conditions than to receive them in the interim periods. This condition makes forwards more attractive than futures. The more desirable contract will tend to have the higher price.\u0026nbsp;Therefore, the price of the forward contract is higher than the price of the futures contract on the same underlying when interest rates are negatively correlated with futures prices.\u0026nbsp;\u003c/p\u003e",
+                    "fe1c1f78-b23c-4427-832e-a72005943fc1": "\u003cp\u003eIncorrect because if futures prices and interest rates are uncorrelated, forwards and futures prices will be the same.\u0026nbsp;Therefore, the price of the forward contract is not higher than the price of the futures contract if interest rates are uncorrelated with futures prices.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b7f320dc-0db2-49a0-a770-85da7e2b6dc0",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003enegatively correlated with futures prices.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fe1c1f78-b23c-4427-832e-a72005943fc1",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003euncorrelated with futures prices.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b408dac7-0875-4057-b2c7-29ea84a05111",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003epositively correlated with futures prices.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8979,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4740,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51127",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAce Limited is a financial intermediary active in both futures and forward markets. You have been hired as an investment consultant and asked to review Ace’s activities and answer the following questions.\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8261,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4487,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51128",
+            "entry": {
+                "title": "CFA0929-s07-Q6",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The CTA will face a margin call if the copper contract price falls by more than $4,000, or $0.16 (= $4,000/25,000) per pound. We may solve for the price at which the CTA receives a margin call by first solving for the initial futures contract price, \u003cem\u003ef\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e), at contract inception as follows:\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0929-s07-E-2-\"\u003e\n                  \u003cem\u003ef\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e) = [\u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e + PV\u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eC\u003c/em\u003e)] (1 + \u003cem\u003er\u003c/em\u003e)\u003cem\u003e\n                     \u003csup\u003eT\u003c/sup\u003e\n                  \u003c/em\u003e.\u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSolve for PV\u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eC\u003c/em\u003e) per pound as follows:\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0929-s07-E-2-___1\"\u003ePV\u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eC\u003c/em\u003e) = $9.98 (= $10[1.01875\u003csup\u003e–(1/12)\u003c/sup\u003e]).\u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSubstitute PV\u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eC\u003c/em\u003e) = $9.98 into Equation 4 to solve for \u003cem\u003ef\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e):\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0929-s07-E-2-___2\"\u003e\n                  \u003cem\u003ef\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e) = [($4.25 × 25,000) + $9.98](1.01875 \u003csup\u003e-(1/12)\u003c/sup\u003e)\u003c/div\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA0929-s07-E-2-___3\"\u003e\n                  \u003cem\u003ef\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e) = $106,425 per contract (≈ $4.257 per pound).\u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSo, $106,425 − $4,000 = $102,425 per contract, and $4.257 − $0.16 = $4.10 per pound.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect as it assumes there is no maintenance margin, and while C may be true under some circumstances, the change in \u003cem\u003eA\u003c/em\u003e is immediate (occurs at trade inception).\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAce serves as a futures commission merchant to assist several of its commodity trading adviser (CTA) clients to clear and settle their futures margin positions with the futures exchange. Ace is reviewing the copper futures market for a CTA client considering a long copper futures position for the first time. Details of the copper futures market are as follows:\u003c/p\u003e\n\u003cdiv id=\"CFA0929-s07-T-2-a\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\u003ccaption style=\"font-family: Arial, sans-serif; font-size: 18pt !important; line-height: 1.5; padding: 15px; margin-bottom: 20px; background-color: inherit !important; border-top: 2px solid #CCCCCC; border-bottom: none !important; border-right: none; border-left: none;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003e\u003cspan style=\"display: block;\"\u003eCME Copper Futures Contract Specifications\u003c/span\u003e\u003c/caption\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eContract Maturities:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eMonthly [from 1 month to 15 months]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eContract Size:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e25,000 pounds\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eDelivery Type:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCash settled\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003ePrice Quotation:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e$ per pound\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eInitial Margin:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e$10,000 per contract\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eMaintenance Margin:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e$6,000 per contract\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eFinal Maturity:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eLast CME business day of contract month\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eDaily Settlement:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCME Trading Operations calculates daily settlement values based on its published procedures\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eToday’s copper spot price is $4.25 per pound, and the constant risk-free rate is 1.875%. Each contract has a $10 storage cost payable at the end of the month. Which of the following statements best characterizes the margin exposure profile of Ace’s CTA client if it enters a one-month copper futures contract?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5f4dc89e-b3ed-4f0b-96f1-1bb20dbc8bfe"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5f4dc89e-b3ed-4f0b-96f1-1bb20dbc8bfe",
+                            "itemBody": "A. The CTA will be expected to post $10,000 initial margin and would receive a margin call if the copper futures price were to immediately fall below $4.10 per pound or below a price of $102,425 per contract.",
+                            "position": 1
+                        },
+                        {
+                            "id": "ed87f333-2ee9-4c00-9274-01eabfc955e3",
+                            "itemBody": "B. The CTA would be expected to post $10,000 in initial margin and would receive a margin call at any time over the life of the contract if the copper futures price were to immediately fall below $3.86 per pound or below a price of $96,425 per contract.",
+                            "position": 2
+                        },
+                        {
+                            "id": "8a056739-945b-4344-aeff-d2659702cbc4",
+                            "itemBody": "C. The CTA will be expected to post $10,000 initial margin, but we cannot determine the exact futures price at which a margin call will occur as the futures MTM is settled each day and the contract value resets to zero.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8261,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4487,
+            "stimulusQuizEntryId": "51127"
+        },
+        {
+            "id": "51129",
+            "entry": {
+                "title": "CFA0929-s07-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The long investor client forward position with Ace benefits from an MTM gain on its forward contract with Ace, but no cash is exchanged until maturity. Ace receives a deposit in its futures margin account equal to the daily MTM futures contract gain, which if spot and futures prices change by approximately the same amount will be equal to €1,500 (€15 × 100).\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eOne of Ace’s investor clients has entered a long six-month forward transaction with Ace on 100 shares of Xenaliya (XLYA), a non-dividend-paying technology stock. The stock’s spot price per share, \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e, is €85, and the risk-free rate is a constant 1% for all maturities. Ace has hedged the client transaction with a long six-month XLYA futures contract at a price \u003cem\u003ef\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e) of €85.42 and posted initial margin of €1,000. Three months after the forward and futures contracts are initiated, XYLA announces a strategic partnership with a major global technology firm, and its spot share price jumps €15 on the day’s trading to close at €123.\u003c/p\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements best characterizes the impact of the day’s trading on the MTM value of the forward versus the futures contract?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "317b384a-634f-4659-8748-63f6d628f048"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f6a936d5-c354-4860-b5b4-8f82d6b39532",
+                            "itemBody": "A. Ace’s client realizes an MTM gain of approximately €1,500 (= €15 × 100) on its margin account, which Ace must deposit at the end of the day to cover its margin call.",
+                            "position": 1
+                        },
+                        {
+                            "id": "317b384a-634f-4659-8748-63f6d628f048",
+                            "itemBody": "B. Ace’s client benefits from an MTM unrealized gain on its forward contract with Ace, and Ace has a corresponding MTM gain of approximately €1,500 (= €15 × 100) deposited in its margin account by the exchange.",
+                            "position": 2
+                        },
+                        {
+                            "id": "7f421924-244e-46b5-a034-1dd9bdbf39fc",
+                            "itemBody": "C. Because Ace has entered a hedge of its client’s long forward position on XLYA by executing a futures contract with otherwise identical terms, the two contract MTM values exactly offset one another and no cash is exchanged on either transaction.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8261,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4487,
+            "stimulusQuizEntryId": "51127"
+        },
+        {
+            "id": "51130",
+            "entry": {
+                "title": "CFA0929-s07-Q8",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e1. C is correct. The futures contract price changes daily based upon a (yield − 100) quoting convention, so its price will increase as yields fall and vice versa. The fixed rate on an FRA does not change for the life of the contract.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e2. A is correct. An FRA fixed-rate payer (floating-rate receiver) will realize a gain on the contract upon settlement (equal to the present value of the difference between the fixed rate and MRR multiplied by the contract notional over the specified interest period) if MRR settles above the initial fixed rate on the contract.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e3. B is correct. If the MRR settles above the initial forward commitment rate at maturity, the FRA fixed-rate payer has an MTM loss on the contract.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIdentify which of the following corresponds to which description.\u003c/p\u003e\n\u003cdiv id=\"CFA0929-s07-T-3-b\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"1\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e1. Long interest rate futures position\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eA. Results in a gain when MRR settles above the initial forward commitment rate at maturity\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2. Pay fixed (receive floating) FRA contract\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eB. Results in a loss when MRR settles above the initial forward commitment rate at maturity\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e3. Receive fixed (pay floating) FRA contract\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eC. Has a forward commitment price that will increase as short-term interest rates fall\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8261,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4487,
+            "stimulusQuizEntryId": "51127"
+        },
+        {
+            "id": "51131",
+            "entry": {
+                "title": "CFA0929-s07-Q9",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Mandatory central clearing requirements impose margin requirements on financial intermediaries similar to those of standardized exchange-traded futures markets, who often pass these costs and/or requirements on to their clients. Answers A and B are incorrect, as the MTM gains on the forward contracts are not realized until maturity.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAce’s investor clients usually use OTC forward transactions that Ace must clear with a central counterparty. Which of the following statements related to the impact on Ace from clearing these positions is most accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "875f1b4c-70f2-4023-941c-a752732fff11"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ef7dae0f-1236-48da-a4b4-2d257942e3e9",
+                            "itemBody": "A. If Ace’s counterparties enter long forward contracts whose prices are positively correlated with interest rates, Ace will have to post more collateral to central counterparties than for otherwise similar futures contracts, since rising prices will lead to counterparty MTM gains reinvested at higher rates.",
+                            "position": 1
+                        },
+                        {
+                            "id": "ed7a7d75-e1cd-4c94-a074-5ebe122ce8f4",
+                            "itemBody": "B. If Ace’s counterparties enter short forward contracts whose prices are negatively correlated with interest rates, Ace will have to post less collateral to central counterparties than for otherwise similar futures contracts, since falling prices will lead to counterparty MTM gains reinvested at higher rates.",
+                            "position": 2
+                        },
+                        {
+                            "id": "875f1b4c-70f2-4023-941c-a752732fff11",
+                            "itemBody": "C. Since Ace is required to post collateral (cash or highly liquid securities) to the central counterparty to clear its client forward transactions, Ace will face similar margining requirements to those of standardized exchange-traded futures markets.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8261,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4487,
+            "stimulusQuizEntryId": "51127"
+        },
+        {
+            "id": "53930",
+            "entry": {
+                "title": "ITEM_20170601023",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe pricing of forwards and futures will \u003ci\u003emost likely\u003c/i\u003e differ if:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "adf94b0f-3474-422b-9b04-fcca783448b5"
+                },
+                "answerFeedback": {
+                    "989371fe-3021-4ede-a841-4411cb3e9efb": "\u003cp\u003eIncorrect. If interest rates exhibit zero volatility, the pricing of forwards and futures will be identical.\u003c/p\u003e",
+                    "adf94b0f-3474-422b-9b04-fcca783448b5": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The pricing of forwards and futures will differ if futures prices and interest rates are negatively correlated. A negative correlation between futures prices and interest rates makes forwards more desirable than futures in the long position.\u003c/p\u003e",
+                    "b535d3c0-ba91-4d3f-aeff-af3d17b1e37b": "\u003cp\u003eIncorrect. If futures prices and interest rates are uncorrelated, the pricing of forwards and futures will be identical.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "989371fe-3021-4ede-a841-4411cb3e9efb",
+                            "itemBody": "\u003cp\u003eA. interest rates exhibit zero volatility.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b535d3c0-ba91-4d3f-aeff-af3d17b1e37b",
+                            "itemBody": "\u003cp\u003eB. futures prices and interest rates are uncorrelated.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "adf94b0f-3474-422b-9b04-fcca783448b5",
+                            "itemBody": "\u003cp\u003eC. futures prices and interest rates are negatively correlated.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8692,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4487,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53931",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Garcia-Huidobro-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eLong futures contracts are more attractive than long forward positions for the same underlying and maturity when futures prices and interest rates are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "60d0ffb7-4e14-4894-ab3f-b6d5bfe39077"
+                },
+                "answerFeedback": {
+                    "0b6a6a47-003c-4b2e-b112-8b6e594d2254": "\u003cp\u003eIncorrect because\u0026nbsp;the different patterns of cash flows for forwards and futures can lead to a difference in the pricing of forwards versus futures\u0026nbsp;and if futures prices are positively correlated with interest rates, long futures contracts are more attractive than long forward positions for the same underlying and maturity. The reason is because rising prices lead to futures profits that are reinvested in periods of rising interest rates, and falling prices lead to losses that occur in periods of falling interest rates the more desirable contract will tend to have the higher price.\u003c/p\u003e",
+                    "60d0ffb7-4e14-4894-ab3f-b6d5bfe39077": "\u003cp\u003eCorrect because the different patterns of cash flows for forwards and futures can lead to a difference in the pricing of forwards versus futures\u0026nbsp;and\u0026nbsp;if futures prices are positively correlated with interest rates, long futures contracts are more attractive than long forward positions for the same underlying and maturity. The reason is because rising prices lead to futures profits that are reinvested in periods of rising interest rates, and falling prices lead to losses that occur in periods of falling interest rates the more desirable contract will tend to have the higher price.\u003c/p\u003e",
+                    "70dc239c-dcae-4dab-8882-ea95607f7d3f": "\u003cp\u003eIncorrect because\u0026nbsp;the different patterns of cash flows for forwards and futures can lead to a difference in the pricing of forwards versus futures\u0026nbsp;and if futures prices are positively correlated with interest rates, long futures contracts are more attractive than long forward positions for the same underlying and maturity. The reason is because rising prices lead to futures profits that are reinvested in periods of rising interest rates, and falling prices lead to losses that occur in periods of falling interest rates\u0026nbsp;the more desirable contract will tend to have the higher price.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "70dc239c-dcae-4dab-8882-ea95607f7d3f",
+                            "itemBody": "\u003cp\u003eA. negatively correlated.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0b6a6a47-003c-4b2e-b112-8b6e594d2254",
+                            "itemBody": "\u003cp\u003eB. uncorrelated.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "60d0ffb7-4e14-4894-ab3f-b6d5bfe39077",
+                            "itemBody": "\u003cp\u003eC. positively correlated.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8692,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4487,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

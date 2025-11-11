@@ -1,0 +1,831 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6390,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 13,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 14: Credit Risk",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6390,
+        "subtopic": "Module 14: Credit Risk",
+        "question_count": 13,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4476,
+                "question_count": 8,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4693,
+                "question_count": 5,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 13.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "04cc8a59b922c2cf",
+        "ordered_item_ids": [
+            "55090",
+            "55091",
+            "55092",
+            "55093",
+            "55094",
+            "51168",
+            "51169",
+            "51170",
+            "51171",
+            "51172",
+            "51173",
+            "53837",
+            "53838"
+        ],
+        "visible_item_ids": [
+            "55090",
+            "55091",
+            "55092",
+            "55093",
+            "55094",
+            "51168",
+            "51169",
+            "51170",
+            "51171",
+            "51172",
+            "51173",
+            "53837",
+            "53838"
+        ]
+    },
+    "items": [
+        {
+            "id": "55090",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Berlinicke-07",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFor a bond investment, loss severity is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "683c8f46-694e-4ed3-a1d6-c7a36abd1155"
+                },
+                "answerFeedback": {
+                    "5aee96f2-9d08-43f6-b0d2-fb506d27d81e": "\u003cp\u003eIncorrect because loss severity is often expressed as (1 − Recovery rate), where the recovery rate is the percentage of the principal amount recovered in the event of default.\u003c/p\u003e",
+                    "5b6d7bfa-3933-4b29-b2f7-33be81e8f9cd": "\u003cp\u003eIncorrect because loss severity is most relevant for lower-quality debt issuers. Because default risk (default probability) is quite low for most high-quality debt issuers, bond investors tend to focus primarily on assessing this probability and devote less effort to assessing the potential loss severity arising from default.\u003c/p\u003e",
+                    "683c8f46-694e-4ed3-a1d6-c7a36abd1155": "\u003cp\u003eCorrect because Expected loss = Default probability × Loss severity given default.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5aee96f2-9d08-43f6-b0d2-fb506d27d81e",
+                            "itemBody": "\u003cp\u003eA. independent of the recovery rate.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "683c8f46-694e-4ed3-a1d6-c7a36abd1155",
+                            "itemBody": "\u003cp\u003eB. used in the calculation of the expected loss.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "5b6d7bfa-3933-4b29-b2f7-33be81e8f9cd",
+                            "itemBody": "\u003cp\u003eC. the primary focus when assessing the creditworthiness of high-quality issuers.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8884,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4693,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55091",
+            "entry": {
+                "title": "ITEM_CFA-L1-10544",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll else being equal, an investment-grade bond issuer \u003ci\u003emost likely \u003c/i\u003ehas:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "39f3992f-d07d-41d7-9c1a-4071eb7ae1b4"
+                },
+                "answerFeedback": {
+                    "3893207b-1aa7-4bd2-a726-7b0df5af321a": "\u003cp\u003eIncorrect because the lower the quality of the issuer, the higher the market liquidity risk. In this case the investment grade borrower has less market liquidity risk, not the same.\u0026nbsp;\u003c/p\u003e",
+                    "39f3992f-d07d-41d7-9c1a-4071eb7ae1b4": "\u003cp\u003eCorrect because market liquidity risk is the risk that the price at which investors can actually transact—buying or selling—may differ from the price indicated in the market. The lower the quality of the issuer, the higher the market liquidity risk.\u003c/p\u003e",
+                    "fcadc430-019b-47a5-bf18-3fec9277358c": "\u003cp\u003eIncorrect because the lower the quality of the issuer, the higher the market liquidity risk.\u0026nbsp;In this case the investment grade borrower has less market liquidity risk, not more.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "39f3992f-d07d-41d7-9c1a-4071eb7ae1b4",
+                            "itemBody": "\u003cp\u003eA. less market liquidity risk than a below-investment-grade issuer.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3893207b-1aa7-4bd2-a726-7b0df5af321a",
+                            "itemBody": "\u003cp\u003eB. the same market liquidity risk as a below-investment-grade issuer.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "fcadc430-019b-47a5-bf18-3fec9277358c",
+                            "itemBody": "\u003cp\u003eC. greater market liquidity risk than a below-investment-grade issuer.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8884,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4693,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55092",
+            "entry": {
+                "title": "ITEM_CFA-L1-08021",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFor an option-free fixed-rate corporate bond, the duration and convexity statistics are \u003ci\u003emost likely\u003c/i\u003e relevant for a change in:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "168e843f-ef11-4de0-a89a-68c43b23f0fb"
+                },
+                "answerFeedback": {
+                    "168e843f-ef11-4de0-a89a-68c43b23f0fb": "\u003cp\u003eCorrect because the key point is that for an option-free fixed-rate bond, the same duration and convexity statistics that apply for a change in benchmark yield also apply for a change in spread.\u003c/p\u003e",
+                    "87a6a84a-f137-4cea-bde3-1c17d8415f50": "\u003cp\u003eIncorrect because the yield-to-maturity on a corporate bond consists of a government \u003ci\u003ebenchmark \u003c/i\u003eyield and a \u003ci\u003espread\u003c/i\u003e, a change in the bond’s yield-to-maturity can originate in either component or a combination of the two. The key point is that for an option-free fixed-rate bond, the same duration and convexity statistics that apply for a change in benchmark yield also apply for a change in spread.\u003c/p\u003e",
+                    "8d2f06ba-bf67-4c03-902b-62fc733ce43b": "\u003cp\u003eIncorrect because the yield-to-maturity on a corporate bond consists of a government \u003ci\u003ebenchmark \u003c/i\u003eyield and a \u003ci\u003espread\u003c/i\u003e, a change in the bond’s yield-to-maturity can originate in either component or a combination of the two. The key point is that for an option-free fixed-rate bond, the same duration and convexity statistics that apply for a change in benchmark yield also apply for a change in spread.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8d2f06ba-bf67-4c03-902b-62fc733ce43b",
+                            "itemBody": "\u003cp\u003eA. the credit spread only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "87a6a84a-f137-4cea-bde3-1c17d8415f50",
+                            "itemBody": "\u003cp\u003eB. the benchmark yield only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "168e843f-ef11-4de0-a89a-68c43b23f0fb",
+                            "itemBody": "\u003cp\u003eC. both the credit spread and the benchmark yield.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8884,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4693,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55093",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-FI-Su-07",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eTightening corporate bond yield spreads are \u003ci\u003emost likely\u003c/i\u003e associated with:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b7894cd0-30f9-42a1-b2c3-585b1379f548"
+                },
+                "answerFeedback": {
+                    "b7894cd0-30f9-42a1-b2c3-585b1379f548": "\u003cp\u003eCorrect because in periods of high demand for bonds, spreads will move tighter.\u003c/p\u003e",
+                    "e13e6318-9647-48f2-9f88-e8d23535f90a": "\u003cp\u003eIncorrect because yield spreads widen based on two primary factors: (1) a decline in an issuer’s creditworthiness, sometimes referred to as credit migration or downgrade risk, and (2) an increase in\u003cb\u003e \u003c/b\u003emarket liquidity risk. Most markets bonds trade primarily over the counter, through broker-dealers trading for their own accounts. Their ability and willingness to make markets, as reflected in the bid-ask spread, is an important determinant of market liquidity risk.\u003c/p\u003e",
+                    "e53e7c1c-025e-48de-af2c-1ba473dfdcb0": "\u003cp\u003eIncorrect because yield spreads widen based on two primary factors: (1) a decline in an issuer’s creditworthiness, sometimes referred to as credit migration or downgrade risk, and (2) an increase in market liquidity risk.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e53e7c1c-025e-48de-af2c-1ba473dfdcb0",
+                            "itemBody": "\u003cp\u003eA. issuers’ deteriorating\u0026nbsp;creditworthiness.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b7894cd0-30f9-42a1-b2c3-585b1379f548",
+                            "itemBody": "\u003cp\u003eB. periods of high demand for corporate bonds.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e13e6318-9647-48f2-9f88-e8d23535f90a",
+                            "itemBody": "\u003cp\u003eC. broker-dealers' reduced ability and willingness to make markets.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8884,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4693,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55094",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Moustra-21",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll else being equal, expected loss for a debt instrument:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "de1cd88a-3bda-43fb-a885-bc4717ae1385"
+                },
+                "answerFeedback": {
+                    "470dd42c-44bb-486b-ba4f-ee17f7cf7049": "\u003cp\u003eIncorrect because Expected loss =\u0026nbsp;Default probability\u0026nbsp;× (1\u0026nbsp;– Recovery rate). Since expected loss is\u0026nbsp;affected by changes in the recovery rate, it is not independent of the recovery rate.\u003c/p\u003e",
+                    "87c1e16d-db16-4e72-8849-87f075a32e36": "\u003cp\u003eIncorrect because the relationship Expected loss =\u0026nbsp;Default probability\u0026nbsp;× (1\u0026nbsp;– Recovery rate) implies\u0026nbsp;that expected loss increases when the recovery rate decreases and vice versa, hence it does not change proportionally to the recovery rate.\u003c/p\u003e",
+                    "de1cd88a-3bda-43fb-a885-bc4717ae1385": "\u003cp\u003eCorrect because Expected loss = Default probability\u0026nbsp;× Loss severity given default, where loss severity\u0026nbsp;is often expressed as (1 –\u0026nbsp;Recovery rate), where the recovery rate is the percentage of the principal amount recovered in the event of default.\u0026nbsp;Thus expected loss can also be written as Expected loss =\u0026nbsp;Default probability\u0026nbsp;× (1\u0026nbsp;– Recovery rate), which means that the higher the recovery rate, the lower the expected loss.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "470dd42c-44bb-486b-ba4f-ee17f7cf7049",
+                            "itemBody": "\u003cp\u003eA. is independent of the recovery rate.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "de1cd88a-3bda-43fb-a885-bc4717ae1385",
+                            "itemBody": "\u003cp\u003eB. decreases as the recovery rate increases.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "87c1e16d-db16-4e72-8849-87f075a32e36",
+                            "itemBody": "\u003cp\u003eC. changes proportionally to the recovery rate.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8884,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4693,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51168",
+            "entry": {
+                "title": "CFA2444-R-s04-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n               \u003cstrong\u003eCredit migration risk (or downgrade risk)\u003c/strong\u003e is the risk that a bond issuer’s creditworthiness deteriorates, leading investors to believe the risk of default is \u003cstrong\u003ehigher\u003c/strong\u003e and causing the yield spreads on the issuer’s bonds to \u003cstrong\u003ewiden\u003c/strong\u003e and the price of its bonds to \u003cstrong\u003efall\u003c/strong\u003e.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n               \u003cem\u003eDetermine the correct answers to fill in the blanks:\u003c/em\u003e\n               \u003cspan class=\"answer\"\u003e____________\u003c/span\u003e is the risk that a bond issuer’s creditworthiness deteriorates, leading investors to believe the risk of default is \u003cspan class=\"answer\"\u003e__________\u003c/span\u003e and causing the yield spreads on the issuer’s bonds to \u003cspan class=\"answer\"\u003e_________\u003c/span\u003e and the price of its bonds to \u003cspan class=\"answer\"\u003e_______\u003c/span\u003e.\u003c/p\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8243,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4476,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51169",
+            "entry": {
+                "title": "CFA2444-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eHere we may use Equation 1 to solve for POD:\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2444-R-s04-E___18\"\u003eEL = POD × (EE – Collateral) × (1 – RR).\u003c/div\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSubstituting in the values provided:\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2444-R-s04-E___19\"\u003eUSD2,500 = POD × (USD150,000)×(1 – 0.95)\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2444-R-s04-E___20\"\u003ePOD = USD2,500/(USD150,000 ×0.05) = 0.33 = 33%.\u003c/div\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn uncollateralized USD200,000 note has the following characteristics:\u003c/p\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eRecovery rate 95%\u003c/p\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eExposure at default USD150,000\u003c/p\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf the note’s expected loss in the event of default is USD2,500, its probability of default is \u003cem\u003eclosest to:\u003c/em\u003e\n            \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a1f92889-93cd-4285-9aa8-5fcdae5230ba"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7aec0d00-c68f-4cd8-95fc-2ebe95303b7d",
+                            "itemBody": "A. 15%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "92f1a73f-c2aa-475a-b8fc-fb57a82c23ae",
+                            "itemBody": "B. 25%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "a1f92889-93cd-4285-9aa8-5fcdae5230ba",
+                            "itemBody": "C. 33%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8243,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4476,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51170",
+            "entry": {
+                "title": "CFA2444-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhile the likelihood of default for IG borrowers is typically \u003cstrong\u003ebelow\u003c/strong\u003e that of an HY issuer, an investor’s loss in the event of a default for secured debt is usually \u003cstrong\u003elower\u003c/strong\u003e than unsecured debt due to the secondary source of repayment.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n               \u003cem\u003eDetermine the correct answers to fill in the blanks:\u003c/em\u003e While the likelihood of default for IG borrowers is typically \u003cspan class=\"answer\"\u003e__________\u003c/span\u003e that of an HY issuer, an investor’s loss in the event of a default for secured debt is usually \u003cspan class=\"answer\"\u003e__________\u003c/span\u003e than unsecured debt due to the secondary source of repayment.\u003c/p\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8243,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4476,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51171",
+            "entry": {
+                "title": "CFA2444-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. We can compare Bond 1 and Bond 2 by calculating the expected loss for each and comparing it to the annual spread:\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2444-R-s04-E___21\"\u003eEL = POD × LGD\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2444-R-s04-E___22\"\u003eCredit Spread ≈ POD × LGD\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2444-R-s04-E___23\"\u003e\n               \u003cem\u003eBond 1:\u003c/em\u003e EL = 0.938% (= 1.25% × 75%)\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2444-R-s04-E___24\"\u003eSpread − EL = 6.2 bps (= 1.00% − 0.938%).\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2444-R-s04-E___25\"\u003e\n               \u003cem\u003eBond 2:\u003c/em\u003e EL = 0.935% (= 1.1% × 85%)\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2444-R-s04-E___26\"\u003eSpread − EL = 1.5 bps (=0.95% − 0.935%).\u003c/div\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn investor should therefore choose Bond 1 given its higher expected return versus credit risk. A is incorrect as it fails to take the LGD into account. B is incorrect as although Bond 1 earns a 1.5 bps spread above the expected annual loss, it is less than the additional 6.2 bps spread above the expected loss earned by purchasing Bond 1.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA bond investor is considering the credit risk components and observed yield spreads for two IG bonds of similar maturity and liquidity:\u003c/p\u003e\n\u003cdiv id=\"CFA2444-R-s04-Te\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: top; padding: 8px;\" scope=\"col\"\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003ePOD\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eLGD\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eYield Spread \u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eBond 1\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.25%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e75%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e100 bps\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eBond 2\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.1%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e85%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e95 bps\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following conclusions about the relationship between these bonds is most correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a723ceb5-1f2c-4585-b788-a8d7be4ee574"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f819241c-db4e-4636-8003-0e2334383386",
+                            "itemBody": "A. An investor should be indifferent between purchasing Bond 1 and Bond 2, since Bond 1’s higher spread is sufficient compensation for the higher POD versus Bond 2.",
+                            "position": 1
+                        },
+                        {
+                            "id": "e29d6e19-2e89-4d05-a4d3-5f4e11882f00",
+                            "itemBody": "B. An investor should prefer Bond 2 over Bond 1, since they may earn a spread that is more than sufficient for assuming the credit risk.",
+                            "position": 2
+                        },
+                        {
+                            "id": "a723ceb5-1f2c-4585-b788-a8d7be4ee574",
+                            "itemBody": "C. An investor should prefer Bond 1 over Bond 2, since it offers the highest spread relative to the expected loss.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8243,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4476,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51172",
+            "entry": {
+                "title": "CFA2444-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. While answers A and B are both true, they are not a pitfall of sole reliance on credit ratings when making bond investments.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ePitfalls of relying solely on credit ratings when making bond investment decisions may be best described as the following:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "18f1a175-9bda-40df-9935-e4cc0abfdf17"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c1865e1c-dc23-445c-8785-1a59817cfd96",
+                            "itemBody": "A. Rating agencies may change their rating in response to changing market and credit conditions for a given issuer.",
+                            "position": 1
+                        },
+                        {
+                            "id": "b2e3d740-271c-4c1d-8d31-558e6df58c87",
+                            "itemBody": "B. Credit agencies may issue a positive or negative outlook for an issuer as credit risk rises or falls, but a rating change is not yet warranted.",
+                            "position": 2
+                        },
+                        {
+                            "id": "18f1a175-9bda-40df-9935-e4cc0abfdf17",
+                            "itemBody": "C. Ratings may involve miscalculations or unforeseen changes not fully captured in a rating agency’s forward-looking analysis.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8243,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4476,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51173",
+            "entry": {
+                "title": "CFA2444-R-s04-Q11",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. Equation 4 estimates bond price changes based on duration, convexity, and changes in spread:\u003c/p\u003e\n\u003cdiv id=\"CFA2444-R-s04-E-7-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e%∆PV\u003csup\u003eFull\u003c/sup\u003e = −(AnnModDur × ∆Spread) + ½AnnConvexity × (∆Spread)\u003csup\u003e2\u003c/sup\u003e.\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWith ModDur = 7 and reported convexity 0.51, making the necessary convexity re-scaling and substituting in values to solve for spread results in\u003c/p\u003e\n\u003cdiv id=\"CFA2444-R-s04-E-7-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e0.0993 = −(7 x ∆Spread) + ½ (51) (∆Spread)\u003csup\u003e2\u003c/sup\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2444-R-s04-E-7-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e∆Spread =-0.0135 = -1.35%.\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eLower spreads make the first expression in the equation positive, along with the equation’s second convexity-based term. The answer must therefore involve a decline in spreads as in answers A and B. However, B is incorrect since it fails to rescale convexity.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn investment-grade bond with modified duration of 7 and reported convexity of 0.51 increases in price by 9.93% after a yield spread change. The value of the spread change would be \u003cem\u003eclosest to:\u003c/em\u003e\n            \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "cd36b89c-756b-4ea4-94dd-11f207333e42"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "cd36b89c-756b-4ea4-94dd-11f207333e42",
+                            "itemBody": "A. −1.5%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "4b616c5b-2778-4725-b50e-57f165a94a0f",
+                            "itemBody": "B. 0.15%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "e9bf809f-ad2d-451a-a2b0-69c7c7a0cc37",
+                            "itemBody": "C. 1.5%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8243,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4476,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53837",
+            "entry": {
+                "title": "ITEM_20170607001",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCredit spreads are \u003ci\u003emost likely\u003c/i\u003e to narrow during:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a80ad1cb-c72c-42a1-b7ef-f9323b28f738"
+                },
+                "answerFeedback": {
+                    "9515a0f7-8b0f-46fc-a069-5fba71422ebc": "\u003cp\u003eIncorrect. During a flight to quality investors sell corporate and buy treasuries thereby widening the credit spread on corporates.\u003c/p\u003e",
+                    "a80ad1cb-c72c-42a1-b7ef-f9323b28f738": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Credit spreads narrow during economic expansions and widen during economic contractions. During an economic expansion, corporate revenues and cash flows rise, making it easier for corporations to service their debt, and investors purchase corporates instead of Treasuries, causing spreads to narrow.\u003c/p\u003e",
+                    "b09c618a-7052-4dd4-b639-c07648866c9a": "\u003cp\u003eIncorrect. Credit spreads narrow during economic expansions and widen during economic contractions.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a80ad1cb-c72c-42a1-b7ef-f9323b28f738",
+                            "itemBody": "\u003cp\u003eA. economic expansions.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b09c618a-7052-4dd4-b639-c07648866c9a",
+                            "itemBody": "\u003cp\u003eB. economic contractions.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9515a0f7-8b0f-46fc-a069-5fba71422ebc",
+                            "itemBody": "\u003cp\u003eC. a period of flight to quality.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8670,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4476,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53838",
+            "entry": {
+                "title": "ITEM_20170607009",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhat type of risk \u003ci\u003emost likely\u003c/i\u003e affects an investor’s ability to buy and sell bonds in the desired amounts and at the desired time?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8a0482cb-6a64-4c5e-bd63-5c936cde937a"
+                },
+                "answerFeedback": {
+                    "8a0482cb-6a64-4c5e-bd63-5c936cde937a": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The size of the spread between the bid price and the ask price is the primary measure of market liquidity of the issue. Market liquidity risk is the risk that the investor will have to sell a bond below its indicated value. The wider the bid–ask spread, the greater the market liquidity risk.\u003c/p\u003e",
+                    "8bb390aa-68ed-433f-862a-a818f7a26d9c": "\u003cp\u003eIncorrect because spread risk is the risk that spreads widen.\u003c/p\u003e",
+                    "dbcab0f8-ed75-499d-86e0-6ebb40d38b14": "\u003cp\u003eIncorrect because default risk is the risk the borrower defaults.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8bb390aa-68ed-433f-862a-a818f7a26d9c",
+                            "itemBody": "\u003cp\u003eA. Spread\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "dbcab0f8-ed75-499d-86e0-6ebb40d38b14",
+                            "itemBody": "\u003cp\u003eB. Default\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8a0482cb-6a64-4c5e-bd63-5c936cde937a",
+                            "itemBody": "\u003cp\u003eC. Market liquidity\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8670,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4476,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

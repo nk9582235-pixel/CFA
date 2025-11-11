@@ -1,0 +1,1437 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6373,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 23,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 9: The Term Structure of Interest Rates: Spot, Par, and Forward Curves",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6373,
+        "subtopic": "Module 9: The Term Structure of Interest Rates: Spot, Par, and Forward Curves",
+        "question_count": 23,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4471,
+                "question_count": 15,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4688,
+                "question_count": 8,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 23.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "4288754941a4ec05",
+        "ordered_item_ids": [
+            "55053",
+            "55054",
+            "55055",
+            "55056",
+            "55057",
+            "55058",
+            "55059",
+            "55060",
+            "51182",
+            "51183",
+            "51184",
+            "51185",
+            "51186",
+            "51187",
+            "51188",
+            "51189",
+            "51190",
+            "51191",
+            "53816",
+            "53817",
+            "53818",
+            "53819",
+            "53820",
+            "53821"
+        ],
+        "visible_item_ids": [
+            "55053",
+            "55054",
+            "55055",
+            "55056",
+            "55057",
+            "55058",
+            "55059",
+            "55060",
+            "51182",
+            "51183",
+            "51184",
+            "51185",
+            "51186",
+            "51187",
+            "51188",
+            "51189",
+            "51190",
+            "51191",
+            "53816",
+            "53817",
+            "53818",
+            "53819",
+            "53820",
+            "53821"
+        ]
+    },
+    "items": [
+        {
+            "id": "55053",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Barker-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about spot rates:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eTime to Maturity\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eSequence 1\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eSequence 2\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e1 year\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e2.0%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e4.7%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e2 years\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e3.5%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e3.5%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e3 years\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e4.7%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e2.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eFor a 3-year, 2% annual coupon payment bond, the price using Sequence\u0026nbsp;1 is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5084068e-ccff-43d5-9491-2e73350e4dc4"
+                },
+                "answerFeedback": {
+                    "000c8726-1c2c-4152-94c6-9fc29d619d43": "\u003cp\u003eIncorrect because for Sequence 1, applying this formula, the bond price is: (2/1.02) + (2/1.0712) + (102/1.1477) = 1.9608 + 1.8670 + 88.871\u0026nbsp;≈ 92.70.\u003c/p\u003e\u003cp\u003eFor Sequence 2, the bond price is: (2/1.047) + (2/1.712) + (102/1.0612) = 1.9608\u0026nbsp;+ 1.8674\u0026nbsp;+ 96.1169\u0026nbsp;≈ 99.89.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\u003cp\u003eThe bond price using Sequence 1 is less than the price using Sequence 2.\u0026nbsp;\u003c/p\u003e",
+                    "5084068e-ccff-43d5-9491-2e73350e4dc4": "\u003cp\u003eCorrect because the formula to calculate a bond price given a sequence of spot rates is the following:\u0026nbsp;\u003ci\u003ePV =\u003c/i\u003e(\u003ci\u003ePMT\u0026nbsp;\u003c/i\u003e/ (1+\u003ci\u003eZ\u003csub\u003e1\u003c/sub\u003e\u003c/i\u003e)\u003csup\u003e1\u003c/sup\u003e) +\u0026nbsp;(\u003ci\u003ePMT\u0026nbsp;\u003c/i\u003e/ (1+\u003ci\u003eZ\u003csub\u003e\u003cspan style=\"font-size:12px\"\u003e2\u003c/span\u003e\u003c/sub\u003e\u003c/i\u003e)\u003csup\u003e\u003cspan style=\"font-size:12px\"\u003e2\u003c/span\u003e\u003c/sup\u003e) +\u0026nbsp;… +\u0026nbsp;(\u003ci\u003ePMT +\u0026nbsp;\u003c/i\u003eFV) / (1+\u003ci\u003eZ\u003csub\u003e\u003cspan style=\"font-size:12px\"\u003eN\u003c/span\u003e\u003c/sub\u003e\u003c/i\u003e)\u003ci\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/i\u003e), where\u003cbr\u003e\u003ci\u003eZ\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e = spot rate, or zero-coupon yield, or zero rate, for Period 1\u003cbr\u003e\u003ci\u003eZ\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e = spot rate, or zero-coupon yield, or zero rate, for Period 2\u003cbr\u003e\u003ci\u003eZ\u003c/i\u003e\u003csub\u003eN\u003c/sub\u003e = spot rate, or zero-coupon yield, or zero rate, for Period N.\u0026nbsp;\u003c/p\u003e\u003cp\u003eFor Sequence 1, applying this formula, the bond price is: (2/1.02) + (2/1.0712) + (102/1.1477) = 1.9608 + 1.8670 + 88.871\u0026nbsp;≈ 92.70.\u003c/p\u003e\u003cp\u003eFor Sequence 2, the bond price is: (2/1.047) + (2/1.712) + (102/1.0612) = 1.9608\u0026nbsp;+ 1.8674\u0026nbsp;+ 96.1169\u0026nbsp;≈ 99.89.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\u003cp\u003eThe bond price using Sequence 1 is less than the price using Sequence 2.\u0026nbsp;\u003c/p\u003e",
+                    "6a911eb8-a641-491a-bd13-64d594ed758d": "\u003cp\u003eIncorrect because for Sequence 1, applying this formula, the bond price is: (2/1.02) + (2/1.0712) + (102/1.1477) = 1.9608 + 1.8670 + 88.871\u0026nbsp;≈ 92.70.\u003c/p\u003e\u003cp\u003eFor Sequence 2, the bond price is: (2/1.047) + (2/1.712) + (102/1.0612) = 1.9608\u0026nbsp;+ 1.8674\u0026nbsp;+ 96.1169\u0026nbsp;≈ 99.89.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\u003cp\u003eThe bond price using Sequence 1 is less than the price using Sequence 2.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5084068e-ccff-43d5-9491-2e73350e4dc4",
+                            "itemBody": "\u003cp\u003eA. less than the price using Sequence\u0026nbsp;2.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "000c8726-1c2c-4152-94c6-9fc29d619d43",
+                            "itemBody": "\u003cp\u003eB. the same as the price using Sequence\u0026nbsp;2.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6a911eb8-a641-491a-bd13-64d594ed758d",
+                            "itemBody": "\u003cp\u003eC. greater than the price using Sequence 2.\u0026nbsp;\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8874,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4688,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55054",
+            "entry": {
+                "title": "ITEM_CFA-L1-11014",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eImplied forward rates are \u003ci\u003ebest\u003c/i\u003e defined as the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f4a2647b-8332-4d97-9627-c7eae3ef395c"
+                },
+                "answerFeedback": {
+                    "1f4cf22d-5d5e-4377-87a5-6485009b87a4": "\u003cp\u003eIncorrect because the spot curve can be calculated as the geometric average of the forward rates.\u003c/p\u003e",
+                    "788e0c9b-9de6-49a9-996c-b797f834a482": "\u003cp\u003eIncorrect because spot rates are yields-to-maturity on zero-coupon bonds maturing at the date of each cash flow.\u003c/p\u003e",
+                    "f4a2647b-8332-4d97-9627-c7eae3ef395c": "\u003cp\u003eCorrect because implied forward rates (also known as forward yields) are calculated from spot rates. An implied forward rate is a break-even reinvestment rate.\u0026nbsp;When the market is in equilibrium (no arbitrage) the implied forward rate is the same as the forward rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1f4cf22d-5d5e-4377-87a5-6485009b87a4",
+                            "itemBody": "\u003cp\u003eA. geometric average of spot rates.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f4a2647b-8332-4d97-9627-c7eae3ef395c",
+                            "itemBody": "\u003cp\u003eB. breakeven reinvestment rates between zero-coupon bonds.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "788e0c9b-9de6-49a9-996c-b797f834a482",
+                            "itemBody": "\u003cp\u003eC. current yield to maturity on zero-coupon bonds of different maturities.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8874,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4688,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55055",
+            "entry": {
+                "title": "ITEM_CFA-L1-09667",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about a spot curve:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: center;\" scope=\"colgroup\"\u003e\u003cstrong\u003eTerm to Maturity\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center;\" scope=\"colgroup\"\u003e\u003cstrong\u003eSpot Rate\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e1 year\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e6%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e2 years\u003c/td\u003e\n\u003ctd style=\"width: 106px; text-align: center; max-width: 106px;\"\u003e5%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e3 years\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e4%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf the coupon rate of a 3-year annual-pay bond is 4%, the price of the bond is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "df4fd7e0-df20-4953-ab99-cd9dba73dd9b"
+                },
+                "answerFeedback": {
+                    "17325bb3-d764-464c-8ace-21a603eb938b": "\u003cp\u003eIncorrect because the price of the bond is calculated using the 3-year spot rate as discount rate for all cash flows. Hence, PV ≠ 4/(1 + 0.04)\u003csup\u003e1\u003c/sup\u003e + 4/(1 + 0.04)\u003csup\u003e2\u003c/sup\u003e + (4 + 100)/(1 + 0.04)\u003csup\u003e3\u003c/sup\u003e = 4/1.04 + 4/1.0816 + 104/1.1249 = 3.8461+ 3.6982+ 92.4527 = 99.9969 ≈ 100.00.\u0026nbsp;\u003c/p\u003e",
+                    "df4fd7e0-df20-4953-ab99-cd9dba73dd9b": "\u003cp\u003eCorrect because given the spot rates, the price of a bond can be calculated using the following formula: \u003ci\u003ePV\u003c/i\u003e = [\u003ci\u003ePMT\u003c/i\u003e/(1 + \u003ci\u003eZ\u003csub\u003e1\u003c/sub\u003e\u003c/i\u003e)\u003csup\u003e1\u003c/sup\u003e + \u003ci\u003ePMT\u003c/i\u003e/(1 + \u003ci\u003eZ\u003csub\u003e2\u003c/sub\u003e\u003c/i\u003e)\u003csup\u003e2\u003c/sup\u003e + …+ (\u003ci\u003ePMT\u003c/i\u003e + \u003ci\u003eFV\u003c/i\u003e)/(1 + \u003ci\u003eZ\u003csub\u003eN\u003c/sub\u003e\u003c/i\u003e)\u003ci\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/i\u003e] Hence, PV = 4/(1 + 0.06)\u003csup\u003e1\u003c/sup\u003e + 4/(1 + 0.05)\u003csup\u003e2\u003c/sup\u003e + (4 + 100)/(1 + 0.04)\u003csup\u003e3\u003c/sup\u003e = 4/1.06 + 4/1.1025 + 104/1.1249 = 3.77358+ 3.62812 + 92.4556 = 99.8573 ≈ 99.86.\u0026nbsp;\u003c/p\u003e",
+                    "e613403c-54ef-4452-85cc-0448d6f0de70": "\u003cp\u003eIncorrect because the price of the bond is calculated using as discount rates the average of the spot rates; (6% + 5% +4%)/3 = 15%/3= 5%. Hence,\u003c/p\u003e\u003cp\u003ePV ≠ 4/(1.05)\u003csup\u003e1\u003c/sup\u003e + 4/(1.05)\u003csup\u003e2\u003c/sup\u003e + 104/(1.05)\u003csup\u003e3\u003c/sup\u003e = 4/1.05 + 4/1.1025 + 104/1.157625 = 3.8095+ 3.6281 + 89.8391= 97.276 ≈ 97.28.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e613403c-54ef-4452-85cc-0448d6f0de70",
+                            "itemBody": "\u003cp\u003eA. 97.28.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "df4fd7e0-df20-4953-ab99-cd9dba73dd9b",
+                            "itemBody": "\u003cp\u003eB. 99.86.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "17325bb3-d764-464c-8ace-21a603eb938b",
+                            "itemBody": "\u003cp\u003eC. 100.00.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8874,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4688,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55056",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FI-Garcia-Huidobro-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA bond trading at its no-arbitrage value is priced at a premium. The sum of the present value of the bond's cash flows discounted at spot rates is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "03d55030-d61c-4693-be6e-0c6746d998d2"
+                },
+                "answerFeedback": {
+                    "033c1c30-0756-4694-afc7-11e32d924600": "\u003cp\u003eIncorrect because bond price (or value) determined using the spot rates is sometimes referred to as the bond’s 'no-arbitrage value'.\u003c/p\u003e\u003cp\u003eIf the current market price equals the no-arbitrage value, discounting the cash flows by either spot rates or yield to maturity arrives to the same price. The level of the current market price vis a vis par has no bearing the no-arbitrage value.\u003c/p\u003e",
+                    "03d55030-d61c-4693-be6e-0c6746d998d2": "\u003cp\u003eCorrect because bond price (or value) determined using the spot rates is sometimes referred to as the bond’s 'no-arbitrage value'.\u003c/p\u003e\u003cp\u003eIf the current market price equals the 'no-arbitrage value, discounting the cash flows by\u0026nbsp;either spot rates or yield to maturity arrives to the same price.\u003c/p\u003e",
+                    "da7ff724-34ac-4e0e-ad60-a0c2a480549d": "\u003cp\u003eIncorrect because the bond price (or value) determined using the spot rates is sometimes referred to as the bond’s 'no-arbitrage value'.\u003c/p\u003e\u003cp\u003eIf the current market price equals the no-arbitrage value, discounting the cash flows by\u0026nbsp;either spot rates or yield to maturity arrives to the same price. The level of the current market price vis a vis par has no bearing the no-arbitrage value.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "da7ff724-34ac-4e0e-ad60-a0c2a480549d",
+                            "itemBody": "\u003cp\u003eA. less\u0026nbsp;than the sum of the present values of the bond's cash flows discounted at its yield to maturity.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "03d55030-d61c-4693-be6e-0c6746d998d2",
+                            "itemBody": "\u003cp\u003eB. equal to the sum of the\u0026nbsp;present values of the bond's cash flows discounted at its yield to maturity.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "033c1c30-0756-4694-afc7-11e32d924600",
+                            "itemBody": "\u003cp\u003eC. greater than the sum of the present values of the bond's cash flows discounted at its yield to maturity.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8874,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4688,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55057",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FI-Mazur-16",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following spot and forward rates:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e2-year spot rate\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e1.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e4-year spot rate\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e2.5%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e4-year forward rate, two years from today\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e3.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe 2-year forward rate, four\u0026nbsp;years from today is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0b30e22c-663f-4261-be48-6ba68d98d2f2"
+                },
+                "answerFeedback": {
+                    "0b30e22c-663f-4261-be48-6ba68d98d2f2": "\u003cp\u003eCorrect because the general formula for the relationship between two spot rates and the implied forward rate is:\u0026nbsp;(1 + z\u003csub\u003eA\u003c/sub\u003e)\u003csup\u003eA\u003c/sup\u003e\u0026nbsp;× (1 + IFR\u003csub\u003eA,B-A\u003c/sub\u003e)\u003csup\u003eB-A\u0026nbsp;\u003c/sup\u003e=\u0026nbsp;(1 + z\u003csub\u003eB\u003c/sub\u003e)\u003csup\u003eB\u003c/sup\u003e,\u0026nbsp;where z\u003csub\u003ex\u0026nbsp;\u003c/sub\u003eis the x-year spot rate and IFR\u003csub\u003ex,y\u003c/sub\u003e\u0026nbsp;is the y-year forward rate, x years from now. Using the formula, the 6 year spot rate can be calculated in two different ways:\u003c/p\u003e\u003cp\u003e1. Using A = 2, B = 6: (1 + z\u003csub\u003e6\u003c/sub\u003e)\u003csup\u003e6\u0026nbsp;\u003c/sup\u003e= (1 + z\u003csub\u003e2\u003c/sub\u003e)\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;× (1 + IFR\u003csub\u003e2,4\u003c/sub\u003e)\u003csup\u003e4\u0026nbsp;\u003c/sup\u003e\u003c/p\u003e\u003cp\u003e2. Using A = 4, B = 6: (1 + z\u003csub\u003e6\u003c/sub\u003e)\u003csup\u003e6\u0026nbsp;\u003c/sup\u003e= (1 + z\u003csub\u003e4\u003c/sub\u003e)\u003csup\u003e4\u003c/sup\u003e\u0026nbsp;× (1 + IFR\u003csub\u003e4,2\u003c/sub\u003e)\u003csup\u003e2\u0026nbsp;\u003c/sup\u003e\u003c/p\u003e\u003cp\u003eEquating the two we get:\u0026nbsp;(1 + z\u003csub\u003e2\u003c/sub\u003e)\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;× (1 + IFR\u003csub\u003e2,4\u003c/sub\u003e)\u003csup\u003e4 \u003c/sup\u003e= (1 + z\u003csub\u003e4\u003c/sub\u003e)\u003csup\u003e4\u003c/sup\u003e\u0026nbsp;× (1 + IFR\u003csub\u003e4,2\u003c/sub\u003e)\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;. Using the numbers from the stem:\u003c/p\u003e\u003cp\u003e(1 + 0.01)\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;× (1 + 0.03)\u003csup\u003e4\u003c/sup\u003e\u0026nbsp;= (1 + 0.025)\u003csup\u003e4\u003c/sup\u003e\u0026nbsp;× (1 + IFR\u003csub\u003e4,2\u003c/sub\u003e)\u003csup\u003e2\u003c/sup\u003e\u003c/p\u003e\u003cp\u003e1.0201 × 1.1255 = 1.1038\u0026nbsp;×\u0026nbsp;(1 + IFR\u003csub\u003e4,2\u003c/sub\u003e)\u003csup\u003e2\u003c/sup\u003e\u003c/p\u003e\u003cp\u003e⇒\u0026nbsp;IFR\u003csub\u003e4,2\u003c/sub\u003e\u0026nbsp;= (1.1481/1.1038)\u003csup\u003e0.5\u0026nbsp;\u003c/sup\u003e– 1 = 0.0199\u0026nbsp;≈ 2%.\u003c/p\u003e",
+                    "8ef09aab-2494-42bc-bf86-8c84714d9311": "\u003cp\u003eIncorrect because instead of using the formula\u0026nbsp;for the relationship between spot rates and the implied forward rates, the candidate assumed that the 2 year forward rate, 4 years from today is equal to the 4 year forward rate, 2 years from today.\u003c/p\u003e",
+                    "f7634ff5-fbdb-45f9-ab17-2ba994aa7ea8": "\u003cp\u003eIncorrect because when calculating\u0026nbsp;IFR\u003csub\u003e4,2\u003c/sub\u003e, in\u0026nbsp;the last step, the\u0026nbsp;candidate forgets to take the square root.\u0026nbsp;IFR\u003csub\u003e4,2\u003c/sub\u003e\u0026nbsp;≠ 1.1481/1.1038\u0026nbsp;–\u0026nbsp;1 = 0.0401 ≈ 4%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0b30e22c-663f-4261-be48-6ba68d98d2f2",
+                            "itemBody": "\u003cp\u003eA. 2%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8ef09aab-2494-42bc-bf86-8c84714d9311",
+                            "itemBody": "\u003cp\u003eB. 3%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f7634ff5-fbdb-45f9-ab17-2ba994aa7ea8",
+                            "itemBody": "\u003cp\u003eC. 4%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8874,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4688,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55058",
+            "entry": {
+                "title": "ITEM_CFA-L1-02874",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA break-even reinvestment rate is \u003ci\u003emost likely\u003c/i\u003e equivalent to a(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "280e34d3-fd51-4df1-b3e8-720cdefbe74b"
+                },
+                "answerFeedback": {
+                    "0a0d97f6-913c-4220-bcf1-d92da6ecbbb7": "\u003cp\u003eIncorrect because a\u0026nbsp;par curve is a sequence of yields-to-maturity such that each bond is priced at par value.\u0026nbsp;Par rates are not break-even reinvestment rates.\u003c/p\u003e",
+                    "280e34d3-fd51-4df1-b3e8-720cdefbe74b": "\u003cp\u003eCorrect because an implied forward rate is a break-even reinvestment rate. It links the return on an investment in a shorter-term zero-coupon bond to the return on an investment in a longer-term zero-coupon bond.\u003c/p\u003e",
+                    "430b0a71-16ce-4838-a7a3-fd7d8c9325ff": "\u003cp\u003eIncorrect because the spot rate is a sequence of yields-to-maturity on zero-coupon bonds. A forward rate links one spot rate to another and for this reason can be characterized as a break-even reinvestment rate. A spot rate alone is, however, not a break-even reinvestment rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0a0d97f6-913c-4220-bcf1-d92da6ecbbb7",
+                            "itemBody": "\u003cp\u003eA. par rate.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "430b0a71-16ce-4838-a7a3-fd7d8c9325ff",
+                            "itemBody": "\u003cp\u003eB. spot rate.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "280e34d3-fd51-4df1-b3e8-720cdefbe74b",
+                            "itemBody": "\u003cp\u003eC. implied forward rate.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8874,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4688,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55059",
+            "entry": {
+                "title": "ITEM_CFA-L1-06450",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about forward rates:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth scope=\"col\"\u003e\u003cstrong\u003eTime Period\u003c/strong\u003e\u003c/th\u003e\n\u003cth scope=\"col\"\u003e\u003cstrong\u003eForward Rate\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e0y1y\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e1%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e1y1y\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e2%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e2y1y\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e4%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eUsing only this information, the price per 100 of par value of a 3-year, 1% annual coupon bond is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "637be804-bb1a-4c0b-877a-38bb11dde12d"
+                },
+                "answerFeedback": {
+                    "31a434a7-bdd0-4625-9ed4-0a2e9cac97ff": "\u003cp\u003eIncorrect because the forward rates are used directly as spot rates. Hence,\u003c/p\u003e\u003cp\u003ePV ≠ PMT / (1 + Z\u003csub\u003e1\u003c/sub\u003e)\u003csup\u003e1\u003c/sup\u003e + PMT / (1 + Z\u003csub\u003e2\u003c/sub\u003e)\u003csup\u003e2\u003c/sup\u003e + … + (PMT + FV) / (1 + Z\u003csub\u003eN\u003c/sub\u003e)\u003csup\u003eN\u003c/sup\u003e\u003c/p\u003e\u003cp\u003ePV ≠ 1 / (1 + 1%)\u003csup\u003e1\u003c/sup\u003e + 1 / (1 + 2%)\u003csup\u003e2\u003c/sup\u003e + (1 + 100) / (1 + 4%)\u003csup\u003e3\u003c/sup\u003e = 0.9901 + 0.9612 +89.7886 = 91.7399, rounded to 91.74.\u003c/p\u003e",
+                    "637be804-bb1a-4c0b-877a-38bb11dde12d": "\u003cp\u003eCorrect because the geometric average of the forward rates gives us the spot rates (ie. (0y1y × 1y1y) = (1 + Z\u003csub\u003e2\u003c/sub\u003e)\u003csup style=\"font-size:12pt\"\u003e2\u003c/sup\u003e, (0y1y × 1y1y × 2y1y) = (1 + Z3)\u003csup style=\"font-size:12pt\"\u003e3\u003c/sup\u003e)), hence the price of a bond using forward rates can be calculated using: PV = PMT / (1 + Z\u003csub\u003e1\u003c/sub\u003e)\u003csup\u003e1\u003c/sup\u003e + PMT / (1 + Z\u003csub\u003e2\u003c/sub\u003e)\u003csup\u003e2\u003c/sup\u003e + … + (PMT + FV) / (1 + Z\u003csub\u003eN\u003c/sub\u003e)\u003csup\u003eN\u003c/sup\u003e where Z\u003csub\u003e1\u003c/sub\u003e = spot rate, or the zero-coupon yield, or zero rate, for Period 1, Z\u003csub\u003e2\u003c/sub\u003e = spot rate, or the zero-coupon yield, or zero rate, for Period 2, Z\u003csub\u003eN\u003c/sub\u003e = spot rate, or the zero-coupon yield, or zero rate, for Period N.\u003c/p\u003e\u003cp\u003ePV\u0026gt; = PMT / (1 + 0y1y) + PMT / (1 + 0y1y × 1y1y) + (PMT + FV) / (1 + 0y1y × 1y1y × 2y1y)\u003c/p\u003e\u003cp\u003ePV = 1 / (1 + 1%) + 1 / ((1 + 1%)(1 + 2%)) + (1 + 100) / ((1 + 1%)(1 + 2%)(1 + 4%) = 0.9901 + 0.9707 +94.2685 = 96.2293, rounded to 96.23.\u003c/p\u003e",
+                    "6e9617cb-a842-4833-88fa-0f97019af87d": "\u003cp\u003eIncorrect because each denominator is raised to the power of the corresponding year.\u003c/p\u003e\u003cp\u003ePV ≠ PMT / (1 + 0y1y) + PMT / (1 + 0y1y × 1y1y)\u003csup\u003e2\u003c/sup\u003e + (PMT + FV) / (1 + 0y1y × 1y1y × 2y1y)\u003csup\u003e3\u003c/sup\u003e\u003c/p\u003e\u003cp\u003ePV ≠ 1 / (1 + 1%) + 1 / ((1 + 1%)(1 + 2%))\u003csup\u003e2\u003c/sup\u003e + (1 + 100) / ((1 + 1%)(1 + 2%)(1 + 4%))\u003csup\u003e3\u003c/sup\u003e = 0.9901 + 0.9422 +82.1215 = 84.0538, rounded to 84.05.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6e9617cb-a842-4833-88fa-0f97019af87d",
+                            "itemBody": "\u003cp\u003eA. 84.05.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "31a434a7-bdd0-4625-9ed4-0a2e9cac97ff",
+                            "itemBody": "\u003cp\u003eB. 91.74.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "637be804-bb1a-4c0b-877a-38bb11dde12d",
+                            "itemBody": "\u003cp\u003eC. 96.23.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8874,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4688,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55060",
+            "entry": {
+                "title": "ITEM_CFA-L1-05933",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAn analyst observes the following series of 1-year forward rates:\u003c/span\u003e\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e\u003cstrong\u003eTime Period\u003c/strong\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e\u003cstrong\u003eForward Rate\u003c/strong\u003e\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e0y1y\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e0.1%\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e1y1y\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e0.3%\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e2y1y\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e0.6%\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eBased\u0026nbsp;on only this information, the price per 100 of par value of a 3-year 0.2% annual coupon bond is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "cabc32ff-fe7f-46ee-b09f-faeb6b3eac8d"
+                },
+                "answerFeedback": {
+                    "3a092f13-d780-4c9c-845b-6d4cfceff580": "\u003cp\u003e\u003cspan\u003eIncorrect because the bond is priced on the basis of spot rates rather than forward rates:\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-family:\u0026quot;Times New Roman\u0026quot;; font-size:16px\"\u003ePrice per 100 of par value ≠ 0.2 / (1+0.1%)\u003c/span\u003e\u003csup style=\"font-family:\u0026quot;Times New Roman\u0026quot;\"\u003e1\u003c/sup\u003e\u003cspan style=\"font-family:\u0026quot;Times New Roman\u0026quot;; font-size:16px\"\u003e + 0.2 / (1+0.3%)\u003c/span\u003e\u003csup style=\"font-family:\u0026quot;Times New Roman\u0026quot;\"\u003e2\u003c/sup\u003e\u003cspan style=\"font-family:\u0026quot;Times New Roman\u0026quot;; font-size:16px\"\u003e + (100+0.2) / (1+0.6%)\u003c/span\u003e\u003csup style=\"font-family:\u0026quot;Times New Roman\u0026quot;\"\u003e3\u003c/sup\u003e\u003cspan style=\"font-family:\u0026quot;Times New Roman\u0026quot;; font-size:16px\"\u003e = 98.82.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                    "7a3ac042-5825-4fd7-816e-fa1e81fd9ddf": "\u003cp\u003eIncorrect because the denominator of each term is incorrectly raised to a power:\u003c/p\u003e\u003cp\u003ePrice per 100 of par value ≠ 0.2 / (1+0.1%)\u003csup\u003e1\u003c/sup\u003e + 0.2 / ((1+0.1%) × (1+0.3%))\u003csup\u003e2\u003c/sup\u003e + (100+0.2) / ((1+0.1%) × (1+0.3%)× (1+0.6%))\u003csup\u003e3\u003c/sup\u003e = 97.64.\u0026nbsp;\u003c/p\u003e",
+                    "cabc32ff-fe7f-46ee-b09f-faeb6b3eac8d": "\u003cp\u003eCorrect because the Price per 100 of par value = 0.2 / (1+0.1%) + 0.2 / ((1+0.1%) × (1+0.3%)) + (100+0.2) / ((1+0.1%) × (1+0.3%)× (1+0.6%)) = 99.60.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7a3ac042-5825-4fd7-816e-fa1e81fd9ddf",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e97.64.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3a092f13-d780-4c9c-845b-6d4cfceff580",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e98.82.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "cabc32ff-fe7f-46ee-b09f-faeb6b3eac8d",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e99.60.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8874,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4688,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51182",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eUse the spot rates provided to answer the following questions.\u003c/p\u003e\n\u003cdiv id=\"CFA2439-R-s04-T-2-a\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; background-color: inherit !important; border-top: 2px solid #CCCCCC; border-bottom: none !important; border-right: none; border-left: none; text-align: center; margin-top: .84em !important;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003e\u003cspan style=\"display: block;\"\u003eGovernment Bond Spot Rates\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eMaturity\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eCanada\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eAustralia\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eGermany\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eSwitzerland\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e1-year\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0.3117%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0.0272%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.6965%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.7882%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2-year\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0.5680%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0.0675%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.7034%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.7133%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e3-year\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0.7977%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0.3003%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.7021%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.6435%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e4-year\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0.9640%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0.5853%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.6418%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.5615%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e5-year\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.1105%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0.8052%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.5578%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.4757%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e6-year\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.2052%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0.9877%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.4796%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.4080%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e7-year\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.2998%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.1702%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.4014%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.3402%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e8-year\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.3935%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.2878%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.3269%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.2673%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e9-year\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.4872%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.4054%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.2524%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.1945%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e10-year\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.5809%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.5230%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.1779%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e–0.1216%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8207,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51183",
+            "entry": {
+                "title": "CFA2439-R-s04-Q5",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Given that Switzerland’s current five-year spot (and par) rate is negative, any non-negative coupon will cause the Swiss government to issue debt at a premium to par. Issuance of debt without a coupon will minimize the size of the premium.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich level of coupon would the Swiss government choose if its goal is to minimize the premium over par value for a five-year debt issue? \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4ad4c38a-7826-4b51-af11-1f6462fd799c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "233a623a-6cd5-4ee6-8574-b72fb5e7f200",
+                            "itemBody": "A. 1.0%",
+                            "position": 1
+                        },
+                        {
+                            "id": "e0c1b4a1-0d62-4246-8acf-3966f5953d03",
+                            "itemBody": "B. 0.5%",
+                            "position": 2
+                        },
+                        {
+                            "id": "4ad4c38a-7826-4b51-af11-1f6462fd799c",
+                            "itemBody": "C. 0.0%",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8207,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": "51182"
+        },
+        {
+            "id": "51184",
+            "entry": {
+                "title": "CFA2439-R-s04-Q6",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct.\u003c/p\u003e\n\u003cdiv id=\"CFA2439-R-s04-E-2-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eZ\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eZ\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e⋯\u003c/mo\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eZ\u003c/mi\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2439-R-s04-E-2-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.000272\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.000675\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e103\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.003003\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2439-R-s04-E-2-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cem\u003ePV\u003c/em\u003e = 108.07.\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe Australian government is considering issuing three-year bonds with a 3.0% coupon with annual payments. Given the spot rates in Australia, the price is \u003cem\u003eclosest\u003c/em\u003e to: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "816b4f4d-172d-46b3-bf2d-7b52c08acf55"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4b4bd035-c34e-4bf4-98f6-be9569a7e2a2",
+                            "itemBody": "A. 108.05.",
+                            "position": 1
+                        },
+                        {
+                            "id": "816b4f4d-172d-46b3-bf2d-7b52c08acf55",
+                            "itemBody": "B. 108.07.",
+                            "position": 2
+                        },
+                        {
+                            "id": "ed607180-7f61-44ff-80fa-2b9feade5d84",
+                            "itemBody": "C. 108.69.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8207,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": "51182"
+        },
+        {
+            "id": "51185",
+            "entry": {
+                "title": "CFA2439-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. In Example 2, we calculated the three-year Canadian par rate. The par rate of 0.7952% approximates the spot rate of 0.7977%, so the most important change affecting the three-year par rate is the change in the three-year spot rate. Because it does not change, the only change will be a slight move in the par rate toward the spot rate (to approximately 0.7968%).\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSuppose the one-year and two-year spot rates in Canada move upward by 20 bps but the three-year Canadian spot rate remains unchanged. Which of the following best reflects the updated three-year Canadian par rate? \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d5f05c35-fbd9-4ccf-b830-a406edfd9b1b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1fa63027-d2be-4cec-85e7-e77b8c53b203",
+                            "itemBody": "A. Increases by approximately 13 bps",
+                            "position": 1
+                        },
+                        {
+                            "id": "641cd891-19a2-40ac-bf3d-4757c45a321e",
+                            "itemBody": "B. Increases by approximately 7 bps",
+                            "position": 2
+                        },
+                        {
+                            "id": "d5f05c35-fbd9-4ccf-b830-a406edfd9b1b",
+                            "itemBody": "C. Increases by approximately 0.16 bps",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8207,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": "51182"
+        },
+        {
+            "id": "51186",
+            "entry": {
+                "title": "CFA2439-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e1. B. By using two-year and five-year rates, the difference represents the tenor of the implied forward rate of three years, and the shorter tenor rate reflects the beginning of the forward in two years.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e2. C. By using two-year and seven-year rates, the difference represents the tenor of the implied forward rate of five years, and the shorter tenor rate reflects the beginning of the forward in two years.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e3. A. By using five-year and seven-year rates, the difference represents the tenor of the implied forward rate of two years, and the shorter tenor rate reflects the beginning of the forward in five years.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMatch the spot rates needed to calculate the corresponding implied forward rates.\u003c/p\u003e\n\u003cdiv id=\"CFA2439-R-s04-T-2-b\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e1. Two-year and five-year spot rates\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eA. Two-year implied forward rate in five years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2. Two-year and seven-year spot rates\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eB. Three-year implied forward rate in two years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e3. Five-year and seven-year spot rates\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eC. Five-year implied forward rate in two years\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8207,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": "51182"
+        },
+        {
+            "id": "51187",
+            "entry": {
+                "title": "CFA2439-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. The implied five-year forward rate in two years is the 2y5y rate. To calculate, we use the seven-year Swiss government rate and the two-year Swiss government rate, as follows:\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2439-R-s04-E-2-___3\"\u003e2y5y IFR = [(1 – 0.003402)\u003csup\u003e7\u003c/sup\u003e/(1 – 0.007133)\u003csup\u003e2\u003c/sup\u003e]\u003csup\u003e(1/5)\u003c/sup\u003e – 1 = 0.191%.\u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eChoice B represents the 5y2y implied forward rate, and Choice C represents the 2y3y implied forward rate.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following choices is the closest to the implied five-year forward rate in two years for Swiss government bonds? \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "11283b96-e14c-448e-a783-591371c64729"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "11283b96-e14c-448e-a783-591371c64729",
+                            "itemBody": "A. –0.191%",
+                            "position": 1
+                        },
+                        {
+                            "id": "aa50a608-cae7-453a-a9a4-31af364b8f85",
+                            "itemBody": "B. –0.001%",
+                            "position": 2
+                        },
+                        {
+                            "id": "6d99b3fc-a560-4c25-801a-6751810884fa",
+                            "itemBody": "C. –0.317%",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8207,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": "51182"
+        },
+        {
+            "id": "51188",
+            "entry": {
+                "title": "CFA2439-R-s04-Q10",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e1. B. This is a series of three one-year forwards, thus providing the information for a three-year spot rate.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e2. C. This sequence is a one-year spot rate, followed by a two-year forward rate in one year, followed by a three-year forward rate in three years.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e3. A. This sequence is a series of four one-year forwards.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMatch the sequence of forward rates and the corresponding spot rate that the forward rates will calculate.\u003c/p\u003e\n\u003cdiv id=\"CFA2439-R-s04-T-2-c\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003cstrong\u003eForward rates\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eSpot rate calculation\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e1. 0y1y x 1y1y x 2y1y\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eA. Four-year spot rate\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2. 0y1y x 1y2y x 3y3y\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eB. Three-year spot rate\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e3. 0y1y x 1y1y x 2y1y x 3y1y\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eC. Six-year spot rate\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8207,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": "51182"
+        },
+        {
+            "id": "51189",
+            "entry": {
+                "title": "CFA2439-R-s04-Q11",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. The forward rates used to construct forward curves are derived from spot rates. Statement A is not true, because par rates are derived from spot rates. Statement B is not true, because par curves are derived from spot rates.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements about yield curves is true?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7e0e272d-a258-4bbf-a849-bf8cc0072deb"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "78d4262d-ce65-4830-a9b2-dc8b72fb5168",
+                            "itemBody": "A. Spot curves are derived from par rates.",
+                            "position": 1
+                        },
+                        {
+                            "id": "89e78cab-2ad1-4611-aa2b-febfb5e2b464",
+                            "itemBody": "B. Par curves are derived from forward rates.",
+                            "position": 2
+                        },
+                        {
+                            "id": "7e0e272d-a258-4bbf-a849-bf8cc0072deb",
+                            "itemBody": "C. Forward curves are derived from spot rates.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8207,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": "51182"
+        },
+        {
+            "id": "51190",
+            "entry": {
+                "title": "CFA2439-R-s04-Q12",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e1. B. In a normal interest rate environment with an upward-sloping yield curve, forward interest rates will be greater than their corresponding spot rates across all maturities.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e2. A. In an inverted spot rate environment, forward interest rates will be below their corresponding spot rates.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e3. C. A flat maturity structure of interest rates is sometimes assumed. In such an environment in which spot rates are constant, this implies that future expectations are for interest rates to remain at a constant level. Thus, forward rates equal spot rates in a flat term structure environment.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMatch the following statements about forward rate curves with corresponding statements about spot rate curves.\u003c/p\u003e\n\u003cdiv id=\"CFA2439-R-s04-T-2-d\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e1. The forward rate curve lies above the spot rate curve.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eA. The spot rate curve is downward sloping (i.e., inverted).\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2. The forward rate curve lies below the spot rate curve.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eB. The spot rate curve is upward sloping (i.e., normal).\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e3. The forward rate curve is equivalent to the spot rate curve.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eC. The spot rate curve is flat across all maturities.\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8207,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": "51182"
+        },
+        {
+            "id": "51191",
+            "entry": {
+                "title": "CFA2439-R-s04-Q13",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e1. A. This situation is illustrated in the German and Swiss government interest rate data in which spot rates are negative while the spot rate curve is upward sloping. In such instances, par rates lie above spot rates.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e2. B. This situation is illustrated in the Canadian and Australian government interest rate data in which spot rates are positive and the spot curve is normal.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e3. C. This is a hypothetical case but can be seen by creating a flat spot rate curve.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMatch the following statements about par rate curves with corresponding statements about spot rate curves.\u003c/p\u003e\n\u003cdiv id=\"CFA2439-R-s04-T-2-e\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e1. The par rate curve lies above the spot rate curve.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eA. The spot rate curve is upward sloping (i.e., normal), and spot rates are negative.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2. The par rate curve lies below the spot rate curve.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eB. The spot rate curve is upward sloping (i.e., normal), and spot rates are positive.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e3. The par rate curve is equivalent to the spot rate curve.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eC. The spot rate curve is flat across all maturities.\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8207,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": "51182"
+        },
+        {
+            "id": "53816",
+            "entry": {
+                "title": "ITEM_20170607006",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eUsing the following US Treasury spot rates, the arbitrage-free value of a two-year $100 par value Treasury bond with a 6% coupon rate, paid semi-annually, is \u003ci\u003eclosest \u003c/i\u003eto:\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 264px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"vertical-align: bottom; width: 65px; max-width: 65px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003ePeriod \u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 70px; max-width: 70px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eYears\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 117px; max-width: 117px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eSpot Rate (Annualized)\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 65px; max-width: 65px; text-align: center;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 70px; max-width: 70px; text-align: center;\"\u003e0.5\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 117px; max-width: 117px; text-align: center;\"\u003e1.60%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 65px; max-width: 65px; text-align: center;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 70px; max-width: 70px; text-align: center;\"\u003e1.0\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 117px; max-width: 117px; text-align: center;\"\u003e2.20%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 65px; max-width: 65px; text-align: center;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 70px; max-width: 70px; text-align: center;\"\u003e1.5\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 117px; max-width: 117px; text-align: center;\"\u003e2.70%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 65px; max-width: 65px; text-align: center;\"\u003e4\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 70px; max-width: 70px; text-align: center;\"\u003e2.0\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 117px; max-width: 117px; text-align: center;\"\u003e3.10%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "84f15bf0-1618-4a5f-8080-76dcb6c0dce9"
+                },
+                "answerFeedback": {
+                    "7b86012c-132c-4a47-aa48-9e7d384c4569": "\u003cp\u003eIncorrect because it treats the spot rates as forward rates.\u003c/p\u003e",
+                    "84f15bf0-1618-4a5f-8080-76dcb6c0dce9": "\u003cp\u003eCorrect because the value of the bond is\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.0160\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.0220\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.0270\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e103\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.0310\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e105.65\u003c/mn\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e",
+                    "bed8d988-d044-4e7e-ac97-1103082edfea": "\u003cp\u003eIncorrect because it does not divide the annual spot rates by two in the calculation.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bed8d988-d044-4e7e-ac97-1103082edfea",
+                            "itemBody": "\u003cp\u003eA. $99.75.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "84f15bf0-1618-4a5f-8080-76dcb6c0dce9",
+                            "itemBody": "\u003cp\u003eB. $105.65.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7b86012c-132c-4a47-aa48-9e7d384c4569",
+                            "itemBody": "\u003cp\u003eC. $107.03.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8660,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53817",
+            "entry": {
+                "title": "ITEM_20170607011",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA two-year spot rate of 5% is \u003ci\u003emost likely\u003c/i\u003e the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "27fa39e4-5246-4c82-a8d2-fc7b50b7113b"
+                },
+                "answerFeedback": {
+                    "27fa39e4-5246-4c82-a8d2-fc7b50b7113b": "\u003cp\u003e\u003cstrong\u003eCorrect\u003c/strong\u003e\u0026nbsp;because\u0026nbsp;the spot rate is defined as the yield to maturity on a zero-coupon bond maturing at the date of that cash flow.\u003c/p\u003e",
+                    "d27d87b0-fa09-4917-930a-4aac8d9384c5": "\u003cp\u003eIncorrect because the spot rate is the yield to maturity on a zero-coupon bond maturing at that point in time and not the yield to maturity on a coupon-paying bond.\u003c/p\u003e",
+                    "ecb17f48-61a0-4beb-81b7-c6725e278182": "\u003cp\u003eIncorrect because the spot rate is the yield to maturity on a zero-coupon bond maturing at that point in time and not the coupon rate on a coupon-paying bond.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "27fa39e4-5246-4c82-a8d2-fc7b50b7113b",
+                            "itemBody": "\u003cp\u003eA. yield to maturity on a zero-coupon bond maturing at the end of Year 2.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d27d87b0-fa09-4917-930a-4aac8d9384c5",
+                            "itemBody": "\u003cp\u003eB. yield to maturity on a coupon-paying bond maturing at the end of Year 2.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ecb17f48-61a0-4beb-81b7-c6725e278182",
+                            "itemBody": "\u003cp\u003eC. coupon rate in Year 2 on a coupon-paying bond maturing at the end of Year 4.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8660,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53818",
+            "entry": {
+                "title": "ITEM_20170607014",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eAssume the following annual forward rates were calculated from the yield curve.\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 263px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"vertical-align: bottom; width: 121px; max-width: 121px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eTime Period\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 135px; max-width: 135px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eForward Rate\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 121px; max-width: 121px; text-align: center;\"\u003e0y1y\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 135px; max-width: 135px; text-align: center;\"\u003e0.50%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 121px; max-width: 121px; text-align: center;\"\u003e1y1y\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 135px; max-width: 135px; text-align: center;\"\u003e0.70%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 121px; max-width: 121px; text-align: center;\"\u003e2y1y\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 135px; max-width: 135px; text-align: center;\"\u003e1.00%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 121px; max-width: 121px; text-align: center;\"\u003e3y1y\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 135px; max-width: 135px; text-align: center;\"\u003e1.50%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 121px; max-width: 121px; text-align: center;\"\u003e4y1y\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 135px; max-width: 135px; text-align: center;\"\u003e2.20%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eThe four-year spot rate is \u003ci\u003eclosest \u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "efd7bfbc-a7a0-4fdc-91e1-0e7cc5821865"
+                },
+                "answerFeedback": {
+                    "65640304-8709-41bb-add8-adf0eac37a20": "\u003cp\u003eIncorrect because it is computed as:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.005\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.007\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.01\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.015\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.022\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e5\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e1.178\u003c/mn\u003e\u003cmi\u003e%\u003c/mi\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e",
+                    "d833abb4-420b-46ba-96e0-9b5d3bd47af7": "\u003cp\u003eIncorrect because it is computed as:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.007\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.01\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.015\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.022\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e4\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e1.348\u003c/mn\u003e\u003cmi\u003e%\u003c/mi\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e",
+                    "efd7bfbc-a7a0-4fdc-91e1-0e7cc5821865": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The four-year spot rate can be computed as:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003ez\u003c/mi\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.005\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.007\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.01\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.015\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e4\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e0.924\u003c/mn\u003e\u003cmi\u003e%\u003c/mi\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "efd7bfbc-a7a0-4fdc-91e1-0e7cc5821865",
+                            "itemBody": "\u003cp\u003eA. 0.924%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "65640304-8709-41bb-add8-adf0eac37a20",
+                            "itemBody": "\u003cp\u003eB. 1.178%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d833abb4-420b-46ba-96e0-9b5d3bd47af7",
+                            "itemBody": "\u003cp\u003eC. 1.348%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8660,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53819",
+            "entry": {
+                "title": "ITEM_20170607053",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eUsing the following US Treasury forward rates, the value of a 2.5-year $100 par value Treasury bond with a 5% coupon rate is \u003ci\u003eclosest \u003c/i\u003eto:\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 262px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"vertical-align: bottom; width: 65px; max-width: 65px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003ePeriod\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 61px; max-width: 61px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eYears\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 124px; max-width: 124px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eForward Rate\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 65px; max-width: 65px; text-align: center;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 61px; max-width: 61px; text-align: center;\"\u003e0.5\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 124px; max-width: 124px; text-align: center;\"\u003e1.20%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 65px; max-width: 65px; text-align: center;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 61px; max-width: 61px; text-align: center;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 124px; max-width: 124px; text-align: center;\"\u003e1.80%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 65px; max-width: 65px; text-align: center;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 61px; max-width: 61px; text-align: center;\"\u003e1.5\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 124px; max-width: 124px; text-align: center;\"\u003e2.30%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 65px; max-width: 65px; text-align: center;\"\u003e4\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 61px; max-width: 61px; text-align: center;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 124px; max-width: 124px; text-align: center;\"\u003e2.70%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 65px; max-width: 65px; text-align: center;\"\u003e5\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 61px; max-width: 61px; text-align: center;\"\u003e2.5\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 124px; max-width: 124px; text-align: center;\"\u003e3.00%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "babc3e9f-9ac5-4bde-b512-adfe655735dc"
+                },
+                "answerFeedback": {
+                    "3381fa95-e751-4f23-8fe9-0745a15bb69d": "\u003cp\u003eIncorrect because it treats the forward rates as spot rates.\u003c/p\u003e",
+                    "babc3e9f-9ac5-4bde-b512-adfe655735dc": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The value of the bond is\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2.5\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.012\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2.5\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.012\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.18\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2.5\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.012\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.018\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.023\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2.5\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.012\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.018\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.023\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.027\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e102.5\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.012\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.018\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.023\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.027\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.030\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmi\u003e$\u003c/mi\u003e\u003cmn\u003e106.83\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e",
+                    "d664b3c1-1ef0-4cf8-9c01-32f7f10786a5": "\u003cp\u003eIncorrect because it does not divide the forward rates by two.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d664b3c1-1ef0-4cf8-9c01-32f7f10786a5",
+                            "itemBody": "\u003cp\u003eA. $101.52.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3381fa95-e751-4f23-8fe9-0745a15bb69d",
+                            "itemBody": "\u003cp\u003eB. $104.87.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "babc3e9f-9ac5-4bde-b512-adfe655735dc",
+                            "itemBody": "\u003cp\u003eC. $106.83.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8660,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53820",
+            "entry": {
+                "title": "ITEM_20170607103",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eEldora Ltd. recently issued deferred-coupon bonds for which no coupon payments will be paid in the first two years of the bond’s life. Regular annual coupon payments at a rate of 9% will then be made until the bonds mature at the end of six years. The spot rates for various maturities are given in the following table.\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 270px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"vertical-align: bottom; width: 151px; max-width: 151px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eTime to Maturity \u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 110px; max-width: 110px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eSpot Rate\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 151px; max-width: 151px; text-align: center;\"\u003e1 year\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 110px; max-width: 110px; text-align: center;\"\u003e8.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 151px; max-width: 151px; text-align: center;\"\u003e2 years\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 110px; max-width: 110px; text-align: center;\"\u003e7.5%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 151px; max-width: 151px; text-align: center;\"\u003e3 years\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 110px; max-width: 110px; text-align: center;\"\u003e7.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 151px; max-width: 151px; text-align: center;\"\u003e4 years\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 110px; max-width: 110px; text-align: center;\"\u003e6.5%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 151px; max-width: 151px; text-align: center;\"\u003e5 years\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 110px; max-width: 110px; text-align: center;\"\u003e6.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 151px; max-width: 151px; text-align: center;\"\u003e6 years\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 110px; max-width: 110px; text-align: center;\"\u003e5.5%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eOn the basis of these spot rates, the price of the bond today is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b4a8427d-e7a6-406b-8d55-d7737cee1fbc"
+                },
+                "answerFeedback": {
+                    "b4a8427d-e7a6-406b-8d55-d7737cee1fbc": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The bond price is computed as\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u003cem\u003eP\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e = 9/(1.070)\u003csup\u003e3\u003c/sup\u003e + 9/(1.065)\u003csup\u003e4\u003c/sup\u003e + 9/(1.060)\u003csup\u003e5\u003c/sup\u003e + (9 + 100)/(1.055)\u003csup\u003e6\u003c/sup\u003e = 100.12\u003c/p\u003e",
+                    "c8feb840-cf93-4f2c-9f5b-fec5026afe7c": "\u003cp\u003eIncorrect because the price is computed assuming that the coupons are paid over years 1 through 4 and the par value is paid in year four, as follows:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u003cem\u003eP\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e = 9/(1.080)\u003csup\u003e1\u003c/sup\u003e + 9/(1.075)\u003csup\u003e2\u003c/sup\u003e + 9/(1.070)\u003csup\u003e3\u003c/sup\u003e + (9 + 100)/(1.065)\u003csup\u003e4\u003c/sup\u003e = 108.196\u003c/p\u003e",
+                    "f9bf5519-c200-46d5-975c-d0dd53c62e3a": "\u003cp\u003eIncorrect because the price is computed assuming that the coupons are paid over years 1 through 6 and the par value is paid at maturity in year six, as follows:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u003cem\u003eP\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e = 9/(1.080)\u003csup\u003e1\u003c/sup\u003e + 9/(1.075)\u003csup\u003e2\u003c/sup\u003e + … + (9 + 100)/(1.055)\u003csup\u003e6\u003c/sup\u003e = 116.241\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b4a8427d-e7a6-406b-8d55-d7737cee1fbc",
+                            "itemBody": "\u003cp\u003eA. 100.12.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c8feb840-cf93-4f2c-9f5b-fec5026afe7c",
+                            "itemBody": "\u003cp\u003eB. 108.20.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f9bf5519-c200-46d5-975c-d0dd53c62e3a",
+                            "itemBody": "\u003cp\u003eC. 116.24.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8660,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53821",
+            "entry": {
+                "title": "ITEM_CFA-L1-10098",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst observes the following yields to maturity on zero-coupon government bonds:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 222px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"width: 77px; max-width: 77px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eMaturity\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"width: 136px; max-width: 136px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eYield to Maturity\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 77px; max-width: 77px; text-align: center;\"\u003e1 year\u003c/td\u003e\n\u003ctd style=\"width: 136px; text-align: center; max-width: 136px;\"\u003e1.5%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 77px; max-width: 77px; text-align: center;\"\u003e2 years\u003c/td\u003e\n\u003ctd style=\"width: 136px; max-width: 136px; text-align: center;\"\u003e2.5%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 77px; max-width: 77px; text-align: center;\"\u003e3 years\u003c/td\u003e\n\u003ctd style=\"width: 136px; max-width: 136px; text-align: center;\"\u003e3.5%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe 2y1y implied forward rate is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "59f6ed61-85ac-47cf-ae41-c312647dd50e"
+                },
+                "answerFeedback": {
+                    "3c3624c6-ec1c-4622-9479-3701de564dee": "\u003cp\u003eIncorrect because it is the compounded three year to maturity bond divided by the product of the first two yields to maturity. The yield is found as (1 + \u003cem\u003ez\u003c/em\u003e\u003csub\u003e1\u003c/sub\u003e) × (1 + \u003cem\u003ez\u003c/em\u003e\u003cem\u003e\u003csub\u003e2\u003c/sub\u003e\u003c/em\u003e) ×(1 + IFR\u003csub\u003e1,2\u003c/sub\u003e) = (1 + \u003cem\u003ez\u003c/em\u003e\u003csub\u003e3\u003c/sub\u003e)\u003csup\u003e3\u003c/sup\u003e = (1 + 0.015) × (1 + 0.025) × (1 + IFR\u003csub\u003e1,2\u003c/sub\u003e) = (1 + 1.035)\u003csup\u003e3\u003c/sup\u003e. (1 + IFR\u003csub\u003e1,2\u003c/sub\u003e)\u003csup\u003e2 \u003c/sup\u003e= (1 + 1.040)\u003csup\u003e3\u003c/sup\u003e / [(1 + 0.015) × (1.025)] – 1 = 1.1087 / 1.0404 = 1.0656 – 1 = 0.0656 or 6.6%.\u003c/p\u003e",
+                    "59f6ed61-85ac-47cf-ae41-c312647dd50e": "\u003cp\u003eCorrect because the 2y1y yield is the implied one-year forward yield two years from now. The 2y1y implied yield can be found using (1 + \u003cem\u003ez\u003c/em\u003e\u003csub\u003e2\u003c/sub\u003e)\u003csup\u003e2\u003c/sup\u003e × (1 + IFR\u003csub\u003e2,1\u003c/sub\u003e)\u003csup\u003e1\u003c/sup\u003e = (1 + \u003cem\u003ez\u003c/em\u003e\u003csub\u003e3\u003c/sub\u003e)\u003csup\u003e3\u003c/sup\u003e = (1 + 0.025)\u003csup\u003e2\u003c/sup\u003e × (1 + IFR\u003csub\u003e2,1\u003c/sub\u003e)\u003csup\u003e1\u003c/sup\u003e = (1 + 1.035)\u003csup\u003e3\u003c/sup\u003e. IFR\u003csub\u003e2,1\u003c/sub\u003e = (1 + 1.035)\u003csup\u003e3\u003c/sup\u003e / (1 + 0.025)\u003csup\u003e2\u003c/sup\u003e – 1 = 1.1087 / 1.0506 – 1 = 0.0553 = 5.53%.\u0026nbsp;\u003c/p\u003e",
+                    "cd052c54-b67a-4b0e-8ff2-cdf29024bea0": "\u003cp\u003eIncorrect because it is the 1y2y implied forward yield. The yield can be found using (1 + \u003cem\u003ez\u003c/em\u003e\u003csub\u003e1\u003c/sub\u003e)\u003csup\u003e1\u003c/sup\u003e × (1 + IFR\u003csub\u003e1,2\u003c/sub\u003e)\u003csup\u003e2\u003c/sup\u003e = (1 + \u003cem\u003ez\u003c/em\u003e\u003csub\u003e3\u003c/sub\u003e)\u003csup\u003e3\u003c/sup\u003e; (1 + 0.015)\u003csup\u003e1\u003c/sup\u003e× (1 + IFR\u003csub\u003e1,2\u003c/sub\u003e)\u003csup\u003e2\u003c/sup\u003e = (1 + 0.035)\u003csup\u003e3\u003c/sup\u003e× (1 + IFR\u003csub\u003e1,2\u003c/sub\u003e)\u003csup\u003e2\u003c/sup\u003e = (1 + 0.035)\u003csup\u003e3\u003c/sup\u003e / (1 + 0.015)\u003csup\u003e1\u003c/sup\u003e – 1 = 1.1087 / 1.0150 = 1.0923. IFR\u003csub\u003e1,2\u003c/sub\u003e = 1.0923\u003csup\u003e½\u003c/sup\u003e – 1 = 0.0451 or 4.51%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "cd052c54-b67a-4b0e-8ff2-cdf29024bea0",
+                            "itemBody": "\u003cp\u003eA. 4.5%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "59f6ed61-85ac-47cf-ae41-c312647dd50e",
+                            "itemBody": "\u003cp\u003eB. 5.5%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3c3624c6-ec1c-4622-9479-3701de564dee",
+                            "itemBody": "\u003cp\u003eC. 6.6%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8660,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4471,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

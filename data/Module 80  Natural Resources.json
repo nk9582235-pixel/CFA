@@ -1,0 +1,957 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6071,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 15,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 5: Natural Resources",
+        "topic_id": 1038,
+        "topic": "CFA-26-02-LI-C: Alternative Investments",
+        "subtopic_id": 6071,
+        "subtopic": "Module 5: Natural Resources",
+        "question_count": 15,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 854,
+                "name": "Warehouse Course: Alternative Investments 26-LI",
+                "code": "Warehouse Course: Alternative Investments 26-LI",
+                "module_id": 4496,
+                "question_count": 10,
+                "type": "warehouse"
+            },
+            {
+                "id": 845,
+                "name": "Practice Pack Warehouse: Alternative Investments 26-LI",
+                "code": "Practice Pack Warehouse: Alternative Investments 26-LI",
+                "module_id": 4765,
+                "question_count": 5,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 15.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "104cd9563a2ac032",
+        "ordered_item_ids": [
+            "56694",
+            "56695",
+            "56696",
+            "56697",
+            "56698",
+            "51326",
+            "51327",
+            "51328",
+            "51329",
+            "51330",
+            "51331",
+            "51332",
+            "51333",
+            "51334",
+            "53970"
+        ],
+        "visible_item_ids": [
+            "56694",
+            "56695",
+            "56696",
+            "56697",
+            "56698",
+            "51326",
+            "51327",
+            "51328",
+            "51329",
+            "51330",
+            "51331",
+            "51332",
+            "51333",
+            "51334",
+            "53970"
+        ]
+    },
+    "items": [
+        {
+            "id": "56694",
+            "entry": {
+                "title": "ITEM_CFA-L1-08225",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll else being equal, when a commodity futures market is in contango, the forward curve is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c3952ae1-2089-4fb9-9774-4d5ae8c77099"
+                },
+                "answerFeedback": {
+                    "085863fe-d690-4619-b145-aed2bd5655c7": "\u003cp\u003eIncorrect because when the futures market is trading in backwardation, the futures prices are lower than the spot price, and the commodity forward curve is downward sloping.\u0026nbsp; A market in contango assumes futures prices are higher than the spot price.\u003c/p\u003e",
+                    "16786338-48eb-4a3f-858b-ef5f8307c30a": "\u003cp\u003eIncorrect because when futures prices are higher than the spot price, the commodity forward curve is upward sloping, and the prices are referred to as being in contango.\u0026nbsp;A flat forward curve can't be associated with a market in contango because a flat curve implies that all future prices are equal to the spot price while a market in contango assumes futures prices are higher than the spot price.\u003c/p\u003e",
+                    "c3952ae1-2089-4fb9-9774-4d5ae8c77099": "\u003cp\u003eCorrect because when futures prices are higher than the spot price, the commodity forward curve is upward sloping, and the prices are referred to as being in contango.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "085863fe-d690-4619-b145-aed2bd5655c7",
+                            "itemBody": "\u003cp\u003eA. downward sloping.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "16786338-48eb-4a3f-858b-ef5f8307c30a",
+                            "itemBody": "\u003cp\u003eB. flat.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c3952ae1-2089-4fb9-9774-4d5ae8c77099",
+                            "itemBody": "\u003cp\u003eC. upward sloping.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9031,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4765,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56695",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-Alt-Glover-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf a commodity's storage cost is equal to its convenience yield, its futures prices will be greater than its spot price if the risk-free rate is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6a8539c1-c275-4804-924a-a91c0b37fbd5"
+                },
+                "answerFeedback": {
+                    "45a52944-4a1a-42ba-a401-35b210f47a62": "\u003cp\u003eIncorrect because\u0026nbsp;the futures price can be formalized in the following form: Futures price ≈ Spot price(1 + \u003ci\u003er\u003c/i\u003e) + Storage costs − Convenience yield,\u0026nbsp;where \u003ci\u003er\u003c/i\u003e is the period's short-term risk-free interest rate.\u0026nbsp;Thus, if Storage costs = Convenience yield, then\u0026nbsp;Futures price ≈ Spot price(1 + \u003ci\u003er\u003c/i\u003e). If \u003ci\u003er\u003c/i\u003e\u0026nbsp;\u0026lt;\u0026nbsp;0, then Futures price \u0026lt;\u0026nbsp;Spot price, not Futures price \u0026gt; Spot price.\u003c/p\u003e",
+                    "6a8539c1-c275-4804-924a-a91c0b37fbd5": "\u003cp\u003eCorrect because the futures price can be formalized in the following form: Futures price ≈ Spot price(1 + \u003ci\u003er\u003c/i\u003e) + Storage costs − Convenience yield,\u0026nbsp;where \u003ci\u003er\u003c/i\u003e is the period's short-term risk-free interest rate.\u0026nbsp;Thus, if Storage costs = Convenience yield, then\u0026nbsp;Futures price ≈ Spot price(1 + \u003ci\u003er\u003c/i\u003e), from which Futures price \u0026gt; Spot price if \u003ci\u003er\u003c/i\u003e \u0026gt; 0.\u003c/p\u003e",
+                    "d3a8f103-60b6-4869-818e-17bd59de738a": "\u003cp\u003eIncorrect because\u0026nbsp;the futures price can be formalized in the following form: Futures price ≈ Spot price(1 + \u003ci\u003er\u003c/i\u003e) + Storage costs − Convenience yield,\u0026nbsp;where \u003ci\u003er\u003c/i\u003e is the period's short-term risk-free interest rate.\u0026nbsp;Thus, if Storage costs = Convenience yield, then\u0026nbsp;Futures price ≈ Spot price(1 + \u003ci\u003er\u003c/i\u003e). If \u003ci\u003er\u003c/i\u003e = 0, then Futures price ≈\u0026nbsp;Spot price, not Futures price \u0026gt; Spot price.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "45a52944-4a1a-42ba-a401-35b210f47a62",
+                            "itemBody": "\u003cp\u003eA. negative.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d3a8f103-60b6-4869-818e-17bd59de738a",
+                            "itemBody": "\u003cp\u003eB. zero.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6a8539c1-c275-4804-924a-a91c0b37fbd5",
+                            "itemBody": "\u003cp\u003eC. positive.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9031,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4765,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56696",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-Alt-Tsependa-21",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003ebest\u003c/i\u003e classified as a commodity?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ade0be91-2324-422e-9478-ab0141c1142d"
+                },
+                "answerFeedback": {
+                    "ade0be91-2324-422e-9478-ab0141c1142d": "\u003cp\u003eCorrect because commodity investments may involve investing in actual physical commodities or in producers of commodities. Commodities are considered either 'hard'\u0026nbsp;(those mined, such as copper, or extracted, such as oil) or 'soft'\u0026nbsp;(those grown over a period of time, such as livestock, grains, and cash crops, such as coffee).\u003c/p\u003e",
+                    "da0fa9e2-00ff-4156-a49d-8c2e8d22aa60": "\u003cp\u003eIncorrect because timberland\u0026nbsp;is a separate component of natural resources, not a commodity. Natural resources include commodities (hard and soft), agricultural land (farmland), and timberland.\u003c/p\u003e",
+                    "eec73f55-1285-41c7-996e-3cbf7f8d2a43": "\u003cp\u003eIncorrect because agricultural land is a separate component of natural resources, not a commodity. Natural resources include commodities (hard and soft), agricultural land (farmland), and timberland.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ade0be91-2324-422e-9478-ab0141c1142d",
+                            "itemBody": "\u003cp\u003eA. Livestock\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "da0fa9e2-00ff-4156-a49d-8c2e8d22aa60",
+                            "itemBody": "\u003cp\u003eB. Timberland\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "eec73f55-1285-41c7-996e-3cbf7f8d2a43",
+                            "itemBody": "\u003cp\u003eC. Agricultural land\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9031,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4765,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56697",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-Alt-Tsependa-22",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eTimberland investments\u0026nbsp;offer:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "baae77f4-01f6-42ba-aabc-19e4dc6bde76"
+                },
+                "answerFeedback": {
+                    "baae77f4-01f6-42ba-aabc-19e4dc6bde76": "\u003cp\u003eCorrect because timberland investment involves ownership of raw land and the harvesting of its trees for lumber, thus generating an income stream and the potential for capital gain.\u003c/p\u003e",
+                    "c33a5c5e-5a62-43fe-936d-bd2a7b09fcca": "\u003cp\u003eIncorrect because timberland investment involves ownership of raw land and the harvesting of its trees for lumber, thus generating an income stream and the potential for capital gain.\u003c/p\u003e",
+                    "f80de56d-8fbf-4313-bfd7-832ae2dffe03": "\u003cp\u003eIncorrect because timberland investment involves ownership of raw land and the harvesting of its trees for lumber, thus generating an income stream and the potential for capital gain.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c33a5c5e-5a62-43fe-936d-bd2a7b09fcca",
+                            "itemBody": "\u003cp\u003eA. an income stream only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f80de56d-8fbf-4313-bfd7-832ae2dffe03",
+                            "itemBody": "\u003cp\u003eB. the potential for capital gain only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "baae77f4-01f6-42ba-aabc-19e4dc6bde76",
+                            "itemBody": "\u003cp\u003eC. both an income stream and the potential for capital gain.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9031,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4765,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56698",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-Alt-Shaw-20",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCrude oil is categorized as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bb4a89c0-4945-4362-8751-d52698c0e283"
+                },
+                "answerFeedback": {
+                    "31b885e4-3e3b-4083-92e7-2eef76652439": "\u003cp\u003eIncorrect because oil is categorized as a hard, not a soft, commodity. Commodities are considered either 'hard'\u0026nbsp;(those mined, such as copper, or extracted, such as oil) or 'soft'\u0026nbsp;(those grown over a period of time, such as livestock, grains, and cash crops, such as coffee).\u003c/p\u003e",
+                    "74e7f858-f0ca-473e-b0fa-444d61596ffb": "\u003cp\u003eIncorrect because oil is categorized as a hard, not a soft, commodity. Commodities are considered either 'hard'\u0026nbsp;(those mined, such as copper, or extracted, such as oil) or 'soft'\u0026nbsp;(those grown over a period of time, such as livestock, grains, and cash crops, such as coffee).\u003c/p\u003e",
+                    "bb4a89c0-4945-4362-8751-d52698c0e283": "\u003cp\u003eCorrect because commodities are considered either 'hard'\u0026nbsp;(those mined, such as copper, or extracted, such as oil) or 'soft'\u0026nbsp;(those grown over a period of time, such as livestock, grains, and cash crops, such as coffee).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "74e7f858-f0ca-473e-b0fa-444d61596ffb",
+                            "itemBody": "\u003cp\u003eA. a soft commodity.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "bb4a89c0-4945-4362-8751-d52698c0e283",
+                            "itemBody": "\u003cp\u003eB. a hard commodity.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "31b885e4-3e3b-4083-92e7-2eef76652439",
+                            "itemBody": "\u003cp\u003eC. neither a soft commodity nor a hard commodity.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9031,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4765,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51326",
+            "entry": {
+                "title": "CFA2467-R-s04-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Raw land’s value is derived solely from lease revenue and price appreciation. Farmland, in contrast, also generates value from the production and sale of agricultural products.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following possible value drivers does \u003cem\u003enot\u003c/em\u003e apply to both raw land and farmland investments?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b65e0902-b6a3-4306-8500-dff6c140b8a1"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "00717ab7-6f4b-4d9f-af24-460c48266dda",
+                            "itemBody": "A. Lease revenue",
+                            "position": 1
+                        },
+                        {
+                            "id": "b65e0902-b6a3-4306-8500-dff6c140b8a1",
+                            "itemBody": "B. Sale of agricultural products",
+                            "position": 2
+                        },
+                        {
+                            "id": "f515b0ea-d2fb-476d-87be-ef1a72606f26",
+                            "itemBody": "C. Price appreciation of property",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8267,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4496,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51327",
+            "entry": {
+                "title": "CFA2467-R-s04-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Timberland tracts typically consist of thousands (or more) of acres of land, while farmland is quite frequently owned in smaller tracts of tens or hundreds of acres. As such, farmland is much more suited to family ownership, while timberland is more commonly owned by institutions. A is incorrect because carbon offset is capable in both trees (i.e., timberland) and crops (i.e., farmland). B is incorrect because the lumber from timberland provides the raw material for housing, which is a basic human need.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following most correctly describes a significant difference between farmland and timberland investment?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d05305fe-f840-42f6-8775-4f4a6282a057"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9e6a8b37-9800-4c49-b7b5-686991298061",
+                            "itemBody": "A. Timberland provides environmental benefits because of the ability of trees to absorb carbon, while farmland does not.",
+                            "position": 1
+                        },
+                        {
+                            "id": "0d5115d9-500a-45de-a4bb-1efb8d773c6f",
+                            "itemBody": "B. Farmland provides a resource necessary for human existence, while timberland does not.",
+                            "position": 2
+                        },
+                        {
+                            "id": "d05305fe-f840-42f6-8775-4f4a6282a057",
+                            "itemBody": "C. Farmland is commonly family owned, while timberland is commonly owned by institutional investors.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8267,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4496,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51328",
+            "entry": {
+                "title": "CFA2467-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Futures contracts are available on a very limited number of common crops (i.e., wheat, corn, etc.). Ownership of physical farmland opens up the possibilities of growing crops not traded on futures exchanges, thus providing a larger universe of agricultural product price exposures. A and B are incorrect because futures contracts provide greater liquidity and price transparency than available in physical farmland, which is not traded on public exchanges.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following best reflects an advantage of institutional ownership of physical farmland as opposed to buying exposure to crops through futures contracts?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5f3ebfe0-1336-4b82-8966-705ee43f472c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0833c834-c949-4c4f-b849-309ffd6ec804",
+                            "itemBody": "A. Liquidity of physical farmland",
+                            "position": 1
+                        },
+                        {
+                            "id": "c0598a22-7459-4055-8971-67f0f8eecc40",
+                            "itemBody": "B. Price transparency of farmland",
+                            "position": 2
+                        },
+                        {
+                            "id": "5f3ebfe0-1336-4b82-8966-705ee43f472c",
+                            "itemBody": "C. Flexibility to gain price exposure to a wider variety of agricultural products",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8267,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4496,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51329",
+            "entry": {
+                "title": "CFA2467-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Backwardation in a commodity market implies that forward prices are lower than spot prices. This can occur only if the total benefits of physical ownership of the commodity exceed the total costs. A is incorrect because convenience yield cannot be negative. C is incorrect because this statement implies a contango market.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is most consistent with backwardation in a commodity market?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "62f5a8cf-1668-4677-90f7-98d23c588681"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "15d1f3cb-11a6-4116-b17f-1a78763ebc10",
+                            "itemBody": "A. The convenience yield is negative.",
+                            "position": 1
+                        },
+                        {
+                            "id": "62f5a8cf-1668-4677-90f7-98d23c588681",
+                            "itemBody": "B. The benefit of holding the physical commodity exceeds the cost of carry.",
+                            "position": 2
+                        },
+                        {
+                            "id": "3fcda481-946c-460d-be4c-110d886d9cc5",
+                            "itemBody": "C. The forward price is above the spot price.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8267,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4496,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51330",
+            "entry": {
+                "title": "CFA2467-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Low inventories of a specific commodity create incentives for market participants to own the physical commodity rather than a derivative contract. This incentive drives up spot prices relative to forward prices and can lead to spot prices being greater than forward prices (i.e., backwardation). B is incorrect because low inventories of a commodity indicate scarcity and would be more likely to contribute to a rising price for the commodity. C is incorrect because a contango market is the opposite of a market in backwardation.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following futures market price conditions would be most expected in a period of low commodity inventories?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "47769bfe-e42d-4c3e-93bc-345fa83f000d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "47769bfe-e42d-4c3e-93bc-345fa83f000d",
+                            "itemBody": "A. Backwardation",
+                            "position": 1
+                        },
+                        {
+                            "id": "a2f73b97-6c84-4938-9a06-c62d04257552",
+                            "itemBody": "B. Falling prices",
+                            "position": 2
+                        },
+                        {
+                            "id": "3805711c-1367-4564-ba75-b1f90a8e3ec4",
+                            "itemBody": "C. Contango",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8267,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4496,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51331",
+            "entry": {
+                "title": "CFA2467-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Non-cash benefits refer to the convenience yield, which causes a preference for owning the physical commodity rather than a derivative contract. A is incorrect in that derivatives provide price transparency while the market for physical commodities is much less transparent. C is incorrect in that the more frequent trading of derivatives on organized exchanges enhances liquidity while physical commodity markets are characterized by infrequent trading and thus poor liquidity.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following characteristics is \u003cem\u003enot\u003c/em\u003e a benefit of derivative instruments (compared to ownership of the physical commodity) as a means of gaining commodity exposure?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3e012a56-6eed-42b4-a45f-3a776b4b4994"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "73543f82-9185-4917-9793-a27cdc12b3b4",
+                            "itemBody": "A. Price transparency",
+                            "position": 1
+                        },
+                        {
+                            "id": "3e012a56-6eed-42b4-a45f-3a776b4b4994",
+                            "itemBody": "B. Non-cash benefits",
+                            "position": 2
+                        },
+                        {
+                            "id": "3ffce6e6-ccb4-4f07-91f6-00301cc77a1b",
+                            "itemBody": "C. Liquidity",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8267,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4496,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51332",
+            "entry": {
+                "title": "CFA2467-R-s04-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Commodity prices are a significant portion of consumer prices because commodities include aspects of everyday life, such as food and energy, and thus consumer price inflation will incorporate the effects of commodity price changes. By investing in commodities, an investor is, at least partially, hedged against the inflation that occurs with rising commodity prices. B is incorrect because inflation and commodity prices do not move together, but instead, changes in the inflation rate lag behind changes in commodity prices. C is incorrect because in this case, commodity price increases occur before inflation changes.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements most correctly describes why commodity investments are thought to provide a hedge against inflation?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a2bf1b73-32c0-4ab8-aa0b-0525ee3ac345"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a2bf1b73-32c0-4ab8-aa0b-0525ee3ac345",
+                            "itemBody": "A. The returns on commodity investing are driven by commodity price changes, and inflation partially reflects these changes.",
+                            "position": 1
+                        },
+                        {
+                            "id": "87eedc4e-5853-4ed0-9a8d-25cc80add782",
+                            "itemBody": "B. Commodity prices increase after inflation rates increase.",
+                            "position": 2
+                        },
+                        {
+                            "id": "768c8f54-0422-4deb-a773-a693b91b0607",
+                            "itemBody": "C. Expectations of higher inflation cause commodity prices to increase.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8267,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4496,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51333",
+            "entry": {
+                "title": "CFA2467-R-s04-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Commodity investments are typically entered into through derivative contracts, which are highly leveraged financial instruments. As a result, observed returns are highly volatile. A is incorrect because commodity investments are expected to perform better during inflationary environments. C is incorrect because commodity investments tend to exhibit low correlations with traditional assets and thus are typically used as portfolio diversifiers.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements is most correct about commodity investments?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c8acf618-f728-49f6-9c22-5f9fd485ad3d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ce09253c-5be8-4b65-98a4-e73a5b1b5713",
+                            "itemBody": "A. Commodity investments are expected to perform worse in inflationary environments.",
+                            "position": 1
+                        },
+                        {
+                            "id": "c8acf618-f728-49f6-9c22-5f9fd485ad3d",
+                            "itemBody": "B. Commodity investments exhibit high risk because of high leverage.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2d707fe7-1626-46d7-baa4-7e68dbe46ac9",
+                            "itemBody": "C. Commodity investments provide weak portfolio diversification because of their high risk.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8267,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4496,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51334",
+            "entry": {
+                "title": "CFA2467-R-s04-Q13",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. An effective hedge exhibits relatively high correlation relative to the risk exposure being hedged. Thus, the higher correlation between commodities and inflation implies that commodities provide a better hedge against inflation compared to farmland.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements is most correct if you observe that the correlation between farmland and inflation is significantly lower than the correlation between commodities and inflation (and that both correlations are positive)?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c2ffc2d4-7388-4a09-9e99-6f137e6cae71"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c2ffc2d4-7388-4a09-9e99-6f137e6cae71",
+                            "itemBody": "A. Commodities are expected to provide a better inflation hedge than farmland.",
+                            "position": 1
+                        },
+                        {
+                            "id": "80a4dd79-5c8b-4553-a7d2-b702bd8998d5",
+                            "itemBody": "B. Farmland is expected to provide a better inflation hedge than commodities.",
+                            "position": 2
+                        },
+                        {
+                            "id": "4c6981b5-4b45-471b-beca-3c8b5dc6eb1d",
+                            "itemBody": "C. Differences in correlation do not provide any information that is useful in assessing whether an asset class is an inflation hedge.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8267,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4496,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53970",
+            "entry": {
+                "title": "ITEM_20170427010",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe \u003ci\u003emost likely\u003c/i\u003e impact of adding commodities to a portfolio of equities and bonds is to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c68477de-3877-4dc6-a58b-8cd6bbbc46b7"
+                },
+                "answerFeedback": {
+                    "3eb0e2a8-e28b-4530-8771-25500cf828c9": "\u003cp\u003eIncorrect because farmland, timberland, and commodities exhibit potential for portfolio diversification. Historically, all three of these asset classes have low correlations with investment returns from traditional assets (i.e., stocks and bonds) during the business cycle.\u003c/p\u003e",
+                    "c253fb89-448d-42bf-aef3-72e70269d99b": "\u003cp\u003eIncorrect because commodities themselves do not generate cash flows but usually incur costs.\u003c/p\u003e",
+                    "c68477de-3877-4dc6-a58b-8cd6bbbc46b7": "\u003cp\u003eCorrect because investors often consider commodity investments as a hedge against inflation.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3eb0e2a8-e28b-4530-8771-25500cf828c9",
+                            "itemBody": "\u003cp\u003eA. increase risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c253fb89-448d-42bf-aef3-72e70269d99b",
+                            "itemBody": "\u003cp\u003eB. generate cash flows.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c68477de-3877-4dc6-a58b-8cd6bbbc46b7",
+                            "itemBody": "\u003cp\u003eC. reduce exposure to inflation.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8710,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4496,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

@@ -1,0 +1,1786 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6220,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 28,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 12: Introduction to Financial Statement Modeling",
+        "topic_id": 1034,
+        "topic": "CFA-26-02-LI-C: Financial Statement Analysis",
+        "subtopic_id": 6220,
+        "subtopic": "Module 12: Introduction to Financial Statement Modeling",
+        "question_count": 28,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 850,
+                "name": "Warehouse Course: Financial Statement Analysis 26-LI",
+                "code": "Warehouse Course: Financial Statement Analysis 26-LI",
+                "module_id": 4454,
+                "question_count": 21,
+                "type": "warehouse"
+            },
+            {
+                "id": 841,
+                "name": "Practice Pack Warehouse: Financial Statement Analysis 26-LI",
+                "code": "Practice Pack Warehouse: Financial Statement Analysis 26-LI",
+                "module_id": 4671,
+                "question_count": 7,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            ""
+        ],
+        "points_possible": 28.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "fdc2a7c04f6e4b21",
+        "ordered_item_ids": [
+            "54831",
+            "54832",
+            "54833",
+            "54834",
+            "54835",
+            "54836",
+            "54837",
+            "50974",
+            "50975",
+            "50976",
+            "50977",
+            "50978",
+            "50979",
+            "50980",
+            "50981",
+            "50982",
+            "50983",
+            "50984",
+            "50985",
+            "50986",
+            "50987",
+            "50988",
+            "50989",
+            "50990",
+            "50991",
+            "50992",
+            "50993",
+            "50994",
+            "50995",
+            "50996",
+            "50997"
+        ],
+        "visible_item_ids": [
+            "54831",
+            "54832",
+            "54833",
+            "54834",
+            "54835",
+            "54836",
+            "54837",
+            "50974",
+            "50975",
+            "50976",
+            "50977",
+            "50978",
+            "50979",
+            "50980",
+            "50981",
+            "50982",
+            "50983",
+            "50984",
+            "50985",
+            "50986",
+            "50987",
+            "50988",
+            "50989",
+            "50990",
+            "50991",
+            "50992",
+            "50993",
+            "50994",
+            "50995",
+            "50996",
+            "50997"
+        ]
+    },
+    "items": [
+        {
+            "id": "54831",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-FSAN-Burke-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf the price elasticity of demand for a product is 0.8 and its unit cost remains constant, a 10% increase in its\u0026nbsp;selling price will \u003ci\u003emost likely\u003c/i\u003e result in:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5a3ee3d1-c18b-489f-b93a-eae4a0781b33"
+                },
+                "answerFeedback": {
+                    "31cc8ff2-100c-4900-9de0-aa0dc5ce6f4a": "\u003cp\u003eIncorrect because\u0026nbsp;the impact of higher prices on volume depends on the price elasticity of demand (i.e., how the quantity demanded varies with price).\u0026nbsp;Price elasticity of demand gives the impact to volume, and not total revenues, for a given level of price increases.\u0026nbsp;\u003c/p\u003e",
+                    "5a3ee3d1-c18b-489f-b93a-eae4a0781b33": "\u003cp\u003eCorrect because the impact of higher prices on volume depends on the price elasticity of demand (i.e., how the quantity demanded varies with price).\u0026nbsp; Price elasticity of demand gives the impact to volume, and not total revenues, for a given level of price increases.\u0026nbsp; Furthermore, Analyst A expects price elasticity of 0.8, indicating that volume will fall by 8 percent given the 10 percent retail price increase.\u003c/p\u003e",
+                    "d73d5e4f-b4ff-4fe5-9703-e2d808754c60": "\u003cp\u003eIncorrect because\u0026nbsp;the impact of higher prices on volume depends on the price elasticity of demand (i.e., how the quantity demanded varies with price). Since volumes will decline, cost of goods sold will also decline.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d73d5e4f-b4ff-4fe5-9703-e2d808754c60",
+                            "itemBody": "\u003cp\u003eA. no change in cost of sales.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5a3ee3d1-c18b-489f-b93a-eae4a0781b33",
+                            "itemBody": "\u003cp\u003eB. a decrease in volume\u0026nbsp;of 8%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "31cc8ff2-100c-4900-9de0-aa0dc5ce6f4a",
+                            "itemBody": "\u003cp\u003eC. an increase in revenue of 8%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8840,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4671,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54832",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-FSAN-Huffman-08",
+                "feedback": {},
+                "itemBody": "\u003cp\u003ePorter's five forces analysis, used in conjunction with\u0026nbsp;financial forecasting, can\u0026nbsp;be used to estimate a company's future profit margin relative to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4b31d8b5-23e8-4313-8b91-681bc8c7ca45"
+                },
+                "answerFeedback": {
+                    "270f34d3-d839-45e9-a493-16ff0e03a613": "\u003cp\u003eIncorrect because Porter’s five forces framework and similar analytical tools can help analysts assess the relative profit potential of a company by helping analysts estimate whether profit margins are likely to be relatively high or low (relative to historical profit margins and relative to competing companies).\u003c/p\u003e",
+                    "4b31d8b5-23e8-4313-8b91-681bc8c7ca45": "\u003cp\u003eCorrect because Porter’s five forces framework and similar analytical tools can help analysts assess the relative profit potential of a company by helping them understand the company’s industry and its position within that industry. Understanding the industry and competitive contexts of a company helps analysts estimate whether, for example, sales growth is likely to be relatively high or low (relative to history, relative to the overall growth in the economy or a sector, and/or relative to competing companies) and whether profit margins are likely to be relatively high or low (relative to historical profit margins and relative to competing companies).\u003c/p\u003e",
+                    "a6d7b8ee-d054-4482-8ede-f424f1abdd97": "\u003cp\u003eIncorrect because Porter’s five forces framework and similar analytical tools can help analysts assess the relative profit potential of a company by helping analysts estimate whether profit margins are likely to be relatively high or low (relative to historical profit margins and relative to competing companies).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "270f34d3-d839-45e9-a493-16ff0e03a613",
+                            "itemBody": "\u003cp\u003eA. only its competitors.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a6d7b8ee-d054-4482-8ede-f424f1abdd97",
+                            "itemBody": "\u003cp\u003eB. only its historic margins.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4b31d8b5-23e8-4313-8b91-681bc8c7ca45",
+                            "itemBody": "\u003cp\u003eC. both its competitors and its historic margins.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8840,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4671,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54833",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-FSAN-Harper-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst uses the following information to forecast a company's gross profit margin:\u0026nbsp;\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 436px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"width: 150.417px;\" scope=\"col\"\u003e\u0026nbsp;\u003c/th\u003e\n\u003cth style=\"width: 191.558px; max-width: 146px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eCurrent Amount \u003cbr\u003e(in $ millions)\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"width: 93.28px; max-width: 95px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eForecasted Growth\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 150.417px;\"\u003e\n\u003cp\u003eSales\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 191.558px; max-width: 146px; text-align: center;\"\u003e1,200\u003c/td\u003e\n\u003ctd style=\"width: 93.28px; max-width: 95px; text-align: center;\"\u003e8%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 150.417px;\"\u003eCost of sales\u003c/td\u003e\n\u003ctd style=\"width: 191.558px; max-width: 146px; text-align: center;\"\u003e300\u003c/td\u003e\n\u003ctd style=\"width: 93.28px; max-width: 95px; text-align: center;\"\u003e4%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe analyst's forecasted gross profit margin should be \u003ci\u003eclosest to\u003c/i\u003e a(n):\u0026nbsp;\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5b0915d1-1d58-4ba0-82c3-2adc8b01c366"
+                },
+                "answerFeedback": {
+                    "37702c9f-2bf9-420f-9a77-5addf5bb330d": "\u003cp\u003eIncorrect because it computes the gross profit margin as cost of sales / sales.\u0026nbsp; Current gross profit margin is 25% (300 / 1,200) and the forecasted gross profit margin is 24.1% (312 / 1,296) a decrease of approximately 1%.\u003c/p\u003e",
+                    "5b0915d1-1d58-4ba0-82c3-2adc8b01c366": "\u003cp\u003eCorrect because the gross profit for the current year is 900 (=1,200 – 300), therefore the current gross profit margin is 75%.\u0026nbsp; If sales increase by 8% (to 1,296) and cost of sales increase by 4% (to 312), the forecasted gross profit is 984 (= 1,296 – 312), and the forecasted gross profit margin is 75.9%.\u0026nbsp; This is an increase of approximately 1% (= 75.9% – 75%).\u003c/p\u003e",
+                    "b575e021-693d-476e-b2a8-2ff09c477073": "\u003cp\u003eIncorrect because it assumes the starting values have the same base and takes the difference in the growth rates; 4% = sales growth – cost of sales growth = 8% – 4%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "37702c9f-2bf9-420f-9a77-5addf5bb330d",
+                            "itemBody": "\u003cp\u003eA. decrease of 1%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5b0915d1-1d58-4ba0-82c3-2adc8b01c366",
+                            "itemBody": "\u003cp\u003eB. increase of 1%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b575e021-693d-476e-b2a8-2ff09c477073",
+                            "itemBody": "\u003cp\u003eC. increase of 4%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8840,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4671,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54834",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-FSAN-Harper-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll else being equal, forecasting an increase in which of the following will \u003ci\u003emost likely\u003c/i\u003e increase forecasted EPS for a company?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "70d5980d-b774-4273-92a6-9e088df2530d"
+                },
+                "answerFeedback": {
+                    "70d5980d-b774-4273-92a6-9e088df2530d": "\u003cp\u003eCorrect because share repurchases decrease the number of shares outstanding.\u0026nbsp; A decrease in the number of shares outstanding will raise the EPS all things being equal.\u003c/p\u003e",
+                    "c499fbaa-e3c0-4240-bf67-ddc0205b63d7": "\u003cp\u003eIncorrect because an increase in equity-based compensation\u0026nbsp;increases\u0026nbsp;the number of shares outstanding.\u0026nbsp; An increase in the number of shares outstanding will decrease the EPS all things being equal.\u003c/p\u003e",
+                    "d4d9d89f-c626-47b4-96d7-6a54e1ea5515": "\u003cp\u003eIncorrect because a secondary stock issuance increases\u0026nbsp;the number of shares outstanding.\u0026nbsp; An increase in the number of shares outstanding will decrease the EPS all things being equal.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "70d5980d-b774-4273-92a6-9e088df2530d",
+                            "itemBody": "\u003cp\u003eA. Share repurchases\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d4d9d89f-c626-47b4-96d7-6a54e1ea5515",
+                            "itemBody": "\u003cp\u003eB. Secondary stock issuances\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c499fbaa-e3c0-4240-bf67-ddc0205b63d7",
+                            "itemBody": "\u003cp\u003eC. Equity-based compensation of employees\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8840,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4671,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54835",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-FSAN-Harper-12",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFor a company in a cyclical industry, normalized earnings are \u003ci\u003ebest \u003c/i\u003edescribed as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "46f2269a-962b-428e-a657-730f24aca10e"
+                },
+                "answerFeedback": {
+                    "1a9df8d7-051f-4356-8ed5-ddf97ecb4fe6": "\u003cp\u003eIncorrect because normalized earning are based on mid-cycle earnings, not peak-year earnings.\u003c/p\u003e",
+                    "46f2269a-962b-428e-a657-730f24aca10e": "\u003cp\u003eCorrect because normalized earnings are the expected level of mid-cycle earnings for a company in the absence of any unusual or temporary factors that affect profitability.\u003c/p\u003e",
+                    "605b6a35-ae1a-4f8f-8b3f-6a1b35abf5cd": "\u003cp\u003eIncorrect because normalized earnings remove the impact of temporary factors and unusual events such as acquisitions.\u0026nbsp;\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "605b6a35-ae1a-4f8f-8b3f-6a1b35abf5cd",
+                            "itemBody": "\u003cp\u003eA. current earnings that include the impact of acquisitions.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "46f2269a-962b-428e-a657-730f24aca10e",
+                            "itemBody": "\u003cp\u003eB. mid-cycle earnings in the absence of temporary factors.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1a9df8d7-051f-4356-8ed5-ddf97ecb4fe6",
+                            "itemBody": "\u003cp\u003eC. earnings from the peak years excluding temporary factors.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8840,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4671,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54836",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-FSAN-Erickson-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eMaintaining prior views or forecasts by inadequately incorporating new information \u003ci\u003ebest \u003c/i\u003edescribes:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0977f258-36f5-4f95-9c15-7a5c4fae8359"
+                },
+                "answerFeedback": {
+                    "0977f258-36f5-4f95-9c15-7a5c4fae8359": "\u003cp\u003eCorrect because conservatism bias is a bias in which people maintain their prior views or forecasts by inadequately incorporating new information.\u003c/p\u003e",
+                    "8030af0e-1070-4cf2-bd47-6d5b1f335751": "\u003cp\u003eIncorrect because representative bias refers to the tendency to classify information based on past experiences and known classifications.\u003c/p\u003e",
+                    "b8e396ba-f7f4-4bf3-b178-ebb59cdde20f": "\u003cp\u003eIncorrect because overconfidence bias occurs when people demonstrate unwarranted faith in their own abilities.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0977f258-36f5-4f95-9c15-7a5c4fae8359",
+                            "itemBody": "\u003cp\u003eA. conservatism bias.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b8e396ba-f7f4-4bf3-b178-ebb59cdde20f",
+                            "itemBody": "\u003cp\u003eB. overconfidence bias.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8030af0e-1070-4cf2-bd47-6d5b1f335751",
+                            "itemBody": "\u003cp\u003eC. representativeness bias.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8840,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4671,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54837",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-FSAN-Erickson-08",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn\u0026nbsp;the Porter's five forces framework, a company is \u003ci\u003emost likely\u003c/i\u003e to have the greatest profitability if:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0dba75e3-2795-4fd6-ba74-06b292760686"
+                },
+                "answerFeedback": {
+                    "0dba75e3-2795-4fd6-ba74-06b292760686": "\u003cp\u003eCorrect because both a low availability of substitutes\u0026nbsp;and low bargaining power of buyers would improve\u0026nbsp;a company's pricing power.\u0026nbsp;\u003c/p\u003e",
+                    "44940b03-136f-4f79-9518-cf218b3a5ff5": "\u003cp\u003eIncorrect because a high availability of substitutes would act to offset the positive effect of low bargaining power of buyers.\u003c/p\u003e",
+                    "543f92d3-896a-4a93-8521-bda2c28c659d": "\u003cp\u003eIncorrect because a high degree of rivalry would offset the positive effect of a low threat of substitutes.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0dba75e3-2795-4fd6-ba74-06b292760686",
+                            "itemBody": "\u003cp\u003eA. the threat of substitutes is low and the bargaining power of buyers is low.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "543f92d3-896a-4a93-8521-bda2c28c659d",
+                            "itemBody": "\u003cp\u003eB. the threat of substitutes is low and the bargaining power of buyers is high.\u0026nbsp;\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "44940b03-136f-4f79-9518-cf218b3a5ff5",
+                            "itemBody": "\u003cp\u003eC. the threat of substitutes is high\u0026nbsp;and the bargaining power of buyers is low.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8840,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4671,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50974",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eNigel French, an analyst at Taurus Investment Management, is analyzing Archway Technologies, a manufacturer of luxury electronic auto equipment, at the request of his supervisor, Lukas Wright. French is asked to evaluate Archway’s profitability over the past five years relative to its two main competitors, which are located in different countries with significantly different tax structures.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFrench begins by assessing Archway’s competitive position within the luxury electronic auto equipment industry using Porter’s five forces framework. A summary of French’s industry analysis is presented in Exhibit 1.\u003c/p\u003e\n\u003cdiv id=\"CFA1434-R-s06-EXH1\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003eExhibit 1\u003cspan style=\"display: block;\"\u003eAnalysis of Luxury Electronic Auto Equipment Industry Using Porter’s Five Forces Framework\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eForce\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: left; vertical-align: top; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eFactors to Consider\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThreat of substitutes\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCustomer switching costs are high\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eRivalry\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eArchway holds 60 percent of world market share; each of its two main competitors holds 15 percent\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eBargaining power of suppliers\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003ePrimary inputs are considered basic commodities, and there are a large number of suppliers\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eBargaining power of buyers\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eLuxury electronic auto equipment is very specialized (non-standardized)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThreat of new entrants\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eHigh fixed costs to enter industry\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFrench notes that for the year just ended (2019), Archway’s COGS was 30 percent of sales. To forecast Archway’s income statement for 2020, French assumes that all companies in the industry will experience an inflation rate of 8 percent on the COGS. Exhibit 2 shows French’s forecasts relating to Archway’s price and volume changes.\u003c/p\u003e\n\u003cdiv id=\"CFA1434-R-s06-EXH2\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003eExhibit 2\u003cspan style=\"display: block;\"\u003eArchway’s 2020 Forecasted Price and Volume Changes\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eAverage price increase per unit\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e5.00%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eVolume growth\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e–3.00%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAfter putting together income statement projections for Archway, French forecasts Archway’s balance sheet items. He uses Archway’s historical efficiency ratios to forecast the company’s working capital accounts.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on his financial forecast for Archway, French estimates a terminal value using a valuation multiple based on the company’s average price-to-earnings multiple (P/E) over the past five years. Wright discusses with French how the terminal value estimate is sensitive to key assumptions about the company’s future prospects. Wright asks French:\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e“What change in the calculation of the terminal value would you make if a technological development that would adversely affect Archway was forecast to occur sometime beyond your financial forecast horizon?”\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50975",
+            "entry": {
+                "title": "CFA1434-R-s06-Q6",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Operating (EBIT) margin is a pre-tax profitability measure that can be useful in the peer comparison of companies in countries with different tax structures. Archway’s two main competitors are located in different countries with significantly different tax structures; therefore, a pre-tax measure is better than an after-tax measure, such as ROIC. The current ratio is a liquidity measure, not a profitability measure.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich profitability metric should French use to assess Archway’s five-year historic performance relative to its competitors?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "950f94dd-f5d9-455b-8e13-d46e52077107"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9a933ef8-872f-488b-9bc2-c55f01782b4c",
+                            "itemBody": "\u003cp\u003eA. Current ratio\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "950f94dd-f5d9-455b-8e13-d46e52077107",
+                            "itemBody": "\u003cp\u003eB. Operating margin\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d78059ed-4251-4e02-bae3-2aba9e00217e",
+                            "itemBody": "\u003cp\u003eC. Return on invested capital\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50974"
+        },
+        {
+            "id": "50976",
+            "entry": {
+                "title": "CFA1434-R-s06-Q7",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Porter’s five forces framework in Exhibit 1 describes an industry with high barriers to entry, high customer switching costs (suggesting a low threat of substitutes), and a specialized product (suggesting low bargaining power of buyers). Furthermore, the primary production inputs from the large group of suppliers are considered basic commodities (suggesting low bargaining power of suppliers). These favorable industry characteristics will likely enable Archway to pass along price increases and generate above-average returns on invested capital.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on the current competitive landscape presented in Exhibit 1, French should conclude that Archway’s ability to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "46f5c340-dc48-4b38-94a3-d90127f19e9c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "46f5c340-dc48-4b38-94a3-d90127f19e9c",
+                            "itemBody": "\u003cp\u003eA. pass along price increases is high.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "07c4df7b-d2da-441d-b923-4e09a8a66ae1",
+                            "itemBody": "\u003cp\u003eB. demand lower input prices from suppliers is low.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "75153163-722d-4e45-90cb-72a5bd311026",
+                            "itemBody": "\u003cp\u003eC. generate above-average returns on invested capital is low.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50974"
+        },
+        {
+            "id": "50977",
+            "entry": {
+                "title": "CFA1434-R-s06-Q8",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The current favorable characteristics of the industry (high barriers to entry, low bargaining power of suppliers and buyers, low threat of substitutes), coupled with Archway’s dominant market share position, will likely lead to Archway’s profit margins being at least equal to or greater than current levels over the forecast horizon.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on the current competitive landscape presented in Exhibit 1, Archway’s operating profit margins over the forecast horizon are \u003cem\u003eleast likely\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b273d5ec-6392-4863-a591-86d5b3a9a41f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b273d5ec-6392-4863-a591-86d5b3a9a41f",
+                            "itemBody": "\u003cp\u003eA. decrease.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1bf73f45-b348-498a-934f-d9b2e320c996",
+                            "itemBody": "\u003cp\u003eB. remain constant.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "086073bd-8f31-4488-a859-e24a96765682",
+                            "itemBody": "\u003cp\u003eC. increase.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50974"
+        },
+        {
+            "id": "50978",
+            "entry": {
+                "title": "CFA1434-R-s06-Q9",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The calculation of Archway’s gross profit margin for 2020, which reflects the industry-wide 8% inflation on COGS, is calculated as follows:\u003c/p\u003e\u003cdiv id=\"CFA1434-R-s06-Tb\" style=\"padding: 15px !important; box-sizing: border-box; margin-top: 20px; margin-bottom: 20px; border: none; overflow-x: auto; background-color: #fff; max-width: 100%; padding: 0;\"\u003e\u003cdiv style=\"overflow-x: auto; overflow-y: hidden; min-width: 0; padding: 0; margin: 0; width: 100%; border: none !important;\"\u003e\u003ctable\u003e\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eRevenue growth \u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003e1.85%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eCOGS increase\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003e4.76%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: bottom;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eForecasted revenue (Base revenue = 100)\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003e101.85\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eForecasted COGS (Base COGS = 30)\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003e31.43\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eForecasted gross profit\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003e70.42\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top; border-bottom: 1px solid black;\"\u003eForecasted gross profit margin\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e69.14%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E1\"\u003eRevenue growth = (1 + Price increase for revenue) × (1 + Volume growth) – 1\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E1___1\"\u003e= (1.05) × (0.97) – 1\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E\"\u003e= 1.85%.\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E1___2\"\u003eCOGS increase = (1 + Price increase for COGS) × (1 + Volume growth) – 1\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E1___3\"\u003e= (1.08) × (0.97) – 1\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___1\"\u003e= 4.76%.\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___2\"\u003eForecasted revenue = Base revenue × Revenue growth increase\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___3\"\u003e= 100 × 1.0185\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___4\"\u003e= 101.85.\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___5\"\u003eForecasted COGS = Base COGS × COGS increase\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___6\"\u003e= 30 × 1.0476\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___7\"\u003e= 31.43.\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___8\"\u003eForecasted gross profit = Forecasted revenue – Forecasted COGS\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E31.43\"\u003e= 101.85 – 31.43\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___9\"\u003e= 70.42.\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___10\"\u003eForecasted gross profit margin = Forecasted gross profit/Forecasted revenue\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___11\"\u003e= 70.42/101.85\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___12\"\u003e= 69.14%.\u003c/div\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on Exhibit 2, Archway’s forecasted gross profit margin for 2020 is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8eeed0e7-c695-4fca-9faf-f4047fc02beb"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "01e717ee-471a-4716-9be2-aee133cdef63",
+                            "itemBody": "\u003cp\u003eA. 62.7 percent.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e40fce96-73c0-4797-bd92-3ea6e6e5214c",
+                            "itemBody": "\u003cp\u003eB. 67.0 percent.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8eeed0e7-c695-4fca-9faf-f4047fc02beb",
+                            "itemBody": "\u003cp\u003eC. 69.1 percent.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50974"
+        },
+        {
+            "id": "50979",
+            "entry": {
+                "title": "CFA1434-R-s06-Q10",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. French is using a bottom-up approach to forecast Archway’s working capital accounts by using the company’s historical efficiency ratios to project future performance.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFrench’s approach to forecasting Archway’s working capital accounts would be \u003cem\u003emost likely\u003c/em\u003e classified as a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ba646abc-114f-4eab-be03-0b640f63a24a"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6b461a72-bbdc-490e-ab20-0c7110e3e03a",
+                            "itemBody": "\u003cp\u003eA. hybrid approach.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ab4d0a1d-e71b-4c95-9c2d-8471c9adb27d",
+                            "itemBody": "\u003cp\u003eB. top-down approach.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ba646abc-114f-4eab-be03-0b640f63a24a",
+                            "itemBody": "\u003cp\u003eC. bottom-up approach.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50974"
+        },
+        {
+            "id": "50980",
+            "entry": {
+                "title": "CFA1434-R-s06-Q11",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. If the future growth or profitability of a company is likely to be lower than the historical average (in this case, because of a potential technological development), then the target multiple should reflect a discount to the historical multiple to reflect this difference in growth and/or profitability. If a multiple is used to derive the terminal value of a company, the choice of the multiple should be consistent with the long-run expectations for growth and required return. French tells Wright he believes that such a technological development could have an adverse impact on Archway beyond the forecast horizon.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe \u003cem\u003emost appropriate\u003c/em\u003e response to Wright’s question about the technological development is to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3195a865-72a0-4219-b8a5-716cfe01edb7"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ca770160-2c1c-48fd-a614-41c5a604675f",
+                            "itemBody": "\u003cp\u003eA. increase the required return.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a316ed2d-718d-484c-9422-8716c6be3b15",
+                            "itemBody": "\u003cp\u003eB. decrease the perpetual growth rate.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3195a865-72a0-4219-b8a5-716cfe01edb7",
+                            "itemBody": "\u003cp\u003eC. decrease the price-to-earnings multiple.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50974"
+        },
+        {
+            "id": "50981",
+            "entry": {
+                "title": "CFA1434-R-s06-Q12",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Forecasting a single scenario would not be appropriate given the high degree of uncertainty and range of potential outcomes for companies in this industry.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf the luxury electronic auto equipment industry is subject to rapid technological changes and market share shifts, how should French \u003cem\u003ebest\u003c/em\u003e adapt his approach to modeling?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "838f932e-ecd4-4b26-bbb4-f3f5313100d8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a7253b80-25fb-44d8-bb44-d1b9d5d08d33",
+                            "itemBody": "\u003cp\u003eA. Examine base rates\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "838f932e-ecd4-4b26-bbb4-f3f5313100d8",
+                            "itemBody": "\u003cp\u003eB. Forecast multiple scenarios\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "17e605fa-bf76-4a29-9c30-f5135811b57c",
+                            "itemBody": "\u003cp\u003eC. Speak to analysts who hold diverse opinions on the stock\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50974"
+        },
+        {
+            "id": "50982",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eGertrude Fromm is a transportation sector analyst at Tucana Investments. She is conducting an analysis of Omikroon, N.V., a hypothetical European engineering company that manufactures and sells scooters and commercial trucks.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eOmikroon’s petrol scooter division is the market leader in its sector and has two competitors. Omikroon’s petrol scooters have a strong brand name and a well-established distribution network. Given the strong branding established by the market leaders, the cost of entering the industry is high. But Fromm anticipates that small, inexpensive, imported petrol-fueled motorcycles could become substitutes for Omikroon’s petrol scooters.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFromm uses ROIC as the metric to assess Omikroon’s performance.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eOmikroon has just introduced the first electric scooter to the market at year-end 2019. The company’s expectations are as follows:\u003c/p\u003e\n\u003cul id=\"CFA1434-R-s06-L1\" style=\"list-style-type: disc; margin-bottom: 15px; padding-left: 20px;\"\u003e\n\u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCompeting electric scooters will reach the market in 2021.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eElectric scooters will not be a substitute for petrol scooters.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe important research costs in 2020 and 2021 will lead to more efficient electric scooters.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFromm decides to use a five-year forecast horizon for Omikroon after considering the following three factors:\u003c/p\u003e\n\u003cul style=\"list-style-type: none; margin-bottom: 15px; padding-left: 20px;\"\u003e\n\u003cli\u003e\u003cstrong\u003eFactor 1: \u003c/strong\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe annual portfolio turnover at Tucana Investments is 30 percent.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eFactor 2: \u003c/strong\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe electronic scooter industry is expected to grow rapidly over the next 10 years.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eFactor 3: \u003c/strong\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eOmikroon has announced it would acquire a light truck manufacturer that will be fully integrated into its truck division by 2021 and will add 2 percent to the company’s total revenues.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFromm uses the base case forecast for 2020 shown in Exhibit 1 to perform the following sensitivity analysis:\u003c/p\u003e\n\u003cul id=\"CFA1434-R-s06-L3\" style=\"list-style-type: disc; margin-bottom: 15px; padding-left: 20px;\"\u003e\n\u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe price of an imported specialty metal used for engine parts increases by 20 percent.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThis metal constitutes 4 percent of Omikroon’s cost of sales.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eOmikroon will not be able to pass on the higher metal expense to its customers.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cdiv id=\"CFA1434-R-s06-EXH1___1\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003eExhibit 1\u003cspan style=\"display: block;\"\u003eOmikroon’s Selected Financial Forecasts for 2020 Base Case (euro millions)\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003ePetrol Scooter Division\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eCommercial Truck Division\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eElectric Scooter Division\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u003cstrong\u003eTotal\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eSales\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e99.05\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e45.71\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e7.62\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e152.38\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCost of sales\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e105.38\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eGross profit\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e47.00\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eOperating profit\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e9.20\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eOmikroon will initially outsource its electric scooter parts. But manufacturing these parts in-house beginning in 2021 will imply changes to an existing factory. This factory cost EUR7 million three years ago and had an estimated useful life of 10 years. Fromm is evaluating two scenarios:\u003c/p\u003e\n\u003cul style=\"list-style-type: none; margin-bottom: 15px; padding-left: 20px;\"\u003e\n\u003cli\u003e\u003cstrong\u003eScenario 1: \u003c/strong\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eRefit the existing factory for EUR27 million.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eScenario 2: \u003c/strong\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSell the existing factory for EUR5 million. Build a new factory costing EUR30 million with a useful life of 10 years.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50983",
+            "entry": {
+                "title": "CFA1434-R-s06-Q13",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Small, inexpensive, imported petrol-fueled motorcycles are substitutes for petrol scooters and could increasingly have an impact on Omikroon’s petrol scoter pricing power.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eUsing Porter’s five forces analysis, which of the following competitive factors is \u003cem\u003emost likely\u003c/em\u003e to have the greatest impact on Omikroon’s petrol scooter pricing power?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e18de8bc-1e4d-48c4-bbdd-a256dbbf3132"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c68f0803-0765-4fbd-86c5-07ea602bc7ac",
+                            "itemBody": "\u003cp\u003eA. Rivalry\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e18de8bc-1e4d-48c4-bbdd-a256dbbf3132",
+                            "itemBody": "\u003cp\u003eB. Threat of substitutes\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "456bc082-1934-4b5e-808e-c99c21e2f8e4",
+                            "itemBody": "\u003cp\u003eC. Threat of new entrants\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50982"
+        },
+        {
+            "id": "50984",
+            "entry": {
+                "title": "CFA1434-R-s06-Q14",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Return on invested capital is net operating profit minus adjusted taxes divided by invested capital, where invested capital is defined as operating assets minus operating liabilities.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe metric used by Fromm to assess Omikroon’s performance incorporates:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5e24525c-ab33-4a3b-82cd-479709b6d18f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5615b18a-a399-44c4-bc5f-51e990154031",
+                            "itemBody": "A. the degree of financial leverage.",
+                            "position": 1
+                        },
+                        {
+                            "id": "5e24525c-ab33-4a3b-82cd-479709b6d18f",
+                            "itemBody": "B. operating liabilities relative to operating assets.",
+                            "position": 2
+                        },
+                        {
+                            "id": "24749323-2642-4938-98ec-09ae701f4e19",
+                            "itemBody": "C. the firm’s competitiveness relative to companies in other tax regimes.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50982"
+        },
+        {
+            "id": "50985",
+            "entry": {
+                "title": "CFA1434-R-s06-Q15",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Competition from other electric scooter manufacturers is expected to begin in one year. After this time, competing electric scooters could lead to lower demand for Omikroon’s electric scooters and affect Omikroon’s gross profit margin.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on Omikroon’s expectations, the gross profit margin of Omikroon’s electric scooter division in 2021 is \u003cem\u003emost likely\u003c/em\u003e to be affected by:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e72b323c-a38e-4f1f-87b5-e25606d12ea8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e72b323c-a38e-4f1f-87b5-e25606d12ea8",
+                            "itemBody": "\u003cp\u003eA. competition.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "dc3ee56c-b0af-4f65-86ae-e04dea347d20",
+                            "itemBody": "\u003cp\u003eB. research costs.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "729cd5e4-72d9-48c5-9e58-11c234b0a81d",
+                            "itemBody": "\u003cp\u003eC. cannibalization by petrol scooters.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50982"
+        },
+        {
+            "id": "50986",
+            "entry": {
+                "title": "CFA1434-R-s06-Q16",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The electric scooter market is expected to grow rapidly, so the contribution of Omikroon’s new electric scooter division is forecast to expand significantly over the next 10 years. A is incorrect because the investment company’s portfolio turnover is not relevant for forecasting Omrikoon’s future results. C is incorrect because the light truck division is expected to add only 2% to total revenues in the future.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich factor \u003cem\u003ebest\u003c/em\u003e justifies the five-year forecast horizon for Omikroon selected by Fromm?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3353f126-7f20-4e2e-9391-2287cd44437c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "13b99a59-95e7-4e41-a1da-7139822e1991",
+                            "itemBody": "\u003cp\u003eA. Factor 1\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3353f126-7f20-4e2e-9391-2287cd44437c",
+                            "itemBody": "\u003cp\u003eB. Factor 2\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8aeac1fa-c66f-4a9d-b02e-6ff2ed3d176a",
+                            "itemBody": "\u003cp\u003eC. Factor 3\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50982"
+        },
+        {
+            "id": "50987",
+            "entry": {
+                "title": "CFA1434-R-s06-Q17",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The sensitivity analysis consists of an increase of 20 percent in the price of an input that constitutes 4 percent of cost of sales. Change in gross profit margin because of that increase is calculated as the change in cost of sales because of price increase divided by sales:\u003c/p\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___13\"\u003e= (Cost of sales × 0.04 × 0.2)/Sales\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___14\"\u003e= (105.38 × 0.04 × 0.2)/152.38\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA1434-R-s06-E___15\"\u003e= 0.0055 or 0.55%\u003c/div\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFromm’s sensitivity analysis will result in a decrease in the 2020 base case gross profit margin \u003cem\u003eclosest to\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "196fa8ff-f72b-4c61-8ae3-39618a021e28"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "196fa8ff-f72b-4c61-8ae3-39618a021e28",
+                            "itemBody": "\u003cp\u003eA. 0.55 percent.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "07deda66-68cb-4c00-be0b-13a025c642ea",
+                            "itemBody": "\u003cp\u003eB. 0.80 percent.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "5ae373a0-d7ee-411d-b04c-a42ef301a340",
+                            "itemBody": "\u003cp\u003eC. 3.32 percent.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50982"
+        },
+        {
+            "id": "50988",
+            "entry": {
+                "title": "CFA1434-R-s06-Q18",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. In Scenario 1, growth capital expenditures of EUR27 million for the refit of the existing idle factory is higher than the growth capital expenditures in Scenario 2 of EUR25 million. The EUR25 million is the cost of building a new factory for EUR30 million less the proceeds from the sale of the existing idle factory of EUR5 million.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFromm’s estimate of growth capital expenditures included in Omikroon’s PP\u0026amp;E under Scenario 1 should be:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "676f77b1-95dd-455f-9901-58b5328c1de8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2583ddb4-d71f-4874-afde-6fa731dcebac",
+                            "itemBody": "\u003cp\u003eA. lower than under Scenario 2.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5d3bc6a9-4293-463d-981e-594ada478493",
+                            "itemBody": "\u003cp\u003eB. the same as under Scenario 2.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "676f77b1-95dd-455f-9901-58b5328c1de8",
+                            "itemBody": "\u003cp\u003eC. higher than under Scenario 2.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50982"
+        },
+        {
+            "id": "50989",
+            "entry": {
+                "title": "CFA1434-R-s06-Q19",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The management of Omikroon and investor relations of ZeroWheel are almost certainly biased in favor of expecting strong growth for the markets they participate in. To evaluate the forecast, Fromm should seek more independent sources and balance the biased sources with sources biased in the opposite direction or an analyst who is more skeptical.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eTo validate the forecast for rapid growth in the electronic scooter market over the next 10 years, Fromm speaks to the management of Omikroon and investor relations of ZeroWheel, a competitor. Which behavioral bias is Fromm \u003cem\u003emost likely\u003c/em\u003e subject to?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3fbbe344-2cfe-4134-add4-7f63adc86e13"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3fbbe344-2cfe-4134-add4-7f63adc86e13",
+                            "itemBody": "\u003cp\u003eA. Confirmation\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0dc22408-2b28-4683-ae61-240a41faa77e",
+                            "itemBody": "\u003cp\u003eB. Conservatism\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "61b35d5c-36a0-46be-b338-9a7e294b4fee",
+                            "itemBody": "\u003cp\u003eC. Overconfidence\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50982"
+        },
+        {
+            "id": "50990",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAngela Green, an investment manager at Horizon Investments, intends to hire a new investment analyst. After conducting initial interviews, Green has narrowed the pool to three candidates. She plans to conduct second interviews to further assess the candidates’ knowledge of industry and company analysis.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ePrior to the second interviews, Green asks the candidates to analyze Chrome Network Systems, a company that manufactures internet networking products. Each candidate is provided Chrome’s financial information presented in Exhibit 1.\u003c/p\u003e\n\u003cdiv id=\"CFA1434-R-s06-EXH1___2\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003eExhibit 1\u003cspan style=\"display: block;\"\u003eChrome Network Systems Selected Financial Information (US dollar millions)\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; width: 73.0662%; height: 473.021px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"height: 40.8203px;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 64.1291%; height: 81.6406px;\" rowspan=\"2\" scope=\"col\"\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 35.6467%; height: 40.8203px;\" colspan=\"3\" scope=\"col\"\u003e\u003cstrong\u003eYear-End\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 40.8203px;\"\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px; width: 11.8822%; height: 40.8203px;\" scope=\"col\"\u003e\u003cstrong\u003e2017\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px; width: 11.8822%; height: 40.8203px;\" scope=\"col\"\u003e\u003cstrong\u003e2018\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px; width: 11.8822%; height: 40.8203px;\" scope=\"col\"\u003e\u003cstrong\u003e2019\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr style=\"height: 40.8203px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 64.1291%; height: 40.8203px;\"\u003eNet sales\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e46.8\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e50.5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e53.9\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 40.8203px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 64.1291%; height: 40.8203px;\"\u003eCost of sales\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e18.2\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e18.4\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e18.8\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 40.8203px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 64.1291%; height: 40.8203px;\"\u003eGross profit\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e28.6\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e32.1\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e35.1\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 40.8203px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 64.1291%; height: 40.8203px;\"\u003eSG\u0026amp;A expenses\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e19.3\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e22.5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e25.1\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 40.8203px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 64.1291%; height: 40.8203px;\"\u003eOperating income\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e9.3\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e9.6\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e10.0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 40.8203px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 64.1291%; height: 40.8203px;\"\u003eInterest expense\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e0.5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e0.7\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e0.6\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 64.8177px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 64.1291%; height: 64.8177px;\"\u003eIncome before provision for income tax\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 64.8177px;\"\u003e8.8\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 64.8177px;\"\u003e8.9\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 64.8177px;\"\u003e9.4\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 40.8203px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 64.1291%; height: 40.8203px;\"\u003eProvision for income taxes\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e2.8\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e2.8\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e3.1\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 40.8203px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 64.1291%; height: 40.8203px;\"\u003eNet income\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e6.0\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e6.1\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 11.8822%; height: 40.8203px;\"\u003e6.3\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eGreen asks each candidate to forecast the 2020 income statement for Chrome and to outline the key assumptions used in their analysis. The job candidates are told to include Horizon’s economic outlook for 2020 in their analysis, which assumes nominal GDP growth of 3.6 percent, based on expectations of real GDP growth of 1.6 percent and inflation of 2.0 percent.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eGreen receives the models from each of the candidates and schedules second interviews. To prepare for the interviews, Green compiles a summary of the candidates’ key assumptions in Exhibit 2.\u003c/p\u003e\n\u003cdiv id=\"CFA1434-R-s06-EXH2___1\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003eExhibit 2\u003cspan style=\"display: block;\"\u003eSummary of Key Assumptions Used in Candidates’ Models\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: none;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eMetric\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: left; vertical-align: top; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eCandidate A\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: left; vertical-align: top; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eCandidate B\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: left; vertical-align: top; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eCandidate C\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eNet sales\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eNet sales will grow at the average annual growth rate in net sales over the 2017–19 time period.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eIndustry sales will grow at the same rate as nominal GDP, but Chrome will have a two-percentage-point decline in market share.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eNet sales will grow 50 bps slower than nominal GDP.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCost of sales\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe 2020 gross margin will be the same as the average annual gross margin over the 2017–19 time period.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe 2020 gross margin will decline as costs increase by expected inflation.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe 2020 gross margin will increase by 20 bps from 2019.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eSG\u0026amp;A expenses\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe 2020 SG\u0026amp;A/net sales ratio will be the same as the average ratio over the 2017–19 time period.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe 2020 SG\u0026amp;A will grow at the rate of inflation.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe 2020 SG\u0026amp;A/net sales ratio will be the same as the 2019 ratio.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eInterest expense\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe 2020 interest expense assumes the effective interest rate will be the same as the 2019 rate.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe 2020 interest expense will be the same as the 2019 interest expense.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe 2020 interest expense will be the same as the average expense over the 2017–19 time period.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eIncome taxes\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe 2020 effective tax rate will be the same as the 2019 rate.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe 2020 effective tax rate will equal the blended statutory rate of 30%.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe 2020 effective tax rate will be the same as the average effective tax rate over the 2017–19 time period.\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 17,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50991",
+            "entry": {
+                "title": "CFA1434-R-s06-Q20",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Economies of scale are a situation in which average costs decrease with increasing sales volume. Chrome’s gross margins have been increasing with net sales. Gross margins that increase with sales levels provide evidence of economies of scale, assuming that higher levels of sales reflect increased unit sales. Gross margin more directly reflects the cost of sales than does profit margin.\u003c/p\u003e\u003cdiv id=\"CFA1434-R-s06-Tc\" style=\"padding: 15px !important; box-sizing: border-box; margin-top: 20px; margin-bottom: 20px; border: none; overflow-x: auto; background-color: #fff; max-width: 100%; padding: 0;\"\u003e\u003cdiv style=\"overflow-x: auto; overflow-y: hidden; min-width: 0; padding: 0; margin: 0; width: 100%; border: none !important;\"\u003e\u003ctable\u003e\n\u003cthead\u003e\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003eMetric\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"padding: 8px; text-align: center; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003e2017\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"padding: 8px; text-align: center; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003e2018\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"padding: 8px; text-align: center; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003e2019\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: bottom;\"\u003eNet sales\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003e$46.8\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003e$50.5\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003e$53.9\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eGross profit\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003e28.6\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003e32.1\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003e35.1\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top; border-bottom: 1px solid black;\"\u003eGross margin (gross profit/net sales)\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e61.11%\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e63.56%\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e65.12%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/div\u003e\u003c/div\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on Exhibit 1, which of the following provides the strongest evidence that Chrome displays economies of scale?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "83bc6513-2ce6-449f-b672-d759eadf57d6"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a6817661-41f5-4d49-9fa2-835e8bfa6b10",
+                            "itemBody": "\u003cp\u003eA. Increasing net sales\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4d63da9b-83fb-4f48-a2ff-2f1c0f940ead",
+                            "itemBody": "\u003cp\u003eB. Profit margins that are increasing with net sales\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "83bc6513-2ce6-449f-b672-d759eadf57d6",
+                            "itemBody": "\u003cp\u003eC. Gross profit margins that are increasing with net sales\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 18,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50990"
+        },
+        {
+            "id": "50992",
+            "entry": {
+                "title": "CFA1434-R-s06-Q21",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. A bottom-up approach for developing inputs to equity valuation models begins at the level of the individual company or a unit within the company. By modeling net sales using the average annual growth rate, Candidate A is using a bottom-up approach. B and C are incorrect because both Candidate B and Candidate C are using a top-down approach, which begins at the level of the overall economy.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on Exhibit 2, the job candidate \u003cem\u003emost likely\u003c/em\u003e using a bottom-up approach to model net sales is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6b3866b5-50b5-46ca-94a8-a4817bf25af2"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6b3866b5-50b5-46ca-94a8-a4817bf25af2",
+                            "itemBody": "\u003cp\u003eA. Candidate A.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "208360dd-bb72-4d51-a376-9f97313a5261",
+                            "itemBody": "\u003cp\u003eB. Candidate B.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "dc9dea58-9aec-42c2-bcb5-528c2e312c1b",
+                            "itemBody": "\u003cp\u003eC. Candidate C.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 19,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50990"
+        },
+        {
+            "id": "50993",
+            "entry": {
+                "title": "CFA1434-R-s06-Q22",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. A top-down approach usually begins at the level of the overall economy. Candidate B assumes industry sales will grow at the same rate as nominal GDP but that Chrome will have a 2-percentage-point decline in market share. A and C are incorrect because Candidate B is not using any elements of a bottom-up approach; therefore, a hybrid approach is not being employed.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on Exhibit 2, the modeling approach used by Candidate B to project future net sales is \u003cem\u003emost accurately\u003c/em\u003e classified as a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2a8c6561-8f51-46b0-988a-7160a3b35a00"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "76672a6a-ec57-4324-b305-709d45ca3716",
+                            "itemBody": "\u003cp\u003eA. hybrid approach.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2a8c6561-8f51-46b0-988a-7160a3b35a00",
+                            "itemBody": "\u003cp\u003eB. top-down approach.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2a528fc4-64c9-416e-a944-13836b23ed81",
+                            "itemBody": "\u003cp\u003eC. bottom-up approach.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 20,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50990"
+        },
+        {
+            "id": "50994",
+            "entry": {
+                "title": "CFA1434-R-s06-Q23",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Candidate C assumes that the 2020 gross margin will increase by 20 bps from 2019 and that net sales will grow at 50 bps slower than nominal GDP (nominal GDP = Real GDP + Inflation = 1.6% + 2.0% = 3.6%). Accordingly, the 2020 forecasted cost of sales is USD19.27 million, rounded to USD19.3 million.\u003c/p\u003e\u003cdiv id=\"CFA1434-R-s06-Td\" style=\"padding: 15px !important; box-sizing: border-box; margin-top: 20px; margin-bottom: 20px; border: none; overflow-x: auto; background-color: #fff; max-width: 100%; padding: 0;\"\u003e\u003cdiv style=\"overflow-x: auto; overflow-y: hidden; min-width: 0; padding: 0; margin: 0; width: 100%; border: none !important;\"\u003e\u003ctable\u003e\n\u003cthead\u003e\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003eMetric\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003eCalculation\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003eResult\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e2020 gross margin = 2019 gm + 20 bps\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eUSD35.1/USD53.9 = 65.12% + 0.20% =\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e65.32%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e2020 CoS/net sales = 100% – gross margin\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e100% – 65.32% =\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e34.68%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e2020 net sales = 2019 net sales × (1 + Nominal GDP – 0.50%)\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eUSD53.9 million × (1 + 0.036 – 0.005) = USD53.9 million × 1.031 =\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eUSD55.57 million\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top; border-bottom: 1px solid black;\"\u003e2020 cost of sales = 2020 net sales × CoS/net sales\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top; border-bottom: 1px solid black;\"\u003eUSD55.57 × 34.68% =\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top; border-bottom: 1px solid black;\"\u003eUSD19.27 million\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/div\u003e\u003c/div\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on Exhibits 1 and 2, Candidate C’s forecast for cost of sales in 2020 is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e6d1b931-406d-4313-8ae2-018388f3ea8f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b54e176b-3675-452a-a712-a2aacfabbc7d",
+                            "itemBody": "\u003cp\u003eA. USD18.3 million.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a4443214-f97c-4180-8664-740e94f76528",
+                            "itemBody": "\u003cp\u003eB. USD18.9 million.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e6d1b931-406d-4313-8ae2-018388f3ea8f",
+                            "itemBody": "\u003cp\u003eC. USD19.3 million.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 21,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50990"
+        },
+        {
+            "id": "50995",
+            "entry": {
+                "title": "CFA1434-R-s06-Q24",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Candidate A assumes that the 2020 SG\u0026amp;A/net sales will be the same as the average SG\u0026amp;A/net sales over the 2017–19 time period and that net sales will grow at the annual average growth rate in net sales over the 2017–19 time period. Accordingly, the 2020 forecasted SG\u0026amp;A expenses are USD25.5 million.\u003c/p\u003e\u003cdiv id=\"CFA1434-R-s06-Te\" style=\"padding: 15px !important; box-sizing: border-box; margin-top: 20px; margin-bottom: 20px; border: none; overflow-x: auto; background-color: #fff; max-width: 100%; padding: 0;\"\u003e\u003cdiv style=\"overflow-x: auto; overflow-y: hidden; min-width: 0; padding: 0; margin: 0; width: 100%; border: none !important;\"\u003e\u003ctable\u003e\n\u003cthead\u003e\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003eMetric\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003eCalculation\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003eResult\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eAverage SG\u0026amp;A/net sales, 2017–2019*\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e(41.24% + 44.55% + 46.57%)/3 =\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e44.12%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eAverage annual growth sales in net sales, 2017–2019**\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e(7.91% + 6.73%)/2 =\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e7.32%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e2020 net sales = 2019 net sales × (1 + Average annual growth rate in net sales)\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eUSD53.9 million × 1.0732 =\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e$57.85 million\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e2020 SG\u0026amp;A = 2020 net sales × Average SG\u0026amp;A/net sales\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eUSD57.85 million × 44.12% =\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e$25.52 million\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv id=\"CFA1434-R-s06-Tf\" style=\"padding: 15px !important; box-sizing: border-box; margin-top: 20px; margin-bottom: 20px; border: none; overflow-x: auto; background-color: #fff; max-width: 100%; padding: 0;\"\u003e\u003cdiv style=\"overflow-x: auto; overflow-y: hidden; min-width: 0; padding: 0; margin: 0; width: 100%; border: none !important;\"\u003e\u003ctable\u003e\n\u003cthead\u003e\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: center; vertical-align: top; border-bottom: 1px solid black;\"\u003e\u003c/th\u003e\n\u003cth style=\"padding: 8px; text-align: center; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003e2017\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"padding: 8px; text-align: center; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003e2018\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"padding: 8px; text-align: center; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003e2019\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eNet Sales\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003eUSD46.8\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003eUSD50.5\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003eUSD53.9\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eSG\u0026amp;A expenses\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003eUSD19.3\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003eUSD22.5\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003eUSD25.1\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eSG\u0026amp;A-to-sales ratio\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003e41.24%\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003e44.55%\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: bottom;\"\u003e46.57%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv id=\"CFA1434-R-s06-Tg\" style=\"padding: 15px !important; box-sizing: border-box; margin-top: 20px; margin-bottom: 20px; border: none; overflow-x: auto; background-color: #fff; max-width: 100%; padding: 0;\"\u003e\u003cdiv style=\"overflow-x: auto; overflow-y: hidden; min-width: 0; padding: 0; margin: 0; width: 100%; border: none !important;\"\u003e\u003ctable\u003e\n\u003cthead\u003e\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003eYear\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003eCalculation \u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e2018\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e(USD50.5/USD46.8) – 1 = 7.91%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top; border-bottom: 1px solid black;\"\u003e2019\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: left; vertical-align: top; border-bottom: 1px solid black;\"\u003e(USD53.9/USD50.5) – 1 = 6.73%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/div\u003e\u003c/div\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on Exhibits 1 and 2, Candidate A’s forecast for SG\u0026amp;A expenses in 2020 is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "572a9139-800b-476b-ae34-fb4138cc297e"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e7126395-4216-44a9-84df-a8b6a904350c",
+                            "itemBody": "\u003cp\u003eA. USD23.8 million.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "572a9139-800b-476b-ae34-fb4138cc297e",
+                            "itemBody": "\u003cp\u003eB. USD25.5 million.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "63df4b8a-96e3-4c59-a69b-0591d1213610",
+                            "itemBody": "\u003cp\u003eC. USD27.4 million.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 22,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50990"
+        },
+        {
+            "id": "50996",
+            "entry": {
+                "title": "CFA1434-R-s06-Q25",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. In forecasting financing costs, such as interest expense, the debt/equity structure of a company is a key determinant. Accordingly, a method that recognizes the relationship between the income statement account (interest expense) and the balance sheet account (debt) would be a preferable method for forecasting interest expense when compared with methods that forecast based solely on the income statement account. By using the effective interest rate (interest expense divided by average gross debt), Candidate A is taking the debt/equity structure into account. B and C are incorrect because Candidate B (who forecasts 2020 interest expense to be the same as 2019 interest expense) and Candidate C (who forecasts 2020 interest expense to be the same as the 2017–19 average interest expense) are not taking the balance sheet into consideration.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on Exhibit 2, forecasted interest expense will reflect changes in Chrome’s debt level under the forecast assumptions used by:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8a554e66-6346-4ecf-adef-dd10fc896364"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8a554e66-6346-4ecf-adef-dd10fc896364",
+                            "itemBody": "\u003cp\u003eA. Candidate A.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "da3d0de8-5f3b-45ef-8c31-55db44713b8b",
+                            "itemBody": "\u003cp\u003eB. Candidate B.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e993b7cf-52b9-48f4-803b-a2935d195529",
+                            "itemBody": "\u003cp\u003eC. Candidate C.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 23,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50990"
+        },
+        {
+            "id": "50997",
+            "entry": {
+                "title": "CFA1434-R-s06-Q26",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Base rates refer to attributes of a reference class and base rate neglect is ignoring such class information in favor of specific information. By incorporating industry data, Candidate B is seeking to mitigate this behavioral bias.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCandidate B asks Green if she had additional information on Horizon’s industry peers and competitors, to put the profitability estimates in a richer context. By asking for this additional information for their analysis, Candidate B is \u003cem\u003emost likely\u003c/em\u003e seeking to mitigate which behavioral bias?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "778452d2-2e2b-46f0-a8d3-1b928ccfc7a0"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "316e338c-14ec-4578-afc6-f34eb5467b98",
+                            "itemBody": "\u003cp\u003eA. Conservatism\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "778452d2-2e2b-46f0-a8d3-1b928ccfc7a0",
+                            "itemBody": "\u003cp\u003eB. Base rate neglect\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "91990661-ddbe-4dcf-bc7e-d23caab253c8",
+                            "itemBody": "\u003cp\u003eC. illusion of control\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 24,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8191,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4454,
+            "stimulusQuizEntryId": "50990"
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

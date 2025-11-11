@@ -1,0 +1,1153 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6042,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 18,
+    "hidden_question_count": 0,
+    "points": 3,
+    "points_possible": 18,
+    "correct_questions_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 4: Working Capital and Liquidity",
+        "topic_id": 1033,
+        "topic": "CFA-26-02-LI-C: Corporate Issuers",
+        "subtopic_id": 6042,
+        "subtopic": "Module 4: Working Capital and Liquidity",
+        "question_count": 18,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 849,
+                "name": "Warehouse Course: Corporate Issuers 26-LI",
+                "code": "Warehouse Course: Corporate Issuers 26-LI",
+                "module_id": 4439,
+                "question_count": 12,
+                "type": "warehouse"
+            },
+            {
+                "id": 840,
+                "name": "Practice Pack Warehouse: Corporate Issuers 26-LI",
+                "code": "Practice Pack Warehouse: Corporate Issuers 26-LI",
+                "module_id": 4656,
+                "question_count": 6,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 18.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "e5d1a8ab28304098",
+        "ordered_item_ids": [
+            "54701",
+            "54702",
+            "54703",
+            "54704",
+            "54705",
+            "54706",
+            "53646",
+            "53647",
+            "53648",
+            "53649",
+            "53650",
+            "53651",
+            "53652",
+            "50858",
+            "50859",
+            "50860",
+            "50861",
+            "50862"
+        ],
+        "visible_item_ids": [
+            "54701",
+            "54702",
+            "54703",
+            "54704",
+            "54705",
+            "54706",
+            "53646",
+            "53647",
+            "53648",
+            "53649",
+            "53650",
+            "53651",
+            "53652",
+            "50858",
+            "50859",
+            "50860",
+            "50861",
+            "50862"
+        ]
+    },
+    "items": [
+        {
+            "id": "54701",
+            "entry": {
+                "title": "ITEM_2019B Corp Fin 03SXL 09U1",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information (in £ millions) about a company:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 402px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 333px; max-width: 333px;\"\u003eCash\u003c/td\u003e\n\u003ctd style=\"width: 62px; max-width: 62px; text-align: right;\"\u003e50\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 333px; max-width: 333px;\"\u003eShort-term marketable investments\u003c/td\u003e\n\u003ctd style=\"width: 62px; max-width: 62px; text-align: right;\"\u003e37\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 333px; max-width: 333px;\"\u003eReceivables\u003c/td\u003e\n\u003ctd style=\"width: 62px; max-width: 62px; text-align: right;\"\u003e15\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 333px; max-width: 333px;\"\u003eCurrent assets\u003c/td\u003e\n\u003ctd style=\"width: 62px; max-width: 62px; text-align: right;\"\u003e114\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 333px; max-width: 333px;\"\u003eCurrent liabilities\u003c/td\u003e\n\u003ctd style=\"width: 62px; max-width: 62px; text-align: right;\"\u003e100\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe quick ratio of this company is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0e3f4d21-f2d3-487f-9473-94e373707846"
+                },
+                "answerFeedback": {
+                    "0e3f4d21-f2d3-487f-9473-94e373707846": "\u003cp\u003eCorrect because the quick ratio (also known as the acid-test ratio) is the ratio of the quick assets to current liabilities. Quick assets are those assets that can be most readily converted to cash.\u003cbr\u003eQuick ratio = (Cash + Short-term marketable investments + Receivables)/Current liabilities\" = (50 + 37 + 15)/100 = 1.02.\u003c/p\u003e",
+                    "597571a6-dc1c-4ca7-b87a-0b3c902a12b8": "\u003cp\u003eIncorrect because the current ratio is calculated, not the quick ratio.\u003cbr\u003eQuick ratio ≠ Current assets/Current liabilities = 114/100 = 1.14.\u003c/p\u003e",
+                    "8b9841bd-a75c-47c1-944a-fecdf3bee4e1": "\u003cp\u003eIncorrect because receivables are not included (in the numerator) when calculating the quick assets.\u003cbr\u003eQuick ratio ≠ (Cash + Short-term marketable investments)/Current liabilities = (50 + 37)/100 = 0.87.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8b9841bd-a75c-47c1-944a-fecdf3bee4e1",
+                            "itemBody": "\u003cp\u003eA. 0.87.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0e3f4d21-f2d3-487f-9473-94e373707846",
+                            "itemBody": "\u003cp\u003eB. 1.02.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "597571a6-dc1c-4ca7-b87a-0b3c902a12b8",
+                            "itemBody": "\u003cp\u003eC. 1.14.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8810,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4656,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54702",
+            "entry": {
+                "title": "ITEM_2019B Corp Fin 11LFW 09U3",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAn analyst gathers the following liquidity indicators for a company and its peer group:\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 432px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"width: 221px; max-width: 221px;\" scope=\"col\"\u003e\u0026nbsp;\u003c/th\u003e\n\u003cth style=\"text-align: center; width: 94px; max-width: 94px;\" scope=\"col\"\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e\u003cstrong\u003eCompany\u003c/strong\u003e\u003c/span\u003e\u003c/span\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; width: 103px; max-width: 103px;\" scope=\"col\"\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e\u003cstrong\u003ePeer Group\u003c/strong\u003e\u003c/span\u003e\u003c/span\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 221px; max-width: 221px;\"\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eQuick ratio\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 94px; max-width: 94px;\"\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e0.9\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 103px; max-width: 103px;\"\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e1.1\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 221px; max-width: 221px;\"\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eOperating cycle (days)\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 94px; max-width: 94px;\"\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e70\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 103px; max-width: 103px;\"\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e73\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 221px; max-width: 221px;\"\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eCash conversion cycle (days)\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 94px; max-width: 94px;\"\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e40\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 103px; max-width: 103px;\"\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e38\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAll else being equal, the company’s liquidity compares favorably to the peer group based on the:\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b5de1846-5c00-462f-9035-fb427526962f"
+                },
+                "answerFeedback": {
+                    "85041c64-c68f-4ed8-b7f5-11d4394df5ea": "\u003cp\u003eIncorrect because based on the cash conversion cycle, the company’s 40 days is \u003ci\u003eless\u003c/i\u003e favorable compared to 38 days for its peer group. A company’s available cash flow is increased by deferring payment to suppliers. This deferral is considered in the net operating cycle, also called the cash conversion cycle, it is a measure of the time from paying suppliers for materials to collecting cash from the subsequent sale of goods produced from these supplies.\u0026nbsp;In general, the shorter these cycles the greater a company’s cash-generating ability and the less its need for liquid assets or outside finance.\u0026nbsp;Because for some liquidity measures a higher number indicates a better position and for some a lower number indicates a better position, the candidate must differentiate and apply that to each of these measures for the company versus the peer group. A candidate who applies the wrong evaluation may choose the wrong measure as being favorable.\u003c/p\u003e",
+                    "8cbc41ea-9b39-4915-9880-9408a2334db8": "\u003cp\u003eIncorrect because the quick ratio for the company, 0.9, is \u003ci\u003eless\u003c/i\u003e favorable compared to its peer group at 1.1. The greater the current ratio or the quick ratio (that is, the greater the potential ability to cover current liabilities), the higher a company’s liquidity.\u0026nbsp;Because for some liquidity measures a higher number indicates a better position and for some a lower number indicates a better position, the candidate must differentiate and apply that to each of these measures for the company versus the peer group. A candidate who applies the wrong evaluation may choose the wrong measure as being favorable.\u003c/p\u003e",
+                    "b5de1846-5c00-462f-9035-fb427526962f": "\u003cp\u003eCorrect because based on the operating cycle, the company’s 70 days compares favorably to 73 days for its peer group. The operating cycle is a measure of the time needed to convert raw materials into cash from a sale. In general, the shorter these cycles the greater a company’s cash-generating ability and the less its need for liquid assets or outside finance.\u0026nbsp;Of the three measures, the operating cycle is the only measure to which the company has a favorable comparison.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8cbc41ea-9b39-4915-9880-9408a2334db8",
+                            "itemBody": "\u003cp\u003eA. quick ratio.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b5de1846-5c00-462f-9035-fb427526962f",
+                            "itemBody": "\u003cp\u003eB. operating cycle.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "85041c64-c68f-4ed8-b7f5-11d4394df5ea",
+                            "itemBody": "\u003cp\u003eC. cash conversion cycle.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8810,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4656,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54703",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-CorpFin-Pech-05",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is\u0026nbsp;\u003ci\u003emost likely\u0026nbsp;\u003c/i\u003eclassified as a drag on liquidity?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f014c590-8850-43aa-ab4f-e56c45c24fb9"
+                },
+                "answerFeedback": {
+                    "0788cd4e-e70a-4d25-be58-bbdd2825cad0": "\u003cp\u003eIncorrect because a pull on liquidity is when disbursements are paid too\u0026nbsp;quickly or trade credit availability is limited, requiring companies to expend funds\u0026nbsp;before they receive funds from sales that could cover the liability. If suppliers and other vendors who offer credit terms perceive a weakened financial position or are unfamiliar with a company, they may restrict payment terms\u003cbr\u003eso much that the company’s liquidity reserves are stretched thin. Major pulls on\u0026nbsp;payments include limits on short-term lines of credit. If a company’s bank reduces the line of\u003cbr\u003ecredit it offers the company, a liquidity squeeze may result.\u0026nbsp;Limits on short-term lines of credit are related to the credit quality of the individual borrower, whereas tight credit market conditions relate to the general market. \u0026nbsp;\u003c/p\u003e",
+                    "4dc70216-8b82-45b0-889e-39a8003663c1": "\u003cp\u003eIncorrect because\u0026nbsp;a pull on liquidity is when disbursements are paid too\u0026nbsp;quickly or trade credit availability is limited, requiring companies to expend funds\u0026nbsp;before they receive funds from sales that could cover the liability. If suppliers and other vendors who offer credit terms perceive a weakened\u0026nbsp;financial position or are unfamiliar with a company, they may restrict payment terms\u003cbr\u003eso much that the company’s liquidity reserves are stretched thin. Major pulls on\u0026nbsp;payments include reduced credit limits. If a company has a history of making late payments,\u0026nbsp;suppliers may cut the amount of credit they will allow to be outstanding at\u0026nbsp;any time, which can squeeze the company’s liquidity.\u003c/p\u003e",
+                    "f014c590-8850-43aa-ab4f-e56c45c24fb9": "\u003cp\u003eCorrect because a\u0026nbsp;drag on liquidity is when receipts lag, creating pressure from the\u003cbr\u003edecreased available funds. Major drags on receipts involve pressures from credit management and deterioration\u0026nbsp;in other assets such as tight credit. When economic conditions make capital scarcer, short-term debt\u0026nbsp;becomes more expensive to arrange and use.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f014c590-8850-43aa-ab4f-e56c45c24fb9",
+                            "itemBody": "\u003cp\u003eA. Tight credit market conditions\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4dc70216-8b82-45b0-889e-39a8003663c1",
+                            "itemBody": "\u003cp\u003eB. Reduced trade credit availability\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0788cd4e-e70a-4d25-be58-bbdd2825cad0",
+                            "itemBody": "\u003cp\u003eC. Limits on short-term lines of credit\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8810,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4656,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54704",
+            "entry": {
+                "title": "ITEM_CFA-L1-08309",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eAn analyst gathers the following information (in $ millions) about three peer companies:\u003c/span\u003e\u003c/p\u003e\u003ctable border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"margin-bottom:12px; border:none; width:435px\"\u003e\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; text-align:left\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd colspan=\"2\" valign=\"top\" style=\"padding:0in 5.4pt; border-left:none; border-top-style:solid; border-right-style:solid; border-bottom-style:solid; text-align:center; width:157px; max-width:157px\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e\u003cb\u003eYear 2\u003c/b\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd colspan=\"2\" valign=\"top\" style=\"padding:0in 5.4pt; border-left:none; border-top-style:solid; border-right-style:solid; border-bottom-style:solid; text-align:center; width:158px; max-width:158px\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e\u003cb\u003eYear 1\u003c/b\u003e\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"padding:0in 5.4pt; border-top:none; border-right-style:solid; border-bottom-style:solid; border-left-style:solid; text-align:left\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e\u003cb\u003eCompany\u003c/b\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd width=\"113\" style=\"width:49px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; text-align:center; max-width:49px\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e\u003cb\u003eCredit Sales \u003c/b\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd width=\"118\" style=\"width:93px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; text-align:center; max-width:93px\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e\u003cb\u003eAverage Receivables Balance\u003c/b\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd width=\"104\" style=\"width:48px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; text-align:center; max-width:48px\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e\u003cb\u003eCredit Sales \u003c/b\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd width=\"127\" style=\"width:94px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; text-align:center; max-width:94px\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e\u003cb\u003eAverage Receivables Balance \u003c/b\u003e\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"padding:0in 5.4pt; border-top:none; border-right-style:solid; border-bottom-style:solid; border-left-style:solid; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e1\u003c/span\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" width=\"113\" style=\"width:49px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; max-width:49px; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e6.5\u003c/span\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" width=\"118\" style=\"width:93px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; max-width:93px; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e3.0\u003c/span\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" width=\"104\" style=\"width:48px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; max-width:48px; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e5.0\u003c/span\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" width=\"127\" style=\"width:94px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; max-width:94px; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e2.5\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"padding:0in 5.4pt; border-top:none; border-right-style:solid; border-bottom-style:solid; border-left-style:solid; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e2\u003c/span\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" width=\"113\" style=\"width:49px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; max-width:49px; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e4.0\u003c/span\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" width=\"118\" style=\"width:93px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; max-width:93px; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e1.5\u003c/span\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" width=\"104\" style=\"width:48px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; max-width:48px; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e3.0\u003c/span\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" width=\"127\" style=\"width:94px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; max-width:94px; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e1.0\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"padding:0in 5.4pt; border-top:none; border-right-style:solid; border-bottom-style:solid; border-left-style:solid; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e3\u003c/span\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" width=\"113\" style=\"width:49px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; max-width:49px; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e3.0\u003c/span\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" width=\"118\" style=\"width:93px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; max-width:93px; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e1.0\u003c/span\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" width=\"104\" style=\"width:48px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; max-width:48px; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e2.5\u003c/span\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" width=\"127\" style=\"width:94px; padding:0in 5.4pt; border-top:none; border-left:none; border-right-style:solid; border-bottom-style:solid; max-width:94px; text-align:center\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e0.8\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\u003c/table\u003e\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eWhich company reduced the average time to collect accounts receivable between Year 1\u0026nbsp;and Year 2?\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f2bb91fb-e288-4784-a24a-78b46df03943"
+                },
+                "answerFeedback": {
+                    "d6a12d98-c118-43a4-98d6-021235af18d1": "\u003cp\u003eIncorrect because the average time taken by Company 2 to collect its accounts receivable increased from 122 days to 137 days. In Year 1 number of days receivable = 1,000,000 / (3,000,000 / 365) = 122 days. In Year 2 number of days receivable = 1,500,000 / (4,000,000 / 365) = 137 days.\u003c/p\u003e",
+                    "f2bb91fb-e288-4784-a24a-78b46df03943": "\u003cp\u003eCorrect because the average time it took Company 1 to collect its accounts receivable decreased from 183 days in Year 1 to 168 days in Year 2. Number of days receivable = Accounts receivable / (Sales on credit / 365). In Year 1 number of days receivable = 2,500,000 / (5,000,000 / 365) = 183 days. In Year 2 number of days receivable = 3,000,000 / (6,500,000 / 365) = 168 days.\u003c/p\u003e",
+                    "f9a906dd-b27c-491c-8740-ff7eeeb9406e": "\u003cp\u003eIncorrect because the average time taken by Company 3 to collect its accounts receivable increased from 117 days to 122 days. In Year 1\u0026nbsp;number of days receivable = 800,000 / (2,500,000 / 365) = 117 days. In Year 2\u0026nbsp;number of days receivable = 1,000,000 / (3,000,000 / 365) = 122 days.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f2bb91fb-e288-4784-a24a-78b46df03943",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eCompany 1\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d6a12d98-c118-43a4-98d6-021235af18d1",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eCompany 2\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f9a906dd-b27c-491c-8740-ff7eeeb9406e",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eCompany 3\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8810,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4656,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54705",
+            "entry": {
+                "title": "ITEM_CFA-L1-09333",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eWhich of the following is \u003ci\u003ebest\u003c/i\u003e described as a secondary source of liquidity?\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "421ca080-e77b-4e11-ae09-ead6dbf7ebba"
+                },
+                "answerFeedback": {
+                    "421ca080-e77b-4e11-ae09-ead6dbf7ebba": "\u003cp\u003eCorrect because the main difference between the primary and secondary sources of liquidity is that using a primary source is not likely to affect the normal operations of the company, whereas using a secondary source may result in a change in the company's financial and operating positions. Secondary sources include: negotiating debt contracts, relieving pressures from high interest payments or principal repayments.\u003c/p\u003e",
+                    "48845c37-4425-4fc0-87b6-ee311da5e27c": "\u003cp\u003eIncorrect because bank lines of credit are a primary source of liquidity and not a secondary source of liquidity. Primary sources of liquidity represent the most readily accessible resources available. They may be held as cash or as near-cash securities. Primary sources include short-term funds, which may include items such as trade credit, bank lines of credit, and short-term investment portfolios.\u003c/p\u003e",
+                    "f70ffec2-d2d0-4d10-a99c-25768268b876": "\u003cp\u003eIncorrect because cash flow management is a primary source of liquidity not a secondary source of liquidity. \u003cspan\u003ePrimary sources of liquidity represent the most readily accessible resources available. They may be held as cash or as near-cash securities. Primary sources include c\u003c/span\u003e\u003cspan\u003eash flow management, which is the company's effectiveness in its cash management system and practices, and the degree of decentralization of the collections or payments processes.\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "48845c37-4425-4fc0-87b6-ee311da5e27c",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eBank line of credit\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f70ffec2-d2d0-4d10-a99c-25768268b876",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eCash flow management\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "421ca080-e77b-4e11-ae09-ead6dbf7ebba",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eRenegotiated debt contract\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8810,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4656,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54706",
+            "entry": {
+                "title": "ITEM_CopyofCFA-L1-09336",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAn analyst gathers the following information about a company:\u003c/span\u003e\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 343px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"width: 197px; max-width: 197px;\" scope=\"col\"\u003e\u0026nbsp;\u003c/th\u003e\n\u003cth style=\"text-align: center; width: 67px; max-width: 67px;\" scope=\"col\"\u003e\u003cstrong\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eYear 1\u003c/span\u003e\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; width: 63px; max-width: 63px;\" scope=\"col\"\u003e\u003cstrong\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eYear 2\u003c/span\u003e\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 197px; max-width: 197px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eDays sales outstanding\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 67px; max-width: 67px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e85\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 63px; max-width: 63px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e76\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 197px; max-width: 197px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eDays of inventory on hand\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 67px; max-width: 67px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e136\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 63px; max-width: 63px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e129\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 197px; max-width: 197px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eDays payable outstanding\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 67px; max-width: 67px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e29\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 63px; max-width: 63px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e13\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eThe company's cash conversion cycle in Year 2 is:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d0b80e70-28c3-4c8d-8b0d-3fc019b8c260"
+                },
+                "answerFeedback": {
+                    "2c5c4e0e-96ce-436e-9978-bb97cf720f46": "\u003cp\u003eIncorrect because in Year 1, the cash conversion cycle was 85 + 136 – 29 = 192 days. In Year 2 the cash conversion cycle was 76 + 129 – 13 = 192 days. Thus, the cash conversion cycle was the same in Year 1 and Year 2.\u003c/p\u003e",
+                    "cc48adb4-5c73-4107-873c-780566035b2e": "\u003cp\u003eIncorrect because the cash conversion cycles are the same.\u0026nbsp;\u003c/p\u003e",
+                    "d0b80e70-28c3-4c8d-8b0d-3fc019b8c260": "\u003cp\u003eCorrect because the cash conversion cycle is the same for both years.\u0026nbsp; The cash conversion cycle equals Days of inventory on hand + Days sales outstanding − Days payable outstanding.\u0026nbsp;In Year 1 the cash conversion cycle was 85 + 136 – 29 = 192 days. In Year 2 the cash conversion cycle was 76 + 129 – 13 = 192 days.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2c5c4e0e-96ce-436e-9978-bb97cf720f46",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eshorter than the cash conversion cycle in Year 1.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d0b80e70-28c3-4c8d-8b0d-3fc019b8c260",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ethe same as the cash conversion cycle in Year 1.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "cc48adb4-5c73-4107-873c-780566035b2e",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003elonger than the cash conversion cycle in Year 1.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8810,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4656,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53646",
+            "entry": {
+                "title": "ITEM_20170502088",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost likely\u003c/i\u003e a secondary source of liquidity?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f9021a03-7a61-4e3c-ae29-9f7c23c09789"
+                },
+                "answerFeedback": {
+                    "8ecda4e2-f60a-467c-9c02-67ea2d86384d": "\u003cp\u003eIncorrect because it is a primary source of liquidity.\u003c/p\u003e",
+                    "ded9f964-645a-4b8f-a336-e8513864e946": "\u003cp\u003eIncorrect because it is a primary source of liquidity.\u003c/p\u003e",
+                    "f9021a03-7a61-4e3c-ae29-9f7c23c09789": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Trade credit and a bank line of credit are considered primary sources of liquidity. Liquidating inventory is a secondary source of liquidity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ded9f964-645a-4b8f-a336-e8513864e946",
+                            "itemBody": "\u003cp\u003eA. Bank line of credit\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f9021a03-7a61-4e3c-ae29-9f7c23c09789",
+                            "itemBody": "\u003cp\u003eB. Inventory liquidation\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8ecda4e2-f60a-467c-9c02-67ea2d86384d",
+                            "itemBody": "\u003cp\u003eC. Trade credit\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8607,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4439,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53647",
+            "entry": {
+                "title": "ITEM_20170608102",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eData for a firm are presented in the following table:\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 100%; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"vertical-align: bottom; width: 542.938px; max-width: 599px;\" scope=\"col\"\u003e\u003cstrong\u003eAs of 31 December\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 190.062px; max-width: 128px;\" scope=\"col\"\u003e\u003cstrong\u003e£ Thousands\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 542.938px; max-width: 599px;\"\u003eCash\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 190.062px; max-width: 128px;\"\u003e200\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 542.938px; max-width: 599px;\"\u003eAccounts receivable\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 190.062px; max-width: 128px;\"\u003e350\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 542.938px; max-width: 599px;\"\u003eInventory\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 190.062px; max-width: 128px;\"\u003e1,250\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 542.938px; max-width: 599px;\"\u003eAccounts payable\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 190.062px; max-width: 128px;\"\u003e300\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 542.938px; max-width: 599px;\"\u003eTaxes payable\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 190.062px; max-width: 128px;\"\u003e200\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 542.938px; max-width: 599px;\"\u003eInstallment loan payable, due in three equal annual payments on 30 June.\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 190.062px; max-width: 128px;\"\u003e600\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eThe current ratio for the firm’s industry is 3.2. Based on the current ratio, the firm’s liquidity compared with the industry is \u003ci\u003ebest\u003c/i\u003e described as being:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "05df6382-b602-49f1-94a2-79847e583429"
+                },
+                "answerFeedback": {
+                    "0356f415-d209-4d17-857c-37ca60ef2264": "\u003cp\u003eIncorrect. The firm’s current ratio is 2.6, which is below the industry average.\u003c/p\u003e",
+                    "05df6382-b602-49f1-94a2-79847e583429": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The higher the current ratio, the more liquid the company. Thus, with a current ratio of 2.6 (1,800/700), the company is less liquid than the industry, which has a current ratio of 3.2.\u003c/p\u003e\n\u003cp\u003eCurrent ratio = Current assets/Current liabilities.\u003c/p\u003e\n\u003cdiv\u003e\n\u003ctable border=\"1\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom;\"\u003e\u003cstrong\u003eCurrent Assets\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003e£ thousands\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom;\"\u003e\u003cstrong\u003eCurrent Liabilities\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003e£ Thousands\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eCash\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e200\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eAccounts payable\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e300\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eAccounts receivable\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e350\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eTaxes payable\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e200\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eInventory\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e1,250\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eLoan payable, first installment\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e200\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eTotal\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e1,800\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eTotal\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e700\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e",
+                    "95703b20-a8c7-48fe-a7fc-c20a957c2f5e": "\u003cp\u003eIncorrect. Failing to include the taxes payable or the loan (or the A/P) gives 1,800/400 = 4.5, which is above the industry average.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "95703b20-a8c7-48fe-a7fc-c20a957c2f5e",
+                            "itemBody": "\u003cp\u003eA. higher.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0356f415-d209-4d17-857c-37ca60ef2264",
+                            "itemBody": "\u003cp\u003eB. equivalent.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "05df6382-b602-49f1-94a2-79847e583429",
+                            "itemBody": "\u003cp\u003eC. lower.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8607,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4439,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53648",
+            "entry": {
+                "title": "ITEM_CFA-L1-02280",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWith respect to liquidity management, which of the following activities \u003ci\u003emost likely\u003c/i\u003e provides access to a primary source of liquidity?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a0488d57-b191-44cc-8e3a-d5b1ba39ade2"
+                },
+                "answerFeedback": {
+                    "53a72190-3312-4575-89d2-7be36873044d": "\u003cp\u003eIncorrect because negotiating debt contracts, relieving pressures from high interest payments or principal repayments may signal a company's deteriorating financial health and provide liquidity at a high price. This may well affect the normal operations of the company. Therefore, negotiating debt contracts cannot be a primary source of liquidity.\u003c/p\u003e",
+                    "a0488d57-b191-44cc-8e3a-d5b1ba39ade2": "\u003cp\u003eCorrect because primary sources of liquidity are liquidity sources that are the most readily accessible resources available\u0026nbsp;to the company. One of the examples is cash flow management, which is the company's effectiveness in its cash management system and practices, and the degree of decentralization of the collections or payments processes. The more decentralized the system of collections, for example, the more likely the company will be to have cash tied up in the system and not available for use.\u0026nbsp;Therefore, an effective cash management system is a primary source of liquidity as it is likely to be the most readily accessible resources available to the company.\u003c/p\u003e",
+                    "a9d6f409-96a5-449f-bab9-816d916a6086": "\u003cp\u003eIncorrect because the main difference between the primary and secondary sources of liquidity is that using a primary source is not likely to affect the normal operations of the company. However, liquidating assets, which depends on the degree to which short-term and/or long-term assets can be liquidated and converted into cash without substantial loss in value may affect a company's normal operation as productivity is reduced. Therefore, liquidating assets cannot be a primary source of liquidity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a9d6f409-96a5-449f-bab9-816d916a6086",
+                            "itemBody": "\u003cp\u003eA. Liquidating obsolete assets\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a0488d57-b191-44cc-8e3a-d5b1ba39ade2",
+                            "itemBody": "\u003cp\u003eB. Creating an effective cash management system\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "53a72190-3312-4575-89d2-7be36873044d",
+                            "itemBody": "\u003cp\u003eC. Negotiating new debt contracts that delay principal repayment\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8607,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4439,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53649",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-CorpFin-Mazur-07",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about sources of liquidity is \u003ci\u003emost\u003c/i\u003e accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9b215bca-a0e6-4728-b689-485c45605f34"
+                },
+                "answerFeedback": {
+                    "2b05d2c8-f3b3-4afe-83d4-2f181a5f27e8": "\u003cp\u003eIncorrect because primary sources represent funds that are readily accessible at relatively low cost.\u0026nbsp;On the other hand, use\u0026nbsp;of secondary sources may signal a company’s deteriorating financial health and provide liquidity at a high price -\u0026nbsp;the cost of giving up a company asset to produce emergency cash.\u003c/p\u003e",
+                    "7a86e3f4-ffdd-47e1-809c-c3067ca1d355": "\u003cp\u003eIncorrect because the main difference between the primary and secondary sources of liquidity is that using a primary source is not likely to affect the normal operations of the company, whereas using a secondary source may result in a change in the company’s financial and operating positions.\u003c/p\u003e",
+                    "9b215bca-a0e6-4728-b689-485c45605f34": "\u003cp\u003eCorrect because secondary sources include: filing for bankruptcy protection and reorganization. Further, reorganization through bankruptcy, may also be considered a liquidity tool because a company under bankruptcy protection that generates operating cash will be liquid and generally able to continue business operations until a restructuring has been devised and approved.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9b215bca-a0e6-4728-b689-485c45605f34",
+                            "itemBody": "\u003cp\u003eA. Filing for bankruptcy is considered\u0026nbsp;a secondary source of liquidity.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2b05d2c8-f3b3-4afe-83d4-2f181a5f27e8",
+                            "itemBody": "\u003cp\u003eB. Secondary sources of liquidity have a lower cost than primary sources of liquidity.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7a86e3f4-ffdd-47e1-809c-c3067ca1d355",
+                            "itemBody": "\u003cp\u003eC. Using a primary source of liquidity impacts the financial and operating positions of a company.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8607,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4439,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53650",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Tsependa-27",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is an example of a secondary source of liquidity for a company?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "35207365-d074-445e-99fe-e151675936cd"
+                },
+                "answerFeedback": {
+                    "35207365-d074-445e-99fe-e151675936cd": "\u003cp\u003eCorrect because the main difference between primary and secondary sources of liquidity is that using a primary source is not likely to affect the normal operations of the company, whereas using a secondary source might result in a change in the company’s financial and operating positions. Secondary sources used by companies\u0026nbsp; include:\u0026nbsp;\u003ci\u003eliquidating assets\u003c/i\u003e, which depends on the degree to which short-term and/or long-term assets can be liquidated and converted into cash without substantial loss in value.\u003c/p\u003e",
+                    "3d5a7b99-829f-4174-8c1a-6ec6dccbc31a": "\u003cp\u003eIncorrect because primary sources of liquidity represent the most readily accessible resources available to the company. These can be cash held or near-cash securities and include the following:\u0026nbsp;\u003ci\u003eCash management\u003c/i\u003e, which is the company’s effectiveness in its cash management system and practices and the degree of decentralization of the collections or payments processes.\u003c/p\u003e",
+                    "40cf76c4-b12c-4dfc-9c7e-2b81f4485f4a": "\u003cp\u003eIncorrect because primary sources of liquidity represent the most readily accessible resources available to the company. These can be cash held or near-cash securities and include the following:\u0026nbsp;\u003ci\u003eShort-term funds\u003c/i\u003e, which can include items such as trade credit, bank lines of credit, and short-term investment portfolios of the firm.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "40cf76c4-b12c-4dfc-9c7e-2b81f4485f4a",
+                            "itemBody": "\u003cp\u003eA. Short-term funds\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "35207365-d074-445e-99fe-e151675936cd",
+                            "itemBody": "\u003cp\u003eB. Liquidating assets\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3d5a7b99-829f-4174-8c1a-6ec6dccbc31a",
+                            "itemBody": "\u003cp\u003eC. Effective cash management\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8607,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4439,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53651",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Lamba-26",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is a\u0026nbsp;pull on a company's liquidity?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "391f9b94-e27e-4e0c-ad51-62f526153a6c"
+                },
+                "answerFeedback": {
+                    "10254d9a-b329-4bb1-999c-10032a6ab848": "\u003cp\u003eIncorrect because major drags on receipts involve pressures from credit management and deterioration in other assets and include \u003ci\u003euncollected receivables.\u003c/i\u003e The longer these are outstanding, the greater the risk that they will not be collected at all. They are indicated by the large number of days of receivables and high levels of bad debt expenses. So, uncollected receivables are a drag (not a pull) on a company’s liquidity.\u003c/p\u003e",
+                    "1d3adfa5-2412-4ccc-b7d1-1f17b2670402": "\u003cp\u003eIncorrect because major drags on receipts involve pressures from credit management and deterioration in other assets and include \u003ci\u003eobsolete inventory.\u003c/i\u003e If inventory stands unused for long periods, it might be an indication that it is no longer usable. So, obsolete inventory is a drag (not a pull) on a company’s liquidity.\u003c/p\u003e",
+                    "391f9b94-e27e-4e0c-ad51-62f526153a6c": "\u003cp\u003eCorrect because a pull on liquidity is when disbursements (outflows) are paid too quickly by the company or trade credit availability is limited, requiring companies to expend funds before they receive funds from sales that could cover the liability. Also, major pulls on payments include reduced credit limits. If a company has a history of making late payments, suppliers might cut the amount of credit they will allow to be outstanding at any time. So, reduced credit limits are a pull on a company’s liquidity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1d3adfa5-2412-4ccc-b7d1-1f17b2670402",
+                            "itemBody": "\u003cp\u003eA. Obsolete inventory\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "391f9b94-e27e-4e0c-ad51-62f526153a6c",
+                            "itemBody": "\u003cp\u003eB. Reduced credit limits\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "10254d9a-b329-4bb1-999c-10032a6ab848",
+                            "itemBody": "\u003cp\u003eC. Uncollected receivables\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8607,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4439,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53652",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-CorpFin-Kashyap-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003ebest \u003c/i\u003ecategorized as a drag on liquidity?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "43638a82-6956-4e81-ae38-d06d1300580f"
+                },
+                "answerFeedback": {
+                    "43638a82-6956-4e81-ae38-d06d1300580f": "\u003cp\u003eCorrect because a drag on liquidity is when receipts lag, creating pressure from the decreased available funds. Major drags on receipts involve pressures from credit management and deterioration in other assets and include: Uncollected receivables. The longer these are outstanding, the greater the risk that they will not be collected at all.\u003c/p\u003e",
+                    "8ce9b7e8-372b-46d4-bcf0-9520665c8789": "\u003cp\u003eIncorrect because a\u0026nbsp;pull on liquidity is when disbursements are paid too quickly or trade credit availability is limited, requiring companies to expend funds before they receive funds from sales that could cover the liability. Major pulls on payments include: Making payments early. By paying vendors, employees, or others before the due dates, companies forgo the use of funds.\u003c/p\u003e",
+                    "dcbde445-6340-410e-b5dc-22d2cb6c9201": "\u003cp\u003eIncorrect because a pull on liquidity is when disbursements are paid too quickly or trade credit availability is limited, requiring companies to expend funds before they receive funds from sales that could cover the liability. Major pulls on payments include: Reduced credit limits. If a company has a history of making late payments, suppliers may cut the amount of credit they will allow to be outstanding at any time, which can squeeze the company’s liquidity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "dcbde445-6340-410e-b5dc-22d2cb6c9201",
+                            "itemBody": "\u003cp\u003eA. Insufficient credit lines\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "43638a82-6956-4e81-ae38-d06d1300580f",
+                            "itemBody": "\u003cp\u003eB. Uncollected receivables\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8ce9b7e8-372b-46d4-bcf0-9520665c8789",
+                            "itemBody": "\u003cp\u003eC. Early payments to vendors\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8607,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4439,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50858",
+            "entry": {
+                "title": "CFA0155-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. By extending the net period, the issuer will likely see its accounts receivable increase, lengthening its cash conversion cycle and producing a drag on its liquidity.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect, because the change will slow payments from customers (inflows) rather than pull on liquidity in terms of outflows.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect, because extending the net period will slow payments from customers and produce a drag on liquidity.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn issuer changing its credit terms for customers from 2/10, net 30 to 2/10, net 40 will most likely experience:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "84fa225c-6ea5-447a-80dd-32ecff991af2"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ae65bbae-14d9-4efc-9ae3-5699d029b5ed",
+                            "itemBody": "A. a pull on its liquidity.",
+                            "position": 1
+                        },
+                        {
+                            "id": "84fa225c-6ea5-447a-80dd-32ecff991af2",
+                            "itemBody": "B. a drag on its liquidity.",
+                            "position": 2
+                        },
+                        {
+                            "id": "7b2fcea3-c5c8-4288-878e-c06319cf611d",
+                            "itemBody": "C. no change in its liquidity.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8171,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4439,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50859",
+            "entry": {
+                "title": "CFA0155-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Increasing days payable outstanding would reduce the cash conversion cycle, because payments to suppliers are delayed. Days payable outstanding is subtracted from the sum of days sales outstanding and days of inventory on hand to compute the cash conversion cycle.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect, because an increase in days sales outstanding will increase the issuer’s cash conversion cycle.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect, because an increase in days of inventory on hand will increase the issuer’s cash conversion cycle.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following will most likely \u003cem\u003edecrease\u003c/em\u003e an issuer’s cash conversion cycle? An increase in its days:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dbe9db57-8b90-4bea-95fc-b8da5892fd3c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b2c086d6-5860-4b58-9613-aaf23ea884df",
+                            "itemBody": "A. sales outstanding.",
+                            "position": 1
+                        },
+                        {
+                            "id": "1dcbbb48-6e49-4f4b-802e-1563ae9322b0",
+                            "itemBody": "B. of inventory on hand.",
+                            "position": 2
+                        },
+                        {
+                            "id": "dbe9db57-8b90-4bea-95fc-b8da5892fd3c",
+                            "itemBody": "C. payable outstanding.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8171,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4439,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50860",
+            "entry": {
+                "title": "CFA0155-R-s04-Q11",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The quick ratio is defined as:\u003c/p\u003e\n\u003cdiv id=\"CFA0155-R-s04-E-4-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmtext\u003eQuick\u0026nbsp;ratio\u003c/mtext\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmtext\u003eCash\u0026nbsp;+\u0026nbsp;Short-term\u0026nbsp;marketable\u0026nbsp;instruments\u0026nbsp;+\u0026nbsp;Receivables\u003c/mtext\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmtext\u003eCurrent\u0026nbsp;liabilities\u003c/mtext\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe quick ratio for each issuer is:\u003c/p\u003e\n\u003cdiv id=\"CFA0155-R-s04-E-4-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmtext\u003eIssuer\u0026nbsp;A\u0026nbsp;quick\u0026nbsp;ratio\u003c/mtext\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e100\u003c/mn\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e20\u003c/mn\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e300\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e400\u003c/mn\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e40\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e420\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e440\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e0.9545\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA0155-R-s04-E-4-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmtext\u003eIssuer\u0026nbsp;B\u0026nbsp;quick\u0026nbsp;ratio\u003c/mtext\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e120\u003c/mn\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e10\u003c/mn\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e300\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e500\u003c/mn\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e20\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e430\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e520\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e0.8269\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA0155-R-s04-E-4-___3\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmtext\u003eIssuer\u0026nbsp;C\u0026nbsp;quick\u0026nbsp;ratio\u003c/mtext\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e50\u003c/mn\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e20\u003c/mn\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e200\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e300\u003c/mn\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e270\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e300\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e0.9000\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst gathers balance sheet information for the most recent fiscal year for three issuers.\u003c/p\u003e\n\u003cdiv id=\"CFA0155-R-s04-T-4-d\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\" scope=\"row\"\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eIssuer A\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eIssuer B\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eIssuer C\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCash\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e100\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e120\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e50\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eMarketable securities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e20\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e10\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e20\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eAccounts receivable\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e300\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e300\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e200\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eInventory\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e500\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e600\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e300\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003ePrepaid expenses\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e50\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e0\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e10\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eAccounts payable\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e400\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e500\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e300\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eAccrued expenses\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e40\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e20\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e0\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich issuer is most liquid based on the quick ratio?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d292f18e-7cf0-4bb7-ac23-0cc4993100fd"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d292f18e-7cf0-4bb7-ac23-0cc4993100fd",
+                            "itemBody": "A. Issuer A",
+                            "position": 1
+                        },
+                        {
+                            "id": "e4b37105-67a5-4fa3-bbec-dd65a2077e64",
+                            "itemBody": "B. Issuer B",
+                            "position": 2
+                        },
+                        {
+                            "id": "caf49f4a-5e2c-4a65-b31c-d1c80e16f6aa",
+                            "itemBody": "C. Issuer C",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8171,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4439,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50861",
+            "entry": {
+                "title": "CFA0155-R-s04-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. If days of inventory on hand is low, the accounts receivable collection period is short, and the issuer takes advantage of its vendors’ financing, a negative cash conversion cycle is a possible result.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect, because issuers may have a negative cash conversion cycle if days payable outstanding is larger than the sum of days of inventory on hand and days sales outstanding.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect, because the amount of cash and marketable securities on hand does not affect the company’s cash conversion cycle.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst is evaluating an issuer’s liquidity and calculates a negative cash conversion cycle for the issuer in the most recent fiscal year. This result is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7947e48c-1891-4499-8a0d-a140f3c70aee"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ce890164-2f53-4625-93fb-04e58d96470d",
+                            "itemBody": "A. not feasible.",
+                            "position": 1
+                        },
+                        {
+                            "id": "23bcf825-9aa6-42c7-ad08-61cadad0be12",
+                            "itemBody": "B. possible, because the issuer has sufficient cash and marketable securities on hand to support short-term needs.",
+                            "position": 2
+                        },
+                        {
+                            "id": "7947e48c-1891-4499-8a0d-a140f3c70aee",
+                            "itemBody": "C. possible, because the investment in inventory is returned quickly and the issuer takes advantage of vendor financing.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8171,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4439,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50862",
+            "entry": {
+                "title": "CFA0155-R-s04-Q13",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct, because the elimination of the discount will likely result in customers paying later as there is no incentive to pay early without the discount. With customers paying later, this action becomes a drag on liquidity.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA and C are incorrect, because customers likely paying later will reduce the issuer’s liquidity.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn issuer eliminated the prompt-payment discount it had offered to customers. This action most likely will:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "56ba6323-5940-4e32-9a37-763067494c63"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ea1f45cf-778b-40eb-bb82-ee6c02ea5aa1",
+                            "itemBody": "A. increase the issuer’s liquidity.",
+                            "position": 1
+                        },
+                        {
+                            "id": "56ba6323-5940-4e32-9a37-763067494c63",
+                            "itemBody": "B. decrease the issuer’s liquidity.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b727e2c6-f2dc-479b-8a4d-9707ae922835",
+                            "itemBody": "C. not affect the issuer’s liquidity.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8171,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4439,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {},
+    "scored_data": {
+        "points": 3,
+        "points_possible": 18
+    }
+}

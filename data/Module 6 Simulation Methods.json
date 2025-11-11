@@ -1,0 +1,732 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6116,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 11,
+    "hidden_question_count": 0,
+    "points": 4,
+    "points_possible": 11,
+    "correct_questions_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 6: Simulation Methods",
+        "topic_id": 1031,
+        "topic": "CFA-26-02-LI-C: Quantitative Methods",
+        "subtopic_id": 6116,
+        "subtopic": "Module 6: Simulation Methods",
+        "question_count": 11,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 799,
+                "name": "Warehouse Course: Quantitative Methods 26-LI",
+                "code": "Warehouse Course: Quantitative Methods 26-LI",
+                "module_id": 4423,
+                "question_count": 7,
+                "type": "warehouse"
+            },
+            {
+                "id": 838,
+                "name": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "code": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "module_id": 4627,
+                "question_count": 4,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 11.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "493e8bf729ee3d45",
+        "ordered_item_ids": [
+            "53121",
+            "53122",
+            "53123",
+            "53124",
+            "53538",
+            "53539",
+            "53540",
+            "54425",
+            "54426",
+            "54427",
+            "54428"
+        ],
+        "visible_item_ids": [
+            "53121",
+            "53122",
+            "53123",
+            "53124",
+            "53538",
+            "53539",
+            "53540",
+            "54425",
+            "54426",
+            "54427",
+            "54428"
+        ]
+    },
+    "items": [
+        {
+            "id": "53121",
+            "entry": {
+                "title": "CFA2404-R-s02-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The continuously compounded return of an asset over a period is equal to the natural log of the asset’s price change during the period. In this case, ln(120/112) = 6.90%.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eNote that the continuously compounded return from period 0 to period T is the sum of the incremental one-period continuously compounded returns, which in this case are weekly returns. Specifically:\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2404-R-s02-E-2-\"\u003eWeek 1 return: ln(160/112) = 35.67%.\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2404-R-s02-E-2-___1\"\u003eWeek 2 return: ln(120/160) = –28.77%.\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2404-R-s02-E-2-___2\"\u003eContinuously compounded return = 35.67% + –28.77% = 6.90%.\u003c/div\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe weekly closing prices of Mordice Corporation shares are as follows:\u003c/p\u003e\n\u003cdiv id=\"CFA2404-R-s02-EXH-2-4\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003eExhibit 1\u003cspan style=\"display: block;\"\u003eMordice Corporation Shares\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; width: 37.9939%; border-bottom: 1px solid #000000;\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"  border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; width: 35.5125%;\"\u003e\u003cstrong\u003eDate\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 64.2032%;\"\u003e\u003cstrong\u003eClosing Price (euros)\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 35.5125%;\"\u003e1 August\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 64.2032%;\"\u003e112\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 35.5125%;\"\u003e8 August\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 64.2032%;\"\u003e160\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 35.5125%;\"\u003e15 August\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 64.2032%;\"\u003e120\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe continuously compounded return of Mordice Corporation shares for the period August 1 to August 15 is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "57cd367f-6632-462d-bc55-80cae055dbff"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "57cd367f-6632-462d-bc55-80cae055dbff",
+                            "itemBody": "A. 6.90 percent.",
+                            "position": 1
+                        },
+                        {
+                            "id": "717bed5e-75b1-40f3-a458-24aef23d3b2e",
+                            "itemBody": "B. 7.14 percent.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2082f149-5e8a-43ce-8b7f-68bd201e7c13",
+                            "itemBody": "C. 8.95 percent.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4423,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53122",
+            "entry": {
+                "title": "CFA2404-R-s02-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. By definition, lognormal random variables cannot have negative values (bounded below by 0) and have distributions that are skewed to the right.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn contrast to normal distributions, lognormal distributions:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f49a3cc7-b554-478b-bb36-6eeb0e267232"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "daa43af2-f34c-4653-bccd-0a8ba591e455",
+                            "itemBody": "A. are skewed to the left.",
+                            "position": 1
+                        },
+                        {
+                            "id": "f49a3cc7-b554-478b-bb36-6eeb0e267232",
+                            "itemBody": "B. have outcomes that cannot be negative.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b5e5b78d-45ed-454a-9d36-4505fbfdf78a",
+                            "itemBody": "C. are more suitable for describing asset returns than asset prices.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4423,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53123",
+            "entry": {
+                "title": "CFA2404-R-s02-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. A lognormal distributed variable has a lower bound of zero. The lognormal distribution is also right skewed, which is a useful property in describing asset prices.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe lognormal distribution is a more accurate model for the distribution of stock prices than the normal distribution because stock prices are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b933812a-07a7-4eac-8b92-7323fcfefbad"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b303e24c-4986-4f06-b1e3-5e00db5ad7d9",
+                            "itemBody": "A. symmetrical.",
+                            "position": 1
+                        },
+                        {
+                            "id": "269e5531-4d55-4b7e-b562-094b423663f2",
+                            "itemBody": "B. unbounded.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b933812a-07a7-4eac-8b92-7323fcfefbad",
+                            "itemBody": "C. non-negative.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4423,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53124",
+            "entry": {
+                "title": "CFA2404-R-s04-Q2",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Bootstrapping through random sampling generates the observed variable from a random sampling with unknown population parameters. The analyst does not know the true population distribution, but through sampling can infer the population parameters from the randomly generated sample. B is incorrect because, when performing bootstrap, the analyst repeatedly draws samples from the original sample and not population, where each individual resample has the same size as the original sample and each item drawn is replaced for the next draw. C is incorrect because, when performing bootstrap, analysts simply use the observed empirical distribution of the underlying variables. In a Monte Carlo simulation, in contrast, the analyst would specify probability distributions for key risk factors that drive the underlying variables.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAnalysts performing bootstrap:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e050664d-5f59-4fc1-bf4b-dbd0559d4c31"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e050664d-5f59-4fc1-bf4b-dbd0559d4c31",
+                            "itemBody": "A. seek to create statistical inferences of population parameters from a single sample.",
+                            "position": 1
+                        },
+                        {
+                            "id": "fa582103-3762-436c-aa90-8fc03bc4c0b3",
+                            "itemBody": "B. repeatedly draw samples of the same size, with replacement, from the original population.",
+                            "position": 2
+                        },
+                        {
+                            "id": "19afaf32-1c17-4157-a57e-c58c1adf5aaa",
+                            "itemBody": "C. must specify probability distributions for key risk factors that drive the underlying random variables.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4423,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53538",
+            "entry": {
+                "title": "ITEM_20170421098",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf a stock’s continuously compounded return is normally distributed, then the distribution of the future stock price is \u003ci\u003ebest\u003c/i\u003e described as being:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "426eeda6-2edc-404c-8a26-565fc084b139"
+                },
+                "answerFeedback": {
+                    "426eeda6-2edc-404c-8a26-565fc084b139": "\u003cp\u003eCorrect. If a stock’s continuously compounded return is normally distributed, then the future stock price is necessarily lognormally distributed.\u003c/p\u003e",
+                    "b13bd55c-e5d9-48e7-bdd6-15f2658c7ba4": "\u003cp\u003eIncorrect. If a stock’s continuously compounded return is normally distributed, then future stock price is necessarily lognormally distributed.\u003c/p\u003e",
+                    "f13cf2b5-953c-4352-ba9f-ab3bda81bacb": "\u003cp\u003eIncorrect. If a stock’s continuously compounded return is normally distributed, then future stock price is necessarily lognormally distributed.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b13bd55c-e5d9-48e7-bdd6-15f2658c7ba4",
+                            "itemBody": "\u003cp\u003eA. normal.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f13cf2b5-953c-4352-ba9f-ab3bda81bacb",
+                            "itemBody": "\u003cp\u003eB. a Student’s \u003ci\u003et\u003c/i\u003e.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "426eeda6-2edc-404c-8a26-565fc084b139",
+                            "itemBody": "\u003cp\u003eC. lognormal.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8570,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4423,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53539",
+            "entry": {
+                "title": "ITEM_20170421192",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn contrast to normal distributions, lognormal distributions:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f7e1c5de-afb4-416e-b503-b1dcbfc79a65"
+                },
+                "answerFeedback": {
+                    "85e67bc1-b5ce-4688-bd40-8ced0075ca3b": "\u003cp\u003eIncorrect. Lognormal distributions are right skewed (have long right tails).\u003c/p\u003e",
+                    "f7e1c5de-afb4-416e-b503-b1dcbfc79a65": "\u003cp\u003eCorrect. By definition, lognormal random variables cannot have negative values.\u003c/p\u003e",
+                    "fdc8ce76-bc99-4770-b724-df6e34276302": "\u003cp\u003eIncorrect because the random variables of a lognormal distribution are bounded by zero, as are asset prices (they cannot be negative). The lognormal distribution is therefore more suitable than the normal distribution as a probability model for asset prices. In contrast, the lognormal distribution is not suitable for describing asset returns (which can be both positive and negative).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "85e67bc1-b5ce-4688-bd40-8ced0075ca3b",
+                            "itemBody": "\u003cp\u003eA. are skewed to the left.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f7e1c5de-afb4-416e-b503-b1dcbfc79a65",
+                            "itemBody": "\u003cp\u003eB. have random variables that cannot be negative.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "fdc8ce76-bc99-4770-b724-df6e34276302",
+                            "itemBody": "\u003cp\u003eC. are more suitable for describing asset returns than asset prices.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8570,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4423,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53540",
+            "entry": {
+                "title": "ITEM_CFA-L1-05370",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf a stock's continuously compounded return is normally distributed, the future stock price is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0b75d7e8-70f6-4733-84fd-c6d8be5b22e4"
+                },
+                "answerFeedback": {
+                    "0b75d7e8-70f6-4733-84fd-c6d8be5b22e4": "\u003cp\u003eCorrect because the relationship between normal and lognormal distributions is if a stock's continuously compounded return is normally distributed, then future stock price is necessarily lognormally distributed.\u003c/p\u003e",
+                    "c76411d2-5028-48da-86f9-f91eb73ef636": "\u003cp\u003eIncorrect because the stock price will be distributed in a lognormal manner, not in a normal or uniform manner.\u003c/p\u003e",
+                    "cc5ee2aa-fb49-4196-ac25-51b29069e1c7": "\u003cp\u003eIncorrect because the stock price will be distributed in a lognormal manner, not in a normal or uniform manner.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "cc5ee2aa-fb49-4196-ac25-51b29069e1c7",
+                            "itemBody": "\u003cp\u003eA. normally distributed.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c76411d2-5028-48da-86f9-f91eb73ef636",
+                            "itemBody": "\u003cp\u003eB. uniformly distributed.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0b75d7e8-70f6-4733-84fd-c6d8be5b22e4",
+                            "itemBody": "\u003cp\u003eC. lognormally distributed.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8570,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4423,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54425",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.09-Quant-Zhang-17",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eBootstrap resampling:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bb8ab593-77a4-46c0-9d5e-7f91014e0fc6"
+                },
+                "answerFeedback": {
+                    "1160efbb-4972-4d2f-8da5-a4201a6d785c": "\u003cp\u003eIncorrect because compared with conventional statistical methods, bootstrap does not rely on an analytical formula to estimate the distribution of the estimators.\u003c/p\u003e",
+                    "bb8ab593-77a4-46c0-9d5e-7f91014e0fc6": "\u003cp\u003eCorrect because bootstrap, one of the most popular resampling methods, can be used to find the standard error or construct confidence intervals for the statistic of other population parameters, such as the median.\u003c/p\u003e",
+                    "d50f536b-1e43-426c-996e-dc4c5333120e": "\u003cp\u003eIncorrect because unlike bootstrap, which repeatedly draws samples with replacement, jackknife samples are selected by taking the original observed data sample and leaving out one observation at a time from the set (and not replacing it).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d50f536b-1e43-426c-996e-dc4c5333120e",
+                            "itemBody": "\u003cp\u003eA. repeatedly draws samples without replacement.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "bb8ab593-77a4-46c0-9d5e-7f91014e0fc6",
+                            "itemBody": "\u003cp\u003eB. can be used to estimate the standard error of a population median.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1160efbb-4972-4d2f-8da5-a4201a6d785c",
+                            "itemBody": "\u003cp\u003eC. relies on an analytical formula to estimate the distribution of estimators.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8770,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4627,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54426",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.09-Quant-Chua-22",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA random variable \u003ci\u003eY\u003c/i\u003e = exp(\u003ci\u003eX\u003c/i\u003e) is lognormally distributed, where \u003ci\u003eX\u003c/i\u003e is normally distributed. The distribution of \u003ci\u003eY\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d741b342-9cbc-46d8-9720-6b62de779d40"
+                },
+                "answerFeedback": {
+                    "489c7645-1d08-4876-bb2e-4cb919f6d9a9": "\u003cp\u003eIncorrect because, where μ and σ\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;are the mean and variance of the associated normal distribution\u0026nbsp;(i.e., the distribution of\u0026nbsp;\u003ci\u003eX\u003c/i\u003e), the mean (μ\u003ci\u003e\u003csub\u003eL\u003c/sub\u003e\u003c/i\u003e) of a lognormal random variable = exp(μ\u0026nbsp;+ 0.50σ\u003csup\u003e2\u003c/sup\u003e),\u0026nbsp;not exp(µ).\u003c/p\u003e",
+                    "498e2f33-78f2-4877-9a3a-9b21a3151cfa": "\u003cp\u003eIncorrect because the lognormal distribution is skewed to the right,\u0026nbsp;not the left.\u003c/p\u003e",
+                    "d741b342-9cbc-46d8-9720-6b62de779d40": "\u003cp\u003eCorrect because the lognormal distribution has been found to be a usefully accurate description of the distribution of prices for many financial assets,\u0026nbsp;which includes stocks.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "498e2f33-78f2-4877-9a3a-9b21a3151cfa",
+                            "itemBody": "\u003cp\u003eA. is skewed to the left.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d741b342-9cbc-46d8-9720-6b62de779d40",
+                            "itemBody": "\u003cp\u003eB. is often used to model stock prices.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "489c7645-1d08-4876-bb2e-4cb919f6d9a9",
+                            "itemBody": "\u003cp\u003eC. has a mean equal to exp(µ), where µ is the mean of \u003ci\u003eX\u003c/i\u003e.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8770,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4627,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54427",
+            "entry": {
+                "title": "ITEM_2019B Quant 04KSG 19U1",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe lognormal distribution is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b850ca66-0a77-44d1-808c-7e6a23e3edea"
+                },
+                "answerFeedback": {
+                    "1caa8c3d-58b6-46ba-892c-7effef33c360": "\u003cp\u003eIncorrect because the two most noteworthy observations about the lognormal distribution are that it is bounded below by 0 and it is skewed to the right (it has a long right tail). The continuous positively skewed distribution has a long tail on its right side; the continuous negatively skewed distribution has a long tail on its left side.\u003c/p\u003e",
+                    "5c88ee16-4d9a-4938-9f02-8ec6ae90bc4f": "\u003cp\u003eIncorrect because the lognormal distribution is widely used for modeling the probability distribution of share and other asset prices, but not the returns. The lognormal distribution is bounded below by 0. Asset prices are bounded from below by 0. In practice, the lognormal distribution has been found to be a usefully accurate description of the distribution of prices for many financial assets. On the other hand, the normal distribution is often a good approximation for returns. Since asset returns can be negative, the lognormal distribution cannot be used for modeling asset returns.\u0026nbsp;\u003c/p\u003e",
+                    "b850ca66-0a77-44d1-808c-7e6a23e3edea": "\u003cp\u003eCorrect because the two most noteworthy observations about the lognormal distribution are that it is bounded below by 0 and it is skewed to the right (it has a long right tail).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1caa8c3d-58b6-46ba-892c-7effef33c360",
+                            "itemBody": "\u003cp\u003eA. negatively skewed.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b850ca66-0a77-44d1-808c-7e6a23e3edea",
+                            "itemBody": "\u003cp\u003eB. bounded below by zero.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "5c88ee16-4d9a-4938-9f02-8ec6ae90bc4f",
+                            "itemBody": "\u003cp\u003eC. widely used for modeling the probability distribution of asset returns.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8770,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4627,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54428",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Quant-Huffman-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eBoth the normal distribution and the lognormal distribution:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9e5b850c-bf38-4ceb-ac18-5e27ed656453"
+                },
+                "answerFeedback": {
+                    "374df627-4faf-4af7-bc0d-e1748569ca95": "\u003cp\u003eIncorrect because the lognormal distribution is bounded below by 0 whereas the range of possible outcomes of the normal distribution is the entire real line: all real numbers lying between −∞ and +∞.\u003c/p\u003e",
+                    "3c6aa9dc-eb7a-4157-909a-67040ddc52d8": "\u003cp\u003eIncorrect because the lognormal distribution\u0026nbsp;is skewed to the right. The normal distribution is symmetrical. Therefore, only the normal distribution is symmetrical.\u003c/p\u003e",
+                    "9e5b850c-bf38-4ceb-ac18-5e27ed656453": "\u003cp\u003eCorrect because like the normal distribution, the lognormal distribution is completely described by two parameters.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3c6aa9dc-eb7a-4157-909a-67040ddc52d8",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA. are symmetrical.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9e5b850c-bf38-4ceb-ac18-5e27ed656453",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eB. are completely described by two parameters.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "374df627-4faf-4af7-bc0d-e1748569ca95",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration\"\u003eC. have a \u003c/span\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration\"\u003erange of possible outcomes that includes all real numbers between −∞ and +∞.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8770,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4627,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {},
+    "scored_data": {
+        "points": 4,
+        "points_possible": 11
+    }
+}

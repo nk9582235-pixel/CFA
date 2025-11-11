@@ -1,0 +1,1153 @@
+{
+    "user_id": 239466,
+    "quiz_id": 5997,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 18,
+    "hidden_question_count": 0,
+    "points": 4,
+    "points_possible": 18,
+    "correct_questions_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 7: Capital Flows and the FX Market",
+        "topic_id": 1032,
+        "topic": "CFA-26-02-LI-C: Economics",
+        "subtopic_id": 5997,
+        "subtopic": "Module 7: Capital Flows and the FX Market",
+        "question_count": 18,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 848,
+                "name": "Warehouse Course: Economics 26-LI",
+                "code": "Warehouse Course: Economics 26-LI",
+                "module_id": 4434,
+                "question_count": 10,
+                "type": "warehouse"
+            },
+            {
+                "id": 839,
+                "name": "Practice Pack Warehouse: Economics 26-LI",
+                "code": "Practice Pack Warehouse: Economics 26-LI",
+                "module_id": 4651,
+                "question_count": 8,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 18.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "01d17823b84e790e",
+        "ordered_item_ids": [
+            "54552",
+            "54553",
+            "54554",
+            "54555",
+            "54556",
+            "54557",
+            "54558",
+            "54559",
+            "50765",
+            "50766",
+            "50767",
+            "50768",
+            "53624",
+            "53625",
+            "53626",
+            "53627",
+            "53628",
+            "53629"
+        ],
+        "visible_item_ids": [
+            "54552",
+            "54553",
+            "54554",
+            "54555",
+            "54556",
+            "54557",
+            "54558",
+            "54559",
+            "50765",
+            "50766",
+            "50767",
+            "50768",
+            "53624",
+            "53625",
+            "53626",
+            "53627",
+            "53628",
+            "53629"
+        ]
+    },
+    "items": [
+        {
+            "id": "54552",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Econ-Tsependa-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information:\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 284px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 245px; max-width: 245px;\"\u003eForeign inflation rate\u003c/td\u003e\n\u003ctd style=\"width: 32px; max-width: 32px; text-align: center;\"\u003e2%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 245px; max-width: 245px;\"\u003eDomestic inflation rate\u003c/td\u003e\n\u003ctd style=\"width: 32px; max-width: 32px; text-align: center;\"\u003e3%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 245px; max-width: 245px;\"\u003eChange in nominal exchange rate\u003c/td\u003e\n\u003ctd style=\"width: 32px; max-width: 32px; text-align: center;\"\u003e6%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eNote: the exchange rate is expressed as the number of units of domestic currency per unit of foreign currency.\u003c/p\u003e\n\u003cp\u003eThe change in the real exchange rate is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "45729dfb-e5b4-4100-bdc6-c91b8d336a4d"
+                },
+                "answerFeedback": {
+                    "158cc3b3-db69-4460-9929-4606e304406f": "\u003cp\u003eIncorrect because it interchanges domestic and foreign inflation rates in the formula, and calculates the change of real exchange rate as (1 + 6%) × (1 + 3%)/(1 + 2%) − 1\u0026nbsp;= 1.06 × 1.03/1.02\u0026nbsp;− 1 = 0.0704\u0026nbsp;≈ 0.07\u0026nbsp;= 7%.\u003c/p\u003e",
+                    "45729dfb-e5b4-4100-bdc6-c91b8d336a4d": "\u003cp\u003eCorrect because the change in the real exchange rate is\u003c/p\u003e\n\u003cp\u003e(1 + Δ\u003ci\u003eS\u003c/i\u003e\u003csub\u003e\u003ci\u003ed/\u003c/i\u003e\u003c/sub\u003e\u003ci\u003e\u003csub\u003ef\u003c/sub\u003e\u003c/i\u003e/\u003ci\u003eS\u003c/i\u003e\u003csub\u003e\u003ci\u003ed/\u003c/i\u003e\u003c/sub\u003e\u003ci\u003e\u003csub\u003ef\u003c/sub\u003e\u003c/i\u003e) × (1 + Δ\u003ci\u003eP\u003c/i\u003e\u003ci\u003e\u003csub\u003ef\u003c/sub\u003e\u003c/i\u003e/\u003ci\u003eP\u003c/i\u003e\u003csub\u003e\u003ci\u003ef\u003c/i\u003e\u003c/sub\u003e) / (1 + Δ\u003ci\u003eP\u003c/i\u003e\u003ci\u003e\u003csub\u003ed\u003c/sub\u003e\u003c/i\u003e/\u003ci\u003eP\u003csub\u003ed\u003c/sub\u003e\u003c/i\u003e) − 1 = (1 + 6%) × (1 + 2%)/(1 + 3%) − 1 = 1.06 × 1.02/1.03\u0026nbsp;− 1 = 0.0497\u0026nbsp;≈ 0.05\u0026nbsp;= 5%,\u003c/p\u003e\n\u003cp\u003ewhere\u0026nbsp;Δ\u003ci\u003eS\u003c/i\u003e\u003csub\u003e\u003ci\u003ed/\u003c/i\u003e\u003c/sub\u003e\u003ci\u003e\u003csub\u003ef\u003c/sub\u003e\u003c/i\u003e/\u003ci\u003eS\u003c/i\u003e\u003csub\u003e\u003ci\u003ed/\u003c/i\u003e\u003c/sub\u003e\u003ci\u003e\u003csub\u003ef\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;is the change of the nominal exchange rate, Δ\u003ci\u003eP\u003c/i\u003e\u003ci\u003e\u003csub\u003ef\u003c/sub\u003e\u003c/i\u003e/\u003ci\u003eP\u003c/i\u003e\u003csub\u003e\u003ci\u003ef\u003c/i\u003e\u003c/sub\u003e\u0026nbsp;is the foreign inflation rate, and Δ\u003ci\u003eP\u003csub\u003ed\u003c/sub\u003e\u003c/i\u003e/\u003ci\u003eP\u003csub\u003ed\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;is the domestic inflation rate.\u003c/p\u003e\n\u003cp\u003eUsing the appropriate approximate formula, 6.0% + 2.0% –\u0026nbsp;3.0% = 5% leads to the same answer choice.\u0026nbsp;\u003c/p\u003e",
+                    "d934a3dd-9d8c-4ea6-8a25-2dad7f2bf52f": "\u003cp\u003eIncorrect because it does not add 1 to the inflation rates and the nominal appreciation\u0026nbsp;rate\u0026nbsp;in the formula, and calculates the change of the real exchange rate as\u0026nbsp;(6%) × (2%)/(3%) = 4%.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d934a3dd-9d8c-4ea6-8a25-2dad7f2bf52f",
+                            "itemBody": "\u003cp\u003eA. 4%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "45729dfb-e5b4-4100-bdc6-c91b8d336a4d",
+                            "itemBody": "\u003cp\u003eB. 5%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "158cc3b3-db69-4460-9929-4606e304406f",
+                            "itemBody": "\u003cp\u003eC. 7%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8799,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4651,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54553",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Econ-Lamba-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhen a country has a fiscal surplus and an excess of private saving over investment, its exports are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c8478431-7491-44c2-84cb-543a29dad9e7"
+                },
+                "answerFeedback": {
+                    "06cb1356-d431-4ea9-ae44-9127db82398c": "\u003cp\u003eIncorrect because when a country has a fiscal surplus (\u003ci\u003eT\u003c/i\u003e \u0026gt; G) and an excess of private saving over investment (\u003ci\u003eS\u003c/i\u003e \u0026gt; I), its exports are greater than (not less than)\u0026nbsp;its imports (\u003ci\u003eX\u003c/i\u003e \u0026gt; \u003ci\u003eM).\u003c/i\u003e\u003c/p\u003e",
+                    "bed3189a-aae4-4288-91fd-762fed9d45c7": "\u003cp\u003eIncorrect because when a country has a fiscal surplus (\u003ci\u003eT\u003c/i\u003e \u0026gt; G) and an excess of private saving over investment (\u003ci\u003eS\u003c/i\u003e \u0026gt; I), its exports are greater than (not less than) its imports (\u003ci\u003eX\u003c/i\u003e \u0026gt; \u003ci\u003eM).\u003c/i\u003e\u003c/p\u003e",
+                    "c8478431-7491-44c2-84cb-543a29dad9e7": "\u003cp\u003eCorrect because using a fundamental identity from macroeconomics, the relationship between the trade balance and expenditure/saving decisions can be expressed as: \u003ci\u003eX\u003c/i\u003e– \u003ci\u003eM = (S – I) + (T – G)\u003c/i\u003e where \u003ci\u003eX\u003c/i\u003e represents exports, \u003ci\u003eM\u003c/i\u003e is imports, \u003ci\u003eS\u003c/i\u003e is private savings, \u003ci\u003eI\u003c/i\u003e is investment in plant and equipment, \u003ci\u003eT\u003c/i\u003e is taxes net of transfers, and \u003ci\u003eG\u003c/i\u003e is government expenditure. From this relationship, we can see that a trade surplus (\u003ci\u003eX \u0026gt; M\u003c/i\u003e) must be reflected in a fiscal surplus (\u003ci\u003eT \u0026gt; G\u003c/i\u003e), an excess of private saving over investment (\u003ci\u003eS\u003c/i\u003e \u0026gt; \u003ci\u003eI\u003c/i\u003e), or both. We can also see that when a country has a fiscal surplus (\u003ci\u003eT \u0026gt; G\u003c/i\u003e) and an excess of private saving over investment (\u003ci\u003eS \u0026gt; I\u003c/i\u003e), its exports are greater than its imports (\u003ci\u003eX \u0026gt; M\u003c/i\u003e).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bed3189a-aae4-4288-91fd-762fed9d45c7",
+                            "itemBody": "\u003cp\u003eA. less than its imports.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "06cb1356-d431-4ea9-ae44-9127db82398c",
+                            "itemBody": "\u003cp\u003eB. equal to its imports.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c8478431-7491-44c2-84cb-543a29dad9e7",
+                            "itemBody": "\u003cp\u003eC. greater than its imports.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8799,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4651,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54554",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Econ-McDonald-05",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe conversion of nominal exchange rates into real exchange rates requires the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8485a4a3-786e-47d3-8ef7-779ee6fffe90"
+                },
+                "answerFeedback": {
+                    "8485a4a3-786e-47d3-8ef7-779ee6fffe90": "\u003cp\u003eCorrect because\u0026nbsp;real exchange rates, which are indexes often constructed by economists and other market analysts to assess changes in the relative purchasing power of one currency compared with another. Creating these indexes requires adjusting the nominal exchange rate by using the price levels in each country of the currency pair.\u003c/p\u003e",
+                    "cc7b5316-0ce1-4fa4-bedd-12973055e42b": "\u003cp\u003eIncorrect because real exchange rates adjust for the price level in both countries not GDP.\u0026nbsp;Real exchange rates, which are indexes often constructed by economists and other market analysts to assess changes in the relative purchasing power of one currency compared with another. Creating these indexes requires adjusting the nominal exchange rate by using the price levels in each country of the currency pair.\u003c/p\u003e",
+                    "df206015-ca8c-43cc-b4cc-b796e616f104": "\u003cp\u003eIncorrect because real exchange rates adjust for the price level in both countries not interest rates. Real exchange rates, which are indexes often constructed by economists and other market analysts to assess changes in the relative purchasing power of one currency compared with another. Creating these indexes requires adjusting the nominal exchange rate by using the price levels in each country of the currency pair.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "cc7b5316-0ce1-4fa4-bedd-12973055e42b",
+                            "itemBody": "\u003cp\u003eA. GDP of both countries.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8485a4a3-786e-47d3-8ef7-779ee6fffe90",
+                            "itemBody": "\u003cp\u003eB. price levels in both countries.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "df206015-ca8c-43cc-b4cc-b796e616f104",
+                            "itemBody": "\u003cp\u003eC. interest rates in both countries.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8799,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4651,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54555",
+            "entry": {
+                "title": "ITEM_CFA-L1-01831",
+                "feedback": {},
+                "itemBody": "\u003cp\u003ePrice levels increase by 2% in the US\u0026nbsp;and by 6% in the Eurozone. If the nominal spot exchange rate of the USD/EUR (amount of US dollars per 1 euro) decreases by 4%, the absolute change in the real exchange rate is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ce176f0e-c5ed-44f3-b27d-8874bf4c4fe9"
+                },
+                "answerFeedback": {
+                    "1d50f9c5-764d-4e91-8a28-4b4c63961fbb": "\u003cp\u003eIncorrect because the change in the nominal exchange rate is misinterpreted; 4% + 6% − 2% = 8%.\u003c/p\u003e",
+                    "6af263b5-e952-49cc-ae62-26434dea73a3": "\u003cp\u003eIncorrect because the price increase in the U.S. is assumed to be additive; −4% + 6% + 2% = 4%.\u003c/p\u003e",
+                    "ce176f0e-c5ed-44f3-b27d-8874bf4c4fe9": "\u003cp\u003eCorrect because the change in the real exchange rate is:\u003c/p\u003e\n\u003cp style=\"font-size: 1.3rem;\"\u003e\u003cmath\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eΔ\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmi\u003ef\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003ed\u003c/mi\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmi\u003ef\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eΔ\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003ef\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003ef\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eΔ\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/mrow\u003e \u003c/math\u003e ; \u003cmath\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e4\u003c/mn\u003e \u003cmo\u003e%\u003c/mo\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e6\u003c/mn\u003e \u003cmo\u003e%\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e%\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e≈\u003c/mo\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e%\u003c/mo\u003e \u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp\u003eThus, the change in the real exchange rate is approximately zero percent. The rough calculation is: −4% + 6% − 2% = 0%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ce176f0e-c5ed-44f3-b27d-8874bf4c4fe9",
+                            "itemBody": "\u003cp\u003eA. 0%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6af263b5-e952-49cc-ae62-26434dea73a3",
+                            "itemBody": "\u003cp\u003eB. 4%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1d50f9c5-764d-4e91-8a28-4b4c63961fbb",
+                            "itemBody": "\u003cp\u003eC. 8%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8799,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4651,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54556",
+            "entry": {
+                "title": "ITEM_CFA-L1-06489",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn ideal international currency regime would \u003ci\u003emost likely \u003c/i\u003ehave:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b30edecc-fb7e-47b5-8c36-d8add4c7441a"
+                },
+                "answerFeedback": {
+                    "27599151-f3f8-4253-be48-5ada9b21af4f": "\u003cp\u003eIncorrect because the ideal currency regime would have three properties.\u0026nbsp;One of those properties states\u0026nbsp;each country would be able to undertake fully independent (not common)\u0026nbsp;monetary policy in pursuit of domestic objectives, such as growth and inflation targets.\u003c/p\u003e",
+                    "b30edecc-fb7e-47b5-8c36-d8add4c7441a": "\u003cp\u003eCorrect because the ideal currency regime would have three properties. One of those properties is, all currencies would be fully convertible (i.e., currencies could be freely exchanged for any purpose and in any amount). This condition ensures unrestricted flow of capital.\u003c/p\u003e",
+                    "e5214a90-aae7-4ba5-bfb7-8b2e04db49f5": "\u003cp\u003eIncorrect because the ideal currency regime would have three properties. One of those properties states\u0026nbsp;the exchange rate between any two currencies would be credibly fixed,\u0026nbsp;not floating.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b30edecc-fb7e-47b5-8c36-d8add4c7441a",
+                            "itemBody": "\u003cp\u003eA. currencies that are fully convertible.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e5214a90-aae7-4ba5-bfb7-8b2e04db49f5",
+                            "itemBody": "\u003cp\u003eB. floating exchange rates between currencies.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "27599151-f3f8-4253-be48-5ada9b21af4f",
+                            "itemBody": "\u003cp\u003eC. a common monetary policy across different countries.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8799,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4651,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54557",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Econ-Young-15",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn contrast to real exchange rates, nominal foreign exchange rates:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bfe0997a-e41c-4973-a2e3-b6f84f3fb8f2"
+                },
+                "answerFeedback": {
+                    "45558473-3a2f-45d3-86a2-0aa37b105d60": "\u003cp\u003eIncorrect because relative price levels are represented by the real exchange rate. The real exchange rate is an index that adjusts the nominal exchange rate for each country’s price level. Creating these indexes requires adjusting the nominal exchange rate by using the price levels in each country of the currency pair (hence the name “real exchange rates”) in order to compare the relative purchasing power between countries. An equivalent way of viewing the real exchange rate is that it represents the relative price levels in the domestic and foreign countries.\u003c/p\u003e",
+                    "bfe0997a-e41c-4973-a2e3-b6f84f3fb8f2": "\u003cp\u003eCorrect because nominal exchange rates exhibit persistent deviations from PPP.\u0026nbsp;\u003c/p\u003e",
+                    "e106d1c5-21cf-4403-b189-1a7a2da6f7c4": "\u003cp\u003eIncorrect because nominal exchange rates are not indexes. The real exchange rate represents indexes created by analysts to understand the international competitiveness of an economy and the real purchasing power of a currency. In this context, real exchange rates can be useful for understanding trends in international trade and capital flows and hence can be seen as one of the influences on nominal spot exchange rates.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bfe0997a-e41c-4973-a2e3-b6f84f3fb8f2",
+                            "itemBody": "\u003cp\u003eA. tend to deviate from purchasing power parity.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "45558473-3a2f-45d3-86a2-0aa37b105d60",
+                            "itemBody": "\u003cp\u003eB. represent the relative price levels in the domestic and foreign countries.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e106d1c5-21cf-4403-b189-1a7a2da6f7c4",
+                            "itemBody": "\u003cp\u003eC. are indexes useful for understanding international trade and capital flows.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8799,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4651,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54558",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Econ-Young-18",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following economic conditions for a country \u003ci\u003ebest\u003c/i\u003e supports a well-functioning currency board exchange rate system?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5b47327d-d1fa-47ce-93fc-d0ae46daba5c"
+                },
+                "answerFeedback": {
+                    "5b47327d-d1fa-47ce-93fc-d0ae46daba5c": "\u003cp\u003eCorrect because a currency board system works best if domestic prices and wages are very flexible.\u003c/p\u003e",
+                    "b87e1bcf-956c-4dd3-ab00-00d63bbeb01b": "\u003cp\u003eIncorrect because a currency board system works best when the global supply of the reserve asset grows at a slow, steady rate consistent with long-run real growth with stable prices.\u003c/p\u003e",
+                    "c363c510-4daf-403a-895e-30319e21867a": "\u003cp\u003eIncorrect because a currency board system works best if non-traded sectors of the domestic economy are relatively small.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5b47327d-d1fa-47ce-93fc-d0ae46daba5c",
+                            "itemBody": "\u003cp\u003eA. Flexible domestic prices and wages\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b87e1bcf-956c-4dd3-ab00-00d63bbeb01b",
+                            "itemBody": "\u003cp\u003eB. Rapid growth in supply of the global reserve asset\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c363c510-4daf-403a-895e-30319e21867a",
+                            "itemBody": "\u003cp\u003eC. Large non-traded sectors of the domestic economy\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8799,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4651,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54559",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-Econ-Horvath-20",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eDollarization is \u003ci\u003ebest \u003c/i\u003edescribed as an exchange rate regime whereby a country:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b61ed019-c79c-455d-acd8-ea5f9db815d3"
+                },
+                "answerFeedback": {
+                    "55188eee-fdf4-4a55-b00f-c28a6d02e1b5": "\u003cp\u003eIncorrect because the IMF identifies two types of arrangements in which a country does not have its own legal tender. In the first, known as \u003ci\u003edollarization\u003c/i\u003e, the country uses the currency of another nation as its medium of exchange and unit of account. In the second, the country participates in a monetary union whose members share the same legal tender.\u0026nbsp;Therefore dollarization is not best described as an exchange rate regime whereby the county participates in a monetary union whose members share the same legal tender.\u0026nbsp;\u003c/p\u003e",
+                    "b61ed019-c79c-455d-acd8-ea5f9db815d3": "\u003cp\u003eCorrect because in case of dollarization the country uses the currency of another nation as its medium of exchange and unit of account.\u003c/p\u003e",
+                    "d4c0dbba-3f4e-465e-822e-5b7446a8e704": "\u003cp\u003eIncorrect because\u0026nbsp;in case of dollarization the country uses the currency of another nation as its medium of exchange and unit of account. In contrast, a currency board is a\u0026nbsp;monetary regime based on an explicit legislative commitment to exchange domestic currency for a specified foreign currency at a fixed exchange rate, combined with restrictions on the issuing authority to ensure fulfillment of its legal obligation.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b61ed019-c79c-455d-acd8-ea5f9db815d3",
+                            "itemBody": "\u003cp\u003eA. uses the currency of another nation as its medium of exchange.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "55188eee-fdf4-4a55-b00f-c28a6d02e1b5",
+                            "itemBody": "\u003cp\u003eB. participates in a monetary union whose members share the same legal tender.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d4c0dbba-3f4e-465e-822e-5b7446a8e704",
+                            "itemBody": "\u003cp\u003eC. makes a commitment to exchange domestic currency for a specified foreign currency at a fixed exchange rate.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8799,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4651,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50765",
+            "entry": {
+                "title": "CFA2415-R-s02-Q13",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. In the case of a direct exchange rate, the domestic currency is the price currency (the numerator) and the foreign currency is the base currency (the denominator). If the domestic currency appreciates, then fewer units of the domestic currency are required to buy one unit of the foreign currency, and the exchange rate (domestic per foreign) declines. For example, if British pound sterling (GBP) appreciates against the euro (EUR), then euro–sterling (GBP/EUR) might decline.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhat will be the effect on a direct exchange rate quote if the domestic currency appreciates?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "79c44d65-0936-4495-8cc5-806e5ff097c6"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a2eca087-f85a-4eee-a560-6d654c49075d",
+                            "itemBody": "A. Increase",
+                            "position": 1
+                        },
+                        {
+                            "id": "79c44d65-0936-4495-8cc5-806e5ff097c6",
+                            "itemBody": "B. Decrease",
+                            "position": 2
+                        },
+                        {
+                            "id": "e3963736-e953-4b79-908b-4d70a2328ce2",
+                            "itemBody": "C. No change",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8161,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4434,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50766",
+            "entry": {
+                "title": "CFA2415-R-s02-Q14",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. An indirect quote takes the foreign country as the price currency and the domestic country as the base currency. To get Swiss francs—which is the executive’s domestic currency—as the base currency, the quote must be stated as EUR/CHF. Using the manager’s information, the indirect exchange rate is (1/1.2983) = 0.7702.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn executive from Switzerland checks into a hotel room in Spain and is told by the manager that EUR1 will buy CHF1.2983. From the executive’s perspective, an indirect exchange rate quote would be:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8ffcc923-3274-4a00-92a5-dd3109d50105"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8ffcc923-3274-4a00-92a5-dd3109d50105",
+                            "itemBody": "A. EUR0.7702 per CHF1.",
+                            "position": 1
+                        },
+                        {
+                            "id": "c2b7151c-4903-41c3-8009-cf263a2cb8b8",
+                            "itemBody": "B. CHF0.7702 per EUR1.",
+                            "position": 2
+                        },
+                        {
+                            "id": "e6832117-1586-47b9-bb99-e333ecec0eea",
+                            "itemBody": "C. EUR1.2983 per CHF1.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8161,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4434,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50767",
+            "entry": {
+                "title": "CFA2415-R-s02-Q15",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The appreciation of the British pound against the Swiss franc is the inverse of the 12 percent depreciation of the Swiss franc against the pound sterling: [1/(1 – 0.12)] – 1 = (1/0.88) – 1 = 0.1364, or 13.64%.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eOver the past month, the Swiss franc (CHF) has depreciated 12 percent against the British pound (GBP). How much has the pound sterling appreciated against the Swiss franc?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "565967fd-34b0-44d2-bc0e-cb6d1e68cb78"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "90227119-3e36-46c2-94b2-c1d1cf8f1a98",
+                            "itemBody": "A. 12 percent",
+                            "position": 1
+                        },
+                        {
+                            "id": "2995826f-d73e-4e90-8ff3-bb935609f721",
+                            "itemBody": "B. Less than 12 percent",
+                            "position": 2
+                        },
+                        {
+                            "id": "565967fd-34b0-44d2-bc0e-cb6d1e68cb78",
+                            "itemBody": "C. More than 12 percent",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8161,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4434,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50768",
+            "entry": {
+                "title": "CFA2415-R-s02-Q16",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The percentage appreciation of the base currency can be calculated by dividing the appreciated exchange rate by the initial exchange rate. In this case, the unknown is the initial exchange rate. The initial exchange is the value of \u003cem\u003eX\u003c/em\u003e that satisfies the formula:\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2415-R-s02-E-5-\"\u003e1.4500/\u003cem\u003eX\u003c/em\u003e = 1.08\u003c/div\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSolving for \u003cem\u003eX\u003c/em\u003e leads to 1.45/1.08 = 1.3426.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn exchange rate between two currencies has increased to 1.4500. If the base currency has appreciated by 8 percent against the price currency, the initial exchange rate between the two currencies was \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9f20573e-7be1-4dcc-a39c-72a766563675"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e85eb1b9-509f-4a44-9c57-2d3c5ee5adff",
+                            "itemBody": "A. 1.3340.",
+                            "position": 1
+                        },
+                        {
+                            "id": "9f20573e-7be1-4dcc-a39c-72a766563675",
+                            "itemBody": "B. 1.3426.",
+                            "position": 2
+                        },
+                        {
+                            "id": "710f873d-cbca-4d44-aa15-4b98ac51d434",
+                            "itemBody": "C. 1.5660.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8161,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4434,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53624",
+            "entry": {
+                "title": "ITEM_20170531074",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 483px; border-style: solid;\" border=\"1\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 87px; max-width: 87px;\"\u003e\u003cstrong\u003e\u0026nbsp;\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; width: 97px; max-width: 97px;\"\u003e\u003cstrong\u003eSpot Rate\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; width: 286px; max-width: 286px;\"\u003e\u003cstrong\u003eExpected Spot Rate in One Year\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 87px; max-width: 87px;\"\u003eUSD/EUR\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 97px; max-width: 97px;\"\u003e1.3001\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 286px; max-width: 286px;\"\u003e1.3456\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 87px; max-width: 87px;\"\u003eUSD/GBP\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 97px; max-width: 97px;\"\u003e1.5805\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 286px; max-width: 286px;\"\u003e1.5489\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003cp\u003eBased on the table, the appreciation of which of the following currencies is \u003ci\u003emost likely\u003c/i\u003e to occur?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4d29713a-8275-41a4-b6b6-e91f86a4539f"
+                },
+                "answerFeedback": {
+                    "4d29713a-8275-41a4-b6b6-e91f86a4539f": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e In the exchange rate quotation, USD/EUR, the US dollar is the price currency and the euro is the base currency. The USD/EUR is expected to increase from 1.3001 to 1.3456. This represents a 3.5% appreciation of the euro against the dollar, i.e., a percentage change of (1.3456/1.3001) – 1 = +3.50%.\u003c/p\u003e",
+                    "777a26d7-1479-4151-9e42-4773eef64953": "\u003cp\u003eIncorrect. The USD/GBP is expected to decrease from 1.5805 to 1.5489. This represents a percentage change of (1.5489/1.5805) – 1 = –2.00%. The British pound is expected to depreciate, not appreciate, against the US dollar by 2% because the USD/GBP exchange rate is expressed with the US dollar as the price currency.\u003c/p\u003e",
+                    "b67298d9-9656-4707-8239-748ee4a6725c": "\u003cp\u003eIncorrect. The appreciation of the euro against the US dollar can also be expressed as a depreciation of the US dollar against the euro. Inverting the exchange rate quote from USD/EUR to EUR/USD, so the euro is now the price currency, leads to (1.3001/1.3456) – 1 = –3.38%. The US dollar is expected to depreciate, not appreciate, against the euro by 3.38%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b67298d9-9656-4707-8239-748ee4a6725c",
+                            "itemBody": "\u003cp\u003eA. The US dollar against the euro by 3.38%\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4d29713a-8275-41a4-b6b6-e91f86a4539f",
+                            "itemBody": "\u003cp\u003eB. The euro against the US dollar by 3.50%\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "777a26d7-1479-4151-9e42-4773eef64953",
+                            "itemBody": "\u003cp\u003eC. The British pound against the US dollar by 2.00%\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8597,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4434,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53625",
+            "entry": {
+                "title": "ITEM_20170531087",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAssume that the nominal spot exchange rate (USD/EUR) increases by 7.5%, the eurozone price level decreases by 4%, and the US price level increases by 2.5%. The change in the real exchange rate (%) is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d3235667-b960-4306-8d4a-1597f01137f2"
+                },
+                "answerFeedback": {
+                    "087ea174-5f0e-454d-8791-439410a64c18": "\u003cp\u003eIncorrect because the change in the price levels are inverted: [(1 + 7.5%) × (1 + 2.5%)[/(1 – 4%) – 1= 14.8%.\u003c/p\u003e",
+                    "1133b6f6-5879-49f1-8337-8a8332d4aa2c": "\u003cp\u003eIncorrect because the change in the nominal exchange rate is not included: (1 – 4%)/(1 + 2.5%) – 1= –6.3%.\u003c/p\u003e",
+                    "d3235667-b960-4306-8d4a-1597f01137f2": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eReal exchange rate = Nominal spot exchange rate × (CPI of the foreign country/CPI of the domestic country)\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eChange in the real exchange rate = [(1 + Change in exchange rate) × (1 + Change in price level in foreign country)]/(1 + Change in price level in domestic country) – 1\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= [(1 + 7.5%) × (1 – 4%)]/(1 + 2.5%) – 1 = 0.7%\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1133b6f6-5879-49f1-8337-8a8332d4aa2c",
+                            "itemBody": "\u003cp\u003eA. –6.3%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d3235667-b960-4306-8d4a-1597f01137f2",
+                            "itemBody": "\u003cp\u003eB. 0.7%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "087ea174-5f0e-454d-8791-439410a64c18",
+                            "itemBody": "\u003cp\u003eC. 14.8%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8597,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4434,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53626",
+            "entry": {
+                "title": "ITEM_20170531123",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn the classification of currency regimes, a currency board system (CBS) \u003ci\u003emost likely \u003c/i\u003ediffers from a fixed-rate parity system in that:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "51fdb720-c339-483c-a34a-092d9710630d"
+                },
+                "answerFeedback": {
+                    "2b8cd808-7b98-4ab9-badc-0ae1ed755ca2": "\u003cp\u003eIncorrect. It is the fixed-rate system that can use a basket of currencies for the peg.\u003c/p\u003e",
+                    "4809c362-a886-40f9-9f93-d86d5b9febe8": "\u003cp\u003eIncorrect. In a fixed parity system the monetary authority has a discretionary target level of reserves, but in a CBS it does not because there is a commitment to exchange domestic currency for a specified foreign currency at a fixed exchange rate.\u003c/p\u003e",
+                    "51fdb720-c339-483c-a34a-092d9710630d": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e In a CBS, the monetary authority has an obligation to maintain 100% foreign currency reserves against the monetary base. It therefore cannot lend to troubled financial institutions. As long as the country under a fixed parity regime maintains its exchange peg, the central bank can serve as a lender of last resort.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4809c362-a886-40f9-9f93-d86d5b9febe8",
+                            "itemBody": "\u003cp\u003eA. a CBS has a discretionary target level of foreign exchange reserves.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2b8cd808-7b98-4ab9-badc-0ae1ed755ca2",
+                            "itemBody": "\u003cp\u003eB. a CBS can peg to a basket of currencies but a fixed-rate system cannot.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "51fdb720-c339-483c-a34a-092d9710630d",
+                            "itemBody": "\u003cp\u003eC. the monetary authority within a CBS does not act as a traditional lender of last resort.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8597,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4434,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53627",
+            "entry": {
+                "title": "ITEM_20190530009",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe \u003ci\u003emost likely\u003c/i\u003e reason for a country to encourage foreign direct investment while heavily restricting foreign investment in liquid domestic assets is to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9ddba4f7-c679-46d7-8d0b-a78d6722cef6"
+                },
+                "answerFeedback": {
+                    "46b0d4aa-b811-49d9-a86d-a8e7214b4403": "\u003cp\u003eIncorrect. Restricting foreign investment in liquid domestic assets will keep the domestic interest rate from rising.\u003c/p\u003e",
+                    "78af089b-3f33-40b4-8cf0-51cb7dac9d20": "\u003cp\u003eIncorrect. Foreign direct investment increases the production capacity of the domestic country.\u003c/p\u003e",
+                    "9ddba4f7-c679-46d7-8d0b-a78d6722cef6": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Capital flight occurs when foreign investment in liquid domestic assets suddenly decreases. Restricting foreign investment in liquid domestic assets and encouraging foreign direct investment (i.e., investment in illiquid domestic assets) prevents capital flight.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9ddba4f7-c679-46d7-8d0b-a78d6722cef6",
+                            "itemBody": "\u003cp\u003eA. prevent capital flight.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "46b0d4aa-b811-49d9-a86d-a8e7214b4403",
+                            "itemBody": "\u003cp\u003eB. generate an increase in the domestic interest rate.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "78af089b-3f33-40b4-8cf0-51cb7dac9d20",
+                            "itemBody": "\u003cp\u003eC. stabilize the production capacity of the domestic country.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8597,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4434,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53628",
+            "entry": {
+                "title": "ITEM_20190530012",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich market participants are \u003ci\u003emost likely\u003c/i\u003e to limit the use of leverage in the management of their accounts?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ce02cb89-5c8f-43cf-aa1e-867967bd71b6"
+                },
+                "answerFeedback": {
+                    "92afc52c-aafb-436d-b664-05f06c28ce40": "\u003cp\u003eIncorrect. Proprietary trading desks at banks are part of the professional trading community that uses leverage or financial derivatives in the management of their accounts.\u003c/p\u003e",
+                    "cc95c2d7-300a-4f22-9352-370a8da8a4fc": "\u003cp\u003eIncorrect. Commodity trading advisers are part of the professional trading community that uses leverage or financial derivatives in the management of their accounts.\u003c/p\u003e",
+                    "ce02cb89-5c8f-43cf-aa1e-867967bd71b6": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Exchange-traded funds are part of a class of institutional investors referred to as real money accounts. They are usually restricted in their use of leverage or financial derivatives in their accounts.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ce02cb89-5c8f-43cf-aa1e-867967bd71b6",
+                            "itemBody": "\u003cp\u003eA. Exchange-traded funds\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "cc95c2d7-300a-4f22-9352-370a8da8a4fc",
+                            "itemBody": "\u003cp\u003eB. Commodity trading advisers\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "92afc52c-aafb-436d-b664-05f06c28ce40",
+                            "itemBody": "\u003cp\u003eC. Bank proprietary trading desks\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8597,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4434,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53629",
+            "entry": {
+                "title": "ITEM_20190530016",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost likely\u003c/i\u003e a characteristic of a country that follows the dollarization exchange rate regime? The country:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c076d242-7be9-4032-a664-a92a7c25a6dd"
+                },
+                "answerFeedback": {
+                    "1df0f142-3935-473e-be38-5378a00f3918": "\u003cp\u003eIncorrect. Adopting the US currency will impose fiscal discipline, preventing the government from monetizing its debt.\u003c/p\u003e",
+                    "42f8362f-ea51-4219-a1bd-1cd404a80f2f": "\u003cp\u003eIncorrect. The interest rates in a country that adopts the US currency as its currency are generally not the same as in the United States.\u003c/p\u003e",
+                    "c076d242-7be9-4032-a664-a92a7c25a6dd": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e When a country adopts the US currency as its currency, hence the name \u003cem\u003edollarization\u003c/em\u003e, the dollarized country inherits the currency credibility of the US dollar.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1df0f142-3935-473e-be38-5378a00f3918",
+                            "itemBody": "\u003cp\u003eA. is able to monetize its domestic debt.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c076d242-7be9-4032-a664-a92a7c25a6dd",
+                            "itemBody": "\u003cp\u003eB. has the currency credibility of the US dollar.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "42f8362f-ea51-4219-a1bd-1cd404a80f2f",
+                            "itemBody": "\u003cp\u003eC. has a term structure similar to that of the United States.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8597,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4434,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {},
+    "scored_data": {
+        "points": 4,
+        "points_possible": 18
+    }
+}

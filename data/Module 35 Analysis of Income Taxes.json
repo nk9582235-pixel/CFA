@@ -1,0 +1,1163 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6172,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 18,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 9: Analysis of Income Taxes",
+        "topic_id": 1034,
+        "topic": "CFA-26-02-LI-C: Financial Statement Analysis",
+        "subtopic_id": 6172,
+        "subtopic": "Module 9: Analysis of Income Taxes",
+        "question_count": 18,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 850,
+                "name": "Warehouse Course: Financial Statement Analysis 26-LI",
+                "code": "Warehouse Course: Financial Statement Analysis 26-LI",
+                "module_id": 4451,
+                "question_count": 12,
+                "type": "warehouse"
+            },
+            {
+                "id": 841,
+                "name": "Practice Pack Warehouse: Financial Statement Analysis 26-LI",
+                "code": "Practice Pack Warehouse: Financial Statement Analysis 26-LI",
+                "module_id": 4668,
+                "question_count": 6,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 18.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "49eeaef61708bf2f",
+        "ordered_item_ids": [
+            "54821",
+            "54822",
+            "54823",
+            "54824",
+            "54825",
+            "54826",
+            "50873",
+            "50874",
+            "50875",
+            "50876",
+            "50877",
+            "50878",
+            "50879",
+            "50880",
+            "50881",
+            "53699",
+            "53700",
+            "53701",
+            "53702"
+        ],
+        "visible_item_ids": [
+            "54821",
+            "54822",
+            "54823",
+            "54824",
+            "54825",
+            "54826",
+            "50873",
+            "50874",
+            "50875",
+            "50876",
+            "50877",
+            "50878",
+            "50879",
+            "50880",
+            "50881",
+            "53699",
+            "53700",
+            "53701",
+            "53702"
+        ]
+    },
+    "items": [
+        {
+            "id": "54821",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.09-FRA-Vervloet-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eDeferred tax assets could arise when:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "180c9570-5f0c-4864-8fe4-19c8edf49350"
+                },
+                "answerFeedback": {
+                    "180c9570-5f0c-4864-8fe4-19c8edf49350": "\u003cp\u003eCorrect because \"\u003cb\u003e[d]eferred tax assets\u003c/b\u003e, which appear on the balance sheet, arise when an excess amount is paid for income taxes (taxable income higher than accounting profit) and the company expects to recover the difference during the course of future operations.\"\u003c/p\u003e",
+                    "55e5b1cb-c824-4e0a-b47a-662400cf6e18": "\u003cp\u003eIncorrect because when the\u0026nbsp;carrying amount of an asset exceeds its tax base, this results in a deferred tax liability.\u003c/p\u003e",
+                    "b5a6904b-dfb7-4c28-9a25-1f2f4e43ef69": "\u003cp\u003eIncorrect because when\u0026nbsp;the carrying amount of a liability is lower than its tax base,\u0026nbsp;this results in a deferred tax liability.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "180c9570-5f0c-4864-8fe4-19c8edf49350",
+                            "itemBody": "\u003cp\u003eA. taxable income is greater than accounting profit.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "55e5b1cb-c824-4e0a-b47a-662400cf6e18",
+                            "itemBody": "\u003cp\u003eB. the carrying amount of an asset exceeds its tax base.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b5a6904b-dfb7-4c28-9a25-1f2f4e43ef69",
+                            "itemBody": "\u003cp\u003eC. the carrying amount of a liability is lower than its tax base.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8834,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4668,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54822",
+            "entry": {
+                "title": "ITEM_2019BFRA21KYL39U3",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA company incurred research costs which were all expensed in the current fiscal year for financial reporting purposes. Applicable tax laws require research costs to be expensed over a 5-year period. If taxable profit will be available against which the deductible temporary differences can be utilized, in the current fiscal year the company will \u003ci\u003emost likely\u003c/i\u003e record:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "27494077-4c90-4ba9-8aff-0ff3f1e64399"
+                },
+                "answerFeedback": {
+                    "27494077-4c90-4ba9-8aff-0ff3f1e64399": "\u003cp\u003eCorrect because the carrying amount is zero due to the full amount having been expensed for financial accounting, while the tax base of the asset was only reduced by one-fifth of the total cost in the first year. In addition, taxable profit will be available against which the deductible temporary differences can be utilized. As the asset carrying amount is less than the tax base, it will result in a deferred tax asset.\u003c/p\u003e",
+                    "3bf3d74d-ca54-4a14-8645-710e069bbc97": "\u003cp\u003eIncorrect because the asset carrying amount is less than the tax base, therefore it will result in a deferred tax asset.\u003c/p\u003e",
+                    "56bdbfae-3b9e-4e29-b3d6-4aa623ebeb22": "\u003cp\u003eIncorrect because ia deferred tax liability results when the asset carrying amount is greater than the tax base.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "27494077-4c90-4ba9-8aff-0ff3f1e64399",
+                            "itemBody": "\u003cp\u003eA. a deferred tax asset.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "56bdbfae-3b9e-4e29-b3d6-4aa623ebeb22",
+                            "itemBody": "\u003cp\u003eB. a deferred tax liability.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3bf3d74d-ca54-4a14-8645-710e069bbc97",
+                            "itemBody": "\u003cp\u003eC. neither a deferred tax asset nor a deferred tax liability.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8834,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4668,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54823",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-FSAN-Vervloet-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about the acquisition of a target company with tax loss carryforwards is \u003ci\u003emost\u003c/i\u003e accurate? If the acquirer is profitable:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ceee7c03-c6e6-4b7e-8f0c-21a5470c31e7"
+                },
+                "answerFeedback": {
+                    "3bbaeba4-e38f-4b28-9e16-9c0b5aeca117": "\u003cp\u003eIncorrect because an acquirer with a high current tax rate would theoretically be willing to pay more than an acquirer with a lower tax rate.\u003c/p\u003e",
+                    "3c7c8351-d197-4608-b98f-c2035824edd6": "\u003cp\u003eIncorrect because\u0026nbsp;an acquirer with a high current tax rate would theoretically be willing to pay more than an acquirer with a lower tax rate.\u003c/p\u003e",
+                    "ceee7c03-c6e6-4b7e-8f0c-21a5470c31e7": "\u003cp\u003eCorrect because if an acquiring company is profitable, it may be able to use MU’s tax loss carryforwards to offset its own tax liabilities. The value to an acquirer would be the present value of the carryforwards, based on the acquirer’s tax rate and expected timing of realization. The higher the acquiring company’s tax rate, and the more profitable the acquirer, the sooner it would be able to benefit. Therefore, an acquirer with a high current tax rate would theoretically be willing to pay more than an acquirer with a lower tax rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3c7c8351-d197-4608-b98f-c2035824edd6",
+                            "itemBody": "\u003cp\u003eA. its current tax rate will have no impact on the acquisition price.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ceee7c03-c6e6-4b7e-8f0c-21a5470c31e7",
+                            "itemBody": "\u003cp\u003eB. the acquirer would theoretically be willing to pay more than another acquirer with a lower tax rate.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3bbaeba4-e38f-4b28-9e16-9c0b5aeca117",
+                            "itemBody": "\u003cp\u003eC. the acquirer would theoretically be willing to pay more than another acquirer with a higher tax rate.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8834,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4668,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54824",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FRA-Pitrakkou-17",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe carrying amount of an asset being higher than its tax base may be considered a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "553e62b4-e456-4516-aace-a681e3dd515f"
+                },
+                "answerFeedback": {
+                    "15567142-9b36-451c-970c-e4aa6c2c97bc": "\u003cp\u003eIncorrect because the carrying amount of an asset being higher than its tax base is considered to be a temporary difference that results in a deferred tax liability.\u003c/p\u003e",
+                    "553e62b4-e456-4516-aace-a681e3dd515f": "\u003cp\u003eCorrect because the carrying amount of an asset being higher than its tax base is considered to be a temporary difference that results in a deferred tax liability. Deferred tax liabilities, which also appear on the balance sheet, arise when a deficit amount is paid for income taxes and the company expects to eliminate the deficit over the course of future operations.\u003c/p\u003e",
+                    "6800574c-cfa8-43b0-81c6-2c7cded97331": "\u003cp\u003eIncorrect because the carrying amount of an asset being higher than its tax base is considered to be a temporary difference that results in a deferred tax liability.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6800574c-cfa8-43b0-81c6-2c7cded97331",
+                            "itemBody": "\u003cp\u003eA. temporary difference resulting\u0026nbsp;in a deferred tax asset.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "15567142-9b36-451c-970c-e4aa6c2c97bc",
+                            "itemBody": "\u003cp\u003eB. permanent difference resulting\u0026nbsp;in a deferred tax asset.\u0026nbsp;\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "553e62b4-e456-4516-aace-a681e3dd515f",
+                            "itemBody": "\u003cp\u003eC. temporary difference resulting\u0026nbsp;in a deferred tax liability.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8834,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4668,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54825",
+            "entry": {
+                "title": "ITEM_CFA-L1-05735",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA deferred tax asset has been previously recognized. At the current balance sheet date, the criteria for economic benefits are not met but the tax differences are still expected to be temporary. As a result:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "72aff94e-f6e1-4dd7-acc4-9c3206a904cf"
+                },
+                "answerFeedback": {
+                    "6c6fa78d-5d31-4aea-be41-ccd2b2e6c63c": "\u003cp\u003eIncorrect because it answers for a deferred tax liability (reported under US GAAP) that is not expected to reverse. The analyst should classify the deferred tax liability as debt if the liability is expected to reverse with subsequent tax payment. If the liability is not expected to reverse, there is no expectation of a cash outflow and the liability should be treated as equity.\u003c/p\u003e",
+                    "72aff94e-f6e1-4dd7-acc4-9c3206a904cf": "\u003cp\u003eCorrect because if a deferred tax asset or liability resulted in the past, but the criteria of economic benefits is not met on the current balance sheet date, then, under IFRS, an existing deferred tax asset or liability related to the item will be reversed.\u003c/p\u003e",
+                    "a5109493-b8f3-4540-9265-24cf9f72e6c6": "\u003cp\u003eIncorrect because if a deferred tax asset or liability resulted in the past, but the criteria of economic benefits is not met on the current balance sheet date, then, under IFRS, an existing deferred tax asset or liability related to the item will be reversed. Under US GAAP, a valuation allowance is established.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "72aff94e-f6e1-4dd7-acc4-9c3206a904cf",
+                            "itemBody": "\u003cp\u003eA. the existing deferred tax asset should be reversed.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a5109493-b8f3-4540-9265-24cf9f72e6c6",
+                            "itemBody": "\u003cp\u003eB. a valuation allowance account should be established.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6c6fa78d-5d31-4aea-be41-ccd2b2e6c63c",
+                            "itemBody": "\u003cp\u003eC. the existing deferred tax asset should be reclassified as equity.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8834,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4668,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54826",
+            "entry": {
+                "title": "ITEM_CFA-L1-10146",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA deferred tax liability could arise when:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "73ef8e42-fb3b-41ae-aa7f-49f8273a2058"
+                },
+                "answerFeedback": {
+                    "73ef8e42-fb3b-41ae-aa7f-49f8273a2058": "\u003cp\u003eCorrect because deferred tax liabilities arise when a\u0026nbsp;financial accounting income tax expense exceeds income taxes payable.\u003c/p\u003e",
+                    "cbbe53c3-2d38-4387-9438-622a04b24763": "\u003cp\u003eIncorrect because deferred tax assets, rather than deferred tax liabilities arise when the tax base of an asset is greater than its carrying amount.\u0026nbsp;\u003c/p\u003e",
+                    "df342dfe-45e5-4b7e-a6b4-5ec10f8aa6f8": "\u003cp\u003eIncorrect because deferred tax assets, rather than deferred tax liabilities arise when the carrying amount of a liability is greater than its tax base.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "cbbe53c3-2d38-4387-9438-622a04b24763",
+                            "itemBody": "\u003cp\u003eA. the tax base of an asset is greater than its carrying amount.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "df342dfe-45e5-4b7e-a6b4-5ec10f8aa6f8",
+                            "itemBody": "\u003cp\u003eB. the carrying amount of a liability is greater than its tax base.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "73ef8e42-fb3b-41ae-aa7f-49f8273a2058",
+                            "itemBody": "\u003cp\u003eC. financial accounting income tax expense exceeds income taxes payable.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8834,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4668,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50873",
+            "entry": {
+                "title": "CFA2426-R-s05-Q14",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Because the carrying amount is less than the tax base for this asset, this difference is a temporary difference that will result in a deferred tax asset. B is incorrect because a deferred tax liability would apply if the carrying amount was greater than the asset base. C is incorrect because this is not a permanent difference thus there will be either a deferred tax asset or deferred tax liability.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn the current year, Michaels Company has a carrying amount of USD3,500,000 and tax base of USD5,000,000 for accounts receivable. Michaels will most likely recognize:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "19004844-a9e8-4093-9e4b-2c1b4e77bfc9"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "19004844-a9e8-4093-9e4b-2c1b4e77bfc9",
+                            "itemBody": "\u003cp\u003eA. a deferred tax asset.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f504b3a3-e6a1-4491-af9c-00d74d41cfb9",
+                            "itemBody": "\u003cp\u003eB. a deferred tax liability.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a303fd54-e5b4-4971-9360-4ad6ff3cb3ec",
+                            "itemBody": "\u003cp\u003eC. no deferred tax asset or liability.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8205,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4451,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50874",
+            "entry": {
+                "title": "CFA2426-R-s05-Q15",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Permanent differences are differences between tax laws and accounting standards that will not be reversed at some future date. Because they will not be reversed at a future date, these differences do not give rise to deferred tax. These items include tax credits for expenditures that directly reduce taxes, such as tax credits related to the purchase of solar power. B is incorrect because taxable temporary differences result in the recognition of deferred tax liabilities. C is incorrect because deductible temporary differences result in a deferred tax asset.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eJames Company has received USD500,000 of tax credits from the recent installation of solar panels that will directly reduce their taxes. Which of the following \u003cem\u003ebest\u003c/em\u003e describes these tax credits?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a7532a66-f2d1-4d16-9a6a-a5d41758fd13"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a7532a66-f2d1-4d16-9a6a-a5d41758fd13",
+                            "itemBody": "\u003cp\u003eA. Permanent difference\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e1c808ea-f427-4e0e-94ac-e3e2c8dee3f8",
+                            "itemBody": "\u003cp\u003eB. Taxable temporary difference\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "16dcc7a1-39cd-4e7f-ab28-448d15c874f5",
+                            "itemBody": "\u003cp\u003eC. Deductible temporary difference\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8205,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4451,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50875",
+            "entry": {
+                "title": "CFA2426-R-s05-Q16",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. USD450 is calculated as: (USD7,000 − USD5,714) × 0.35 = USD450. B is incorrect because it incorrectly sums the deferred tax liabilities from Years 2 and 3: (USD7,000 − USD5,714) × 0.35 + (USD8,000 − USD7,143) × 0.35 = USD750. C is incorrect because it incorrectly sums the deferred tax liabilities from Years 1, 2 and 3: (USD7,000 − USD5,714) × 0.35 + (USD8,000 − USD7,143) × 0.35 + (USD9,000 − USD8,571) × 0.35 = USD900.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ePlease use the selected data in \u003cstrong\u003eExhibit 1\u003c/strong\u003e for the Samuels Corporation.\u003c/p\u003e\n\u003cdiv id=\"CFA2426-R-s05-EXH26\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003eExhibit 1\u003cspan style=\"display: block;\"\u003eSelected Data for Samuels Company \u003cstrong\u003e(US dollar millions)\u003c/strong\u003e \u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003e\u0026nbsp;\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eYear 3\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eYear 2\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eYear 1\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eEquipment value for accounting purposes (\u003cem\u003ecarrying amount\u003c/em\u003e) (depreciation of USD1,000/year)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD7,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD8,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD9,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eEquipment value for tax purposes (\u003cem\u003etax base\u003c/em\u003e) (depreciation of USD1,429/year)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD5,714\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD7,143\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD8,571\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAssuming a 35 percent tax rate and the selected data below for the Samuels Company, the company’s deferred tax liability in Year 3 is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a152f648-a4aa-4b47-aa07-b17a8fa6c970"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a152f648-a4aa-4b47-aa07-b17a8fa6c970",
+                            "itemBody": "A. USD450.",
+                            "position": 1
+                        },
+                        {
+                            "id": "fc242ddd-27b8-4604-9136-30a9ebef0aa1",
+                            "itemBody": "B. USD750.",
+                            "position": 2
+                        },
+                        {
+                            "id": "58fe1879-f110-4523-8be3-66db87f81f7a",
+                            "itemBody": "C. USD900.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8205,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4451,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50876",
+            "entry": {
+                "title": "CFA2426-R-s05-Q17",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The changes in deferred tax assets and liabilities are added to income tax payable to determine the company’s income tax expense (or credit) as it is reported on the income statement. A and B are incorrect because it is the changes in deferred tax assets and liabilities that are added to income tax payable.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is added to income tax payable to determine the company’s income tax expense as reported on the income statement?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8d9c709c-4495-4480-9490-e83bce12e2f8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c8a96095-93d2-4cd5-afcd-b69cccc1b1ce",
+                            "itemBody": "\u003cp\u003eA. Deferred tax assets\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9ae00b23-342c-4e6e-8bdf-d825d8252aff",
+                            "itemBody": "\u003cp\u003eB. Deferred tax liabilities\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8d9c709c-4495-4480-9490-e83bce12e2f8",
+                            "itemBody": "\u003cp\u003eC. Changes in deferred tax assets and liabilities\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8205,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4451,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50877",
+            "entry": {
+                "title": "CFA2426-R-s05-Q18",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The combined effective tax rate is calculated as:\u003c/p\u003e\u003cdiv id=\"CFA2426-R-s05-Tb\" style=\"padding: 15px !important; box-sizing: border-box; margin-top: 20px; margin-bottom: 20px; border: none; overflow-x: auto; background-color: #fff; max-width: 100%; padding: 0;\"\u003e\u003cdiv style=\"overflow-x: auto; overflow-y: hidden; min-width: 0; padding: 0; margin: 0; width: 100%; border: none !important;\"\u003e\u003ctable\u003e\n\u003cthead\u003e\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003eCountry\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"padding: 8px; text-align: center; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003eTaxable Income\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"padding: 8px; text-align: center; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003eStatutory Rate\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"padding: 8px; text-align: center; vertical-align: bottom; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003eTaxes\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eU.S.\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003eUSD2,000,000\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003e21%\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003eUSD420,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eU.K.\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003e500,000\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003e19\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003e95,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eAustralia\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003e750,000\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003e30\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003e225,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003eTotal\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003eUSD3,250,000\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003e740,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top;\"\u003e\u0026nbsp;\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"padding: 8px; text-align: left; vertical-align: top; border-bottom: 1px solid black;\" colspan=\"2\"\u003e\u003cstrong\u003eEffective tax rate:\u003c/strong\u003e\u003c/th\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top; border-bottom: 1px solid black;\"\u003e740,000/3,250,000\u003c/td\u003e\n\u003ctd style=\"padding: 8px; text-align: center; vertical-align: top; border-bottom: 1px solid black;\"\u003e\u003cstrong\u003e22.8%\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/div\u003e\u003c/div\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe effective tax rate is a blend of the different tax rates of the countries in which the activities take place in relation to the profit generated in each country.\u003c/p\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because 21.0 percent is the statutory tax rate in the US and does not incorporate statutory tax rates in the United Kingdom and Australia. C is incorrect because 23.3 percent is the simple average of all three statutory tax rates.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eJamison Corp. is domiciled in the United States and has significant operations in the United Kingdom and Australia. The statutory tax rates are 21 percent in the United States, 19 percent in the United Kingdom, and 30 percent in Australia. The company generates Profit before tax of USD2,000,000 in the United States, USD500,000 in the United Kingdom, and USD750,000 in Australia. There are no other differences between Jamison’s effective and statutory tax rates. Jamison’s combined effective tax rate is closest to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7d5fe321-d2a1-4457-ae27-c31705c8ff5b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "df289fd0-a0b7-4c86-a8c6-b1875b90d043",
+                            "itemBody": "\u003cp\u003eA. 21.0 percent.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7d5fe321-d2a1-4457-ae27-c31705c8ff5b",
+                            "itemBody": "\u003cp\u003eB. 22.8 percent.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "295d8533-ddf1-441f-bebb-439ac2f13d70",
+                            "itemBody": "\u003cp\u003eC. 23.3 percent.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8205,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4451,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50878",
+            "entry": {
+                "title": "CFA2426-R-s05-Q19",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. A company’s income tax expense equals the sum of current taxes (i.e., the amount currently payable) plus the change in deferred tax assets and liabilities. A is incorrect because the cash tax rate is typically used for forecasting cash flows. B is incorrect because the effective tax rate is relevant for projecting earnings on the income statement.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements about tax rates is correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4ab2d00d-f136-4e49-ac64-ee059eacb97e"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a7581082-6ba3-4269-b87e-b9311ad7b01a",
+                            "itemBody": "\u003cp\u003eA. The effective tax rate is typically used for forecasting cash flows.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4e2a28fb-28f5-4f9f-aee8-ed520647f025",
+                            "itemBody": "\u003cp\u003eB. The cash tax rate is relevant for projecting earnings on the income statement.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4ab2d00d-f136-4e49-ac64-ee059eacb97e",
+                            "itemBody": "\u003cp\u003eC. A company’s income tax expense equals the sum of current taxes plus the change in deferred tax assets and liabilities.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8205,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4451,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50879",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ePlease use the selected disclosure data in \u003cstrong\u003eExhibit 1\u003c/strong\u003e and \u003cstrong\u003eExhibit 2\u003c/strong\u003e for the Marcy Corporation.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\u003cstrong\u003eNote I: Income Taxes\u003c/strong\u003e\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe components of earnings before income taxes are as shown in \u003cstrong\u003eExhibit 1\u003c/strong\u003e:\u003c/p\u003e\n\u003cdiv id=\"CFA2426-R-s05-EXH27\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003eExhibit 1\u003cspan style=\"display: block;\"\u003e \u003cstrong\u003eEarnings before Income Taxes\u003c/strong\u003e (US dollars thousands)\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; width: 70.6521%; height: 228.099px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"height: 40.8203px;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: top; padding: 8px; width: 25.3772%; height: 40.8203px;\"\u003e\u003cstrong\u003e\u0026nbsp;\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.7752%; height: 40.8203px;\"\u003e\u003cstrong\u003eYear 3\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.7752%; height: 40.8203px;\"\u003e\u003cstrong\u003eYear 2\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.7752%; height: 40.8203px;\"\u003e\u003cstrong\u003eYear 1\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr style=\"height: 40.8203px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 99.7027%; height: 40.8203px;\" colspan=\"4\"\u003eEarnings before income taxes:\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 64.8177px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 25.3772%; height: 64.8177px;\"\u003eUnited States\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.7752%; height: 64.8177px;\"\u003eUSD117,758\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.7752%; height: 64.8177px;\"\u003eUSD107,053\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.7752%; height: 64.8177px;\"\u003eUSD97,321\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 40.8203px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 25.3772%; height: 40.8203px;\"\u003eForeign\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.7752%; height: 40.8203px;\"\u003e57,526\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.7752%; height: 40.8203px;\"\u003e52,296\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.7752%; height: 40.8203px;\"\u003e47,542\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 40.8203px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 25.3772%; height: 40.8203px;\"\u003eTotal\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.7752%; height: 40.8203px;\"\u003eUSD175,284\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.7752%; height: 40.8203px;\"\u003eUSD159,349\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.7752%; height: 40.8203px;\"\u003eUSD144,863\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe components of the provision for income taxes are as shown in \u003cstrong\u003eExhibit 2\u003c/strong\u003e:\u003c/p\u003e\n\u003cdiv id=\"CFA2426-R-s05-EXH28\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003eExhibit 2\u003cspan style=\"display: block;\"\u003e \u003cstrong\u003eProvision for Income Taxes\u003c/strong\u003e (US dollars thousands)\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003e\u0026nbsp;\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eYear 3\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eYear 2\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eYear 1\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eIncome taxes\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eCurrent:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eFederal\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD34,739\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD34,257\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD31,143\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eForeign\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e14,382\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e13,074\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e17,591\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD49,121\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD47,331\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD48,734\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eDeferred:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eFederal\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e(USD6,524)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e(USD6,002)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e(USD5,325)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eForeign\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e389\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e305\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e262\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e(6,135)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e(5,697)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e(5,063)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eTotal\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD42,986\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD41,634\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eUSD43,671\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8205,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4451,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50880",
+            "entry": {
+                "title": "CFA2426-R-s05-Q20",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The effective tax rate of 24.5 percent (USD42,986/USD175,284) in Year 3 was lower than the effective tax rates in Year 1 and Year 2. A is incorrect because its effective tax rate of 30.1 percent is higher than that of Year 3. B is incorrect because its effective tax rate of 26.1 percent is higher than that of Year 3.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMarcy’s effective tax rate was lowest in:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c168916c-8262-4827-88f4-5886535fe6b1"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1a980f55-3985-406a-af12-31bbe4626396",
+                            "itemBody": "\u003cp\u003eA. Year 1.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ac8e27fd-94d4-4af1-8d74-96f3feb1c9fe",
+                            "itemBody": "\u003cp\u003eB. Year 2.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c168916c-8262-4827-88f4-5886535fe6b1",
+                            "itemBody": "\u003cp\u003eC. Year 3.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8205,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4451,
+            "stimulusQuizEntryId": "50879"
+        },
+        {
+            "id": "50881",
+            "entry": {
+                "title": "CFA2426-R-s05-Q21",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. In Year 1, the effective tax rate on foreign operations was 37.6 percent [(USD17,591 + USD262)/USD47,542], and the effective US tax rate was [(USD31,143 − USD5,325)/USD97,321] = 26.5 percent. In Year 2, the effective tax rate on foreign operations was 25.6 percent, and the US rate was 26.4 percent. In Year 3, the foreign rate was 25.7 percent, and the US rate was 24.0 percent.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eRelative to Marcy’s effective tax rate on foreign income, the company’s effective tax rate on US income was:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "488b8279-1b32-47f8-9aa2-3a6ac3496da7"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2fd642ff-b484-4dc1-b498-813504436a71",
+                            "itemBody": "\u003cp\u003eA. lower in each year presented.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "111c61ac-d832-4b16-8fd3-eec0642bf435",
+                            "itemBody": "\u003cp\u003eB. higher in each year presented.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "488b8279-1b32-47f8-9aa2-3a6ac3496da7",
+                            "itemBody": "\u003cp\u003eC. higher in some periods and lower in others.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8205,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4451,
+            "stimulusQuizEntryId": "50879"
+        },
+        {
+            "id": "53699",
+            "entry": {
+                "title": "ITEM_20170608138",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eThe following information is available for a company that prepares its financial statements according to US GAAP:\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 391px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 192px; max-width: 192px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; width: 100px; max-width: 100px;\"\u003e\u003cstrong\u003e2015\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; width: 88px; max-width: 88px;\"\u003e\u003cstrong\u003e2014\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 192px; max-width: 192px;\"\u003eDeferred tax assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 100px; max-width: 100px;\"\u003e$1,000,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 88px; max-width: 88px;\"\u003e$800,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 192px; max-width: 192px;\"\u003eDeferred tax liabilities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 100px; max-width: 100px;\"\u003e$600,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 88px; max-width: 88px;\"\u003e$700,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 192px; max-width: 192px;\"\u003eValuation allowance\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 100px; max-width: 100px;\"\u003e$500,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 88px; max-width: 88px;\"\u003e$400,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003e\u003cbr\u003eThe overall effect on 2015 net income from the above changes in the company’s deferred tax accounts is \u003ci\u003eclosest\u003c/i\u003e to a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "23a3f2dc-dee1-4839-97af-e36c938cc987"
+                },
+                "answerFeedback": {
+                    "23a3f2dc-dee1-4839-97af-e36c938cc987": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A valuation allowance reduces the value of the deferred tax assets under US GAAP, so the total change in net income as a result of the changes in the three accounts can be calculated as follows:\u003c/p\u003e\n\u003cdiv\u003e\n\u003ctable border=\"1\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom;\" rowspan=\"2\"\u003e\u003cstrong\u003eAccount\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\" rowspan=\"2\"\u003e\u003cstrong\u003eChange in Account from 2014\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\" colspan=\"2\"\u003e\u003cstrong\u003eEffect of Change on Net Income\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\" colspan=\"1\"\u003e\u003cstrong\u003eDirection\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eDollar Effect\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eDeferred tax assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e$ 200,000 increase\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003eIncrease\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e$200,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eDeferred tax liabilities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e$100,000 decrease\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003eIncrease\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e$100,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eValuation allowance\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e$100,000 increase\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003eDecrease\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e($100,000)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e\u003cstrong\u003eOverall effect:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\" colspan=\"2\"\u003e\u003cstrong\u003eA net increase of:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e\u003cstrong\u003e$200,000\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e",
+                    "5935fb55-4b4b-4aaf-821d-46d237e98f2a": "\u003cp\u003eIncorrect. It incorrectly ignores the change in the valuation allowance (doesn’t realize it is related to deferred tax assets).\u003c/p\u003e",
+                    "b26d160b-05ab-45c2-a0fc-aaa74a948c13": "\u003cp\u003eIncorrect. This is the inverse of the correct answer.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "23a3f2dc-dee1-4839-97af-e36c938cc987",
+                            "itemBody": "\u003cp\u003eA. $200,000 increase.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5935fb55-4b4b-4aaf-821d-46d237e98f2a",
+                            "itemBody": "\u003cp\u003eB. $300,000 increase.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b26d160b-05ab-45c2-a0fc-aaa74a948c13",
+                            "itemBody": "\u003cp\u003eC. $200,000 decrease.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8631,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4451,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53700",
+            "entry": {
+                "title": "ITEM_20170608125",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn the current year, a company increased its deferred tax asset by $500,000. During the year, the company \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6d0285dd-950e-48ac-bdfe-9549bb072836"
+                },
+                "answerFeedback": {
+                    "3cbef627-8ffd-470b-b199-09cdd2965edd": "\u003cp\u003eIncorrect. Deferred tax assets are simply the results of differences between accounting profit and taxable income. It is not an amount of a tax refund that would be an income tax receivable.\u003c/p\u003e",
+                    "65bb5cc0-a08b-47e2-92e8-c2cef0e60293": "\u003cp\u003eIncorrect. Only temporary differences create deferred tax assets or liabilities\u003c/p\u003e",
+                    "6d0285dd-950e-48ac-bdfe-9549bb072836": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Deferred tax assets represent taxes that have been paid (because of the higher taxable income) but have not yet been recognized on the income statement (because of the lower accounting profit).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3cbef627-8ffd-470b-b199-09cdd2965edd",
+                            "itemBody": "\u003cp\u003eA. became entitled to a $500,000 tax refund.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6d0285dd-950e-48ac-bdfe-9549bb072836",
+                            "itemBody": "\u003cp\u003eB. reported a lower accounting profit than taxable income.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "65bb5cc0-a08b-47e2-92e8-c2cef0e60293",
+                            "itemBody": "\u003cp\u003eC. had permanent differences between accounting profit and taxable income.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8631,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4451,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53701",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-FSAN-Pirie-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eDeferred tax assets could arise when:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "306090fd-55c5-46a6-90a3-0f1240b3be68"
+                },
+                "answerFeedback": {
+                    "0fc17b0c-a45b-46c1-93a1-3b68122ee992": "\u003cp\u003eIncorrect because deferred tax assets arise when the amount paid for taxes (taxes payable) exceeds the tax expense. A company’s taxable income is the basis for its income tax payable (a liability) or recoverable (an asset), which is calculated on the basis of the company’s tax rate and appears on its balance sheet. Deferred tax assets, which appear on the balance sheet, arise when an excess amount is paid for income taxes (taxable income higher than accounting profit) and the company expects to recover the difference during the course of future operations. Actual income taxes payable will thus exceed the financial accounting income tax expense (which is reported on the income statement and is determined based on accounting profit).\u003c/p\u003e",
+                    "306090fd-55c5-46a6-90a3-0f1240b3be68": "\u003cp\u003eCorrect because deferred tax assets, which appear on the balance sheet, arise when an excess amount is paid for income taxes (taxable income higher than accounting profit).\u003c/p\u003e",
+                    "ede0b8e0-fbb9-4a24-b16d-c03fd8b0bbe8": "\u003cp\u003eIncorrect because a deferred tax asset\u0026nbsp;arises\u0026nbsp;when the tax base of an asset exceeds its carrying amount.\u0026nbsp;Differences between the tax base and the carrying amount also result in differences between accounting profit and taxable income.\u0026nbsp;Deductible temporary differences result in a deferred tax asset when the tax base of an asset exceeds its carrying amount.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "306090fd-55c5-46a6-90a3-0f1240b3be68",
+                            "itemBody": "\u003cp\u003eA. taxable income exceeds accounting profit.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ede0b8e0-fbb9-4a24-b16d-c03fd8b0bbe8",
+                            "itemBody": "\u003cp\u003eB. the carrying amount of assets exceeds their\u0026nbsp;tax base.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0fc17b0c-a45b-46c1-93a1-3b68122ee992",
+                            "itemBody": "\u003cp\u003eC. accounting income tax expense exceeds income taxes payable.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8631,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4451,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53702",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FRA-Pitrakkou-20",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eUnder US GAAP, the recognition of a valuation allowance for deferred tax assets impacts:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "64a303ce-e135-4b27-b48a-9a49e5409b51"
+                },
+                "answerFeedback": {
+                    "2aec5c5e-aea2-47f3-9793-73188bbc095b": "\u003cp\u003eIncorrect because, under US GAAP, the recognition of a valuation allowance for deferred tax assets impacts the effective tax rate only.\u003c/p\u003e",
+                    "64a303ce-e135-4b27-b48a-9a49e5409b51": "\u003cp\u003eCorrect because, under US GAAP, a valuation allowance for deferred tax assets increases the effective tax rate when recognized (because it increases income tax expense). Under US GAAP, deferred tax assets are reduced by creating a valuation allowance. Establishing a valuation allowance reduces the deferred tax asset and income in the period in which the allowance is established. Also, Reported effective tax rate = Income tax expense / Pretax income (Accounting profit).\u003c/p\u003e",
+                    "7d748f6e-1dce-4f46-bc1a-5382e7c1fa86": "\u003cp\u003eIncorrect because, under US GAAP, the recognition of a valuation allowance for deferred tax assets impacts the effective tax rate only.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "64a303ce-e135-4b27-b48a-9a49e5409b51",
+                            "itemBody": "\u003cp\u003eA. the effective tax rate only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7d748f6e-1dce-4f46-bc1a-5382e7c1fa86",
+                            "itemBody": "\u003cp\u003eB. the statutory tax rate only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2aec5c5e-aea2-47f3-9793-73188bbc095b",
+                            "itemBody": "\u003cp\u003eC. both the effective tax rate and statutory tax rate.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8631,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4451,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

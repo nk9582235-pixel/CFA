@@ -1,0 +1,1494 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6357,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 24,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 6: Fixed-Income Bond Valuation: Prices and Yields",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6357,
+        "subtopic": "Module 6: Fixed-Income Bond Valuation: Prices and Yields",
+        "question_count": 24,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4468,
+                "question_count": 14,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4685,
+                "question_count": 10,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 24.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "b8fe4f5986e32f21",
+        "ordered_item_ids": [
+            "55032",
+            "55033",
+            "55034",
+            "55035",
+            "55036",
+            "55037",
+            "55038",
+            "55039",
+            "55040",
+            "55041",
+            "51268",
+            "51269",
+            "51270",
+            "51271",
+            "51272",
+            "51273",
+            "51274",
+            "53851",
+            "53852",
+            "53853",
+            "53854",
+            "53855",
+            "53856",
+            "53857"
+        ],
+        "visible_item_ids": [
+            "55032",
+            "55033",
+            "55034",
+            "55035",
+            "55036",
+            "55037",
+            "55038",
+            "55039",
+            "55040",
+            "55041",
+            "51268",
+            "51269",
+            "51270",
+            "51271",
+            "51272",
+            "51273",
+            "51274",
+            "53851",
+            "53852",
+            "53853",
+            "53854",
+            "53855",
+            "53856",
+            "53857"
+        ]
+    },
+    "items": [
+        {
+            "id": "55032",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Mazur-08",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following does \u003cb\u003enot\u003c/b\u003e depend on the market discount rate? A bond's:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6d3e1219-898a-4513-b0d2-f9d278da33ba"
+                },
+                "answerFeedback": {
+                    "30cf886c-70d5-4142-8df9-06f94e04868b": "\u003cp\u003eIncorrect because\u0026nbsp;it is the flat price that is affected by a market discount rate change,\u0026nbsp;and if the flat price is affected by the market discount rate\u0026nbsp;so is the full price (as full price equals flat price plus accrued interest).\u0026nbsp;\u003c/p\u003e",
+                    "6d3e1219-898a-4513-b0d2-f9d278da33ba": "\u003cp\u003eCorrect because the accrued interest part of the full price does not depend on the yield-to-maturity.\u003c/p\u003e",
+                    "fb960323-31e8-4e8b-8321-b60b5c6a877a": "\u003cp\u003eIncorrect because\u0026nbsp;it is the flat price that is affected by a market discount rate change.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fb960323-31e8-4e8b-8321-b60b5c6a877a",
+                            "itemBody": "\u003cp\u003eA. flat price\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "30cf886c-70d5-4142-8df9-06f94e04868b",
+                            "itemBody": "\u003cp\u003eB. full price\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6d3e1219-898a-4513-b0d2-f9d278da33ba",
+                            "itemBody": "\u003cp\u003eC. accrued interest\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8868,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4685,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55033",
+            "entry": {
+                "title": "ITEM_CFA-L1-09046",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll else being equal, the absolute value of the percentage price change for an option-free bond is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b785d590-bc5f-42f8-a65f-70121fa5fa8d"
+                },
+                "answerFeedback": {
+                    "72ceb9c0-7c90-46cc-bcf5-e3fd75b7ed7a": "\u003cp\u003eIncorrect because it ignores the convexity effect of most option-free bonds. For the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect).\u003c/p\u003e",
+                    "950b8d94-03b8-4cb6-be0a-ccf359a93b0f": "\u003cp\u003eIncorrect because the opposite is true due to the convexity effect. For the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect).\u003c/p\u003e",
+                    "b785d590-bc5f-42f8-a65f-70121fa5fa8d": "\u003cp\u003eCorrect because for the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "950b8d94-03b8-4cb6-be0a-ccf359a93b0f",
+                            "itemBody": "\u003cp\u003eA. less when the market discount rate decreases than when it increases by the same amount.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "72ceb9c0-7c90-46cc-bcf5-e3fd75b7ed7a",
+                            "itemBody": "\u003cp\u003eB. the same whether the market discount rate decreases or increases by the same amount.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b785d590-bc5f-42f8-a65f-70121fa5fa8d",
+                            "itemBody": "\u003cp\u003eC. greater when the market discount rate decreases than when it increases by the same amount.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8868,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4685,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55034",
+            "entry": {
+                "title": "ITEM_CFA-L1-02397",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA three-year, semiannual-pay bond with a $100 par value and a 5% coupon rate is purchased for $108. One year later, if the yield to maturity has decreased by 100 basis points, the change in the value of this bond is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "749b5e8d-a7a3-4b04-8ab7-30b4ad0f6ee8"
+                },
+                "answerFeedback": {
+                    "388b8494-2469-4ab2-8e2f-fcde713fa74b": "\u003cp\u003eIncorrect because fails to annualize the interest rate before computing the change in value.\u003c/p\u003e\u003cp\u003eUsing calculator inputs, the yield of the bond: N = 6, PMT = $2.5, FV = $100, Solve I is equal to 1.114%.\u003c/p\u003e\u003cp\u003eIf the yield declines by 100 bps, the price of the bond after one year is computed as: N = 4, PMT = $2.5, FV = 100, I = (1.114% − 1%) = 0.114%, Solve for PV =$109.52.\u003c/p\u003e\u003cp\u003eTherefore, the change in value = $108 − 109.52 = -$1.52, or a change in value of $1.52.\u003c/p\u003e",
+                    "749b5e8d-a7a3-4b04-8ab7-30b4ad0f6ee8": "\u003cp\u003eCorrect because the value of a bond is calculated as:\u003c/p\u003e\u003cp\u003e\u003cem\u003ePV\u003c/em\u003e = [\u003cem\u003ePMT\u003c/em\u003e ÷ (1+\u003cem\u003er\u003c/em\u003e)\u003csup\u003e1\u003c/sup\u003e] + [\u003cem\u003ePMT \u003c/em\u003e÷(1+\u003cem\u003er\u003c/em\u003e)\u003csup\u003e2\u003c/sup\u003e] +...+ [(\u003cem\u003ePMT \u003c/em\u003e+ \u003cem\u003eFV\u003c/em\u003e) ÷(1+\u003cem\u003er\u003c/em\u003e)\u003cem\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/em\u003e)\u003c/p\u003e\u003cp\u003ewhere:\u003c/p\u003e\u003cp\u003e\u003cem\u003ePV \u003c/em\u003e= present value, or the price of the bond\u003cbr\u003e\u003cem\u003ePMT \u003c/em\u003e= coupon payment per period\u003cbr\u003e\u003cem\u003eFV \u003c/em\u003e= future value paid at maturity, or the par value of the bond\u003cbr\u003e\u003cem\u003er \u003c/em\u003e= market discount rate, or required rate of return per period\u003cbr\u003e\u003cem\u003eN \u003c/em\u003e= number of evenly spaced periods to maturity\u003c/p\u003e\u003cp\u003eUsing calculator inputs, N = (3 × 2) = 6, PMT = (5% ÷ 2) × 100 = $2.5, FV = $100, PV = $108, Solve for I, is equal to 1.114% semi-annually, or 2.228% on an annual basis. If the yield to maturity decreases by 100 bps, the price of the bond after one year is computed as: N = 4, PMT = $2.5, FV = $100, I = [(2.228% − 1%) ÷ 2] = 0.614%, Solve PV, is equal to $107.43.\u003c/p\u003e\u003cp\u003eTherefore, the change in value of the bond = $108.00 − $107.43 = $0.57.\u003c/p\u003e",
+                    "bd892cc1-ed7b-4312-bcc0-3f63e948b114": "\u003cp\u003eIncorrect because incorrectly uses the same time to maturity when calculating the new value rather than adjusting the term for the passage of one year in value.\u003c/p\u003e\u003cp\u003eUsing calculator inputs, the yield of the bond: N = 6, PMT = $2.5, FV = 100, I = (2.228% − 1%) / 2 = 0.614%, Solve for PV is equal to $111.08.\u003c/p\u003e\u003cp\u003eTherefore, the change in value = $108 − 111.08 = -$3.08, or a change in value of $3.08.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "749b5e8d-a7a3-4b04-8ab7-30b4ad0f6ee8",
+                            "itemBody": "\u003cp\u003eA. $0.57.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "388b8494-2469-4ab2-8e2f-fcde713fa74b",
+                            "itemBody": "\u003cp\u003eB. $1.52.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bd892cc1-ed7b-4312-bcc0-3f63e948b114",
+                            "itemBody": "\u003cp\u003eC. $3.08.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8868,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4685,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55035",
+            "entry": {
+                "title": "ITEM_CFA-L1-02873",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA bond has the following characteristics:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\u003ccolgroup\u003e \u003ccol width=\"54.67%\"\u003e \u003ccol width=\"45.33%\"\u003e \u003c/colgroup\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left;\" scope=\"row\"\u003eTime to maturity\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003e3 years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left;\" scope=\"row\"\u003eCoupon rate\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003e12%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left;\" scope=\"row\"\u003ePayment period\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003eSemiannual\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eFor a yield to maturity of 4%, the price of the bond per 100 of par value is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e85412aa-34f7-4aa0-82c0-46e07876857a"
+                },
+                "answerFeedback": {
+                    "3e785761-983e-42d1-8688-16d9001c3cdb": "\u003cp\u003eIncorrect because both the coupon payment and discount rate used are annual:\u003c/p\u003e\n\u003cp\u003e\u003cmath\u003e \u003cmrow\u003e \u003cmtext\u003ePV=\u003c/mtext\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e12\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo stretchy=\"false\"\u003e(\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.04\u003c/mn\u003e\u003cmo stretchy=\"false\"\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e12\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo stretchy=\"false\"\u003e(\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.04\u003c/mn\u003e\u003cmo stretchy=\"false\"\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e12\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e100\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo stretchy=\"false\"\u003e(\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.04\u003c/mn\u003e\u003cmo stretchy=\"false\"\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmtext\u003e=122\u003c/mtext\u003e\u003cmtext\u003e.2007\u0026nbsp;\u003c/mtext\u003e\u003cmo\u003e≈\u003c/mo\u003e\u003cmn\u003e122.20\u003c/mn\u003e\u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e",
+                    "4ff50a85-6457-41ec-bfda-963751cd3095": "\u003cp\u003eIncorrect because the coupon payment and discount rate are annual, similar to the other distractor. The difference between this and other distractor is that payment is made at the beginning of the period, not at the end. =122.53\u0026nbsp;\u003c/p\u003e",
+                    "e85412aa-34f7-4aa0-82c0-46e07876857a": "\u003cp\u003eCorrect because\u003c/p\u003e\n\u003cp\u003e\u003cmath\u003e \u003cmrow\u003e \u003cmtext\u003ePV=\u003c/mtext\u003e\u003cmfrac\u003e \u003cmn\u003e6\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo stretchy=\"false\"\u003e(\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.02\u003c/mn\u003e\u003cmo stretchy=\"false\"\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmn\u003e6\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo stretchy=\"false\"\u003e(\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.02\u003c/mn\u003e\u003cmo stretchy=\"false\"\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmn\u003e6\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo stretchy=\"false\"\u003e(\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.02\u003c/mn\u003e\u003cmo stretchy=\"false\"\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmn\u003e6\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo stretchy=\"false\"\u003e(\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.02\u003c/mn\u003e\u003cmo stretchy=\"false\"\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmn\u003e6\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo stretchy=\"false\"\u003e(\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.02\u003c/mn\u003e\u003cmo stretchy=\"false\"\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmn\u003e5\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e+\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e6\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e100\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo stretchy=\"false\"\u003e(\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.02\u003c/mn\u003e\u003cmo stretchy=\"false\"\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmn\u003e6\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e122.4057\u003c/mn\u003e\u003cmo\u003e≈\u003c/mo\u003e\u003cmn\u003e122.41\u003c/mn\u003e\u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3e785761-983e-42d1-8688-16d9001c3cdb",
+                            "itemBody": "\u003cp\u003eA. 122.20.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e85412aa-34f7-4aa0-82c0-46e07876857a",
+                            "itemBody": "\u003cp\u003eB. 122.41.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4ff50a85-6457-41ec-bfda-963751cd3095",
+                            "itemBody": "\u003cp\u003eC. 122.53.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8868,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4685,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55036",
+            "entry": {
+                "title": "ITEM_CFA-L1-10124",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about a bond that pays interest annually:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left;\" scope=\"row\"\u003eCoupon rate\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003e4%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"text-align: left;\"\u003e\n\u003cth scope=\"row\"\u003eTime-to-maturity\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003e3 years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left;\" scope=\"row\"\u003ePar value\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003e$100,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf the market discount rate is 5%, the market value of this bond is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "031be20a-0ac4-40e8-94c5-952f8fb4f45a"
+                },
+                "answerFeedback": {
+                    "031be20a-0ac4-40e8-94c5-952f8fb4f45a": "\u003cp\u003eCorrect because the price of the bond is the present value of the promised cash flows and is calculated as follows:\u003c/p\u003e\u003cp\u003ePrice of bond = 4,000/(1 +5%)\u003csup\u003e1\u003c/sup\u003e + 4,000/(1+5%)\u003csup\u003e2\u003c/sup\u003e + 104,000/(1+5%)\u003csup\u003e3\u003c/sup\u003e = 3,809.5238 + 3,628.1179 + 89,839.1102 = 97,276.7520 ≈ 97,277. Calculator inputs: FV = 100,000, I = 0.05, N = 3, PMT = 4,000, PV = 97,276.75 ≈ 97.277.\u003c/p\u003e",
+                    "e2c860e2-3dee-47c7-98aa-fbaae3e55d37": "\u003cp\u003eIncorrect because as per the justification for the correct answer, the price of the bond is closest to $97,277. This incorrect answer is arrived at\u0026nbsp;by ignoring the coupon payments for year 1 \u0026amp; 2:\u003c/p\u003e\u003cp\u003ePrice of bond ≠ 104,000/(1+5%)\u003csup\u003e3\u003c/sup\u003e = 89,839.11025 ≈ 89,839.\u003c/p\u003e",
+                    "f2d2c23f-3f25-46cb-ba0a-9eb390817622": "\u003cp\u003eIncorrect because as per the justification for the correct answer, the price of the bond is closest to $97,277. This incorrect answer is arrived at by switching the coupon rate and the market discount rate.\u003c/p\u003e\u003cp\u003ePrice of bond ≠ 5,000/(1+4%)\u003csup\u003e1\u003c/sup\u003e + 5,000/(1+4%)\u003csup\u003e2\u003c/sup\u003e + 105,000/(1+4%)\u003csup\u003e3\u003c/sup\u003e = 4,807.6923 + 4,622.7811 + 93,344.6177 = 102,775.0910 ≈ 102,775. Calculator inputs: FV = 100,000, I = 0.04, N = 3, PMT = 5,000, PV = 102,775.09 ≈ 102,775.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e2c860e2-3dee-47c7-98aa-fbaae3e55d37",
+                            "itemBody": "\u003cp\u003eA. $89,839.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "031be20a-0ac4-40e8-94c5-952f8fb4f45a",
+                            "itemBody": "\u003cp\u003eB. $97,277.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f2d2c23f-3f25-46cb-ba0a-9eb390817622",
+                            "itemBody": "\u003cp\u003eC. $102,775.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8868,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4685,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55037",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FI-Simsek-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth scope=\"col\"\u003e\u0026nbsp;\u003c/th\u003e\n\u003cth style=\"text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eTime to Maturity\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eYield to Maturity\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth scope=\"row\"\u003eBond 1\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003eThree years\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e3.4%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth scope=\"row\"\u003eBond 2\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003eEight years\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e5.4%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eBased only on this information, the estimated market discount rate for a 5-year bond with similar credit quality is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8885735a-8148-4651-9ef3-7f61a6879399"
+                },
+                "answerFeedback": {
+                    "6e9f8dcb-5794-4176-a457-d2fc9d1566ec": "\u003cp\u003eIncorrect because the\u0026nbsp;simple average is used instead of linear interpolation in matrix pricing. Some fixed-rate bonds are not actively traded. Therefore, there is no market price available to calculate the rate of return required by investors. In these situations, it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called matrix pricing.\u0026nbsp;The estimated market discount rate can be obtained with linear interpolation. Using the\u0026nbsp;simple average of the two given bonds, we have: (0.034 + 0.054) / 2 = 0.088 /\u0026nbsp;2\u0026nbsp;= 0.044\u0026nbsp;= 4.4%.\u0026nbsp;\u003c/p\u003e",
+                    "8885735a-8148-4651-9ef3-7f61a6879399": "\u003cp\u003eCorrect because some fixed-rate bonds are not actively traded. Therefore, there is no market price available to calculate the rate of return required by investors. In these situations, it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called matrix pricing. The estimated market discount rate can be obtained with linear interpolation. Using linear interpolation between the two given bonds, we have: 0.034 + (5 –\u0026nbsp;3) / (8 –\u0026nbsp;3)\u0026nbsp;× (0.054\u0026nbsp;– 0.034) = 0.034 + 2 / 5\u0026nbsp;× 0.02 = 0.042 = 4.2%.\u0026nbsp;\u003c/p\u003e",
+                    "9e019664-0761-45f6-b9da-cbf33cbe5186": "\u003cp\u003eIncorrect because the linear interpolation for matrix pricing is implemented from the wrong end of the interval. Some fixed-rate bonds are not actively traded. Therefore, there is no market price available to calculate the rate of return required by investors. In these situations, it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called matrix pricing. The estimated market discount rate can be obtained with linear interpolation.\u0026nbsp;Using linear interpolation from the wrong end between the two given bonds, we have: 0.034 + (8 –\u0026nbsp;5) / (8 –\u0026nbsp;3)\u0026nbsp;× (0.054\u0026nbsp;– 0.034) = 0.034 + 3 / 5\u0026nbsp;× 0.02 = 0.046 = 4.6%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8885735a-8148-4651-9ef3-7f61a6879399",
+                            "itemBody": "\u003cp\u003eA. 4.2%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6e9f8dcb-5794-4176-a457-d2fc9d1566ec",
+                            "itemBody": "\u003cp\u003eB. 4.4%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9e019664-0761-45f6-b9da-cbf33cbe5186",
+                            "itemBody": "\u003cp\u003eC. 4.6%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8868,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4685,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55038",
+            "entry": {
+                "title": "ITEM_2019B-FI-10KXK18U1",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eMatrix pricing is \u003ci\u003emost likely\u003c/i\u003e used to estimate the price of a bond that:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5145d0dd-2d3e-4cc6-aa6b-5fee1048bf6d"
+                },
+                "answerFeedback": {
+                    "5145d0dd-2d3e-4cc6-aa6b-5fee1048bf6d": "\u003cp\u003eCorrect because for bonds that are not yet issued it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called \u003cb\u003ematrix pricing\u003c/b\u003e.\u003c/p\u003e",
+                    "6827a9f1-8607-4f77-b2b1-7a2c524be4f8": "\u003cp\u003eIncorrect because some fixed-rate bonds are not actively traded it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called \u003cb\u003ematrix pricing\u003c/b\u003e. Highly liquid bonds are priced based on actual market pricing rather than matrix pricing.\u0026nbsp;\u003c/p\u003e",
+                    "7196d59b-7917-4bae-a427-a1681e877874": "\u003cp\u003eIncorrect because for comparable bonds that have similar times-to-maturity, coupon rates, and credit quality the\u0026nbsp;estimation process is called \u003cb\u003ematrix pricing\u003c/b\u003e. Bonds with uncertain credit quality are not good candidates for matrix pricing.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6827a9f1-8607-4f77-b2b1-7a2c524be4f8",
+                            "itemBody": "\u003cp\u003eA. is highly liquid.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5145d0dd-2d3e-4cc6-aa6b-5fee1048bf6d",
+                            "itemBody": "\u003cp\u003eB. is not yet issued.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7196d59b-7917-4bae-a427-a1681e877874",
+                            "itemBody": "\u003cp\u003eC. has unknown credit quality.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8868,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4685,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55039",
+            "entry": {
+                "title": "ITEM_CFA-L1-08229",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe price of an option-free bond increases by 7% when the yield to maturity decreases by 100 basis points. If the price of this bond decreases by 7%, the yield to maturity \u003ci\u003emost likely\u003c/i\u003e increases by:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "59e0ccef-69a3-40a1-8388-84a6b6f3b751"
+                },
+                "answerFeedback": {
+                    "0422768b-9374-4542-87e3-0045f71dfe13": "\u003cp\u003eIncorrect because for the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect).\u003c/p\u003e",
+                    "59e0ccef-69a3-40a1-8388-84a6b6f3b751": "\u003cp\u003eCorrect because for the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect).\u003c/p\u003e",
+                    "bdc887ec-fc50-4895-b9ba-3f0483b47fcf": "\u003cp\u003eIncorrect because for the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bdc887ec-fc50-4895-b9ba-3f0483b47fcf",
+                            "itemBody": "\u003cp\u003eA. less than 100 basis points.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0422768b-9374-4542-87e3-0045f71dfe13",
+                            "itemBody": "\u003cp\u003eB. 100 basis points.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "59e0ccef-69a3-40a1-8388-84a6b6f3b751",
+                            "itemBody": "\u003cp\u003eC. more than 100 basis points.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8868,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4685,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55040",
+            "entry": {
+                "title": "ITEM_CFA-L1-05832",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about three option-free bonds:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003e\u003cstrong\u003eBond 1\u003c/strong\u003e\u003c/td\u003e\n\u003ctd\u003e\u003cstrong\u003eBond 2\u003c/strong\u003e\u003c/td\u003e\n\u003ctd\u003e\u003cstrong\u003eBond 3\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left;\"\u003eCoupon rate\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e5%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e3%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e3%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left;\"\u003eMaturity (years)\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e15\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e10\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e15\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eAll else being equal, if the market discount rate decreases by 50 basis points, the bond \u003ci\u003emost likely\u003c/i\u003e to experience the greatest percentage price change is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8e2bc553-5083-4132-99c8-10c99319ac39"
+                },
+                "answerFeedback": {
+                    "80cb7243-371b-492a-b8db-4cf783e4cdcb": "\u003cp\u003eIncorrect because generally, for the same coupon rate, a longer-term bond has a greater percentage price change than a shorter-term bond when their market discount rates change by the same amount (the maturity effect).\u0026nbsp;Bond 2 has the same coupon rate as Bond 3 but a shorter maturity, thus Bond 2 would experience a smaller percentage price change compared to Bond 3.\u0026nbsp;\u003c/p\u003e",
+                    "8e2bc553-5083-4132-99c8-10c99319ac39": "\u003cp\u003eCorrect because for the same time-to-maturity, a lower-coupon bond has a greater percentage price change than a higher-coupon bond when their market discount rates change by the same amount (the coupon effect).\u0026nbsp;Bond 3 has the same time-to-maturity as Bond 1 but a lower coupon, thus Bond 3 would experience a greater percentage price change compared to Bond 1. Also, generally, for the same coupon rate, a longer-term bond has a greater percentage price change than a shorter-term bond when their market discount rates change by the same amount (the maturity effect).\u0026nbsp;Bond 3 has the same coupon rate as Bond 2 but a longer maturity, thus Bond 3 would experience a greater percentage price change compared to Bond 2.\u0026nbsp;\u003c/p\u003e",
+                    "d8a9f40a-dd7f-4f0f-81d6-c316df2b7e36": "\u003cp\u003eIncorrect because for the same time-to-maturity, a lower-coupon bond has a greater percentage price change than a higher-coupon bond when their market discount rates change by the same amount (the coupon effect).\u0026nbsp;Bond 1 has the same time-to-maturity as Bond 3 but a higher coupon, thus Bond 1 would experience a smaller percentage price change compared to Bond 3.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d8a9f40a-dd7f-4f0f-81d6-c316df2b7e36",
+                            "itemBody": "\u003cp\u003eA. Bond 1.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "80cb7243-371b-492a-b8db-4cf783e4cdcb",
+                            "itemBody": "\u003cp\u003eB. Bond 2.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8e2bc553-5083-4132-99c8-10c99319ac39",
+                            "itemBody": "\u003cp\u003eC. Bond 3.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8868,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4685,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55041",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Berlinicke-16",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe flat price of a bond:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "161220db-458f-4e96-8492-3a788598cab7"
+                },
+                "answerFeedback": {
+                    "026189d0-20a5-4c22-8438-264889fb120b": "\u003cp\u003eIncorrect because the full price is referred to as the \"dirty\" price. The flat price, which is the full price minus the accrued interest, is also called the quoted or 'clean'\u0026nbsp;price.\u003c/p\u003e",
+                    "161220db-458f-4e96-8492-3a788598cab7": "\u003cp\u003eCorrect because it is the flat price that is 'pulled to par'\u0026nbsp;along the constant-yield price trajectory.\u003c/p\u003e",
+                    "fe380247-16a2-4354-88b3-fc0af3e8c05e": "\u003cp\u003eIncorrect because the statement refers to the full price. If a trade takes place, the accrued interest is added to the flat price to obtain the full price paid by the buyer and received by the seller on the settlement date.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "026189d0-20a5-4c22-8438-264889fb120b",
+                            "itemBody": "\u003cp\u003eA. is also referred to as the \"dirty\" price.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "161220db-458f-4e96-8492-3a788598cab7",
+                            "itemBody": "\u003cp\u003eB. is \"pulled to par\" along the constant-yield price trajectory.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "fe380247-16a2-4354-88b3-fc0af3e8c05e",
+                            "itemBody": "\u003cp\u003eC. includes interest which is received by the seller on the settlement date.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8868,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4685,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51268",
+            "entry": {
+                "title": "CFA2436-R-s04-Q4",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The absolute amount of the price increase would be more than the absolute amount of the price decrease for the same absolute change in YTM because of the convex relationship between bond price and yield.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because of the positive convex relationship between bond price and yield. For a given level of yield change, the price rise for that given amount of yield decrease will be larger than the price decline for that amount of yield increase.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because the relationship between bond price and yield is not linear.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA non-callable, fixed-coupon bond has a price of 106.0625 and a YTM of 2.8%. If the YTM were to increase instantaneously by 80 bps, the price of the bond would decrease by 11%. If the YTM were to decrease instantaneously by 80 bps, the price of the bond would increase by:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "272d3ed3-64ec-442c-a989-304c84aadbf4"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "75e588bc-63b8-4939-a0b4-5f6f74cb6126",
+                            "itemBody": "A. less than 11%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "c10e3a50-cddd-4c6a-9d65-ba9f8f5be3b4",
+                            "itemBody": "B. exactly 11%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "272d3ed3-64ec-442c-a989-304c84aadbf4",
+                            "itemBody": "C. more than 11%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8237,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4468,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51269",
+            "entry": {
+                "title": "CFA2436-R-s04-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Exceptions to the maturity effect are rare and occur only for low-coupon (but not zero-coupon) long-term bonds trading at a discount.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because the maturity effect holds for bonds that have short maturities and high coupons.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because the maturity effect always holds on bonds priced at a premium above par value.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eExceptions to the maturity effect exist for bonds that have:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a3e0d957-7efe-4d2b-944c-9894787690c3"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a3e0d957-7efe-4d2b-944c-9894787690c3",
+                            "itemBody": "A. long maturities, make small coupon payments, and trade at a discount.",
+                            "position": 1
+                        },
+                        {
+                            "id": "095dcc8d-7b8d-41a3-bcd6-be8c7c9ac361",
+                            "itemBody": "B. short maturities, have high coupon rates, and trade at a discount.",
+                            "position": 2
+                        },
+                        {
+                            "id": "a2cab939-5d03-40b5-b3f7-64322b344933",
+                            "itemBody": "C. long maturities, have high coupon rates, and trade at a premium.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8237,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4468,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51270",
+            "entry": {
+                "title": "CFA2436-R-s04-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Any bond trading at a discount will increase in price because of the pull-to-par effect.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because the price–yield relationship generally becomes less convex as a bond approaches maturity.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because a high-coupon bond trading at a premium will decrease in price as it approaches maturity.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWith a constant market discount rate, as a non-callable, fixed-coupon bond approaches maturity: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9c3839d6-93a3-424c-b084-e1c5405e2332"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b76d639c-32a1-4351-9847-928c77577d30",
+                            "itemBody": "A. the price–yield relationship will become more convex.",
+                            "position": 1
+                        },
+                        {
+                            "id": "9c3839d6-93a3-424c-b084-e1c5405e2332",
+                            "itemBody": "B. a low-coupon bond trading at a discount will increase in price.",
+                            "position": 2
+                        },
+                        {
+                            "id": "0c13602c-d64d-4ec4-862f-1f891a01aacb",
+                            "itemBody": "C. a high-coupon bond trading at a premium will increase in price.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8237,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4468,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51271",
+            "entry": {
+                "title": "CFA2436-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The bond’s periodic coupon rate exceeds the periodic market discount rate, or its coupon rate is “excessive” relative to the market. Therefore, the bond will trade at a premium to par.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect. For the bond to trade at par, the coupon rate and market discount rate (yield-to-maturity) must be equal.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect. For the bond to trade at a discount, the yield-to-maturity would have to be higher than the coupon rate.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA fixed-income analyst is pricing a bond using the following equation.\u003c/p\u003e\n\u003cdiv id=\"CFA2436-R-s04-E___11\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.0275\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.0275\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e....\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e103\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.0275\u003c/mn\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e40\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe bond’s price, relative to par, is \u003cem\u003emost likely\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "63fb0555-ccd6-4119-954a-d6a1c6bf4b5d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "63fb0555-ccd6-4119-954a-d6a1c6bf4b5d",
+                            "itemBody": "A. greater than 100.",
+                            "position": 1
+                        },
+                        {
+                            "id": "0ee4b32a-86b6-4523-8f18-c2a4814e70b4",
+                            "itemBody": "B. exactly 100.",
+                            "position": 2
+                        },
+                        {
+                            "id": "19243a5b-3631-40a0-a613-7192d7c2040b",
+                            "itemBody": "C. less than 100.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8237,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4468,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51272",
+            "entry": {
+                "title": "CFA2436-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Two approaches to calculating the yield-to-maturity are calculating an IRR or using the YIELD function in Microsoft Excel or Google Sheets. The periodic IRR is annualized by multiplying by two.\u003c/p\u003e\n            \u003cdiv id=\"CFA2436-R-s04-Ta\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n               \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                  \n                  \u003cthead\u003e\n                     \u003ctr\u003e\n                        \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003ePeriod\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003eCash Flow\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/th\u003e\n                        \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003eYIELD Function\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/th\u003e\n                     \u003c/tr\u003e\n                  \u003c/thead\u003e\n                  \u003ctbody\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e–102.581\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eSettlement date\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1/1/2000\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e1\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eMaturity date\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1/1/2004\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e2\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eCoupon\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e3\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003ePrice\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e102.581\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e4\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eRedemption\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e100\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e5\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eCoupon frequency\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e6\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003eYield\u003c/strong\u003e\n                        \u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003e1.34%\u003c/strong\u003e\n                        \u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e7\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e8\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e101\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003ePeriodic IRR\u003c/strong\u003e\n                        \u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003e0.67%\u003c/strong\u003e\n                        \u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003eAnnualized IRR\u003c/strong\u003e\n                        \u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003e1.34%\u003c/strong\u003e\n                        \u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                     \u003c/tr\u003e\n                  \u003c/tbody\u003e\n               \u003c/table\u003e\u003c/div\u003e\n            \u003c/div\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because 0.67% is the periodic, not annualized, yield-to-maturity.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect. Note that this choice can be eliminated because the bond is trading at a premium; thus its yield-to-maturity is lower than its coupon rate of 2.0%. \u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ePlease refer to the candidate learning ecosystem online for a spreadsheet of these calculations in the\u0026nbsp;\u003ca href=\"https://1drv.ms/x/s!AozBCmlHo86vgWbca-cyzT2lDyGH?e=hNjvyb\" target=\"_blank\"\u003edownloaded\u0026nbsp;Microsoft Excel workbook\u003c/a\u003e.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA four-year, 2.0% semiannual coupon bond that pays coupons semiannually is trading at a price of 102.581. The bond’s annualized yield-to-maturity is \u003cem\u003eclosest to\u003c/em\u003e: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e65d798b-bc23-4324-9ed8-aa44b7f356ae"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bbbb58f9-f045-480e-8316-8a077badb6a1",
+                            "itemBody": "A. 0.67%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "e65d798b-bc23-4324-9ed8-aa44b7f356ae",
+                            "itemBody": "B. 1.34%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "85b3eb8d-f158-42a1-88c3-541aa3069273",
+                            "itemBody": "C. 2.22%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8237,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4468,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51273",
+            "entry": {
+                "title": "CFA2436-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The flat price, quoted by bond dealers, is the full price less accrued interest. Accrued interest is not included in the flat price.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect. The buyer must pay the full price, which already includes accrued interest.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect. The flat price is the quoted price.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA bond is traded in between its coupon payment dates. Which of the following is true? \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bd38453b-bb35-4e8a-8d6d-1fe6bc9a8b2d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f8972c00-ea6b-4302-bd20-af21ba0086e6",
+                            "itemBody": "A. The buyer must pay the full price plus the accrued interest.",
+                            "position": 1
+                        },
+                        {
+                            "id": "859bed2b-ed8b-48c5-8735-05137cba3a9e",
+                            "itemBody": "B. The bond’s quoted price is greater than its flat price.",
+                            "position": 2
+                        },
+                        {
+                            "id": "bd38453b-bb35-4e8a-8d6d-1fe6bc9a8b2d",
+                            "itemBody": "C. Accrued interest is not included in the flat price.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8237,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4468,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51274",
+            "entry": {
+                "title": "CFA2436-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eTo price the new XYZ bond, the analyst should group yields for comparable bonds in a matrix with maturities and coupon rates.\u003c/p\u003e\n            \u003cdiv id=\"CFA2436-R-s04-Td\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n               \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                  \n                  \u003cthead\u003e\n                     \u003ctr\u003e\n                        \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \" colspan=\"4\"\u003e\n                           \u003cstrong\u003eCoupon Rate\u003c/strong\u003e\n                        \u003c/th\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003e1.50%\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003e1.75%\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003e2.25%\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003e2.25%\u003c/strong\u003e\n                        \u003c/th\u003e\n                     \u003c/tr\u003e\n                  \u003c/thead\u003e\n                  \u003ctbody\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e4 Years\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003eB\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003eA\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e5 Years\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e6 Years\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e7 Years\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003eD\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003eC\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                     \u003c/tr\u003e\n                  \u003c/tbody\u003e\n               \u003c/table\u003e\u003c/div\u003e\n            \u003c/div\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst is analyzing a bond that will soon be issued by XYZ Company. The new bond will have five years to maturity and a 2.25% coupon, paid semiannually. XYZ has never issued bonds before, so the analyst will use matrix pricing. The analyst has identified four similar bonds with the following characteristics.\u003c/p\u003e\n\u003cdiv id=\"CFA2436-R-s04-Tb\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 5px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: none none solid; border-bottom-width: 1px; border-bottom-color: #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 16.8235%; height: 64.7222px;\" scope=\"col\"\u003e\u003cstrong\u003eBond\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 24.3564%; height: 64.7222px;\" scope=\"col\"\u003e\u003cstrong\u003eMaturity\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 34.4003%; height: 64.7222px;\" scope=\"col\"\u003e\u003cstrong\u003eCoupon (S/A)\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; width: 24.3564%; height: 64.7222px;\" scope=\"col\"\u003e\u003cstrong\u003eYTM\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr style=\"height: 40.7292px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 16.8235%; height: 40.7292px;\"\u003eA\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.3564%; height: 40.7292px;\"\u003e4 Years\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 34.4003%; height: 40.7292px;\"\u003e2.250%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.3564%; height: 40.7292px;\"\u003e1.6995%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 40.7292px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 16.8235%; height: 40.7292px;\"\u003eB\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.3564%; height: 40.7292px;\"\u003e4 Years\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 34.4003%; height: 40.7292px;\"\u003e1.750%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.3564%; height: 40.7292px;\"\u003e1.5438%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 40.7292px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 16.8235%; height: 40.7292px;\"\u003eC\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.3564%; height: 40.7292px;\"\u003e7 Years\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 34.4003%; height: 40.7292px;\"\u003e2.250%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.3564%; height: 40.7292px;\"\u003e2.2671%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 40.7292px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 16.8235%; height: 40.7292px;\"\u003eD\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.3564%; height: 40.7292px;\"\u003e7 Years\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 34.4003%; height: 40.7292px;\"\u003e1.500%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; width: 24.3564%; height: 40.7292px;\"\u003e1.9576%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eUsing the information provided, create a pricing matrix for the analyst to estimate the price of the XYZ five-year bond by filling in the matrix below with Bonds A, B, C, and D:\u003c/p\u003e\n\u003cdiv id=\"CFA2436-R-s04-Tc\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"4\" scope=\"col\"\u003e\u003cstrong\u003eCoupon Rate\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u003cstrong\u003e1.50%\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u003cstrong\u003e1.75%\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u003cstrong\u003e2.25%\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u003cstrong\u003e2.25%\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e4 Years\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e5 Years\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e6 Years\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e7 Years\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8237,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4468,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53851",
+            "entry": {
+                "title": "ITEM_20170607005",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eConsider two bonds that are identical except for their coupon rates. The bond that will have the highest interest rate risk \u003ci\u003emost likely \u003c/i\u003ehas the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "252f7fbd-06eb-449f-9366-c7062b1f58c6"
+                },
+                "answerFeedback": {
+                    "252f7fbd-06eb-449f-9366-c7062b1f58c6": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A lower coupon rate means that more of the bond’s value comes from repayment of face value, which occurs at the end of the bond’s life.\u003c/p\u003e",
+                    "7ba8210e-30b9-4588-9a74-a61eb5c28ca0": "\u003cp\u003eIncorrect because the relationship between the coupon rate and the yield of a bond affect the relationship between the price and face value of the bond, not its interest rate risk.\u003c/p\u003e",
+                    "9bb9ed43-5667-4413-9acd-034121b0f340": "\u003cp\u003eIncorrect because a higher coupon rate means that more of the bond’s value comes from coupon payments, which occur earlier in a bond’s life.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "252f7fbd-06eb-449f-9366-c7062b1f58c6",
+                            "itemBody": "\u003cp\u003eA. lowest coupon rate.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7ba8210e-30b9-4588-9a74-a61eb5c28ca0",
+                            "itemBody": "\u003cp\u003eB. coupon rate closest to its market yield.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9bb9ed43-5667-4413-9acd-034121b0f340",
+                            "itemBody": "\u003cp\u003eC. highest coupon rate.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8680,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4468,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53852",
+            "entry": {
+                "title": "ITEM_20170607012",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe market value of an 18-year zero-coupon bond with a maturity value of $1,000 discounted at a 12% annual interest rate with semi-annual compounding is \u003ci\u003eclosest \u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f653d222-db04-4662-a9a6-7cc9f5601c91"
+                },
+                "answerFeedback": {
+                    "5ea75993-679a-4e42-b2da-3ade253dcd44": "\u003cp\u003eIncorrect because it uses the semi-annual coupons times the number of years divided by 1.12.\u003c/p\u003e",
+                    "9d2e3736-ca73-4d62-9b9c-96346fd1b561": "\u003cp\u003eIncorrect because it uses the annual discount rate and the maturity in years rather than adjusting the discount rate and maturity for semi-annual periods.\u003c/p\u003e",
+                    "f653d222-db04-4662-a9a6-7cc9f5601c91": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The value of a zero-coupon bond is\u003c/p\u003e\n\u003cp\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmtext\u003eFace\u0026nbsp;value\u003c/mtext\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmi\u003er\u003c/mi\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e\n\u003cp\u003ewhere \u003cem\u003er\u003c/em\u003e is the market discount rate per period, and \u003cem\u003eN\u003c/em\u003e is the number of evenly spaced periods to maturity. The value of the zero-coupon bond is\u003c/p\u003e\n\u003cp\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003e$\u003c/mi\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e0.12\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e18\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmi\u003e$\u003c/mi\u003e\u003cmn\u003e122.74\u003c/mn\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f653d222-db04-4662-a9a6-7cc9f5601c91",
+                            "itemBody": "\u003cp\u003eA. $122.74.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9d2e3736-ca73-4d62-9b9c-96346fd1b561",
+                            "itemBody": "\u003cp\u003eB. $130.04.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "5ea75993-679a-4e42-b2da-3ade253dcd44",
+                            "itemBody": "\u003cp\u003eC. $192.86.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8680,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4468,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53853",
+            "entry": {
+                "title": "ITEM_20170607023",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor purchases the bonds of JLD Corp., which pay an annual coupon of 10% and mature in 10 years, at an annual yield to maturity of 12%. The bonds will \u003ci\u003emost likel\u003c/i\u003ey be selling at:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "46902368-a0d2-4bce-97c8-ac42d70f88d6"
+                },
+                "answerFeedback": {
+                    "2b2dd6f3-239d-4dd9-8d79-e444f21671e1": "\u003cp\u003eIncorrect because the bonds will sell at par if the coupon rate on the bonds is equal to the yield to maturity.\u003c/p\u003e",
+                    "46902368-a0d2-4bce-97c8-ac42d70f88d6": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The coupon rate on the bonds is lower than the yield to maturity, implying that the bonds should be selling at a price lower than their par value—that is, at a discount.\u003c/p\u003e",
+                    "646b3ff8-5188-447a-a162-9136ff65a76b": "\u003cp\u003eIncorrect because the bonds will sell at a premium if the coupon rate on the bonds is higher than the yield to maturity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2b2dd6f3-239d-4dd9-8d79-e444f21671e1",
+                            "itemBody": "\u003cp\u003eA. par.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "646b3ff8-5188-447a-a162-9136ff65a76b",
+                            "itemBody": "\u003cp\u003eB. a premium.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "46902368-a0d2-4bce-97c8-ac42d70f88d6",
+                            "itemBody": "\u003cp\u003eC. a discount.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8680,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4468,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53854",
+            "entry": {
+                "title": "ITEM_20170607031",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor sells a bond at the quoted price of $98.00. In addition, she receives accrued interest of $4.40. The flat price of the bond is equal to the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f2b6049d-f67b-42ae-8450-e9747db9ccfd"
+                },
+                "answerFeedback": {
+                    "4eb4c77e-f5ad-4241-8105-97cceb5df00c": "\u003cp\u003eIncorrect because flat price is the agreed-upon bond price excluding accrued interest.\u003c/p\u003e",
+                    "71f25f50-34d5-40b0-910e-31cc0f10017b": "\u003cp\u003eIncorrect because flat price excludes accrued interest.\u003c/p\u003e",
+                    "f2b6049d-f67b-42ae-8450-e9747db9ccfd": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The agreed-on bond price excluding accrued interest is referred to as the flat price.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4eb4c77e-f5ad-4241-8105-97cceb5df00c",
+                            "itemBody": "\u003cp\u003eA. par value plus accrued interest.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "71f25f50-34d5-40b0-910e-31cc0f10017b",
+                            "itemBody": "\u003cp\u003eB. accrued interest plus the agreed-on bond price.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f2b6049d-f67b-42ae-8450-e9747db9ccfd",
+                            "itemBody": "\u003cp\u003eC. agreed-on bond price excluding accrued interest.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8680,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4468,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53855",
+            "entry": {
+                "title": "ITEM_20170607034",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA credit analyst is \u003ci\u003eleast likely\u003c/i\u003e to use matrix pricing to estimate the required yield and price of a(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "203e3335-7750-4662-9d07-0ba42d22db70"
+                },
+                "answerFeedback": {
+                    "203e3335-7750-4662-9d07-0ba42d22db70": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Matrix pricing is most suited to pricing inactively traded bonds and newly underwritten bonds. A credit analyst is least likely to use matrix pricing to price an actively traded bond.\u003c/p\u003e",
+                    "7e7ae668-8280-46c9-a4af-106ba34e0ebc": "\u003cp\u003eIncorrect because matrix pricing is most suited to pricing inactively traded bonds.\u003c/p\u003e",
+                    "eb5883a7-8279-4137-9d3e-3756297eff3a": "\u003cp\u003eIncorrect because matrix pricing is most suited to pricing newly underwritten bonds.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "eb5883a7-8279-4137-9d3e-3756297eff3a",
+                            "itemBody": "\u003cp\u003eA. newly underwritten bond.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "203e3335-7750-4662-9d07-0ba42d22db70",
+                            "itemBody": "\u003cp\u003eB. actively traded speculative grade bond.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7e7ae668-8280-46c9-a4af-106ba34e0ebc",
+                            "itemBody": "\u003cp\u003eC. inactively traded investment grade bond.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8680,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4468,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53856",
+            "entry": {
+                "title": "ITEM_20170607102",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe maturity effect is \u003ci\u003eleast likely\u003c/i\u003e to hold for a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "274520b6-0dd7-402a-8a3c-e58151b48f56"
+                },
+                "answerFeedback": {
+                    "01820321-67e7-4210-b8cc-5f7b87d3eb8a": "\u003cp\u003eIncorrect because the maturity effect will hold for a low-coupon bond that is trading above par.\u003c/p\u003e",
+                    "274520b6-0dd7-402a-8a3c-e58151b48f56": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e In some situations, the maturity effect may not hold for a low-coupon bond that is trading below par.\u003c/p\u003e",
+                    "5ea8bb09-c9f3-40e2-a875-e41a5ec23e92": "\u003cp\u003eIncorrect because the maturity effect will always hold for a zero-coupon bond.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5ea8bb09-c9f3-40e2-a875-e41a5ec23e92",
+                            "itemBody": "\u003cp\u003eA. zero-coupon bond.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "274520b6-0dd7-402a-8a3c-e58151b48f56",
+                            "itemBody": "\u003cp\u003eB. low-coupon, long-term bond trading at a discount.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "01820321-67e7-4210-b8cc-5f7b87d3eb8a",
+                            "itemBody": "\u003cp\u003eC. low-coupon, long-term bond trading at a premium.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8680,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4468,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53857",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Mazur-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eBonds are quoted using the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d9574715-fb0a-4cd5-9b67-79e459814859"
+                },
+                "answerFeedback": {
+                    "b21db466-e1ea-4a54-9368-555e60fbf56d": "\u003cp\u003eIncorrect because the flat price usually is quoted by bond dealers. If a trade takes place, the accrued interest is added to the flat price to obtain the full price paid by the buyer and received by the seller on the settlement date\u0026nbsp;and the\u0026nbsp;full price\u0026nbsp;also is called the invoice or 'dirty' price.\u003c/p\u003e",
+                    "ce8c27e5-1883-48b7-ab32-e9905771e853": "\u003cp\u003eIncorrect because the flat price usually is quoted by bond dealers. If a trade takes place, the accrued interest is added to the flat price to obtain the full price paid by the buyer and received by the seller on the settlement date.\u003c/p\u003e",
+                    "d9574715-fb0a-4cd5-9b67-79e459814859": "\u003cp\u003eCorrect because the flat price usually is quoted by bond dealers. If a trade takes place, the accrued interest is added to the flat price to obtain the full price paid by the buyer and received by the seller on the settlement date.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ce8c27e5-1883-48b7-ab32-e9905771e853",
+                            "itemBody": "\u003cp\u003eA. full price and settled using the flat price.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d9574715-fb0a-4cd5-9b67-79e459814859",
+                            "itemBody": "\u003cp\u003eB. flat price and settled using the full price.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b21db466-e1ea-4a54-9368-555e60fbf56d",
+                            "itemBody": "\u003cp\u003eC. \"dirty\" price and settled using the invoice price.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8680,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4468,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

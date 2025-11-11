@@ -1,0 +1,1475 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6002,
+    "time_spent": 78,
+    "questions_answered": 0,
+    "question_count": 23,
+    "hidden_question_count": 0,
+    "points": 5,
+    "points_possible": 23,
+    "correct_questions_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 8: Exchange Rate Calculations",
+        "topic_id": 1032,
+        "topic": "CFA-26-02-LI-C: Economics",
+        "subtopic_id": 6002,
+        "subtopic": "Module 8: Exchange Rate Calculations",
+        "question_count": 23,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 848,
+                "name": "Warehouse Course: Economics 26-LI",
+                "code": "Warehouse Course: Economics 26-LI",
+                "module_id": 4255,
+                "question_count": 17,
+                "type": "warehouse"
+            },
+            {
+                "id": 839,
+                "name": "Practice Pack Warehouse: Economics 26-LI",
+                "code": "Practice Pack Warehouse: Economics 26-LI",
+                "module_id": 4652,
+                "question_count": 6,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 23.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "720a24421833dc0c",
+        "ordered_item_ids": [
+            "54605",
+            "54606",
+            "54607",
+            "54608",
+            "54609",
+            "54610",
+            "50757",
+            "50758",
+            "50759",
+            "50760",
+            "50761",
+            "50762",
+            "50763",
+            "50764",
+            "53630",
+            "53631",
+            "53632",
+            "53633",
+            "53634",
+            "53635",
+            "53636",
+            "53637",
+            "53638",
+            "53639"
+        ],
+        "visible_item_ids": [
+            "54605",
+            "54606",
+            "54607",
+            "54608",
+            "54609",
+            "54610",
+            "50757",
+            "50758",
+            "50759",
+            "50760",
+            "50761",
+            "50762",
+            "50763",
+            "50764",
+            "53630",
+            "53631",
+            "53632",
+            "53633",
+            "53634",
+            "53635",
+            "53636",
+            "53637",
+            "53638",
+            "53639"
+        ]
+    },
+    "items": [
+        {
+            "id": "54605",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Econ-Lin-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll else being equal, in an efficient market a forward exchange rate will decrease as a result of an increase in the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "cf9e4d22-3dff-4e77-a1ad-9dc9fb33659e"
+                },
+                "answerFeedback": {
+                    "37360b98-368b-47fd-8233-24b14aa84386": "\u003cp\u003eIncorrect because the forward exchange rate will increase, rather than decrease,\u0026nbsp;as a result of an increase in the spot exchange rate.\u003c/p\u003e",
+                    "429ce6e4-2cae-49d5-ab48-38239e4880f7": "\u003cp\u003eIncorrect because the forward exchange rate will increase, rather than decrease,\u0026nbsp;as a result of an increase in the foreign risk-free interest rate.\u003c/p\u003e",
+                    "cf9e4d22-3dff-4e77-a1ad-9dc9fb33659e": "\u003cp\u003eCorrect because the arbitrage equation can be re-arranged, as needs require, to get the formula for the forward rate, as follows:\u003c/p\u003e\n\u003cp\u003e\u003ci\u003eF\u003csub\u003ef/d\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;= \u003ci\u003eS\u003csub\u003ef/d\u003c/sub\u003e\u0026nbsp;\u003c/i\u003e× [(1 + \u003ci\u003ei\u003csub\u003ef\u003c/sub\u003e\u003c/i\u003e)/(1 + \u003ci\u003ei\u003csub\u003ed\u003c/sub\u003e\u003c/i\u003e)],\u0026nbsp;\u003c/p\u003e\n\u003cp\u003ewhere\u0026nbsp;\u003ci\u003eF\u003csub\u003ef/d\u003c/sub\u003e\u0026nbsp;\u003c/i\u003eis the forward exchange rate,\u0026nbsp;\u003cbr\u003e\u003ci\u003eS\u003csub\u003ef/d\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;is the spot exchange rate, \u003cbr\u003e\u003ci\u003ei\u003csub\u003ef\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;is the foreign risk-free interest rate, \u003cbr\u003eand\u0026nbsp;\u003ci\u003ei\u003csub\u003ed\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;is the domestic risk-free interest rate.\u003c/p\u003e\n\u003cp\u003eTherefore, the forward exchange rate will decrease as a result of an increase in the domestic risk-free interest rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "37360b98-368b-47fd-8233-24b14aa84386",
+                            "itemBody": "\u003cp\u003eA. spot exchange rate.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "429ce6e4-2cae-49d5-ab48-38239e4880f7",
+                            "itemBody": "\u003cp\u003eB. foreign risk-free interest rate.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "cf9e4d22-3dff-4e77-a1ad-9dc9fb33659e",
+                            "itemBody": "\u003cp\u003eC. domestic risk-free interest rate.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8801,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4652,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54606",
+            "entry": {
+                "title": "ITEM_CFA-L1-09422",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 248px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 180px; max-width: 180px;\"\u003eUSD/AUD spot rate\u003c/td\u003e\n\u003ctd style=\"width: 59px; max-width: 59px; text-align: center;\"\u003e0.8027\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 180px; max-width: 180px;\"\u003eAUD 1-year interest rate\u003c/td\u003e\n\u003ctd style=\"width: 59px; max-width: 59px; text-align: center;\"\u003e3.30%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 180px; max-width: 180px;\"\u003eUSD 1-year interest rate\u003c/td\u003e\n\u003ctd style=\"width: 59px; max-width: 59px; text-align: center;\"\u003e2.42%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eUSD/AUD is the amount of USD per 1 AUD.\u003c/p\u003e\n\u003cp\u003eThe USD/AUD 1-year forward rate is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "adb9efc4-19f7-4cd3-a264-0b788b62b489"
+                },
+                "answerFeedback": {
+                    "3d74b00f-44b1-4afc-96e3-e5baee3e4342": "\u003cp\u003eIncorrect because it uses the incorrect formula \u003cem\u003eF\u003csub\u003ef/d\u003c/sub\u003e\u003c/em\u003e = \u003cem\u003eS\u003csub\u003ef/d\u003c/sub\u003e\u003c/em\u003e ((1+\u003cem\u003ei\u003csub\u003ed\u003c/sub\u003e\u003c/em\u003e)/(1+\u003cem\u003ei\u003csub\u003ef\u003c/sub\u003e\u003c/em\u003e)). Substituting the values, \u003cem\u003eF\u003csub\u003ef/d\u003c/sub\u003e\u003c/em\u003e = 0.8027 × ((1+0.033)/(1+0.0242)) ≈ 0.8096.\u0026nbsp;\u003c/p\u003e",
+                    "9ca1350d-adda-467b-a68e-e77508f262c7": "\u003cp\u003eIncorrect because it uses the incorrect formula \u003cem\u003eF\u003csub\u003ef/d\u003c/sub\u003e\u003c/em\u003e = \u003cem\u003eS\u003csub\u003ef/d\u003c/sub\u003e\u003c/em\u003e (1+\u003cem\u003ei\u003csub\u003ef\u003c/sub\u003e\u003c/em\u003e). Substituting the values, \u003cem\u003eF\u003csub\u003ef/d\u003c/sub\u003e\u003c/em\u003e = 0.8027 × (1+0.033) ≈ 0.8292.\u0026nbsp;\u003c/p\u003e",
+                    "adb9efc4-19f7-4cd3-a264-0b788b62b489": "\u003cp\u003eCorrect because \u003cem\u003eF\u003csub\u003ef/d\u003c/sub\u003e\u003c/em\u003e = \u003cem\u003eS\u003csub\u003ef/d\u003c/sub\u003e\u003c/em\u003e ((1+\u003cem\u003ei\u003csub\u003ef\u003c/sub\u003e\u003c/em\u003e)/(1+\u003cem\u003ei\u003csub\u003ed\u003c/sub\u003e\u003c/em\u003e)). Substituting the values, \u003cem\u003eF\u003csub\u003ef/d\u003c/sub\u003e\u003c/em\u003e = 0.8027 × ((1+0.0242)/(1+0.033)) ≈ 0.7959.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "adb9efc4-19f7-4cd3-a264-0b788b62b489",
+                            "itemBody": "\u003cp\u003eA. 0.7959.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3d74b00f-44b1-4afc-96e3-e5baee3e4342",
+                            "itemBody": "\u003cp\u003eB. 0.8096.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9ca1350d-adda-467b-a68e-e77508f262c7",
+                            "itemBody": "\u003cp\u003eC. 0.8292.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8801,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4652,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54607",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Econ-Zipp-18",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWith respect to the foreign exchange market, an arbitrage relationship involving countries' relative interest rates serves as the basis for:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fcd4a396-d9be-4994-9814-a948844829ab"
+                },
+                "answerFeedback": {
+                    "d29b1812-b188-49f8-8d39-7f0e1cf0e04b": "\u003cp\u003eIncorrect because real exchange rates are indexes often constructed by economists and other market analysts to assess changes in the relative purchasing power of one currency compared with another,\u0026nbsp;and are therefore not based on an arbitrage relationship.\u003c/p\u003e",
+                    "f53af146-0adf-4ec4-91bf-2dc7f795f34c": "\u003cp\u003eIncorrect because the nominal exchange rate is the number of units of one currency (called the price currency) that one unit of another currency (called the base currency) will buy, and is set by market forces e.g., capital flows, trade flows, etc. While it is true that cross-rate (nominal exchange rate) quotes must be consistent,\u0026nbsp;the market will arbitrage the mispricings, the specific arbitrage relationship relating to nominal exchange rates does not involve relative interest rates, it is simply based on currency market quotations (and subsequently by the derived currency cross-rates).\u003c/p\u003e",
+                    "fcd4a396-d9be-4994-9814-a948844829ab": "\u003cp\u003eCorrect because forward exchange rates are based on an arbitrage relationship that equates the investment return on two alternative but equivalent investments, which involves the relationship between the risk-free interest rates of the two countries concerned. The arbitrage relationship is \u003ci\u003eF\u003csub\u003ef/d\u003c/sub\u003e\u003c/i\u003e = \u003ci\u003eS\u003csub\u003ef/d\u003c/sub\u003e\u003c/i\u003e(1 + \u003ci\u003ei\u003csub\u003ef\u003c/sub\u003e\u003c/i\u003e)/(1 + \u003ci\u003ei\u003csub\u003ed\u003c/sub\u003e\u003c/i\u003e), where \u003ci\u003eF\u003csub\u003ef/d\u003c/sub\u003e\u003c/i\u003e is the forward rate, \u003ci\u003eS\u003csub\u003ef/d\u003c/sub\u003e\u003c/i\u003e is the spot rate, and \u003ci\u003ei\u003csub\u003ef\u003c/sub\u003e\u003c/i\u003e (\u003ci\u003ei\u003csub\u003ed\u003c/sub\u003e\u003c/i\u003e) is the foreign (domestic) risk-free interest rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d29b1812-b188-49f8-8d39-7f0e1cf0e04b",
+                            "itemBody": "\u003cp\u003eA. real exchange rates.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fcd4a396-d9be-4994-9814-a948844829ab",
+                            "itemBody": "\u003cp\u003eB. forward exchange rates.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f53af146-0adf-4ec4-91bf-2dc7f795f34c",
+                            "itemBody": "\u003cp\u003eC. nominal exchange rates.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8801,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4652,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54608",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-Econ-Erickson-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following foreign exchange rate information:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 319px; height: 84.1551px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr style=\"height: 26.7245px;\"\u003e\n\u003cth style=\"width: 142px; max-width: 142px; height: 26.7245px;\" scope=\"col\"\u003e\u0026nbsp;\u003c/th\u003e\n\u003cth style=\"width: 85px; text-align: center; max-width: 85px; height: 26.7245px;\" scope=\"col\"\u003e\u003cstrong\u003eCAD/USD\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"width: 81px; text-align: center; max-width: 81px; height: 26.7245px;\" scope=\"col\"\u003e\u003cstrong\u003eJPY/USD\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 28.7153px;\"\u003e\n\u003ctd style=\"width: 142px; max-width: 142px; height: 28.7153px;\"\u003eBeginning of period\u003c/td\u003e\n\u003ctd style=\"width: 85px; text-align: center; max-width: 85px; height: 28.7153px;\"\u003e1.3216\u003c/td\u003e\n\u003ctd style=\"width: 81px; text-align: center; max-width: 81px; height: 28.7153px;\"\u003e105.42\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 28.7153px;\"\u003e\n\u003ctd style=\"width: 142px; max-width: 142px; height: 28.7153px;\"\u003eEnd of period\u003c/td\u003e\n\u003ctd style=\"width: 85px; text-align: center; max-width: 85px; height: 28.7153px;\"\u003e1.2944\u003c/td\u003e\n\u003ctd style=\"width: 81px; text-align: center; max-width: 81px; height: 28.7153px;\"\u003e104.74\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eCAD/USD is the amount of CAD per 1 USD.\u003c/p\u003e\n\u003cp\u003eJPY/USD is the amount of JPY per 1 USD.\u003c/p\u003e\n\u003cp\u003eThe percentage change in the JPY/CAD cross-rate for the period is \u003ci\u003eclosest\u003c/i\u003e to:\u0026nbsp;\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7c034a21-a122-499b-81f7-d12682d701b6"
+                },
+                "answerFeedback": {
+                    "3c89ffa7-ddd1-4980-bca7-c5641a4aeaa4": "\u003cp\u003eIncorrect because the beginning and end of period JPY/USD exchange rates have been reversed chronologically as follows: Beginning of period JPY/CAD rate = 1/1.3216 × 104.74 = 0.75666 × 104.74 = 79.25\u003c/p\u003e\u003cp\u003eEnd of period JPY/CAD exchange rate = 1/1.2944 × 105.42 = 0.77256 × 105.42 = 81.44\u003c/p\u003e\u003cp\u003eTherefore the percentage change in JPY/CAD was calculated incorrectly as 81.44/79.25\u0026nbsp;– 1 = 2.76% ≈ 2.8%.\u003c/p\u003e",
+                    "7c034a21-a122-499b-81f7-d12682d701b6": "\u003cp\u003eCorrect because sometimes it is necessary to invert one of the quotes in order to get the intermediary currency to cancel out in the equation to get the cross-rate. For example, to get a Canada–yen (JPY/CAD) quote, one is typically using the dollar–Canada (CAD/USD) rate and dollar–yen (JPY/USD) rate, which are the market conventions.\u0026nbsp;Hence, to get a Canada–yen (JPY/CAD) quote, we must first invert the dollar–Canada (CAD/USD) quote before multiplying by the dollar–yen (JPY/USD) quote.\u003c/p\u003e\u003cp\u003eThe beginning of period JPY/CAD exchange rate is therefore = 1/1.3216 × 105.42 = 0.75666 × 105.42 = 79.77\u003c/p\u003e\u003cp\u003eThe end of period JPY/CAD exchange rate is therefore = 1/1.2944 × 104.74 = 0.77256 × 104.74 = 80.92\u003c/p\u003e\u003cp\u003eThe percentage change in the JPY/CAD exchange rate over the period is therefore = 80.92/79.77 – 1 = 1.44% ≈ 1.4%.\u003c/p\u003e",
+                    "a9375697-2a63-4b90-99c5-262e538ade4f": "\u003cp\u003eIncorrect because the CAD/USD exchange rate was not inverted, as required in the correct calculation:\u003c/p\u003e\u003cp\u003eBeginning of period JPY/CAD rate = 1.3216 × 105.42 = 139.32\u003c/p\u003e\u003cp\u003eEnd of period JPY/CAD exchange rate = 1.2944 × 104.74 = 135.58\u003c/p\u003e\u003cp\u003eTherefore the percentage change in JPY/CAD was calculated incorrectly as 135.58/139.32\u0026nbsp;– 1 = –2.68% ≈ –2.7%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a9375697-2a63-4b90-99c5-262e538ade4f",
+                            "itemBody": "\u003cp\u003eA. –2.7%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7c034a21-a122-499b-81f7-d12682d701b6",
+                            "itemBody": "\u003cp\u003eB. 1.4%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3c89ffa7-ddd1-4980-bca7-c5641a4aeaa4",
+                            "itemBody": "\u003cp\u003eC. 2.8%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8801,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4652,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54609",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Econ-Grabe-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf the\u0026nbsp;spot USD/EUR exchange rate (the amount of USD per 1 EUR) is 1.1605 and the 1-year forward rate is 1.17240, the forward points are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "272970c9-f8ab-4819-bedd-aee256586275"
+                },
+                "answerFeedback": {
+                    "272970c9-f8ab-4819-bedd-aee256586275": "\u003cp\u003eCorrect because the forward rate is calculated as (1.17240\u0026nbsp;– 1.1605) × 10,000 = 119.0.\u0026nbsp;\u003c/p\u003e",
+                    "38feffca-82ac-4a94-a193-c8502a8e7b91": "\u003cp\u003eIncorrect because calculating (1 – (1.1605/1.17240)) × 10,000 ≈ 101.5 is not using the correct formula of (1.1724 – 1.1605) × 10,000 = 119.0.\u0026nbsp;\u003c/p\u003e",
+                    "4b3d956b-5a4a-4c01-a3b6-1c206df7dcd5": "\u003cp\u003eIncorrect because calculating (1.17240/1.1605 – 1) × 10,000 ≈ 102.5 is not using the correct formula of (1.17240 – 1.1605) × 10,000 = 119.0.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "38feffca-82ac-4a94-a193-c8502a8e7b91",
+                            "itemBody": "\u003cp\u003eA. +101.5.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4b3d956b-5a4a-4c01-a3b6-1c206df7dcd5",
+                            "itemBody": "\u003cp\u003eB. +102.5.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "272970c9-f8ab-4819-bedd-aee256586275",
+                            "itemBody": "\u003cp\u003eC. +119.0.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8801,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4652,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54610",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Econ-Kassem-12",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers\u0026nbsp;the following information about spot rates:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 500px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eUSD/GBP\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e1.2604\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eUSD/EUR\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e1.1786\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eUSD/GBP is the amount of USD\u0026nbsp;per 1 GBP.\u003c/p\u003e\n\u003cp\u003eUSD/EUR\u0026nbsp;is the amount of USD per 1 EUR.\u003c/p\u003e\n\u003cp\u003eThe spot EUR/GBP cross rate is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "24e107a8-4a79-4fb1-b881-34ac8d79571e"
+                },
+                "answerFeedback": {
+                    "24e107a8-4a79-4fb1-b881-34ac8d79571e": "\u003cp\u003eCorrect because sometimes it is necessary to invert one of the quotes in order to get the intermediary currency to cancel out in the equation to get the cross-rate. For example, to get a Canada–yen (JPY/CAD) quote, one is typically using the dollar–Canada (CAD/USD) rate and dollar–yen (JPY/USD) rate, which are the market conventions. This Canada–yen calculation requires that the dollar–Canada rate (CAD/USD) be inverted to a USD/CAD quote for the calculations to work. The formula for the EUR/GBP cross rate is USD/GBP\u0026nbsp;× (USD/EUR)\u003csup\u003e-1\u003c/sup\u003e\u0026nbsp;= USD/GBP\u0026nbsp;× EUR/USD\u0026nbsp;= 1.2604 /\u0026nbsp;1.1786\u0026nbsp;≈ 1.0694.\u0026nbsp;\u003c/p\u003e",
+                    "41728c9a-3be2-4201-9e18-15d973c88e69": "\u003cp\u003eIncorrect because sometimes it is necessary to invert one of the quotes in order to get the intermediary currency to cancel out in the equation to get the cross-rate.\u0026nbsp;This\u0026nbsp;answer does not invert the quotes but rather multiplies\u0026nbsp;the two spot rates.\u0026nbsp; 1.2604\u0026nbsp;× 1.1786\u0026nbsp;≈ 1.4855.\u0026nbsp;\u003c/p\u003e",
+                    "a94e9251-1c98-4de4-82de-4177968eae7b": "\u003cp\u003eIncorrect because sometimes it is necessary to invert one of the quotes in order to get the intermediary currency to cancel out in the equation to get the cross-rate.\u0026nbsp;The formula for the EUR/GBP cross rate is USD/GBP\u0026nbsp;× (USD/EUR)\u003csup\u003e-1\u003c/sup\u003e\u0026nbsp;= USD/GBP\u0026nbsp;× EUR/USD.\u0026nbsp; This answer inverts the wrong exchange rate and reverses the formula to 1.1786 /\u0026nbsp;1.2604\u0026nbsp;≈ 0.9351. This answer would be the GBP/EUR cross rate, not the EUR/GBP cross rate.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a94e9251-1c98-4de4-82de-4177968eae7b",
+                            "itemBody": "\u003cp\u003eA. 0.9351.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "24e107a8-4a79-4fb1-b881-34ac8d79571e",
+                            "itemBody": "\u003cp\u003eB. 1.0694.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "41728c9a-3be2-4201-9e18-15d973c88e69",
+                            "itemBody": "\u003cp\u003eC. 1.4855.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8801,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4652,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50757",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA dealer provides spot rate quotes for the following currencies:\u003c/p\u003e\n\u003cdiv id=\"CFA2416-R-s02-T-1-b\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellpadding=\"8px\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003cstrong\u003eCurrency\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u003cstrong\u003eSpot rate \u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCNY/HKD\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0.8422\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCNY/ZAR\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0.9149\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCNY/SEK\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.0218\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8155,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50758",
+            "entry": {
+                "title": "CFA2416-R-s02-Q8",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. To get to the ZAR/HKD cross-rate, it is necessary to take the inverse of the CNY/ZAR spot rate and then multiply by the CNY/HKD exchange rate:\u003c/p\u003e\n\u003cdiv id=\"CFA2416-R-s02-Q8-E1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmrow\u003e \u003cmtext\u003eZAR/HKD\u003c/mtext\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmtext\u003eCNY/ZAR\u003c/mtext\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmtext\u003eCNY/HKD\u003c/mtext\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmrow\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmn\u003e0.9149\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e0.8422\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.9205\u003c/mn\u003e \u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe spot ZAR/HKD cross-rate is \u003cem\u003eclosest\u003c/em\u003e to: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6649c12e-953a-4a01-b35d-cffe49d91140"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6649c12e-953a-4a01-b35d-cffe49d91140",
+                            "itemBody": "A. 0.9205.",
+                            "position": 1
+                        },
+                        {
+                            "id": "faa10a23-8874-485f-8585-d622ceaabec5",
+                            "itemBody": "B. 1.0864.",
+                            "position": 2
+                        },
+                        {
+                            "id": "9010e942-8272-4680-9da4-581108c444da",
+                            "itemBody": "C. 1.2978.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8155,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": "50757"
+        },
+        {
+            "id": "50759",
+            "entry": {
+                "title": "CFA2416-R-s02-Q9",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The ZAR/SEK cross-rate from the original dealer is (1.0218/0.9149) = 1.1168, which is lower than the quote from the second dealer. To earn an arbitrage profit, a currency trader would buy Swedish krona (sell South African rand) from the original dealer and sell Swedish krona (buy South African rand) to the second dealer. On SEK1 million, the profit would be:\u003c/p\u003e\n               \n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2416-R-s02-Q9-E1\"\u003eSEK1,000,000 × (1.1210 – 1.1168) = ZAR4,200\u003c/div\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAnother dealer is quoting the ZAR/SEK cross-rate at 1.1210. The arbitrage profit that can be earned is \u003cem\u003eclosest\u003c/em\u003e to: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8400a93a-64d9-44f8-b1f9-053ae1f6cc3b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bafa453b-6933-4c9a-ad42-c03257247338",
+                            "itemBody": "A. ZAR3671 per million Swedish krona traded.",
+                            "position": 1
+                        },
+                        {
+                            "id": "c1a5f26d-8e07-4957-9f86-9cb92f4feba5",
+                            "itemBody": "B. SEK4200 per million South African rand traded.",
+                            "position": 2
+                        },
+                        {
+                            "id": "8400a93a-64d9-44f8-b1f9-053ae1f6cc3b",
+                            "itemBody": "C. ZAR4200 per million Swedish krona traded.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8155,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": "50757"
+        },
+        {
+            "id": "50760",
+            "entry": {
+                "title": "CFA2416-R-s03-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The number of forward points equals the forward rate minus the spot rate, or 0.14193 – 0.1378 = 0.00413, multiplied by 10,000: 10,000 × 0.00413= 41.3 points. By convention, forward points are scaled so that ±1 forward point corresponds to a change of ±1 in the last decimal place of the spot exchange rate.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA BRL/MXN spot rate is listed by a dealer at 0.1378. The six-month forward rate is 0.14193. The six-month forward points are \u003cem\u003eclosest\u003c/em\u003e to: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4e510474-dc68-419e-a958-36f7be5dafdc"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9536e444-1ddd-4414-a05c-78bd06254974",
+                            "itemBody": "A. –41.3.",
+                            "position": 1
+                        },
+                        {
+                            "id": "4e510474-dc68-419e-a958-36f7be5dafdc",
+                            "itemBody": "B. +41.3.",
+                            "position": 2
+                        },
+                        {
+                            "id": "3f6f01bf-e601-43ba-a5b1-2ea66fc9afb3",
+                            "itemBody": "C. +299.7.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8155,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50761",
+            "entry": {
+                "title": "CFA2416-R-s03-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Given the forward rate and forward points as a percentage, the unknown in the calculation is the spot rate. The calculation is as follows:\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2416-R-s03-E-3-\"\u003eSpot rate × (1 + Forward points as a percentage) = Forward rate\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2416-R-s03-E-3-___1\"\u003eSpot rate × (1 + 0.068) = 1.0123\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2416-R-s03-E-3-___2\"\u003eSpot = 1.0123/1.068 = 0.9478\u003c/div\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA three-month forward exchange rate in CAD/USD is listed by a dealer at 1.0123. The dealer also quotes three-month forward points as a percentage at 6.8 percent. The CAD/USD spot rate is \u003cem\u003eclosest\u003c/em\u003e to: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "728a36d9-dec8-42db-acd9-ddf11ff76fa7"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "728a36d9-dec8-42db-acd9-ddf11ff76fa7",
+                            "itemBody": "A. 0.9478.",
+                            "position": 1
+                        },
+                        {
+                            "id": "eee4f617-7d90-45d9-a7e3-52e5fa17c7db",
+                            "itemBody": "B. 1.0550.",
+                            "position": 2
+                        },
+                        {
+                            "id": "e749d406-68e3-4c3c-a621-1750e6487c73",
+                            "itemBody": "C. 1.0862.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8155,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50762",
+            "entry": {
+                "title": "CFA2416-R-s03-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The base currency trading at a forward discount means that 1 unit of the base currency costs less for forward delivery than for spot delivery (i.e., the forward exchange rate is less than the spot exchange rate). The forward points, expressed either as an absolute number of points or as a percentage, are negative.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf the base currency in a forward exchange rate quote is trading at a forward discount, which of the following statements is \u003cem\u003emost\u003c/em\u003e accurate? \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4ab94170-a665-449a-b3fa-a38f02cb1389"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f095305c-99cf-48bc-97d9-9bf871f2bf02",
+                            "itemBody": "A. The forward points will be positive.",
+                            "position": 1
+                        },
+                        {
+                            "id": "4ab94170-a665-449a-b3fa-a38f02cb1389",
+                            "itemBody": "B. The forward percentage will be negative.",
+                            "position": 2
+                        },
+                        {
+                            "id": "6105f174-3d9d-47e9-a5f7-ecf72cb69a39",
+                            "itemBody": "C. The base currency is expected to appreciate versus the price currency.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8155,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50763",
+            "entry": {
+                "title": "CFA2416-R-s03-Q9",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. To eliminate arbitrage opportunities, the spot exchange rate (\u003cem\u003eS\u003c/em\u003e), the forward exchange rate (\u003cem\u003eF\u003c/em\u003e), the interest rate in the base currency (r\u003csub\u003ed\u003c/sub\u003e, and the interest rate in the price currency (r\u003csub\u003ef\u003c/sub\u003e) must satisfy:\u003c/p\u003e\n\u003cdiv id=\"CFA2416-R-s03-E-5-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003eF\u003csub\u003ef/d\u003c/sub\u003e/ S\u003csub\u003ef/d\u003c/sub\u003e = (1+r\u003csub\u003ef\u003c/sub\u003eτ / 1+r\u003csub\u003ed\u003c/sub\u003eτ).\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAccording to this formula, the base currency will trade at forward premium (\u003cem\u003eF\u003c/em\u003e \u0026gt; \u003cem\u003eS\u003c/em\u003e) if, and only if, the interest rate in the price currency is higher than the interest rate in the base currency (r\u003csub\u003ef\u003c/sub\u003e \u0026gt; r\u003csub\u003ed\u003c/sub\u003e).\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA forward premium indicates: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "514eadab-a34c-4128-9fab-87b6b41d1bed"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "cdc834cb-caf4-4c14-ab3e-94a1ee478a0a",
+                            "itemBody": "A. an expected increase in demand for the base currency.",
+                            "position": 1
+                        },
+                        {
+                            "id": "2e23c8b5-eaac-4391-9d51-702e48e11173",
+                            "itemBody": "B. the interest rate is higher in the base currency than in the price currency.",
+                            "position": 2
+                        },
+                        {
+                            "id": "514eadab-a34c-4128-9fab-87b6b41d1bed",
+                            "itemBody": "C. the interest rate is higher in the price currency than in the base currency.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8155,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50764",
+            "entry": {
+                "title": "CFA2416-R-s03-Q10",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The forward exchange rate is given by:\u003c/p\u003e\n\u003cdiv id=\"CFA2416-R-s03-E-6-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eJ\u003c/mi\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eY\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eU\u003c/mi\u003e \u003cmi\u003eD\u003c/mi\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eJ\u003c/mi\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eY\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eU\u003c/mi\u003e \u003cmi\u003eD\u003c/mi\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003eJ\u003c/mi\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eY\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003cmi\u003eτ\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eU\u003c/mi\u003e \u003cmi\u003eD\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003cmi\u003eτ\u003c/mi\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e82.42\u003c/mn\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.0015\u003c/mn\u003e \u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e90\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e360\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.0495\u003c/mn\u003e \u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e90\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e360\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2416-R-s03-E-6-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e82.42\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e0.98815\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e81.443.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe forward points are as follows:\u003c/p\u003e\n\u003cdiv id=\"CFA2416-R-s03-E-6-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e100 × (\u003cem\u003eF\u003c/em\u003e × \u003cem\u003eS\u003c/em\u003e) = 100 × (81.443 – 82.42) = 100 × (–0.977) = –97.7.\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBecause the spot exchange rate is quoted with two decimal places, the forward points are scaled by 100.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe JPY/AUD spot exchange rate is 82.42, the Japanese yen interest rate is 0.15 percent, and the Australian dollar interest rate is 4.95 percent. If the interest rates are quoted on the basis of a 360-day year, the 90-day forward points in JPY/AUD would be \u003cem\u003eclosest\u003c/em\u003e to: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9ec4cee5-3e18-493f-9f64-1cab009d667e"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "be7f1f24-a18e-424d-b8ac-c8bbe01ec81f",
+                            "itemBody": "A. –377.0.",
+                            "position": 1
+                        },
+                        {
+                            "id": "9ec4cee5-3e18-493f-9f64-1cab009d667e",
+                            "itemBody": "B. –97.7.",
+                            "position": 2
+                        },
+                        {
+                            "id": "ca02e2c4-f7ae-46f6-91d8-576fab17cd3c",
+                            "itemBody": "C. 98.9.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8155,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53630",
+            "entry": {
+                "title": "ITEM_20170531008",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA New Zealand traveler returned from Singapore with SGD7,500 (Singapore dollars). A foreign exchange dealer provided the traveler with the following quotes:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 250px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"5\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; width: 125px;\"\u003e\u003cstrong\u003eRatio\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 125px;\"\u003e\u003cstrong\u003eSpot Rates\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 125px;\"\u003eUSD/SGD\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 125px;\"\u003e1.2600\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 125px;\"\u003eNZD/USD\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 125px;\"\u003e0.7670\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eUSD: US dollar; NZD: New Zealand dollar\u003c/p\u003e\n\u003cp\u003eThe amount of New Zealand dollars (NZD) that the traveler would receive for his Singapore dollars is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8ad91356-6f00-44a9-a74a-ab2e0fbe2e87"
+                },
+                "answerFeedback": {
+                    "126a7a06-930a-41df-8c2d-639e975cf3c1": "\u003cp\u003eIncorrect. It calculates the cross rate correctly, but divides it into 7,500: 7,500/0.9664 = 7,761.\u003c/p\u003e",
+                    "16316dd1-d7dc-4b11-8aa8-042000b601a6": "\u003cp\u003eIncorrect. It calculates NZD/SGD incorrectly by inverting USD/SGD (0.7670 × 1/1.26 = 0.6087) and multiplying by 7,500 = 4,565 NZD.\u003c/p\u003e\u003cp\u003eThis is equivalent to incorrectly first converting to USD (1/1.26 × 7,500 SGD) to give 5,952 USD and then converting to NZD ($5,952 × 0.7670 NZD/$ = 4,565 NZD).\u003c/p\u003e",
+                    "8ad91356-6f00-44a9-a74a-ab2e0fbe2e87": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The NZD/SGD cross-rate is NZD/USD × USD/SGD = 0.7670 × 1.2600 = 0.9664. The traveler will receive: NZD0.9664 per SGD; NZD0.9664 × SGD7,500 = NZD7,248.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "16316dd1-d7dc-4b11-8aa8-042000b601a6",
+                            "itemBody": "\u003cp\u003eA. NZD4,565.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8ad91356-6f00-44a9-a74a-ab2e0fbe2e87",
+                            "itemBody": "\u003cp\u003eB. NZD7,248.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "126a7a06-930a-41df-8c2d-639e975cf3c1",
+                            "itemBody": "\u003cp\u003eC. NZD7,761.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8599,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53631",
+            "entry": {
+                "title": "ITEM_20170531075",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 400px; border-style: none none solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; width: 87px;\" scope=\"col\"\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 92px;\" scope=\"col\"\u003e\u003cstrong\u003eSpot Rate\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 209px;\" scope=\"col\"\u003e\u003cstrong\u003e1-Year Forward Rate\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; width: 87px;\"\u003eUSD/EUR\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; width: 92px;\"\u003e1.2952\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; width: 209px;\"\u003e1.3001\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eWhich of the following statements is \u003ci\u003emost\u003c/i\u003e accurate based on the FX quotations in the table?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "80eba266-d31c-4886-b316-840a05cbb001"
+                },
+                "answerFeedback": {
+                    "80eba266-d31c-4886-b316-840a05cbb001": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Forward premium = Forward rate – Spot rate = 1.3001 – 1.2952 = 0.0049. To convert to points, scale four decimal places—that is, multiply by 10,000 = 10,000 × 0.0049 = 49 points. Because the forward rate exceeds the spot rate for the base currency (euro), the euro is trading at a forward premium of 49 points.\u003c/p\u003e",
+                    "83743920-214c-4cfa-8841-5bca4c2f8a50": "\u003cp\u003eIncorrect. When the forward rate (1.3001) is higher than the spot rate (1.2952), the base currency (EUR) is said to be trading at a forward premium, not a discount, to the price currency (USD).\u003c/p\u003e",
+                    "e97b558d-5fe5-4b92-924a-556da5fab40d": "\u003cp\u003eIncorrect. When the forward rate (1.3001) is higher than the spot rate (1.2952), the forward points are positive, and the forward rate is said to be trading at a premium to the spot rate. The wrong number is derived from 1.3001 – 1.2952 = 0.0049. The USD/EUR is quoted to four decimal places, so it needs to be scaled up by four decimal places or multiplied by 10,000 to 49 points.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "80eba266-d31c-4886-b316-840a05cbb001",
+                            "itemBody": "\u003cp\u003eA. The euro is trading at a forward premium of 49 points\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "83743920-214c-4cfa-8841-5bca4c2f8a50",
+                            "itemBody": "\u003cp\u003eB. The US dollar is trading at a forward premium of 49 points\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e97b558d-5fe5-4b92-924a-556da5fab40d",
+                            "itemBody": "\u003cp\u003eC. The forward rate is trading at a discount to the spot rate by 0.0049 points\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8599,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53632",
+            "entry": {
+                "title": "ITEM_20170531088",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA research report produced by a dealer includes the following exchange rates:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 483px; border-style: none none solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"5\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; width: 90px;\"\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 90px;\"\u003e\u003cstrong\u003eSpot Rate\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 290px;\"\u003e\u003cstrong\u003eExpected Spot Rate in One Year\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 90px;\"\u003eUSD/EUR\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 90px;\"\u003e1.3960\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 290px;\"\u003e1.3860\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 90px;\"\u003eUSD/CAD\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 90px;\"\u003e1.0110\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 290px;\"\u003e1.0300\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 90px;\"\u003eEUR/GBP\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 90px;\"\u003e1.2850\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 290px;\"\u003e1.2790\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe expected appreciation (%) of the Canadian dollar (CAD) relative to the British pound (GBP) is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f389b7ef-d17b-440b-9899-0dcb99a2ea4e"
+                },
+                "answerFeedback": {
+                    "ef484c3e-ac32-4078-916f-28925362e165": "\u003cp\u003eIncorrect. The appreciation of the individual exchange rates are summed: –0.72 +1.88 – 0.44 = 0.72.\u003c/p\u003e",
+                    "f1a12d42-5a26-48e9-a315-604b7e3b438f": "\u003cp\u003eIncorrect. It calculates the spot and expected spot rates correctly, but uses GBP as the base currency: Appreciation of CAD/GBP = 1.7211/1.7743 – 1 = –3.00%.\u003c/p\u003e",
+                    "f389b7ef-d17b-440b-9899-0dcb99a2ea4e": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e\u003c/p\u003e\n\u003cdiv\u003e\n\u003ctable border=\"1\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eSpot Rate\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eExpected Spot Rate in One Year\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eAppreciation: Expected/Spot – 1\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eUSD/EUR\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e1.3960\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e1.3860\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e–0.72%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eUSD/CAD\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e1.0110\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e1.0300\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e1.88%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eEUR/GBP\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e1.2850\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e1.2790\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e–0.44%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eCAD/GBP\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e\u003cstrong\u003e=\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e\u003cstrong\u003e[(USD/EUR) × (EUR/GBP)]/(USD/CAD)\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eCAD/GBP\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e1.7743\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e1.7211\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e–2.99%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003eGBP/CAD*\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e0.5636\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e0.5810\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e\u003cstrong\u003e3.09%\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cdiv\u003e\n\u003cp\u003e\u003ci\u003e*\u003cstrong\u003e\u003csup\u003e \u003c/sup\u003e\u003c/strong\u003eCanadian dollar is the base currency and the British pound is the price currency\u003c/i\u003e\u003c/p\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eCAD/GBP = [(USD/EUR) × (EUR/GBP)]/(USD/CAD)\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eSpot Rate of CAD/GBP = (1.3960 × 1.2850)/1.0110 = 1.7743\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eExpected Spot Rate of CAD/GBP = (1.3860 ×1.2790)/1.0300 = 1.7211\u003c/p\u003e\n\u003cp\u003eTo determine the appreciation of the Canadian dollar (CAD) relative to the British pound, the British pound (GBP) is the price currency and the Canadian dollar is the base currency, giving rise to the following calculation:\u003c/p\u003e\n\u003cp\u003e\u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmrow\u003e \u003cmn\u003e1.7211\u003c/mn\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmrow\u003e \u003cmn\u003e1.7743\u003c/mn\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.7743\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1.7211\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e3.09\u003c/mn\u003e\u003cmi\u003e%\u003c/mi\u003e\u003c/mrow\u003e\u003c/math\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f1a12d42-5a26-48e9-a315-604b7e3b438f",
+                            "itemBody": "\u003cp\u003eA. –3.00\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ef484c3e-ac32-4078-916f-28925362e165",
+                            "itemBody": "\u003cp\u003eB. 0.70.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f389b7ef-d17b-440b-9899-0dcb99a2ea4e",
+                            "itemBody": "\u003cp\u003eC. 3.09.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8599,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53633",
+            "entry": {
+                "title": "ITEM_20170531119",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf the domestic currency is trading at a forward premium, then relative to the interest rate of the domestic country, the interest rate in the foreign country is\u003ci\u003e most likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1353308c-36ce-46aa-92cb-a188b9fd9e48"
+                },
+                "answerFeedback": {
+                    "01f84994-a826-411a-b1e7-d976aeef094f": "\u003cp\u003eIncorrect because the forward rate is trading at a premium and not at a discount.\u003c/p\u003e",
+                    "1353308c-36ce-46aa-92cb-a188b9fd9e48": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The currency with the higher (lower) interest rate will always trade at a discount (premium) in the forward market. The lower interest rate in the domestic country will be offset by the appreciation of the domestic country’s currency over the investment horizon.\u003c/p\u003e",
+                    "77df1dbd-696f-4749-839b-2125a50f6071": "\u003cp\u003eIncorrect because the forward rate does not equal the spot rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "01f84994-a826-411a-b1e7-d976aeef094f",
+                            "itemBody": "\u003cp\u003eA. lower.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "77df1dbd-696f-4749-839b-2125a50f6071",
+                            "itemBody": "\u003cp\u003eB. the same.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1353308c-36ce-46aa-92cb-a188b9fd9e48",
+                            "itemBody": "\u003cp\u003eC. higher.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8599,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53634",
+            "entry": {
+                "title": "ITEM_20170531121",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA dealer report includes the following exchange rate details:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 483px; border-style: none none solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; width: 90px;\" scope=\"col\"\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 90px;\" scope=\"col\"\u003e\u003cstrong\u003eSpot Rate\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 290px;\" scope=\"col\"\u003e\u003cstrong\u003eExpected Change Over Next Year\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; width: 90px;\"\u003eUSD/EUR\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; width: 90px;\"\u003e1.30\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; width: 290px;\"\u003e1.75%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; width: 90px;\"\u003eCAD/USD\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; width: 90px;\"\u003e0.95\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; width: 290px;\"\u003e-0.25%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; width: 90px;\"\u003eCHF/EUR\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; width: 90px;\"\u003e1.22\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; width: 290px;\"\u003e0.75%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe expected CAD/CHF cross rate in one year is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4e8be0ae-ff98-46f9-9305-f7d0868f1bf5"
+                },
+                "answerFeedback": {
+                    "4e8be0ae-ff98-46f9-9305-f7d0868f1bf5": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e\u003c/p\u003e\n\u003cdiv\u003e\n\u003ctable style=\"width: 558px;\" border=\"1\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; width: 83px; max-width: 83px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; width: 60px; max-width: 60px;\"\u003e\u003cstrong\u003eSpot Rate\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; width: 226px; max-width: 226px;\"\u003e\u003cstrong\u003eExpected Appreciation\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; width: 174px; max-width: 174px;\"\u003e\u003cstrong\u003eExpected Spot Rate in One Year\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 83px; max-width: 83px;\"\u003eUSD/EUR\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 60px; max-width: 60px;\"\u003e1.30\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 226px; max-width: 226px;\"\u003e1.75%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 174px; max-width: 174px;\"\u003e1.323\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 83px; max-width: 83px;\"\u003eCAD/USD\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 60px; max-width: 60px;\"\u003e0.95\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 226px; max-width: 226px;\"\u003e–0.25%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 174px; max-width: 174px;\"\u003e0.948\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 83px; max-width: 83px;\"\u003eCHF/EUR\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 60px; max-width: 60px;\"\u003e1.22\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 226px; max-width: 226px;\"\u003e0.75%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 174px; max-width: 174px;\"\u003e1.229\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 83px; max-width: 83px;\"\u003eCAD/CHF\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 60px; max-width: 60px;\"\u003e\u003cstrong\u003e=\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 226px; max-width: 226px;\"\u003e\u003cstrong\u003e(USD/EUR) × [(CAD/USD)/(CHF/EUR)]\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 174px; max-width: 174px;\"\u003e\u003cstrong\u003e= 1.020\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e",
+                    "74116453-3093-41c7-8a60-ea694430b408": "\u003cp\u003eIncorrect because the cross rates are calculated incorrectly:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eCAD/CHF = \u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmrow\u003e \u003cmtext\u003eCHF\u003c/mtext\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmtext\u003eCAD\u003c/mtext\u003e\u003c/mrow\u003e \u003c/msubsup\u003e \u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmstyle\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmtext\u003eexpected\u0026nbsp;appreciation\u0026nbsp;of\u0026nbsp;the\u0026nbsp;3\u0026nbsp;exchange\u0026nbsp;rates\u003c/mtext\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003c/mstyle\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e\u003c/math\u003e\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u0026nbsp;= 1.012 × [1 + (1.75% – 0.25% + 0.75%)]\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u0026nbsp;= 1.012 × (1 + 2.25%)\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u0026nbsp;= 1.035\u003c/p\u003e",
+                    "a5d26e08-474d-41b5-b3e5-393fd7fcd91b": "\u003cp\u003eIncorrect. It calculates the Swiss Franc (CHF) relative to the Canadian dollar (CAD): (CHF/EUR)/[(USD/EUR)/(CAD/USD)] = 1.229/(1.323/0.948) = 0.881.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a5d26e08-474d-41b5-b3e5-393fd7fcd91b",
+                            "itemBody": "\u003cp\u003eA. 0.98.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4e8be0ae-ff98-46f9-9305-f7d0868f1bf5",
+                            "itemBody": "\u003cp\u003eB. 1.02.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "74116453-3093-41c7-8a60-ea694430b408",
+                            "itemBody": "\u003cp\u003eC. 1.04.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8599,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53635",
+            "entry": {
+                "title": "ITEM_20170531122",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eAssume the following:\u003c/div\u003e\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 60.8%; border: 1px solid black;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; width: 80%;\"\u003eCurrent spot rate for the USD/EUR\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; width: 20%;\"\u003e0.7500\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; width: 80%;\"\u003eForward rate for the EUR/AUD\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; width: 20%;\"\u003e1.4300\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; width: 80%;\"\u003eEUR/AUD forward premium to the spot rate\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; width: 20%;\"\u003e400 points\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp style=\"text-align: left; margin-top: 8px;\"\u003eUSD: US dollar; EUR: Euro; AUD: Australian dollar\u003c/p\u003e\n\u003c/div\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eThe USD/AUD spot rate is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dc5ccb7f-5bf8-4bb1-8008-126d159c5e29"
+                },
+                "answerFeedback": {
+                    "8c595a8e-df78-4c16-9864-283d66406366": "\u003cp\u003eIncorrect. It incorrectly adds forward premium to 1.\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e(1 + 400/10000) × 1.43 = 1.4872\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e1.4872 × 0.75 = 1.1154\u003c/p\u003e",
+                    "dc5ccb7f-5bf8-4bb1-8008-126d159c5e29": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eStep 1: Find the spot rate for the EUR/AUD\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eSpot = Forward Rate – Forward Points\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 1.4300 – (400/10,000)\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 1.3900\u003c/p\u003e\u003cp\u003eStep 2: Calculate current cross rate\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e(USD/AUD) = (EUR/AUD) × (USD/EUR)\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 1.3900\u0026nbsp;× 0.7500\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 1.0425\u003c/p\u003e",
+                    "ea121162-c6e9-4ddb-acca-e54271fe474b": "\u003cp\u003eIncorrect. It incorrectly subtracts forward premium from 1.\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e(1 – 400/10000) × 1.43 = 1.3728\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e1.3728 × 0.75 = 1.0296\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ea121162-c6e9-4ddb-acca-e54271fe474b",
+                            "itemBody": "\u003cp\u003eA. 1.0296.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "dc5ccb7f-5bf8-4bb1-8008-126d159c5e29",
+                            "itemBody": "\u003cp\u003eB. 1.0425.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8c595a8e-df78-4c16-9864-283d66406366",
+                            "itemBody": "\u003cp\u003eC. 1.1154.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8599,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53636",
+            "entry": {
+                "title": "ITEM_20170531124",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst reviews the following information on exchange rates and interest rates:\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003cp\u003eNew Zealand dollar (NZD) to British pound (GBP) spot exchange rate: 2.0979\u003c/p\u003e\u003c/li\u003e\n\u003cli\u003e\u003cp\u003eMarket reference\u0026nbsp;rate\u0026nbsp;for the British pound: 1.6025%\u003c/p\u003e\u003c/li\u003e\n\u003cli\u003e\u003cp\u003eMarket reference\u0026nbsp;rate\u0026nbsp;for the New Zealand dollar: 3.2875%\u003c/p\u003e\u003c/li\u003e\n\u003cli\u003e\u003cp\u003eMarket reference rates\u0026nbsp;are quoted on a 360-day year basis\u003c/p\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eThe 180-day forward points (scaled up by four decimal places) in NZD/GBP is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d9c092d0-5e93-4839-bcd6-38fc4412140b"
+                },
+                "answerFeedback": {
+                    "1c86cbe1-7b60-4e42-91ef-c7c3a7458db6": "\u003cp\u003eIncorrect. It inverts the currencies.\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eGBP investment: ₤2.0979 × (1 + 0.016025 × 180/360) = ₤2.1147\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eNZD investment: NZ$1 × (1 + 0.032875 × 180/360) = NZ$1.0164\u003c/p\u003e\u003cp\u003eThe forward rate is determined by equating these two terminal amounts:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eNZD/GBP forward rate = NZ$1.0164/₤2.1147 = 0.4806\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eInverted Spot: 1/2.0979 = 0.47667\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eForward points = (Forward – Spot) × 10,000\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= (0.4806– 0.4767) × 10,000\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 39\u003c/p\u003e",
+                    "88b4adfe-9219-413e-934a-b57d9b559306": "\u003cp\u003eIncorrect. It ignores the half-year time frame of the contract:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eGBP investment: ₤1 × (1 + 0.016025) = ₤1.016025\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eNZD investment: NZ$2.0979 × (1 + 0.032875) = NZ$2.16687\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eNZD/GBP forward rate = NZ$2.16687/₤1.016025 = 2.1327\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eForward points = (Forward – Spot) × 10,000\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= (2.1327 – 2.0979) × 10,000\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 347.9\u003c/p\u003e",
+                    "d9c092d0-5e93-4839-bcd6-38fc4412140b": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Covered interest arbitrage will ensure identical terminal values by investing the same initial amounts at the respective country’s domestic interest rates:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eGBP investment: ₤1 × (1 + 0.016025 × 180/360) = ₤1.008013\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eNZD investment: NZ$2.0979 × (1 + 0.032875 × 180/360) = NZ$2.13238\u003c/p\u003e\u003cp\u003eThe forward rate is determined by equating these two terminal amounts:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eNZD/GBP forward rate = NZ$2.13238/₤1.008013 = 2.115429\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eForward points = (Forward – Spot) × 10,000\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= (2.1155– 2.0979) × 10,000\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 175.3 =176 (rounded)\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1c86cbe1-7b60-4e42-91ef-c7c3a7458db6",
+                            "itemBody": "\u003cp\u003eA. 39.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d9c092d0-5e93-4839-bcd6-38fc4412140b",
+                            "itemBody": "\u003cp\u003eB. 176.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "88b4adfe-9219-413e-934a-b57d9b559306",
+                            "itemBody": "\u003cp\u003eC. 348.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8599,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53637",
+            "entry": {
+                "title": "ITEM_20190530014",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eA currency trader observes the following rates:\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 352px; border-style: none none solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr style=\"border-top: 1px solid #000000;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 273px; max-width: 273px;\"\u003eSpot exchange rate (\u003ci\u003eS\u003csub\u003ef\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e/\u003c/sub\u003e\u003ci\u003e\u003csub\u003ed\u003c/sub\u003e\u003c/i\u003e)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 72px; max-width: 72px;\"\u003e1.7550\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 273px; max-width: 273px;\"\u003e12-month forward rate (\u003ci\u003eF\u003csub\u003ef\u003c/sub\u003e\u003c/i\u003e\u003csub\u003e/\u003c/sub\u003e\u003ci\u003e\u003csub\u003ed\u003c/sub\u003e\u003c/i\u003e)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 72px; max-width: 72px;\"\u003e1.7900\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 273px; max-width: 273px;\"\u003eDomestic 12-month risk-free rate\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 72px; max-width: 72px;\"\u003e3.00%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 273px; max-width: 273px;\"\u003eForeign 12-month risk-free rate\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 72px; max-width: 72px;\"\u003e4.50%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eA riskless arbitrage profit exists that is \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eclosest\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e\u0026nbsp;to:\u003c/span\u003e\u003c/p\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fa561e80-f206-412f-87f1-322941a4f9e9"
+                },
+                "answerFeedback": {
+                    "6072c50a-2b65-4ea6-941c-60a35738b0e2": "\u003cp\u003eIncorrect. The return on the hedged foreign investment was incorrectly subtracted from the foreign risk-free rate: 4.50% – 2.46% = 2.04%.\u003c/p\u003e",
+                    "e83dd3bb-1ac4-4219-9ff5-7f284904599d": "\u003cp\u003eIncorrect. 2.46% is the return on the hedged foreign investment.\u003c/p\u003e",
+                    "fa561e80-f206-412f-87f1-322941a4f9e9": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The trader would be able to earn a riskless arbitrage profit of 0.54%, calculated as follows:\u003c/p\u003e\u003cp\u003eReturn on the hedged foreign investment: \u003cem\u003eS\u003csub\u003ef\u003c/sub\u003e\u003c/em\u003e\u003csub\u003e/\u003c/sub\u003e\u003cem\u003e\u003csub\u003ed\u003c/sub\u003e\u003c/em\u003e(1 + \u003cem\u003ei\u003csub\u003ef\u003c/sub\u003e\u003c/em\u003e)[1/\u003cem\u003eF\u003csub\u003ef\u003c/sub\u003e\u003c/em\u003e\u003csub\u003e/\u003c/sub\u003e\u003cem\u003e\u003csub\u003ed\u003c/sub\u003e\u003c/em\u003e] = 1.7550(1.045)[1/1.7900] = 1.0246 = 2.46%.\u003c/p\u003e\u003cp\u003eRiskless arbitrage profit = Domestic risk-free rate – Return on the hedged foreign investment: 3.00% – 2.46% = 0.54%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fa561e80-f206-412f-87f1-322941a4f9e9",
+                            "itemBody": "\u003cp\u003eA. 0.54%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6072c50a-2b65-4ea6-941c-60a35738b0e2",
+                            "itemBody": "\u003cp\u003eB. 2.04%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e83dd3bb-1ac4-4219-9ff5-7f284904599d",
+                            "itemBody": "\u003cp\u003eC. 2.46%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8599,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53638",
+            "entry": {
+                "title": "ITEM_20170531125",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor examines the following rate quotes for the Brazilian real (BRL) and the Australian dollar (AUD) and shorts BRL500,000.\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003cp\u003eSpot rate BRL/AUD: 2.1128\u003c/p\u003e\u003c/li\u003e\n\u003cli\u003e\u003cp\u003eBRL 1-year interest rate: 4.1%\u003c/p\u003e\u003c/li\u003e\n\u003cli\u003e\u003cp\u003eForward rate BRL/AUD: 2.1388\u003c/p\u003e\u003c/li\u003e\n\u003cli\u003e\u003cp\u003eAUD 1-year interest rate: 3.1%\u003c/p\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eThe risk-free arbitrage profit that is available is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "da4c7e32-1733-4f36-8064-6f9874aef660"
+                },
+                "answerFeedback": {
+                    "546b914a-81c9-463f-a77d-452be12f10bc": "\u003cp\u003eIncorrect. The right side of the equation uses inverted exchange rates in Steps One and Three and 4.1% in Step Two.\u003c/p\u003e\n\u003cp\u003eStep One: BRL500,000 × (2.1128AUD/BRL) = AUD1,056,400\u003c/p\u003e\n\u003cp\u003eStep Two: AUD1,056,400 × (1.041) = AUD1,099,712\u003c/p\u003e\n\u003cp\u003eStep Three: AUD1,099,712 × (1/2.1388) = BRL514,173\u003c/p\u003e\n\u003cp\u003eArbitrage profit = BRL514,173 (right side above) – BRL520,500 (left side above) = –6,327\u003c/p\u003e",
+                    "8c11f308-55c3-4523-bf24-aed93aecde0f": "\u003cp\u003eIncorrect. The right side of the equation uses 4.1% and thus 1.041 incorrectly in Step Two.\u003c/p\u003e\u003cp\u003eStep One: BRL500,000 × (1/2.1128AUD/BRL) = AUD236,653\u003c/p\u003e\u003cp\u003eStep Two: AUD236,653 × (1.041) = AUD246,355\u003c/p\u003e\u003cp\u003eStep Three: AUD246,355 × 2.1388 = BRL526,905\u003c/p\u003e\u003cp\u003eArbitrage profit = BRL526,905 (right side above) – BRL520,500 (left side above) = 6,405\u003c/p\u003e",
+                    "da4c7e32-1733-4f36-8064-6f9874aef660": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The equation below is often called the “covered interest arbitrage relationship” because if it is not satisfied, a risk-free arbitrage opportunity exists. It is based on the required equivalence of the two possible investment paths: if the two paths do not produce the same terminal result, an arbitrage profit exists.\u003c/p\u003e\n\u003cp\u003e\u003cimg style=\"height: auto; width: 100%;\" src=\"https://inst-fs-pdx-prod.inscloudgate.net/files/c68046bf-ab1d-4eaf-8c44-ad6f4d807acd/MAX17009-MC-Ff.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6Im5ldy1xdWl6emVzL21haW4ifQ.eyJyZXNvdXJjZSI6Ii9maWxlcy9jNjgwNDZiZi1hYjFkLTRlYWYtOGM0NC1hZDZmNGQ4MDdhY2QvTUFYMTcwMDktTUMtRmYucG5nIiwidGVuYW50X2F1dGgiOnsibG9jYXRpb24iOiJiYW5rLzk4NDMwMDAwMDAwMDAwOTA1In0sImV4cCI6MTc2MTc4NzgxMiwiaWF0IjoxNzYxNzQxMDEyLCJpc3MiOiJuZXctcXVpenplcyIsImF1ZCI6Imh0dHBzOi8vaW5zdC1mcy1wZHgtcHJvZC5pbnNjbG91ZGdhdGUubmV0In0.VLMyVfEycB-A9OSVDZVpw95C2ZsjlHJs1jGAjYy1Tpi6F0thYgXIIytngCaT1EICgFiXYHWWcGTacpt1EQxC8A\" alt=\"A diagram made up of 5 boxes arranged in a square shape.  Arrows link all the boxes, except on linked with arrows.\" data-old-link=\"/courses/848/files/78391/preview?verifier=HG8t4O1USZxAeanbvsfCvgOwAIBvLWARQP1Fimiy\"\u003e\u003c/p\u003e\n\u003cdetails id=\"MAX17009-MC-Ff-extended-desc\" class=\"dp-panels-wrapper\" style=\"font-size: 10pt; margin-top: 20px;\"\u003e\n\u003csummary class=\"dp-panel-outside-panel\"\u003eExpand / Collapse Extended Description\u003c/summary\u003e\n\u003cp class=\"dp-panel-outside-panel\"\u003eTop left: Domestic Funds. An arrow labeled Invest at domestic rate leads to the right, to Future value of domestic funds. An arrow leads down from Domestic Funds to 1 Convert to foreign currency. 2 Enter forward contract for later conversion back to domestic currency. An arrow labeled Invest at foreign rate leads to Future value of foreign funds. An arrow leads up to Future value of domestic funds, but with Convert back to domestic currency using forward contract halfway up the arrow.\u003c/p\u003e\n\u003c/details\u003e\n\u003cp\u003e\u003cmath style=\"font-family: Arial;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmi\u003ef\u003c/mi\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmi\u003ef\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmi\u003ef\u003c/mi\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp\u003ewhere,\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem\u003eS\u003csub\u003ef/d\u003c/sub\u003e\u003c/em\u003e = Spot rate: number of units of foreign currency (price currency) per one unit of domestic currency\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem\u003eF\u003csub\u003ef/d\u003c/sub\u003e\u003c/em\u003e = Forward rate: number of units of foreign currency (price currency) per one unit of domestic currency\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem\u003ei\u003csub\u003ed\u003c/sub\u003e\u003c/em\u003e = Domestic interest rate\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem\u003ei\u003csub\u003ef\u003c/sub\u003e\u003c/em\u003e = Foreign interest rate\u003c/p\u003e\n\u003cp\u003eThe left-hand side is 1 plus the return that is earned domestically. The right-hand side represents 1 plus the return from converting to foreign currency at the spot rate, investing at the foreign rate, and converting back to domestic currency using the forward rate.\u003c/p\u003e\n\u003cp\u003eThe arbitrage profit is the right side of the equation minus the left side.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eLeft Side of Equation:\u003c/strong\u003e BRL500,000 × (1 + 0.041) = BRL520,500\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eRight Side of Equation:\u003c/strong\u003e\u003c/p\u003e\n\u003ctable style=\"width: 606px;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center; width: 84px; max-width: 84px;\"\u003e\u003cstrong\u003eStep\u0026nbsp;\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 303px; max-width: 303px;\"\u003e\u003cstrong\u003eTransaction\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 210px; max-width: 210px;\"\u003e\u003cstrong\u003eExplanation\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center; width: 84px; max-width: 84px;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 303px; max-width: 303px;\"\u003eBRL500,000 × (1/2.1128AUD/BRL) = AUD236,653\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 210px; max-width: 210px;\"\u003eConvert domestic to foreign\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center; width: 84px; max-width: 84px;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 303px; max-width: 303px;\"\u003eAUD236,653 × (1.031) = AUD243,989\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 210px; max-width: 210px;\"\u003eInvest foreign at foreign rate\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center; width: 84px; max-width: 84px;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 303px; max-width: 303px;\"\u003eAUD243,989 × 2.1388 = BRL521,844\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 210px; max-width: 210px;\"\u003eConvert foreign to domestic\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eArbitrage profit = BRL521,844 – BRL520,500= BRL1,344\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "546b914a-81c9-463f-a77d-452be12f10bc",
+                            "itemBody": "\u003cp\u003eA. –BRL6,327.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "da4c7e32-1733-4f36-8064-6f9874aef660",
+                            "itemBody": "\u003cp\u003eB. BRL1,344.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8c11f308-55c3-4523-bf24-aed93aecde0f",
+                            "itemBody": "\u003cp\u003eC. BRL6,405.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8599,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53639",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-Econ-Erickson-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf the spot rate for AUD/USD (amount of AUD per 1 USD) is 1.4780 and the 1-month forward points are –16.0, the 1-month forward rate for AUD/USD is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9d04b202-86f8-4420-9a59-f5bf0b26da31"
+                },
+                "answerFeedback": {
+                    "98d6c395-d642-4157-9158-e81f2718c7f8": "\u003cp\u003eIncorrect because to convert any of these quoted forward points into a forward rate, one would divide the number of points by 10,000 (to scale down to the fourth decimal place, the last decimal place in the spot quote) and then add the result to the spot exchange rate quote.\u0026nbsp;The forward points were incorrectly divided by 100 and the forward rate was calculated as follows: –16/100 + 1.4780 = –0.16 + 1.4780 = 1.3180.\u0026nbsp;\u003c/p\u003e",
+                    "9d04b202-86f8-4420-9a59-f5bf0b26da31": "\u003cp\u003e\u003cstrong\u003eCorrect \u003c/strong\u003ebecause to convert any of these quoted forward points into a forward rate, one would divide the number of points by 10,000 (to scale down to the fourth decimal place, the last decimal place in the spot quote) and then add the result to the spot exchange rate quote.\u0026nbsp;The forward points are negative and therefore the forward rate = –16/10,000 + 1.4780 = –0.0016 + 1.4780 = 1.4764.\u0026nbsp;\u003c/p\u003e",
+                    "adb6d628-dfd6-4817-b698-3bda1044208c": "\u003cp\u003eIncorrect because to convert any of these quoted forward points into a forward rate, one would divide the number of points by 10,000 (to scale down to the fourth decimal place, the last decimal place in the spot quote) and then add the result to the spot exchange rate quote.\u0026nbsp;In this case the forward points have been treated as a positive number as follows: 16/10,000 + 1.4780 = 0.0016 + 1.4780 = 1.4796.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "98d6c395-d642-4157-9158-e81f2718c7f8",
+                            "itemBody": "\u003cp\u003eA. 1.3180.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9d04b202-86f8-4420-9a59-f5bf0b26da31",
+                            "itemBody": "\u003cp\u003eB. 1.4764.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "adb6d628-dfd6-4817-b698-3bda1044208c",
+                            "itemBody": "\u003cp\u003eC. 1.4796.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8599,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4255,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {},
+    "scored_data": {
+        "points": 5,
+        "points_possible": 23
+    }
+}

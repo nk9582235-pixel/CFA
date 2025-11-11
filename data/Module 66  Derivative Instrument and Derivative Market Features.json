@@ -1,0 +1,1295 @@
+{
+    "user_id": 239466,
+    "quiz_id": 5965,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 20,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 1: Derivative Instrument and Derivative Market Features",
+        "topic_id": 1037,
+        "topic": "CFA-26-02-LI-C: Derivatives",
+        "subtopic_id": 5965,
+        "subtopic": "Module 1: Derivative Instrument and Derivative Market Features",
+        "question_count": 20,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 853,
+                "name": "Warehouse Course: Derivatives 26-LI",
+                "code": "Warehouse Course: Derivatives 26-LI",
+                "module_id": 4482,
+                "question_count": 15,
+                "type": "warehouse"
+            },
+            {
+                "id": 844,
+                "name": "Practice Pack Warehouse: Derivatives 26-LI",
+                "code": "Practice Pack Warehouse: Derivatives 26-LI",
+                "module_id": 4735,
+                "question_count": 5,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 20.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "84032cd8347660b9",
+        "ordered_item_ids": [
+            "56263",
+            "56264",
+            "56265",
+            "56266",
+            "56267",
+            "51115",
+            "51116",
+            "51117",
+            "51118",
+            "51119",
+            "51122",
+            "53894",
+            "53895",
+            "53896",
+            "53897",
+            "53898",
+            "53899",
+            "53900",
+            "53901",
+            "53902",
+            "53903"
+        ],
+        "visible_item_ids": [
+            "56263",
+            "56264",
+            "56265",
+            "56266",
+            "56267",
+            "51115",
+            "51116",
+            "51117",
+            "51118",
+            "51119",
+            "51122",
+            "53894",
+            "53895",
+            "53896",
+            "53897",
+            "53898",
+            "53899",
+            "53900",
+            "53901",
+            "53902",
+            "53903"
+        ]
+    },
+    "items": [
+        {
+            "id": "56263",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Deriv-Kennan-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCompared to over-the-counter (OTC) derivatives that are not cleared, the credit risk of exchange-traded derivatives is\u0026nbsp;\u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "410fcfc5-fa12-442d-9f78-2c1911b6dd01"
+                },
+                "answerFeedback": {
+                    "39206ac0-72d1-4993-9ce3-1ca400a1711b": "\u003cp\u003eIncorrect because\u0026nbsp;derivative exchanges require collateral on deposit upon inception and during the life of a trade in order to minimize counterparty credit risk. This deposit is paid by each counterparty via a financial intermediary to the exchange, which then provides a guarantee against counterparty default,\u0026nbsp;whereas\u0026nbsp;OTC (over-the-counter)\u0026nbsp;instruments have less transparency, usually involve more counterparty risk.\u0026nbsp;Therefore, compared to OTC derivatives that are not cleared, the credit risk of exchange-traded derivatives is lower, not higher.\u003c/p\u003e",
+                    "410fcfc5-fa12-442d-9f78-2c1911b6dd01": "\u003cp\u003eCorrect because derivative exchanges require collateral on deposit upon inception and during the life of a trade in order to minimize counterparty credit risk. This deposit is paid by each counterparty via a financial intermediary to the exchange, which then provides a guarantee against counterparty default,\u0026nbsp;whereas OTC (over-the-counter)\u0026nbsp;instruments have less transparency, usually involve more counterparty risk.\u0026nbsp;Therefore, compared to OTC derivatives that are not cleared, the credit risk of exchange-traded derivatives is lower.\u003c/p\u003e",
+                    "88864cfe-5c82-45f2-b94b-764592c06e6c": "\u003cp\u003eIncorrect because\u0026nbsp;derivative exchanges require collateral on deposit upon inception and during the life of a trade in order to minimize counterparty credit risk. This deposit is paid by each counterparty via a financial intermediary to the exchange, which then provides a guarantee against counterparty default,\u0026nbsp;whereas\u0026nbsp;OTC (over-the-counter)\u0026nbsp;instruments have less transparency, usually involve more counterparty risk.\u0026nbsp;Therefore, compared to OTC derivatives that are not cleared, the credit risk of exchange-traded derivatives is lower, not the same.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "410fcfc5-fa12-442d-9f78-2c1911b6dd01",
+                            "itemBody": "\u003cp\u003eA. lower.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "88864cfe-5c82-45f2-b94b-764592c06e6c",
+                            "itemBody": "\u003cp\u003eB. the same.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "39206ac0-72d1-4993-9ce3-1ca400a1711b",
+                            "itemBody": "\u003cp\u003eC. higher.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8969,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4735,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56264",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Bangaruswamy-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements is \u003ci\u003emost\u003c/i\u003e accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "58fd9cc2-eda7-4c00-a1f9-b365768b1907"
+                },
+                "answerFeedback": {
+                    "58fd9cc2-eda7-4c00-a1f9-b365768b1907": "\u003cp\u003eCorrect because other derivative underlyings include weather, cryptocurrencies, and longevity, all of which can influence the financial performance of various market participants.\u0026nbsp;Therefore, longevity is an example of an underlying of a derivative.\u0026nbsp;\u003c/p\u003e",
+                    "bab2c1ec-6fe8-49d4-a164-8739137f0cda": "\u003cp\u003eIncorrect because\u0026nbsp;a distinct derivative contract, such as a derivative on a stock or bond, is an example of a\u0026nbsp;stand-alone derivative. An\u0026nbsp;embedded derivative\u0026nbsp;is a derivative within an underlying, such as a callable, puttable, or convertible bond.\u0026nbsp;Therefore, convertible bond is not a stand-alone derivative, but an embedded derivative.\u003c/p\u003e",
+                    "f019421e-05b8-4e29-88ef-49e5c3a1e885": "\u003cp\u003eIncorrect because a\u0026nbsp;derivative does not directly pass through the returns of the underlying but transforms the performance of the underlying.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "58fd9cc2-eda7-4c00-a1f9-b365768b1907",
+                            "itemBody": "\u003cp\u003eA. Longevity is an example of an underlying of a derivative\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "bab2c1ec-6fe8-49d4-a164-8739137f0cda",
+                            "itemBody": "\u003cp\u003eB. A convertible bond is an example of a stand-alone\u0026nbsp;derivative\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f019421e-05b8-4e29-88ef-49e5c3a1e885",
+                            "itemBody": "\u003cp\u003eC. Derivatives directly pass through the returns of the underlying\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8969,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4735,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56265",
+            "entry": {
+                "title": "ITEM_2019BDeriv01EWL10U1",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eDerivatives derive their performance from:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "186c1f60-4145-4467-85c9-b2062f8ce840"
+                },
+                "answerFeedback": {
+                    "0efe7193-de5c-40ca-9c26-61d936d0d67d": "\u003cp\u003eIncorrect because derivatives are subject to the risk of default. Forward contracts are subject to default. This also applies to swaps, where either party can default but only one party can default at a particular time. While a credit derivative provides protection… against a specific credit loss, it does not eliminate the risk of default.\u003c/p\u003e",
+                    "186c1f60-4145-4467-85c9-b2062f8ce840": "\u003cp\u003eCorrect because the most common definition of a derivative\u0026nbsp;is a financial instrument that derives its performance from the performance of the underlying asset.\u003c/p\u003e",
+                    "82f0c590-2be9-4ecc-95f7-ed8074be51ec": "\u003cp\u003eIncorrect because the transformation of performance\u0026nbsp;for the case of derivatives is a critical, factor distinguishing derivatives from mutual funds and exchange-traded funds and some other straight pass-through instruments.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "186c1f60-4145-4467-85c9-b2062f8ce840",
+                            "itemBody": "\u003cp\u003eA. the performance of the underlying asset.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0efe7193-de5c-40ca-9c26-61d936d0d67d",
+                            "itemBody": "\u003cp\u003eB. eliminating the risk of counterparty default.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "82f0c590-2be9-4ecc-95f7-ed8074be51ec",
+                            "itemBody": "\u003cp\u003eC. the straight pass-through performance of the underlying.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8969,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4735,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56266",
+            "entry": {
+                "title": "ITEM_CFA-L1-05207",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-size:16px\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eCompared to over-the-counter (OTC) derivative markets, exchange-traded derivative markets \u003ci\u003emost likely\u003c/i\u003e have greater:\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e4b3e4a2-9e98-4253-8cb8-71cc9321f4de"
+                },
+                "answerFeedback": {
+                    "2e3f2db3-cb25-42ad-99de-b87506a6bd57": "\u003cp\u003e\u003cspan\u003e\u003cspan\u003eIncorrect because exchange-traded derivatives are standardized, whereas OTC derivatives are customized.\u0026nbsp;Therefore, exchange-traded derivatives markets have lower customization than OTC derivatives markets. \u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "618a0304-cc0a-4cef-a2e5-ff8e98fb8ecd": "\u003cp\u003e\u003cspan\u003eIncorrect because the OTC markets for derivatives\u0026nbsp;will remain considerably more flexible than the exchange-listed markets.\u0026nbsp;Therefore, exchange-traded derivatives markets have lower level of flexibility than OTC derivatives markets.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                    "e4b3e4a2-9e98-4253-8cb8-71cc9321f4de": "\u003cp\u003e\u003cspan\u003eCorrect because many transactions in OTC markets will retain a degree of privacy with lower transparency. In contrast, exchange markets are said to have transparency, which means that full information on all transactions is disclosed to exchanges and regulatory bodies.\u0026nbsp;Therefore, exchange-traded derivatives markets have greater transparency than OTC derivatives markets.\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "618a0304-cc0a-4cef-a2e5-ff8e98fb8ecd",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eflexibility.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e4b3e4a2-9e98-4253-8cb8-71cc9321f4de",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003etransparency.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2e3f2db3-cb25-42ad-99de-b87506a6bd57",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ecustomization.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8969,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4735,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56267",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Berlinicke-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following derivative underlyings is an example of a soft commodity?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0a048ee5-6cb1-4170-9602-d44005a04b6d"
+                },
+                "answerFeedback": {
+                    "0a048ee5-6cb1-4170-9602-d44005a04b6d": "\u003cp\u003eCorrect because soft commodities are agricultural products, such as cattle and corn, and hard commodities are natural resources, such as crude oil and metals.\u0026nbsp;Also, crude oil, soybeans, copper, and gold are all commodities. Commodities are considered either 'hard'\u0026nbsp;(those mined, such as copper, or extracted, such as oil) or 'soft'\u0026nbsp;(those grown over a period of time, such as livestock, grains, and cash crops, such as coffee).\u003c/p\u003e",
+                    "66c7cbb0-bf9b-49c8-b608-4a363aa3fc5d": "\u003cp\u003eIncorrect because, despite its physical (liquid) nature, crude oil is categorized as\u0026nbsp;a hard commodity since it is a natural resource. Soft commodities are agricultural products, such as cattle and corn, and hard commodities are natural resources, such as crude oil and metals.\u003c/p\u003e",
+                    "de321bee-dc19-4be1-a03b-4ad353dca507": "\u003cp\u003eIncorrect because gold is a metal and hence a hard commodity. Soft commodities are agricultural products, such as cattle and corn, and hard commodities are natural resources, such as crude oil and metals.\u0026nbsp;Also, crude oil, soybeans, copper, and gold are all commodities. Commodities are considered either 'hard'\u0026nbsp;(those mined, such as copper, or extracted, such as oil) or 'soft'\u0026nbsp;(those grown over a period of time, such as livestock, grains, and cash crops, such as coffee).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "de321bee-dc19-4be1-a03b-4ad353dca507",
+                            "itemBody": "\u003cp\u003eA. Gold\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "66c7cbb0-bf9b-49c8-b608-4a363aa3fc5d",
+                            "itemBody": "\u003cp\u003eB. Crude oil\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0a048ee5-6cb1-4170-9602-d44005a04b6d",
+                            "itemBody": "\u003cp\u003eC. Soybeans\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8969,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4735,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51115",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMontau AG is a German capital goods producer that manufactures its products domestically and delivers its products to clients globally. Montau’s global sales manager shares the following draft commercial contract with his Treasury team:\u003c/p\u003e\n\u003cdiv id=\"CFA2374-s004-T-2-c\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; background-color: inherit !important; border-top: 2px solid #CCCCCC; border-bottom: none !important; border-right: none; border-left: none; text-align: center; margin-top: .84em !important;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003e\u003cspan style=\"display: block;\"\u003eMontau AG Commercial Export Contract\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; width: 100.072%;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"\u003e\u003cstrong\u003eContract Date:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\"\u003e[Today]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"\u003e\u003cstrong\u003eGoods Seller:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\"\u003eMontau AG, Frankfurt, Germany\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"\u003e\u003cstrong\u003eGoods Buyer:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\"\u003eJeon Inc., Seoul, Korea\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"\u003e\u003cstrong\u003eDescription of Goods:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\"\u003eA-Series Laser Cutting Machine\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"\u003e\u003cstrong\u003eQuantity:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\"\u003eOne\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"\u003e\u003cstrong\u003eDelivery Terms:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\"\u003eFreight on Board (FOB), Busan Korea with all shipping, tax and delivery costs payable by Goods Buyer\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"\u003e\u003cstrong\u003eDelivery Date:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\"\u003e[75 Days from Contract Date]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"\u003e\u003cstrong\u003ePayment Terms:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\"\u003e100% of Contract Price payable by Goods Buyer to Good Seller on Delivery Date\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"\u003e\u003cstrong\u003eContract Price:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\"\u003eKRW650,000,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMontau AG’s Treasury manager is tasked with addressing the financial risk of this prospective transaction.\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8247,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51116",
+            "entry": {
+                "title": "CFA2374-s004-Q6",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. A 75-day timing difference exists between the commercial contract date and the delivery date when Montau AG is paid for the machine in KRW. A is true but does not explain why the use of a derivative is preferable to a spot market transaction. If as in C Montau were to sell the KRW it receives and buy EUR in a spot market transaction on the delivery date, it would be exposed to unfavorable changes in the KRW/EUR exchange rate over the 75-day period. A derivative contract in which the underlying KRW/EUR forward rate is agreed today and exchanged on the delivery date allows Montau to hedge or offset the EUR value of the future KRW payment. The derivative is therefore a more suitable contract to address the financial risk of the commercial transaction than a spot market sale of KRW.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements best describes why Montau AG should consider a\n                  derivative rather than a spot market transaction to manage the financial risk of\n                  this commercial contract?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b44cc41d-533b-4a65-abea-c5915a0809b3"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "65e3712d-0a7c-46d8-a120-5a05bdb15e2a",
+                            "itemBody": "A. Montau AG is selling a machine at a contract price in KRW and incurs costs based in EUR.",
+                            "position": 1
+                        },
+                        {
+                            "id": "b44cc41d-533b-4a65-abea-c5915a0809b3",
+                            "itemBody": "B. Montau AG faces a 75-day timing difference between the commercial contract date and the delivery date when Montau AG is paid for the machine in KRW.",
+                            "position": 2
+                        },
+                        {
+                            "id": "90b8930e-6a0c-4e5d-ae7c-cfec60ce400d",
+                            "itemBody": "C. Montau AG is unable to sell KRW today in order to offset the contract price of machinery delivered to Jeon Inc.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8247,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": "51115"
+        },
+        {
+            "id": "51117",
+            "entry": {
+                "title": "CFA2374-s004-Q7",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The derivative best suited to hedge Montau’s financial risk is a firm commitment derivative in which a pre-determined amount is exchanged at settlement. The derivative underlying should be currencies, specifically the sale of KRW at a fixed EUR price in the future to offset or hedge the financial risk of the commercial contract. The machine price referenced under B is not considered an underlying, and C hedges the opposite of Montau’s underlying exposure.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following types of derivative and underlyings are best suited to\n                  hedge Montau’s financial risk under the commercial transaction?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8ae9b722-2af8-4758-af48-3f0da43330b8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8ae9b722-2af8-4758-af48-3f0da43330b8",
+                            "itemBody": "A. Montau AG should consider a firm commitment derivative with currency as an underlying, specifically the sale of KRW at a fixed EUR price.",
+                            "position": 1
+                        },
+                        {
+                            "id": "14c4b800-582d-4261-9c66-9dbd1ca54e90",
+                            "itemBody": "B. Montau AG should consider a contingent claim derivative with the price of the machine as its underlying, specifically an A-series laser cutting machine.",
+                            "position": 2
+                        },
+                        {
+                            "id": "20061007-da77-4f03-945b-ca4694cf9d2f",
+                            "itemBody": "C. Montau AG should consider a contingent claim derivative with currency as an underlying, specifically the sale of EUR at a fixed KRW price.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8247,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": "51115"
+        },
+        {
+            "id": "51118",
+            "entry": {
+                "title": "CFA2374-s004-Q8",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct as per the following diagram:\u003c/p\u003e\n\u003cfigure id=\"CFA2374-s004-EXH-2-2\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; background-color: #fff !important; overflow: auto;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 16pt !important; padding-top: 15px; text-align: center; line-height: 1.5; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"\u003eExhibit 2\u003c/h2\u003e\n\u003cdiv style=\"border: 2px solid #ccc; padding: 15px; background-color: #fff !important; overflow: auto;\"\u003e\u003cimg id=\"CFA2374-s004-EXH-2-2\" style=\"width: clamp(100px, 100%, 300px); height: auto; display: block; margin-left: auto; margin-right: auto;\" src=\"https://quiz-api-production-s3-uploads-pdx.s3.us-west-2.amazonaws.com/quiz_assets/ad215b1d-362f-4f66-9289-bc5a556fe02b/475422d3416172bdb40787cafcc75fdb.png\" alt=\"Montau AG at top, and financial intermediary at bottom. Montau AG offers 650,000,000 KRW to financial intermediary shown by downward arrow. Financial intermediary offers fixed EUR amount at KRW/EUR forward rate to Montau represented by upward arrow.\"\u003e\u003c/div\u003e\n\u003cdetails id=\"CFA2374-s004-EXH-2-2-extended-desc\" class=\"dp-panels-wrapper\" style=\"font-size: 10pt; padding-top: 15px;\"\u003e\n\u003csummary class=\"dp-panel-outside-panel\"\u003eExpand / Collapse Extended Description\u003c/summary\u003e\n\u003cp class=\"dp-panel-outside-panel\"\u003eMontau AG at top and financial intermediary at bottom. Montau AG offers 650,000,000 KRW to financial intermediary represented by downward arrow. Financial intermediary offers fixed EUR amount at KRW forward slash EUR forward rate to Montau AG represented by upward arrow.\u003c/p\u003e\n\u003c/details\u003e\u003c/figure\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIdentify A, B, and C in the correct order in the following diagram, as in \u003cstrong\u003eExhibit 1\u003c/strong\u003e, for the derivative to hedge Montau's financial risk under the commercial transaction.\u003c/p\u003e\n\u003cfigure id=\"CFA2374-s004-EXH-2-1\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; background-color: #fff !important; overflow: auto;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 16pt !important; text-align: center; line-height: 1.5; padding: 15px; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"\u003eExhibit 1\u003c/h2\u003e\n\u003cimg id=\"CFA2374-s004-EXH-2-1\" style=\"width: clamp(100px, 100%, 200px); height: auto; display: block; margin-left: auto; margin-right: auto;\" src=\"https://quiz-api-production-s3-uploads-pdx.s3.us-west-2.amazonaws.com/quiz_assets/ad215b1d-362f-4f66-9289-bc5a556fe02b/9ce0c07c37fe4f8b40c2485988f815eb.png\" alt=\"Montau AG at the top, and A at the bottom. Montau AG through C is followed by A shown by a downward arrow. A leads to Montau AG through B shown by an upward arrow.\"\u003e\u003c/figure\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0fd9b6c1-5433-4f77-bbfe-147dbec8f985"
+                },
+                "answerFeedback": {
+                    "15fb50d5-8aff-402e-be59-51e28bc3ca94": ""
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "15fb50d5-8aff-402e-be59-51e28bc3ca94",
+                            "itemBody": "A. A: Financial intermediary, B: KRW650,000,000, C: Fixed EUR amount",
+                            "position": 1
+                        },
+                        {
+                            "id": "388d61eb-b875-40e5-9daf-2103fde250bf",
+                            "itemBody": "B. A: Jeon Inc., B: KRW650,000,000, C: Fixed EUR amount",
+                            "position": 2
+                        },
+                        {
+                            "id": "0fd9b6c1-5433-4f77-bbfe-147dbec8f985",
+                            "itemBody": "C. A: Financial intermediary, B: Fixed EUR amount, C: KRW650,000,000.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8247,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": "51115"
+        },
+        {
+            "id": "51119",
+            "entry": {
+                "title": "CFA2374-s004-Q9",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The OTC market is most appropriate for Montau, as OTC contracts may be customized to match Montau’s desired risk exposure profile. This is important to end users seeking to hedge a specific underlying exposure based upon non-standard terms. Montau would be unlikely to find an ETD contract under B that matches the exact size and maturity date of its desired hedge, which also makes C incorrect.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements about the most appropriate derivative market to\n                  hedge Montau AG’s financial risk under the commercial contract is most\n                  accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b98bceb0-3249-4415-9d6b-f68621935584"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b98bceb0-3249-4415-9d6b-f68621935584",
+                            "itemBody": "A. The OTC market is most appropriate for Montau, as it is able to customize the contract to match its desired risk exposure profile.",
+                            "position": 1
+                        },
+                        {
+                            "id": "43e01644-bc9c-4a96-b4fa-a9750c8fe461",
+                            "itemBody": "B. The ETD market is most appropriate for Montau, as it offers a standardized and transparent contract to match its desired risk exposure profile.",
+                            "position": 2
+                        },
+                        {
+                            "id": "530ea581-d4cb-46ec-9bd0-a8e9176cfb3c",
+                            "itemBody": "C. Both the ETD and OTC markets are appropriate for Montau AG to hedge its financial risk under the transaction, so it should choose the market with the best price.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8247,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": "51115"
+        },
+        {
+            "id": "51122",
+            "entry": {
+                "title": "CFA2374-s004-Q10",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. In a centrally cleared OTC derivative contract, the central counterparty becomes the counterparty in all contracts and assumes the credit risk associated with individual derivative contracts. A is likely incorrect because the CCP takes actions to ensure that it can fulfill its obligations to its counterparties. C is incorrect because the CCP inserts itself between parties with opposite positions.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf Montau enters into a centrally cleared derivative contract on the OTC market,\n                  which of the following statements about credit risk associated with the derivative\n                  is most likely correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "388961e3-5abe-4fac-a384-2a0e83857f1b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a5d3f668-2ed3-43f0-86c1-a7262b674d54",
+                            "itemBody": "A. Montau faces credit risk associated with the possibility that its counterparty to the contract may not fulfill its contractual obligation.",
+                            "position": 1
+                        },
+                        {
+                            "id": "388961e3-5abe-4fac-a384-2a0e83857f1b",
+                            "itemBody": "B. Montau poses a credit risk to its counterparty because it may fail to fulfill its contractual obligation.",
+                            "position": 2
+                        },
+                        {
+                            "id": "f18faa28-1ee4-4a0d-a586-825b50b17b66",
+                            "itemBody": "C. Montau poses a credit risk to a derivative contract end user holding a contract with the opposite features of Montau’s.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8247,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": "51115"
+        },
+        {
+            "id": "53894",
+            "entry": {
+                "title": "ITEM_20170601014",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA derivative can \u003ci\u003ebest \u003c/i\u003ebe described as a financial instrument that:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e8ea618a-ce5e-4677-bb02-090f2375b816"
+                },
+                "answerFeedback": {
+                    "9816586a-7315-4e32-9230-60a3b14d7a3d": "\u003cp\u003eIncorrect. A derivative transforms the performance of the underlying asset rather than passing through the returns of the underlying asset.\u003c/p\u003e",
+                    "db15928f-b844-481a-8200-a2e49a5281d7": "\u003cp\u003eIncorrect. A derivative transforms the performance of the underlying asset rather than duplicating the performance of the underlying asset.\u003c/p\u003e",
+                    "e8ea618a-ce5e-4677-bb02-090f2375b816": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The best characterization of a derivative is that it typically transforms the underlying asset’s performance.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "db15928f-b844-481a-8200-a2e49a5281d7",
+                            "itemBody": "\u003cp\u003eA. duplicates the underlying asset’s performance.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e8ea618a-ce5e-4677-bb02-090f2375b816",
+                            "itemBody": "\u003cp\u003eB. transforms the underlying asset’s performance.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9816586a-7315-4e32-9230-60a3b14d7a3d",
+                            "itemBody": "\u003cp\u003eC. passes through the underlying asset’s returns.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8682,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53895",
+            "entry": {
+                "title": "ITEM_20170601016",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following derivatives is \u003ci\u003eleast likely\u003c/i\u003e to be classified as a contingent claim?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6b7ab2a4-b936-4a4a-bc6f-92c53848bf6d"
+                },
+                "answerFeedback": {
+                    "6b7ab2a4-b936-4a4a-bc6f-92c53848bf6d": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A futures contract is classified as a forward commitment in which the buyer undertakes to purchase the underlying asset from the seller at a later date and at a price agreed on by the two parties when the contract is initiated.\u003c/p\u003e",
+                    "bddf1ccb-99f8-4115-ae1e-be999ad5ea54": "\u003cp\u003eIncorrect. A credit default swap is a contingent claim in which the credit protection seller provides protection to the credit protection buyer against the credit risk of a third party.\u003c/p\u003e",
+                    "da81bd23-171b-46cc-a3e6-a2d06736af59": "\u003cp\u003eIncorrect. A call option contract is a contingent claim in which the buyer of the option has a right to purchase the underlying asset at a fixed price on or before a pre-specified expiration date.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6b7ab2a4-b936-4a4a-bc6f-92c53848bf6d",
+                            "itemBody": "\u003cp\u003eA. A futures contract\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "da81bd23-171b-46cc-a3e6-a2d06736af59",
+                            "itemBody": "\u003cp\u003eB. A call option contract\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bddf1ccb-99f8-4115-ae1e-be999ad5ea54",
+                            "itemBody": "\u003cp\u003eC. A credit default swap\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8682,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53896",
+            "entry": {
+                "title": "ITEM_20170601020",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn contrast to over-the-counter options, futures contracts \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0da0cb78-bbaa-4519-9a8b-0950d5841666"
+                },
+                "answerFeedback": {
+                    "0da0cb78-bbaa-4519-9a8b-0950d5841666": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Over-the-counter options are exposed to default risk, but futures contracts are standardized transactions that take place on futures exchanges and are not exposed to default risk.\u003c/p\u003e",
+                    "883065a6-a77e-4c1c-9cd9-494b9f73f841": "\u003cp\u003eIncorrect. Futures contracts are commitments, but options represent a right.\u003c/p\u003e",
+                    "d7072120-102b-4be9-a890-e83df41be91d": "\u003cp\u003eIncorrect. Futures contracts are not private; they are standardized instruments that trade on organized exchanges.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0da0cb78-bbaa-4519-9a8b-0950d5841666",
+                            "itemBody": "\u003cp\u003eA. are not exposed to default risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d7072120-102b-4be9-a890-e83df41be91d",
+                            "itemBody": "\u003cp\u003eB. are private, customized transactions.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "883065a6-a77e-4c1c-9cd9-494b9f73f841",
+                            "itemBody": "\u003cp\u003eC. represent a right rather than a commitment.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8682,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53897",
+            "entry": {
+                "title": "ITEM_20170601037",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of these is \u003ci\u003ebest\u003c/i\u003e classified as a forward commitment?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6ff11456-74e3-4963-886a-22f3e114eb3f"
+                },
+                "answerFeedback": {
+                    "3398561d-f3fd-42db-8249-315e790a6610": "\u003cp\u003eIncorrect. A call option is an example of a contingent claim.\u003c/p\u003e",
+                    "6ff11456-74e3-4963-886a-22f3e114eb3f": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A swap agreement is equivalent to a series of forward agreements, which can be described as forward commitments.\u003c/p\u003e",
+                    "fa26943a-396f-470f-8dea-46a5dba48d5b": "\u003cp\u003eIncorrect. A convertible bond does not meet the definition of a forward commitment.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3398561d-f3fd-42db-8249-315e790a6610",
+                            "itemBody": "\u003cp\u003eA. A call option\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fa26943a-396f-470f-8dea-46a5dba48d5b",
+                            "itemBody": "\u003cp\u003eB. A convertible bond\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6ff11456-74e3-4963-886a-22f3e114eb3f",
+                            "itemBody": "\u003cp\u003eC. A swap agreement\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8682,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53898",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Glover-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following derivative contracts\u0026nbsp;is \u003ci\u003ebest\u003c/i\u003e described as a contingent claim?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bb5d512a-4911-4588-87f8-3363a3cd737e"
+                },
+                "answerFeedback": {
+                    "bb5d512a-4911-4588-87f8-3363a3cd737e": "\u003cp\u003eCorrect because another type of derivative is a contingent claim, in which one of the counterparties determines whether and when the trade will settle.\u0026nbsp;An option is the primary contingent claim.\u003c/p\u003e",
+                    "bd5f35ac-397b-4244-952b-8dbaa3a0e0cd": "\u003cp\u003eIncorrect because derivative contracts can be classified as either firm commitments or contingent claims. Firm\u0026nbsp;commitments include forward contracts, futures contracts, and swaps involving a\u0026nbsp;periodic exchange of cash flows and an option is the primary contingent claim.\u003c/p\u003e",
+                    "e09a5552-9b29-43cc-949a-6f4ce120a1a5": "\u003cp\u003eIncorrect because\u0026nbsp;derivative contracts can be classified as either firm commitments or contingent claims. Firm\u0026nbsp;commitments include forward contracts, futures contracts, and swaps involving a\u0026nbsp;periodic exchange of cash flows\u0026nbsp;and an option is the primary contingent claim.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e09a5552-9b29-43cc-949a-6f4ce120a1a5",
+                            "itemBody": "\u003cp\u003eA. A swap contract\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "bd5f35ac-397b-4244-952b-8dbaa3a0e0cd",
+                            "itemBody": "\u003cp\u003eB. A forward contract\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bb5d512a-4911-4588-87f8-3363a3cd737e",
+                            "itemBody": "\u003cp\u003eC. An option\u0026nbsp;contract\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8682,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53899",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Lee-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCompared to over-the-counter derivatives, exchange-traded derivatives:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6baa289a-aad9-440c-ab9b-63b008364810"
+                },
+                "answerFeedback": {
+                    "621d2a80-ffdc-4eb8-a647-5e1c873e2b1e": "\u003cp\u003eIncorrect because OTC and ETD markets differ in several ways, including that ETD contracts are more standardized.\u003c/p\u003e",
+                    "6baa289a-aad9-440c-ab9b-63b008364810": "\u003cp\u003eCorrect because OTC and ETD markets differ in several ways, including that ETD contracts have lower trading and transaction costs.\u003c/p\u003e",
+                    "f82e55ef-fb88-4d55-9a0e-3d816f32acea": "\u003cp\u003eIncorrect because OTC and ETD markets differ in several ways, including that OTC instruments have less transparency, whereas ETD markets have transparency.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "621d2a80-ffdc-4eb8-a647-5e1c873e2b1e",
+                            "itemBody": "\u003cp\u003eA. are less standardized.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f82e55ef-fb88-4d55-9a0e-3d816f32acea",
+                            "itemBody": "\u003cp\u003eB. provide less transparency.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6baa289a-aad9-440c-ab9b-63b008364810",
+                            "itemBody": "\u003cp\u003eC. have lower transaction costs.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8682,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53900",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Kashyap-05",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following\u0026nbsp;\u003ci\u003emost likely\u003c/i\u003e has an embedded derivative in its structure?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4275a65c-8bd9-4840-a60e-0ab0326fb0e9"
+                },
+                "answerFeedback": {
+                    "07d099c8-ee79-4a53-a2df-6e6930917074": "\u003cp\u003eIncorrect because a stand-alone derivative, is\u0026nbsp;a distinct derivative contract, such as a derivative on a stock or bond.\u0026nbsp;A put option is therefore a stand-alone derivative not an embedded derivative.\u003c/p\u003e",
+                    "4275a65c-8bd9-4840-a60e-0ab0326fb0e9": "\u003cp\u003eCorrect because an embedded derivative is a derivative within an underlying, such as a callable, puttable, or convertible bond.\u003c/p\u003e",
+                    "bb9f63ce-f7de-4aec-b5d6-1e5bf0972738": "\u003cp\u003eIncorrect because a stand-alone derivative, is\u0026nbsp;a distinct derivative contract, such as a derivative on a stock or bond.\u0026nbsp;A futures contract is also a distinct\u0026nbsp;derivative contract as it is not embedded in the underlying asset.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "07d099c8-ee79-4a53-a2df-6e6930917074",
+                            "itemBody": "\u003cp\u003eA. A put option\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4275a65c-8bd9-4840-a60e-0ab0326fb0e9",
+                            "itemBody": "\u003cp\u003eB. A callable bond\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bb9f63ce-f7de-4aec-b5d6-1e5bf0972738",
+                            "itemBody": "\u003cp\u003eC. A futures contract\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8682,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53901",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Kashyap-07",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn the over-the-counter\u0026nbsp;derivatives market,\u0026nbsp;\u003ci\u003emost\u003c/i\u003e\u0026nbsp;transactions occur between end users and:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bdb3fd25-2c4e-4394-88c5-dea5d513a20d"
+                },
+                "answerFeedback": {
+                    "4d78f3a2-0587-4f59-8657-1d755bc66b5e": "\u003cp\u003eIncorrect because end users do not generally trade with other end users. OTC\u0026nbsp;derivative markets involve contracts entered between derivatives end users and dealers, or financial intermediaries, such as commercial banks or investment banks.\u003c/p\u003e",
+                    "ba21540b-658f-4692-9eeb-8e4b2aca9738": "\u003cp\u003eIncorrect because the central counterparty provides clearing and settlement functions rather than trading derivatives. A central counterparty (CCP) assumes the credit risk between derivative counterparties, one of which is typically a financial intermediary. CCPs provide clearing and settlement for most derivative contracts.\u003c/p\u003e",
+                    "bdb3fd25-2c4e-4394-88c5-dea5d513a20d": "\u003cp\u003eCorrect because OTC (over-the-counter)\u0026nbsp;derivative markets involve contracts entered between derivatives end users and dealers, or financial intermediaries, such as commercial banks or investment banks.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bdb3fd25-2c4e-4394-88c5-dea5d513a20d",
+                            "itemBody": "\u003cp\u003eA. dealers.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4d78f3a2-0587-4f59-8657-1d755bc66b5e",
+                            "itemBody": "\u003cp\u003eB. other end users.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ba21540b-658f-4692-9eeb-8e4b2aca9738",
+                            "itemBody": "\u003cp\u003eC. a central counterparty.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8682,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53902",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Kashyap-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn\u0026nbsp;end user\u0026nbsp;seeking to hedge a specific underlying exposure having non-standard size and settlement dates would\u0026nbsp;\u003ci\u003emost likely\u0026nbsp;\u003c/i\u003etrade on a(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "567388e4-1375-40df-8191-3edef7c4f5cc"
+                },
+                "answerFeedback": {
+                    "4dd1ab74-5380-4232-bf48-7e48b18b062c": "\u003cp\u003eIncorrect because ETD (exchange-traded derivative) contracts are more formal and standardized, which facilitates a more liquid and transparent market. Terms and conditions—such as the size of each contract, type, quality, and location of underlying for commodities and maturity date—are set by the exchange.\u003c/p\u003e",
+                    "54b050d2-5eb8-4857-8e78-afadf0ad7b4c": "\u003cp\u003eIncorrect because futures contracts are forward contracts with standardized sizes, dates, and underlyings that trade on futures exchanges.\u0026nbsp;Therefore, they are inappropriate for the non-standard size and settlement dates required by the end user.\u003c/p\u003e",
+                    "567388e4-1375-40df-8191-3edef7c4f5cc": "\u003cp\u003eCorrect because the terms of OTC (over-the-counter) contracts can be customized to match a desired risk exposure profile. This flexibility is important to end users seeking to hedge a specific existing or anticipated underlying exposure based upon non-standard terms.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "54b050d2-5eb8-4857-8e78-afadf0ad7b4c",
+                            "itemBody": "\u003cp\u003eA. futures market.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "567388e4-1375-40df-8191-3edef7c4f5cc",
+                            "itemBody": "\u003cp\u003eB. over-the-counter derivative market.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4dd1ab74-5380-4232-bf48-7e48b18b062c",
+                            "itemBody": "\u003cp\u003eC. exchange-traded derivative market.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8682,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53903",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.08-Deriv-Tyler-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe following portfolios contain a company's stock and a derivative on the stock:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"width: 68px; max-width: 68px; text-align: left;\" scope=\"col\"\u003e\u003cstrong\u003ePortfolio\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"width: 344px; max-width: 344px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eSecurities\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 68px; max-width: 68px; text-align: left;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"width: 344px; max-width: 344px; text-align: center;\"\u003eStock and a short futures position\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 68px; max-width: 68px; text-align: left;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"width: 344px; max-width: 344px; text-align: center;\"\u003eStock and a short call option position\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 68px; max-width: 68px; text-align: left;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"width: 344px; max-width: 344px; text-align: center;\"\u003eStock and a short warrant position\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe portfolio containing a derivative acting as a firm commitment to hedge the stock is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "00b9e2f3-8f41-4b17-90ae-7acef0e4f7a3"
+                },
+                "answerFeedback": {
+                    "00b9e2f3-8f41-4b17-90ae-7acef0e4f7a3": "\u003cp\u003eCorrect because the buyer of a derivative enters a contract whose value changes in a way similar to a long position in the underlying.\u0026nbsp;Thus a short futures position hedges the exposure to the underlying: Use of a derivative to offset or neutralize existing or anticipated exposure to an underlying is referred to as hedging, with the derivative itself commonly described as a hedge of the underlying transaction.\u0026nbsp;In addition, a futures position is a firm commitment:\u0026nbsp;Firm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows.\u003c/p\u003e",
+                    "72872603-8a7c-433a-b0af-6b9c85cac533": "\u003cp\u003eIncorrect because a warrant is a type of option and an option is an example of a contingent claim rather than a firm commitment. Firm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows. Another type of derivative is a contingent claim, in which one of the counterparties determines whether and when the trade will settle. An option is the primary contingent claim. Companies may also issue warrants, which are options granted to employees or sold to the public that allow holders to purchase shares at a fixed price in the future directly from the issuer.\u003c/p\u003e",
+                    "bfc76074-75ce-4c52-8af1-b77f7cd7d765": "\u003cp\u003eIncorrect because an option is an example of a contingent claim rather than a firm commitment. Firm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows. Another type of derivative is a contingent claim, in which one of the counterparties determines whether and when the trade will settle. An option is the primary contingent claim.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "00b9e2f3-8f41-4b17-90ae-7acef0e4f7a3",
+                            "itemBody": "\u003cp\u003eA. Portfolio 1.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "bfc76074-75ce-4c52-8af1-b77f7cd7d765",
+                            "itemBody": "\u003cp\u003eB. Portfolio 2.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "72872603-8a7c-433a-b0af-6b9c85cac533",
+                            "itemBody": "\u003cp\u003eC. Portfolio 3.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8682,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4482,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

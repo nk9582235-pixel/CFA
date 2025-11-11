@@ -1,0 +1,1329 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6143,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 21,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 3: Analyzing Balance Sheets",
+        "topic_id": 1034,
+        "topic": "CFA-26-02-LI-C: Financial Statement Analysis",
+        "subtopic_id": 6143,
+        "subtopic": "Module 3: Analyzing Balance Sheets",
+        "question_count": 21,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 850,
+                "name": "Warehouse Course: Financial Statement Analysis 26-LI",
+                "code": "Warehouse Course: Financial Statement Analysis 26-LI",
+                "module_id": 4445,
+                "question_count": 17,
+                "type": "warehouse"
+            },
+            {
+                "id": 841,
+                "name": "Practice Pack Warehouse: Financial Statement Analysis 26-LI",
+                "code": "Practice Pack Warehouse: Financial Statement Analysis 26-LI",
+                "module_id": 4662,
+                "question_count": 4,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 21.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "9a34184e81cb75a3",
+        "ordered_item_ids": [
+            "54759",
+            "54760",
+            "54761",
+            "54762",
+            "50943",
+            "50944",
+            "50945",
+            "50946",
+            "50947",
+            "50948",
+            "50949",
+            "50950",
+            "50951",
+            "50952",
+            "50953",
+            "50954",
+            "50955",
+            "50956",
+            "50957",
+            "50958",
+            "53675",
+            "53676"
+        ],
+        "visible_item_ids": [
+            "54759",
+            "54760",
+            "54761",
+            "54762",
+            "50943",
+            "50944",
+            "50945",
+            "50946",
+            "50947",
+            "50948",
+            "50949",
+            "50950",
+            "50951",
+            "50952",
+            "50953",
+            "50954",
+            "50955",
+            "50956",
+            "50957",
+            "50958",
+            "53675",
+            "53676"
+        ]
+    },
+    "items": [
+        {
+            "id": "54759",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-FRA-Lin-17",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information (in\u0026nbsp;€ millions) about a company:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 261px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 199px; max-width: 199px;\"\u003eCash and cash equivalents\u003c/td\u003e\n\u003ctd style=\"width: 48px; max-width: 48px; text-align: center;\"\u003e40\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 199px; max-width: 199px;\"\u003eTotal current assets\u003c/td\u003e\n\u003ctd style=\"width: 48px; max-width: 48px; text-align: center;\"\u003e125\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 199px; max-width: 199px;\"\u003eTotal non-current assets\u003c/td\u003e\n\u003ctd style=\"width: 48px; max-width: 48px; text-align: center;\"\u003e35\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 199px; max-width: 199px;\"\u003eRevenue\u003c/td\u003e\n\u003ctd style=\"width: 48px; max-width: 48px; text-align: center;\"\u003e200\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eApplying vertical common-size analysis to the company's balance sheet, cash and cash equivalents are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "31eda0f1-7627-4e72-b584-9bf6af3e6187"
+                },
+                "answerFeedback": {
+                    "31eda0f1-7627-4e72-b584-9bf6af3e6187": "\u003cp\u003eCorrect because vertical common-size analysis involves stating each balance sheet item as a percentage of total assets. Accordingly, Cash and cash equivalents is stated as a percentage of Total assets = Cash and cash equivalents / (Total current assets + Total non-current assets) = 40 / (125 + 35) = 40 / 160 = 25%.\u003c/p\u003e",
+                    "4005bafc-186c-431a-910b-bd138558d631": "\u003cp\u003eIncorrect because it states Cash and cash equivalents as percentage of Revenue instead of Total assets. Consequently, the calculation becomes Cash and cash equivalents / Revenue = 40 / 200 = 20%. Alternatively, double counting Cash and cash equivalents when calculating Total assets would produce the same result. Consequently, Cash and cash equivalents = Cash and cash equivalents / (Cash and cash equivalents + Total current assets + Total non-current assets) = 40\u0026nbsp;/ (40\u0026nbsp;+ 125\u0026nbsp;+ 35) = 40\u0026nbsp;/ 200 = 20%.\u003c/p\u003e",
+                    "4744a9de-5708-43be-be07-878bd0e91ef1": "\u003cp\u003eIncorrect because it states Cash and cash equivalents as percentage of Total current assets instead of Total assets.\u0026nbsp;Consequently, the calculation becomes Cash and cash equivalents / Total\u0026nbsp;current assets\u0026nbsp;= 40\u0026nbsp;/ 125 = 32%.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4005bafc-186c-431a-910b-bd138558d631",
+                            "itemBody": "\u003cp\u003eA. 20%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "31eda0f1-7627-4e72-b584-9bf6af3e6187",
+                            "itemBody": "\u003cp\u003eB. 25%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4744a9de-5708-43be-be07-878bd0e91ef1",
+                            "itemBody": "\u003cp\u003eC. 32%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8822,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4662,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54760",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-FRA-Pitrakkou-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAccounting goodwill arising from acquisitions\u0026nbsp;is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0c72057a-7f67-4e54-b3c0-5d3cf223fe08"
+                },
+                "answerFeedback": {
+                    "0c72057a-7f67-4e54-b3c0-5d3cf223fe08": "\u003cp\u003eCorrect\u0026nbsp;because under both IFRS and US GAAP, accounting goodwill arising from acquisitions is capitalized. Goodwill is not amortised but is tested for impairment annually. If goodwill is deemed to be impaired, an impairment loss is charged against income in the current period.\u003c/p\u003e",
+                    "95bb0d9a-fea2-403c-96f1-1f672c56993f": "\u003cp\u003eIncorrect because under both IFRS and US GAAP, accounting goodwill arising from acquisitions is capitalized.\u003c/p\u003e",
+                    "b0394f27-fee5-4804-958a-3c9105d58eb1": "\u003cp\u003eIncorrect because under both IFRS and US GAAP, accounting goodwill arising from acquisitions is capitalized. Goodwill is not amortised but is tested for impairment annually. If goodwill is deemed to be impaired, an impairment loss is charged against income in the current period.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "95bb0d9a-fea2-403c-96f1-1f672c56993f",
+                            "itemBody": "\u003cp\u003eA. expensed in the period it arises.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b0394f27-fee5-4804-958a-3c9105d58eb1",
+                            "itemBody": "\u003cp\u003eB. capitalized and amortized over a finite period.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0c72057a-7f67-4e54-b3c0-5d3cf223fe08",
+                            "itemBody": "\u003cp\u003eC. capitalized and tested for impairment\u0026nbsp;annually.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8822,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4662,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54761",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-FRA-Burke-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA company reporting under US GAAP purchases an equity\u0026nbsp;security issued by another company.\u0026nbsp; If the equity security\u0026nbsp;represents less than 1% of the outstanding equity of the issuing company and the acquiring company owns no other equity stake in the issuing company, the investment is \u003ci\u003emost likely\u003c/i\u003e carried on the acquiring company's balance sheet at:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fcec4767-2d04-46cd-99b4-bd027aff2bd0"
+                },
+                "answerFeedback": {
+                    "b76a4016-3bed-42b4-8419-1fd1be8406e6": "\u003cp\u003eIncorrect because\u0026nbsp;under US GAAP, all investments in equity securities (other than investments giving rise to ownership positions that confer significant influence over the investee) are measured at fair value with unrealized holding gains or losses recognized in the income statement.\u003c/p\u003e",
+                    "ccf34ab0-5803-42a6-8c7c-ef284d233c92": "\u003cp\u003eIncorrect because\u0026nbsp;under US GAAP, all investments in equity securities (other than investments giving rise to ownership positions that confer significant influence over the investee) are measured at fair value with unrealized holding gains or losses recognized in the income statement.\u003c/p\u003e",
+                    "fcec4767-2d04-46cd-99b4-bd027aff2bd0": "\u003cp\u003eCorrect because under US GAAP, all investments in equity securities (other than investments giving rise to ownership positions that confer significant influence over the investee) are measured at fair value with unrealized holding gains or losses recognized in the income statement.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ccf34ab0-5803-42a6-8c7c-ef284d233c92",
+                            "itemBody": "\u003cp\u003eA. amortized cost.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fcec4767-2d04-46cd-99b4-bd027aff2bd0",
+                            "itemBody": "\u003cp\u003eB. fair value with any unrealized holding gains/losses recognized in the income statement.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b76a4016-3bed-42b4-8419-1fd1be8406e6",
+                            "itemBody": "\u003cp\u003eC. fair value with any unrealized holding gains/losses recognized in other comprehensive income.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8822,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4662,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54762",
+            "entry": {
+                "title": "ITEM_CFA-L1-04274",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA copyright, for which an active market exists, has a set finite life and is used in a company's operations over more than one fiscal period. Under U.S. GAAP, this copyright is reported using:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0645fd3f-7512-4baf-b784-cbf2c066ce78"
+                },
+                "answerFeedback": {
+                    "0645fd3f-7512-4baf-b784-cbf2c066ce78": "\u003cp\u003eCorrect because, under US GAAP, companies are required to use the cost model to value intangible assets. IFRS allow companies to value intangible assets under a cost model or under a revaluation model. The revaluation model can only be selected when there is an active market for an intangible asset.\u003c/p\u003e",
+                    "40cb4f09-a4fb-4ba7-b15f-ce056a6b9c7e": "\u003cp\u003eIncorrect because the revaluation model is not allowed under US GAAP; however, IFRS permit the use of the revaluation model or the cost model.\u003c/p\u003e",
+                    "f5bf39b4-da53-49ef-8088-2bc31f57194e": "\u003cp\u003eIncorrect because the revaluation model is not allowed under US GAAP; however, IFRS permit the use of the revaluation model or the cost model.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0645fd3f-7512-4baf-b784-cbf2c066ce78",
+                            "itemBody": "\u003cp\u003eA. only the cost model.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f5bf39b4-da53-49ef-8088-2bc31f57194e",
+                            "itemBody": "\u003cp\u003eB. only the revaluation model.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "40cb4f09-a4fb-4ba7-b15f-ce056a6b9c7e",
+                            "itemBody": "\u003cp\u003eC. either the cost or the revaluation model.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8822,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4662,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50943",
+            "entry": {
+                "title": "CFA2419-R-s06-Q5",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Goodwill is a long-term asset, and cash and inventories are current assets.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAll of the following are current assets \u003cem\u003eexcept\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d8ce896b-f33c-4035-b3cd-20392d3f9ce7"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ff1691d7-dd9e-4379-9a0c-268e1043b17c",
+                            "itemBody": "\u003cp\u003eA. cash.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d8ce896b-f33c-4035-b3cd-20392d3f9ce7",
+                            "itemBody": "\u003cp\u003eB. goodwill.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "28987e12-493a-4708-8426-e4b0d5fa87eb",
+                            "itemBody": "\u003cp\u003eC. inventories.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50944",
+            "entry": {
+                "title": "CFA2419-R-s06-Q6",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Initially, goodwill is measured as the difference between the purchase price paid for an acquisition and the fair value of the acquired, not acquiring, company’s net assets (identifiable assets less liabilities).\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe initial measurement of goodwill is \u003cem\u003emost likely\u003c/em\u003e affected by:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "09027702-7247-436b-900a-eb0424df6f80"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "09027702-7247-436b-900a-eb0424df6f80",
+                            "itemBody": "\u003cp\u003eA. an acquisition’s purchase price.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b838e8ac-c8c4-4d7c-88c2-2a5924fe98b3",
+                            "itemBody": "\u003cp\u003eB. the acquired company’s book value.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "5c4bf1af-a003-470d-a9d5-6de5fe2a3750",
+                            "itemBody": "\u003cp\u003eC. the fair value of the acquirer’s assets and liabilities.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50945",
+            "entry": {
+                "title": "CFA2419-R-s06-Q7",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. For financial assets classified as trading securities, unrealized gains and losses are reported on the income statement and flow to shareholders’ equity as part of retained earnings.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFor financial assets classified as trading securities, how are unrealized gains and losses reflected in shareholders’ equity?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "affe2e2c-7a24-45e5-a977-54eb7058feb6"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "20adba32-e5d7-4995-9558-642cb1a84472",
+                            "itemBody": "\u003cp\u003eA. They are not recognized.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "affe2e2c-7a24-45e5-a977-54eb7058feb6",
+                            "itemBody": "\u003cp\u003eB. They flow through income into retained earnings.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "144c51d5-80c0-4676-9094-fd625a6ced9e",
+                            "itemBody": "\u003cp\u003eC. They are a component of accumulated other comprehensive income.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50946",
+            "entry": {
+                "title": "CFA2419-R-s06-Q8",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. For financial assets classified as available for sale, unrealized gains and losses are not recorded on the income statement and instead are part of \u003cem\u003eother\u003c/em\u003e comprehensive income. Accumulated other comprehensive income is a component of shareholders’ equity.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFor financial assets classified as available for sale, how are unrealized gains and losses reflected in shareholders’ equity?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0ed29ae7-9999-44be-8f4f-88e327fd2fc9"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "462078f8-4490-4cb5-b53e-da28ff03e609",
+                            "itemBody": "\u003cp\u003eA. They are not recognized.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b7ccdeb0-f50b-4b60-8b2b-98df607b1835",
+                            "itemBody": "\u003cp\u003eB. They flow through retained earnings.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0ed29ae7-9999-44be-8f4f-88e327fd2fc9",
+                            "itemBody": "\u003cp\u003eC. They are a component of accumulated other comprehensive income.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50947",
+            "entry": {
+                "title": "CFA2419-R-s06-Q9",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Financial assets classified as held to maturity are measured at amortized cost. Gains and losses are recognized only when realized.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFor financial assets classified as held to maturity, how are unrealized gains and losses reflected in shareholders’ equity?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "502f135d-b03a-4809-9e35-de3f0bfaef25"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "502f135d-b03a-4809-9e35-de3f0bfaef25",
+                            "itemBody": "\u003cp\u003eA. They are not recognized.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3cb90a1e-72c0-4e25-b204-bccab4f70a29",
+                            "itemBody": "\u003cp\u003eB. They flow through retained earnings.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6f66ff75-5bf5-41a7-af91-0c6ea36f834e",
+                            "itemBody": "\u003cp\u003eC. They are a component of accumulated other comprehensive income.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50948",
+            "entry": {
+                "title": "CFA2419-R-s06-Q10",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Vertical common-size analysis involves stating each balance sheet item as a percentage of total assets. Total assets are the sum of total liabilities (GBP35 million) and total stockholders’ equity (GBP55 million), or GBP90 million. Total liabilities are shown on a vertical common-size balance sheet as (GBP35 million ÷ GBP90 million) ≈ 39%.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA company has total liabilities of GBP35 million and total stockholders’ equity of GBP55 million. Total liabilities are represented on a vertical common-size balance sheet by a percentage \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "98ad9e44-6173-4b1a-86ea-e55e3a241a01"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "453c07c9-4d9a-493e-b664-d91f9fa46f66",
+                            "itemBody": "\u003cp\u003eA. 35 percent.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "98ad9e44-6173-4b1a-86ea-e55e3a241a01",
+                            "itemBody": "\u003cp\u003eB. 39 percent.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "adbc20bf-f644-4bf6-8f29-57d698c7e295",
+                            "itemBody": "\u003cp\u003eC. 64 percent.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50949",
+            "entry": {
+                "title": "CFA2419-R-s06-Q11",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. A common-size balance sheet analysis provides information about the composition of the balance sheet and it changes over time. As a result, it can provide information about an increase or decrease in a company’s financial leverage.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following would an analyst \u003cem\u003emost likely\u003c/em\u003e be able to determine from a common-size analysis of a company’s balance sheet over several periods?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "62901f78-f6ae-4f4e-a044-0b1617d96b94"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "64cf298f-be9b-4b5a-980e-5512a606a9d5",
+                            "itemBody": "\u003cp\u003eA. An increase or decrease in sales\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "62901f78-f6ae-4f4e-a044-0b1617d96b94",
+                            "itemBody": "\u003cp\u003eB. An increase or decrease in financial leverage\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9cbdac62-15ae-483f-8dd7-e06a698650df",
+                            "itemBody": "\u003cp\u003eC. A more efficient or less efficient use of assets\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50950",
+            "entry": {
+                "title": "CFA2419-R-s06-Q12",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Impairment write-downs reduce equity in the denominator of the debt-to-equity ratio but do not affect debt, so the debt-to-equity ratio is expected to increase. Impairment write-downs reduce total assets but do not affect revenue. Thus, total asset turnover is expected to increase.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDefining total asset turnover as revenue divided by average total assets, all else equal, impairment write-downs of long-lived assets owned by a company will \u003cem\u003emost likely\u003c/em\u003e result in an increase for that company in:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "05cb7296-6e8a-457b-aa88-b7ccc7c14029"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "28196d46-8e51-4124-af2c-5551f52925b3",
+                            "itemBody": "\u003cp\u003eA. the debt-to-equity ratio but not the total asset turnover.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fb592354-03f9-4ab0-a42e-46cbd5a54ba5",
+                            "itemBody": "\u003cp\u003eB. the total asset turnover but not the debt-to-equity ratio.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "05cb7296-6e8a-457b-aa88-b7ccc7c14029",
+                            "itemBody": "\u003cp\u003eC. both the debt-to-equity ratio and the total asset turnover.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50951",
+            "entry": {
+                "title": "CFA2419-R-s06-Q13",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The current ratio provides a comparison of assets that can be turned into cash relatively quickly and liabilities that must be paid within one year. The other ratios are more suited to evaluate longer-term concerns.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn investor concerned about a company’s ability to meet its near-term obligations is \u003cem\u003emost likely\u003c/em\u003e to calculate the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f2748953-7d44-4cf5-b254-b8f70a944981"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f2748953-7d44-4cf5-b254-b8f70a944981",
+                            "itemBody": "\u003cp\u003eA. current ratio.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4ceec864-c307-410e-b2cb-9228f8a66328",
+                            "itemBody": "\u003cp\u003eB. return on total capital.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "922dc6ff-d9b7-45bd-bbf6-77249b3f5789",
+                            "itemBody": "\u003cp\u003eC. financial leverage ratio.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50952",
+            "entry": {
+                "title": "CFA2419-R-s06-Q14",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The cash ratio determines how much of a company’s near-term obligations can be settled with existing amounts of cash and marketable securities.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe most stringent test of a company’s liquidity is its:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5d633c83-78c3-48ac-a7bc-30adea63a9b4"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5d633c83-78c3-48ac-a7bc-30adea63a9b4",
+                            "itemBody": "\u003cp\u003eA. cash ratio.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f747d5cc-f1b7-456c-b73b-2288323ee0c7",
+                            "itemBody": "\u003cp\u003eB. quick ratio.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "97b00e4e-9487-4a7d-a42f-30de7053ea17",
+                            "itemBody": "\u003cp\u003eC. current ratio.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50953",
+            "entry": {
+                "title": "CFA2419-R-s06-Q15",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The debt-to-equity ratio, a solvency ratio, is an indicator of financial risk.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn investor worried about a company’s long-term solvency would \u003cem\u003emost likely\u003c/em\u003e examine its:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dd36d5e9-e00b-4d76-a16e-781f0ecb7ffc"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5db38c79-9696-4c81-aace-325d8c686650",
+                            "itemBody": "\u003cp\u003eA. current ratio.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1f03768c-e0c9-480c-b671-9ff716988c6a",
+                            "itemBody": "\u003cp\u003eB. return on equity.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "dd36d5e9-e00b-4d76-a16e-781f0ecb7ffc",
+                            "itemBody": "\u003cp\u003eC. debt-to-equity ratio.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50954",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eConsider the common-size balance sheets in \u003cstrong\u003eExhibit 1\u003c/strong\u003e for Company A, Company B, as well as the industry average.\u003c/p\u003e\n\u003cdiv id=\"CFA2419-R-s06-EXH14\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003eExhibit 1\u003cspan style=\"display: block;\"\u003eBalance Sheet and Industry Average\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003e\u0026nbsp;\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003e\u0026nbsp;\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003e\u0026nbsp;\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eCompany A\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003e\u0026nbsp;\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eCompany B\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003e\u0026nbsp;\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eIndustry Average\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\" colspan=\"8\"\u003e\u003cstrong\u003eASSETS\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\" colspan=\"2\"\u003eCurrent assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCash and cash equivalents\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e7\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eMarketable securities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e2\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eAccounts receivable, net\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e15\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e12\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eInventories\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e15\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e20\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e16\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003ePrepaid expenses\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e15\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e11\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\" colspan=\"2\"\u003eTotal current assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e35\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e55\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e48\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eProperty, plant, and equipment, net\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e40\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e35\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e37\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eGoodwill\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e25\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e8\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eOther assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e10\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e7\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\" colspan=\"2\"\u003e\u003cstrong\u003eTotal assets\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e100\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e100\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e100\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\" colspan=\"8\"\u003e\u003cstrong\u003eLIABILITIES AND SHAREHOLDERS’ EQUITY\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\" colspan=\"2\"\u003eCurrent liabilities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eAccounts payable\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e10\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e10\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e10\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eShort-term debt\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e25\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e10\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e15\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eAccrued expenses\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e3\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\" colspan=\"2\"\u003eTotal current liabilities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e35\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e25\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e28\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eLong-term debt\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e45\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e20\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e28\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eOther non-current liabilities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e10\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e7\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\" colspan=\"2\"\u003eTotal liabilities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e80\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e55\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e63\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eTotal shareholders’ equity\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e20\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e45\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e37\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\" colspan=\"2\"\u003e\u003cstrong\u003eTotal liabilities and shareholders’ equity\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e100\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e100\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e100\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50955",
+            "entry": {
+                "title": "CFA2419-R-s06-Q16",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The presence of goodwill on Company A’s balance sheet signifies that it has made one or more acquisitions in the past. The current, cash, and quick ratios are lower for Company A than for the sector average. These lower liquidity ratios imply above-average liquidity risk. The total debt, long-term debt-to-equity, debt-to-equity, and financial leverage ratios are lower for Company B than for the sector average. These lower solvency ratios imply below-average solvency risk.\u003c/p\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA2419-R-s06-E\"\u003eCurrent ratio is (35 ÷ 35) = 1.00 for Company A, versus (48 ÷ 28) = 1.71 for the sector average.\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA2419-R-s06-E___1\"\u003eCash ratio is (5 + 5) ÷35 = 0.29 for Company A, versus (7 + 2) ÷28 = 0.32 for the sector average.\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA2419-R-s06-E___2\"\u003eQuick ratio is (5 + 5 + 5) ÷35 = 0.43 for Company A, versus (7 + 2 + 12) ÷28 = 0.75 for the sector average.\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA2419-R-s06-E___3\"\u003eTotal debt ratio is (55 ÷ 100) = 0.55 for Company B, versus (63 ÷ 100) = 0.63 for the sector average.\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA2419-R-s06-E___4\"\u003eLong-term debt-to-equity ratio is (20 ÷ 45) = 0.44 for Company B, versus (28 ÷ 37) = 0.76 for the sector average.\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA2419-R-s06-E___5\"\u003eDebt-to-equity ratio is (55 ÷ 45) = 1.22 for Company B, versus (63 ÷ 37) = 1.70 for the sector average.\u003c/div\u003e\u003cdiv style=\"display: block; margin-left: 1.618em; overflow-x: auto; padding: 10px 0; max-width: 100%; padding-bottom:.5rem;  box-sizing: border-box;\" id=\"CFA2419-R-s06-E___6\"\u003eFinancial leverage ratio is (100 ÷ 45) = 2.22 for Company B, versus (100 ÷ 37) = 2.70 for the sector average.\u003c/div\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich statement is correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4c152902-bc56-43b0-ab6a-2e2fc0847fae"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3c674f30-8bc7-446d-b988-5d65a4e18e87",
+                            "itemBody": "\u003cp\u003eA. Company A has below-average liquidity risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "95ee5882-c306-47e2-aff2-ea2874da9260",
+                            "itemBody": "\u003cp\u003eB. Company B has above-average solvency risk.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4c152902-bc56-43b0-ab6a-2e2fc0847fae",
+                            "itemBody": "\u003cp\u003eC. Company A has made one or more acquisitions.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": "50954"
+        },
+        {
+            "id": "50956",
+            "entry": {
+                "title": "CFA2419-R-s06-Q17",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The quick ratio is defined as (Cash and cash equivalents + Marketable securities + receivables) ÷ Current liabilities. For Company A, this calculation is (5 + 5 + 5) ÷ 35 = 0.43.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe quick ratio for Company A is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8743605c-9808-4b27-9ce5-cca3325e330f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8743605c-9808-4b27-9ce5-cca3325e330f",
+                            "itemBody": "\u003cp\u003eA. 0.43.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ceb498e2-c282-4a85-9fbe-132f0c7b1cf5",
+                            "itemBody": "\u003cp\u003eB. 0.57.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6411b6d2-0bb5-42f1-8f2e-be19b14a6209",
+                            "itemBody": "\u003cp\u003eC. 1.00.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": "50954"
+        },
+        {
+            "id": "50957",
+            "entry": {
+                "title": "CFA2419-R-s06-Q18",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The financial leverage ratio is defined as Total assets ÷ Total equity. For Company B, total assets are 100 and total equity is 45; hence, the financial leverage ratio is 100 ÷ 45 = 2.22.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe financial leverage ratio for Company B is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ed80d380-75e4-4e8c-b18e-6a33ef6b56cc"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3c20c3d8-242f-45f1-9981-b8004461458a",
+                            "itemBody": "\u003cp\u003eA. 0.55.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "63293eb6-090a-46c5-8a70-72c8c799b2b3",
+                            "itemBody": "\u003cp\u003eB. 1.22.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ed80d380-75e4-4e8c-b18e-6a33ef6b56cc",
+                            "itemBody": "\u003cp\u003eC. 2.22.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": "50954"
+        },
+        {
+            "id": "50958",
+            "entry": {
+                "title": "CFA2419-R-s06-Q19",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. A higher cash ratio reflects lower liquidity risk. The cash ratio is defined as (Cash + Marketable securities) ÷ Current liabilities. Company A’s cash ratio, (5 + 5) ÷ 35 = 0.29, is higher than (5 + 0) ÷ 25 = 0.20 for Company B.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich ratio indicates lower liquidity risk for Company A compared with Company B?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bb455ed9-7fd1-4091-ac60-936cde54265f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bb455ed9-7fd1-4091-ac60-936cde54265f",
+                            "itemBody": "\u003cp\u003eA. Cash ratio\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0d23d8fc-539f-4350-81b6-d657b9334493",
+                            "itemBody": "\u003cp\u003eB. Quick ratio\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1849262b-bef5-49b4-b4e3-fecfde3fc523",
+                            "itemBody": "\u003cp\u003eC. Current ratio\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8195,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": "50954"
+        },
+        {
+            "id": "53675",
+            "entry": {
+                "title": "ITEM_20180516130",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eDeferred tax liabilities result when:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d2e1fb46-8c59-4358-a5fd-7120c138d8dd"
+                },
+                "answerFeedback": {
+                    "a723ce07-efc3-4a3c-9441-e7bc396cbadf": "\u003cp\u003eIncorrect because if items of expense are included in financial statement income in earlier periods than those for which taxable income is reported, then the financial statement income and associated reported income tax expense will be less than taxable income and actual income tax payable. A deferred tax liability occurs only in the opposite case, when taxable income and income tax payable are smaller. Deferred tax liabilities result from timing differences between financial statement income and taxable income when taxable income is lower than financial statement income, not higher.\u003c/p\u003e",
+                    "d2e1fb46-8c59-4358-a5fd-7120c138d8dd": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Deferred tax liabilities result when, for a given period, taxable income and the associated income tax payable are less than the reported financial statement income before taxes and the associated income tax expense.\u003c/p\u003e",
+                    "e5ca825d-4754-418d-9b31-00edf52e1951": "\u003cp\u003eIncorrect because straight-line depreciation methods result in lower depreciation expense than accelerated methods. This approach would produce higher taxable income than financial statement income, with no resulting deferred tax liability.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d2e1fb46-8c59-4358-a5fd-7120c138d8dd",
+                            "itemBody": "\u003cp\u003eA. taxable income in a period is less than reported financial statement income before taxes.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a723ce07-efc3-4a3c-9441-e7bc396cbadf",
+                            "itemBody": "\u003cp\u003eB. items of expense are included in financial statement income in earlier periods than those for which taxable income is reported.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e5ca825d-4754-418d-9b31-00edf52e1951",
+                            "itemBody": "\u003cp\u003eC. straight-line depreciation methods are used for tax purposes and accelerated methods are employed for financial statement purposes.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8619,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53676",
+            "entry": {
+                "title": "ITEM_20180516134",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eUse the following common-size balance sheet information to answer the question below.\u003c/p\u003e\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 667px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"vertical-align: bottom; width: 321px; max-width: 321px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eAssets\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 115px; max-width: 115px;\" scope=\"col\"\u003e\u003cstrong\u003eCompany X\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 104px; max-width: 104px;\" scope=\"col\"\u003e\u003cstrong\u003eCompany Y\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 108px; max-width: 108px;\" scope=\"col\"\u003e\u003cstrong\u003eCompany Z\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eCash and cash equivalents\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e15.6%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e12.0%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e2.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eMarketable securities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e3.4%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e5.1%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e12.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eTrade and other receivables\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e10.9%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e12.7%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e4.8%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eOther non-financial assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e14.3%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e11.7%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e7.4%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eTotal current assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e44.2%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e41.5%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e26.2%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\" colspan=\"4\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eGoodwill\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e1.6%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e2.2%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e28.8%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eIntangible assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e17.6%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e7.0%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e24.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eProperty, plant, and equipment\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e17.7%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e25.3%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e8.2%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eOther financial assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e12.4%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e24.0%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e9.6%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eOther non-financial assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e0.3%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e0.0%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e2.1%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eDeferred tax assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e6.2%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e0.0%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e1.1%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eTotal non-current assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e55.8%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e58.5%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e73.8%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\" colspan=\"4\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eTotal assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e100.0%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e100.0%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e100.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\" colspan=\"4\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003e\u003cstrong\u003eLiabilities and shareholders’ equity\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 115px; max-width: 115px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 104px; max-width: 104px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 108px; max-width: 108px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eTrade and other payables\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e3.4%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e3.5%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e2.1%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eBank loans and other financial liabilities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e8.4%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e3.2%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e6.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eOther non-financial liabilities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e5.0%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e11.7%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e9.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eDeferred income\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e11.8%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e9.8%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e0.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eTotal current liabilities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e28.6%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e28.2%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e17.1%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eFinancial liabilities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e18.4%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e18.3%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e17.4%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eOther non-financial liabilities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e12.8%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e5.7%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e7.9%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eDeferred tax liabilities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e2.5%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e4.2%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e18.6%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eTotal non-current liabilities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e33.7%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e27.5%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e43.9%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eTotal liabilities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e62.3%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e55.7%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e61.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\" colspan=\"4\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eTotal shareholders’ equity\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e37.7%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e44.3%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e39.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 321px; max-width: 321px;\"\u003eTotal liabilities and shareholders’ equity\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 115px; max-width: 115px;\"\u003e100.0%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 104px; max-width: 104px;\"\u003e100.0%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e100.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003cp\u003eWhich company is\u003ci\u003e most likely\u003c/i\u003e to have grown through acquisitions?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2cde36f0-91b4-48a4-b63e-4c8b3ff301b3"
+                },
+                "answerFeedback": {
+                    "2cde36f0-91b4-48a4-b63e-4c8b3ff301b3": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Company Z has the highest percentage of assets in goodwill at 28.8%, with the other companies having much smaller percentages (1.6% for Company X and 2.2% for Company Y). Because goodwill is an asset recognized by acquirers purchasing companies at prices above the fair value of their identifiable assets and liabilities, it is most likely, given the great disparity in goodwill, that of these firms, Company Z has grown through acquisitions.\u003c/p\u003e",
+                    "858afe8d-4cb2-496d-9fbc-5001585eed9c": "\u003cp\u003eIncorrect because Company Y has 2.2% of its total assets allocated to goodwill, which is substantially less than the percentage for Company Z.\u003c/p\u003e",
+                    "da248287-e9b5-4dc7-9312-073f315ecce5": "\u003cp\u003eIncorrect because Company X has 1.6% of its total assets allocated to goodwill, which is substantially less than the percentage for Company Z.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "da248287-e9b5-4dc7-9312-073f315ecce5",
+                            "itemBody": "\u003cp\u003eA. Company X\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "858afe8d-4cb2-496d-9fbc-5001585eed9c",
+                            "itemBody": "\u003cp\u003eB. Company Y\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2cde36f0-91b4-48a4-b63e-4c8b3ff301b3",
+                            "itemBody": "\u003cp\u003eC. Company Z\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8619,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4445,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

@@ -1,0 +1,2154 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6061,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 35,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 1: Alternative Investment Features, Methods, and Structures",
+        "topic_id": 1038,
+        "topic": "CFA-26-02-LI-C: Alternative Investments",
+        "subtopic_id": 6061,
+        "subtopic": "Module 1: Alternative Investment Features, Methods, and Structures",
+        "question_count": 35,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 854,
+                "name": "Warehouse Course: Alternative Investments 26-LI",
+                "code": "Warehouse Course: Alternative Investments 26-LI",
+                "module_id": 4492,
+                "question_count": 15,
+                "type": "warehouse"
+            },
+            {
+                "id": 845,
+                "name": "Practice Pack Warehouse: Alternative Investments 26-LI",
+                "code": "Practice Pack Warehouse: Alternative Investments 26-LI",
+                "module_id": 4750,
+                "question_count": 20,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 35.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "3c5faf40572043db",
+        "ordered_item_ids": [
+            "56379",
+            "56380",
+            "56381",
+            "56382",
+            "56383",
+            "56384",
+            "56385",
+            "56386",
+            "56387",
+            "56388",
+            "56389",
+            "56390",
+            "56391",
+            "56392",
+            "56393",
+            "56394",
+            "56395",
+            "56396",
+            "56397",
+            "56398",
+            "51311",
+            "51312",
+            "51313",
+            "51314",
+            "51315",
+            "51316",
+            "51317",
+            "51318",
+            "53957",
+            "53958",
+            "53959",
+            "53960",
+            "53961",
+            "53962",
+            "53963"
+        ],
+        "visible_item_ids": [
+            "56379",
+            "56380",
+            "56381",
+            "56382",
+            "56383",
+            "56384",
+            "56385",
+            "56386",
+            "56387",
+            "56388",
+            "56389",
+            "56390",
+            "56391",
+            "56392",
+            "56393",
+            "56394",
+            "56395",
+            "56396",
+            "56397",
+            "56398",
+            "51311",
+            "51312",
+            "51313",
+            "51314",
+            "51315",
+            "51316",
+            "51317",
+            "51318",
+            "53957",
+            "53958",
+            "53959",
+            "53960",
+            "53961",
+            "53962",
+            "53963"
+        ]
+    },
+    "items": [
+        {
+            "id": "56379",
+            "entry": {
+                "title": "ITEM_CFA-L1-06578",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eVenture capital is \u003ci\u003ebest \u003c/i\u003eclassified as a sub-category of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bfd9c010-faea-4010-a65e-72d5ce8a2756"
+                },
+                "answerFeedback": {
+                    "01a09c41-d43a-413f-bf0e-12266083aae1": "\u003cp\u003eIncorrect because hedge funds are private investment vehicles that manage portfolios of securities and/or derivative positions using a variety of strategies. Although venture capital investments may be included in some hedge funds, venture capital is broadly considered a type of private equity investing, and is best classified as such.\u003c/p\u003e",
+                    "b8bc3998-8b02-46f2-9624-140dac28b7eb": "\u003cp\u003eIncorrect because real estate investments are made in buildings or land, either directly or indirectly. Although some venture capital investments may have a real estate component, venture capital is broadly considered a type of private equity investing, and is best classified as such.\u003c/p\u003e",
+                    "bfd9c010-faea-4010-a65e-72d5ce8a2756": "\u003cp\u003eCorrect because \u003cb\u003eventure capital funds\u003c/b\u003e, a specialized form of private equity that typically involves investing in or providing financing to startup or early-stage companies with high growth potential, represent a small portion of the private equity market.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b8bc3998-8b02-46f2-9624-140dac28b7eb",
+                            "itemBody": "\u003cp\u003eA. real estate.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "01a09c41-d43a-413f-bf0e-12266083aae1",
+                            "itemBody": "\u003cp\u003eB. hedge funds.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bfd9c010-faea-4010-a65e-72d5ce8a2756",
+                            "itemBody": "\u003cp\u003eC. private equity.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56380",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Alt-Burke-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eManagement fees are \u003ci\u003emost likely\u003c/i\u003e based on assets under management for:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a03c7a7d-108b-4a78-8c2b-ae382d7adbfb"
+                },
+                "answerFeedback": {
+                    "063181ec-dd51-46b9-8ec1-a439c6d45e7c": "\u003cp\u003eIncorrect because funds are generally structured with a management fee typically ranging from 1% to 2% of assets under management (e.g. for hedge funds) or committed capital (e.g. private equity funds), which is how much money in total that LP's have committed to the fund's future investments.\u003c/p\u003e",
+                    "30750005-b89d-4921-a35c-1bd9a56874b0": "\u003cp\u003eIncorrect because funds are generally structured with a management fee typically ranging from 1% to 2% of assets under management (e.g. for hedge funds) or committed capital (e.g. private equity funds), which is how much money in total that LP's have committed to the fund's future investments.\u003c/p\u003e",
+                    "a03c7a7d-108b-4a78-8c2b-ae382d7adbfb": "\u003cp\u003eCorrect because funds are generally structured with a management fee typically ranging from 1% to 2% of assets under management (e.g. for hedge funds) or committed capital (e.g. private equity funds), which is how much money in total that LP's have committed to the fund's future investments.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a03c7a7d-108b-4a78-8c2b-ae382d7adbfb",
+                            "itemBody": "\u003cp\u003eA. hedge funds only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "30750005-b89d-4921-a35c-1bd9a56874b0",
+                            "itemBody": "\u003cp\u003eB. private equity funds only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "063181ec-dd51-46b9-8ec1-a439c6d45e7c",
+                            "itemBody": "\u003cp\u003eC. both hedge funds and private equity funds.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56381",
+            "entry": {
+                "title": "ITEM_Copy of CFA-L1-00316",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA feature that protects hedge fund clients from paying twice for the same performance is \u003ci\u003emost likely\u003c/i\u003e a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "acd560d7-b096-4dff-bf2c-cfab58a5819f"
+                },
+                "answerFeedback": {
+                    "034072e9-f5da-469a-9d5c-75897ad277b2": "\u003cp\u003eIncorrect because the partnership agreement usually specifies that the performance fee is earned only after the fund achieves a return known as a hurdle rate. The hurdle rate is a minimum\u003ci\u003e \u003c/i\u003erate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded.\u003c/p\u003e",
+                    "1e61ebf5-528c-4851-87b8-585be574a1ae": "\u003cp\u003eIncorrect because hedge fund managers may discount their fees for larger investors or for placement agents who introduced these investors.\u0026nbsp;However, a rebate does not, in isolation, protect clients from paying twice for the same performance.\u003c/p\u003e",
+                    "acd560d7-b096-4dff-bf2c-cfab58a5819f": "\u003cp\u003eCorrect because in hedge funds, fee calculations also take into account a high-water mark, which reﬂects the highest value used to calculate an incentive fee. A high-water mark is the highest value of the fund investment ever achieved at a performance fee crystallization date, net of fees, by the individual LP. A high-water mark clause states that a hedge fund manager must recuperate declines in value from the high-water mark before performance fees can be charged on newly generated profits. The use of high-water marks protects clients from paying twice for the same performance.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1e61ebf5-528c-4851-87b8-585be574a1ae",
+                            "itemBody": "\u003cp\u003eA. discount.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "034072e9-f5da-469a-9d5c-75897ad277b2",
+                            "itemBody": "\u003cp\u003eB. hurdle rate.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "acd560d7-b096-4dff-bf2c-cfab58a5819f",
+                            "itemBody": "\u003cp\u003eC. high-water mark.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56382",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Alts-Mazararu-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn co-investing, the investor\u0026nbsp;invests in alternative assets\u0026nbsp;indirectly through a fund but also has the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "98873d6c-0001-4176-8cd5-64c6fca73c0e"
+                },
+                "answerFeedback": {
+                    "7d137f01-cbd4-4f2d-abc5-8a56b1714500": "\u003cp\u003eIncorrect because in co-investing, the investor invests in assets indirectly through the fund but also possesses rights (known as co-investment rights) to invest directly in the same assets.\u0026nbsp;However, there is no obligation to invest.\u003c/p\u003e",
+                    "98873d6c-0001-4176-8cd5-64c6fca73c0e": "\u003cp\u003eCorrect because in co-investing, the investor invests in assets indirectly through the fund but also possesses rights (known as co-investment rights) to invest directly in the same assets. Through co-investing, an investor is able to make an investment alongside a fund when the fund identifies deals; the investor is not limited to participating in the deal solely by investing in the fund.\u003c/p\u003e",
+                    "db221718-b7d3-4af3-bad9-7b6b22721b33": "\u003cp\u003eIncorrect because in co-investing, the investor invests in assets indirectly through the fund but also possesses rights (known as co-investment rights) to invest directly in the same assets,\u0026nbsp;not in the general partner's fund management company.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "98873d6c-0001-4176-8cd5-64c6fca73c0e",
+                            "itemBody": "\u003cp\u003eA. right\u0026nbsp;to invest directly in the same assets alongside the fund.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7d137f01-cbd4-4f2d-abc5-8a56b1714500",
+                            "itemBody": "\u003cp\u003eB. obligation to invest directly in the same assets alongside the fund.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "db221718-b7d3-4af3-bad9-7b6b22721b33",
+                            "itemBody": "\u003cp\u003eC. right to invest in the general partner's fund management company.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56383",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Alts-Roberts-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following methods of investing in alternative investments provides the \u003ci\u003emost\u003c/i\u003e flexibility to the investor?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "16de2854-fb98-43ec-bd8d-b7d085c5a9ea"
+                },
+                "answerFeedback": {
+                    "16de2854-fb98-43ec-bd8d-b7d085c5a9ea": "\u003cp\u003eCorrect because direct investing allows the investor to build a portfolio of investments to her exact requirements. Direct investing provides the greatest amount of flexibility for the investor and grants the highest level of control over how the asset is managed.\u0026nbsp;\u003c/p\u003e",
+                    "7fc50047-5f0b-41f4-b9e4-5032fc53322d": "\u003cp\u003eIncorrect because direct investing provides the greatest amount of flexibility for the investor and grants the highest level of control over how the asset is managed.\u003c/p\u003e",
+                    "b8e50187-0215-4067-9ff8-2f9c85402fe1": "\u003cp\u003eIncorrect because direct investing provides the greatest amount of flexibility for the investor and grants the highest level of control over how the asset is managed.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b8e50187-0215-4067-9ff8-2f9c85402fe1",
+                            "itemBody": "\u003cp\u003eA. Co-investing\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7fc50047-5f0b-41f4-b9e4-5032fc53322d",
+                            "itemBody": "\u003cp\u003eB. Fund investing\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "16de2854-fb98-43ec-bd8d-b7d085c5a9ea",
+                            "itemBody": "\u003cp\u003eC. Direct investing\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56384",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.06-Alt-Gottschalk-12",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCompared with fund investing in alternative investments, the co-investing method\u0026nbsp;\u003ci\u003emost likely\u003c/i\u003e has:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "708afeb0-d7c2-4980-a4a3-938a64fda970"
+                },
+                "answerFeedback": {
+                    "708afeb0-d7c2-4980-a4a3-938a64fda970": "\u003cp\u003eCorrect because one of the advantages of co-investing is that it has reduced management fees. In co-investing, investors co-invest an additional amount into that same investment often without paying management fees on the capital they used for the direct investment (a co-investment, in this case).\u003c/p\u003e",
+                    "823bc962-6103-4891-b0d6-9952a9937773": "\u003cp\u003eIncorrect because one of the advantages of co-investing is that it has reduced management fees compared with the fund investing method.\u003c/p\u003e",
+                    "9f3bbd8a-77b1-42a3-8e1f-01aec57ccd4a": "\u003cp\u003eIncorrect because one of the advantages of co-investing is that it has reduced management fees\u0026nbsp;compared with the fund investing method.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "708afeb0-d7c2-4980-a4a3-938a64fda970",
+                            "itemBody": "\u003cp\u003eA. lower management fees.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "823bc962-6103-4891-b0d6-9952a9937773",
+                            "itemBody": "\u003cp\u003eB. the same level of management fees.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9f3bbd8a-77b1-42a3-8e1f-01aec57ccd4a",
+                            "itemBody": "\u003cp\u003eC. higher management fees.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56385",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.06-Alt-Gottschalk-22",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCompared with co-investing, direct investing in alternative investments \u003ci\u003emost likely\u003c/i\u003e offers:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a4f75fd6-31a1-4966-ba53-27132f189c7b"
+                },
+                "answerFeedback": {
+                    "a4f75fd6-31a1-4966-ba53-27132f189c7b": "\u003cp\u003eCorrect because co-investing offers reduced control over the investment selection process compared with direct investing. Hence, direct investing offers higher control over the investment selection process.\u003c/p\u003e",
+                    "af2a35be-d7fe-46e2-abad-38415fe7a72c": "\u003cp\u003eIncorrect because co-investing offers reduced control over the investment selection process compared with direct investing.\u0026nbsp;Hence, direct investing offers higher control over the investment selection process.\u003c/p\u003e",
+                    "e6b75602-9987-4f90-9095-0f6e9e019633": "\u003cp\u003eIncorrect because co-investing offers reduced control over the investment selection process compared with direct investing. Hence, direct investing offers higher control over the investment selection process.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e6b75602-9987-4f90-9095-0f6e9e019633",
+                            "itemBody": "\u003cp\u003eA. reduced control over the investment selection process.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "af2a35be-d7fe-46e2-abad-38415fe7a72c",
+                            "itemBody": "\u003cp\u003eB. the same level of control over the investment selection process.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a4f75fd6-31a1-4966-ba53-27132f189c7b",
+                            "itemBody": "\u003cp\u003eC. higher control over the investment selection process.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56386",
+            "entry": {
+                "title": "ITEM_CFA-L1-10526",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAlternative investments:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8f6c8227-8ef6-450d-969d-a554a72d1756"
+                },
+                "answerFeedback": {
+                    "8f6c8227-8ef6-450d-969d-a554a72d1756": "\u003cp\u003eCorrect because\u0026nbsp;alternative Investments into three categories and several subcategories as follows: 1. Private Capital\u0026nbsp;2. Real Assets\u0026nbsp;3. Hedge Funds. Other “real asset” investments may include tangible assets, such as fine wine, art, antique furniture and automobiles, stamps, coins, and other collectibles, and intangible assets, such as patents and litigation actions.\u003c/p\u003e",
+                    "a0a33dbb-1dde-4b78-86a5-ec5b310381ee": "\u003cp\u003eIncorrect because alternative Investments into three categories and several subcategories as follows: 1. Private Capital\u0026nbsp;2. Real Assets 3. Hedge Funds. Other “real asset” investments may include tangible assets, such as fine wine, art, antique furniture and automobiles, stamps, coins, and other collectibles, and intangible assets, such as patents and litigation actions.\u003c/p\u003e",
+                    "c77a198a-de7d-4d84-9663-b3647919a593": "\u003cp\u003eIncorrect because alternative Investments into three categories and several subcategories as follows: 1. Private Capital\u0026nbsp;\u0026nbsp;2. Real Assets\u0026nbsp;\u0026nbsp;3. Hedge Funds. Other “real asset” investments may include tangible assets, such as fine wine, art, antique furniture and automobiles, stamps, coins, and other collectibles, and intangible assets, such as patents and litigation actions.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a0a33dbb-1dde-4b78-86a5-ec5b310381ee",
+                            "itemBody": "\u003cp\u003eA. include tangible assets only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c77a198a-de7d-4d84-9663-b3647919a593",
+                            "itemBody": "\u003cp\u003eB. include intangible assets only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8f6c8227-8ef6-450d-969d-a554a72d1756",
+                            "itemBody": "\u003cp\u003eC. may include both tangible and intangible assets.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56387",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-Alt-Shaw-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost \u003c/i\u003eappropriately categorized as a traditional investment?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ef34e04b-69d6-47f5-a9f9-710251a4365d"
+                },
+                "answerFeedback": {
+                    "57d2fa58-b4b3-40f8-bd2c-bf5946878638": "\u003cp\u003eIncorrect because alternative investments include such assets as real estate and commodities, which are arguably two of the oldest types of investments.\u003c/p\u003e",
+                    "7e254507-e948-42ad-9301-4e3e301c5150": "\u003cp\u003eIncorrect because alternative investments include such assets as real estate and commodities (including gold), which are arguably two of the oldest types of investments.\u003c/p\u003e",
+                    "ef34e04b-69d6-47f5-a9f9-710251a4365d": "\u003cp\u003eCorrect because\u0026nbsp;alternative investments' is a label for a disparate group of investments that are distinguished from long-only, publicly traded investments in stocks, bonds, and cash (often referred to as traditional investments).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7e254507-e948-42ad-9301-4e3e301c5150",
+                            "itemBody": "\u003cp\u003eA. Gold\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ef34e04b-69d6-47f5-a9f9-710251a4365d",
+                            "itemBody": "\u003cp\u003eB. Cash\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "57d2fa58-b4b3-40f8-bd2c-bf5946878638",
+                            "itemBody": "\u003cp\u003eC. Real estate\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56388",
+            "entry": {
+                "title": "ITEM_CFA-L1-10753",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements is \u003ci\u003emost\u003c/i\u003e accurate? Alternative investments:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "35e433f4-fc1f-4701-a91f-1329c321b270"
+                },
+                "answerFeedback": {
+                    "35e433f4-fc1f-4701-a91f-1329c321b270": "\u003cp\u003eCorrect because investing in alternative assets can require handling illiquidity, transacting on private markets, operating sophisticated investment strategies, or risk–return profiles that are very different from those of traditional long-only investments.\u003c/p\u003e",
+                    "71c6f077-62f7-4113-8d5b-0ef7d7740d98": "\u003cp\u003eIncorrect because alternative assets, by their very nature, tend to be less efficiently priced than traditional marketable securities, providing an opportunity to exploit market inefficiencies through active management.\u003c/p\u003e",
+                    "a735f776-a497-428f-9727-7a0607b017d9": "\u003cp\u003eIncorrect because alternative investments often have relatively low correlation of returns with those of traditional investments.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "71c6f077-62f7-4113-8d5b-0ef7d7740d98",
+                            "itemBody": "\u003cp\u003eA. tend to be more efficiently priced than traditional investments.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "35e433f4-fc1f-4701-a91f-1329c321b270",
+                            "itemBody": "\u003cp\u003eB. fall outside of the definition of long-only positions in stocks, bonds, and cash.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a735f776-a497-428f-9727-7a0607b017d9",
+                            "itemBody": "\u003cp\u003eC. have relatively high correlation of returns with those of traditional investments.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56389",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-Alt-Shaw-07",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eInstitutional investors typically begin investing in alternative investments via:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b8563fc4-af48-4b7c-8076-080ab6cfe398"
+                },
+                "answerFeedback": {
+                    "383dad46-6391-4fc3-89b7-5d30069fa329": "\u003cp\u003eIncorrect because institutional investors typically begin investing in alternative investments via funds. Then, as they gain experience, they can begin to invest via co-investing and direct investing.\u003c/p\u003e",
+                    "b8563fc4-af48-4b7c-8076-080ab6cfe398": "\u003cp\u003eCorrect because institutional investors typically begin investing in alternative investments via funds. Then, as they gain experience, they can begin to invest via co-investing and direct investing. The largest and most sophisticated direct investors (such as some sovereign wealth funds) compete with fund managers for access to the best investment opportunities.\u003c/p\u003e",
+                    "ee7fd4e2-003d-4322-ac6a-cea917b383a4": "\u003cp\u003eIncorrect because institutional investors typically begin investing in alternative investments via funds. Then, as they gain experience, they can begin to invest via co-investing and direct investing.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "383dad46-6391-4fc3-89b7-5d30069fa329",
+                            "itemBody": "\u003cp\u003eA. co-investing.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b8563fc4-af48-4b7c-8076-080ab6cfe398",
+                            "itemBody": "\u003cp\u003eB. fund investing.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ee7fd4e2-003d-4322-ac6a-cea917b383a4",
+                            "itemBody": "\u003cp\u003eC. direct investing.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56390",
+            "entry": {
+                "title": "ITEM_20170427051",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eInvestors in alternative assets who seek liquidity are \u003ci\u003emost likely\u003c/i\u003e to invest in:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9e61d758-cb30-44c6-a95d-fac17afcc8b7"
+                },
+                "answerFeedback": {
+                    "5f951298-efe7-4784-89cf-0c72b67e71dc": "\u003cp\u003eIncorrect because investors in modern hedge funds are subject to extended holding periods (known as lockup periods) and subsequent notice periods before an investment redemption is possible.\u003c/p\u003e",
+                    "7ec91bec-6673-4a51-820b-3d43f20d3a07": "\u003cp\u003eIncorrect because private equity funds may have long lockup periods. Typically, a private equity fund has an investment period of approximately five years and a subsequent harvesting period when exit occurs and the valuation environment becomes more relevant. Moreover, private equity fund investments are not made in one single payment but are spread over time using committed capital over several years.\u003c/p\u003e",
+                    "9e61d758-cb30-44c6-a95d-fac17afcc8b7": "\u003cp\u003eCorrect because real estate investment trusts are publicly traded and thus provide liquidity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5f951298-efe7-4784-89cf-0c72b67e71dc",
+                            "itemBody": "\u003cp\u003eA. hedge funds.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7ec91bec-6673-4a51-820b-3d43f20d3a07",
+                            "itemBody": "\u003cp\u003eB. private equity.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9e61d758-cb30-44c6-a95d-fac17afcc8b7",
+                            "itemBody": "\u003cp\u003eC. real estate investment trusts.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56391",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-Alt-Lee-08",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWithin a limited partnership structure, the limited partner\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration\"\u003e is \u003ci\u003emost likely\u003c/i\u003e to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bfb326ed-33c3-4786-bad7-4c575cba231e"
+                },
+                "answerFeedback": {
+                    "525127c8-1cef-462b-bea3-52a4d925cc96": "\u003cp\u003eIncorrect because the operations and decisions of the fund are controlled solely by the GP.\u003c/p\u003e",
+                    "bfb326ed-33c3-4786-bad7-4c575cba231e": "\u003cp\u003eCorrect because in limited partnerships, the fund manager is the general partner (GP) and investors are the limited partners (LPs). LPs, who are generally accredited investors (owing to legal restrictions on the fund), are expected to understand and be able to assume the risks associated with the investments, which are less regulated than offerings to the general public.\u0026nbsp;\u003c/p\u003e",
+                    "d89593c3-8915-4898-8029-801797c6d349": "\u003cp\u003eIncorrect because LPs commit to future investments, and the upfront cash outflow can be a small portion of their total commitment to the fund.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "525127c8-1cef-462b-bea3-52a4d925cc96",
+                            "itemBody": "\u003cp\u003eA. jointly control the operations and decisions of the fund.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d89593c3-8915-4898-8029-801797c6d349",
+                            "itemBody": "\u003cp\u003eB. \u003cspan class=\"x_x_x_x_x_x_x_x_x_x_ice-no-decoration\"\u003ehave total commitments to the fund limited to the upfront cash outflows.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bfb326ed-33c3-4786-bad7-4c575cba231e",
+                            "itemBody": "\u003cp\u003eC. be expected to\u0026nbsp;understand and be able to assume the risks associated with the investments.\u0026nbsp;\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56392",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Alts-Roberts-05",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about limited partnerships is \u003ci\u003emost\u003c/i\u003e accurate? Limited partners:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "53c497b8-cc8f-459f-b321-d05f155c2a75"
+                },
+                "answerFeedback": {
+                    "53c497b8-cc8f-459f-b321-d05f155c2a75": "\u003cp\u003eCorrect because\u0026nbsp;LPs play passive roles and are not involved with the management of the fund.\u003c/p\u003e",
+                    "84d4ca63-d1cf-44ec-bc23-3e15a45b2e8d": "\u003cp\u003eIncorrect because LPs are not involved in the operations of the partnership. LPs play passive roles and are not involved with the management of the fund; the operations and decisions of the fund are controlled solely by the GP.\u003c/p\u003e",
+                    "b5fceccc-06d8-443c-9598-78d5aa975dfb": "\u003cp\u003eIncorrect because the GP (not LPs)\u0026nbsp;runs the business. LPs play passive roles and are not involved with the management of the fund.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "53c497b8-cc8f-459f-b321-d05f155c2a75",
+                            "itemBody": "\u003cp\u003eA. play passive roles\u0026nbsp;in the partnership.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b5fceccc-06d8-443c-9598-78d5aa975dfb",
+                            "itemBody": "\u003cp\u003eB. are involved in the management of the partnership.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "84d4ca63-d1cf-44ec-bc23-3e15a45b2e8d",
+                            "itemBody": "\u003cp\u003eC. make only limited\u0026nbsp;decisions related to the operations of the partnership.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56393",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-Alt-Kennan-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn alternative investments, the American waterfall distribution method is more advantageous to the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c7df465a-14d8-425d-826a-8a585c4493e2"
+                },
+                "answerFeedback": {
+                    "449c9c44-bc2e-44bd-b453-d5c7de285548": "\u003cp\u003eIncorrect because this describes an advantage of whole-of-fund (European) waterfalls for limited partners (LPs), not deal-by-deal (American) waterfalls.\u0026nbsp;\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003eThere are two types of waterfalls: deal-by-deal (or \u003c/span\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003eAmerican\u003c/span\u003e\u003c/i\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e) waterfalls and whole-of-fund (or \u003c/span\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003eEuropean\u003c/span\u003e\u003c/i\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e) waterfalls. \u003c/span\u003e\u003c/span\u003eDeal-by-deal waterfalls are more advantageous to the GP because performance fees are collected on a per-deal basis, allowing the GP to get paid before LPs receive both their initial investment and their preferred rate of return (i.e., the hurdle rate) on the entire fund. In whole-of-fund waterfalls, all distributions go to the LPs as deals are exited and the GP does not participate in any profits until the LPs receive their initial investment and the hurdle rate has been met. In contrast to deal-by-deal waterfalls, whole-of-fund waterfalls occur at the aggregate fund level and are more advantageous to the LPs.\u003c/p\u003e",
+                    "7f0f12c7-3f02-4806-8149-f4255ad3b904": "\u003cp\u003eIncorrect because deal-by-deal waterfalls\u0026nbsp;are more advantageous to general partners (GPs), not limited partners (LPs). This allows\u0026nbsp;the GP to get paid before LPs receive both their initial investment and their preferred rate of return on the entire fund. \u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003eThere are two types of waterfalls: deal-by-deal (or \u003c/span\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003eAmerican\u003c/span\u003e\u003c/i\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e) waterfalls and whole-of-fund (or \u003c/span\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003eEuropean\u003c/span\u003e\u003c/i\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e) waterfalls. \u003c/span\u003e\u003c/span\u003eDeal-by-deal waterfalls are more advantageous to the GP because performance fees are collected on a per-deal basis, allowing the GP to get paid before LPs receive both their initial investment \u003ci\u003eand \u003c/i\u003etheir preferred rate of return (i.e., the hurdle rate) on the entire fund.\u003c/p\u003e",
+                    "c7df465a-14d8-425d-826a-8a585c4493e2": "\u003cp\u003eCorrect because this allows\u0026nbsp;the general partner (GP) to get paid before limited partners (LPs) receive both their initial investment and their preferred rate of return on the entire fund. \u003cspan class=\"ice-cts-1 ice-ins\"\u003eThere are two types of waterfalls: deal-by-deal (or \u003ci\u003eAmerican\u003c/i\u003e) waterfalls and whole-of-fund (or \u003ci\u003eEuropean\u003c/i\u003e) waterfalls. \u003c/span\u003eDeal-by-deal waterfalls are more advantageous to the GP because performance fees are collected on a per-deal basis, allowing the GP to get paid before LPs receive both their initial investment \u003ci\u003eand \u003c/i\u003etheir preferred rate of return (i.e., the hurdle rate) on the entire fund.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7f0f12c7-3f02-4806-8149-f4255ad3b904",
+                            "itemBody": "\u003cp\u003eA. limited partners because performance fees are collected on a per-deal basis.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c7df465a-14d8-425d-826a-8a585c4493e2",
+                            "itemBody": "\u003cp\u003eB. general partner because performance fees are collected on a per-deal basis.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "449c9c44-bc2e-44bd-b453-d5c7de285548",
+                            "itemBody": "\u003cp\u003eC. limited partners because the general partner does not participate in any profits until the hurdle rate has been met.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56394",
+            "entry": {
+                "title": "ITEM_2019B Alt 06SXL",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe clawback provision of a private equity fund \u003ci\u003emost likely \u003c/i\u003ebenefits the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8a5a35fb-ac67-4131-a254-a6a97c50ebea"
+                },
+                "answerFeedback": {
+                    "54acb853-98f7-4bd9-9220-c807feb7294a": "\u003cp\u003eIncorrect because a clawback is a provision in the limited partnership agreement between investors and the fund manager(s), and not related to brokers.\u003c/p\u003e",
+                    "8a5a35fb-ac67-4131-a254-a6a97c50ebea": "\u003cp\u003eCorrect because a\u0026nbsp;clawback\u003cb\u003e \u003c/b\u003eprovision reﬂects the right of LPs to reclaim part of the GP’s performance fee. Along either waterfall path, if a GP ever accrues (or actually pays itself) an incentive fee on gains that are not yet fully realized and then subsequently gives back these gains, an investor is typically able to claw back prior incentive fee accruals and payments.\u003c/p\u003e",
+                    "bdb4ca8c-9cf2-4ae7-9475-a8e2eb107940": "\u003cp\u003eIncorrect because a clawback provision is specifically designed to protect investors, not the GPs.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "54acb853-98f7-4bd9-9220-c807feb7294a",
+                            "itemBody": "\u003cp\u003eA. broker.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8a5a35fb-ac67-4131-a254-a6a97c50ebea",
+                            "itemBody": "\u003cp\u003eB. investors.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bdb4ca8c-9cf2-4ae7-9475-a8e2eb107940",
+                            "itemBody": "\u003cp\u003eC. general partner.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56395",
+            "entry": {
+                "title": "ITEM_CFA-L1-06989",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eA private equity fund structured as a partnership is managed by:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a09f9ae3-d262-4c7d-98b9-8fea79e78dd7"
+                },
+                "answerFeedback": {
+                    "36ada466-fce8-4903-beae-d8f4a16a6ba4": "\u003cp\u003eIncorrect because in the world of alternative investments, partnership structures are common. In limited partnerships, the fund manager is the general partner (GP) and investors are the limited partners (LPs). LPs, who are generally accredited investors (owing to legal restrictions on the fund), are expected to understand and be able to assume the risks associated with the investments, which are less regulated than offerings to the general public. The GP runs the business and theoretically bears unlimited liability for anything that goes wrong. The GP may also run multiple funds at a time. Limited partners are outside investors who own a fractional interest in the partnership based on the amount of their initial investment and the terms set out in the partnership documentation.\u0026nbsp;\u003c/p\u003e",
+                    "a09f9ae3-d262-4c7d-98b9-8fea79e78dd7": "\u003cp\u003eCorrect because in the world of alternative investments, partnership structures are common. In limited partnerships, the fund manager is the general partner (GP) and investors are the limited partners (LPs). LPs, who are generally accredited investors (owing to legal restrictions on the fund), are expected to understand and be able to assume the risks associated with the investments, which are less regulated than offerings to the general public. The GP runs the business and theoretically bears unlimited liability for anything that goes wrong. The GP may also run multiple funds at a time.\u0026nbsp;\u003c/p\u003e",
+                    "b3e59198-7503-4688-a25a-a237fd4429f7": "\u003cp\u003eIncorrect because in the world of alternative investments, partnership structures are common. In limited partnerships, the fund manager is the general partner (GP) and investors are the limited partners (LPs). LPs, who are generally accredited investors (owing to legal restrictions on the fund), are expected to understand and be able to assume the risks associated with the investments, which are less regulated than offerings to the general public. The GP runs the business and theoretically bears unlimited liability for anything that goes wrong. The GP may also run multiple funds at a time. Limited partners are outside investors who own a fractional interest in the partnership based on the amount of their initial investment and the terms set out in the partnership documentation.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a09f9ae3-d262-4c7d-98b9-8fea79e78dd7",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ethe general partner only.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b3e59198-7503-4688-a25a-a237fd4429f7",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ethe limited partners only.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "36ada466-fce8-4903-beae-d8f4a16a6ba4",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eboth the general partner and the limited partners.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 17,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56396",
+            "entry": {
+                "title": "ITEM_CFA-L1-07915",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eUntil drawdown of capital is complete, the management fee on a private equity fund is \u003ci\u003emost likely\u003c/i\u003e based on:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8d9fc9c7-df14-4add-8f6f-29b105fe94cc"
+                },
+                "answerFeedback": {
+                    "8d9fc9c7-df14-4add-8f6f-29b105fe94cc": "\u003cp\u003eCorrect because private equity funds raise committed capital and draw down on those commitments, generally over three to five years, when they have a specific investment to make. Note that the management fee is typically based on committed capital, \u003ci\u003enot \u003c/i\u003einvested capital; the committed-capital basis for management fees is an important distinction from hedge funds, whose management fees are based on assets under management (AUM).\u003c/p\u003e",
+                    "994608ea-a37b-4b69-9f32-9a1402f94837": "\u003cp\u003eIncorrect because management fees for private equity are typically based on committed capital, not capital that is drawn down.\u003c/p\u003e",
+                    "b26a96a1-beb8-48f3-838a-ea3089850897": "\u003cp\u003eIncorrect because management fees for private equity are typically based on committed capital, not capital that is invested.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "994608ea-a37b-4b69-9f32-9a1402f94837",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003edrawn capital.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b26a96a1-beb8-48f3-838a-ea3089850897",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003einvested capital.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8d9fc9c7-df14-4add-8f6f-29b105fe94cc",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ecommitted capital.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 18,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56397",
+            "entry": {
+                "title": "ITEM_CFA-L1-07464",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eA hedge fund's lockup period is \u003ci\u003ebest\u003c/i\u003e defined as the required period of time before:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b5554848-8981-442d-9ecc-ee08833282d9"
+                },
+                "answerFeedback": {
+                    "2ec17fa1-544b-489f-9838-8c814a5ed51e": "\u003cp\u003eIncorrect because it describes a draw-down period for private equity funds, not a lockup period.\u0026nbsp;Funds are generally structured with a management fee typically ranging from 1% to 2% of assets under management (e.g., for hedge funds) or committed capital (e.g., for private equity funds), which is how much money in total that LPs have committed to the fund’s future investments. On top of the management fee, a performance fee (also referred to as an \u003ci\u003eincentive fee\u003c/i\u003e or \u003ci\u003ecarried interest\u003c/i\u003e) is applied based on excess returns.\u0026nbsp;Private equity funds raise committed capital and draw down on those commitments, generally over three to five years, when they have a specific investment to make.\u0026nbsp;\u003c/p\u003e",
+                    "5b9c7edf-ebca-45a6-8a90-faac8d9105d4": "\u003cp\u003eIncorrect because\u0026nbsp;funds are generally structured with a management fee typically ranging from 1% to 2% of assets under management (e.g., for hedge funds) or committed capital (e.g., for private equity funds), which is how much money in total that LPs have committed to the fund’s future investments. On top of the management fee, a performance fee (also referred to as an \u003ci\u003eincentive fee\u003c/i\u003e or \u003ci\u003ecarried interest\u003c/i\u003e) is applied based on excess returns.\u0026nbsp;Although performance or incentive fees may be calculated over multiple periods, or limited in some periods to account for high water marks or hurdle rates, those time periods are not referred to as lockup periods.\u003c/p\u003e",
+                    "b5554848-8981-442d-9ecc-ee08833282d9": "\u003cp\u003eCorrect because\u0026nbsp;investors in modern hedge funds are subject to extended holding periods (known as lockup periods) and subsequent notice periods before an investment redemption is possible. As noted previously, restrictions on redemptions are typically imposed. Investors may be required to keep their money in the hedge fund for a minimum period (referred to as a lockup period) before they are allowed to make withdrawals or redeem shares.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5b9c7edf-ebca-45a6-8a90-faac8d9105d4",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eincentive fees are earned.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b5554848-8981-442d-9ecc-ee08833282d9",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eredemptions are permitted.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2ec17fa1-544b-489f-9838-8c814a5ed51e",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ecommitted capital is drawn down.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 19,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56398",
+            "entry": {
+                "title": "ITEM_CFA-L1-06698",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eA hedge fund feature that allows an incentive fee to be earned only after the fund exceeds a specified return \u003ci\u003ebest\u003c/i\u003e defines a:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e8cfee14-8c14-4820-b64d-3ffc5130e38c"
+                },
+                "answerFeedback": {
+                    "1f81c538-05d9-4382-aed4-c6c0d60082cb": "\u003cp\u003eIncorrect because investors in modern hedge funds are subject to extended holding periods (known as lockup periods) and subsequent notice periods before an investment redemption is possible. As noted previously, restrictions on redemptions\u003cb\u003e \u003c/b\u003eare typically imposed. Investors may be required to keep their money in the hedge fund for a minimum period (referred to as a lockup period) before they are allowed to make withdrawals or redeem shares.\u003c/p\u003e",
+                    "d2a0dc1d-938c-48a3-ac2e-0769baf75629": "\u003cp\u003eIncorrect because in hedge funds, fee calculations also take into account a high-water mark, which reflects the highest value used to calculate an incentive fee. A high-water mark is the \u003ci\u003ehighest \u003c/i\u003evalue of the fund investment ever achieved at a performance fee crystallization date, net of fees, by the individual LP. A high-water mark clause states that a hedge fund manager must recuperate declines in value from the high-water mark before performance fees can be charged on newly generated profits. The use of high-water marks protects clients from paying twice for the same performance.\u003c/p\u003e",
+                    "e8cfee14-8c14-4820-b64d-3ffc5130e38c": "\u003cp\u003eCorrect because the hurdle rate is a \u003ci\u003eminimum \u003c/i\u003erate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any \u003ci\u003ehard hurdle rate\u003c/i\u003e, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the \u003ci\u003esoft hurdle rate\u003c/i\u003e, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1f81c538-05d9-4382-aed4-c6c0d60082cb",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003elockup.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e8cfee14-8c14-4820-b64d-3ffc5130e38c",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ehurdle rate.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d2a0dc1d-938c-48a3-ac2e-0769baf75629",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ehigh-water mark.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 20,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8999,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4750,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51311",
+            "entry": {
+                "title": "CFA2455-R-s04-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. In addition to limited partnership agreements (LPAs), a supplemental document known as a side letter also may be negotiated. Side letters are agreements between the general partner and one or more limited partners that exist outside the LPA and whose terms override or modify the original limited partnership agreement terms. A side letter is negotiated to address the unique legal, regulatory, or reporting requirements of a specific investor. B is incorrect because an excusal right gives an investor the right to forgo a capital contribution or to not participate in a particular type of investment. An excusal right is granted when it has been stipulated in a side letter, not independently. C is incorrect because the limited partnership agreement establishes and governs the terms of a limited partnership; its terms apply to all limited partners, not just to a specific investor who requires tailored terms.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following documents provides tailored terms for a specific investor?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6f561c64-c905-4ea4-9e0a-9493b521a82c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6f561c64-c905-4ea4-9e0a-9493b521a82c",
+                            "itemBody": "A. A side letter",
+                            "position": 1
+                        },
+                        {
+                            "id": "46f50ca4-7248-4168-9b5a-88266694fd42",
+                            "itemBody": "B. An excusal right",
+                            "position": 2
+                        },
+                        {
+                            "id": "5b5c2368-232b-4703-a974-2ccc551cf62b",
+                            "itemBody": "C. A limited partnership agreement",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8263,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51312",
+            "entry": {
+                "title": "CFA2455-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. Private equity funds typically calculate their management fee based on committed capital, which is the total amount that the limited partners have promised to fund future investments, rather than based on assets under management. The committed-capital basis for management fees is an important distinction from hedge funds, whose management fees are typically based on assets under management. Having committed capital as the basis for management fee calculations reduces the incentive for GPs to deploy the committed capital as quickly as possible to grow their fee base and thus allows the GPs to be selective about deploying capital into investment opportunities. B is incorrect because alternative investment funds usually combine a management fee with a performance fee paid when fund returns exceed a specified hurdle rate. Although this combined fee approach is typical for alternative investment funds, it is not what encourages managers to invest selectively, rather than quickly. C is incorrect because typically hedge funds and REITs charge a management fee on assets under management, while private equity funds instead levy management fees on committed capital.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIdentify the fee approach that \u003cem\u003emost directly \u003c/em\u003eencourages private equity fund managers to invest selectively, not just quickly. Management fees:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "aa9cf458-7093-4ae2-8162-550567d6f952"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "aa9cf458-7093-4ae2-8162-550567d6f952",
+                            "itemBody": "A. based on committed capital",
+                            "position": 1
+                        },
+                        {
+                            "id": "cfb89bdb-c0ac-4422-95bc-8afd00396335",
+                            "itemBody": "B. combined with an incentive fee",
+                            "position": 2
+                        },
+                        {
+                            "id": "6f1ba826-a1ae-4eae-afa9-7c655a6f2dc4",
+                            "itemBody": "C. based on a fixed percentage of assets under management",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8263,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51313",
+            "entry": {
+                "title": "CFA2455-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. A clawback provision grants limited partners the right to reclaim a portion of the general partner’s performance fee. Clawback provisions are usually activated when a GP exits successful deals early on but incurs losses on deals later in the fund’s life. A is incorrect because a catch-up clause allows a general partner to accelerate performance fees once a fund exceeds a specified soft hurdle rate. B is incorrect because the high-water mark identifies the fund’s peak value as of a performance calculation date net of fees; it is not a performance fee modification.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich performance fee modification grants limited partners the right to reclaim a portion of the general partner’s performance fee?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6dbc2967-f15f-402c-ba64-eb867ad3e5eb"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2b838303-ca7f-480e-be98-3760ce82f242",
+                            "itemBody": "A. Catch-up clause",
+                            "position": 1
+                        },
+                        {
+                            "id": "a34ed94f-a130-43ac-b97d-11261346ca5e",
+                            "itemBody": "B. High-water mark",
+                            "position": 2
+                        },
+                        {
+                            "id": "6dbc2967-f15f-402c-ba64-eb867ad3e5eb",
+                            "itemBody": "C. Clawback provision",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8263,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51314",
+            "entry": {
+                "title": "CFA2455-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Investors are often attracted to alternative investments if they are seeking greater diversification and higher expected returns than traditional investments can deliver; alternative investments are often longer-term, illiquid investments in less efficient markets. B is incorrect because alternative investments often require larger capital outlays, not smaller ones than traditional investments. C is incorrect because alternative investments typically require long investment time horizons compared to those of traditional investments.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following features is \u003cem\u003emost likely\u003c/em\u003e associated with an alternative investment rather than a traditional one?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2fe2e38c-da73-4ea0-94a8-7c6778bc293b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2fe2e38c-da73-4ea0-94a8-7c6778bc293b",
+                            "itemBody": "A. Illiquidity",
+                            "position": 1
+                        },
+                        {
+                            "id": "42fb61e3-4390-43a8-abde-354ac3c74852",
+                            "itemBody": "B. Smaller capital outlays",
+                            "position": 2
+                        },
+                        {
+                            "id": "777f9102-7e63-4aa6-8822-371927a745d8",
+                            "itemBody": "C. Shorter investment time horizons",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8263,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51315",
+            "entry": {
+                "title": "CFA2455-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. In a public–private partnership (PPP), both governments and private investors are involved in funding and completing long-lived fixed assets intended for public use and/or to provide essential services. B is incorrect because ownership capital used for non-public companies in the early life cycle of a venture pertains to venture capital, not to public–private partnerships. C is incorrect because typically a public–private partnership is used to fund and develop infrastructure (i.e., long-lived fixed assets intended for public use and to provide essential services), not commercial real estate for private business activity.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAssets developed through a public–private partnership typically involve:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "175dacdd-cb1e-41fc-8704-e5fed549eb68"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "175dacdd-cb1e-41fc-8704-e5fed549eb68",
+                            "itemBody": "A. long-lived fixed assets intended for public use.",
+                            "position": 1
+                        },
+                        {
+                            "id": "fd521b35-7f3e-4f83-ba34-f695ff2fb072",
+                            "itemBody": "B. ownership capital used in the early life cycle of a venture.",
+                            "position": 2
+                        },
+                        {
+                            "id": "773acf64-ac9d-40f1-b11d-e9ad6c2f62d6",
+                            "itemBody": "C. commercial real estate where private business activity is the primary cash flow source.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8263,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51316",
+            "entry": {
+                "title": "CFA2455-R-s04-Q11",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA. 3 is correct. The returns generated by fund investments are gross returns. From these, management deducts its fees, paying the remainder (net fees) to fund investors.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB. 2 is correct. In alternative fund investing, the fund manager pays the net return (gross return less management fees) to investors.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC. 1 is correct. Management fees and performance fees are how alternative fund managers are compensated for managing the fund and its investments.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"width: clamp(250px, 100%, 600px); height: auto; margin: 0.75rem auto 0.75rem auto;\"\u003e\u003cimg src=\"https://learn.cfainstitute.org//courses/854/files/89116/preview?verifier=OC9n8Lwgz5sPFrodKkD5OTdZ4wGOHEdRbY5SA7RZ\" alt=\"CFA2455-R-s04-Q11-img01.png\" data-old-link=\"/courses/854/files/89116/preview?verifier=OC9n8Lwgz5sPFrodKkD5OTdZ4wGOHEdRbY5SA7RZ\"\u003e\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eReferring to the diagram above, identify the label (A, B, or C) that \u003cem\u003ebest\u003c/em\u003e corresponds to each of the following financial measures\u003c/p\u003e\n\u003cdiv id=\"CFA2455-R-s04-Te\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eA.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e1. Management fee\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eB.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e2. Net return\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eC.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e3. Gross return\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8263,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51317",
+            "entry": {
+                "title": "CFA2455-R-s04-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. It shows the three alternative investment methods from most control to least. Direct investing offers investors maximum flexibility and control when it comes to investment choice, methods of financing, and timing. Co-investors gain more control than fund-only investors but not as much as direct investors. Fund investors have the least control; their decisions are limited to either investing in the fund or not. A is incorrect because it ranks the three investment methods from least control to most. C is incorrect because it puts co-investment, the alternative investment method with some control but not the most, in front of direct investment, which offers maximum control and flexibility.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following options is the \u003cem\u003emost likely\u003c/em\u003e ranking of the alternative investment methods—from most desirable to least—for the following pension fund?\u003cstrong\u003e \u003c/strong\u003eA well-endowed university pension fund with significant in-house knowledge, skills, and oversight capabilities is seeking alternative investments to diversify its existing asset portfolio and produce higher returns than more traditional investments while retaining as much control as possible.\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "cf99bcae-9962-4689-a9bf-0d2de291e413"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3bf1146f-8ecc-42ae-9899-78b31a057ad8",
+                            "itemBody": "A. fund investment, co-investment, direct investment",
+                            "position": 1
+                        },
+                        {
+                            "id": "cf99bcae-9962-4689-a9bf-0d2de291e413",
+                            "itemBody": "B. direct investment, co-investment, fund investment",
+                            "position": 2
+                        },
+                        {
+                            "id": "92c24df5-cb55-4b02-bb79-187947866341",
+                            "itemBody": "C. co-investment, direct investment, fund investment",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8263,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51318",
+            "entry": {
+                "title": "CFA2455-R-s04-Q13",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Investors in alternative funds usually compensate managers using a performance-based, versus flat, fee structure to better align manager and investor incentives over longer periods. A is incorrect because while performance fees/fee structures can penalize managers for declining performance, that is not the most important reason for a performance-based fee structure. C is incorrect because although calculation of a manager’s performance may include reference to a fund’s peak value (high-water mark) in order to avoid paying twice for the same returns, this is not the most important reason that investors in alternative funds compensate using a performance-based fee structure.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFrom the following options, identify the \u003cem\u003emost important\u003c/em\u003e reason that investors in alternative funds compensate managers using a performance-based fee structure. To:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a24f902c-a948-40f6-af86-99e0635d28da"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a011384c-8147-45c6-8047-5b8dc5e22dac",
+                            "itemBody": "A. penalize managers for poor or declining performance over time",
+                            "position": 1
+                        },
+                        {
+                            "id": "a24f902c-a948-40f6-af86-99e0635d28da",
+                            "itemBody": "B. better align manager and investor incentives over longer periods",
+                            "position": 2
+                        },
+                        {
+                            "id": "7df0dcc2-7339-41e0-941b-b2c1dc6d6fa2",
+                            "itemBody": "C. protect themselves from paying managers twice for the same returns",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8263,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53957",
+            "entry": {
+                "title": "ITEM_20170427017",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA hedge fund limited partnership agreement describes the general partner’s total fees for each year as follows: The general partner will measure the fair value of the fund’s assets at the beginning of the year (net of fees from the previous year) and the fair value of the fund’s assets at the end of the year. The general partner will receive 15% of any increase in fair value in excess of the 1-year US Treasury yield at the beginning of the year. This fee structure \u003ci\u003emost likely\u003c/i\u003e includes a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d99f9e02-31c2-4a52-be50-f99377363847"
+                },
+                "answerFeedback": {
+                    "24694bb8-404a-486d-86b3-4d69ce721424": "\u003cp\u003eIncorrect. There is no fixed management fee (one that does not depend on performance).\u003c/p\u003e",
+                    "80ff96cf-1fd3-40ed-abfb-d9257967e1fd": "\u003cp\u003eIncorrect. There is no requirement that the fund’s value exceed its previous maximum.\u003c/p\u003e",
+                    "d99f9e02-31c2-4a52-be50-f99377363847": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e In order for the general partner to earn its incentive fee, the return on the fund must exceed the Treasury yield (which is a hurdle rate), and the incentive fee is based only on the return in excess of the hurdle rate, so it is a hard hurdle rate. The general partner doesn’t earn any fee regardless of performance, so there is no management fee. There is no mention of the fund’s value needing to exceed its historical maximum value, so there is no high-water mark.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d99f9e02-31c2-4a52-be50-f99377363847",
+                            "itemBody": "\u003cp\u003eA. hard hurdle rate.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "24694bb8-404a-486d-86b3-4d69ce721424",
+                            "itemBody": "\u003cp\u003eB. management fee.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "80ff96cf-1fd3-40ed-abfb-d9257967e1fd",
+                            "itemBody": "\u003cp\u003eC. high-water mark provision.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8702,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53958",
+            "entry": {
+                "title": "ITEM_20170427052",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA manager is compensated with a management fee based on committed capital plus an incentive fee based on fund performance. This scenario \u003ci\u003ebest\u003c/i\u003e describes the fee structure of a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8b4e115f-c500-410b-8512-faab432c079c"
+                },
+                "answerFeedback": {
+                    "8b4e115f-c500-410b-8512-faab432c079c": "\u003cp\u003eCorrect. A private equity manager is compensated through a management fee based on committed capital plus an incentive fee.\u003c/p\u003e",
+                    "94f79822-b92e-45d3-88d8-d5a8cd6817cf": "\u003cp\u003eIncorrect. The management fee of a hedge fund is based on assets under management.\u003c/p\u003e",
+                    "a2ad47bf-f956-49da-91a4-003c24996ebc": "\u003cp\u003eIncorrect. The fee structure for mutual funds usually includes only a management fee, not an incentive fee.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "94f79822-b92e-45d3-88d8-d5a8cd6817cf",
+                            "itemBody": "\u003cp\u003eA. hedge fund.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a2ad47bf-f956-49da-91a4-003c24996ebc",
+                            "itemBody": "\u003cp\u003eB. mutual fund.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8b4e115f-c500-410b-8512-faab432c079c",
+                            "itemBody": "\u003cp\u003eC. private equity fund.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8702,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53959",
+            "entry": {
+                "title": "ITEM_CFA-L1-03124",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA leveraged private investment vehicle that employs both long and short positions is \u003ci\u003emost likely\u003c/i\u003e a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c11528b3-25d7-49b8-be5c-1c321c674596"
+                },
+                "answerFeedback": {
+                    "333582f2-29d2-4c12-aa5a-b092c067e534": "\u003cp\u003eIncorrect because venture capital typically involves investing in or providing financing to startup or early-stage companies with high growth potential, represent a small portion of the private equity market.\u003c/p\u003e",
+                    "9fe639d7-65e1-425d-8900-6f693599e38b": "\u003cp\u003eIncorrect because private equity funds generally invest in companies, whether startups or established firms, that are not listed on a public exchange, or they invest in public companies with the intent to take them private.\u003c/p\u003e",
+                    "c11528b3-25d7-49b8-be5c-1c321c674596": "\u003cp\u003eCorrect because hedge funds are private investment vehicles that manage portfolios of securities and/or derivative positions using a variety of strategies. Although hedge funds may be invested entirely in traditional assets, these vehicles are considered alternative because of their private nature. Hedge funds typically have more leeway to pursue investments and strategies offering the potential for higher returns, whether absolute or compared with a specific market benchmark, but these strategies may increase the risk of investment loss. They may involve long and short positions and may be highly leveraged.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c11528b3-25d7-49b8-be5c-1c321c674596",
+                            "itemBody": "\u003cp\u003eA. hedge fund.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9fe639d7-65e1-425d-8900-6f693599e38b",
+                            "itemBody": "\u003cp\u003eB. private equity fund.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "333582f2-29d2-4c12-aa5a-b092c067e534",
+                            "itemBody": "\u003cp\u003eC. venture capital fund.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8702,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53960",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.06-Alt-Gottschalk-21",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCompared with direct investing, co-investing in alternative investments \u003ci\u003emost likely\u003c/i\u003e offers:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f7629c30-1c07-4ca6-a001-faf905d00605"
+                },
+                "answerFeedback": {
+                    "05bc9e72-b226-4603-a001-09a3ee5d4227": "\u003cp\u003eIncorrect because co-investing offers reduced control over the investment selection process compared with direct investing.\u003c/p\u003e",
+                    "f0f13493-2af1-4b35-9dfd-18e84597b855": "\u003cp\u003eIncorrect because co-investing offers reduced control over the investment selection process compared with direct investing.\u003c/p\u003e",
+                    "f7629c30-1c07-4ca6-a001-faf905d00605": "\u003cp\u003eCorrect because co-investing offers reduced control over the investment selection process compared with direct investing.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f7629c30-1c07-4ca6-a001-faf905d00605",
+                            "itemBody": "\u003cp\u003eA. reduced control over the investment selection process.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f0f13493-2af1-4b35-9dfd-18e84597b855",
+                            "itemBody": "\u003cp\u003eB. the same level of control over the investment selection process.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "05bc9e72-b226-4603-a001-09a3ee5d4227",
+                            "itemBody": "\u003cp\u003eC. higher control over the investment selection process.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8702,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53961",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-Alt-Augulyte-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eRegarding distribution methods in alternative investments, which of the following is \u003ci\u003emost\u003c/i\u003e advantageous to the limited partners? A(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "77fb48f3-1818-461c-a32c-ebc0f52953fc"
+                },
+                "answerFeedback": {
+                    "76f5a06d-9a57-4659-94c9-f7e80be2814d": "\u003cp\u003eIncorrect because there are two types of waterfalls: deal-by-deal (American) waterfalls and whole-of-fund (European) waterfalls. Deal-by-deal waterfalls are more advantageous to the GP because performance fees are collected on a per-deal basis, allowing the GP to get paid before LPs receive both their initial investment and their preferred rate of return (i.e., the hurdle rate) on the entire fund.\u003c/p\u003e",
+                    "77fb48f3-1818-461c-a32c-ebc0f52953fc": "\u003cp\u003eCorrect because in whole-of-fund (European) waterfalls, all distributions go to the LPs as deals are exited and the GP does not participate in any profits until the LPs receive their initial investment and the hurdle rate has been met. In contrast to deal-by-deal (American) waterfalls, whole-of-fund waterfalls occur at the aggregate fund level and are more advantageous to the LPs.\u003c/p\u003e",
+                    "f649a1db-76cf-4171-9aa7-f62937c2afed": "\u003cp\u003eIncorrect because there are two types of waterfalls: deal-by-deal (American) waterfalls and whole-of-fund (European) waterfalls. Deal-by-deal waterfalls are more advantageous to the GP because performance fees are collected on a per-deal basis, allowing the GP to get paid before LPs receive both their initial investment and their preferred rate of return (i.e., the hurdle rate) on the entire fund.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f649a1db-76cf-4171-9aa7-f62937c2afed",
+                            "itemBody": "\u003cp\u003eA. American waterfall.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "76f5a06d-9a57-4659-94c9-f7e80be2814d",
+                            "itemBody": "\u003cp\u003eB. deal-by-deal waterfall.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "77fb48f3-1818-461c-a32c-ebc0f52953fc",
+                            "itemBody": "\u003cp\u003eC. whole-of-fund waterfall.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8702,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53962",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-Alt-Kennan-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn alternative investments, a\u0026nbsp;clawback provision represents the right of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "87eb75b3-6c51-4421-85b7-9a14657a82ac"
+                },
+                "answerFeedback": {
+                    "87eb75b3-6c51-4421-85b7-9a14657a82ac": "\u003cp\u003eCorrect because\u0026nbsp;if a general partner (GP) accrues an incentive fee on gains not yet fully realized and then subsequently gives back those gains, a limited partner (LP) may claw back prior incentive fee payments. A clawback\u003cb\u003e \u003c/b\u003eprovision reflects the right of LPs to reclaim part of the GP’s performance fee.\u003c/p\u003e",
+                    "8a69aadd-86c3-4a92-b41a-e053e3972ea1": "\u003cp\u003eIncorrect because a clawback provision refers to reclaiming performance fees, not performance losses themselves. If a general partner (GP) accrues an incentive fee on gains not yet fully realized and then subsequently gives back those gains, limited partner (LPs) may claw back prior incentive fee payments. A clawback provision reflects the right of LPs to reclaim part of the GP’s performance fee.\u003c/p\u003e",
+                    "d14dd2cf-b591-48dd-97e0-1cb7e0fa915c": "\u003cp\u003eIncorrect because a clawback provision confers rights on the limited partners (LPs), not the general partner (GP).\u0026nbsp;A clawback\u003cb\u003e \u003c/b\u003eprovision reflects the right of LPs to reclaim part of the GP’s performance fee.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8a69aadd-86c3-4a92-b41a-e053e3972ea1",
+                            "itemBody": "\u003cp\u003eA. limited partners to reclaim performance losses.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d14dd2cf-b591-48dd-97e0-1cb7e0fa915c",
+                            "itemBody": "\u003cp\u003eB. the general partner\u0026nbsp;to reclaim part of limited partners' distributions.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "87eb75b3-6c51-4421-85b7-9a14657a82ac",
+                            "itemBody": "\u003cp\u003eC. limited partners to reclaim part of the general partner's performance fee.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8702,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53963",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-Alt-Georgiou-08",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA joint venture is an alternative investment structure that is\u0026nbsp;\u003ci\u003emost\u003c/i\u003e \u003ci\u003elikely\u003c/i\u003e used for:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "00b92486-7dda-48b4-9661-bdd19c1a55aa"
+                },
+                "answerFeedback": {
+                    "00b92486-7dda-48b4-9661-bdd19c1a55aa": "\u003cp\u003eCorrect because in real estate fund investing, investors may be classified as unit holders, and joint ventures are a partnership structure common in real estate direct investing.\u003c/p\u003e",
+                    "233327a7-ba98-4e0d-a522-b3294187c030": "\u003cp\u003eIncorrect because for example, infrastructure investors frequently enter into public–private partnerships (PPP), which are agreements between the public sector and the private sector to finance, build, and operate public infrastructure, such as hospitals and toll roads.\u003c/p\u003e",
+                    "495535a4-e61a-40d5-aff1-c2ea908b1f56": "\u003cp\u003eIncorrect because many alternative investments, such as hedge and private equity funds, use a partnership structure with a general partner that manages the business and limited partners (investors) who own fractional interests in the partnership.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "233327a7-ba98-4e0d-a522-b3294187c030",
+                            "itemBody": "\u003cp\u003eA. infrastructure investment.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "495535a4-e61a-40d5-aff1-c2ea908b1f56",
+                            "itemBody": "\u003cp\u003eB. private equity investment.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "00b92486-7dda-48b4-9661-bdd19c1a55aa",
+                            "itemBody": "\u003cp\u003eC. real estate direct investment.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8702,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4492,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

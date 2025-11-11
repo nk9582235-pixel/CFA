@@ -1,0 +1,3683 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6276,
+    "time_spent": 4,
+    "questions_answered": 0,
+    "question_count": 61,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 3: Market Efficiency",
+        "topic_id": 1035,
+        "topic": "CFA-26-02-LI-C: Equity",
+        "subtopic_id": 6276,
+        "subtopic": "Module 3: Market Efficiency",
+        "question_count": 61,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 851,
+                "name": "Warehouse Course: Equity 26-LI",
+                "code": "Warehouse Course: Equity 26-LI",
+                "module_id": 4457,
+                "question_count": 43,
+                "type": "warehouse"
+            },
+            {
+                "id": 842,
+                "name": "Practice Pack Warehouse: Equity 26-LI",
+                "code": "Practice Pack Warehouse: Equity 26-LI",
+                "module_id": 4674,
+                "question_count": 18,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 61.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "c4080cebd51b621e",
+        "ordered_item_ids": [
+            "54930",
+            "54931",
+            "54932",
+            "54933",
+            "54934",
+            "54935",
+            "54936",
+            "54937",
+            "54938",
+            "54939",
+            "54940",
+            "54941",
+            "54942",
+            "54943",
+            "54944",
+            "54945",
+            "54946",
+            "54947",
+            "53337",
+            "53338",
+            "53339",
+            "53340",
+            "53341",
+            "53342",
+            "53343",
+            "53344",
+            "53345",
+            "53346",
+            "53347",
+            "53348",
+            "53349",
+            "53350",
+            "53351",
+            "53352",
+            "53353",
+            "53354",
+            "53355",
+            "53356",
+            "53357",
+            "53358",
+            "53359",
+            "53360",
+            "53361",
+            "53362",
+            "53788",
+            "53789",
+            "53790",
+            "53791",
+            "53792",
+            "53793",
+            "53794",
+            "53795",
+            "53796",
+            "53797",
+            "53798",
+            "53799",
+            "53800",
+            "53801",
+            "53802",
+            "53803",
+            "53804"
+        ],
+        "visible_item_ids": [
+            "54930",
+            "54931",
+            "54932",
+            "54933",
+            "54934",
+            "54935",
+            "54936",
+            "54937",
+            "54938",
+            "54939",
+            "54940",
+            "54941",
+            "54942",
+            "54943",
+            "54944",
+            "54945",
+            "54946",
+            "54947",
+            "53337",
+            "53338",
+            "53339",
+            "53340",
+            "53341",
+            "53342",
+            "53343",
+            "53344",
+            "53345",
+            "53346",
+            "53347",
+            "53348",
+            "53349",
+            "53350",
+            "53351",
+            "53352",
+            "53353",
+            "53354",
+            "53355",
+            "53356",
+            "53357",
+            "53358",
+            "53359",
+            "53360",
+            "53361",
+            "53362",
+            "53788",
+            "53789",
+            "53790",
+            "53791",
+            "53792",
+            "53793",
+            "53794",
+            "53795",
+            "53796",
+            "53797",
+            "53798",
+            "53799",
+            "53800",
+            "53801",
+            "53802",
+            "53803",
+            "53804"
+        ]
+    },
+    "items": [
+        {
+            "id": "54930",
+            "entry": {
+                "title": "ITEM_CFA-L1-05313",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWith respect to behavioral finance, which of the following is \u003ci\u003eleast likely\u003c/i\u003e a behavioral bias used to explain pricing anomalies?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "aa37a347-1963-4e3a-a536-9ae71605ca80"
+                },
+                "answerFeedback": {
+                    "9fde0a60-d6d9-44f6-a161-310d9e06b0ce": "\u003cp\u003eIncorrect because behavioral finance research supports the phenomenon that investors are loss averse. Behavioral finance allows for the possibility that the dissatisfaction resulting from a loss exceeds the satisfaction resulting from a gain of the same magnitude. Some argue that behavioral theories of loss aversion can explain observed overreaction in markets.\u003c/p\u003e",
+                    "aa37a347-1963-4e3a-a536-9ae71605ca80": "\u003cp\u003eCorrect because behavioral finance allows for the possibility that the dislike for risk is not symmetrical, in contrast to the more general models where researchers assume that investors do not like risk (risk aversion), whether the risk is that returns are higher than expected or lower than expected.\u003c/p\u003e",
+                    "f8b91194-250f-4b16-8e7d-65905431dbc7": "\u003cp\u003eIncorrect because behavioral finance research supports the phenomenon that investors are overconfident. Evidence has suggested that overconfidence results in mispricing for US, UK, German, French, and Japanese markets.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "aa37a347-1963-4e3a-a536-9ae71605ca80",
+                            "itemBody": "\u003cp\u003eA. Risk aversion\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9fde0a60-d6d9-44f6-a161-310d9e06b0ce",
+                            "itemBody": "\u003cp\u003eB. Loss aversion\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f8b91194-250f-4b16-8e7d-65905431dbc7",
+                            "itemBody": "\u003cp\u003eC. Overconfidence\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54931",
+            "entry": {
+                "title": "ITEM_CFA-L1-07894",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn a highly efficient market, a passive investment strategy \u003ci\u003emost likely\u003c/i\u003e has:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dd1c2b61-53e4-495a-ae99-34b5cac63911"
+                },
+                "answerFeedback": {
+                    "26e5c373-fdd8-4849-930e-ef1409b2324b": "\u003cp\u003eIncorrect because since there are no inefficiencies to exploit in a highly efficient market, an active investment strategy would most likely generate the same risk-adjusted returns as a passive investment strategy if expenses are not considered. Consistent, superior, risk- adjusted returns (net [not before] of all expenses) are not achievable in an efficient market.\u0026nbsp;In a highly efficient market, a passive investment strategy (i.e., buying and holding a broad market portfolio) that does not seek superior risk-adjusted returns is preferred to an active investment strategy.\u003c/p\u003e",
+                    "2e7f1ead-0134-4824-8727-a25ba5d92afb": "\u003cp\u003eIncorrect because in a highly efficient market, a passive investment strategy is preferred to an active investment strategy because of lower costs (for example, transaction and information-seeking costs).\u003c/p\u003e",
+                    "dd1c2b61-53e4-495a-ae99-34b5cac63911": "\u003cp\u003eCorrect because in a highly efficient market, a passive investment strategy (i.e., buying and holding a broad market portfolio) that does not seek superior risk-adjusted returns is preferred to an active investment strategy because of lower costs (for example, transaction and information-seeking costs).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2e7f1ead-0134-4824-8727-a25ba5d92afb",
+                            "itemBody": "\u003cp\u003eA. higher transaction costs than an active strategy.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "dd1c2b61-53e4-495a-ae99-34b5cac63911",
+                            "itemBody": "\u003cp\u003eB. lower information-seeking costs than an active strategy.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "26e5c373-fdd8-4849-930e-ef1409b2324b",
+                            "itemBody": "\u003cp\u003eC. higher risk-adjusted returns before all expenses than an active strategy.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54932",
+            "entry": {
+                "title": "ITEM_CFA-L1-00778",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe observation that a large-capitalization company's stock price is inflated after the company releases unexpected good news at year end is \u003ci\u003emost likely\u003c/i\u003e related to the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9cb9a81c-56ec-4c2d-a981-eaf7a12794c3"
+                },
+                "answerFeedback": {
+                    "2a32a966-eaef-4f92-ac4a-c7e31331b0c0": "\u003cp\u003eIncorrect because the turn-of-the-year effect is a calendar anomaly that stock market returns in January were significantly higher compared to the rest of the months of the year, with most of the abnormal returns reported during the first five trading days in January. This is a time-series anomaly related to the calendar but not an information release.\u0026nbsp;\u003c/p\u003e",
+                    "3757e4d1-bc1d-4e42-a88b-edcf3613f96d": "\u003cp\u003eIncorrect because the value effect is a market anomaly that value stocks, which are generally referred to as stocks that have below-average price-to-earnings (P/E) and market-to-book (M/B) ratios, and above-average dividend yields, have consistently outperformed growth stocks over long periods of time. This is a cross-sectional anomaly and is not related to an information release.\u003c/p\u003e",
+                    "9cb9a81c-56ec-4c2d-a981-eaf7a12794c3": "\u003cp\u003eCorrect because the overreaction effect or anomaly is described as the propensity for investors to\u0026nbsp;overreact to the release of unexpected public information. Therefore, stock prices will be inflated (depressed) for those companies releasing good (bad) information. In other words, inflated (depressed) here means the change of value that is overshooting (undershooting) the fair (intrinsic) value after incorporating the new information, rather than the price action that goes up (down) itself.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3757e4d1-bc1d-4e42-a88b-edcf3613f96d",
+                            "itemBody": "\u003cp\u003eA. value effect.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9cb9a81c-56ec-4c2d-a981-eaf7a12794c3",
+                            "itemBody": "\u003cp\u003eB. overreaction effect.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2a32a966-eaef-4f92-ac4a-c7e31331b0c0",
+                            "itemBody": "\u003cp\u003eC. turn-of-the-year effect.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54933",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Equity-Young-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA feature of an efficient market is that:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f68244d5-ec87-4297-9953-8ea846bae9bc"
+                },
+                "answerFeedback": {
+                    "3411d670-ea3a-4eff-b7b7-5d530eb886f0": "\u003cp\u003eIncorrect because consistent, superior, risk-adjusted returns (net of all expenses) are not achievable in an efficient market.\u003c/p\u003e",
+                    "f68244d5-ec87-4297-9953-8ea846bae9bc": "\u003cp\u003eCorrect because an efficient market is thus a market in which asset prices reflect all past and present information.\u003c/p\u003e",
+                    "f87c1a53-ac26-48a8-9c74-efb9c0aaf63a": "\u003cp\u003eIncorrect because in an efficient market, prices should be expected to react only to the elements of information releases that are not anticipated fully by investors—that is, to the “unexpected” or “surprise” element of such releases.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f68244d5-ec87-4297-9953-8ea846bae9bc",
+                            "itemBody": "\u003cp\u003eA. the market reflects all past and present information.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f87c1a53-ac26-48a8-9c74-efb9c0aaf63a",
+                            "itemBody": "\u003cp\u003eB. asset prices react to information that is fully anticipated.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3411d670-ea3a-4eff-b7b7-5d530eb886f0",
+                            "itemBody": "\u003cp\u003eC. an investor can earn consistent, superior, risk-adjusted returns.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54934",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-Equity-Tang-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA market where security prices fully reflect all publicly known and available information, but not private information, is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "41105259-5b90-4686-8c2f-3f2ab885a98e"
+                },
+                "answerFeedback": {
+                    "41105259-5b90-4686-8c2f-3f2ab885a98e": "\u003cp\u003eCorrect because in a semi-strong-form efficient market, prices reflect all publicly known and available information.\u003c/p\u003e",
+                    "78001514-fc80-4a3e-94a7-35492eb4314f": "\u003cp\u003eIncorrect because in a strong-form efficient market, security prices fully reflect both public and private information.\u003c/p\u003e",
+                    "e5826371-87f9-4ddf-9dd4-8a19944af4ff": "\u003cp\u003eIncorrect because in the weak-form efficient market hypothesis, security prices fully reflect \u003ci\u003eall past market data\u003c/i\u003e. It does not include all publicly known and available information.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e5826371-87f9-4ddf-9dd4-8a19944af4ff",
+                            "itemBody": "\u003cp\u003eA. weak-form efficient.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "41105259-5b90-4686-8c2f-3f2ab885a98e",
+                            "itemBody": "\u003cp\u003eB. semi-strong-form efficient.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "78001514-fc80-4a3e-94a7-35492eb4314f",
+                            "itemBody": "\u003cp\u003eC. strong-form efficient.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54935",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-Equity-Chua-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn a weak-form efficient market, which of the following information is reflected in security prices?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "930edf8f-6a47-431a-8a04-1e3e39556fef"
+                },
+                "answerFeedback": {
+                    "7156f8fb-fe9b-48e4-be10-8ef37219e187": "\u003cp\u003eIncorrect because in the weak-form efficient market hypothesis, security prices fully reflect \u003ci\u003eall past market data\u003c/i\u003e, which refers to all historical price and trading volume information. This answer is incomplete as it does not include trading volume information.\u0026nbsp;\u003c/p\u003e",
+                    "87d3aabe-9cd9-4503-9c2a-f34709414e55": "\u003cp\u003eIncorrect because in the weak-form efficient market hypothesis, security prices fully reflect \u003ci\u003eall past market data\u003c/i\u003e, which refers to all historical price and trading volume information but does not\u0026nbsp; refer to current earnings information.\u0026nbsp;\u003c/p\u003e",
+                    "930edf8f-6a47-431a-8a04-1e3e39556fef": "\u003cp\u003eCorrect because in the weak-form efficient market hypothesis, security prices fully reflect \u003ci\u003eall past market data\u003c/i\u003e, which refers to all historical price and trading volume information.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7156f8fb-fe9b-48e4-be10-8ef37219e187",
+                            "itemBody": "\u003cp\u003eA. Historical prices only\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "930edf8f-6a47-431a-8a04-1e3e39556fef",
+                            "itemBody": "\u003cp\u003eB. Historical prices and historical trading volumes only\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "87d3aabe-9cd9-4503-9c2a-f34709414e55",
+                            "itemBody": "\u003cp\u003eC. Historical prices, historical trading volumes, and current earnings\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54936",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Equity-Milosevic-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWith respect to behavioral biases, when investors tend to be slow to react to new information and continue to maintain their prior views, this is \u003ci\u003ebest \u003c/i\u003edescribed as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e3f265e0-d78d-4b49-93b0-173013502a10"
+                },
+                "answerFeedback": {
+                    "d33f92b3-4e0b-42c4-a824-c172ecddb95a": "\u003cp\u003eIncorrect because herding behavior has been advanced as a possible explanation of under reaction and overreaction in financial markets when investors ignore their own private information and/or analysis and act as other investors do.\u003c/p\u003e",
+                    "e3a66021-1cee-463b-bc7f-652e79caa6a7": "\u003cp\u003eIncorrect because representative\u0026nbsp;investors assess new information and probabilities of outcomes based on similarity to the current state or to a familiar classification.\u003c/p\u003e",
+                    "e3f265e0-d78d-4b49-93b0-173013502a10": "\u003cp\u003eCorrect because conservative investors tend to be slow to react to new information and continue to maintain their prior views or forecasts.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e3f265e0-d78d-4b49-93b0-173013502a10",
+                            "itemBody": "\u003cp\u003eA. conservatism.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d33f92b3-4e0b-42c4-a824-c172ecddb95a",
+                            "itemBody": "\u003cp\u003eB. herding behavior.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e3a66021-1cee-463b-bc7f-652e79caa6a7",
+                            "itemBody": "\u003cp\u003eC. representativeness.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54937",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Equity-Milosevic-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe size effect anomaly results when it is observed that on a risk-adjusted basis small cap companies tend to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "eb8f3e12-a08e-4eab-a25e-2501dc2af06c"
+                },
+                "answerFeedback": {
+                    "6ed5d363-67dc-43b7-8ac4-845ce84f384b": "\u003cp\u003eIncorrect because the size effect results from the observation that equities of small-cap companies tend to outperform equities of large-cap companies on a risk-adjusted basis.\u003c/p\u003e",
+                    "d6012365-5066-491f-ba25-6d5292a7e98b": "\u003cp\u003eIncorrect because the size effect results from the observation that equities of small-cap companies tend to outperform equities of large-cap companies on a risk-adjusted basis.\u003c/p\u003e",
+                    "eb8f3e12-a08e-4eab-a25e-2501dc2af06c": "\u003cp\u003eCorrect because the size effect results from the observation that equities of small-cap companies tend to outperform equities of large-cap companies on a risk-adjusted basis.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d6012365-5066-491f-ba25-6d5292a7e98b",
+                            "itemBody": "\u003cp\u003eA. underperform equities of large-cap companies.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6ed5d363-67dc-43b7-8ac4-845ce84f384b",
+                            "itemBody": "\u003cp\u003eB. perform in line with equities of large-cap companies.\u0026nbsp;\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "eb8f3e12-a08e-4eab-a25e-2501dc2af06c",
+                            "itemBody": "\u003cp\u003eC. outperform equities of large-cap companies.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54938",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Equity-Grabe-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eBehavioral finance:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0dcd1970-f70d-4e8a-ae75-9f9d8784c9ff"
+                },
+                "answerFeedback": {
+                    "0dcd1970-f70d-4e8a-ae75-9f9d8784c9ff": "\u003cp\u003eCorrect because the focus of much of the work in this area is on the behavioral biases that affect investment decisions. The behavior of individuals, in particular their behavioral biases, has been offered as a possible explanation for a number of pricing anomalies.\u003c/p\u003e",
+                    "3318a157-2e20-4f98-ada9-d479d80d1df3": "\u003cp\u003eIncorrect because behavioral biases can affect all market participants, from the novice investor to the most experienced investment manager.\u003c/p\u003e",
+                    "92c86a92-c628-4657-892f-b7279f677ff4": "\u003cp\u003eIncorrect because behavioral finance does not assume that people consider all available information in decision-making.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3318a157-2e20-4f98-ada9-d479d80d1df3",
+                            "itemBody": "\u003cp\u003eA. suggests that behavioral biases only affect novice investors.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0dcd1970-f70d-4e8a-ae75-9f9d8784c9ff",
+                            "itemBody": "\u003cp\u003eB. provides a possible explanation for a number of pricing anomalies.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "92c86a92-c628-4657-892f-b7279f677ff4",
+                            "itemBody": "\u003cp\u003eC. relies on the assumption that people\u0026nbsp;consider all available information in decision-making.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54939",
+            "entry": {
+                "title": "ITEM_CFA-L1-05201",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eTrading by arbitrageurs \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "cb81533e-d71e-42a6-b78b-da67972b72cd"
+                },
+                "answerFeedback": {
+                    "0540a5d0-5ddd-498e-8d17-0d7712addc10": "\u003cp\u003eIncorrect because arbitrageurs provide liquidity to buyers and sellers who arrive at different markets at the same time. They move liquidity across markets. Arbitrageurs provide liquidity to the markets because they make it easier for buyers and sellers to trade when and where they want to trade.\u003c/p\u003e",
+                    "cb81533e-d71e-42a6-b78b-da67972b72cd": "\u003cp\u003eCorrect because arbitrageurs are traders who engage in such trades to benefit from pricing discrepancies (inefficiencies) in markets. Such trading activity contributes to market efficiency. The presence of these arbitrageurs helps pricing discrepancies disappear quickly.\u003c/p\u003e",
+                    "ef3b16be-bf32-4b6b-a22b-2fe3aa775ca8": "\u003cp\u003eIncorrect because the presence of arbitrageurs helps pricing discrepancies disappear quickly.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0540a5d0-5ddd-498e-8d17-0d7712addc10",
+                            "itemBody": "\u003cp\u003eA. reduces liquidity.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ef3b16be-bf32-4b6b-a22b-2fe3aa775ca8",
+                            "itemBody": "\u003cp\u003eB. increases pricing discrepancies.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "cb81533e-d71e-42a6-b78b-da67972b72cd",
+                            "itemBody": "\u003cp\u003eC. contributes to market efficiency.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54940",
+            "entry": {
+                "title": "ITEM_CFA-L1-06682",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eDecreased market efficiency is \u003ci\u003emost likely\u003c/i\u003e associated with an increase in:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1fc340e2-fef2-417b-bab3-1cd05ab0d44f"
+                },
+                "answerFeedback": {
+                    "1fc340e2-fef2-417b-bab3-1cd05ab0d44f": "\u003cp\u003eCorrect because an increase in transaction costs will increase the price discrepancy between market price and efficient price. Higher transaction costs make it more expensive for traders to exploit market inefficiencies, thereby decreasing market efficiency. Inefficiencies may also be unexploitable if the amount of the transaction cost offsets the amount of the price discrepancy. A price discrepancy must be sufficiently large to leave the investor with a profit (adjusted for risk) after taking account of the transaction costs and information-acquisition costs to reach the conclusion that the discrepancy may represent a market inefficiency.\u003c/p\u003e",
+                    "b1440404-2614-490f-a036-9c806e5a75ea": "\u003cp\u003eIncorrect because rules and regulations that promote fairness and efficiency in a market include those pertaining to the disclosure of information and illegal insider trading.\u003c/p\u003e",
+                    "e2965dcf-63b0-468a-bc28-a0f8623978a0": "\u003cp\u003eIncorrect because an increase in the number of market participants increases efficiency. If a\u0026nbsp;large number of investors (individual and institutional) follow the major financial markets closely on a daily basis, and if mispricings exist in these markets, investors will act so that these mispricings disappear quickly.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1fc340e2-fef2-417b-bab3-1cd05ab0d44f",
+                            "itemBody": "\u003cp\u003eA. transaction costs.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b1440404-2614-490f-a036-9c806e5a75ea",
+                            "itemBody": "\u003cp\u003eB. financial disclosure.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e2965dcf-63b0-468a-bc28-a0f8623978a0",
+                            "itemBody": "\u003cp\u003eC. the number of market participants.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54941",
+            "entry": {
+                "title": "ITEM_CFA-L1-07562",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn contrast to the market value of an equity security, intrinsic value is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "24b46eb7-c865-4588-9266-64a4bb889c93"
+                },
+                "answerFeedback": {
+                    "24b46eb7-c865-4588-9266-64a4bb889c93": "\u003cp\u003eCorrect because market value is the price at which an asset can currently be bought or sold. Intrinsic value (sometimes called fundamental value) is, broadly speaking, the value that would be placed on it by investors if they had a complete understanding of the asset's investment characteristics. Intrinsic value can be estimated but is not known for certain.\u003c/p\u003e",
+                    "d2cf5ac4-485f-488b-92fe-b6cc664f54c1": "\u003cp\u003eIncorrect because the market value of an asset represents the intersection of supply and demand—the point that is low enough to induce at least one investor to buy while being high enough to induce at least one investor to sell.\u0026nbsp;Intrinsic value is the present value of future cash flows as opposed to the intersection of supply and demand.\u003c/p\u003e",
+                    "f6fe8112-38aa-46a6-8952-0493428ccaa9": "\u003cp\u003eIncorrect because information relevant to valuation flows continually to investors, estimates of intrinsic value change, and hence, market values change.\u0026nbsp;Neither market value or intrinsic value are constant.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "24b46eb7-c865-4588-9266-64a4bb889c93",
+                            "itemBody": "\u003cp\u003eA. not known with certainty.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f6fe8112-38aa-46a6-8952-0493428ccaa9",
+                            "itemBody": "\u003cp\u003eB. constant throughout the life of the security.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d2cf5ac4-485f-488b-92fe-b6cc664f54c1",
+                            "itemBody": "\u003cp\u003eC. determined by the intersection of supply and demand.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54942",
+            "entry": {
+                "title": "ITEM_CFA-L1-09430",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe January effect is an example of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6dcecd45-b884-44c7-bae9-6cf7cbbe7848"
+                },
+                "answerFeedback": {
+                    "6dcecd45-b884-44c7-bae9-6cf7cbbe7848": "\u003cp\u003eCorrect because the January effect, has been observed in most equity markets around the world. This anomaly is also known as the \"turn-of-the-year\" effect. The January effect is a time series anomaly and is an observed pricing anomaly.\u0026nbsp;\u003c/p\u003e",
+                    "762048dc-628e-43ad-841c-c50684701320": "\u003cp\u003eIncorrect because earnings surprise, is the portion of earnings that is unanticipated by investors and, according to the efficient market hypothesis, merits a price adjustment. Earnings surprise is a type of market anomaly but is not the January effect.\u003c/p\u003e",
+                    "a855a70f-ba2e-4c0d-a15f-74b9091ee69d": "\u003cp\u003eIncorrect because loss aversion refers to the tendency of people to dislike losses more than they like comparable gains. Some argue that behavioral theories of loss aversion can explain observed overreaction in markets. Thus loss aversion is related to behavioral finance and is not a market anomaly.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a855a70f-ba2e-4c0d-a15f-74b9091ee69d",
+                            "itemBody": "\u003cp\u003eA. loss aversion.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "762048dc-628e-43ad-841c-c50684701320",
+                            "itemBody": "\u003cp\u003eB. an earnings surprise.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6dcecd45-b884-44c7-bae9-6cf7cbbe7848",
+                            "itemBody": "\u003cp\u003eC. a market pricing anomaly.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54943",
+            "entry": {
+                "title": "ITEM_CFA-L1-08314",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAccording to the efficient market hypothesis, if market prices reflect private information, the market is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1c0766ca-2665-499f-931c-899e70287b72"
+                },
+                "answerFeedback": {
+                    "07757b9b-8d6e-444a-96a1-3c9f01e73b78": "\u003cp\u003eIncorrect because it is possible to earn abnormal profits from trading on private information when the market is weak-form efficient only. Market prices do not reflect private information under weak form market efficiency.\u003c/p\u003e",
+                    "1c0766ca-2665-499f-931c-899e70287b72": "\u003cp\u003eCorrect because in the case of a strong-form efficient market, insiders would not be able to earn abnormal returns from trading on the basis of private information. Market prices reflect private information under strong form market efficiency.\u003c/p\u003e",
+                    "6618e144-b195-4e07-897c-46abdcd87d22": "\u003cp\u003eIncorrect because it is possible to earn abnormal profits from trading on private information when the market is semi-strong-form efficient only. Market prices do not reflect private information under semi-strong form market efficiency.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1c0766ca-2665-499f-931c-899e70287b72",
+                            "itemBody": "\u003cp\u003eA. strong-form efficient.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "07757b9b-8d6e-444a-96a1-3c9f01e73b78",
+                            "itemBody": "\u003cp\u003eB. weak-form efficient only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6618e144-b195-4e07-897c-46abdcd87d22",
+                            "itemBody": "\u003cp\u003eC. semi-strong-form efficient, but not strong-form efficient.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54944",
+            "entry": {
+                "title": "ITEM_CFA-L1-08096",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following market anomalies is \u003ci\u003ebest\u003c/i\u003e described as a time-series anomaly?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "62008096-db31-4121-aab2-f540421c9a47"
+                },
+                "answerFeedback": {
+                    "412dc7b4-c99c-4298-b356-ae995937c039": "\u003cp\u003eIncorrect because the Initial Public Offering (IPO) anomaly is best described as an “other” anomaly.\u003c/p\u003e",
+                    "62008096-db31-4121-aab2-f540421c9a47": "\u003cp\u003eCorrect because the momentum anomaly is best described as a time-series anomaly. Momentum anomalies relate to short-term share price patterns where past price moves continued through time to move in the same direction.\u003c/p\u003e",
+                    "ad4e0f0d-68c4-451d-b8dd-9a572707fbf2": "\u003cp\u003eIncorrect because the size effect is a cross-sectional anomaly, not a time-series anomaly. Two of the most researched cross-sectional anomalies in financial markets are the size effect and the value effect. The size effect results from the observation that equities of small-cap companies tend to outperform equities of large-cap companies on a risk-adjusted basis.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ad4e0f0d-68c4-451d-b8dd-9a572707fbf2",
+                            "itemBody": "\u003cp\u003eA. Size effect\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "62008096-db31-4121-aab2-f540421c9a47",
+                            "itemBody": "\u003cp\u003eB. Momentum\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "412dc7b4-c99c-4298-b356-ae995937c039",
+                            "itemBody": "\u003cp\u003eC. Initial Public Offerings\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54945",
+            "entry": {
+                "title": "ITEM_CFA-L1-10246",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFundamental analysis \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "29cfef14-24da-4cf9-8242-ec817c7be00a"
+                },
+                "answerFeedback": {
+                    "01681cde-4a0f-4058-b132-f0e5cf4683ab": "\u003cp\u003eIncorrect because fundamental analysis is an attempt to make active portfolio management decisions, not passive management. Passive management focuses on replicating indexes as investment vehicles.\u0026nbsp;\u003c/p\u003e",
+                    "29cfef14-24da-4cf9-8242-ec817c7be00a": "\u003cp\u003eCorrect because fundamental analysis is necessary in a well-functioning market because this analysis helps the market participants understand the value implications of information.\u003c/p\u003e",
+                    "3d0d778c-26c9-4b21-97a2-4a038c950459": "\u003cp\u003eIncorrect because fundamental analysis involves the estimation of an asset's value using company data, such as earnings and sales forecasts and not stock price patterns. Instead, technical analysis is the use of price patterns in attempt to profit from them.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3d0d778c-26c9-4b21-97a2-4a038c950459",
+                            "itemBody": "\u003cp\u003eA. uses stock price patterns to trade.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "01681cde-4a0f-4058-b132-f0e5cf4683ab",
+                            "itemBody": "\u003cp\u003eB. is an input for passive portfolio management.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "29cfef14-24da-4cf9-8242-ec817c7be00a",
+                            "itemBody": "\u003cp\u003eC. helps participants understand the value implications of information.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54946",
+            "entry": {
+                "title": "ITEM_CFA-L1-07070",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eOver the long run, if a market is semi-strong-form efficient, which of the following investment strategies should result in the highest return to investors? A(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dedae652-4690-4a29-b1ca-65ac0b566639"
+                },
+                "answerFeedback": {
+                    "9f8576f3-f0e7-42de-89d5-102f9242a49a": "\u003cp\u003eIncorrect because if securities markets are semi-strong-form efficient, the implication is that active trading attempting to exploit price patterns is not likely to generate abnormal returns. In other words, portfolio managers cannot beat the market on a consistent basis, so therefore, passive portfolio management should outperform active portfolio management.\u003c/p\u003e",
+                    "dd4e526c-5888-48f3-ad13-21cd66401803": "\u003cp\u003eIncorrect because if securities markets are semi-strong-form efficient, the implication is that active trading attempting to exploit public information is not likely to generate abnormal returns. In other words, portfolio managers cannot beat the market on a consistent basis, so therefore, passive portfolio management should outperform active portfolio management.\u003c/p\u003e",
+                    "dedae652-4690-4a29-b1ca-65ac0b566639": "\u003cp\u003eCorrect because if securities markets are weak-form and semi-strong-form efficient, the implication is that active trading, whether attempting to exploit price patterns or public information, is not likely to generate abnormal returns. In other words, portfolio managers cannot beat the market on a consistent basis, so therefore, passive portfolio management should outperform active portfolio management.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "dedae652-4690-4a29-b1ca-65ac0b566639",
+                            "itemBody": "\u003cp\u003eA. passive investment strategy\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9f8576f3-f0e7-42de-89d5-102f9242a49a",
+                            "itemBody": "\u003cp\u003eB. active trading strategy seeking to exploit price patterns\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "dd4e526c-5888-48f3-ad13-21cd66401803",
+                            "itemBody": "\u003cp\u003eC. active trading strategy seeking to exploit public information\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 17,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54947",
+            "entry": {
+                "title": "ITEM_2019B Equity 06EKH",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn which of the following forms of market efficiency are investors able to consistently outperform the market using fundamental analysis?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f5760074-decb-4929-a097-a1fb83741141"
+                },
+                "answerFeedback": {
+                    "2867279a-c5f6-4246-8638-c104f9387433": "\u003cp\u003eIncorrect because in a semi-strong market, all public information - past and present - is available making fundamental analysis less effective.\u0026nbsp;\u003c/p\u003e",
+                    "f5760074-decb-4929-a097-a1fb83741141": "\u003cp\u003eCorrect because in the weak form of market efficiency, market prices reflect all past market data; however, it does not incorporate all public information. Therefore, investors may use fundamental analysis to outperform the market.\u003c/p\u003e",
+                    "f7ef1af6-0683-4838-9486-fe62f226944d": "\u003cp\u003eIncorrect because in\u0026nbsp;a strong-form efficient market, security prices fully reflect both public and private information. In the case of a strong-form efficient market, insiders would not be able to earn abnormal returns from trading (even) on the basis of private information.\u0026nbsp;Therefore, they cannot outperform the market using fundamental analysis.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f5760074-decb-4929-a097-a1fb83741141",
+                            "itemBody": "\u003cp\u003eA. Weak-form market efficiency\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2867279a-c5f6-4246-8638-c104f9387433",
+                            "itemBody": "\u003cp\u003eB. Semi-strong-form market efficiency\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f7ef1af6-0683-4838-9486-fe62f226944d",
+                            "itemBody": "\u003cp\u003eC. Strong-form market efficiency\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 18,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8846,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4674,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53337",
+            "entry": {
+                "title": "CFA0163-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. A security’s intrinsic value and market value should be equal when markets are efficient.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf markets are efficient, the difference between the intrinsic value and market value of a company’s security is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3d4b5a13-8211-474d-9955-ac8b720ca358"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "adfe5a5f-a913-4c01-945e-53210d866bec",
+                            "itemBody": "A. negative.",
+                            "position": 1
+                        },
+                        {
+                            "id": "3d4b5a13-8211-474d-9955-ac8b720ca358",
+                            "itemBody": "B. zero.",
+                            "position": 2
+                        },
+                        {
+                            "id": "c18ac727-e72d-4f5b-9526-125cfaec60f4",
+                            "itemBody": "C. positive.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53338",
+            "entry": {
+                "title": "CFA0163-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The intrinsic value of an undervalued asset is greater than the market value of the asset, where the market value is the transaction price at which an asset can be currently bought or sold.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe intrinsic value of an undervalued asset is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0e1d7875-bdd4-479c-9eca-acb14017c96f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9a8a11f6-1d35-4cab-b264-d7763f0e52c2",
+                            "itemBody": "A. less than the asset’s market value.",
+                            "position": 1
+                        },
+                        {
+                            "id": "0e1d7875-bdd4-479c-9eca-acb14017c96f",
+                            "itemBody": "B. greater than the asset’s market value.",
+                            "position": 2
+                        },
+                        {
+                            "id": "5ee366ac-d12b-4904-a833-f5a3c5ed4783",
+                            "itemBody": "C. the value at which the asset can currently be bought or sold.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53339",
+            "entry": {
+                "title": "CFA0163-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The market value is the transaction price at which an asset can be currently bought or sold.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe market value of an undervalued asset is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0a5969f6-cc7a-4b3d-a558-6603ab20f564"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "59c6542a-8992-4f39-8120-88df5fed75ce",
+                            "itemBody": "A. greater than the asset’s intrinsic value.",
+                            "position": 1
+                        },
+                        {
+                            "id": "0a5969f6-cc7a-4b3d-a558-6603ab20f564",
+                            "itemBody": "B. the value at which the asset can currently be bought or sold.",
+                            "position": 2
+                        },
+                        {
+                            "id": "f94a7a82-8ff7-4955-b9b2-97c5bdb851f6",
+                            "itemBody": "C. equal to the present value of all the asset’s expected cash flows.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53340",
+            "entry": {
+                "title": "CFA0163-Q1",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Today’s price change is independent of the one from yesterday, and in an efficient market, investors will react to new, independent information as it is made public.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn an efficient market, the change in a company’s share price is \u003cem\u003emost likely\u003c/em\u003e the result of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dba4fad5-b41a-442a-94f9-f127f583edf8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "db556ea7-af24-4e3c-bbad-cef96fd6a535",
+                            "itemBody": "A. insiders’ private information.",
+                            "position": 1
+                        },
+                        {
+                            "id": "a69610bd-50fb-4fad-a54f-e86939776e56",
+                            "itemBody": "B. the previous day’s change in stock price.",
+                            "position": 2
+                        },
+                        {
+                            "id": "dba4fad5-b41a-442a-94f9-f127f583edf8",
+                            "itemBody": "C. new information coming into the market.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53341",
+            "entry": {
+                "title": "CFA0163-Q2",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Reducing the number of market participants can accentuate market imperfections and impede market efficiency (e.g., restrictions on foreign investor trading).\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eRegulation that restricts some investors from participating in a market will \u003cem\u003emost likely\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "56700cf1-fbb1-45cd-9258-040e0c341e20"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "56700cf1-fbb1-45cd-9258-040e0c341e20",
+                            "itemBody": "A. impede market efficiency.",
+                            "position": 1
+                        },
+                        {
+                            "id": "3dbe5cb8-3ed0-4b1b-b87b-ae2f6e824a22",
+                            "itemBody": "B. not affect market efficiency.",
+                            "position": 2
+                        },
+                        {
+                            "id": "1aa293b4-1799-4fcd-9e99-ac82dd809900",
+                            "itemBody": "C. contribute to market efficiency.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53342",
+            "entry": {
+                "title": "CFA0163-Q3",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. According to theory, reducing the restrictions on trading will allow for more arbitrage trading, thereby promoting more efficient pricing. Although regulators argue that short selling exaggerates downward price movements, empirical research indicates that short selling is helpful in price discovery.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWith respect to efficient market theory, when a market allows short selling, the efficiency of the market is \u003cem\u003emost likely\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c079c357-74fa-44e2-8364-848145b5a95d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c079c357-74fa-44e2-8364-848145b5a95d",
+                            "itemBody": "A. increase.",
+                            "position": 1
+                        },
+                        {
+                            "id": "a954790e-8317-42d1-b0ed-be01ff45f87f",
+                            "itemBody": "B. decrease.",
+                            "position": 2
+                        },
+                        {
+                            "id": "02f356c1-265c-4e2a-a060-969959f61e36",
+                            "itemBody": "C. remain the same.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53343",
+            "entry": {
+                "title": "CFA0163-Q4",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Regulation to restrict unfair use of nonpublic information encourages greater participation in the market, which increases market efficiency. Regulators (e.g., US SEC) discourage illegal insider trading by issuing penalties to violators of their insider trading rules.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following regulations will \u003cem\u003emost likely\u003c/em\u003e contribute to market efficiency? Regulatory restrictions on:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "afba662f-13bf-4876-aa08-a535c4f7ace3"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7155f9a6-4bf5-43f8-8722-f3d827009f36",
+                            "itemBody": "A. short selling.",
+                            "position": 1
+                        },
+                        {
+                            "id": "22a5da9a-591b-4c0c-8d6a-f3e694b0f794",
+                            "itemBody": "B. foreign traders.",
+                            "position": 2
+                        },
+                        {
+                            "id": "afba662f-13bf-4876-aa08-a535c4f7ace3",
+                            "itemBody": "C. insiders trading with nonpublic information.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53344",
+            "entry": {
+                "title": "CFA0163-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Restricting short selling will reduce arbitrage trading, which promotes market efficiency. Permitting foreign investor trading increases market participation, which makes markets more efficient. Penalizing insider trading encourages greater market participation, which increases market efficiency.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following market regulations will \u003cem\u003emost likely\u003c/em\u003e impede market efficiency?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1c508720-cba5-4a8a-80be-3c1b34285862"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1c508720-cba5-4a8a-80be-3c1b34285862",
+                            "itemBody": "A. Restricting traders’ ability to short sell.",
+                            "position": 1
+                        },
+                        {
+                            "id": "dc3f238f-ec59-4439-bed1-4f17b20ee21d",
+                            "itemBody": "B. Allowing unrestricted foreign investor trading.",
+                            "position": 2
+                        },
+                        {
+                            "id": "5110cfe6-bc73-4731-a13f-9d3761ae7855",
+                            "itemBody": "C. Penalizing investors who trade with nonpublic information.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53345",
+            "entry": {
+                "title": "CFA0163-Q18",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Operating inefficiencies reduce market efficiency.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn increase in the time between when an order to trade a security is placed and when the order is executed \u003cem\u003emost likely\u003c/em\u003e indicates that market efficiency has:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "352ebeb9-4370-42f3-aa78-bbd48a104905"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "352ebeb9-4370-42f3-aa78-bbd48a104905",
+                            "itemBody": "A. decreased.",
+                            "position": 1
+                        },
+                        {
+                            "id": "f1b2c6ad-e04a-462f-9992-d36ee0383682",
+                            "itemBody": "B. remained the same.",
+                            "position": 2
+                        },
+                        {
+                            "id": "f3ffaa29-341d-48f5-8a4c-d7d6372d9fe7",
+                            "itemBody": "C. increased.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53346",
+            "entry": {
+                "title": "CFA0163-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The weak-form efficient market hypothesis is defined as a market where security prices fully reflect all market data, which refers to all past price and trading volume information.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWith respect to the efficient market hypothesis, if security prices reflect \u003cem\u003eonly\u003c/em\u003e past prices and trading volume information, then the market is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e128874f-1c7a-4199-9049-b7531df72d0d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e128874f-1c7a-4199-9049-b7531df72d0d",
+                            "itemBody": "A. weak-form efficient.",
+                            "position": 1
+                        },
+                        {
+                            "id": "bcd0b045-9848-4e53-bade-883524a55cfd",
+                            "itemBody": "B. strong-form efficient.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2afac703-baf3-47d3-a90c-f0d5c2506e8b",
+                            "itemBody": "C. semi-strong-form efficient.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53347",
+            "entry": {
+                "title": "CFA0163-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. In semi-strong-form efficient markets, security prices reflect all publicly available information.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich one of the following statements \u003cem\u003ebest\u003c/em\u003e describes the semi-strong form of market efficiency?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "56145673-a08d-461f-9453-f2accba79563"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5711b47a-2098-479f-8435-eea801a8082b",
+                            "itemBody": "A. Empirical tests examine the historical patterns in security prices.",
+                            "position": 1
+                        },
+                        {
+                            "id": "56145673-a08d-461f-9453-f2accba79563",
+                            "itemBody": "B. Security prices reflect all publicly known and available information.",
+                            "position": 2
+                        },
+                        {
+                            "id": "475a680c-0b89-4da6-a212-107b5bfd912b",
+                            "itemBody": "C. Semi-strong-form efficient markets are not necessarily weak-form efficient.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53348",
+            "entry": {
+                "title": "CFA0163-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The strong-form efficient market hypothesis assumes all information, public or private, has already been reflected in the prices.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf prices reflect all public and private information, the market is \u003cem\u003ebest\u003c/em\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6b92c116-49b6-46e3-9bf7-88cc58d224cd"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "10c47593-320a-4360-bdad-5656acecf470",
+                            "itemBody": "A. weak-form efficient.",
+                            "position": 1
+                        },
+                        {
+                            "id": "6b92c116-49b6-46e3-9bf7-88cc58d224cd",
+                            "itemBody": "B. strong-form efficient.",
+                            "position": 2
+                        },
+                        {
+                            "id": "53bed876-9879-46f6-9c98-8ff9cf02be08",
+                            "itemBody": "C. semi-strong-form efficient.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53349",
+            "entry": {
+                "title": "CFA0163-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. If all public information should already be reflected in the market price, then the abnormal trading profit will be equal to zero when fundamental analysis is used.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf markets are semi-strong efficient, standard fundamental analysis will yield abnormal trading profits that are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f2791490-d355-4c18-8b4d-6763a227b543"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2424c601-401a-49c6-addf-b0a5d4660138",
+                            "itemBody": "A. negative.",
+                            "position": 1
+                        },
+                        {
+                            "id": "f2791490-d355-4c18-8b4d-6763a227b543",
+                            "itemBody": "B. equal to zero.",
+                            "position": 2
+                        },
+                        {
+                            "id": "fb0492db-7604-4afb-9721-25cde676ff9f",
+                            "itemBody": "C. positive.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53350",
+            "entry": {
+                "title": "CFA0163-Q13",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Costs associated with active trading strategies would be difficult to recover; thus, such active trading strategies would have difficulty outperforming passive strategies on a consistent after-cost basis.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf markets are semi-strong-form efficient, then passive portfolio management strategies are \u003cem\u003emost likely\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9a37946f-46fe-4902-ac46-3e9e079f357d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0c82c253-1dd9-4069-a9ba-8ea2ef639aae",
+                            "itemBody": "A. earn abnormal returns.",
+                            "position": 1
+                        },
+                        {
+                            "id": "9a37946f-46fe-4902-ac46-3e9e079f357d",
+                            "itemBody": "B. outperform active trading strategies.",
+                            "position": 2
+                        },
+                        {
+                            "id": "317347f3-1c1a-47e7-a652-7bf2de700f96",
+                            "itemBody": "C. underperform active trading strategies.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53351",
+            "entry": {
+                "title": "CFA0163-Q14",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. In a semi-strong-form efficient market, passive portfolio strategies should outperform active portfolio strategies on a risk-adjusted basis.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf a market is semi-strong-form efficient, the risk-adjusted returns of a passively managed portfolio relative to an actively managed portfolio are \u003cem\u003emost likely\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "02424bb7-9db8-449b-b664-223fc5a1f52b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8e1039b7-263a-4fd7-a470-35b3adffb40e",
+                            "itemBody": "A. lower.",
+                            "position": 1
+                        },
+                        {
+                            "id": "02424bb7-9db8-449b-b664-223fc5a1f52b",
+                            "itemBody": "B. higher.",
+                            "position": 2
+                        },
+                        {
+                            "id": "53b03b46-040e-4ec4-8cf1-7bc4ac0c6db5",
+                            "itemBody": "C. the same.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53352",
+            "entry": {
+                "title": "CFA0163-Q15",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Technical analysts use past prices and volume to predict future prices, which is inconsistent with the weakest form of market efficiency (i.e., weak-form market efficiency). Weak-form market efficiency states that investors cannot earn abnormal returns by trading on the basis of past trends in price and volume.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eTechnical analysts assume that markets are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ae4d9f53-3ce1-4fe4-b175-4184a3f14c9d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0592776b-3694-49a9-a7b9-fba3b3c22747",
+                            "itemBody": "A. weak-form efficient.",
+                            "position": 1
+                        },
+                        {
+                            "id": "ae4d9f53-3ce1-4fe4-b175-4184a3f14c9d",
+                            "itemBody": "B. weak-form inefficient.",
+                            "position": 2
+                        },
+                        {
+                            "id": "91f26224-0504-4296-9843-a92b497b7e47",
+                            "itemBody": "C. semi-strong-form efficient.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53353",
+            "entry": {
+                "title": "CFA0163-Q16",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Fundamental analysts use publicly available information to estimate a security’s intrinsic value to determine if the security is mispriced, which is inconsistent with the semi-strong form of market efficiency. Semi-strong-form market efficiency states that investors cannot earn abnormal returns by trading based on publicly available information.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFundamental analysts assume that markets are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c9c8c27e-9d3d-4851-8ff0-5365827a0cf0"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "490d5d98-c647-40bd-8fe1-24014d1a8e5a",
+                            "itemBody": "A. weak-form inefficient.",
+                            "position": 1
+                        },
+                        {
+                            "id": "905564d0-c977-446d-9f8f-e21b208e34d6",
+                            "itemBody": "B. semi-strong-form efficient.",
+                            "position": 2
+                        },
+                        {
+                            "id": "c9c8c27e-9d3d-4851-8ff0-5365827a0cf0",
+                            "itemBody": "C. semi-strong-form inefficient.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 17,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53354",
+            "entry": {
+                "title": "CFA0163-Q17",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. If markets are not semi-strong-form efficient, then fundamental analysts are able to use publicly available information to estimate a security’s intrinsic value and identify misvalued securities. Technical analysis is not able to earn abnormal returns if markets are weak-form efficient. Passive portfolio managers outperform fundamental analysis if markets are semi-strong-form efficient.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf a market is weak-form efficient but semi-strong-form inefficient, then which of the following types of portfolio management is \u003cem\u003emost likely\u003c/em\u003e to produce abnormal returns?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "30d37d16-6a05-473c-8f26-7191a8b37b9f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "51058e93-9da3-4202-b546-7046cd7af62d",
+                            "itemBody": "A. Passive portfolio management.",
+                            "position": 1
+                        },
+                        {
+                            "id": "e1bafa68-3843-49f2-9226-91434c03fd13",
+                            "itemBody": "B. Active portfolio management based on technical analysis.",
+                            "position": 2
+                        },
+                        {
+                            "id": "30d37d16-6a05-473c-8f26-7191a8b37b9f",
+                            "itemBody": "C. Active portfolio management based on fundamental analysis.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 18,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53355",
+            "entry": {
+                "title": "CFA0163-Q20",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The excess returns in January are not attributed to any new information or news; however, research has found that part of the seasonal pattern can be explained by tax-loss selling and portfolio window dressing.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is \u003cem\u003eleast likely\u003c/em\u003e to explain the January effect anomaly?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "94147e61-df6a-4178-b36e-5d6f458b029b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "633cf1a7-2ff3-4cca-9037-15171f420c4a",
+                            "itemBody": "A. Tax-loss selling.",
+                            "position": 1
+                        },
+                        {
+                            "id": "94147e61-df6a-4178-b36e-5d6f458b029b",
+                            "itemBody": "B. Release of new information in January.",
+                            "position": 2
+                        },
+                        {
+                            "id": "d2267076-19ad-4706-abc7-f39ab36f660d",
+                            "itemBody": "C. Window dressing of portfolio holdings.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 19,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53356",
+            "entry": {
+                "title": "CFA0163-Q21",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Finding significant abnormal returns does not necessarily indicate that markets are inefficient or that abnormal returns can be realized by applying the strategy to future time periods. Abnormal returns are considered market anomalies because they may be the result of the model used to estimate the expected returns or may be the result of underestimating transaction costs or other expenses associated with implementing the strategy, rather than because of market inefficiency.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf a researcher conducting empirical tests of a trading strategy using time series of returns finds statistically significant abnormal returns, then the researcher has \u003cem\u003emost likely\u003c/em\u003e found:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "076f9589-fcef-4f82-b046-620df1ccba77"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "076f9589-fcef-4f82-b046-620df1ccba77",
+                            "itemBody": "A. a market anomaly.",
+                            "position": 1
+                        },
+                        {
+                            "id": "801d30e7-5480-44b1-85ea-7547373eb351",
+                            "itemBody": "B. evidence of market inefficiency.",
+                            "position": 2
+                        },
+                        {
+                            "id": "603f9328-7a7a-4a8c-8514-c21c52434bdf",
+                            "itemBody": "C. a strategy to produce future abnormal returns.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 20,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53357",
+            "entry": {
+                "title": "CFA0163-Q23",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Higher than average dividend yield is a characteristic of a value stock, along with low price-to-earnings and low market-to-book ratios. Growth stocks are characterized by low dividend yields and high price-to-earnings and high market-to-book ratios.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eResearchers have found that value stocks have consistently outperformed growth stocks. An investor wishing to exploit the value effect should purchase the stock of companies with above-average:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "91ec7f07-24d2-4d9c-b602-7a75ca625fcc"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "91ec7f07-24d2-4d9c-b602-7a75ca625fcc",
+                            "itemBody": "A. dividend yields.",
+                            "position": 1
+                        },
+                        {
+                            "id": "8fa2694a-1ab3-4f62-af67-0992efa02213",
+                            "itemBody": "B. market-to-book ratios.",
+                            "position": 2
+                        },
+                        {
+                            "id": "c1579c6e-9f1f-4383-a035-621c1da9fb6c",
+                            "itemBody": "C. price-to-earnings ratios.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 21,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53358",
+            "entry": {
+                "title": "CFA0163-Q22",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Trading based on historical momentum indicates that price patterns exist and can be exploited by using historical price information. A momentum trading strategy that produces abnormal returns contradicts the weak form of the efficient market hypothesis, which states that investors cannot earn abnormal returns on the basis of past trends in prices.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following market anomalies is inconsistent with weak-form market efficiency?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "08e444cf-05d3-4d8f-af64-c56fda009733"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "32770a60-2f59-4389-a8db-f4d373f4f014",
+                            "itemBody": "A. Earnings surprise.",
+                            "position": 1
+                        },
+                        {
+                            "id": "08e444cf-05d3-4d8f-af64-c56fda009733",
+                            "itemBody": "B. Momentum pattern.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b72f5100-5496-4e46-9cbd-013f8743a525",
+                            "itemBody": "C. Closed-end fund discount.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 22,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53359",
+            "entry": {
+                "title": "CFA0163-Q19",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. If markets are efficient, the information from the annual report is reflected in the stock prices; therefore, the gradual changes must be from the release of additional information.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWith respect to efficient markets, a company whose share price changes gradually after the public release of its annual report \u003cem\u003emost likely\u003c/em\u003e indicates that the market where the company trades is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "43f1c0fc-bb18-494b-9c43-202d77c15062"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "67595c3c-2049-49b6-914b-854b076d6090",
+                            "itemBody": "\u003cp\u003eA. strong-form efficient.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "bb8d09b1-75a2-45c1-8c9b-e8321b2b7de4",
+                            "itemBody": "B. subject to behavioral biases.",
+                            "position": 2
+                        },
+                        {
+                            "id": "43f1c0fc-bb18-494b-9c43-202d77c15062",
+                            "itemBody": "C. receiving additional information about the company.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 23,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53360",
+            "entry": {
+                "title": "CFA0163-Q24",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The efficient market hypothesis and asset-pricing models only require that the market is rational. Behavioral finance is used to explain \u003cem\u003esome\u003c/em\u003e of the market anomalies as irrational decisions.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWith respect to rational and irrational investment decisions, the efficient market hypothesis requires:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0d84f850-6684-4e2c-9378-c62f716cda41"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0d84f850-6684-4e2c-9378-c62f716cda41",
+                            "itemBody": "A. only that the market is rational.",
+                            "position": 1
+                        },
+                        {
+                            "id": "0988a1eb-6ce3-442a-8577-2cb634e20768",
+                            "itemBody": "B. that all investors make rational decisions.",
+                            "position": 2
+                        },
+                        {
+                            "id": "eb2a9d40-74ea-4741-a731-31138c142fc7",
+                            "itemBody": "C. that some investors make irrational decisions.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 24,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53361",
+            "entry": {
+                "title": "CFA0163-Q25",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Behavioral theories of loss aversion can explain observed overreaction in markets, such that investors dislike losses more than comparable gains (i.e., risk is not symmetrical).\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eObserved overreactions in markets can be explained by an investor’s degree of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6b86ca8b-9308-4bfa-b651-1ba6c8697a3d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a44af6a4-5fc9-40fb-9b84-d9df1078fa4f",
+                            "itemBody": "A. risk aversion.",
+                            "position": 1
+                        },
+                        {
+                            "id": "6b86ca8b-9308-4bfa-b651-1ba6c8697a3d",
+                            "itemBody": "B. loss aversion.",
+                            "position": 2
+                        },
+                        {
+                            "id": "79c6d9f1-8a3f-4480-8cc1-e4e115dfbcc4",
+                            "itemBody": "C. confidence in the market.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 25,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53362",
+            "entry": {
+                "title": "CFA0163-Q26",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Behavioral theories of loss aversion allow for the possibility that the dislike for risk is not symmetrical, which allows for loss aversion to explain observed overreaction in markets such that investors dislike losses more than they like comparable gains.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eLike traditional finance models, the behavioral theory of loss aversion assumes that investors dislike risk; however, the dislike of risk in behavioral theory is assumed to be:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9de28a00-71bc-4cd1-bd10-e9adbb5231e3"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "53e19bce-b04a-4603-8129-875c66eb2980",
+                            "itemBody": "A. leptokurtic.",
+                            "position": 1
+                        },
+                        {
+                            "id": "d39f42ce-9a11-44d4-9962-dbe7d5b1332b",
+                            "itemBody": "B. symmetrical.",
+                            "position": 2
+                        },
+                        {
+                            "id": "9de28a00-71bc-4cd1-bd10-e9adbb5231e3",
+                            "itemBody": "C. asymmetrical.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 26,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8516,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53788",
+            "entry": {
+                "title": "ITEM_20170516001",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe behavioral bias in which investors tend to avoid realizing losses but rather seek to realize gains is \u003ci\u003ebest\u003c/i\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "213e5651-5bd4-4a04-82a8-8803c4f29a2c"
+                },
+                "answerFeedback": {
+                    "213e5651-5bd4-4a04-82a8-8803c4f29a2c": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Behavioral biases in which investors tend to avoid realizing losses but rather seek to realize gains is the disposition effect.\u003c/p\u003e",
+                    "d9813fd6-44e2-4a6b-b87a-25dc738954fd": "\u003cp\u003eIncorrect. The disposition effect is a behavioral bias in which investors tend to avoid realizing losses but rather seek to realize gains.\u003c/p\u003e",
+                    "e7c7a77a-a282-4f6f-a0ec-cd8696fa9b2c": "\u003cp\u003eIncorrect. The gambler’s fallacy is a behavioral bias in which recent outcomes affect investors’ estimates of future probabilities.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d9813fd6-44e2-4a6b-b87a-25dc738954fd",
+                            "itemBody": "\u003cp\u003eA. mental accounting.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e7c7a77a-a282-4f6f-a0ec-cd8696fa9b2c",
+                            "itemBody": "\u003cp\u003eB. the gambler’s fallacy.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "213e5651-5bd4-4a04-82a8-8803c4f29a2c",
+                            "itemBody": "\u003cp\u003eC. the disposition effect.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53789",
+            "entry": {
+                "title": "ITEM_20170516105",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about the forms of market efficiency is \u003ci\u003eleast\u003c/i\u003e accurate? If the form of market efficiency is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "252a43f1-e5aa-4a86-8be9-4da4d0738345"
+                },
+                "answerFeedback": {
+                    "15d9adc8-da92-4d9e-8519-694983dfbe15": "\u003cp\u003eIncorrect. This statement is correct because the semi-strong-form of market efficiency also encompasses the weak-form; therefore, security prices reflect not only publicly known and available information but also all past market data.\u003c/p\u003e",
+                    "252a43f1-e5aa-4a86-8be9-4da4d0738345": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e If markets are strong-form efficient, prices reflect not only private information but also past market data and public information. If markets are weak-form efficient, investment strategies based on fundamental analysis of public information and past market data could achieve abnormal returns. The semi-strong-form of market efficiency also encompasses the weak form. Therefore, security prices reflect not only publicly known and available information but also all past market data.\u003c/p\u003e",
+                    "7e110003-d081-4765-bc2a-991eeb5a4364": "\u003cp\u003eIncorrect. This statement is correct because if markets are weak-form efficient only, investment strategies based on fundamental analysis could achieve abnormal returns.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "252a43f1-e5aa-4a86-8be9-4da4d0738345",
+                            "itemBody": "\u003cp\u003eA. strong, then prices reflect only private information.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "15d9adc8-da92-4d9e-8519-694983dfbe15",
+                            "itemBody": "\u003cp\u003eB. semi-strong, then security prices fully reflect all past market data.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7e110003-d081-4765-bc2a-991eeb5a4364",
+                            "itemBody": "\u003cp\u003eC. weak, then investment strategies based on fundamental analysis could achieve abnormal returns.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53790",
+            "entry": {
+                "title": "ITEM_20170516107",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA trader is able to obtain persistent abnormal returns by adopting an investment strategy that purchases stocks that have recently experienced high returns. This strategy exploits a market-pricing anomaly \u003ci\u003ebest\u003c/i\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "875e153c-8478-441c-b086-6c28658f6b57"
+                },
+                "answerFeedback": {
+                    "875e153c-8478-441c-b086-6c28658f6b57": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A momentum anomaly occurs when securities that have experienced high short-term returns continue to generate higher returns in subsequent periods. Therefore, if a trader can obtain persistent abnormal returns by adopting an investment strategy that purchases stocks that have recently experienced high returns, then he or she is exploiting a momentum anomaly.\u003c/p\u003e",
+                    "c8db6465-41f4-493d-bb32-284c1c195890": "\u003cp\u003eIncorrect. The overreaction effect is a pricing anomaly that occurs when investors overreact to the release of unexpected public information, inflating (depressing) stock prices of companies releasing good (bad) information.\u003c/p\u003e",
+                    "e417e839-4b25-4137-bbb6-9988feb25b48": "\u003cp\u003eIncorrect. Data mining is not a market anomaly but a type of process that could be used to discover statistically significant price patterns.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e417e839-4b25-4137-bbb6-9988feb25b48",
+                            "itemBody": "\u003cp\u003eA. data mining.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "875e153c-8478-441c-b086-6c28658f6b57",
+                            "itemBody": "\u003cp\u003eB. momentum.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c8db6465-41f4-493d-bb32-284c1c195890",
+                            "itemBody": "\u003cp\u003eC. the overreaction effect.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53791",
+            "entry": {
+                "title": "ITEM_20170516118",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe weak-form market efficiency \u003ci\u003emost\u003c/i\u003e accurately assumes that current security prices:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f418c968-d3d9-464f-a2d7-4529f4f3218f"
+                },
+                "answerFeedback": {
+                    "bcfe703c-0292-4e19-9511-7b42bab3bd3d": "\u003cp\u003eIncorrect. It is the assumption of the semi-strong-form efficient market that security prices reflect all publicly known and available information.\u003c/p\u003e",
+                    "e646fe89-63ea-4645-bc4a-791a34e48ed5": "\u003cp\u003eIncorrect. It is the assumption of the strong-form efficient market that security prices fully reflect both public and private information.\u003c/p\u003e",
+                    "f418c968-d3d9-464f-a2d7-4529f4f3218f": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e In the weak-form efficient market hypothesis, security prices fully reflect all past market data including transactions by exchange specialists.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bcfe703c-0292-4e19-9511-7b42bab3bd3d",
+                            "itemBody": "\u003cp\u003eA. adjust rapidly to the release of all public information.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e646fe89-63ea-4645-bc4a-791a34e48ed5",
+                            "itemBody": "\u003cp\u003eB. fully reflect all information from public and private sources.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f418c968-d3d9-464f-a2d7-4529f4f3218f",
+                            "itemBody": "\u003cp\u003eC. fully reflect all past market information, including transactions by exchange specialists.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53792",
+            "entry": {
+                "title": "ITEM_20170516161",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn a highly efficient market, unexpected positive news on a stock is announced to the public. After this announcement, the difference between the market value and the intrinsic value of the stock will \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c3fd9a87-fcb3-4795-872e-820f5f6ae85c"
+                },
+                "answerFeedback": {
+                    "47ff3619-deca-460e-8e5f-89f507b4c70c": "\u003cp\u003eIncorrect. In a highly efficient market, (1) market value reflects new information quickly and rationally, and (2) an asset’s market value equals its intrinsic value. In an inefficient market, (1) the market value of a stock adjusts slowly to an unexpected news, and (2) there are probably discrepancies between market value and intrinsic value. Therefore, only in an inefficient market could the difference between market and intrinsic values increase after the announcement of an unexpected positive news.\u003c/p\u003e",
+                    "50838b23-78de-416d-be0a-a62c8afaa7be": "\u003cp\u003eIncorrect. In a highly efficient market, (1) market value reflects new information quickly and rationally, and (2) an asset’s market value equals its intrinsic value. In an inefficient market, (1) the market value of a stock adjusts slowly to an unexpected news, and (2) there are probably discrepancies between market value and intrinsic value. Therefore, only in an inefficient market could the difference between market and intrinsic values decrease after the announcement of an unexpected positive news.\u003c/p\u003e",
+                    "c3fd9a87-fcb3-4795-872e-820f5f6ae85c": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e In a highly efficient market, (1) market value reflects new information quickly and rationally, and (2) an asset’s market value equals its intrinsic value. Therefore, after the announcement, the difference between a stock’s market value and its intrinsic value will remain equal to zero because both market and intrinsic values adjust to reflect the unexpected news by the same amount and at the same time.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "50838b23-78de-416d-be0a-a62c8afaa7be",
+                            "itemBody": "\u003cp\u003eA. decrease.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c3fd9a87-fcb3-4795-872e-820f5f6ae85c",
+                            "itemBody": "\u003cp\u003eB. remain zero.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "47ff3619-deca-460e-8e5f-89f507b4c70c",
+                            "itemBody": "\u003cp\u003eC. increase.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53793",
+            "entry": {
+                "title": "ITEM_20170516163",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf markets are only weak-form efficient, which of the following investment approaches is \u003ci\u003eleast likely\u003c/i\u003e to consistently earn abnormal profits?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5ddf74d5-e857-44c5-a36a-b47d5b1c4eb4"
+                },
+                "answerFeedback": {
+                    "5ddf74d5-e857-44c5-a36a-b47d5b1c4eb4": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e In the weak-form efficient market hypothesis, security prices fully reflect all past market data, which refers to all historical price and trading volume information. Consequently, trading by looking at patterns of prices and volume from the past cannot consistently earn abnormal profits.\u003c/p\u003e",
+                    "d0e28750-3c46-458a-bfa2-0cf700471967": "\u003cp\u003eIncorrect. If markets are weak-form efficient, only past market data, but not private (nonpublic) information, are reflected in current prices. Consequently, exploiting nonpublic information can consistently earn abnormal profits. In most countries, such activity is prohibited.\u003c/p\u003e",
+                    "f32c9d20-0463-466f-a54a-257709c2b540": "\u003cp\u003eIncorrect. Fundamental analysis is the examination of publicly available information and the formulation of forecasts to estimate the intrinsic value of assets. If markets are weak-form efficient, only past market data, but not all publicly available information, are reflected in current prices. Consequently, buying and selling based on fundamental analysis can consistently earn abnormal profits.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d0e28750-3c46-458a-bfa2-0cf700471967",
+                            "itemBody": "\u003cp\u003eA. Exploiting of non-public information\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5ddf74d5-e857-44c5-a36a-b47d5b1c4eb4",
+                            "itemBody": "\u003cp\u003eB. Trading based on patterns of prices and volume\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f32c9d20-0463-466f-a54a-257709c2b540",
+                            "itemBody": "\u003cp\u003eC. Buying and selling based on fundamental analysis\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53794",
+            "entry": {
+                "title": "ITEM_20170516013",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn observation that stocks with above average price-to-earnings ratios have consistently underperformed those with below average price-to-earnings ratios \u003ci\u003eleast likely\u003c/i\u003e contradicts which form of market efficiency?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8c154058-2863-4070-a800-bc139cfb0c58"
+                },
+                "answerFeedback": {
+                    "24241baf-281e-4afd-99cd-feca9c29dfa0": "\u003cp\u003eIncorrect. The data on price-to-earnings ratios are publicly available, and the related anomaly therefore is a contradiction to the semi-strong and strong forms of market efficiency.\u003c/p\u003e",
+                    "8c154058-2863-4070-a800-bc139cfb0c58": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The observation that stocks with high above average price-to-earnings ratios have consistently underperformed those with below average price-to-earnings ratios is a cross-sectional anomaly. It is a contradiction to the semi-strong form of market efficiency and strong form market efficiency because all the information used to categorize stocks by their price-to-earnings ratios is publicly available. It is not a contradiction to weak form market efficiency.\u003c/p\u003e",
+                    "93976d24-1e72-4381-941b-6f187d503cfd": "\u003cp\u003eIncorrect. The data on price-to-earnings ratios are publicly available, and the related anomaly therefore is a contradiction to the semi-strong form of market efficiency.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8c154058-2863-4070-a800-bc139cfb0c58",
+                            "itemBody": "\u003cp\u003eA. Weak form\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "93976d24-1e72-4381-941b-6f187d503cfd",
+                            "itemBody": "\u003cp\u003eB. Semi-strong form\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "24241baf-281e-4afd-99cd-feca9c29dfa0",
+                            "itemBody": "\u003cp\u003eC. Strong form\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53795",
+            "entry": {
+                "title": "ITEM_20170516052",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following situations will \u003ci\u003emost likely\u003c/i\u003e promote an increase in market efficiency?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0ebfcff7-4dc9-406a-af0c-4ba2b18928f5"
+                },
+                "answerFeedback": {
+                    "0ebfcff7-4dc9-406a-af0c-4ba2b18928f5": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Information availability (e.g., active financial news media or information regarding trading activity and traded companies) and financial disclosure should promote or increase market efficiency.\u003c/p\u003e",
+                    "14080b37-f704-42a1-b3ff-e418fc699c22": "\u003cp\u003eIncorrect. Arbitrage is a set of transactions that produces riskless profits. Arbitrageurs are traders who engage in such trades to benefit from pricing discrepancies (inefficiencies) in markets. Such trading activity contributes to market efficiency. If arbitrage opportunities increase, it means that there are either more pricing discrepancies or fewer arbitrageurs (or both), and this situation will lead to a reduction in market efficiency.\u003c/p\u003e",
+                    "6766b729-bd6f-42c8-a252-3f7fa0457530": "\u003cp\u003eIncorrect. A decrease in trading activity can cause or accentuate other market imperfections that impede market efficiency.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6766b729-bd6f-42c8-a252-3f7fa0457530",
+                            "itemBody": "\u003cp\u003eA. A decrease in trading activity\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "14080b37-f704-42a1-b3ff-e418fc699c22",
+                            "itemBody": "\u003cp\u003eB. An increase in arbitrage opportunities\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0ebfcff7-4dc9-406a-af0c-4ba2b18928f5",
+                            "itemBody": "\u003cp\u003eC. An increase in information availability\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53796",
+            "entry": {
+                "title": "ITEM_20170516073",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements is \u003ci\u003emost\u003c/i\u003e accurate in an efficient market?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ea57053f-1643-4a29-b91e-78800b4ebe31"
+                },
+                "answerFeedback": {
+                    "b7ee6757-7098-4eca-9ed0-6471059d48b5": "\u003cp\u003eIncorrect. In an efficient market, securities market prices reflect their fundamental values, so opportunities for active strategies to achieve excess risk adjusted returns may not exist.\u003c/p\u003e",
+                    "c7c8a8e7-561a-4768-b716-d4888827e929": "\u003cp\u003eIncorrect. An efficient market is a market in which asset prices reflect information quickly, not over time.\u003c/p\u003e",
+                    "ea57053f-1643-4a29-b91e-78800b4ebe31": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e In an efficient market, market participants will process available information, and those with opposite views will trade among each other until securities market prices fully reflect their fundamental values. An efficient market is thus a market in which asset prices reflect all past and present information.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ea57053f-1643-4a29-b91e-78800b4ebe31",
+                            "itemBody": "\u003cp\u003eA. Securities market prices fully reflect their fundamental values.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b7ee6757-7098-4eca-9ed0-6471059d48b5",
+                            "itemBody": "\u003cp\u003eB. Active strategies will lead to excess risk-adjusted portfolio returns.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c7c8a8e7-561a-4768-b716-d4888827e929",
+                            "itemBody": "\u003cp\u003eC. Securities market prices respond over time to changes in economic information.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53797",
+            "entry": {
+                "title": "ITEM_20170516078",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eAn internal evaluation of the trading behavior of three fund managers of a mutual fund company during the past year has revealed the following:\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid; width: 91.0405%;\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 17.9624%;\"\u003e\n\u003cp\u003e• Manager X:\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 82.0388%;\"\u003e\n\u003cp\u003eWas slower than peers when reacting to changes in information\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 17.9624%;\"\u003e\n\u003cp\u003e• Manager Y:\u0026nbsp;\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 82.0388%;\"\u003e\n\u003cp style=\"text-align: left;\"\u003eRarely realized investment losses but realized most of the investment gains\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 17.9624%;\"\u003e\n\u003cp\u003e• Manager Z:\u0026nbsp;\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 82.0388%; vertical-align: middle;\"\u003eTended to overreact by disliking losses more than liking comparable gains\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eWhich of the three managers \u003ci\u003emost likely\u003c/i\u003e displayed the disposition effect bias?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4dd25c33-a877-436b-810c-650b6b59d77e"
+                },
+                "answerFeedback": {
+                    "4dd25c33-a877-436b-810c-650b6b59d77e": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The disposition effect relates to the behavioral bias in which investors tend to avoid realizing losses but, rather, seek to realize gains. Manager Y has displayed this bias.\u003c/p\u003e",
+                    "702323a3-1ba5-46a0-b51f-cc7a782496d8": "\u003cp\u003eIncorrect. Manager X’s behavior of reacting slow to changes is consistent with conservatism.\u003c/p\u003e",
+                    "b3bd6317-823f-45d9-a1c9-93ddb58e0ea9": "\u003cp\u003eIncorrect. Over-reacting, including a dislike for losses more than liking comparable gains, displayed by Manager Z is reflective of a behavioral bias called loss aversion.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "702323a3-1ba5-46a0-b51f-cc7a782496d8",
+                            "itemBody": "\u003cp\u003eA. Manager X\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4dd25c33-a877-436b-810c-650b6b59d77e",
+                            "itemBody": "\u003cp\u003eB. Manager Y\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b3bd6317-823f-45d9-a1c9-93ddb58e0ea9",
+                            "itemBody": "\u003cp\u003eC. Manager Z\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53798",
+            "entry": {
+                "title": "ITEM_20170516079",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eArbitrage activity will \u003ci\u003emost likely\u003c/i\u003e be higher in securities markets:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e6b7ae9d-718b-45d0-b243-c366976c1e04"
+                },
+                "answerFeedback": {
+                    "11f53fe1-d2f3-40b2-a23f-f6c0719e49c5": "\u003cp\u003eIncorrect. High trading costs (transaction costs and information-acquisition costs) would negatively impact the potential profits thereby impeding the arbitrage activity.\u003c/p\u003e",
+                    "229dd215-cfef-473b-b6b0-25cc43b0234a": "\u003cp\u003eIncorrect. In an efficient market security prices tend to be closely aligned with the intrinsic values. Thus, arbitrage activity will be less in markets that are efficient.\u003c/p\u003e",
+                    "e6b7ae9d-718b-45d0-b243-c366976c1e04": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Short selling helps in price discovery. Arbitrageurs benefit from pricing discrepancies (inefficiencies); therefore, arbitrage activity will be higher in markets with no restrictions on short selling.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "229dd215-cfef-473b-b6b0-25cc43b0234a",
+                            "itemBody": "\u003cp\u003eA. that are efficient.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e6b7ae9d-718b-45d0-b243-c366976c1e04",
+                            "itemBody": "\u003cp\u003eB. with no restrictions on short selling.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "11f53fe1-d2f3-40b2-a23f-f6c0719e49c5",
+                            "itemBody": "\u003cp\u003eC. with high information acquisition costs.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53799",
+            "entry": {
+                "title": "ITEM_20170516080",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf securities markets are semi-strong-form efficient, the \u003ci\u003emost\u003c/i\u003e appropriate role of a portfolio manager is to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "caffa6f8-d8c2-4152-becd-cb430e07fa3e"
+                },
+                "answerFeedback": {
+                    "7a6e66a8-6ad9-4c95-bc1d-754ac758a14e": "\u003cp\u003eIncorrect. The semi-strong-form efficiency assumes that prices reflect all publicly known and available information, and therefore efforts to analyze publicly available information is futile.\u003c/p\u003e",
+                    "9d184d42-50b6-4422-83d1-890a14fc72d3": "\u003cp\u003eIncorrect. Exploiting trading rules and serial correlations would not be feasible if markets are weak-form efficient, leave alone semi-strong-form efficiency.\u003c/p\u003e",
+                    "caffa6f8-d8c2-4152-becd-cb430e07fa3e": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e If markets are semi-strong-form efficient (which also encompasses weak-form efficiency), the role of a portfolio manager is not necessarily to beat the market, but rather to establish and manage a portfolio consistent with the portfolio’s objectives, with appropriate diversification and asset allocation, while taking into consideration the risk preferences and tax situation of the investor.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7a6e66a8-6ad9-4c95-bc1d-754ac758a14e",
+                            "itemBody": "\u003cp\u003eA. invest by analyzing publicly available information to consistently generate abnormal returns.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "caffa6f8-d8c2-4152-becd-cb430e07fa3e",
+                            "itemBody": "\u003cp\u003eB. manage portfolios with appropriate diversification and asset allocation, taking into consideration investor preferences.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9d184d42-50b6-4422-83d1-890a14fc72d3",
+                            "itemBody": "\u003cp\u003eC. exploit appropriate trading rules and serial correlations for achieving excess returns.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53800",
+            "entry": {
+                "title": "ITEM_20170516082",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAfter the public announcement of the merger of two firms, an investor makes abnormal returns by going long on the target firm and short on the acquiring firm. This \u003ci\u003emost likely\u003c/i\u003e violates which form of market efficiency?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9c9273e1-0470-415a-a227-ccf5512a61df"
+                },
+                "answerFeedback": {
+                    "57a0168f-f53a-42ca-82ee-8d89250c00ce": "\u003cp\u003eIncorrect. A market that is not semi-strong-form efficient is also not strong-form efficient. Thus, violating the semi-strong-form efficiency also implies violating the strong-form efficiency.\u003c/p\u003e",
+                    "9a364cce-121e-42ad-b4b5-760ca61dddab": "\u003cp\u003eIncorrect. The market could still be weak-form efficient, as past prices are not being used to make abnormal profits. Thus, we cannot say that the weak-form market efficiency has been violated.\u003c/p\u003e",
+                    "9c9273e1-0470-415a-a227-ccf5512a61df": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e In a semi-strong-form efficient market, prices adjust quickly and accurately to new information. In this case, prices would quickly adjust to the merger announcement, and if the market is a semi-strong-form efficient market, investors acting after the merger announcement would not be able to earn abnormal returns. Therefore, the market is not semi-strong-form efficient. A market that is not semi-strong-form efficient is also not strong-form efficient. Thus, violating the semi-strong-form efficiency also implies violating the strong-form efficiency. However, the market could still be weak-form efficient because past prices are not being used to make abnormal profits. Thus, we cannot say that the weak-form market efficiency has been violated.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "57a0168f-f53a-42ca-82ee-8d89250c00ce",
+                            "itemBody": "\u003cp\u003eA. Semi-strong-form only\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9a364cce-121e-42ad-b4b5-760ca61dddab",
+                            "itemBody": "\u003cp\u003eB. Weak-form and semi-strong-form\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9c9273e1-0470-415a-a227-ccf5512a61df",
+                            "itemBody": "\u003cp\u003eC. Semi-strong-form and strong-form\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53801",
+            "entry": {
+                "title": "ITEM_20170516166",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe value effect market-pricing anomaly \u003ci\u003emost likely\u003c/i\u003e occurs when stocks that have below-average price-to-earnings and market-to-book ratios, as well as above-average dividend yields, consistently outperform:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1d4dbcf7-5e28-4524-976f-3cd3f77b33df"
+                },
+                "answerFeedback": {
+                    "1d4dbcf7-5e28-4524-976f-3cd3f77b33df": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The value effect occurs when value stocks, which are generally referred to as stocks that have below-average price-to-earnings and market-to-book ratios, as well as above-average dividend yields, outperform growth stocks consistently and for long periods.\u003c/p\u003e",
+                    "7431315c-495b-4007-a472-f4594465254f": "\u003cp\u003eIncorrect. It is the size effect, not the value effect, that compares returns with respect to large-cap stocks.\u003c/p\u003e",
+                    "e02cedff-cd75-4eaa-bb1a-6c11500be60d": "\u003cp\u003eIncorrect. Value effect does not compare stocks on the basis of earnings surprises. It is the “earnings surprise” anomaly that compares companies on the basis of the unexpected part of the earnings announcement.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1d4dbcf7-5e28-4524-976f-3cd3f77b33df",
+                            "itemBody": "\u003cp\u003eA. growth stocks.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7431315c-495b-4007-a472-f4594465254f",
+                            "itemBody": "\u003cp\u003eB. large-cap stocks.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e02cedff-cd75-4eaa-bb1a-6c11500be60d",
+                            "itemBody": "\u003cp\u003eC. stocks that have had negative earnings surprises.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53802",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Equity-Young-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf a security’s intrinsic value is $55 per share and is currently selling for $50 per share, the security is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e932e380-75a1-4b2f-aaae-f0851930f919"
+                },
+                "answerFeedback": {
+                    "9afb580b-74a8-4f58-899a-af0e86f12120": "\u003cp\u003eIncorrect because the security’s market price is less than its intrinsic value, indicating that it is undervalued. The dividend discount model can be used to estimate an asset’s intrinsic value.\u003c/p\u003e",
+                    "e932e380-75a1-4b2f-aaae-f0851930f919": "\u003cp\u003eCorrect because the security’s market price is less than its intrinsic value, indicating that it is undervalued. The dividend discount model can be used to estimate an asset’s intrinsic value.\u003c/p\u003e",
+                    "ebfd383d-3559-4e74-a106-fe658ee922fd": "\u003cp\u003eIncorrect because the security’s market price is less than its intrinsic value, indicating that it is undervalued. The dividend discount model can be used to estimate an asset’s intrinsic value.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e932e380-75a1-4b2f-aaae-f0851930f919",
+                            "itemBody": "\u003cp\u003eA. undervalued.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ebfd383d-3559-4e74-a106-fe658ee922fd",
+                            "itemBody": "\u003cp\u003eB. fairly valued.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9afb580b-74a8-4f58-899a-af0e86f12120",
+                            "itemBody": "\u003cp\u003eC. overvalued.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53803",
+            "entry": {
+                "title": "ITEM_CFA-L1-07998",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following factors would \u003ci\u003emost likely\u003c/i\u003e increase market efficiency? Limits on:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e33d1384-c156-438a-a326-5094f9f0a777"
+                },
+                "answerFeedback": {
+                    "07d26df7-3aa7-41b5-965b-9898513170a2": "\u003cp\u003eIncorrect because restrictions on short selling limit arbitrage trading, which impedes market efficiency.\u003c/p\u003e",
+                    "e33d1384-c156-438a-a326-5094f9f0a777": "\u003cp\u003eCorrect because transaction costs are incurred in trading to exploit any perceived market inefficiency. If there are limits on transaction costs, more investors would be encouraged to trade. This brings about increased number of market participants which in turn contributes to market efficiency. One of the most critical factors contributing to the degree of efficiency in a market is the number of market participants.\u003c/p\u003e",
+                    "ee258626-9d36-44c4-8909-d9c64d99df17": "\u003cp\u003eIncorrect because a\u0026nbsp;lack of trading activity can cause or accentuate other market imperfections that impede market efficiency. In fact, in many of these markets, such as China, trading in many of the listed stocks is restricted for foreigners. By nature, this limitation reduces the number of market participants, restricts the potential for trading activity, and hence reduces market efficiency.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "07d26df7-3aa7-41b5-965b-9898513170a2",
+                            "itemBody": "\u003cp\u003eA. short selling\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e33d1384-c156-438a-a326-5094f9f0a777",
+                            "itemBody": "\u003cp\u003eB. transaction costs\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ee258626-9d36-44c4-8909-d9c64d99df17",
+                            "itemBody": "\u003cp\u003eC. trading by foreign investors\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53804",
+            "entry": {
+                "title": "ITEM_CFA-L1-05953",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf investors can successfully predict future asset prices based on past prices, markets are \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "080b0116-0808-44e9-93af-afa1c55e3351"
+                },
+                "answerFeedback": {
+                    "080b0116-0808-44e9-93af-afa1c55e3351": "\u003cp\u003eCorrect because under all forms of market efficiency past trading data are already reflected in current prices and investors cannot predict future price changes by extrapolating prices or patterns of prices from the past. Therefore, if investors can predict future asset prices based on past prices, markets are inefficient.\u003c/p\u003e",
+                    "386043ba-d06e-4d6d-b271-f83e4dd540bc": "\u003cp\u003eIncorrect because in the weak-form efficient market hypothesis, security prices fully reflect all past market data, which refers to all historical prices and trading volume information. If markets are weak-form efficient, past trading data are already reflected in current prices and investors cannot predict future price changes by extrapolating prices or patterns of prices from the past.\u003c/p\u003e",
+                    "43de9233-725d-4900-9476-8d5e487c08d9": "\u003cp\u003eIncorrect because under all forms of market efficiency past trading data are already reflected in current prices and investors cannot predict future price changes by extrapolating prices or patterns of prices from the past.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "080b0116-0808-44e9-93af-afa1c55e3351",
+                            "itemBody": "\u003cp\u003eA. inefficient.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "386043ba-d06e-4d6d-b271-f83e4dd540bc",
+                            "itemBody": "\u003cp\u003eB. weak-form efficient only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "43de9233-725d-4900-9476-8d5e487c08d9",
+                            "itemBody": "\u003cp\u003eC. semi-strong-form efficient.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 17,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8641,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4457,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {},
+    "scored_data": {}
+}

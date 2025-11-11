@@ -1,0 +1,1640 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6380,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 26,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 11: Yield-Based Bond Duration Measures and Properties",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6380,
+        "subtopic": "Module 11: Yield-Based Bond Duration Measures and Properties",
+        "question_count": 26,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4473,
+                "question_count": 17,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4690,
+                "question_count": 9,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 26.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "c40fd97b5da77574",
+        "ordered_item_ids": [
+            "55080",
+            "55081",
+            "55082",
+            "55083",
+            "55084",
+            "55085",
+            "55086",
+            "55087",
+            "55088",
+            "51207",
+            "51208",
+            "51209",
+            "51210",
+            "51211",
+            "51212",
+            "51213",
+            "51214",
+            "54205",
+            "54206",
+            "54207",
+            "54208",
+            "54209",
+            "54210",
+            "54211",
+            "54212",
+            "54213",
+            "54214"
+        ],
+        "visible_item_ids": [
+            "55080",
+            "55081",
+            "55082",
+            "55083",
+            "55084",
+            "55085",
+            "55086",
+            "55087",
+            "55088",
+            "51207",
+            "51208",
+            "51209",
+            "51210",
+            "51211",
+            "51212",
+            "51213",
+            "51214",
+            "54205",
+            "54206",
+            "54207",
+            "54208",
+            "54209",
+            "54210",
+            "54211",
+            "54212",
+            "54213",
+            "54214"
+        ]
+    },
+    "items": [
+        {
+            "id": "55080",
+            "entry": {
+                "title": "ITEM_2019B-FI-07CXM",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eModified duration is the \u003ci\u003emost\u003c/i\u003e appropriate measure of interest rate risk for which of the following securities?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "46477edd-84a4-45c6-8e14-7d15b32621df"
+                },
+                "answerFeedback": {
+                    "02e8c4e6-869f-437b-9301-cc29930a2fcb": "\u003cp\u003eIncorrect because a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure.\u003c/p\u003e",
+                    "46477edd-84a4-45c6-8e14-7d15b32621df": "\u003cp\u003eCorrect because modified duration can be used to measure the interest rate risk of a non-complex bond such as a US Treasury bond, while effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option.\u003c/p\u003e",
+                    "64f623eb-5630-4a8b-beda-35e3a1df77c9": "\u003cp\u003eIncorrect because another fixed-income security for which yield duration statistics, such as modified and Macaulay durations, are not relevant is a mortgage-backed bond.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "02e8c4e6-869f-437b-9301-cc29930a2fcb",
+                            "itemBody": "\u003cp\u003eA. Callable bond\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "46477edd-84a4-45c6-8e14-7d15b32621df",
+                            "itemBody": "\u003cp\u003eB. US Treasury bond\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "64f623eb-5630-4a8b-beda-35e3a1df77c9",
+                            "itemBody": "\u003cp\u003eC. Mortgage-backed bond\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8878,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4690,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55081",
+            "entry": {
+                "title": "ITEM_CFA-L1-06226",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about three option-free bonds, each trading at a premium:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth scope=\"col\"\u003e\u0026nbsp;\u003c/th\u003e\n\u003cth scope=\"col\"\u003e\n\u003cp\u003e\u003cstrong\u003eCoupon\u003c/strong\u003e\u003c/p\u003e\n\u003c/th\u003e\n\u003cth scope=\"col\"\u003e\u003cstrong\u003eYield To Maturity \u003c/strong\u003e\u003c/th\u003e\n\u003cth scope=\"col\"\u003e\u003cstrong\u003eTime to Maturity\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth scope=\"row\"\u003eBond 1\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003e4%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e4%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e10 years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth scope=\"row\"\u003eBond 2\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003e4%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e5%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e11 years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth scope=\"row\"\u003eBond 3\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003e5%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e5%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\n\u003cp\u003e9 years\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eAll else being equal, the bond with the lowest Macaulay duration is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6bb87499-fcad-4110-be0d-dc02ffd2b76f"
+                },
+                "answerFeedback": {
+                    "6bb87499-fcad-4110-be0d-dc02ffd2b76f": "\u003cp\u003eCorrect because the Macaulay and modified duration statistics for a fixed-rate bond depend primarily on the coupon rate, yield-to-maturity, and time-to-maturity. A higher coupon rate or a higher yield-to-maturity reduces the duration measures. A longer time-to-maturity usually leads to a higher duration. It always does so for a bond priced at a premium or at par value.\u0026nbsp;In this case, Bond 3 has a higher coupon, the same or higher yield-to-maturity, and the shortest time to maturity. It therefore has the lowest Macaulay duration.\u0026nbsp;\u003c/p\u003e",
+                    "94edbe5b-1d55-4903-8d24-92158cb7c16b": "\u003cp\u003eIncorrect because the Macaulay and modified duration statistics for a fixed-rate bond depend primarily on the coupon rate, yield-to-maturity, and time-to-maturity. A higher coupon rate or a higher yield-to-maturity reduces the duration measures. A longer time-to-maturity usually leads to a higher duration. It always does so for a bond priced at a premium or at par value.\u0026nbsp;Bond 1 has a lower coupon than Bond 3, a lower yield-to-maturity, and a longer maturity. The Macaulay duration of Bond 1 is therefore greater than that of Bond 3.\u003c/p\u003e",
+                    "f56e8422-2da8-43a9-9a34-08057f2992d4": "\u003cp\u003eIncorrect because the Macaulay and modified duration statistics for a fixed-rate bond depend primarily on the coupon rate, yield-to-maturity, and time-to-maturity. A higher coupon rate or a higher yield-to-maturity reduces the duration measures. A longer time-to-maturity usually leads to a higher duration. It always does so for a bond priced at a premium or at par value.\u0026nbsp;Bond 2 has a lower coupon than Bond 3, the same yield-to-maturity, and a longer maturity. The Macaulay duration of Bond 2 is therefore greater than that of Bond 3.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "94edbe5b-1d55-4903-8d24-92158cb7c16b",
+                            "itemBody": "\u003cp\u003eA. Bond 1.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f56e8422-2da8-43a9-9a34-08057f2992d4",
+                            "itemBody": "\u003cp\u003eB. Bond 2.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6bb87499-fcad-4110-be0d-dc02ffd2b76f",
+                            "itemBody": "\u003cp\u003eC. Bond 3.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8878,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4690,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55082",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FI-Georgiou-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFor an option-free fixed-rate bond trading at a premium, as the coupon payment date approaches, Macaulay duration \u003ci\u003emost likely\u003c/i\u003e:\u0026nbsp;\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "29bb8998-5ba8-45e3-8070-e5aa2f73b385"
+                },
+                "answerFeedback": {
+                    "29bb8998-5ba8-45e3-8070-e5aa2f73b385": "\u003cp\u003eCorrect because as time passes during the coupon period (moving from right to left in the diagram), the Macaulay duration declines smoothly and then jumps upward after the coupon is paid. The usual pattern is that longer times-to-maturity correspond to higher Macaulay duration statistics. This pattern always holds for bonds trading at par value or at a premium above par. Conversely, a shorter time to maturity corresponds to a lower Macaulay duration during the coupon period.\u003c/p\u003e",
+                    "d0c386e7-cf0e-4cee-8c7c-bead08d1b85e": "\u003cp\u003eIncorrect because\u0026nbsp;if the bond is priced at a discount [not at a premium], a longer time-to-maturity \u003ci\u003emight \u003c/i\u003elead to a lower duration. This situation only occurs if the coupon rate is low (but not zero) relative to the yield and the time-to-maturity is long.\u0026nbsp;Conversely, only for special cases of discount bonds, a shorter time to maturity might lead to a higher duration statistic.\u003c/p\u003e",
+                    "e1a41ec1-99c2-4b87-a3b6-03217c8200bd": "\u003cp\u003eIncorrect because the usual pattern is that longer times-to-maturity correspond to higher Macaulay duration statistics. This pattern always holds for bonds trading at par value or at a premium above par.\u0026nbsp;Macaulay duration statistic\u0026nbsp;stays constant if the bond is a perpetuity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "29bb8998-5ba8-45e3-8070-e5aa2f73b385",
+                            "itemBody": "\u003cp\u003eA. decreases.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e1a41ec1-99c2-4b87-a3b6-03217c8200bd",
+                            "itemBody": "\u003cp\u003eB. remains constant.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d0c386e7-cf0e-4cee-8c7c-bead08d1b85e",
+                            "itemBody": "\u003cp\u003eC. increases.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8878,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4690,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55083",
+            "entry": {
+                "title": "ITEM_CFA-L1-03754",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAn analyst gathers the following information about a bond:\u003c/span\u003e\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAnnual modified duration\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e5.2\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eClean price\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e$90\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAccrued interest\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e$5\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003ePar value\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e$100\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eIf yield-to-maturity decreases by 10 basis points, the change in price for this bond is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "16cf68cb-7a73-4730-ba2f-9130815a4eb7"
+                },
+                "answerFeedback": {
+                    "16cf68cb-7a73-4730-ba2f-9130815a4eb7": "\u003cp\u003e\u003cspan\u003eCorrect because the money duration of a bond is a measure of the \u003c/span\u003e\u003cspan\u003e\u003cspan\u003e\u003ci\u003eprice change\u003c/i\u003e\u003cspan\u003e in units of the currency in which the bond is denominated:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u0026nbsp;MoneyDur = AnnModDur × \u003ci\u003ePV\u003csup\u003eFull \u003c/sup\u003e\u003c/i\u003eand, Δ\u003ci\u003ePV\u003csup\u003eFull\u0026nbsp;\u003c/sup\u003e≈\u0026nbsp;–\u003c/i\u003eMoneyDur\u0026nbsp;×\u0026nbsp;ΔYield\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan\u003ewhere \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan\u003eMoneyDur = money duration, \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan\u003eAnnModDur = annual modified duration, \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan\u003e\u003cem\u003ePV\u003csup\u003eFull\u003c/sup\u003e\u003c/em\u003e = full price of bond = \u003cspan\u003e\u003cem\u003ePV\u003csup\u003eFlat\u003c/sup\u003e\u003c/em\u003e + AI\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan\u003eand Δ\u003cem\u003ePV\u003csup\u003eFull\u003c/sup\u003e\u003c/em\u003e \u003c/span\u003e\u003cspan\u003e = change in full price. (p. 409)\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan\u003eTherefore, \u003cspan\u003eΔ\u003c/span\u003e\u003cem\u003ePV\u003csup\u003eFull ≈ \u003c/sup\u003e\u003c/em\u003e\u003cspan\u003e—(5.2 ×( 90 + 5)) × — 0.001 = 0.494 ≈ 0.49.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "77fe5502-a327-47bb-84bb-a268145e0627": "\u003cp\u003e\u003cspan\u003eIncorrect because the par value is used. \u003cspan\u003eΔ\u003c/span\u003e\u003cem\u003ePV\u003csup\u003eFull \u003c/sup\u003e\u003c/em\u003e\u003cspan\u003e≠\u003cem\u003e\u003csup\u003e \u003c/sup\u003e\u003c/em\u003e— (5.2 × 100) × — 0.001 = 0.52.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "f4b86921-55d6-4538-84f4-582b532fd441": "\u003cp\u003e\u003cspan\u003eIncorrect because the clean price is used: \u003c/span\u003e\u003cspan\u003eΔ\u003c/span\u003e\u003cem\u003ePV\u003csup\u003eFull \u003c/sup\u003e\u003c/em\u003e\u003cspan\u003e≠\u003cem\u003e\u003csup\u003e \u003c/sup\u003e\u003c/em\u003e— (5.2 × 90) × — 0.001 = 0.468 ≈ 0.47. \u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f4b86921-55d6-4538-84f4-582b532fd441",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$0.47.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "16cf68cb-7a73-4730-ba2f-9130815a4eb7",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$0.49.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "77fe5502-a327-47bb-84bb-a268145e0627",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$0.52.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8878,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4690,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55084",
+            "entry": {
+                "title": "ITEM_CFA-L1-05224",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAn analyst gathers the following information about the price of a semiannual-pay bond at various yield levels:\u003c/span\u003e\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e\u003cstrong\u003eYield-to-Maturity\u003c/strong\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e\u003cstrong\u003eFull Price\u003c/strong\u003e\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e2.9%\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e101.25\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e3.0%\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e100.00\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e3.1%\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e\u0026nbsp; 98.90\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eIf the bond is currently priced at par, the approximate modified duration is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9c82422f-d982-4d9c-ac60-ff0c3a13cd3f"
+                },
+                "answerFeedback": {
+                    "16ad8b55-48b6-478d-afc4-1cc4dc8b6d5f": "\u003cp\u003eIncorrect because the candidate uses only the increase in price in the numerator: (101.25 – 100.00)/(2 × 0.001 × 100.00) = 6.25, or 6.3.\u003c/p\u003e",
+                    "9c82422f-d982-4d9c-ac60-ff0c3a13cd3f": "\u003cp\u003eCorrect because \u003cmath\u003e \u003cmi\u003eApproxModDur\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e-\u003c/mo\u003e \u003c/msub\u003e \u003cmo\u003e-\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e+\u003c/mo\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmo\u003e∆\u003c/mo\u003e \u003cmi\u003eYield\u003c/mi\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/math\u003e; where: \u003ci\u003ePV\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e = full price at current yield to maturity\u003ci\u003e; PV\u003csub\u003e+\u003c/sub\u003e\u003c/i\u003e = present value when the yield to maturity is increased; \u003ci\u003ePV\u003csub\u003e−\u003c/sub\u003e\u003c/i\u003e = full price when the yield to maturity is decreased; ∆Yield = change in yield to maturity.\u003c/p\u003e\n\u003cp\u003e\u003cmath\u003e\u003cmi\u003eApproxModDur\u003c/mi\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmfrac\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e\u003cmn\u003e101\u003c/mn\u003e\u003cmo\u003e.\u003c/mo\u003e\u003cmn\u003e25\u003c/mn\u003e\u003cmo\u003e-\u003c/mo\u003e\u003cmn\u003e98\u003c/mn\u003e\u003cmo\u003e.\u003c/mo\u003e\u003cmn\u003e90\u003c/mn\u003e\u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e\u003cmn\u003e2\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e0\u003c/mn\u003e\u003cmo\u003e.\u003c/mo\u003e\u003cmn\u003e001\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e100\u003c/mn\u003e\u003cmo\u003e.\u003c/mo\u003e\u003cmn\u003e00\u003c/mn\u003e\u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mfrac\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e11\u003c/mn\u003e\u003cmo\u003e.\u003c/mo\u003e\u003cmn\u003e75\u003c/mn\u003e\u003c/math\u003e.\u003c/p\u003e",
+                    "d23e5076-0adc-4a49-aab1-1f345657ff35": "\u003cp\u003eIncorrect because the candidate uses the range of yields, e.g., 3.1 – 2.9, in the denominator: (101.25 – 98.90)/(2 × 0.002 × 100.00) = 5.875, or 5.9.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "16ad8b55-48b6-478d-afc4-1cc4dc8b6d5f",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e5.9.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d23e5076-0adc-4a49-aab1-1f345657ff35",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e6.3.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9c82422f-d982-4d9c-ac60-ff0c3a13cd3f",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e11.8.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8878,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4690,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55085",
+            "entry": {
+                "title": "ITEM_CFA-L1-04184",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eThe duration of an option-free bond is 10.21. If the current price of the bond is 121.355, the price value of a basis point (PVBP) is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dcb051ca-4a12-41dc-81d8-c07da492285b"
+                },
+                "answerFeedback": {
+                    "0a7110c9-459b-4471-b0f3-e17fbe8b6eb3": "\u003cp\u003eIncorrect because the PVBP cannot be a negative value because bond duration is derived by discounting bond cash flows.\u003c/p\u003e",
+                    "135fedf2-df9d-43c6-b152-7c25cbdf3b96": "\u003cp\u003eIncorrect because 0.1021 is the percentage price change for a 1 bp change in rates, not a dollar amount.\u003c/p\u003e",
+                    "dcb051ca-4a12-41dc-81d8-c07da492285b": "\u003cp\u003eCorrect because price value of a basis point (the absolute value of the change in the price of a bond for a 1-basis-point change in yield) is related to duration, the approximate percentage price change for a 100 bp change in rates. It follows that the approximate percentage price change for a 1 bp change in rates can be determined:\u003c/p\u003e\u003cp\u003e= duration × (0.0001) × 100\u003c/p\u003e\u003cp\u003e= (10.21) (0.0001) (100)\u003c/p\u003e\u003cp\u003e= 0.1021%, then\u003c/p\u003e\u003cp\u003ethe current price × the % price change = 121.355 × 0.1021% = $0.1239.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0a7110c9-459b-4471-b0f3-e17fbe8b6eb3",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e–0.1239.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "135fedf2-df9d-43c6-b152-7c25cbdf3b96",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e0.1021.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "dcb051ca-4a12-41dc-81d8-c07da492285b",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e0.1239.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8878,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4690,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55086",
+            "entry": {
+                "title": "ITEM_CFA-L1-08969",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eFor a non-callable perpetual bond with a constant yield to maturity, the Macaulay duration is:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6e168893-bd34-41e8-b933-30f83f6b6277"
+                },
+                "answerFeedback": {
+                    "635e3b76-9cbe-4de9-b329-b6b6c38bd47f": "\u003cp\u003eIncorrect because the Macaulay duration decreases smoothly as \u003cem\u003et\u003c/em\u003e goes from \u003cem\u003et\u003c/em\u003e = 0 to \u003cem\u003et\u003c/em\u003e = \u003cem\u003eT\u003c/em\u003e, which creates a “saw-tooth” pattern. As time passes during the coupon period, the Macaulay duration declines smoothly and then jumps upward after the coupon is paid. As per the justification of the correct answer, the Macaulay duration of a non-callable perpetual bond is a function of its yield, and it is graphically represented as a horizontal line.\u003c/p\u003e",
+                    "6e168893-bd34-41e8-b933-30f83f6b6277": "\u003cp\u003eCorrect because a perpetuity or perpetual bond is a bond that does not mature. There is no principal to redeem. The investor receives a fixed coupon payment forever, unless the bond is callable. Non-callable perpetuities have an interesting Macaulay duration: MacDur = (1 + \u003cem\u003er)\u003c/em\u003e/\u003cem\u003er\u003c/em\u003e as \u003cem\u003eN\u003c/em\u003e approaches infinity,\u0026nbsp;where \u003cem\u003er \u003c/em\u003erepresents yield to maturity. The Macaulay duration of a non-callable perpetual bond is a function of its yield only.\u003c/p\u003e",
+                    "abe91cde-d9ee-42da-baa1-73dd3e1fd664": "\u003cp\u003eIncorrect because a\u0026nbsp;perpetuity or perpetual bond is a bond that does not mature.\u0026nbsp;Therefore, there is no time-to-maturity. On the other hand, the Macaulay duration of a zero-coupon bond is its time-to-maturity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "abe91cde-d9ee-42da-baa1-73dd3e1fd664",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eequal to the bond's time to maturity.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "635e3b76-9cbe-4de9-b329-b6b6c38bd47f",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003erepresented graphically as a \"saw-tooth\" pattern.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6e168893-bd34-41e8-b933-30f83f6b6277",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ecalculated as (1 + yield to maturity) / yield to maturity.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8878,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4690,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55087",
+            "entry": {
+                "title": "ITEM_CFA-L1-06080",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe sensitivity of a bond's price to benchmark interest rates \u003ci\u003ebest \u003c/i\u003edefines:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "07bfe448-8cb3-498c-a418-e26c3455fc14"
+                },
+                "answerFeedback": {
+                    "07bfe448-8cb3-498c-a418-e26c3455fc14": "\u003cp\u003eCorrect because duration is a quantitative measure of interest rate risk. There are several duration measures, including those that measure a bond’s price sensitivity to changes in its own yield-to-maturity and assume underlying cash flows are certain (yield duration) and those that measure changes in a benchmark yield curve, with less certain underlying cash flows (curve duration).\u003c/p\u003e",
+                    "c01810d4-e696-4e1c-a664-86bede9ec4a2": "\u003cp\u003eIncorrect because duration is a quantitative measure of interest rate risk. There are several duration measures, including those that measure a bond’s price sensitivity to changes in its own yield-to-maturity and assume underlying cash flows are certain (yield duration) and those that measure changes in a benchmark yield curve, with less certain underlying cash flows (curve duration).\u003c/p\u003e",
+                    "d9fc6872-ffb9-43d1-b5a8-5cee7dfb7a78": "\u003cp\u003eIncorrect because duration is a quantitative measure of interest rate risk. There are several duration measures, including those that measure a bond’s price sensitivity to changes in its own yield-to-maturity and assume underlying cash flows are certain (yield duration) and those that measure changes in a benchmark yield curve, with less certain underlying cash flows (curve duration). Macaulay duration, modified duration, money duration, and the price value of a basis point (PVBP) are yield duration measures.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c01810d4-e696-4e1c-a664-86bede9ec4a2",
+                            "itemBody": "\u003cp\u003eA. yield duration.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "07bfe448-8cb3-498c-a418-e26c3455fc14",
+                            "itemBody": "\u003cp\u003eB. curve duration.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d9fc6872-ffb9-43d1-b5a8-5cee7dfb7a78",
+                            "itemBody": "\u003cp\u003eC. modified duration.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8878,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4690,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55088",
+            "entry": {
+                "title": "ITEM_CFA-L1-02018",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAn analyst gathers the following information about a bond:\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003ePrice if interest rates fall 75 basis points\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e106.32\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003ePrice if interest rates rise 75 basis points\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e105.45\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eIf the current price of the bond is 105.90, the effective duration is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "94c266d0-e518-44fc-8c32-6a36a6939225"
+                },
+                "answerFeedback": {
+                    "59798b0e-15be-4e4d-8ea8-aeff12aa329f": "\u003cp\u003eIncorrect because it omits the 2 in the denominator:\u003c/p\u003e\u003cp\u003e(106.32 – 105.45)/(105.9)0.0075 = 1.095, rounded to 1.1.\u003c/p\u003e",
+                    "6006e61c-bfde-4fb7-a1fd-024030260f48": "\u003cp\u003eIncorrect because 100bp (0.01) is used in the denominator rather than 0.0075:\u003c/p\u003e\u003cp\u003e(106.32 – 105.45)/2(105.9)0.01 = 0.4108, rounded to 0.41.\u003c/p\u003e",
+                    "94c266d0-e518-44fc-8c32-6a36a6939225": "\u003cp\u003eCorrect because effective duration = \u003cmath\u003e\u003cmfrac\u003e\u003cmrow\u003e\u003cmfenced\u003e\u003cmrow\u003e\u003cmi\u003eP\u003c/mi\u003e\u003cmsub\u003e\u003cmi\u003eV\u003c/mi\u003e\u003cmo\u003e-\u003c/mo\u003e\u003c/msub\u003e\u003c/mrow\u003e\u003c/mfenced\u003e\u003cmo\u003e-\u003c/mo\u003e\u003cmfenced\u003e\u003cmrow\u003e\u003cmi\u003eP\u003c/mi\u003e\u003cmsub\u003e\u003cmi\u003eV\u003c/mi\u003e\u003cmo\u003e+\u003c/mo\u003e\u003c/msub\u003e\u003c/mrow\u003e\u003c/mfenced\u003e\u003c/mrow\u003e\u003cmrow\u003e\u003cmn\u003e2\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmfenced\u003e\u003cmrow\u003e\u003cmo\u003e∆\u003c/mo\u003e\u003cmi\u003eC\u003c/mi\u003e\u003cmi\u003eu\u003c/mi\u003e\u003cmi\u003er\u003c/mi\u003e\u003cmi\u003ev\u003c/mi\u003e\u003cmi\u003ee\u003c/mi\u003e\u003c/mrow\u003e\u003c/mfenced\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmfenced\u003e\u003cmrow\u003e\u003cmi\u003eP\u003c/mi\u003e\u003cmsub\u003e\u003cmi\u003eV\u003c/mi\u003e\u003cmn\u003e0\u003c/mn\u003e\u003c/msub\u003e\u003c/mrow\u003e\u003c/mfenced\u003e\u003c/mrow\u003e\u003c/mfrac\u003e\u003c/math\u003e.\u003c/p\u003e\n\u003cp\u003eSo, (106.32 – 105.45)/2(105.9)0.0075 = 0.547, rounded to 0.55.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6006e61c-bfde-4fb7-a1fd-024030260f48",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e0.41.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "94c266d0-e518-44fc-8c32-6a36a6939225",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e0.55.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "59798b0e-15be-4e4d-8ea8-aeff12aa329f",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e1.10.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8878,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4690,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51207",
+            "entry": {
+                "title": "CFA2441-R-s04-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The Macaulay, modified, and money duration measures, as well as the price value of a basis point, are all types of yield duration. The curve duration is not classified as a type of yield duration.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n               \u003cem\u003eTrue or false:\u003c/em\u003e Curve duration is a type of yield duration.\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ac0a93d3-bab4-4550-8c25-67e8bda591d1"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8867bb91-9459-41e9-86d3-9003030cebc5",
+                            "itemBody": "A. True",
+                            "position": 1
+                        },
+                        {
+                            "id": "ac0a93d3-bab4-4550-8c25-67e8bda591d1",
+                            "itemBody": "B. False",
+                            "position": 2
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8211,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51208",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA portfolio manager is assessing the interest rate risk of three bonds as she considers making an investment of USD50 million. All three bonds are issued on 1 June 2026 and mature on 1 June 2030, and they have the following characteristics:\u003c/p\u003e\n\u003cdiv id=\"CFA2441-R-s04-Tc\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"vertical-align: bottom; padding: 8px; text-align: center;\" scope=\"row\"\u003e\u003cstrong\u003eCharacteristic\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eBond One\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eBond Two\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eBond Three\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCoupon (semiannual)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e7%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e3%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e5%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eYield-to-maturity\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e3%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e7%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e5%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8211,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51209",
+            "entry": {
+                "title": "CFA2441-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct.\u003c/p\u003e\n               \u003cdiv id=\"CFA2441-R-s04-Td\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n                  \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                     \n                     \u003cthead\u003e\n                        \u003ctr\u003e\n                           \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003ePeriod\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eTime to receipt\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eCash flow\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003ePresent value\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eWeight\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eTime to receipt × weight\u003c/th\u003e\n                        \u003c/tr\u003e\n                     \u003c/thead\u003e\n                     \u003ctbody\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.44828\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02999\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02999\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.39732\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02955\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.05910\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.34711\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02911\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.08734\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e4\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e4.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.29764\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02868\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.11473\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e5.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.24891\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02826\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.14129\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e6\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e6.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.20090\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02784\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.16704\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e7\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e7.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.15359\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02743\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.19200\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e8\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e8.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e103.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e91.87810\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.79914\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e6.39308\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e114.97185\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.00000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e7.18458\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \" colspan=\"5\"\u003eAnnualized Macaulay duration\u003c/td\u003e\n                           \u003ctd style=\"text-align: right; vertical-align: top; padding: 8px; \"\u003e3.59229\u003c/td\u003e\n                        \u003c/tr\u003e\n                     \u003c/tbody\u003e\n                  \u003c/table\u003e\u003c/div\u003e\n               \u003c/div\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe Macaulay duration, in years, for Bond One is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "cf01cd08-dce4-41d6-9c5a-1b5392a7d9f0"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ae8f5893-b37b-4df0-b36d-5b0672d629e8",
+                            "itemBody": "A. 3.54.",
+                            "position": 1
+                        },
+                        {
+                            "id": "cf01cd08-dce4-41d6-9c5a-1b5392a7d9f0",
+                            "itemBody": "B. 3.59.",
+                            "position": 2
+                        },
+                        {
+                            "id": "22143992-27a7-47a0-9371-6a3839111270",
+                            "itemBody": "C. 3.78.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8211,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": "51208"
+        },
+        {
+            "id": "51210",
+            "entry": {
+                "title": "CFA2441-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct.\u003c/p\u003e\n               \u003cdiv id=\"CFA2441-R-s04-Te\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n                  \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                     \n                     \u003cthead\u003e\n                        \u003ctr\u003e\n                           \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003ePeriod\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eTime to receipt\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eCash flow\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003ePresent value\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eWeight\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eTime to receipt × weight\u003c/th\u003e\n                        \u003c/tr\u003e\n                     \u003c/thead\u003e\n                     \u003ctbody\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.44928\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01680\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01680\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.40027\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01623\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.03247\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.35291\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01569\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.04706\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e4\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e4.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.30716\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01516\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.06062\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e5.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.26296\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01464\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.07321\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e6\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e6.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.22025\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01415\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.08488\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e7\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e7.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.17899\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01367\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.09568\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e8\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e8.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e101.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e77.08027\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.89366\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e7.14930\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e86.25209\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.00000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e7.56003\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \" colspan=\"5\"\u003eAnnualized Macaulay duration\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.780016\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \" colspan=\"5\"\u003eModified duration\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.652190\u003c/td\u003e\n                        \u003c/tr\u003e\n                     \u003c/tbody\u003e\n                  \u003c/table\u003e\u003c/div\u003e\n               \u003c/div\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe modified duration for Bond Two is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e35f61b9-24d6-41b4-93c6-9ca74627cc02"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c2e0460a-5c80-4e38-b4d5-8fb4d03c2d09",
+                            "itemBody": "A. 3.59.",
+                            "position": 1
+                        },
+                        {
+                            "id": "e35f61b9-24d6-41b4-93c6-9ca74627cc02",
+                            "itemBody": "B. 3.65.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b8eed338-d2b3-45fd-8a11-92cd201f8666",
+                            "itemBody": "C. 3.78",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8211,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": "51208"
+        },
+        {
+            "id": "51211",
+            "entry": {
+                "title": "CFA2441-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. No calculation is necessary, as we know that a five-year zero-coupon bond has a Macaulay duration of 5, which is greater than that of a coupon bond like Bond three. Since they have the same yields, the bond’s modified durations will have the same relationship as their Macaulay duration.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAlternatively, we can calculate Bond Three’s modified duration of 3.585:\u003c/p\u003e\n               \u003cdiv id=\"CFA2441-R-s04-Tf\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n                  \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                     \n                     \u003cthead\u003e\n                        \u003ctr\u003e\n                           \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003ePeriod\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eTime to receipt\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eCash flow\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003ePresent value\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eWeight\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eTime to receipt × weight\u003c/th\u003e\n                        \u003c/tr\u003e\n                     \u003c/thead\u003e\n                     \u003ctbody\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.43902\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02439\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02439\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.37954\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02380\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.04759\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.32150\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02321\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.06964\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e4\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e4.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.26488\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02265\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.09060\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e5.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.20964\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02210\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.11048\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e6\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e6.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.15574\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02156\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.12934\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e7\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e7.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.10316\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02103\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.14722\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e8\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e8.0000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e102.5\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e84.12652\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.84127\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e6.73012\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e100.00000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.00000\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e7.34939\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: right; vertical-align: top; padding: 8px; \" colspan=\"3\"\u003eAnnualized Macaulay duration\u003c/td\u003e\n                           \u003ctd style=\"text-align: right; vertical-align: top; padding: 8px; \"\u003e3.6747\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: right; vertical-align: top; padding: 8px; \" colspan=\"2\"\u003eModified duration\u003c/td\u003e\n                           \u003ctd style=\"text-align: right; vertical-align: top; padding: 8px; \"\u003e3.5851\u003c/td\u003e\n                        \u003c/tr\u003e\n                     \u003c/tbody\u003e\n                  \u003c/table\u003e\u003c/div\u003e\n               \u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe zero-coupon’s modified duration is 5/(1 + 0.05) = 4.7619.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eRelative to a five-year zero-coupon bond priced to yield 5%, Bond Three has a modified duration that is \u003cem\u003ebest\u003c/em\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "578783ee-2215-40d6-89c4-dd8bec9f67fc"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "578783ee-2215-40d6-89c4-dd8bec9f67fc",
+                            "itemBody": "A. lower than the zero-coupon bond’s modified duration.",
+                            "position": 1
+                        },
+                        {
+                            "id": "f7bf38c0-b92b-49e2-8354-c74b7d25c165",
+                            "itemBody": "B. the same as the zero-coupon bond’s modified duration.",
+                            "position": 2
+                        },
+                        {
+                            "id": "833bd397-0bfb-44ec-b944-ce03f8634ce1",
+                            "itemBody": "C. greater than the zero-coupon bond’s modified duration.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8211,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": "51208"
+        },
+        {
+            "id": "51212",
+            "entry": {
+                "title": "CFA2441-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct.\u003c/p\u003e\n               \u003cdiv id=\"CFA2441-R-s04-Tg\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n                  \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                     \n                     \u003cthead\u003e\n                        \u003ctr\u003e\n                           \u003cth style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eBond One\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eBond Two\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eBond Three\u003c/th\u003e\n                        \u003c/tr\u003e\n                     \u003c/thead\u003e\n                     \u003ctbody\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eFull price (percent of par)\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e114.972\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e86.252\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e100.000\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eModified duration\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.539\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.652\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.585\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eInvestment (in USD millions)\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e50\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e50\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e50\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eMoney duration\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e176.960\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e182.609\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e179.253\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eChange in value (in USD millions)\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e–1.770\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e–1.826\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e–1.793\u003c/td\u003e\n                        \u003c/tr\u003e\n                     \u003c/tbody\u003e\n                  \u003c/table\u003e\u003c/div\u003e\n               \u003c/div\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf the yields-to-maturity for all three bonds were to increase by 100 bps, which bond has the greatest anticipated decrease in price?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2ee5ee9b-0514-4886-9068-0eb268f18355"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "24e3e44c-c0ff-4ddc-a0cf-b9512a38b015",
+                            "itemBody": "A. Bond One",
+                            "position": 1
+                        },
+                        {
+                            "id": "2ee5ee9b-0514-4886-9068-0eb268f18355",
+                            "itemBody": "B. Bond Two",
+                            "position": 2
+                        },
+                        {
+                            "id": "1aa0368c-64c7-4b0a-b80d-d873595579de",
+                            "itemBody": "C. Bond Three",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8211,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": "51208"
+        },
+        {
+            "id": "51213",
+            "entry": {
+                "title": "CFA2441-R-s04-Q11",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct.\u003c/p\u003e\n               \u003cdiv id=\"CFA2441-R-s04-Th\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n                  \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                     \n                     \u003cthead\u003e\n                        \u003ctr\u003e\n                           \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eBond One\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eBond Two\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003eBond Three\u003c/th\u003e\n                        \u003c/tr\u003e\n                     \u003c/thead\u003e\n                     \u003ctbody\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003ePrice\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e114.972\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e86.252\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e100.000\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003ePrice + 1 bp\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e114.931\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e86.221\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e99.964\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003ePrice – 1 bp\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e115.013\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e86.284\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e100.036\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003ePVBP\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.04069\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.03150\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.03585\u003c/td\u003e\n                        \u003c/tr\u003e\n                     \u003c/tbody\u003e\n                  \u003c/table\u003e\u003c/div\u003e\n               \u003c/div\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich bond has the highest price value of a basis point?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "01ca566d-adfe-4c53-b696-2c86adefb799"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "01ca566d-adfe-4c53-b696-2c86adefb799",
+                            "itemBody": "A. Bond One",
+                            "position": 1
+                        },
+                        {
+                            "id": "d26e4fe9-519f-4064-91af-b1477f74c52c",
+                            "itemBody": "B. Bond Two",
+                            "position": 2
+                        },
+                        {
+                            "id": "4c3df056-c734-45c2-8812-15b6eafad5be",
+                            "itemBody": "C. Bond Three",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8211,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": "51208"
+        },
+        {
+            "id": "51214",
+            "entry": {
+                "title": "CFA2441-R-s04-Q12",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The Macaulay duration for Bond Three is 3.6747. The Macaulay duration for Bond Four is 0.5 because there is exposure to interest rate changes for one-half of the coupon period.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe portfolio manager is interested in comparing the interest rate risk of Bond Three to that of Bond Four, a floating-rate note that resets every six months. On 1 June 2026, both bonds were priced to yield 5%. If the yield changes from 5% to 5.25% halfway through the first coupon period, which bond has the greater Macaulay duration?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "290165ff-2234-4e74-b938-c451a7128064"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "290165ff-2234-4e74-b938-c451a7128064",
+                            "itemBody": "A. Bond Three",
+                            "position": 1
+                        },
+                        {
+                            "id": "6d94f6e2-f023-454e-bf13-6c007ab3a210",
+                            "itemBody": "B. Bond Four",
+                            "position": 2
+                        },
+                        {
+                            "id": "7bb4e184-1d7f-4164-a6cf-821964f09eed",
+                            "itemBody": "C. Neither: The Macaulay duration is the same for both bonds.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8211,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": "51208"
+        },
+        {
+            "id": "54205",
+            "entry": {
+                "title": "ITEM_20170607118",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of these definitions of duration is most relevant to a bond investor? A bond’s duration is its:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d57e5603-c17f-4b7e-9c16-fa913d68e600"
+                },
+                "answerFeedback": {
+                    "d3b94a44-9812-43f0-9fd3-489431927410": "\u003cp\u003eIncorrect because while it’s true that duration is the weighted-average maturity or half-life for some bonds, for others the duration has nothing to do with maturity (e.g., an interest only strip security.)\u003c/p\u003e",
+                    "d57e5603-c17f-4b7e-9c16-fa913d68e600": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Bond investors are concerned about interest rate risk, and duration is a good measure of interest rate risk.\u003c/p\u003e",
+                    "f80d7156-c006-45d6-9466-8a99a488b9a1": "\u003cp\u003eIncorrect because while duration was first measured using the calculus, referring to it in this way is confusing for investors who are unfamiliar with calculus or might confuse it with a derivative security.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d3b94a44-9812-43f0-9fd3-489431927410",
+                            "itemBody": "\u003cp\u003eA. half-life.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d57e5603-c17f-4b7e-9c16-fa913d68e600",
+                            "itemBody": "\u003cp\u003eB. price sensitivity to yield changes.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f80d7156-c006-45d6-9466-8a99a488b9a1",
+                            "itemBody": "\u003cp\u003eC. first derivative of value with respect to its yield.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8665,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54206",
+            "entry": {
+                "title": "ITEM_20180516052",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements regarding Macaulay duration is correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c0209ae4-b05b-4db1-bd45-ff5588c9daf2"
+                },
+                "answerFeedback": {
+                    "1bef9eea-e3ae-41dc-a636-253072c04a8c": "\u003cp\u003eIncorrect because for the same time to maturity and yield to maturity, the Macaulay duration is higher (not lower) for a zero-coupon bond than for a low-coupon bond trading at a discount.\u003c/p\u003e",
+                    "9213ee83-6409-4027-904a-3e9e5ff80d58": "\u003cp\u003eIncorrect because for the same time to maturity and yield to maturity, the Macaulay duration is higher (not lower) for a low-coupon bond trading at a discount than for a high-coupon bond trading at a premium.\u003c/p\u003e",
+                    "c0209ae4-b05b-4db1-bd45-ff5588c9daf2": "\u003cp\u003e\u003cstrong\u003eCorrect\u003c/strong\u003e because generally, the Macaulay duration statistic increases with a bond’s time to maturity. This pattern always holds for bonds trading at par value or at a premium but does not always hold for discount bonds. In the case of discount bonds, for a given coupon rate, a longer-term discount bond can have a lower Macaulay duration than a shorter-term discount bond. This situation typically occurs when the number of periods remaining in the bond’s life is large and the coupon rate is below the yield to maturity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c0209ae4-b05b-4db1-bd45-ff5588c9daf2",
+                            "itemBody": "\u003cp\u003eA. For a given coupon rate, Macaulay duration can be lower for a long-term discount bond than for a short-term discount bond.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1bef9eea-e3ae-41dc-a636-253072c04a8c",
+                            "itemBody": "\u003cp\u003eB. For a given time to maturity and yield to maturity, Macaulay duration is lower for a zero-coupon bond than for a low-coupon bond trading at a discount.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9213ee83-6409-4027-904a-3e9e5ff80d58",
+                            "itemBody": "\u003cp\u003eC. For a given time to maturity and yield to maturity, Macaulay duration is lower for a low-coupon bond trading at a discount than for a high-coupon bond trading at a premium.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8665,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54207",
+            "entry": {
+                "title": "ITEM_20180516056",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eConsider the following information relating to a corporate bond:\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 389px; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 260px; max-width: 260px;\"\u003eFull price of bond (PV\u003csup\u003eFull\u003c/sup\u003e)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 120px; max-width: 120px;\"\u003e$100,367,242\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 260px; max-width: 260px;\"\u003eModified duration (AnnModDur)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 120px; max-width: 120px;\"\u003e8.124 years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 260px; max-width: 260px;\"\u003eAccrued interest\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 120px; max-width: 120px;\"\u003e$303,218\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eThe money duration of the corporate bond is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "003733de-2bf2-4427-a477-4d165111d5c8"
+                },
+                "answerFeedback": {
+                    "003733de-2bf2-4427-a477-4d165111d5c8": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The money duration of the corporate bond is equal to $815,383,474.\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eMoneyDur = AnnModDur × PV\u003csup\u003eFull\u003c/sup\u003e\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 8.124 × $100,367,242\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= $815,383,474\u003c/p\u003e",
+                    "09a78b67-e13f-4f47-afd0-36fd25b22fcf": "\u003cp\u003eIncorrect because the full price of the bond (PV\u003csup\u003eFull\u003c/sup\u003e) includes accrued interest. The calculation of money duration should include accrued interest. However, accrued interest is incorrectly subtracted from the full price of the bond here:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eMoneyDur = AnnModDur × [PV\u003csup\u003eFull\u003c/sup\u003e – Accrued interest]\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 8.124 × [$100,367,242 – $303,218]\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= $812,920,131\u003c/p\u003e",
+                    "3a5e3a04-07a2-403b-824d-63ad8b50d041": "\u003cp\u003eIncorrect because the full price of the bond (PV\u003csup\u003eFull\u003c/sup\u003e) already includes accrued interest. Accrued interest was incorrectly added to the full price of the bond here:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eMoneyDur = AnnModDur × [PV\u003csup\u003eFull\u003c/sup\u003e + Accrued interest]\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 8.124 × [$100,367,242 + $303,218]\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= $817,846,817\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "09a78b67-e13f-4f47-afd0-36fd25b22fcf",
+                            "itemBody": "\u003cp\u003eA. $812,920,131.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "003733de-2bf2-4427-a477-4d165111d5c8",
+                            "itemBody": "\u003cp\u003eB. $815,383,474.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3a5e3a04-07a2-403b-824d-63ad8b50d041",
+                            "itemBody": "\u003cp\u003eC. $817,846,817.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8665,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54208",
+            "entry": {
+                "title": "ITEM_20190531014",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eAn analyst gathers the following information on a bond:\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 252px; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 165px; max-width: 165px;\"\u003ePrice\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 78px; max-width: 78px;\"\u003e85.4734\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 165px; max-width: 165px;\"\u003ePayment frequency\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 78px; max-width: 78px;\"\u003eAnnual\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 165px; max-width: 165px;\"\u003eTime to maturity\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 78px; max-width: 78px;\"\u003e5 years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 165px; max-width: 165px;\"\u003eCoupon\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 78px; max-width: 78px;\"\u003e4%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 165px; max-width: 165px;\"\u003eMacaulay duration\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 78px; max-width: 78px;\"\u003e4.5947\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eModified duration is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d65acd73-a059-4941-a84e-001dfd17ca47"
+                },
+                "answerFeedback": {
+                    "aca10729-4bd2-42c5-b06d-0a642011f32b": "\u003cp\u003eIncorrect. It is the result of incorrectly multiplying Macaulay duration by 1 plus the coupon rate.\u003c/p\u003e",
+                    "b0572b36-9775-4437-aeb6-d88ef3d2729b": "\u003cp\u003eIncorrect. It is the result of incorrectly dividing Macaulay duration by the coupon rate, rather than YTM.\u003c/p\u003e",
+                    "d65acd73-a059-4941-a84e-001dfd17ca47": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Modified duration is Macaulay duration divided by 1 plus yield per period. Macaulay duration is provided in the table, so YTM is calculated as follows:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eN = 5.\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003ePV = 85.4734.\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003ePMT = –4.\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eFV = –100.\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eCPT I/Y = 7.6%.\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eModDur = \u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e4.5947\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1.076\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e4.2702\u003c/mn\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d65acd73-a059-4941-a84e-001dfd17ca47",
+                            "itemBody": "\u003cp\u003eA. 4.2702.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b0572b36-9775-4437-aeb6-d88ef3d2729b",
+                            "itemBody": "\u003cp\u003eB. 4.4180.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "aca10729-4bd2-42c5-b06d-0a642011f32b",
+                            "itemBody": "\u003cp\u003eC. 4.7785.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8665,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54209",
+            "entry": {
+                "title": "ITEM_20190531022",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eAn analyst gathers the following information for a bond:\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 348px; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 210px; max-width: 210px;\"\u003ePosition (par value)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 129px; max-width: 129px;\"\u003e$100,000,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 210px; max-width: 210px;\"\u003eFlat price\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 129px; max-width: 129px;\"\u003e97.1251\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 210px; max-width: 210px;\"\u003eAccrued interest\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 129px; max-width: 129px;\"\u003e0.4392\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 210px; max-width: 210px;\"\u003eMacaulay duration\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 129px; max-width: 129px;\"\u003e8.586\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 210px; max-width: 210px;\"\u003eAnnual modified duration\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 129px; max-width: 129px;\"\u003e8.450\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eThe money duration of the bond position is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4b10d1fb-c56d-4ef3-b34b-50f39e36d454"
+                },
+                "answerFeedback": {
+                    "4b10d1fb-c56d-4ef3-b34b-50f39e36d454": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Money duration is calculated as the annual modified duration times the full price of the bond including accrued interest:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eMoneyDur = AnnModDur × PV\u003csup\u003eFull\u003c/sup\u003e.\u003c/p\u003e\u003cp\u003eThe full price of the bond is 97.5643 (97.1251 + 0.4392) per 100 of par, or $97,564,300. Therefore, the money duration of this bond position is $824,418,335 (97,564,300 × 8.45).\u003c/p\u003e",
+                    "4c5769e0-4061-44ed-a606-f5993feae6a4": "\u003cp\u003eIncorrect. It is the result if the full price of the bond is incorrectly multiplied by Macaulay duration:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e$837,687,080 ≈ (97,564,300 × 8.586).\u003c/p\u003e",
+                    "951a056b-0ac7-4d67-a2af-a446953dd271": "\u003cp\u003eIncorrect. It is the result of neglecting to incorporate accrued interest when pricing the bond position and erroneously multiplying by Macaulay duration.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4b10d1fb-c56d-4ef3-b34b-50f39e36d454",
+                            "itemBody": "\u003cp\u003eA. 824,418,335.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "951a056b-0ac7-4d67-a2af-a446953dd271",
+                            "itemBody": "\u003cp\u003eB. 833,916,109.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4c5769e0-4061-44ed-a606-f5993feae6a4",
+                            "itemBody": "\u003cp\u003eC. 837,687,080.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8665,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54210",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Georgiou-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about a bond:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 408px; height: 116px; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"width: 311px; max-width: 311px; height: 29px;\"\u003eClean price\u0026nbsp;(per 100 of par value)\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 88px; max-width: 88px; height: 29px;\"\u003e114.75\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"width: 311px; max-width: 311px; height: 29px;\"\u003eAnnual modified duration\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 88px; max-width: 88px; height: 29px;\"\u003e4.8250\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"width: 311px; max-width: 311px; height: 29px;\"\u003eMacaulay duration (years)\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 88px; max-width: 88px; height: 29px;\"\u003e4.9469\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"width: 311px; max-width: 311px; height: 29px;\"\u003eAccrued interest (per 100 of par value)\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 88px; max-width: 88px; height: 29px;\"\u003e1.6250\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe bond's money duration (per 100 of par value) is\u0026nbsp;\u003ci\u003eclosest\u003c/i\u003e\u0026nbsp;to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "367a3b6f-ef8e-4210-a208-c2b391fc9025"
+                },
+                "answerFeedback": {
+                    "367a3b6f-ef8e-4210-a208-c2b391fc9025": "\u003cp\u003eCorrect because the money duration equals the product of modified duration and full price.\u003c/p\u003e\u003cp\u003eFull price = Clean price + Accrued interest = 114.75 + 1.625 = 116.375;\u003c/p\u003e\u003cp\u003eMoney duration = Modified duration × Full Price = 116.375 × 4.8250 = 561.5094 ≈ 561.51.\u003c/p\u003e\u003cp\u003eModified duration is a measure of the percentage price change of a bond given a change in its yield-to-maturity. A related statistic is money duration. The money duration of a bond is a measure of the price change in units of the currency in which the bond is denominated. The money duration can be stated per 100 of par value or in terms of the actual position size of the bond in the portfolio. In the United States, money duration is commonly called 'dollar duration.' Money duration (MoneyDur) is calculated as the annual modified duration times the full price (PV\u003csup\u003eFull\u003c/sup\u003e) of the bond, including accrued interest.\u003c/p\u003e",
+                    "4bc7f832-c2a2-43c0-b0bc-b7da247293c2": "\u003cp\u003eIncorrect because it multiplies the modified duration with the clean price instead of the full price.\u003c/p\u003e\u003cp\u003e4.8250 × 114.75 = 553.6688 ≈ 553.67.\u003c/p\u003e",
+                    "a72912de-b06b-4cdb-806b-3d37755c5175": "\u003cp\u003eIncorrect because it multiplies the full price with the Macaulay duration instead of the modified duration.\u0026nbsp;\u003c/p\u003e\u003cp\u003eFull price = Clean price + Accrued interest = 114.75 + 1.625 = 116.375;\u003c/p\u003e\u003cp\u003eMacaulay duration × Full price = 4.9469 × 116.375 = 575.6955\u0026nbsp;≈ 575.70.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4bc7f832-c2a2-43c0-b0bc-b7da247293c2",
+                            "itemBody": "\u003cp\u003eA. 553.67.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "367a3b6f-ef8e-4210-a208-c2b391fc9025",
+                            "itemBody": "\u003cp\u003eB. 561.51.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a72912de-b06b-4cdb-806b-3d37755c5175",
+                            "itemBody": "\u003cp\u003eC. 575.70.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8665,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54211",
+            "entry": {
+                "title": "ITEM_2019BFI07EKH",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe percentage price change for a bond, given a change in its yield to maturity, is \u003ci\u003ebest\u003c/i\u003e estimated by:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b99fb0e2-1666-414a-8628-e5ff10dec077"
+                },
+                "answerFeedback": {
+                    "45f5396c-0d9d-4e31-bc40-183dcf8daa91": "\u003cp\u003eIncorrect because Macaulay duration is a weighted average of the time to receipt of the bond’s promised payments, where the weights are the shares of the full price that correspond to each of the bond’s promised future payments.\u003c/p\u003e",
+                    "471a4616-1243-4d16-8746-f78e56f54966": "\u003cp\u003eIncorrect because the effective duration of a bond is the sensitivity of the bond’s price to a change in a benchmark yield curve,\u0026nbsp;not to a change in the bond’s yield to maturity.\u0026nbsp;\u003c/p\u003e",
+                    "b99fb0e2-1666-414a-8628-e5ff10dec077": "\u003cp\u003eCorrect because modified duration is a \u003ci\u003eyield duration \u003c/i\u003estatistic in that it measures interest rate risk in terms of a change in the bond’s own yield-to-maturity. \u0026nbsp;Modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "471a4616-1243-4d16-8746-f78e56f54966",
+                            "itemBody": "\u003cp\u003eA. effective duration.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b99fb0e2-1666-414a-8628-e5ff10dec077",
+                            "itemBody": "\u003cp\u003eB. modified duration.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "45f5396c-0d9d-4e31-bc40-183dcf8daa91",
+                            "itemBody": "\u003cp\u003eC. Macaulay duration.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8665,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54212",
+            "entry": {
+                "title": "ITEM_CFA-L1-00439",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor determines the following information about the price sensitivity of an option-free bond:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\u003ccolgroup\u003e \u003ccol width=\"77%\"\u003e \u003ccol width=\"23%\"\u003e \u003c/colgroup\u003e\n\u003ctbody\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"width: 174px; max-width: 174px;\" scope=\"col\"\u003e\u003cstrong\u003eRate Change\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; width: 45px; max-width: 45px;\" scope=\"col\"\u003e\u003cstrong\u003ePrice\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 174px; max-width: 174px;\"\u003e75 basis point increase\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 45px; max-width: 45px;\"\u003e104.0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 174px; max-width: 174px;\"\u003e75 basis point decrease\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 45px; max-width: 45px;\"\u003e108.5\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf the current price is 106, the duration of this bond is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c98d6be3-fb00-4105-bcb8-0284b89aa3af"
+                },
+                "answerFeedback": {
+                    "13ade29c-4406-415f-a58a-0fb84e2ffb47": "\u003cp\u003eIncorrect because it uses par value instead of market value in the denominator.\u003c/p\u003e\u003cp\u003eDuration ≠ \u003cu\u003e108.5 –\u003c/u\u003e 104\u003c/p\u003e\u003cp\u003e2 × 100 × 0.0075 ≠ 3.0\u0026nbsp;\u003c/p\u003e",
+                    "a42f945a-4e03-4756-ac13-7f243ed0d973": "\u003cp\u003eIncorrect because it uses 100 bps instead of 75bps in the denominator.\u003c/p\u003e\u003cp\u003eDuration ≠ \u003cu\u003e108.5 –\u003c/u\u003e 104\u003c/p\u003e\u003cp\u003e2 × 106 × 0.0100 ≠ 2.12, or 2.1\u0026nbsp;\u003c/p\u003e",
+                    "c98d6be3-fb00-4105-bcb8-0284b89aa3af": "\u003cp\u003eCorrect because the following formula estimates the approximate percentage price change for a 100 basis point change in yield (duration) is:\u003c/p\u003e\u003cp\u003eDuration = \u003cu\u003ePrice if yield declines – Price if yield rises\u003c/u\u003e\u003c/p\u003e\u003cp\u003e2 × (initial price) × (change in yield in decimal format)\u003c/p\u003e\u003cp\u003e= \u003cu\u003e108.5 –\u003c/u\u003e 104\u003c/p\u003e\u003cp\u003e2 × 106 × 0.0075\u003c/p\u003e\u003cp\u003e= \u003cu\u003e4.5\u003c/u\u003e\u003c/p\u003e\u003cp\u003e1.59\u003c/p\u003e\u003cp\u003e= 2.83, or 2.8\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a42f945a-4e03-4756-ac13-7f243ed0d973",
+                            "itemBody": "\u003cp\u003eA. 2.1.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c98d6be3-fb00-4105-bcb8-0284b89aa3af",
+                            "itemBody": "\u003cp\u003eB. 2.8.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "13ade29c-4406-415f-a58a-0fb84e2ffb47",
+                            "itemBody": "\u003cp\u003eC. 3.0.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8665,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54213",
+            "entry": {
+                "title": "ITEM_CFA-L1-04633",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe price value of a basis point (PVBP) for a bond with a full price of 103.50 and a modified duration of 6.2 is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e66028df-f335-4e82-bd29-0bdd265e002f"
+                },
+                "answerFeedback": {
+                    "4efd4788-b127-457f-93b2-505bf9bc3253": "\u003cp\u003eIncorrect because it represents a 1 percent change in rates (100 bp), not 1 bp: −6.2 × 0.01 = 0.062 and PVBP ≠ 0.062 × 103.50 = 6.417, rounded to 6.42.\u003c/p\u003e",
+                    "7c49a504-041c-43b1-abb6-93ce277b3953": "\u003cp\u003eIncorrect because it represents a 10 bp change in rates, not 1 bp: −6.2 × 0.001 = 0.0062\u0026nbsp;and PVBP ≠ 0.0062 × 103.50 = 0.6417, rounded to 0.642.\u003c/p\u003e",
+                    "e66028df-f335-4e82-bd29-0bdd265e002f": "\u003cp\u003eCorrect because modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity:\u003c/p\u003e\n\u003cp\u003e%Δ\u003ci\u003ePV\u003csup\u003eFull\u003c/sup\u003e\u003c/i\u003e ≈ −AnnModDur × ΔYield.\u003c/p\u003e\n\u003cp\u003eAlso, another version of money duration is the price value of a basis point (PVBP) for the bond. The PVBP is an estimate of the change in the full price given a 1 bp change in the yield-to-maturity.\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eHere: −6.2 × 0.0001 = 0.00062 and PVBP = 0.00062 × 103.50 = 0.06417, rounded to 0.0642.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e66028df-f335-4e82-bd29-0bdd265e002f",
+                            "itemBody": "\u003cp\u003eA. 0.0642.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7c49a504-041c-43b1-abb6-93ce277b3953",
+                            "itemBody": "\u003cp\u003eB. 0.6420.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4efd4788-b127-457f-93b2-505bf9bc3253",
+                            "itemBody": "\u003cp\u003eC. 6.4200.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8665,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54214",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-FI-Larrabee-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst observes the following price-yield relationship for an option-free bond:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 190px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"width: 103px; max-width: 103px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003ePrice per 100 of Par Value\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"width: 78px; max-width: 78px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eYield to Maturity\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 103px; max-width: 103px; text-align: center;\"\u003e100.95\u003c/td\u003e\n\u003ctd style=\"width: 78px; max-width: 78px; text-align: center;\"\u003e7.45%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 103px; max-width: 103px; text-align: center;\"\u003e101.80\u003c/td\u003e\n\u003ctd style=\"width: 78px; max-width: 78px; text-align: center;\"\u003e6.75%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 103px; max-width: 103px; text-align: center;\"\u003e103.40\u003c/td\u003e\n\u003ctd style=\"width: 78px; max-width: 78px; text-align: center;\"\u003e6.05%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf the bond trades at 101.80 per 100 of par value, its approximate modified duration is \u003ci\u003eclosest \u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "057cfeab-c5fd-46ff-9785-b8338dd00d30"
+                },
+                "answerFeedback": {
+                    "057cfeab-c5fd-46ff-9785-b8338dd00d30": "\u003cp\u003eCorrect because the approximate modified duration of a bond is calculated as follows:\u003c/p\u003e\u003cp\u003eApproxModDur = ((PV\u003csub\u003e–\u003c/sub\u003e) – (PV\u003csub\u003e+\u003c/sub\u003e)) / (2\u0026nbsp;× (ΔYield) × PV\u003csub\u003e0\u003c/sub\u003e) = (103.40 – 100.95) / (2 × 0.0070 × 101.80) = 2.45 / 1.4252\u0026nbsp;= 1.7191 ≈ 1.72.\u003c/p\u003e",
+                    "3fa9ca93-c627-4322-8e9f-8c3af985c2d9": "\u003cp\u003eIncorrect because the approximate modified duration of a bond is calculated as follows:\u003c/p\u003e\u003cp\u003eApproxModDur = ((PV\u003csub\u003e–\u003c/sub\u003e) – (PV\u003csub\u003e+\u003c/sub\u003e)) / (2 × (ΔYield) ×\u0026nbsp;PV\u003csub\u003e0\u003c/sub\u003e). However, in this case, the higher yield/lower price is omitted from the calculation and the multiplication by 2 in the denominator is omitted as well: = (103.40 – 101.80)/(101.80(6.75% – 6.05%)) = 2.2453 = 2.25.\u003c/p\u003e",
+                    "ccce7c7a-58b5-4e03-8d6e-1bef3bbe1386": "\u003cp\u003eIncorrect because the approximate modified duration of a bond is calculated as follows:\u003c/p\u003e\u003cp\u003eApproxModDur = ((PV\u003csub\u003e–\u003c/sub\u003e) – (PV\u003csub\u003e+\u003c/sub\u003e)) / (2 × (ΔYield) ×\u0026nbsp;PV\u003csub\u003e0\u003c/sub\u003e).\u0026nbsp;However, in this case, the number 2 is omitted from the denominator: = (103.40 – 100.95) / (0.0070 × 101.80) = 2.45 / 0.7126 = 3.4381 ≈ 3.44.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "057cfeab-c5fd-46ff-9785-b8338dd00d30",
+                            "itemBody": "\u003cp\u003eA. 1.72.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3fa9ca93-c627-4322-8e9f-8c3af985c2d9",
+                            "itemBody": "\u003cp\u003eB. 2.25.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ccce7c7a-58b5-4e03-8d6e-1bef3bbe1386",
+                            "itemBody": "\u003cp\u003eC. 3.44.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8665,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4473,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

@@ -1,0 +1,1081 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6049,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 17,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 7: Business Models",
+        "topic_id": 1033,
+        "topic": "CFA-26-02-LI-C: Corporate Issuers",
+        "subtopic_id": 6049,
+        "subtopic": "Module 7: Business Models",
+        "question_count": 17,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 849,
+                "name": "Warehouse Course: Corporate Issuers 26-LI",
+                "code": "Warehouse Course: Corporate Issuers 26-LI",
+                "module_id": 4442,
+                "question_count": 6,
+                "type": "warehouse"
+            },
+            {
+                "id": 840,
+                "name": "Practice Pack Warehouse: Corporate Issuers 26-LI",
+                "code": "Practice Pack Warehouse: Corporate Issuers 26-LI",
+                "module_id": 4659,
+                "question_count": 11,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 17.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "c5041243386175a1",
+        "ordered_item_ids": [
+            "54743",
+            "54744",
+            "54745",
+            "54746",
+            "54747",
+            "54748",
+            "54749",
+            "54750",
+            "54751",
+            "54752",
+            "54753",
+            "53674",
+            "50863",
+            "50864",
+            "50865",
+            "50866",
+            "50867",
+            "50868"
+        ],
+        "visible_item_ids": [
+            "54743",
+            "54744",
+            "54745",
+            "54746",
+            "54747",
+            "54748",
+            "54749",
+            "54750",
+            "54751",
+            "54752",
+            "54753",
+            "53674",
+            "50863",
+            "50864",
+            "50865",
+            "50866",
+            "50867",
+            "50868"
+        ]
+    },
+    "items": [
+        {
+            "id": "54743",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Tsependa-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe sequence of processes involved in the creation of a product, both within and external to a firm, is \u003ci\u003ebest\u003c/i\u003e referred to as a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "83159e40-b1bb-4b9c-9c7c-d45ea9e932b0"
+                },
+                "answerFeedback": {
+                    "7b78da39-05f3-4e62-be13-3da52d435b4b": "\u003cp\u003eIncorrect because a firm’s value chain\u0026nbsp;is\u0026nbsp;the systems and processes within a firm that create value for its customers. Note that a firm’s value chain is different from a supply chain, which refers to the sequence of processes involved in the creation of a product, both within and external to a firm.\u003c/p\u003e",
+                    "83159e40-b1bb-4b9c-9c7c-d45ea9e932b0": "\u003cp\u003eCorrect because a supply chain\u0026nbsp;refers to the sequence of processes involved in the creation of a product, both within and external to a firm. A supply chain includes all the steps involved in producing and delivering a physical product to the end customer, regardless of whether those steps are performed by a single firm.\u003c/p\u003e",
+                    "e181d40f-d549-4c39-9fc2-1f1224ebde98": "\u003cp\u003eIncorrect because there is no precise definition, but a business model essentially describes how a business is organized to deliver value to its customers. A business model makes it clear what the business does, how it operates, and how it generates revenue and profits, as well as how it differs in these respects from its competitors. A business model should have a value proposition and a value chain.\u0026nbsp;So, business model is a broader concept, which includes value chain\u0026nbsp;but also other business organization elements.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7b78da39-05f3-4e62-be13-3da52d435b4b",
+                            "itemBody": "\u003cp\u003eA. value chain.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "83159e40-b1bb-4b9c-9c7c-d45ea9e932b0",
+                            "itemBody": "\u003cp\u003eB. supply chain.\u0026nbsp;\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e181d40f-d549-4c39-9fc2-1f1224ebde98",
+                            "itemBody": "\u003cp\u003eC. business model.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8816,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4659,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54744",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Tsependa-13",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe business model of a knowledge aggregation company that allows\u0026nbsp;its\u0026nbsp;users to contribute directly to\u0026nbsp;online content\u0026nbsp;is \u003ci\u003ebest\u003c/i\u003e referred to as a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d7f6fd96-8b25-4bea-a533-2015f1b13111"
+                },
+                "answerFeedback": {
+                    "8451870f-7143-4469-928f-ee7668c171f4": "\u003cp\u003eIncorrect because \u003cb\u003emarketplace businesses\u003c/b\u003e create networks of buyers and sellers without taking ownership of the goods during the process. Examples include: Alibaba, eBay, Mercado Libre, and Etsy. Marketplace business models are not developed specifically to allow users to contribute directly to product, service, or online content.\u003c/p\u003e",
+                    "bf06f33c-4396-45a0-8458-c731161f9968": "\u003cp\u003eIncorrect because a platform business is based on a network and can be distinguished from a traditional or 'linear' business that adds value to something that is sold to customers in a linear supply chain. Platform business models are not developed specifically to allow users to contribute directly to product, service, or online content.\u003c/p\u003e",
+                    "d7f6fd96-8b25-4bea-a533-2015f1b13111": "\u003cp\u003eCorrect because \u003cb\u003ec\u003c/b\u003e\u003cb\u003erowdsourcing \u003c/b\u003ebusiness models enable users to contribute directly to a product, service, or online content. Examples include: contests and competitions; online gaming; product development, such as open source software; knowledge aggregation, such as Wikipedia and Waze/Google Maps; fan or hobbyist clubs; and networks of tradespersons or professionals.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bf06f33c-4396-45a0-8458-c731161f9968",
+                            "itemBody": "\u003cp\u003eA. platform business model.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8451870f-7143-4469-928f-ee7668c171f4",
+                            "itemBody": "\u003cp\u003eB. marketplace business\u0026nbsp;model.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d7f6fd96-8b25-4bea-a533-2015f1b13111",
+                            "itemBody": "\u003cp\u003eC. crowdsourcing business model.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8816,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4659,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54745",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Lin-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following pricing models is \u003ci\u003emost likely\u003c/i\u003e used when a firm willingly sacrifices margins to build market share?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "47ca0c23-23ed-4ace-bbe4-70fd57d7982b"
+                },
+                "answerFeedback": {
+                    "45fb7d83-f858-4bc9-b46e-33d106a57d99": "\u003cp\u003eIncorrect because penetration pricing, rather than dynamic pricing, is\u0026nbsp;used. \u003cb\u003eDynamic pricing\u003c/b\u003e charges different prices at different times. Specific examples include off-peak pricing (e.g., for hotel rooms, advertising, airline tickets, electricity, or matinee movie tickets), 'surge' pricing, and 'congestion' pricing (e.g., for ride sharing and toll roads).\u003c/p\u003e",
+                    "47ca0c23-23ed-4ace-bbe4-70fd57d7982b": "\u003cp\u003eCorrect because \u003cb\u003epenetration pricing\u003c/b\u003e is an example of discount pricing and is used when a firm willingly sacrifices margins in order to build scale and market share.\u003c/p\u003e",
+                    "ba58289c-6946-46e3-918d-a27bb13803fe": "\u003cp\u003eIncorrect because penetration pricing, rather than freemium pricing, is\u0026nbsp;used. \u003cb\u003eFreemium pricing\u003c/b\u003e allows customers a certain level of usage or functionality at no charge—for example, with news content, a software application, or a game. This model is widely used in digital content and services, such as periodicals, video games, software/apps, and cloud storage, where the provider stands to benefit from wide adoption (often via network effects).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "45fb7d83-f858-4bc9-b46e-33d106a57d99",
+                            "itemBody": "\u003cp\u003eA. Dynamic pricing\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ba58289c-6946-46e3-918d-a27bb13803fe",
+                            "itemBody": "\u003cp\u003eB. Freemium pricing\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "47ca0c23-23ed-4ace-bbe4-70fd57d7982b",
+                            "itemBody": "\u003cp\u003eC. Penetration pricing\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8816,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4659,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54746",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.08-CorpIssuers-Barker-05",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA company manufacturing and selling\u0026nbsp;a product using someone else's brand name in return for a royalty\u0026nbsp;\u003ci\u003emost likely\u003c/i\u003e operates:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c61a1abb-65f1-4f9f-9fd6-2b15b4c6a40b"
+                },
+                "answerFeedback": {
+                    "935d37b1-643c-4cb3-8a6a-ae9f99496bf0": "\u003cp\u003eIncorrect because under a franchise model distributers or retailers have a tightly defined and often exclusive relationship with the parent company.\u003c/p\u003e",
+                    "abc2e59c-3e5a-4c07-97ed-a9f7b5350f46": "\u003cp\u003eIncorrect because private label or contract manufacturers produce goods to be marketed by others.\u003c/p\u003e",
+                    "c61a1abb-65f1-4f9f-9fd6-2b15b4c6a40b": "\u003cp\u003eCorrect because a company will produce a product using someone else’s brand name in return for a royalty\u0026nbsp;under a licensing arrangement.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "935d37b1-643c-4cb3-8a6a-ae9f99496bf0",
+                            "itemBody": "\u003cp\u003eA. under a franchise model.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "abc2e59c-3e5a-4c07-97ed-a9f7b5350f46",
+                            "itemBody": "\u003cp\u003eB. as a contract manufacturer.\u0026nbsp;\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c61a1abb-65f1-4f9f-9fd6-2b15b4c6a40b",
+                            "itemBody": "\u003cp\u003eC. under a licensing arrangement.\u0026nbsp;\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8816,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4659,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54747",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.08-CorpIssuers-Glover-17",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe flow of finished goods from manufacturer to wholesaler, retailer, and finally to the end customer \u003ci\u003ebest\u003c/i\u003e describes a(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1c022a49-46df-43af-ac21-32b6cf80d741"
+                },
+                "answerFeedback": {
+                    "1c022a49-46df-43af-ac21-32b6cf80d741": "\u003cp\u003eCorrect because, for 'product' businesses, the traditional channel strategy is typically reflected in the flow of finished goods (e.g., from manufacturer to wholesaler, retailer, and end customer), each with its own physical facilities and with the product sold and purchased at each stage.\u003c/p\u003e",
+                    "40350778-5f22-4f2b-800b-9ab0c276062d": "\u003cp\u003eIncorrect because, with an omnichannel strategy, both digital and physical channels are used to complete a sale. For example, a customer might order an item online and pick it up in a store ('click and collect') or select an item in a store and have it delivered.\u0026nbsp;Thus, an omnichannel strategy does not say anything about the flow of goods from manufacturer\u0026nbsp;to wholesaler, retailer, and then end customer.\u003c/p\u003e",
+                    "6fce970b-c72c-4ac6-a930-b222e2043ffa": "\u003cp\u003eIncorrect because\u0026nbsp;manufacturers [sometimes] employ a direct sales strategy, selling directly to the end customer. Direct sales to the end customer bypass ('disintermediate') the distributor or retailer. Typically, this involves the company's own sales force, which in some cases represents a significant business investment and carrying cost for the firm.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6fce970b-c72c-4ac6-a930-b222e2043ffa",
+                            "itemBody": "\u003cp\u003eA. direct sales strategy.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "40350778-5f22-4f2b-800b-9ab0c276062d",
+                            "itemBody": "\u003cp\u003eB. omnichannel strategy.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1c022a49-46df-43af-ac21-32b6cf80d741",
+                            "itemBody": "\u003cp\u003eC. traditional channel strategy.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8816,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4659,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54748",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.08-CorpIssuers-Tsependa-15",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhen analyzing a company, analysts should:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5e2d65ef-60f7-4bbe-91b3-0193296c87e3"
+                },
+                "answerFeedback": {
+                    "10e30b25-45d2-4691-b745-4cf8e4d63837": "\u003cp\u003eIncorrect because rather than rely on management’s description of its business model, analysts should develop their own understanding.\u003c/p\u003e",
+                    "5e2d65ef-60f7-4bbe-91b3-0193296c87e3": "\u003cp\u003eCorrect because a\u0026nbsp;clearly described business model helps the analyst understand a business: how it operates, its strategy, target customers, key partners, prospects, risks, and financial profile. Rather than rely on management’s description of its business model, analysts should develop their own understanding.\u003c/p\u003e",
+                    "e97f8d43-7a26-4e73-b747-64be76c2120d": "\u003cp\u003eIncorrect because a\u0026nbsp;clearly described business model helps the analyst understand a business: how it operates, its strategy, target customers, key partners, prospects, risks, and financial profile.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e97f8d43-7a26-4e73-b747-64be76c2120d",
+                            "itemBody": "\u003cp\u003eA. ignore the company's business model.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5e2d65ef-60f7-4bbe-91b3-0193296c87e3",
+                            "itemBody": "\u003cp\u003eB. develop their own understanding of the company's business model.\u0026nbsp;\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "10e30b25-45d2-4691-b745-4cf8e4d63837",
+                            "itemBody": "\u003cp\u003eC. rely on management's description of the company's business model.\u0026nbsp;\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8816,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4659,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54749",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-CorpIssuers-Huffman-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\"Economic\" profit is \u003ci\u003ebest\u003c/i\u003e described as the return to a firm's owners:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0571e06c-1c6a-4556-a9db-990d921f8e06"
+                },
+                "answerFeedback": {
+                    "048b9d4c-4b85-49e6-b3f3-19343f416ea2": "\u003cp\u003eIncorrect because an issuer’s income statement distinguishes between its financial income or net income once fixed obligations have been met and its 'economic' profit, or return to a firm’s owners in excess of what they could have earned elsewhere on different investments, known as their required rate of return on equity.\u003c/p\u003e",
+                    "0571e06c-1c6a-4556-a9db-990d921f8e06": "\u003cp\u003eCorrect because an issuer’s income statement distinguishes between its financial income or net income once fixed obligations have been met and its 'economic' profit, or return to a firm’s owners in excess of what they could have earned elsewhere on different investments, known as their required rate of return on equity.\u003c/p\u003e",
+                    "a5e114a7-2452-4625-8fb5-a5d53749ea63": "\u003cp\u003eIncorrect because an issuer’s income statement distinguishes between its financial income or net income once fixed obligations have been met and its 'economic' profit, or return to a firm’s owners in excess of what they could have earned elsewhere on different investments, known as their required rate of return on equity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a5e114a7-2452-4625-8fb5-a5d53749ea63",
+                            "itemBody": "\u003cp\u003eA. in the form of retained earnings and distributions to the owners.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "048b9d4c-4b85-49e6-b3f3-19343f416ea2",
+                            "itemBody": "\u003cp\u003eB. after corporate taxes and taxes on distributions have been paid.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0571e06c-1c6a-4556-a9db-990d921f8e06",
+                            "itemBody": "\u003cp\u003eC. in excess of what they could have earned elsewhere on different investments.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8816,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4659,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54750",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-CorpIssuers-Harper-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf a corporation is financed with both debt and equity, which of the following must the corporation pay?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "57cd5164-9576-49f0-8752-ca83cae2dc81"
+                },
+                "answerFeedback": {
+                    "17e0bf2f-8b0d-4be6-81a5-9637f3bc625a": "\u003cp\u003eIncorrect because equity investors (shareholders) have a right to receive any distributions of profits, known as \u003cb\u003edividends\u003c/b\u003e. However, while shareholder have the right to receive dividends, they corporation is not required to pay dividends.\u003c/p\u003e",
+                    "57cd5164-9576-49f0-8752-ca83cae2dc81": "\u003cp\u003eCorrect because debt must be repaid on a pre-specified date in the future with interest.\u003c/p\u003e",
+                    "9a71c93b-77f0-421b-a763-e1addc2e9ea9": "\u003cp\u003eIncorrect because equity investors (shareholders) have a right to receive any distributions of profits, known as \u003cb\u003edividends\u003c/b\u003e. However, while shareholder have the right to receive dividends, the corporation is not required to pay dividends.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "57cd5164-9576-49f0-8752-ca83cae2dc81",
+                            "itemBody": "\u003cp\u003eA. Interest only\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9a71c93b-77f0-421b-a763-e1addc2e9ea9",
+                            "itemBody": "\u003cp\u003eB. Dividends only\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "17e0bf2f-8b0d-4be6-81a5-9637f3bc625a",
+                            "itemBody": "\u003cp\u003eC. Both interest and dividends\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8816,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4659,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54751",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-CorpIssuers-Harper-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCharging prices that differ based on product features or volume purchased\u0026nbsp;\u003ci\u003ebest \u003c/i\u003edescribes:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "05a55ce0-b8e7-4cee-9e3b-13fc9c1a2adf"
+                },
+                "answerFeedback": {
+                    "05a55ce0-b8e7-4cee-9e3b-13fc9c1a2adf": "\u003cp\u003eCorrect because tiered pricing is charging different prices to different buyers, often based on volume purchased but also based on product features (e.g., base versus premium trims of vehicles).\u003c/p\u003e",
+                    "6e2805ff-da58-436d-a9f4-afd49d07ff22": "\u003cp\u003eIncorrect because value based pricing is setting prices based on the value received by the customer, which often involves estimating opportunity cost.\u003c/p\u003e",
+                    "f3de4549-4e19-4809-b790-a0942153fefd": "\u003cp\u003eIncorrect because dynamic pricing is charging different prices at different times and for different types of customers depending on such variables as available supply levels and demand.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "05a55ce0-b8e7-4cee-9e3b-13fc9c1a2adf",
+                            "itemBody": "\u003cp\u003eA. tiered pricing.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f3de4549-4e19-4809-b790-a0942153fefd",
+                            "itemBody": "\u003cp\u003eB. dynamic pricing.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6e2805ff-da58-436d-a9f4-afd49d07ff22",
+                            "itemBody": "\u003cp\u003eC. value-based pricing.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8816,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4659,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54752",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-CorpIssuers-Erickson-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following would \u003ci\u003emost likely\u003c/i\u003e be included on a company's \"financial\" balance sheet?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5529020a-7bc1-4c77-9394-db7eb517258e"
+                },
+                "answerFeedback": {
+                    "24eab78e-568d-470b-9a55-f33f1ae3ac4c": "\u003cp\u003eIncorrect because agreements with suppliers\u0026nbsp;and other intangible assets are excluded from a company's financial balance sheet but are included on the issuer's broader \"economic\" balance sheet.\u003c/p\u003e",
+                    "5529020a-7bc1-4c77-9394-db7eb517258e": "\u003cp\u003eCorrect because short-term debt is\u0026nbsp;included in a company's financial balance sheet.\u003c/p\u003e",
+                    "b86a4f9d-cdfa-47fb-9962-ae72b2427e92": "\u003cp\u003eIncorrect because contracts with customers and other intangible assets are excluded from a company's financial balance sheet but are included on the issuer's broader \"economic\" balance sheet.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5529020a-7bc1-4c77-9394-db7eb517258e",
+                            "itemBody": "\u003cp\u003eA. Short-term debt obligations\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b86a4f9d-cdfa-47fb-9962-ae72b2427e92",
+                            "itemBody": "\u003cp\u003eB. Relationships with customers\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "24eab78e-568d-470b-9a55-f33f1ae3ac4c",
+                            "itemBody": "\u003cp\u003eC. Relationships\u0026nbsp;with key suppliers\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8816,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4659,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54753",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-CorpIssuers-Erickson-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA company that\u0026nbsp;produces\u0026nbsp;goods to be marketed by other firms is \u003ci\u003ebest\u003c/i\u003e described as having a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "eb2039d5-36d9-4249-b878-55b8462ee0ea"
+                },
+                "answerFeedback": {
+                    "43fddea4-2463-4186-94ff-747e7be4a6c0": "\u003cp\u003eIncorrect because licensing arrangements are business models in which\u0026nbsp;a company will produce a product using someone else's brand name in\u0026nbsp;return for a royalty.\u003c/p\u003e",
+                    "e4e28eac-f8be-4826-a36e-8b6864009335": "\u003cp\u003eIncorrect because \u003cb\u003evalue added resellers\u003c/b\u003e not only distribute a product but also handle more complex aspects of product installation, customization or support.\u003c/p\u003e",
+                    "eb2039d5-36d9-4249-b878-55b8462ee0ea": "\u003cp\u003eCorrect because \u003cb\u003econtract manufacturers\u0026nbsp;\u003c/b\u003eproduce goods to be marketed by others.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e4e28eac-f8be-4826-a36e-8b6864009335",
+                            "itemBody": "\u003cp\u003eA. value added reseller business model.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "43fddea4-2463-4186-94ff-747e7be4a6c0",
+                            "itemBody": "\u003cp\u003eB. licensing arrangement business\u0026nbsp;model.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "eb2039d5-36d9-4249-b878-55b8462ee0ea",
+                            "itemBody": "\u003cp\u003eC. contract manufacturer business model.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8816,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4659,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53674",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Tsependa-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA pricing approach where a company\u0026nbsp;simultaneously charges different prices to different customers\u0026nbsp;based on purchase volume\u0026nbsp;is \u003ci\u003ebest\u003c/i\u003e referred to as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "78e05483-2d84-449f-81d5-6b71e7eade4e"
+                },
+                "answerFeedback": {
+                    "1b633e94-31d3-4bcd-8f94-af73a601b612": "\u003cp\u003eIncorrect because dynamic pricing\u003cb\u003e \u003c/b\u003echarges different prices at different times (i.e., pricing is based on time of purchase as opposed to volume purchased; prices are not simultaneously adjusted based on the purchased volume). Specific examples include off-peak pricing (e.g., for hotel rooms, advertising, airline tickets, electricity, or matinee movie tickets), 'surge' pricing, and 'congestion' pricing (e.g., for ride sharing and toll roads).\u003c/p\u003e",
+                    "78e05483-2d84-449f-81d5-6b71e7eade4e": "\u003cp\u003eCorrect because economists use the term 'price discrimination' when firms charge different prices to different customers.\u0026nbsp;Tiered pricing\u003cb\u003e \u003c/b\u003echarges different prices to different buyers, most commonly based on volume purchased.\u003c/p\u003e",
+                    "fcd99685-a9ae-4cf8-afa4-a386d8729830": "\u003cp\u003eIncorrect because bundling\u003cb\u003e \u003c/b\u003erefers to combining multiple products or services so that customers are incentivized, or required, to buy them together as opposed to offering the same product at different prices depending on the purchased volume. Bundling can be effective, particularly for products that are complementary, with high incremental margins and high marketing costs relative to the cost of the product itself. Examples include hotel rooms with free breakfast; furnished rental apartments; cable TV and internet services; pre-packaged sets of toys, tools, or kitchen utensils; and cloud-based software combining an application, processing power, storage, and support services.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "78e05483-2d84-449f-81d5-6b71e7eade4e",
+                            "itemBody": "\u003cp\u003eA. tiered pricing.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fcd99685-a9ae-4cf8-afa4-a386d8729830",
+                            "itemBody": "\u003cp\u003eB. bundled pricing.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1b633e94-31d3-4bcd-8f94-af73a601b612",
+                            "itemBody": "\u003cp\u003eC. dynamic pricing.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8613,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4442,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50863",
+            "entry": {
+                "title": "CFA2133-R-s03-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. A company’s supply chain is the network or system inside and outside the company involved in producing a product or service and delivering it to an end user.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because \u003cem\u003evalue chain\u003c/em\u003e refers to the systems and processes within a firm that create value for its customers. It is the “how” aspect of a business model.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because the business model is a description of how a business works. It includes descriptions of the core customer base, the product or service that the business offers, the key resources and assets the business uses, and the main partners and suppliers of the business.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe sequence of processes involved in the creation of a product, both within and external to a firm, including all the steps involved in producing a physical product and delivering it to the end customer, regardless of whether those steps are performed by a single firm, is referred to as the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b9b7ac39-ff86-4d6b-81c8-7a619d89aa05"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b8a796c2-7c65-4e4c-a25a-25afe81f4853",
+                            "itemBody": "A. value chain.",
+                            "position": 1
+                        },
+                        {
+                            "id": "b9b7ac39-ff86-4d6b-81c8-7a619d89aa05",
+                            "itemBody": "B. supply chain.",
+                            "position": 2
+                        },
+                        {
+                            "id": "7da27de5-4cfd-4eaa-ad99-bf3c4574e4b0",
+                            "itemBody": "C. business model.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8177,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4442,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50864",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst is reviewing investor presentations from the management teams of two companies with unconventional business models: HealthyPet and DiaSera.\u003c/p\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eHealthyPet is a pet medical insurer that has a differentiated approach in a business dominated by incumbent property \u0026amp; casualty insurers, for which pet insurance is a niche business relative to business, home, and auto insurance lines. HealthyPet targets the high-income, young, urban, busy professional pet owner segment. It bundles coverage for owners of multiple pets, including exotic pets that incumbents are typically reluctant to insure. The industry incumbents sell insurance policies that reimburse pet owners for a percentage of veterinarian and other medical costs incurred, subject to restrictions and limits. HealthyPet, however, pays veterinarians directly for pet medical costs. It has a preferred network of veterinarians it recommends and for which it negotiates lower prices, but policyholders face relatively few restrictions. It sells through veterinarian referrals and boutique pet stores to maintain an image of exclusivity and prestige and maintains an online storefront for customer convenience. It avoids mass market retail to protect its image. It charges more than its competitors for monthly insurance premiums because it is a better product. The pricing has worked so far because HealthyPet has a strong brand and a distinctiveness that its customers value.\u003c/p\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDiaSera designs, makes, and sells a medical device that delivers insulin to people with insulin-dependent diabetes known as an insulin pump. DiaSera’s pump is differentiated from those of its competitors in its design and operation; it is far smaller and more aesthetically pleasing than competitors’ pumps. It is a single, small device adhered to a user’s skin, while competitors’ pumps consist of separate handheld controllers attached to a delivery device on a user’s skin with tubing.\u003c/p\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eInsulin pumps are used primarily by people with Type 1 diabetes, which is a smaller market that has complex medical needs, including close management of insulin. The insulin pump market is complex, with several competitors; complement products, such as insulin monitoring devices; and an inexpensive substitute: using multiple daily injections of insulin.\u003c/p\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDiaSera is looking to expand its customer reach to include Type 2 diabetics who are on multiple daily insulin injections, which is a market several times the size of the Type 1 diabetics market. DiaSera’s pump product is priced at a small premium to competitors. Management says that given significant economies of scale in manufacturing, unit costs will fall substantially as the customer base grows and, even with unchanged pricing, margins will rise significantly. Besides the differentiated product design, the company also offers substantial customer service from highly trained nurses both before and after the sale. Access to customer service is available 24/7 and does not have any additional cost to the customer.\u003c/p\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDiaSera makes direct sales to customers and markets to both customers and physicians, because customers must receive a prescription for the pump from a physician before purchase. Products are shipped directly to customers’ homes.\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8177,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4442,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50865",
+            "entry": {
+                "title": "CFA2133-R-s03-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n                  \u003cstrong\u003e \u003c/strong\u003e\n               \u003c/p\u003e\n               \u003cdiv id=\"CFA2133-R-s03-T-1-d\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n                  \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                     \n                     \u003ctbody\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eCustomers\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e• High-income, young, urban, busy professional pet owners\u003cbr\u003e\u003cbr\u003e• Own multiple pets and exotic pets\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eProducts\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e• Insurance policy for pets that are sick or injured\u003cbr\u003e\u003cbr\u003e• Provides peace of mind to customers\u003cbr\u003e\u003cbr\u003e• Handles billing directly with veterinarians\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eChannels\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e• Veterinarian referrals\u003cbr\u003e\u003cbr\u003e• Boutique pet stores, online storefront\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003ePricing strategy\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e• Premium pricing because it is a premium product\u003cbr\u003e\u003cbr\u003e• Monthly premiums, similar to subscription\u003c/td\u003e\n                        \u003c/tr\u003e\n                     \u003c/tbody\u003e\n                  \u003c/table\u003e\u003c/div\u003e\n               \u003c/div\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eComplete the grid of business model features for HealthyPet.\u003c/p\u003e\n\u003cdiv id=\"CFA2133-R-s03-T-1-c\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; width: 84.1945%; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\"\u003eCustomers\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\"\u003eProducts\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\"\u003eChannels\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\"\u003ePricing strategy\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8177,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4442,
+            "stimulusQuizEntryId": "50864"
+        },
+        {
+            "id": "50866",
+            "entry": {
+                "title": "CFA2133-R-s03-Q8",
+                "feedback": {
+                    "neutral": "\n               \n               \u003cdiv id=\"CFA2133-R-s03-T-1-f\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n                  \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                     \n                     \u003ctbody\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eCustomers\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e• Diabetics who need insulin\u003cbr\u003e\u003cbr\u003e• Expanding customer base to include Type 2 diabetics who are on multiple daily insulin injections\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eProducts\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e• Differentiated insulin pump for diabetics\u003cbr\u003e\u003cbr\u003e• Substantial customer service over the phone from highly trained experts both before and after sales\u003cbr\u003e\u003cbr\u003e• Complex market with complements and substitutes\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eChannels\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e• Direct sales to customers\u003cbr\u003e\u003cbr\u003e• Maintain close relationship with customers\u003cbr\u003e\u003cbr\u003e• Product shipped directly to customers\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003ePricing strategy\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e• Bundling\u003cbr\u003e\u003cbr\u003e• Premium pricing because it is a premium product and with service\u003c/td\u003e\n                        \u003c/tr\u003e\n                     \u003c/tbody\u003e\n                  \u003c/table\u003e\u003c/div\u003e\n               \u003c/div\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eComplete the table of business model features for DiaSera.\u003c/p\u003e\n\u003cdiv id=\"CFA2133-R-s03-T-1-e\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 84.1945%; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\"\u003eCustomers\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\"\u003eProducts\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\"\u003eChannels\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\"\u003ePricing strategy\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8177,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4442,
+            "stimulusQuizEntryId": "50864"
+        },
+        {
+            "id": "50867",
+            "entry": {
+                "title": "CFA2133-R-s03-Q9",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThere are several apparent risks to HealthyPet’s business model. It is not clear that their offering is sufficiently differentiated to build a large-enough customer base to provide the diversification that an insurance company depends on (insurance requires a large pool of policyholders such that there is enough premiums to cover losses). It may incur an adverse selection problem in covering exotic pets because they may be uneconomical to insure as evidenced by the reluctance of established companies to insure them. Finally, if its model is successful, it will likely face competition in the form of imitators, possibly from the incumbent insurers because it is probably possible for them to copy the model of pay veterinarians directly.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eHealthyPet could see opportunity in building a loyal base of customers and a loyal base of veterinarians. Its image of prestige, premium service, and not needing to worry when a pet gets sick could appeal to many pet owners.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eQuestions include how difficult it would be for other insurers to copy the business model, how HealthyPet plans to establish relationships with veterinarians and how many it has and needs, and whether relationships with veterinarians can be exclusive. It is also questionable whether referrals and boutique pet stores will deliver a sufficient flow of new customers to support the business or whether HealthyPet will instead need to invest in large advertising campaigns directly to consumers.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDiscuss key risks, opportunities, and questions regarding the HealthyPet business model.\u003c/p\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8177,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4442,
+            "stimulusQuizEntryId": "50864"
+        },
+        {
+            "id": "50868",
+            "entry": {
+                "title": "CFA2133-R-s03-Q10",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA major risk is the possible incompatibility between DiaSera’s pricing strategy and its emphasis on customer service. It is priced only slightly higher than parity with competitors but aims to provide substantially better customer service by using highly trained experts. If customer growth and sales disappoint or take longer than expected, the economies of scale in manufacturing will as well, potentially imperiling profitability or forcing management to raise prices. A second major risk is targeting Type 2 diabetics who have historically not used insulin pumps. While DiaSera’s insulin pump seems more convenient than multiple daily injections of insulin, it is more expensive and requires customers to navigate a potentially complicated prescription, purchasing, and service scenario. DiaSera management should discuss key factors that give it confidence in the strategy—such as a segment of customers in the Type 2 market who have tried a pump before, patients who are younger and more likely to try a new product—and establish relationships with key physicians who can recommend the product to patients.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe clear major opportunities are market share gains in Type 1 diabetes from inferior competitor products and the new market opportunity of Type 2 diabetics who require multiple daily injections. If competitors have not segmented the market to explicitly target this cohort, DiaSera could realize a competitive advantage.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eKey questions include details on its manufacturing strategy, such as estimating unit costs or gross margins at different levels of volume, how experienced the manufacturing management and staff are in this setting, to what extent the company owns the manufacturing resources, and whether there are key suppliers it relies on. Additionally, an analyst will have to develop an outlook for market penetration and sales based on customer segmenting, historical data, precedent product launches, and realistic expectations for customer demand at the current price point. Finally, additional details on how many service professionals are needed per number of customers and at what cost will be essential to modeling operating costs.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDiscuss key risks, opportunities, and questions regarding DiaSera’s business model.\u003c/p\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8177,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4442,
+            "stimulusQuizEntryId": "50864"
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

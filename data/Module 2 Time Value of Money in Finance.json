@@ -1,0 +1,1329 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6104,
+    "time_spent": 1,
+    "questions_answered": 0,
+    "question_count": 21,
+    "hidden_question_count": 0,
+    "points": 3,
+    "points_possible": 21,
+    "correct_questions_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 2: Time Value of Money in Finance",
+        "topic_id": 1031,
+        "topic": "CFA-26-02-LI-C: Quantitative Methods",
+        "subtopic_id": 6104,
+        "subtopic": "Module 2: Time Value of Money in Finance",
+        "question_count": 21,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 799,
+                "name": "Warehouse Course: Quantitative Methods 26-LI",
+                "code": "Warehouse Course: Quantitative Methods 26-LI",
+                "module_id": 4421,
+                "question_count": 17,
+                "type": "warehouse"
+            },
+            {
+                "id": 838,
+                "name": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "code": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "module_id": 4623,
+                "question_count": 4,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 21.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "9927fd5baf2d4d27",
+        "ordered_item_ids": [
+            "54399",
+            "54400",
+            "54401",
+            "54402",
+            "53149",
+            "53150",
+            "53151",
+            "53152",
+            "53153",
+            "53154",
+            "53155",
+            "53156",
+            "53157",
+            "53158",
+            "53159",
+            "53160",
+            "53514",
+            "53515",
+            "53516",
+            "53517",
+            "53518"
+        ],
+        "visible_item_ids": [
+            "54399",
+            "54400",
+            "54401",
+            "54402",
+            "53149",
+            "53150",
+            "53151",
+            "53152",
+            "53153",
+            "53154",
+            "53155",
+            "53156",
+            "53157",
+            "53158",
+            "53159",
+            "53160",
+            "53514",
+            "53515",
+            "53516",
+            "53517",
+            "53518"
+        ]
+    },
+    "items": [
+        {
+            "id": "54399",
+            "entry": {
+                "title": "ITEM_CFA-L1-05697",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor has three options for receiving payments from an investment:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eOption 1: a single payment of $136,000 today;\u003c/li\u003e\n\u003cli\u003eOption 2: 30 annual payments of $12,000, beginning one year from today;\u003c/li\u003e\n\u003cli\u003eOption 3: 20 annual payments of $13,000, beginning today.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eIf the annual discount rate is 8%, the option with the highest present value is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "039faa7b-dcc6-4cac-8d03-036769c94df4"
+                },
+                "answerFeedback": {
+                    "039faa7b-dcc6-4cac-8d03-036769c94df4": "\u003cp\u003eCorrect because Option 3 (annuity due with 20 payments of $13,000 each) has the highest present value of the annuities and the $136,000 lump sum.\u003c/p\u003e\u003cp\u003eCalculator solution for Option 2: End mode; N = 30; I/Y = 8; PMT = –12,000; compute PV = 135,093.\u003c/p\u003e\u003cp\u003eCalculator solution for Option 3: Begin mode; N = 20; I/Y = 8; PMT = –13,000; compute PV = 137,847.\u003c/p\u003e",
+                    "44a6c879-8610-4694-b769-208a32f0e580": "\u003cp\u003eIncorrect because Option 3 (annuity due with 20 payments of $13,000 each) has the highest present value of $137,847. The PV of Option 1 is $136,000.\u003c/p\u003e\u003cp\u003eIf a candidate incorrectly calculated the present value of Option 3 as an ordinary annuity, the lump sum of $136,000 would have the highest present value. Incorrect calculator solution for Option 3: End mode; N = 20; I/Y = 8; PMT = –13,000; compute PV = 127,636.\u003c/p\u003e",
+                    "b5a4f4ad-5286-49df-89e9-afb0ca413326": "\u003cp\u003eIncorrect because Option 3 (annuity due with 20 payments of $13,000 each) has the highest present value of $137,847. The PV of Option 2 is $135,093.\u003c/p\u003e\u003cp\u003eIf a candidate ignored the discount rate, the option with the 30 payments of $12,000 each would have the highest value. That is, Option 2's 30 payments of $12,000 for a total of $360,000 is larger than Option 3's 20 payments of $13,000 for a total of $260,000 and the lump sum payment of $136,000.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "44a6c879-8610-4694-b769-208a32f0e580",
+                            "itemBody": "\u003cp\u003eA. Option 1.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b5a4f4ad-5286-49df-89e9-afb0ca413326",
+                            "itemBody": "\u003cp\u003eB. Option 2.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "039faa7b-dcc6-4cac-8d03-036769c94df4",
+                            "itemBody": "\u003cp\u003eC. Option 3.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8762,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4623,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54400",
+            "entry": {
+                "title": "ITEM_2019B Quant 02EJT",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor needs to make the following payments to cover college tuition fees, starting 10 years from today:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 454px; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003cth style=\"width: 376px; max-width: 376px; height: 29px; text-align: left;\" scope=\"row\"\u003eAnnual fee (payable at the beginning of each year)\u003c/th\u003e\n\u003ctd style=\"width: 70px; max-width: 70px; height: 29px; text-align: left;\"\u003e$50,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003cth style=\"width: 376px; max-width: 376px; height: 29px; text-align: left;\" scope=\"row\"\u003eNumber of years of fee payments\u003c/th\u003e\n\u003ctd style=\"width: 70px; max-width: 70px; text-align: center; height: 29px;\"\u003e4\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf the investor’s annual discount rate is 3%, the minimum investment amount required today to fund all four years of college tuition is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4f44d6da-6acf-401d-adc7-0b6043e9dc01"
+                },
+                "answerFeedback": {
+                    "4f44d6da-6acf-401d-adc7-0b6043e9dc01": "\u003cp\u003eCorrect because the present value (PV) of the annuity due 10 years from today equals PV\u003csub\u003e10\u003c/sub\u003e = $50,000 + $50,000 × [1 – 1/(1.03)\u003csup\u003e3\u003c/sup\u003e]/0.03 = $50,000 + $50,000 × 2.828611 = $191,431. The PV of the annuity today equals PV\u003csub\u003e0\u003c/sub\u003e = $191,431/(1.03)\u003csup\u003e10\u003c/sup\u003e = $142,442.\u003cbr\u003eCalculator solution: BEGIN mode; N = 4; I/Y = 3%; PMT = 50,000; solve for PV = 191,431. Discounted back 10 years: N = 10; I/Y = 3%; FV = 191,431; solve for PV = 142,442.\u003cbr\u003eAlternatively, the annuity can be treated as an ordinary annuity, with a PV 9 years from today of PV\u003csub\u003e9\u003c/sub\u003e = $50,000 × [1 – 1/(1.03)\u003csup\u003e4\u003c/sup\u003e]/0.03 = $50,000 × 3.717098 = $185,855. The PV of the annuity today equals PV\u003csub\u003e0\u003c/sub\u003e = $185,855/(1.03)\u003csup\u003e9\u003c/sup\u003e = $142,442.\u003cbr\u003eCalculator solution: END mode; N = 4; I/Y = 3%; PMT = 50,000; solve for PV = 185,855. Discounted back 9 years: N = 9; I/Y = 3%; FV = 185,855; solve for PV = 142,442.\u003c/p\u003e",
+                    "af57ff0a-1647-4413-85a3-78f85fb56929": "\u003cp\u003eIncorrect because the PV of the annuity due is discounted back 9 years instead of 10 years: $191,431/(1.03)\u003csup\u003e9\u003c/sup\u003e = $146,716.\u003cbr\u003eCalculator solution: BEGIN mode; N = 4; I/Y = 3%; PMT = 50,000; solve for PV = 191,431. Discounted back 9 years: N = 9; I/Y = 3%; FV = 191,431; solve for PV = 146,716.\u003cbr\u003eThis answer is also closest to the PV of the entire required amount: $200,000/(1.03)\u003csup\u003e10\u003c/sup\u003e = $148,819.\u003c/p\u003e",
+                    "cf6ff51b-d134-4509-a1a0-b07a02ef7560": "\u003cp\u003eIncorrect because the annuity is taken as an ordinary annuity rather than an annuity due, leading to a PV 10 years from today of PV\u003csub\u003e10\u003c/sub\u003e = $50,000 × [1 – 1/(1.03)\u003csup\u003e4\u003c/sup\u003e]/0.03 = $50,000 × 3.717098 = $185,855. The PV of the annuity today would equal PV\u003csub\u003e0\u003c/sub\u003e = $185,855/(1.03)\u003csup\u003e10\u003c/sup\u003e = $138,294.\u003cbr\u003eCalculator solution: END mode; N = 4; I/Y = 3%; PMT = 50,000; solve for PV = 185,855. Discounted back 10 years: N = 10; I/Y = 3%; FV = 185,855; solve for PV = 138,294.\u003cbr\u003eThis is also the result if the PV of the annuity due is discounted back 11 years instead of 10 years: $191,431/(1.03)\u003csup\u003e11\u003c/sup\u003e = $138,294.\u003cbr\u003eCalculator solution: BEGIN mode; N = 4; I/Y = 3%; PMT = 50,000; solve for PV = 191,431. Discounted back 11 years: N = 11; I/Y = 3%; FV = 191,431; solve for PV = 138,294.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "cf6ff51b-d134-4509-a1a0-b07a02ef7560",
+                            "itemBody": "\u003cp\u003eA. $138,294.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4f44d6da-6acf-401d-adc7-0b6043e9dc01",
+                            "itemBody": "\u003cp\u003eB. $142,442.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "af57ff0a-1647-4413-85a3-78f85fb56929",
+                            "itemBody": "\u003cp\u003eC. $146,716.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8762,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4623,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54401",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-Quant-Y.Zhang-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investment requires 10 equal annual payments, starting today, and will pay out a lump sum of\u0026nbsp;$500,000 15 years from today. If the interest rate is 4% per year compounded annually, the required annual payment\u0026nbsp;is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4b8edf1c-d9df-4882-82d7-cb4444370499"
+                },
+                "answerFeedback": {
+                    "19604aa6-b247-4bcf-911e-c35bdd8a4bbf": "\u003cp\u003eIncorrect because it assumes the\u0026nbsp;$500,000 return is paid at \u003ci\u003et \u003c/i\u003e= 10\u0026nbsp;instead of \u003ci\u003et\u003c/i\u003e = 15. The\u0026nbsp;present value of this payment is therefore PV = FV\u003ci\u003e\u003csub\u003eN\u003c/sub\u003e\u003c/i\u003e(1 + \u003ci\u003er\u003c/i\u003e)\u003csup\u003e–\u003ci\u003eN\u003c/i\u003e\u003c/sup\u003e\u0026nbsp;= $500,000(1 + 0.04)\u003csup\u003e-10\u003c/sup\u003e\u0026nbsp;=\u0026nbsp;$337,782.08. The 10 annual payments form an\u0026nbsp;annuity due (since\u0026nbsp;the payments start\u0026nbsp;today)\u0026nbsp;whose present value equals the present value of an ordinary annuity with 9 annual payments\u0026nbsp;plus the first payment, i.e. PV = \u003ci\u003eA\u003c/i\u003e + \u003ci\u003eA\u003c/i\u003e[1\u0026nbsp;– 1/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/i\u003e]/\u003ci\u003er = A\u003c/i\u003e(1 + [1\u0026nbsp;– 1/(1 + 0.04)\u003csup\u003e9\u003c/sup\u003e]/0.04)\u0026nbsp;= 8.4353(\u003ci\u003eA\u003c/i\u003e).\u0026nbsp;Setting the PV of the cash outflows (the annuity)\u0026nbsp;equal\u0026nbsp;to the PV of the cash inflows (the return in 15 years), we can solve for the annual payment amount; \u003ci\u003eA\u003c/i\u003e = $337,782/8.4353\u0026nbsp;≈ $40,044. Calculator solution: BGN; N = 10; I/Y = 4; FV = 500,000; solve for PMT = 40,044.\u0026nbsp;\u003c/p\u003e",
+                    "4b8edf1c-d9df-4882-82d7-cb4444370499": "\u003cp\u003eCorrect because the present value of the future lump sum payment\u0026nbsp;is\u0026nbsp;PV = FV\u003ci\u003e\u003csub\u003eN\u003c/sub\u003e\u003c/i\u003e(1 + \u003ci\u003er\u003c/i\u003e)\u003csup\u003e–\u003ci\u003eN\u003c/i\u003e\u003c/sup\u003e\u0026nbsp;= $500,000(1 + 0.04)\u003csup\u003e-15\u003c/sup\u003e\u0026nbsp;= $277,632.25. The 10 annual payments form an\u0026nbsp;annuity due (since\u0026nbsp;the payments start\u0026nbsp;today)\u0026nbsp;whose present value equals the present value of an ordinary annuity with 9 annual payments\u0026nbsp;plus the first payment, i.e. PV = \u003ci\u003eA\u003c/i\u003e + \u003ci\u003eA\u003c/i\u003e[1\u0026nbsp;– 1/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/i\u003e]/\u003ci\u003er = A\u003c/i\u003e(1 + [1\u0026nbsp;– 1/(1 + 0.04)\u003csup\u003e9\u003c/sup\u003e]/0.04)\u0026nbsp;= 8.4353(\u003ci\u003eA\u003c/i\u003e).\u0026nbsp;Setting the PV of the cash outflows (the annuity)\u0026nbsp;equal\u0026nbsp;to the PV of the cash inflows (the return in 15 years), we can solve for the annual payment amount; \u003ci\u003eA\u003c/i\u003e = $277,632.25/8.4353\u0026nbsp;≈ $32,913. Calculator solution: BGN; N = 10; I/Y = 4; PV = 277,632.25; solve for PMT = 32,913.\u0026nbsp;\u003c/p\u003e",
+                    "81fd53e2-132b-4f58-9e96-c9a094648140": "\u003cp\u003eIncorrect because it mistakes the required payments as an ordinary annuity, rather than an annuity due, calculating their present value as: PV =\u0026nbsp;\u003ci\u003eA\u003c/i\u003e[1\u0026nbsp;– 1/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/i\u003e]/\u003ci\u003er =\u0026nbsp;A\u003c/i\u003e([1\u0026nbsp;– 1/(1 + 0.04)\u003csup\u003e10\u003c/sup\u003e]/0.04) = 8.1109(\u003ci\u003eA\u003c/i\u003e). The present value of\u0026nbsp;the return at \u003ci\u003et\u003c/i\u003e = 15\u0026nbsp;is\u0026nbsp;PV = FV\u003ci\u003e\u003csub\u003eN\u003c/sub\u003e\u003c/i\u003e(1 + \u003ci\u003er\u003c/i\u003e)\u003csup\u003e–\u003ci\u003eN\u003c/i\u003e\u003c/sup\u003e\u0026nbsp;= $500,000(1 + 0.04)\u003csup\u003e-15\u003c/sup\u003e\u0026nbsp;= $277,632.25. Setting these two values equal and solving for the annual payment thus yields: \u003ci\u003eA\u003c/i\u003e = $277,632.25/8.1109 ≈\u0026nbsp;$34,230.\u0026nbsp;Calculator solution: END; N = 10; I/Y = 4; PV = 277,632.25; solve for PMT = 34,230.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4b8edf1c-d9df-4882-82d7-cb4444370499",
+                            "itemBody": "\u003cp\u003eA. $32,913.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "81fd53e2-132b-4f58-9e96-c9a094648140",
+                            "itemBody": "\u003cp\u003eB. $34,230.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "19604aa6-b247-4bcf-911e-c35bdd8a4bbf",
+                            "itemBody": "\u003cp\u003eC. $40,044.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8762,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4623,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54402",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-Quant-Croitoru-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investment pays $1,000 annually for five years, with the first payment occurring three years from today. If the discount rate is 6% compounded annually, the present value\u0026nbsp;of the investment today is \u003ci\u003eclosest \u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f26ce884-1280-4631-a0a1-1c155dd86238"
+                },
+                "answerFeedback": {
+                    "5ecb3a63-75fc-4e0a-890f-9b9fcc958d78": "\u003cp\u003eIncorrect because it is the present value of the investment as \u003ci\u003et\u003c/i\u003e = 2 instead of \u003ci\u003et \u003c/i\u003e= 0, and it is an intermediate step in the correct calculation. It computes present value of an ordinary annuity at \u003ci\u003et\u003c/i\u003e = 3 as PV\u003csub\u003e3 \u003c/sub\u003e= \u003ci\u003eA\u003c/i\u003e[1 – 1/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/i\u003e] / \u003ci\u003er = \u003c/i\u003e$1,000 × [1 – 1/(1 + 0.06)\u003csup\u003e5\u003c/sup\u003e / 0.06 = $4,212.36.\u003c/p\u003e\u003cp\u003eCalculator solution:\u003c/p\u003e\u003cp\u003eEND mode; N = 5; I = 6%; PMT = −1,000; FV = 0; solve for PV = 4,212.36 ~ 4,212.\u003c/p\u003e",
+                    "8c66a9b5-0b0d-4a16-99fc-f07c8e9b3b0e": "\u003cp\u003eIncorrect because it recognizes the investment as a delayed annuity, but it wrongly assumes that the first annuity payment for an ordinary annuity starts at \u003ci\u003et\u003c/i\u003e = 4\u0026nbsp;instead of \u003ci\u003et\u003c/i\u003e = 3. Thus, it computes the present value of an ordinary annuity at \u003ci\u003et\u003c/i\u003e = 3 as PV\u003csub\u003e3 \u003c/sub\u003e= \u003ci\u003eA\u003c/i\u003e[1 – 1/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/i\u003e] / \u003ci\u003er = \u003c/i\u003e$1,000 × [1 – 1/(1 + 0.06)\u003csup\u003e5\u003c/sup\u003e] / 0.06 = $4,212.36.\u003c/p\u003e\u003cp\u003eUsing the present value formula for a lump sum to bring the single cash flow from \u003ci\u003et\u003c/i\u003e = 3 to \u003ci\u003et\u003c/i\u003e = 0, PV\u003csub\u003e0\u003c/sub\u003e = FV\u003ci\u003e\u003csub\u003eN\u003c/sub\u003e\u003c/i\u003e(1 + \u003ci\u003er\u003c/i\u003e)\u003csup\u003e–\u003ci\u003eN\u003c/i\u003e\u003c/sup\u003e = $4,212.36 (1 + 0.06)\u003csup\u003e–3 ;\u003c/sup\u003e= $3,536.78 ~ $3,537.\u003c/p\u003e\u003cp\u003eCalculator solution:\u003c/p\u003e\u003cp\u003e(1) END mode; N = 5; I = 6%; PMT = −1,000; FV = 0; solve for PV = 4,212.36.\u003c/p\u003e\u003cp\u003e(1) END mode; N = 3; I = 6%; PMT = 0; FV = 4,212.36; solve for PV = 3,536.78 ~ 3,537.\u003c/p\u003e",
+                    "f26ce884-1280-4631-a0a1-1c155dd86238": "\u003cp\u003eCorrect because by drawing a timeline, the investment is recognized as a delayed annuity with the first payment starting at \u003ci\u003et\u003c/i\u003e = 3.\u003c/p\u003e\n\u003cp\u003eThe first step is to compute the present value of an ordinary annuity at \u003ci\u003et\u003c/i\u003e = 2\u0026nbsp;because the first annuity payment is then one period away, as PV\u003csub\u003e2 \u003c/sub\u003e= \u003ci\u003eA\u003c/i\u003e[1 – 1/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/i\u003e] / \u003ci\u003er = \u003c/i\u003e$1,000 × [1 – 1/(1 + 0.06)\u003csup\u003e5\u003c/sup\u003e/0.06 = $4,212.36.\u003c/p\u003e\n\u003cp\u003eUsing the present value formula for a lump sum to bring the single cash flow from \u003ci\u003et\u003c/i\u003e = 2 to \u003ci\u003et\u003c/i\u003e = 0, PV\u003csub\u003e0\u003c/sub\u003e = FV\u003ci\u003e\u003csub\u003eN\u003c/sub\u003e\u003c/i\u003e(1 + r)\u003csup\u003e–\u003c/sup\u003e\u003ci\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/i\u003e = $4,212.36 (1 + 0.06)\u003csup\u003e–2 \u003c/sup\u003e= $3,748.99 ~ $3,749.\u003c/p\u003e\n\u003cp\u003eCalculator solution:\u003c/p\u003e\n\u003cp\u003e(1) END mode; N = 5; I = 6%; PMT = −1,000; FV = 0; solve for PV = 4,212.36.\u003c/p\u003e\n\u003cp\u003e(2) END mode; N = 2; I = 6%; PMT = 0; FV = 4,212.36; solve for PV = 3,748.99 ~ 3,749.\u003c/p\u003e\n\u003cp\u003eA second method to compute the present value of the investment is to recognize it as an annuity due with first payment at \u003ci\u003et\u003c/i\u003e = 3, and then discount back three periods using the present value formula for a lump sum. PV\u003csub\u003e3 ;\u003c/sub\u003e= {\u003ci\u003eA\u003c/i\u003e[1 – 1/(1 + \u003ci style=\"font-size: 12pt;\"\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/i\u003e] / \u003ci\u003er\u003c/i\u003e}(1 + \u003ci\u003er\u003c/i\u003e) \u003ci\u003e=\u003c/i\u003e $1,000\u0026nbsp;× {[1 – 1/(1 + 0.06)\u003csup\u003e5\u003c/sup\u003e]/0.06} × (1 + 0.06) = $4,465.11.\u003c/p\u003e\n\u003cp\u003eUsing the present value formula for a lump sum to bring the single cash flow from \u003ci\u003et\u003c/i\u003e = 3 to \u003ci\u003et\u003c/i\u003e = 0, PV\u003csub\u003e0\u003c/sub\u003e = FV\u003ci\u003e\u003csub\u003eN\u003c/sub\u003e\u003c/i\u003e(1 + r)\u003csup\u003e–\u003c/sup\u003e\u003ci\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/i\u003e = $4,465.11 (1 + 0.06)\u003csup\u003e–3 \u003c/sup\u003e= $3,748.99 ~ $3,749.\u003c/p\u003e\n\u003cp\u003eCalculator solution:\u003c/p\u003e\n\u003cp\u003e(1) BGN mode; N = 5; I = 6%; PMT = −1,000; FV = 0; solve for PV = 4,465.11.\u003c/p\u003e\n\u003cp\u003e(2) END mode; N = 3; I = 6%; PMT = 0; FV = 4,465.11; solve for PV = 3,748.99 ~ 3,749.\u003c/p\u003e\n\u003cp\u003eAnother method to compute the correct answer is to calculate the present value of a series of equal cash flows, with the first cash flow in the third year. Using a calculator with CF\u003csub\u003e0\u003c/sub\u003e=0, CF\u003csub\u003e1\u003c/sub\u003e=0, CF\u003csub\u003e2\u003c/sub\u003e=0, CF\u003csub\u003e3\u003c/sub\u003e=1000, CF\u003csub\u003e4\u003c/sub\u003e=1000, CF\u003csub\u003e5\u003c/sub\u003e=1000, CF\u003csub\u003e6\u003c/sub\u003e=1000, CF\u003csub\u003e7\u003c/sub\u003e=1000; I=6%; solve for NPV= 3,748.99 ~ 3,749.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8c66a9b5-0b0d-4a16-99fc-f07c8e9b3b0e",
+                            "itemBody": "\u003cp\u003eA. $3,537.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f26ce884-1280-4631-a0a1-1c155dd86238",
+                            "itemBody": "\u003cp\u003eB. $3,749.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "5ecb3a63-75fc-4e0a-890f-9b9fcc958d78",
+                            "itemBody": "\u003cp\u003eC. $4,212.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8762,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4623,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53149",
+            "entry": {
+                "title": "CFA2402-R-s02-Q17",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The coupon payments are 5.35 (=10.7/2), the discount rate is 5.8 percent (=11.6%/2) per period, and the number of periods is 16 (=8×2). Using Equation 6, the calculation is as follows:\u003c/p\u003e\n\u003cdiv id=\"CFA2402-R-s02-E-2-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e95.39\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e5.35\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1.058\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e5.35\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmn\u003e1.058\u003c/mn\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e5.35\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmn\u003e1.058\u003c/mn\u003e \u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e5.35\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmn\u003e1.058\u003c/mn\u003e \u003c/mrow\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e…\u003c/mo\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e5.35\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmn\u003e1.058\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e14\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e5.35\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmn\u003e1.058\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e15\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e105.35\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmn\u003e1.058\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e16\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAlternatively, using the Microsoft Excel or Google Sheets PV function (\u003c/p\u003e\n\u003cp\u003e\u003ccode style=\"font-family: monospace; color: #d6336c; display: inline;\"\u003ePV (0.058,16,5.35,100,0)\u003c/code\u003e\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e) also yields a result of MXN95.39.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect. MXN95.47 is the result when incorrectly using coupon payments of 10.7, a discount rate of 11.6 percent, and 8 as the number of periods.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect. MXN97.18 is the result when using the correct semiannual coupons and discount rate, but incorrectly using 8 as the number of periods.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eGrupo Ignacia issued 10-year corporate bonds two years ago. The bonds pay an annualized coupon of 10.7 percent on a semiannual basis, and the current annualized YTM is 11.6 percent. The current price of Grupo Ignacia’s bonds (per MXN100 of par value) is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "267b17ac-2ffc-44ad-89a0-1a90688ddf2b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "db490d8f-aea8-4f86-96a1-53ed32d5f9dd",
+                            "itemBody": "A. MXN95.47.",
+                            "position": 1
+                        },
+                        {
+                            "id": "6494a4ab-9438-4996-80ce-e44aafcfb55c",
+                            "itemBody": "B. MXN97.18.",
+                            "position": 2
+                        },
+                        {
+                            "id": "267b17ac-2ffc-44ad-89a0-1a90688ddf2b",
+                            "itemBody": "C. MXN95.39.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7978,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53150",
+            "entry": {
+                "title": "CFA2402-R-s02-Q18",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The present value of the mortgage is NZD3.75 million (=0.75×5,000,000), the periodic discount rate is 0.004 (=0.048/12), and the number of periods is 60 (=5×12). Using Equation 8,\u003c/p\u003e\n\u003cdiv id=\"CFA2402-R-s02-E-3-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003e$\u003c/mi\u003e \u003cmn\u003e70\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e424\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmtext\u003e\u0026nbsp;\u003c/mtext\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e0.4\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmtext\u003eNZD\u003c/mtext\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e750\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.4\u003c/mn\u003e \u003cmtext\u003e%\u003c/mtext\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e60\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAlternatively, the spreadsheet PMT function may be used with the inputs stated earlier.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect. NZD93,899 is the result if NZD5 million is incorrectly used as the present value term.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect. NZD71,781 is the result if the calculation is made using 4.8 percent as the rate and 5 as the number of periods, then the answer is divided by 12.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eGrey Pebble Real Estate seeks a fully amortizing fixed-rate five-year mortgage loan to finance 75 percent of the purchase price of a residential building that costs NZD5 million. The annual mortgage rate is 4.8 percent. The monthly payment for this mortgage would be \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "23703988-162d-423f-a46d-42fbfad831be"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "23703988-162d-423f-a46d-42fbfad831be",
+                            "itemBody": "A. NZD70,424.",
+                            "position": 1
+                        },
+                        {
+                            "id": "05b7a782-7d3a-49d7-9363-53b34694fbd1",
+                            "itemBody": "B. NZD93,899.",
+                            "position": 2
+                        },
+                        {
+                            "id": "622dda2d-b63d-4f5d-9cdb-ac13ce3d8bed",
+                            "itemBody": "C. NZD71,781.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7978,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53151",
+            "entry": {
+                "title": "CFA2402-R-s02-Q19",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Mylandia’s next expected dividend is CAD2.472 (=2.40×1.03), and using Equation 14,\u003c/p\u003e\n\u003cdiv id=\"CFA2402-R-s02-E-4-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2.40\u003c/mn\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.03\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.08\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e0.03\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2.472\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.05\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e49.44\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMylandia Corporation pays an annual dividend to its shareholders, and its most recent payment was CAD2.40. Analysts following Mylandia expect the company’s dividend to grow at a constant rate of 3 percent per year in perpetuity. Mylandia shareholders require a return of 8 percent per year. The expected share price of Mylandia is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2e829af1-49b6-49e7-b1d8-f8b9dbb1ac9b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6f43268d-d57a-4306-b46c-73cb015cd044",
+                            "itemBody": "A. CAD48.00.",
+                            "position": 1
+                        },
+                        {
+                            "id": "2e829af1-49b6-49e7-b1d8-f8b9dbb1ac9b",
+                            "itemBody": "B. CAD49.44.",
+                            "position": 2
+                        },
+                        {
+                            "id": "5f03fd30-f6ac-4eaa-acbc-6d1052f7e9fd",
+                            "itemBody": "C. CAD51.84.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7978,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53152",
+            "entry": {
+                "title": "CFA2402-R-s02-Q20",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Following the first step, we observe the following expected dividends for Mylandia for the next three years:\u003c/p\u003e\n\u003cul id=\"CFA2402-R-s02-L7\" style=\"list-style-type: none; margin-bottom: 15px; padding-left: 20px;\"\u003e\n\u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn 1 year: \u003cem\u003eD\u003csub\u003e1\u003c/sub\u003e \u003c/em\u003e = CAD2.64 (=2.40×1.10)\u003c/p\u003e\n\u003c/li\u003e\n\u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn 2 years: \u003cem\u003eD\u003csub\u003e2\u003c/sub\u003e \u003c/em\u003e = CAD2.90 (=2.40×1.10\u003csup\u003e2\u003c/sup\u003e)\u003c/p\u003e\n\u003c/li\u003e\n\u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn 3 years: \u003cem\u003eD\u003csub\u003e3\u003c/sub\u003e \u003c/em\u003e = CAD3.19 (=2.40×1.10\u003csup\u003e3\u003c/sup\u003e)\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe second step involves a lower 3 percent growth rate. At the end of year four, Mylandia’s dividend (\u003cem\u003eD\u003csub\u003e4\u003c/sub\u003e \u003c/em\u003e) is expected to be CAD3.29 (=2.40×1.10\u003csup\u003e3\u003c/sup\u003e×1.03). At this time, Mylandia’s expected terminal value at the end of three years is CAD65.80 using Equation 17, as follows:\u003c/p\u003e\n\u003cdiv id=\"CFA2402-R-s02-E-5-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eE\u003c/mi\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmrow\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003cmo\u003e)\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e3.29\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.08\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e0.03\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e65.80\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThird, we calculate the sum of the present values of these expected dividends using Equation 16:\u003c/p\u003e\n\u003cdiv id=\"CFA2402-R-s02-E-5-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2.64\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1.08\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2.90\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmn\u003e1.08\u003c/mn\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e3.19\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmn\u003e1.08\u003c/mn\u003e \u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e65.80\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmn\u003e1.08\u003c/mn\u003e \u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e59.71\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSuppose Mylandia announces that it expects significant cash flow growth over the next three years, and now plans to increase its recent CAD2.40 dividend by 10 percent in each of the next three years. Following the 10 percent growth period, Mylandia is expected to grow its annual dividend by a constant 3 percent indefinitely. Mylandia’s required return is 8 percent. Based upon these revised expectations, The expected share price of Mylandia stock is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fea5c64a-a0ad-4b6f-a413-243bbc904fd1"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fee8d9c3-b498-454c-b3b9-142b8c17ce46",
+                            "itemBody": "A. CAD49.98.",
+                            "position": 1
+                        },
+                        {
+                            "id": "e96a79c4-cdf4-49e4-ac1f-8e0ebd1d0107",
+                            "itemBody": "B. CAD55.84.",
+                            "position": 2
+                        },
+                        {
+                            "id": "fea5c64a-a0ad-4b6f-a413-243bbc904fd1",
+                            "itemBody": "C. CAD59.71.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7978,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53153",
+            "entry": {
+                "title": "CFA2402-R-s03-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The FV of the bond is CHF95.25, the PV is CHF89, and the number of annual periods (\u003cem\u003et\u003c/em\u003e) is 3. Using Equation 18,\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2402-R-s03-E-2-\"\u003e2.29 percent = (92.25/89)\u003csup\u003e(1/3)\u003c/sup\u003e − 1.\u003c/div\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect as the result is derived using \u003cem\u003et\u003c/em\u003e of 12. B is incorrect as this result is derived using a PV of CHF95.25 and an FV of 100.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eConsider a Swiss Confederation zero-coupon bond with a par value of CHF100, a remaining time to maturity of 12 years and a price of CHF89. In three years’ time, the bond is expected to have a price of CHF95.25. If purchased today, the bond’s expected annualized return is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c73328ff-0993-45e3-8771-2074266d8940"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fe84db76-1a06-4fb9-b158-a2527bf62a6e",
+                            "itemBody": "A. 0.58 percent.",
+                            "position": 1
+                        },
+                        {
+                            "id": "a1f20057-1e25-4025-9a82-9f0e25f12204",
+                            "itemBody": "B. 1.64 percent.",
+                            "position": 2
+                        },
+                        {
+                            "id": "c73328ff-0993-45e3-8771-2074266d8940",
+                            "itemBody": "C. 2.29 percent.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7978,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53154",
+            "entry": {
+                "title": "CFA2402-R-s03-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The YTM is calculated by solving for the RATE spreadsheet function with the following inputs: number of periods of 12 (=6 × 2), coupon payments of 5.35 (=10.7/2), PV of −97.50, and FV of 100. The resulting solution for RATE of 5.64 percent is in semiannual terms, so multiply by 2 to calculate annualized YTM of 11.28 percent.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect, as 11.50 percent is the result if number of periods used is eight, instead of 12. C is incorrect, as 11.71 percent is the result if the number of periods used is 6, instead of 12.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eGrupo Ignacia issued 10-year corporate bonds four years ago. The bonds pay an annualized coupon of 10.7 percent on a semiannual basis, and the current price of the bonds is MXN97.50 per MXN100 of par value. The YTM of the bonds is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b325bb10-f75a-4838-b4cb-5aade2c8cd7c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b325bb10-f75a-4838-b4cb-5aade2c8cd7c",
+                            "itemBody": "A. 11.28 percent.",
+                            "position": 1
+                        },
+                        {
+                            "id": "b56481f6-8538-45cc-8f35-325935090425",
+                            "itemBody": "B. 11.50 percent.",
+                            "position": 2
+                        },
+                        {
+                            "id": "8ff54e23-573a-46a6-858f-391313202f02",
+                            "itemBody": "C. 11.71 percent.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7978,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53155",
+            "entry": {
+                "title": "CFA2402-R-s03-Q12",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. We may solve for required return based upon the assumption of constant dividend growth using Equation 21:\u003c/p\u003e\n\u003cdiv id=\"CFA2402-R-s03-E-4-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2.40\u003c/mn\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.03\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e60\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.03\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.0712\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect as 7.00 percent is the result if we use the previous dividend of CAD2.40 instead of the next expected dividend. A is incorrect as 8.00 percent is simply the required return assumed from one of the Mylandia examples in Question Set 1 in which the price is solved to be a lower value.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMylandia Corporation stock trades at CAD60.00. The company pays an annual dividend to its shareholders, and its most recent payment of CAD2.40 occurred yesterday. Analysts following Mylandia expect the company’s dividend to grow at a constant rate of 3 percent per year. Mylandia’s required return is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4e1deb73-46bc-416d-b257-71071348541d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c9d7d7ef-1da5-4f46-bc8f-92fd7e1916dd",
+                            "itemBody": "A. 8.00 percent.",
+                            "position": 1
+                        },
+                        {
+                            "id": "37147209-149c-4b3f-821e-d88255c61f8f",
+                            "itemBody": "B. 7.00 percent.",
+                            "position": 2
+                        },
+                        {
+                            "id": "4e1deb73-46bc-416d-b257-71071348541d",
+                            "itemBody": "C. 7.12 percent.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7978,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53156",
+            "entry": {
+                "title": "CFA2402-R-s03-Q13",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Using Equation 24, the previous input results in the following inequality:\u003c/p\u003e\n\u003cdiv id=\"CFA2402-R-s03-E-5-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e15\u003c/mn\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e\u0026lt;\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e0.50\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.075\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e0.045\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e16.67\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe above inequality implies that the analyst should view the NIFTY 50 as priced too low. The fundamental inputs into the equation imply a forward price to earnings ratio of 16.67 rather than 15. An alternative approach to answering the question would be to solve for implied growth using the observed forward price to earnings ratio of 15 and compare this to the analyst’s growth expectations:\u003c/p\u003e\n\u003cdiv id=\"CFA2402-R-s03-E-5-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e15\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e0.50\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.075\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003eg\u003c/mi\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSolving for \u003cem\u003eg\u003c/em\u003e yields a result of 4.1667 percent. Since the analyst expects higher NIFTY 50 dividend growth of 4.50 percent, the index is viewed as underpriced.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst observes the benchmark Indian NIFTY 50 stock index trading at a forward price-to-earnings ratio of 15. The index’s expected dividend payout ratio in the next year is 50 percent, and the index’s required return is 7.50 percent. If the analyst believes that the NIFTY 50 index dividends will grow at a constant rate of 4.50 percent in the future, which of the following statements is correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9653c36e-5388-48da-9583-8310c63fe96f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "31bbb227-2f8e-4652-98f6-b57422a9b5b7",
+                            "itemBody": "A. The analyst should view the NIFTY 50 as overpriced.",
+                            "position": 1
+                        },
+                        {
+                            "id": "9653c36e-5388-48da-9583-8310c63fe96f",
+                            "itemBody": "B. The analyst should view the NIFTY 50 as underpriced.",
+                            "position": 2
+                        },
+                        {
+                            "id": "1f7c89e0-9270-44de-a0bc-41f5ca9fd4cb",
+                            "itemBody": "C. The analyst should view the NIFTY 50 as fairly priced.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7978,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53157",
+            "entry": {
+                "title": "CFA2402-R-s04-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Using cash flow additivity, compare the two opportunities by subtracting Opportunity 2 from Opportunity 1 yielding the following cash flows:\u003c/p\u003e\n            \u003cdiv id=\"CFA2402-R-s04-T-2-b\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n               \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                  \n                  \u003ctbody\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eOpportunity 1 – Opportunity 2\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e0\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e−30\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e0\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e34.992\u003c/td\u003e\n                     \u003c/tr\u003e\n                  \u003c/tbody\u003e\n               \u003c/table\u003e\u003c/div\u003e\n            \u003c/div\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFinding the present value of the above cash flows at 8 percent discount rate shows that both investment opportunities have the same present value. Thus, the two opportunities are economically identical, and there is no clear preference for one over the other.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf you require an 8 percent return and must invest USD500,000, which of the investment opportunities in \u003cstrong\u003eExhibit 1\u003c/strong\u003e should you prefer?\u003c/p\u003e\n\u003cdiv id=\"CFA2402-R-s04-EXH-2-17\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003eExhibit 1\u003cspan style=\"display: block;\"\u003eInvestment Opportunities\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; width: 64.8936%; height: 147px; border-bottom: 1px solid #000000;\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"height: 65px; border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; width: 46.1487%; height: 65px;\"\u003e\u003cstrong\u003eCash flows (in thousands)\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 12.6756%; height: 65px;\"\u003e\u003cstrong\u003et = 0\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 11.5431%; height: 65px;\"\u003e\u003cstrong\u003et = 1\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 11.5431%; height: 65px;\"\u003e\u003cstrong\u003et = 2\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 17.9065%; height: 65px;\"\u003e\u003cstrong\u003et = 3\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr style=\"height: 41px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 46.1487%; height: 41px;\"\u003eOpportunity 1\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 12.6756%; height: 41px;\"\u003e−500\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 11.5431%; height: 41px;\"\u003e195\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 11.5431%; height: 41px;\"\u003e195\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 17.9065%; height: 41px;\"\u003e195\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 41px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 46.1487%; height: 41px;\"\u003eOpportunity 2\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 12.6756%; height: 41px;\"\u003e−500\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 11.5431%; height: 41px;\"\u003e225\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 11.5431%; height: 41px;\"\u003e195\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 17.9065%; height: 41px;\"\u003e160.008\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "29ae40e7-7ae9-4a5d-bea5-498e805ab842"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b96b9e47-be8b-44af-ae3a-0973bbd43f83",
+                            "itemBody": "A. Opportunity 1",
+                            "position": 1
+                        },
+                        {
+                            "id": "8f7684ba-2886-4b4a-8431-8c1f68d70b59",
+                            "itemBody": "B. Opportunity 2",
+                            "position": 2
+                        },
+                        {
+                            "id": "29ae40e7-7ae9-4a5d-bea5-498e805ab842",
+                            "itemBody": "C. Indifferent between the two opportunities.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7978,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53158",
+            "entry": {
+                "title": "CFA2402-R-s04-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The one-year forward rate reflects the breakeven one-year reinvestment rate in one year, computed as follows:\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2402-R-s04-E-3-\"\u003e\n               \u003cem\u003eF\u003c/em\u003e\n               \u003csub\u003e1,1\u003c/sub\u003e = (1+\u003cem\u003er\u003c/em\u003e\n               \u003csub\u003e2\u003c/sub\u003e)\u003csup\u003e2\u003c/sup\u003e/(1+\u003cem\u003er\u003c/em\u003e\n               \u003csub\u003e1\u003c/sub\u003e) – 1,\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2402-R-s04-E-3-___1\"\u003e\n               \u003cem\u003eF\u003c/em\u003e\n               \u003csub\u003e1,1\u003c/sub\u003e = (1.0129)\u003csup\u003e2\u003c/sup\u003e/(1.0073) – 1 = 0.0185.\u003c/div\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eItalian one-year government debt has an interest rate of 0.73 percent; Italian two-year government debt has an interest rate of 1.29 percent. The breakeven one-year reinvestment rate, one year from now is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ad8ea368-144e-4ca0-beb9-bca5720ba286"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e199a10a-0933-42f7-8ded-64f9ca65f077",
+                            "itemBody": "A. 1.01 percent.",
+                            "position": 1
+                        },
+                        {
+                            "id": "3b42a17e-4b6d-4e09-9920-41584341f16f",
+                            "itemBody": "B. 1.11 percent.",
+                            "position": 2
+                        },
+                        {
+                            "id": "ad8ea368-144e-4ca0-beb9-bca5720ba286",
+                            "itemBody": "C. 1.85 percent.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7978,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53159",
+            "entry": {
+                "title": "CFA2402-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. To avoid arbitrage opportunities in exchanging euros and US dollars, investors must be able to lock in a one-year forward exchange rate of USD/EUR1.051 today. The solution methodology is shown below.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn one year, a single unit of euro invested risk-free is worth EUR1.0075 (=e\u003csup\u003e0.0075\u003c/sup\u003e).\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn one year, a single unit of euro converted to US dollars and then invested risk-free is worth USD1.0589 (=1.025*e\u003csup\u003e0.0325\u003c/sup\u003e).\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eTo convert USD1.0589 into EUR1.0075 requires a forward exchange rate of USD/EUR1.051 (=1.0589/1.0075).\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe current exchange rate between the euro and US dollar is USD/EUR1.025. Risk-free interest rates for one year are 0.75 percent for the euro and 3.25 percent for the US dollar. The one-year USD/EUR forward rate that \u003cem\u003ebest\u003c/em\u003e prevents arbitrage opportunities is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5e162830-5321-46d9-a350-6bc5e836c4ad"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5e162830-5321-46d9-a350-6bc5e836c4ad",
+                            "itemBody": "A. USD/EUR1.051.",
+                            "position": 1
+                        },
+                        {
+                            "id": "a140b7a7-9dc1-4feb-9ff2-7e67b70ad34c",
+                            "itemBody": "B. USD/EUR1.025.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b9f3c8bb-9805-48ad-8a19-d967dffbada8",
+                            "itemBody": "C. USD/EUR0.975.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7978,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53160",
+            "entry": {
+                "title": "CFA2402-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Regardless of whether the stock increases or decreases in price, the investor’s portfolio has a value of USD7.50 as follows:\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2402-R-s04-E-5-\"\u003eIf stock price goes to USD35, value = 0.5×35 – 10 = 7.50.\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2402-R-s04-E-5-___1\"\u003eIf stock price goes to USD15, value = 0.5×15 – 0 = 7.50.\u003c/div\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf the stock price rises to USD35, the sold call option at USD25 has a value to the buyer of USD10, offsetting the rise in the stock price.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA stock currently trades at USD25. In one year, it will either increase in value to USD35 or decrease to USD15. An investor sells a call option on the stock, granting the buyer the right, but not the obligation, to buy the stock at USD25 in one year. At the same time, the investor buys 0.5 units of the stock. Which of the following statements about the value of the investor’s portfolio at the end of one year is correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5dc2864b-bca3-42f8-9734-f417feeeb195"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5dc2864b-bca3-42f8-9734-f417feeeb195",
+                            "itemBody": "A. The portfolio has a value of USD7.50 in both scenarios.",
+                            "position": 1
+                        },
+                        {
+                            "id": "af925ced-9a24-4f24-9f12-3dc6321e7968",
+                            "itemBody": "B. The portfolio has a value of USD25 in both scenarios.",
+                            "position": 2
+                        },
+                        {
+                            "id": "34530ea4-febc-4293-920b-e871629bf9e9",
+                            "itemBody": "C. The portfolio has a value of USD17.50 if the stock goes up and USD7.50 if the stock goes down.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7978,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53514",
+            "entry": {
+                "title": "ITEM_20170421127",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003e\n\u003cp\u003eA consultant starts a project today that will last for three years. Her compensation package includes the following:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 315px; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cstrong\u003eYear\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 212px; max-width: 212px; text-align: center;\"\u003e\u003cstrong\u003eEnd-of-Year Payment\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"width: 212px; max-width: 212px; text-align: center;\"\u003e$100,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"width: 212px; max-width: 212px; text-align: center;\"\u003e$150,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 212px; max-width: 212px;\"\u003e$200,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf she expects to invest these amounts at an annual interest rate of 3%, compounded annually until her retirement 10 years from now, the value at the end of 10 years is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7ca02b04-5971-4a0e-98db-dfe5d499c9f7"
+                },
+                "answerFeedback": {
+                    "7ca02b04-5971-4a0e-98db-dfe5d499c9f7": "\u003cp\u003eCorrect. First calculate the present value of the three cash flows with the following formula:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003ePV = \u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmrow\u003e \u003cmtext\u003eFV\u003c/mtext\u003e\u003c/mrow\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmi\u003er\u003c/mi\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e\n\u003cp\u003eWe obtain:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003ePV\u003csub\u003eCash flow 1\u003c/sub\u003e = ($100,000/1.03) = $97,087 (rounded)\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003ePV\u003csub\u003eCash flow 2\u003c/sub\u003e = [$150,000/(1.03)\u003csup\u003e2\u003c/sup\u003e] = $141,389 (rounded)\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003ePV\u003csub\u003eCash flow 3\u003c/sub\u003e = [$200,000/(1.03)\u003csup\u003e3\u003c/sup\u003e] = $183,028 (rounded)\u003c/p\u003e\n\u003cp\u003eThen, sum the three present values:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e$97,087 + $141,389 + $183,028 = $421,504\u003c/p\u003e\n\u003cp\u003eCalculate the FV of $421,504 ten years from now with the formula:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eFV\u003cem\u003e\u003csub\u003eN\u003c/sub\u003e\u003c/em\u003e = PV × (1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003eN\u003c/sup\u003e\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eFV\u003csub\u003e10\u003c/sub\u003e = PV × (1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e10\u003c/sup\u003e\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eFV\u003csub\u003e10\u003c/sub\u003e = $421,504 × (1.03)\u003csup\u003e10\u003c/sup\u003e = $566,466 (rounded)\u003c/p\u003e\n\u003cp\u003eThe future value 10 years from now is $566,466.\u003c/p\u003e\n\u003cp\u003eAlternatively, calculate directly the FV of each of the cash flows to the end of 10 years:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eFV\u003csub\u003e10\u003c/sub\u003e = $100,000 × (1.03)\u003csup\u003e9\u003c/sup\u003e + $150,000 × (1.03)\u003csup\u003e8\u003c/sup\u003e + $200,000 × (1.03)\u003csup\u003e7\u003c/sup\u003e\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e= $130,477 + $190,016 + $245,975\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e= $566,468 (rounded).\u003c/p\u003e",
+                    "c37c98f8-26df-4327-8ced-ebacf35076b6": "\u003cp\u003eIncorrect. First calculate the future values of the three cash flows at the end of year three: $100,000 × (1.03)\u003csup\u003e2\u003c/sup\u003e + $150,000 × 1.03 + $200,000 = $106,090 + $154,500 + $200,000 = $460,590. Then, calculate the FV of $460,590 at the end of year 13: $460,590 × (1.03)\u003csup\u003e10\u003c/sup\u003e = $618,994.\u003c/p\u003e",
+                    "fddc16f6-394b-474e-b0f0-52e02c5d0b31": "\u003cp\u003eIncorrect. It is the sum of the future values of the three cash flows at the end of year three: $100,000 × (1.03)\u003csup\u003e2\u003c/sup\u003e + $150,000 × 1.03 + $200,000 = $106,090 + $154,500 + $200,000 = $460,590.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fddc16f6-394b-474e-b0f0-52e02c5d0b31",
+                            "itemBody": "\u003cp\u003eA. $460,590.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7ca02b04-5971-4a0e-98db-dfe5d499c9f7",
+                            "itemBody": "\u003cp\u003eB. $566,466.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c37c98f8-26df-4327-8ced-ebacf35076b6",
+                            "itemBody": "\u003cp\u003eC. $618,994.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8563,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53515",
+            "entry": {
+                "title": "ITEM_20170421145",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA consumer purchases an automobile using a loan. The amount borrowed is €30,000, and the terms of the loan call for the loan to be repaid over five years using equal monthly payments with an annual nominal interest rate of 8% and monthly compounding. The monthly payment is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "413ae503-4bb0-4910-8f3f-180989117d6e"
+                },
+                "answerFeedback": {
+                    "413ae503-4bb0-4910-8f3f-180989117d6e": "\u003cp\u003eCorrect. Using a financial calculator: \u003cem\u003eN\u003c/em\u003e = 60, \u003cem\u003eI\u003c/em\u003e/\u003cem\u003eY\u003c/em\u003e = 8/12, PV = 30,000, FV = 0, and compute PMT.\u003c/p\u003e\n\u003cp\u003eNote, 5 years = 60 months. The nominal rate of 8% must be divided by 12 to find the monthly periodic rate of 0.6666667%. Alternatively, using the present value of an annuity formula, solve:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003ePV = \u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmfrac\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmi\u003es\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmi\u003em\u003c/mi\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmi\u003em\u003c/mi\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmi\u003es\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmi\u003em\u003c/mi\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e30,000 = \u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmfrac\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmn\u003e0.08\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e12\u003c/mn\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e12\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e5\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmn\u003e0.08\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e12\u003c/mn\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e30,000 = \u003cem\u003eA\u003c/em\u003e × 49.318433\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem\u003eA\u003c/em\u003e = 30,000/49.318433\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e= 608.291829\u003c/p\u003e",
+                    "747d17e8-afa0-465e-90f1-6e46a9135693": "\u003cp\u003eIncorrect. It uses \u003cem\u003eN\u003c/em\u003e = 5, \u003cem\u003eI\u003c/em\u003e/\u003cem\u003eY\u003c/em\u003e = 8, PV = 30,000, FV = 0, compute PMT = 7513.69.\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e7,513.69/12 = 626.14.\u003c/p\u003e",
+                    "b1d932eb-1812-43b6-8421-d9fd2c4c7a86": "\u003cp\u003eIncorrect. It is calculated using: Interest = €30,000 × 0.08 × 5 = €12,000; Payment = (€30,000 + €12,000)/60 = €700\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "413ae503-4bb0-4910-8f3f-180989117d6e",
+                            "itemBody": "\u003cp\u003eA. €608.29.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "747d17e8-afa0-465e-90f1-6e46a9135693",
+                            "itemBody": "\u003cp\u003eB. €626.14.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b1d932eb-1812-43b6-8421-d9fd2c4c7a86",
+                            "itemBody": "\u003cp\u003eC. €700.00.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8563,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53516",
+            "entry": {
+                "title": "ITEM_20170421012",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA financial contract offers to pay €1,200 per month for five years with the first payment made immediately. Assuming an annual discount rate of 6.5%, compounded monthly, the present value of the contract is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c3891281-c783-48ea-a8d7-ba1e3e0789a7"
+                },
+                "answerFeedback": {
+                    "1803540e-b057-4e37-adca-f296788f6e3a": "\u003cp\u003eIncorrect. This is the PV of a 60-month ordinary annuity. \u003cem\u003eN\u003c/em\u003e = 60, the discount rate (\u003cem\u003eI\u003c/em\u003e/\u003cem\u003eY\u003c/em\u003e) = 6.5/12; PMT = 1,200, FV = 0. Mode = End; Calculate PV: PV = 61,330.41.\u003c/p\u003e",
+                    "c3891281-c783-48ea-a8d7-ba1e3e0789a7": "\u003cp\u003eCorrect. Using a financial calculator: \u003cem\u003eN\u003c/em\u003e = 60; the discount rate (\u003cem\u003eI\u003c/em\u003e/\u003cem\u003eY\u003c/em\u003e) = (6.5%/12) = 0.54166667; PMT = €1,200; Future value = €0; Mode = Begin; Calculate present value (PV): PV = €61,662.62.\u003c/p\u003e\u003cp\u003eAlternatively: Treat the stream as an ordinary annuity of 59 periods and add the current value of €1,200 to the derived answer. Using a financial calculator: \u003cem\u003eN\u003c/em\u003e = 59; the discount rate (\u003cem\u003eI\u003c/em\u003e/\u003cem\u003eY\u003c/em\u003e) = (6.5%/12) = 0.54166667; PMT = €1,200; Future value = €0; Mode = End; Calculate PV: PV = €60,462.62; Total PV = €1,200 + €60,462.62 = €61,662.62.\u003c/p\u003e",
+                    "d1e5acd2-70df-43e1-8172-f8e6db80cf91": "\u003cp\u003eIncorrect. This is the PV of an annuity due of 5 periods, 6.5% interest, and payments of 14,400 (1,200 × 12): \u003cem\u003eN\u003c/em\u003e = 5; the discount rate (\u003cem\u003eI\u003c/em\u003e/\u003cem\u003eY\u003c/em\u003e) = 6.5; PMT = 14,400; FV = 0; Mode = Begin; Calculate PV = 63,731.49.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1803540e-b057-4e37-adca-f296788f6e3a",
+                            "itemBody": "\u003cp\u003eA. €61,330.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c3891281-c783-48ea-a8d7-ba1e3e0789a7",
+                            "itemBody": "\u003cp\u003eB. €61,663.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d1e5acd2-70df-43e1-8172-f8e6db80cf91",
+                            "itemBody": "\u003cp\u003eC. €63,731.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8563,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53517",
+            "entry": {
+                "title": "ITEM_20170421013",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn individual wants to be able to spend €80,000 per year for an anticipated 25 years in retirement. To fund this retirement account, he will make annual deposits of €6,608 at the end of each of his working years. He can earn 6% compounded annually on all investments. The minimum number of deposits that are needed to reach his retirement goal is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dc6a1f2e-0832-4edf-bba4-afcda5d08c25"
+                },
+                "answerFeedback": {
+                    "8bfbe749-10f9-44d9-94c0-5b66d72856ea": "\u003cp\u003eIncorrect. 80,000 is multiplied by 25 years (2,000,000) and the result is used as the FV of the 6,608 annuity at 6% and PV = 0. The result is \u003cem\u003eN\u003c/em\u003e = 50.67.\u003c/p\u003e",
+                    "dc6a1f2e-0832-4edf-bba4-afcda5d08c25": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The following figure represents the timeline for the problem:\u003c/p\u003e\n\u003cp\u003e\u003cimg style=\"width: clamp(250px, 100%, 600px); height: auto; display: block;\" src=\"https://inst-fs-pdx-prod.inscloudgate.net/files/1de7364b-9dd2-4863-9a31-4509666b2879/MAX17005-MC-Fa.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6Im5ldy1xdWl6emVzL21haW4ifQ.eyJyZXNvdXJjZSI6Ii9maWxlcy8xZGU3MzY0Yi05ZGQyLTQ4NjMtOWEzMS00NTA5NjY2YjI4NzkvTUFYMTcwMDUtTUMtRmEucG5nIiwidGVuYW50X2F1dGgiOnsibG9jYXRpb24iOiJiYW5rLzk4NDMwMDAwMDAwMDAwODg4In0sImV4cCI6MTc2MDQ0Nzk4OSwiaWF0IjoxNzYwNDAxMTg5LCJpc3MiOiJuZXctcXVpenplcyIsImF1ZCI6Imh0dHBzOi8vaW5zdC1mcy1wZHgtcHJvZC5pbnNjbG91ZGdhdGUubmV0In0._OtKLrTG2Mzp2S8-6kW71v7MXZmD7PIuhL7woBtKMb-Po9pgz9lmfkxAvYtupJQ1WXWrKi6gIv98zPpcjvcTXg\" alt=\"A number line with 5 entries.\" width=\"532\" height=\"87\" data-old-link=\"/courses/799/files/78302/preview?verifier=Hf3gN96WPFsIbkuykY37CnNLtgLMoRZzNCpxh1pU\"\u003e\u003c/p\u003e\n\u003cdetails id=\"20170421013-extended-desc\" class=\"dp-panels-wrapper\" style=\"font-size: 10pt; margin-top: 20px;\"\u003e\n\u003csummary class=\"dp-panel-outside-panel\"\u003eExpand / Collapse Extended Description\u003c/summary\u003e\n\u003cp class=\"dp-panel-outside-panel\"\u003eThe first tick is zero. The second is 1 open bracket 6 6 0 8 euro close bracket. There are three ellipses denoting a large gap. The third is italic capital R open bracket 6 6 0 8 euro close bracket. The fourth is italic capital R plus 1 open bracket 80 thousand euro close bracket. There are three ellipses denoting a large gap. The fifth is italic capital R plus 25 open bracket 80 thousand euro close bracket.\u003c/p\u003e\n\u003c/details\u003e\n\u003cp\u003eUsing a financial calculator, the funds needed at retirement (\u003cem\u003eR\u003c/em\u003e on the timeline) are calculated: \u003cem\u003eN\u003c/em\u003e = 25; \u003cem\u003eI\u003c/em\u003e/\u003cem\u003eY\u003c/em\u003e = 6%; PMT = €80,000; Future value (FV) = €0; Mode = End. The calculated present value (PV) is €1,022,668.\u003c/p\u003e\n\u003cp\u003e\u003cmath style=\"font-family: Arial;\"\u003e \u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmtext\u003ePV\u003c/mtext\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmfrac\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmi\u003er\u003c/mi\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e80\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmfrac\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.06\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e25\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.06\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e022\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e688\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e \u003c/semantics\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp\u003eThen, €1,022,668 is used as the FV (at \u003cem\u003eR\u003c/em\u003e on the timeline) for the accumulation phase annuity as per: \u003cem\u003eI\u003c/em\u003e/\u003cem\u003eY\u003c/em\u003e = 6%; PV = €0; PMT = −€6,608; FV = €1,022,668; Mode = End. The computed \u003cem\u003eN\u003c/em\u003e is \u003cstrong\u003e40.\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eAlternatively, 40 could be calculated with the formula:\u003c/p\u003e\n\u003cp\u003e\u003cmath style=\"font-family: Arial;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmtext\u003eFV\u003c/mtext\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/msup\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/mrow\u003e \u003cmi\u003er\u003c/mi\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp\u003eand solving for \u003cem\u003eN\u003c/em\u003e,\u003c/p\u003e\n\u003cp\u003e\u003cmath style=\"font-family: Arial;\"\u003e \u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e022\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e668\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e6\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e608\u003c/mn\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.06\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/msup\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.06\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/semantics\u003e \u003c/math\u003e\u003c/p\u003e",
+                    "e428dd3d-5fc2-40f1-bcd0-4da8bbf53b61": "\u003cp\u003eIncorrect. 80,000 is multiplied by 25 years and then discounted at 6% for 25 years (465,997). The result is used as the PV of the 6,608 annuity at 6% as follows: \u003cem\u003eI\u003c/em\u003e/\u003cem\u003eY\u003c/em\u003e = 6%; PMT = 6,608; PV =465,997; FV = 0; Calculate \u003cem\u003eN\u003c/em\u003e: \u003cem\u003eN\u003c/em\u003e = −28.40 and the minus sign is ignored.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e428dd3d-5fc2-40f1-bcd0-4da8bbf53b61",
+                            "itemBody": "\u003cp\u003eA. 28.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "dc6a1f2e-0832-4edf-bba4-afcda5d08c25",
+                            "itemBody": "\u003cp\u003eB. 40.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8bfbe749-10f9-44d9-94c0-5b66d72856ea",
+                            "itemBody": "\u003cp\u003eC. 51.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8563,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53518",
+            "entry": {
+                "title": "ITEM_CFA-L1-09109",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn annuity makes seven annual payments of $10,000 each, with the first payment occurring five years from today. If the discount rate is 6% per year, the value of the annuity today is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3a1fee6b-bbc9-4c00-8e9b-1995c95437fd"
+                },
+                "answerFeedback": {
+                    "3a1fee6b-bbc9-4c00-8e9b-1995c95437fd": "\u003cp\u003eCorrect because the present value in Year 4 of an ordinary annuity with 7 payments of $10,000 at a 6% discount rate is calculated as follows:\u003c/p\u003e\u003cp\u003ePV = \u003ci\u003eA\u003c/i\u003e[1 – 1/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/i\u003e]/\u003ci\u003er\u003c/i\u003e\u003c/p\u003e\u003cp\u003ePV\u003csub\u003e4 \u003c/sub\u003e= $10,000 × [1 – 1/(1 + 0.06)\u003csup\u003e7\u003c/sup\u003e]/0.06\u003c/p\u003e\u003cp\u003ePV\u003csub\u003e4 \u003c/sub\u003e= $55,823.81\u003c/p\u003e\u003cp\u003eThen, using a time line, the PV of the annuity in today's dollars is\u003c/p\u003e\u003cp\u003ePV\u003csub\u003e0 \u003c/sub\u003e= FV\u003csub\u003e4\u003c/sub\u003e(1 + \u003ci\u003er\u003c/i\u003e)\u003csup style=\"font-family:\u0026quot;Times New Roman\u0026quot;,serif\"\u003e–\u003ci\u003eN\u003c/i\u003e\u003c/sup\u003e\u003c/p\u003e\u003cp\u003ePV\u003csub\u003e0\u003c/sub\u003e = $55,823.81 × (1 + 0.06)\u003csup\u003e–4\u003c/sup\u003e\u003c/p\u003e\u003cp\u003ePV\u003csub\u003e0 \u003c/sub\u003e= $44,217.69 ≈ $44,218.\u003c/p\u003e\u003cp\u003eCalculator solution: (1) END mode; N = 7; I = 6; PMT = –10,000; FV = 0; solve for PV = 55,823.81.\u003c/p\u003e\u003cp\u003e(2) END mode; N = 4; I = 6; PMT = 0; FV = –\u0026gt;55,823.81; solve for PV = 44,217.69.\u003c/p\u003e",
+                    "8e740caf-f87f-409e-80d7-e959b6a3dd30": "\u003cp\u003eIncorrect because it assumes the ordinary annuity starts in Year 5 instead of Year 4. The present value of an ordinary annuity with 7 payments of $10,000 at a 6% discount rate is calculated as follows:\u003c/p\u003e\u003cp\u003ePV = \u003ci\u003eA\u003c/i\u003e[1 – 1/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/i\u003e]/\u003ci\u003er\u003c/i\u003e\u003c/p\u003e\u003cp\u003ePV\u003csub\u003e4 \u003c/sub\u003e= $10,000 × [1 – 1/(1 + 0.06)\u003csup\u003e7\u003c/sup\u003e]/0.06\u003c/p\u003e\u003cp\u003ePV\u003csub\u003e4 \u003c/sub\u003e= $55,823.81\u003c/p\u003e\u003cp\u003eThen the PV of the investment is incorrectly discounted from Year 5 instead of Year 4 such that:\u003c/p\u003e\u003cp\u003ePV\u003csub\u003e0 \u003c/sub\u003e= FV\u003csub\u003e5\u003c/sub\u003e(1 + \u003ci\u003er\u003c/i\u003e)\u003csup style=\"font-family:\u0026quot;Times New Roman\u0026quot;,serif\"\u003e–\u003ci\u003eN\u003c/i\u003e\u003c/sup\u003e\u003c/p\u003e\u003cp\u003ePV\u003csub\u003e0\u003c/sub\u003e = $55,823.81 × (1 + 0.06)\u003csup\u003e–5\u003c/sup\u003e\u003c/p\u003e\u003cp\u003ePV\u003csub\u003e0 \u003c/sub\u003e= $41,714.80 ≈ $41,715.\u003c/p\u003e\u003cp\u003eCalculator solution: (1) END mode; N = 7; I = 6; PMT = –10,000; FV = 0; solve for PV = 55,823.81.\u003c/p\u003e\u003cp\u003e(2) END mode; N = 5; I = 6; PMT = 0; FV = –55,823.81; solve for PV = 41,714.80.\u003c/p\u003e",
+                    "fef426ae-544f-4fc8-9ea0-d10cdbde67cd": "\u003cp\u003eIncorrect because it is an intermediate step in the calculation and it represents the value of the annuity in 4 years. The present value in Year 4 of an ordinary annuity with 7 payments of $10,000 at a 6% discount rate is calculated as follows:\u003c/p\u003e\u003cp\u003ePV = \u003ci\u003eA\u003c/i\u003e[1 – 1/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eN\u003c/sup\u003e\u003c/i\u003e]/\u003ci\u003er\u003c/i\u003e\u003c/p\u003e\u003cp\u003ePV\u003csub\u003e4 \u003c/sub\u003e= $10,000 × [1 – 1/(1 + 0.06)\u003csup\u003e7\u003c/sup\u003e]/0.06\u003c/p\u003e\u003cp\u003ePV\u003csub\u003e4 \u003c/sub\u003e= $55,823.81 ≈ $55,824.\u003c/p\u003e\u003cp\u003eCalculator solution: (1) END mode; N = 7; I = 6; PMT = –10,000; FV = 0; solve for PV = 55,823.81.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8e740caf-f87f-409e-80d7-e959b6a3dd30",
+                            "itemBody": "\u003cp\u003eA. $41,715.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3a1fee6b-bbc9-4c00-8e9b-1995c95437fd",
+                            "itemBody": "\u003cp\u003eB. $44,218.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "fef426ae-544f-4fc8-9ea0-d10cdbde67cd",
+                            "itemBody": "\u003cp\u003eC. $55,824.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8563,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4421,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {},
+    "scored_data": {
+        "points": 3,
+        "points_possible": 21
+    }
+}

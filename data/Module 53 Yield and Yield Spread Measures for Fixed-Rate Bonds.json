@@ -1,0 +1,964 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6363,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 15,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 7: Yield and Yield Spread Measures for Fixed-Rate Bonds",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6363,
+        "subtopic": "Module 7: Yield and Yield Spread Measures for Fixed-Rate Bonds",
+        "question_count": 15,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4469,
+                "question_count": 8,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4686,
+                "question_count": 7,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 15.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "5f953faae43e1f70",
+        "ordered_item_ids": [
+            "55046",
+            "55047",
+            "55048",
+            "55049",
+            "55050",
+            "55051",
+            "55052",
+            "51157",
+            "51158",
+            "51159",
+            "51160",
+            "51161",
+            "54202",
+            "54203",
+            "54204"
+        ],
+        "visible_item_ids": [
+            "55046",
+            "55047",
+            "55048",
+            "55049",
+            "55050",
+            "55051",
+            "55052",
+            "51157",
+            "51158",
+            "51159",
+            "51160",
+            "51161",
+            "54202",
+            "54203",
+            "54204"
+        ]
+    },
+    "items": [
+        {
+            "id": "55046",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Barker-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFor a coupon bond with a negative yield, compounding more frequently within the year results in a yield-to-maturity that is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fbb683b2-8dde-4b6e-83ad-415a03f111e8"
+                },
+                "answerFeedback": {
+                    "0f92859e-c663-4ff9-981b-2c2576f5ffb9": "\u003cp\u003eIncorrect because compounding more frequently within the year results in a lower (more negative) yield-to-maturity.\u0026nbsp;Converting the annualized yield-to-maturity to quarterly and monthly compounding results in the same rates of return.\u003c/p\u003e",
+                    "b42d69af-3a21-450a-a06f-84471e38751c": "\u003cp\u003eIncorrect because compounding more frequently within the year results in a lower (more negative) yield-to-maturity.\u003c/p\u003e",
+                    "fbb683b2-8dde-4b6e-83ad-415a03f111e8": "\u003cp\u003eCorrect because compounding more frequently within the year results in a lower (more negative) yield-to-maturity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fbb683b2-8dde-4b6e-83ad-415a03f111e8",
+                            "itemBody": "\u003cp\u003eA. more negative.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0f92859e-c663-4ff9-981b-2c2576f5ffb9",
+                            "itemBody": "\u003cp\u003eB. the same.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b42d69af-3a21-450a-a06f-84471e38751c",
+                            "itemBody": "\u003cp\u003eC. less negative.\u0026nbsp;\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8870,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4686,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55047",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Kassem-16",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe yield spread over an interpolated sovereign bond is \u003ci\u003ebest \u003c/i\u003edescribed as\u0026nbsp;a(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6534ce7c-9ad2-42c4-9f86-34d2a04038b4"
+                },
+                "answerFeedback": {
+                    "032d9332-c675-44cb-93d9-43806f8b12d5": "\u003cp\u003eIncorrect because the yield spread of a specific bond over the standard swap rate in that currency of the same tenor is known as the I- spread.\u003c/p\u003e",
+                    "6534ce7c-9ad2-42c4-9f86-34d2a04038b4": "\u003cp\u003eCorrect because the yield spread in basis points over an actual or interpolated government bond is known as the G-spread. The spread over a government bond is the return for bearing greater credit, liquidity, and other risks relative to the sovereign bond.\u003c/p\u003e",
+                    "efbe0431-da20-4cf1-b1bd-a872662cc8bc": "\u003cp\u003eIncorrect because the yield spread over a specific benchmark is referred to as the benchmark spread. A constant yield spread over a government (or interest rate swap) spot curve is known as the zero-volatility spread (Z-spread) of a bond over the benchmark rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "032d9332-c675-44cb-93d9-43806f8b12d5",
+                            "itemBody": "\u003cp\u003eA. I-spread.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6534ce7c-9ad2-42c4-9f86-34d2a04038b4",
+                            "itemBody": "\u003cp\u003eB. G-spread.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "efbe0431-da20-4cf1-b1bd-a872662cc8bc",
+                            "itemBody": "\u003cp\u003eC. Z-spread.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8870,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4686,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55048",
+            "entry": {
+                "title": "ITEM_CFA-L1-10127",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about a callable bond that pays interest annually:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left;\" scope=\"row\"\u003eCurrent price\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003e105 per 100 of par value\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left;\" scope=\"row\"\u003eTime-to-maturity\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003e4 years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left;\" scope=\"row\"\u003eCoupon rate\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003e4%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left;\" scope=\"row\"\u003eCall price at year 2\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003e103 per 100 of par value\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left;\" scope=\"row\"\u003eCall price at year 3\u003c/th\u003e\n\u003ctd style=\"text-align: center;\"\u003e101 per 100 of par value\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThis bond's yield to worst is the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "240618cc-9edb-4639-9f07-0b8fc9bd9c12"
+                },
+                "answerFeedback": {
+                    "240618cc-9edb-4639-9f07-0b8fc9bd9c12": "\u003cp\u003eCorrect because the lowest of the sequence of yields-to-call and the yield-to-maturity is known as the yield-to-worst.\u0026nbsp;The sequence of yields for the bond is as follows:\u003c/p\u003e\u003cp\u003eYield-to-maturity, r\u003cem\u003e\u003csub\u003eytm \u003c/sub\u003e\u003c/em\u003eis calculated by solving this equation:\u003c/p\u003e\u003cp\u003e105 = 4/(1 + r\u003cem\u003e\u003csub\u003eytm\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e1 \u003c/sup\u003e+ 4/(1 + r\u003cem\u003e\u003csub\u003eytm\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e2 \u003c/sup\u003e+ 4/(1 + r\u003cem\u003e\u003csub\u003eytm\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e3 \u003c/sup\u003e+ 104/(1 + r\u003cem\u003e\u003csub\u003eytm\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e4\u003c/sup\u003e\u003c/p\u003e\u003cp\u003eUsing a financial calculator with N = 4, PV = –105, FV = 100, PMT = 4 and solving for I, r\u003csub\u003e\u003cem\u003eytm\u003c/em\u003e\u003c/sub\u003e = 2.6656% ≈ 2.7%.\u003c/p\u003e\u003cp\u003eYield-to-first-call, r\u003cem\u003e\u003csub\u003e1 \u003c/sub\u003e\u003c/em\u003eis calculated by solving this equation:\u003c/p\u003e\u003cp\u003e105 = 4/(1 + r\u003cem\u003e\u003csub\u003e1\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e1 \u003c/sup\u003e+ (4+103)/(1 + r\u003cem\u003e\u003csub\u003e1\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e2 \u003c/sup\u003e\u003c/p\u003e\u003cp\u003eUsing a financial calculator with N = 2, PV = –105, FV = 103, PMT = 4 and solving for I, r\u003csub\u003e\u003cem\u003e1\u003c/em\u003e\u003c/sub\u003e = 2.8706% ≈ 2.9%.\u003c/p\u003e\u003cp\u003eYield-to-second-call, r\u003cem\u003e\u003csub\u003e2 \u003c/sub\u003e\u003c/em\u003eis calculated by solving this equation:\u003c/p\u003e\u003cp\u003e105 = 4/(1 + r\u003cem\u003e\u003csub\u003e2\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e1 \u003c/sup\u003e+ 4/(1 + r\u003cem\u003e\u003csub\u003e2\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e2 \u003c/sup\u003e+ (4+101)/(1 + r\u003cem\u003e\u003csub\u003e2\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e3\u003c/sup\u003e\u003c/p\u003e\u003cp\u003eUsing a financial calculator with N = 3, PV = –105, FV = 101, PMT = 4 and solving for I, r\u003csub\u003e\u003cem\u003e2\u003c/em\u003e\u003c/sub\u003e = 2.5718% ≈ 2.6%.\u003c/p\u003e\u003cp\u003eTherefore the yield-to-worst is equal to the yield-to-second-call.\u003c/p\u003e",
+                    "a475ae9f-87fa-4ea2-a03e-cc364173f7d4": "\u003cp\u003eIncorrect because the yield-to-first-call, r\u003cem\u003e\u003csub\u003e1 \u003c/sub\u003e\u003c/em\u003eis:\u003c/p\u003e\u003cp\u003e105 = 4/(1 + r\u003cem\u003e\u003csub\u003e1\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e1 \u003c/sup\u003e+ (4+103)/(1 + r\u003cem\u003e\u003csub\u003e1\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e2 \u003c/sup\u003e\u003c/p\u003e\u003cp\u003eUsing a financial calculator with N = 2, PV = –105, FV = 103, PMT = 4 and solving for I, r\u003csub\u003e\u003cem\u003e1\u003c/em\u003e\u003c/sub\u003e = 2.8706% ≈ 2.9%. This yield is greater (better) than both the yield to second call of 2.6% (which is the lowest, or worst) and the YTM of 2.7%.\u003c/p\u003e",
+                    "f1117be3-0f82-466c-879f-9ebc09dea458": "\u003cp\u003eIncorrect because the yield-to-maturity, r\u003cem\u003e\u003csub\u003eytm \u003c/sub\u003e\u003c/em\u003eis:\u003c/p\u003e\u003cp\u003e105 = 4/(1 + r\u003cem\u003e\u003csub\u003eytm\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e1 \u003c/sup\u003e+ 4/(1 + r\u003cem\u003e\u003csub\u003eytm\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e2 \u003c/sup\u003e+ 4/(1 + r\u003cem\u003e\u003csub\u003eytm\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e3 \u003c/sup\u003e+ 104/(1 + r\u003cem\u003e\u003csub\u003eytm\u003c/sub\u003e)\u003c/em\u003e\u003csup\u003e4\u003c/sup\u003e\u003c/p\u003e\u003cp\u003eUsing a financial calculator with N = 4, PV = –105, FV = 100, PMT = 4 and solving for I, r\u003csub\u003e\u003cem\u003eytm\u003c/em\u003e\u003c/sub\u003e = 2.6656% ≈ 2.7%. Although less than the yield to first call of 2.9%, the YTM is greater (better) than the yield to second call of 2.6%, making the latter the yield to worst.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f1117be3-0f82-466c-879f-9ebc09dea458",
+                            "itemBody": "\u003cp\u003eA. yield to maturity.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a475ae9f-87fa-4ea2-a03e-cc364173f7d4",
+                            "itemBody": "\u003cp\u003eB. yield to first call.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "240618cc-9edb-4639-9f07-0b8fc9bd9c12",
+                            "itemBody": "\u003cp\u003eC. yield to second call.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8870,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4686,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55049",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-FI-Kashyap-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe stated annual yield to maturity on a semiannual bond basis is 3.66%. The effective annual yield\u0026nbsp;is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "202f2a6c-801f-47b6-bb1b-7e8c5a98897b"
+                },
+                "answerFeedback": {
+                    "202f2a6c-801f-47b6-bb1b-7e8c5a98897b": "\u003cp\u003eCorrect because an effective annual rate has a periodicity of one because there is just one compounding period in the year. No calculations are required based on the intuitive idea that due to semi-annual compounding, the effective annual yield must be slightly higher. The formula to calculate the effective annual yield of a semi-annual pay bond is:\u003c/p\u003e\n\u003cp\u003e= (1 + yield/2)\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;– 1 = (1 + 0.0366/2)\u003csup\u003e2\u003c/sup\u003e – 1 = 1.036935\u0026nbsp;– 1 = .036935 ≈\u0026nbsp;3.69%.\u0026nbsp;\u003c/p\u003e",
+                    "ba1a17f8-4294-44c0-92a3-ae2feee694b5": "\u003cp\u003eIncorrect because the formula converts from an effective annual yield to a semiannual-pay yield:\u003c/p\u003e\u003cp\u003e≠ ((1 + yield)\u003csup\u003e0.5\u003c/sup\u003e\u0026nbsp;– 1) × 2 = ((1 + 0.0366)\u003csup\u003e0.5\u003c/sup\u003e – 1) × 2= (1.018136\u0026nbsp;– 1) × 2\u0026nbsp; = .036272\u0026nbsp;≈\u0026nbsp;3.63%.\u0026nbsp;\u003c/p\u003e",
+                    "bb4b6582-7134-4c8a-ae56-14a2be3c9a3d": "\u003cp\u003eIncorrect because\u0026nbsp;the the yield is not divided by 2. The formula used to calculate the effective annual yield of\u0026nbsp;a semi-annual pay bond:\u003c/p\u003e\u003cp\u003e≠\u0026nbsp;(1 + yield)\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;– 1 = (1 + 0.0366)\u003csup\u003e2\u003c/sup\u003e – 1 = 1.07454\u0026nbsp;– 1 = .07454\u0026nbsp;≈\u0026nbsp;7.45%.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ba1a17f8-4294-44c0-92a3-ae2feee694b5",
+                            "itemBody": "\u003cp\u003eA. 3.63%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "202f2a6c-801f-47b6-bb1b-7e8c5a98897b",
+                            "itemBody": "\u003cp\u003eB. 3.69%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bb4b6582-7134-4c8a-ae56-14a2be3c9a3d",
+                            "itemBody": "\u003cp\u003eC. 7.45%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8870,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4686,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55050",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-FI-Niininen-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA five-year semiannual bond has an annual percentage rate (APR)\u0026nbsp;of 8%. Converted to a quarterly periodicity, the APR is \u003ci\u003eclosest \u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f8da7c76-8f46-43e8-b682-37db991e296e"
+                },
+                "answerFeedback": {
+                    "ad32ea7e-fee5-4747-afdd-9bf3df5d82fc": "\u003cp\u003eIncorrect because the APR converted to a quarterly periodicity\u0026nbsp;should be expressed in annual terms just like the semiannual APR: for bonds maturing in more than one year, investors want an annualized and compounded yield-to-maturity. The formula for converting \u003ci\u003em\u003c/i\u003e periods to \u003ci\u003en \u003c/i\u003eperiods per year is (1 + \u003ci\u003eAPR\u003csub\u003em\u003c/sub\u003e\u003c/i\u003e/\u003ci\u003em\u003c/i\u003e)\u003ci\u003e\u003csup\u003em\u003c/sup\u003e\u003c/i\u003e = (1 + \u003ci\u003eAPR\u003csub\u003en\u003c/sub\u003e\u003c/i\u003e/\u003ci\u003en\u003c/i\u003e)\u003ci\u003e\u003csup\u003en\u003c/sup\u003e\u003c/i\u003e. Thus, (1 + 0.08/2)\u003csup\u003e2\u003c/sup\u003e = (1 + APR\u003csub\u003e4\u003c/sub\u003e/4)\u003csup\u003e4\u003c/sup\u003e ⇔ APR\u003csub\u003e4\u003c/sub\u003e/4 = 1.98% \u003cb\u003e≠ \u003c/b\u003eAPR\u003csub\u003e4\u003c/sub\u003e.\u003c/p\u003e",
+                    "c545c580-d392-4c59-835e-473b0bb38c89": "\u003cp\u003eIncorrect because the APR converted to a quarterly periodicity\u0026nbsp;cannot be calculated by simply scaling the APR with a periodicity that is twice longer: APR\u003csub\u003e4\u003c/sub\u003e ≠ (1+APR\u003csub\u003e2\u003c/sub\u003e)\u003csup\u003e1/2\u003c/sup\u003e – 1 = 1.08\u003csup\u003e1/2\u003c/sup\u003e – 1 = 3.92%. The correct formula for converting \u003ci\u003em\u003c/i\u003e periods to \u003ci\u003en \u003c/i\u003eperiods per year is (1 + \u003ci\u003eAPR\u003csub\u003em\u003c/sub\u003e\u003c/i\u003e/\u003ci\u003em\u003c/i\u003e)\u003ci\u003e\u003csup\u003em\u003c/sup\u003e\u003c/i\u003e = (1 + \u003ci\u003eAPR\u003csub\u003en\u003c/sub\u003e\u003c/i\u003e/\u003ci\u003en\u003c/i\u003e)\u003ci\u003e\u003csup\u003en\u003c/sup\u003e\u003c/i\u003e.\u003c/p\u003e",
+                    "f8da7c76-8f46-43e8-b682-37db991e296e": "\u003cp\u003eCorrect because (1 + APR\u003csub\u003e2\u003c/sub\u003e/2)\u003csup\u003e2\u003c/sup\u003e = (1 + APR\u003csub\u003e4\u003c/sub\u003e/4)\u003csup\u003e4 \u003c/sup\u003efor annual percentage rates using semiannual and quarterly periodicity\u0026nbsp;(APR\u003csub\u003e2\u003c/sub\u003e and APR\u003csub\u003e4\u003c/sub\u003e, respectively). This gives (1 + 0.08/2)\u003csup\u003e2\u003c/sup\u003e = (1 + APR\u003csub\u003e4\u003c/sub\u003e/4)\u003csup\u003e4\u003c/sup\u003e ⇔ APR\u003csub\u003e4\u003c/sub\u003e/4 = 1.98% and APR\u003csub\u003e4\u003c/sub\u003e = 4 × 1.98% = 7.92%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ad32ea7e-fee5-4747-afdd-9bf3df5d82fc",
+                            "itemBody": "\u003cp\u003eA. 1.98%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c545c580-d392-4c59-835e-473b0bb38c89",
+                            "itemBody": "\u003cp\u003eB. 3.92%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f8da7c76-8f46-43e8-b682-37db991e296e",
+                            "itemBody": "\u003cp\u003eC. 7.92%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8870,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4686,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55051",
+            "entry": {
+                "title": "ITEM_CFA-L1-07587",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe yield spread of a specific bond over the standard swap rate in that currency of the same tenor \u003ci\u003ebest\u003c/i\u003e describes the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b757297b-149a-4dc7-957b-b2e3df068e26"
+                },
+                "answerFeedback": {
+                    "7904ef4c-3f0c-40d2-9bce-bfea7547ae74": "\u003cp\u003eIncorrect because the Z-spread is also used to calculate the \u003cb\u003eoption-adjusted spread\u003c/b\u003e (OAS) on a callable bond. The OAS, like the option-adjusted yield, is based on an option- pricing model and an assumption about future interest rate volatility.\u003c/p\u003e",
+                    "b757297b-149a-4dc7-957b-b2e3df068e26": "\u003cp\u003eCorrect because the yield spread of a specific bond over the standard swap rate in that currency of the same tenor is known as the \u003cb\u003eI-spread\u003c/b\u003e or \u003cb\u003einterpolated spread\u003c/b\u003e to the swap curve.\u003c/p\u003e",
+                    "c8f6e7bd-ad89-4363-8850-6865a4d36daa": "\u003cp\u003eIncorrect because another approach is to calculate a constant yield spread over a government (or interest rate swap) spot curve instead. This spread is known as the \u003cb\u003ezero volatility spread (Z-spread)\u003c/b\u003e of a bond over the benchmark rate. Sometimes, the Z-spread is called the static spread because it is constant (and has zero volatility).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b757297b-149a-4dc7-957b-b2e3df068e26",
+                            "itemBody": "\u003cp\u003eA. I-spread.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c8f6e7bd-ad89-4363-8850-6865a4d36daa",
+                            "itemBody": "\u003cp\u003eB. Z-spread.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7904ef4c-3f0c-40d2-9bce-bfea7547ae74",
+                            "itemBody": "\u003cp\u003eC. option-adjusted spread.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8870,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4686,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55052",
+            "entry": {
+                "title": "ITEM_20170607112",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe current yield for a 4.5% coupon, 10-year bond, with a maturity par value of $100 and currently priced at $85.70 is \u003ci\u003eclosest to:\u003c/i\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "43469085-9c68-405e-b460-b8062c5ffdce"
+                },
+                "answerFeedback": {
+                    "43469085-9c68-405e-b460-b8062c5ffdce": "\u003cp\u003eCorrect because current yield is calculated as ($4.5/$85.70) = 5.25%.\u003c/p\u003e",
+                    "466fc75d-5f4a-4151-b139-30915f294da1": "\u003cp\u003eIncorrect because it is the coupon of the bond.\u003c/p\u003e",
+                    "ee401dc4-6e64-4b7b-b948-30797994fe9f": "\u003cp\u003eIncorrect because it is calculated as follows:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e100 – 85.70 = 14.30\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e14.30/10 = 1.43.\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e4.5 + 1.43 = 5.93\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "466fc75d-5f4a-4151-b139-30915f294da1",
+                            "itemBody": "\u003cp\u003eA. 4.50%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "43469085-9c68-405e-b460-b8062c5ffdce",
+                            "itemBody": "\u003cp\u003eB. 5.25%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ee401dc4-6e64-4b7b-b948-30797994fe9f",
+                            "itemBody": "\u003cp\u003eC. 5.93%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8870,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4686,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51157",
+            "entry": {
+                "title": "CFA2437-R-s04-Q6",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. As a first step, we need to calculate the quarterly yield and annualize it:\u003c/p\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___14\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e...\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___15\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e97.28\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e0.8125\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e0.8125\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e...\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e100.8125\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e12\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___16\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.01055\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e4\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.0422.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe next step is to convert the annualized quarterly yield to the semiannual bond basis yield.\u003c/p\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___17\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003em\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmi\u003em\u003c/mi\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmi\u003em\u003c/mi\u003e \u003c/msup\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/msup\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___18\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e0.0422\u003c/mn\u003e \u003c/mrow\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e4\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___19\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.04242\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e4.242\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because 1.0550% is the yield per quarter.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because 2.1100% is the yield per quarter (1.0550%) multiplied by 2.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA bond issued by RTR pays a quarterly coupon of 3.25%, has three years to maturity, and is currently trading at 97.28. The semiannual bond basis yield is closest to: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e1d7287c-4283-451f-a911-fa68925b8c80"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "64a25e49-f44f-4380-ae0a-2a10cf0c4f92",
+                            "itemBody": "A. 1.055%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "8c81a328-3bb6-418b-9b4d-ecd596d245f2",
+                            "itemBody": "B. 2.121%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "e1d7287c-4283-451f-a911-fa68925b8c80",
+                            "itemBody": "C. 4.242%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8215,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4469,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51158",
+            "entry": {
+                "title": "CFA2437-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The G-spread is a yield spread above that of a government bond with the same maturity date. The yield-to-maturity for the corporate bond is 2.7070%. The yield-to-maturity for the government benchmark bond is 1.9036%.\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2437-R-s04-E___20\"\u003eG-spread = 2.707% – 1.904% = 0.8034% = 80.3 bps.\u003c/div\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because 87 bps is the I-spread calculated as the yield spread of a bond over the standard swap rate in the same currency and with the same tenor.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because 135 bps is the spread calculated as the difference between the yield-to-maturity of the QWE bond and the average of government rates for all maturities.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst is analyzing a three-year, 2.25% annual coupon bond issued by QWE Company. Currently, the bond’s yield-to-maturity is 2.707%. The three-year swap rate is 1.840%. The government spot rates are presented in the table.\u003c/p\u003e\n\u003cdiv id=\"CFA2437-R-s04-Ti\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eMaturity\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eGovernment Spot Rate\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e1Y\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e0.899%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2Y\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.260%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e3Y\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e1.904%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe G-Spread (in basis points) for the QWE bond is closest to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "657207cf-634a-42dd-89c0-9d5b1e59eaa5"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "657207cf-634a-42dd-89c0-9d5b1e59eaa5",
+                            "itemBody": "A. 80.",
+                            "position": 1
+                        },
+                        {
+                            "id": "01729dd3-13d3-4211-8858-4220539a1e91",
+                            "itemBody": "B. 87.",
+                            "position": 2
+                        },
+                        {
+                            "id": "5a0c67f8-b30e-47ed-a3de-f6a847c7ba73",
+                            "itemBody": "C. 135.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8215,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4469,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51159",
+            "entry": {
+                "title": "CFA2437-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The I-spread is the yield spread of a bond over the standard swap rate in the same currency and with the same tenor. The yield-to-maturity for the corporate bond is 2.707%, and the swap rate for the same maturity is 1.840%.\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2437-R-s04-E___21\"\u003eI-spread = 2.707% – 1.840% = 0.867% = 87 bps.\u003c/div\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because 46 bps is the difference between the bond’s yield-to-maturity and coupon rate.\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2437-R-s04-E___22\"\u003e2.707% – 2.250% = 0.457% = 46 bps.\u003c/div\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because 80 bps is the G-spread—the yield-to-maturity for the corporate bond less the yield-to-maturity for the government benchmark bond.\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2437-R-s04-E___23\"\u003eG-spread = 2.707% – 1.904% = 80 bps.\u003c/div\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe I-spread (in basis points) for the QWE bond is closest to: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2665f5be-a2ff-40f0-ac03-2c18ccff6f1a"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "135d8324-103d-4c7a-9dc2-b237bef76898",
+                            "itemBody": "A. 46.",
+                            "position": 1
+                        },
+                        {
+                            "id": "e0ec3513-0a11-4027-acf7-a334c27f2cb1",
+                            "itemBody": "B. 80.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2665f5be-a2ff-40f0-ac03-2c18ccff6f1a",
+                            "itemBody": "C. 87.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8215,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4469,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51160",
+            "entry": {
+                "title": "CFA2437-R-s04-Q9",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. To calculate the Z-spread, we must solve for Z in the following equation, given the spot rates and price of the bond:\u003c/p\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___24\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ez\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eZ\u003c/mi\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ez\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eZ\u003c/mi\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e⋯\u003c/mo\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ez\u003c/mi\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/msub\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eZ\u003c/mi\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___25\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e98.70\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2.25\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.00899\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eZ\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2.25\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.01260\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eZ\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e102.25\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.01904\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eZ\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe Solver add-in for Microsoft Excel finds \u003cem\u003eZ\u003c/em\u003e = 0.0082, or 82 bps, by setting the price (sum of present values of cash flows) equal to 98.70 as the objective and \u003cem\u003eZ\u003c/em\u003e as the change variable. Please refer to the candidate learning ecosystem online for a spreadsheet demonstrating the calculation\u0026nbsp;in the\u0026nbsp;\u003ca href=\"https://1drv.ms/x/s!AozBCmlHo86vgWX69vrCLj2xcix8?e=QcaEPz\" target=\"_blank\" rel=\"noopener\"\u003edownloadable Excel workbook\u003c/a\u003e.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because 80 bps is the value of the G-spread, not the Z-spread. The G-spread is calculated as the difference between the QWE bond yield and the yield of the government bond with the same maturity:\u003c/p\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___26\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003eG-spread = 2.707% – 1.904% = 80 bps.\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because 87 bps is the I-spread, not the Z-spread. The I-spread is calculated as a yield spread of a bond over the standard swap rate in the same currency and with the same tenor. The yield-to-maturity for the corporate bond is 2.707%, and the swap rate for the same maturity is 1.840%.\u003c/p\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___27\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003eI-spread = 2.707% – 1.840% = 87 bps.\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf the price of the QWE bond is 98.70% of par, its Z-spread (in basis points) is closest to: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "40dfb657-4647-4819-be97-e1fdafa219bb"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "22b07657-c6b4-4eff-b59e-11a0d7b8c578",
+                            "itemBody": "A. 80.",
+                            "position": 1
+                        },
+                        {
+                            "id": "40dfb657-4647-4819-be97-e1fdafa219bb",
+                            "itemBody": "B. 82.",
+                            "position": 2
+                        },
+                        {
+                            "id": "689149ab-435d-408d-9d4b-14e00f0920aa",
+                            "itemBody": "C. 87.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8215,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4469,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51161",
+            "entry": {
+                "title": "CFA2437-R-s04-Q10",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct yield values matched with the corresponding yield measures are presented in the following table:\u003c/p\u003e\n\u003cdiv id=\"CFA2437-R-s04-Tl\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003cstrong\u003eYield\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u003cstrong\u003eYield Measure\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e3.1497%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eYield-to-first call\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2.9253%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eYield-to-second call\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2.6998%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eYield-to-maturity\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2.6998%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eYield-to-worst\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCalculation of yield-to-first call:\u003c/p\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___28\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e...\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmtext\u003eCall\u003c/mtext\u003e \u003cmi\u003e \u003c/mi\u003e \u003cmtext\u003ePrice\u003c/mtext\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___29\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.25\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.25\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e...\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.25\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e7\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.25\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e101.50\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e8\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___30\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.01548\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.031497.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCalculation of yield-to-second call:\u003c/p\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___31\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e...\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmtext\u003eCall\u003c/mtext\u003e \u003cmi\u003e \u003c/mi\u003e \u003cmtext\u003ePrice\u003c/mtext\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___32\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.25\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.25\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e...\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.25\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e9\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.25\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e101.0\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e10\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___33\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.014626\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.029253.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCalculation of yield-to-maturity:\u003c/p\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___34\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e...\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmi\u003eN\u003c/mi\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___35\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.25\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.25\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e...\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.25\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e11\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.25\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e100.0\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e12\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e.\u003c/mo\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2437-R-s04-E___36\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.013499\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.026998.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst is analyzing a six-year callable bond with a semiannual coupon of 2.50% trading at a price of 98.90 per 100 par value and the following call schedule:\u003c/p\u003e\n\u003cdiv id=\"CFA2437-R-s04-Tj\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"2\" scope=\"col\"\u003e\u003cstrong\u003eCall Schedule\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003ePeriod\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eCall Price\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e4–5 Years\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e101.50\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e5–6 Years\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e101.00\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMatch the yields below to the respective yield measures.\u003c/p\u003e\n\u003cdiv id=\"CFA2437-R-s04-Tk\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eYield\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eYield Measure\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2.6998%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eYield-to-first call\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2.6998%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eYield-to-second call\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2.9253%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eYield-to-maturity\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e3.1497%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eYield-to-worst\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8215,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4469,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54202",
+            "entry": {
+                "title": "ITEM_20170607063",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eStellar Corp. recently issued $100 par value deferred coupon bonds, which will make no coupon payments in the next four years. Regular annual coupon payments at a rate of 8% will then be made until the bonds mature at the end of 10 years. If the bonds are currently priced at $87.00, their yield to maturity is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1e83d548-519c-44e9-8c29-252f7cf1f34a"
+                },
+                "answerFeedback": {
+                    "1e83d548-519c-44e9-8c29-252f7cf1f34a": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The yield to maturity (\u003cem\u003er\u003c/em\u003e) is computed by solving for \u003cem\u003er\u003c/em\u003e in the following equation:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e87.00 = 8/(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e5\u003c/sup\u003e + 8/(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e6\u003c/sup\u003e + 8/(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e7\u003c/sup\u003e + 8/(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e8\u003c/sup\u003e + 8/(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e9\u003c/sup\u003e + 108/(1\u0026nbsp;+\u0026nbsp;\u003cem\u003er\u003c/em\u003e)\u003csup\u003e10\u003c/sup\u003ewhich gives a yield to maturity of 6.0%.\u003c/p\u003e",
+                    "7394014f-7dc3-45e8-9250-c29e923a59fe": "\u003cp\u003eIncorrect because the yield to maturity is computed by treating the bond like a ten-year bond and solving for \u003cem\u003er\u003c/em\u003e in the following expression:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e87.00 = 8/(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e1\u003c/sup\u003e + 8/(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e2\u003c/sup\u003e + … + 8/(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e9\u003c/sup\u003e + 108/(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e10\u003c/sup\u003e\u003c/p\u003e",
+                    "fcd52a20-7c87-46cf-840e-f54ddccdb61a": "\u003cp\u003eIncorrect because the yield to maturity is computed by treating the bond as a ten-year, coupon-paying bond with a price of $100 and solving for \u003cem\u003er\u003c/em\u003e in the following expression:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e100.00 = 8/(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e1\u003c/sup\u003e + 8/(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e2\u003c/sup\u003e + … + 8/(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e9\u003c/sup\u003e + 108/(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e10\u003c/sup\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1e83d548-519c-44e9-8c29-252f7cf1f34a",
+                            "itemBody": "\u003cp\u003eA. 6.0%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fcd52a20-7c87-46cf-840e-f54ddccdb61a",
+                            "itemBody": "\u003cp\u003eB. 8.0%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7394014f-7dc3-45e8-9250-c29e923a59fe",
+                            "itemBody": "\u003cp\u003eC. 10.1%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8657,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4469,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54203",
+            "entry": {
+                "title": "ITEM_20170607068",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eConsider a $100 par value bond with an 8% coupon paid annually, maturing in 20 years. If the bond currently sells for $96.47, the yield to maturity is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "df3ad09f-794f-4d05-9a57-f10960186a5b"
+                },
+                "answerFeedback": {
+                    "df3ad09f-794f-4d05-9a57-f10960186a5b": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A security with a present value of 96.47, 19 interest payments of 8, and a 20th payment of principal plus interest (108) has a yield to maturity of 8.37%.\u003c/p\u003e",
+                    "e4e99584-e29c-4cd6-85a0-1d50dab55eb1": "\u003cp\u003eIncorrect because it is the security’s current yield: ($8/$96.47).\u003c/p\u003e",
+                    "fa388a45-9df1-4b51-94fc-69ffaa042e56": "\u003cp\u003eIncorrect because it is: $8/$108 = 0.0741.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fa388a45-9df1-4b51-94fc-69ffaa042e56",
+                            "itemBody": "\u003cp\u003eA. 7.41%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e4e99584-e29c-4cd6-85a0-1d50dab55eb1",
+                            "itemBody": "\u003cp\u003eB. 8.29%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "df3ad09f-794f-4d05-9a57-f10960186a5b",
+                            "itemBody": "\u003cp\u003eC. 8.37%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8657,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4469,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54204",
+            "entry": {
+                "title": "ITEM_20170607081",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe factor \u003ci\u003eleast likely\u003c/i\u003e to influence the yield spread on an option-free, fixed-rate bond is a change in the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a1545679-bac4-4885-a370-9d7d060cebc9"
+                },
+                "answerFeedback": {
+                    "0655eaf0-b15b-4800-9149-fba8e8cdad8d": "\u003cp\u003eIncorrect because changes in the yield spread an option-free, fixed-rate bond arise from changes in the credit risk of the issuer.\u003c/p\u003e",
+                    "a1545679-bac4-4885-a370-9d7d060cebc9": "\u003cp\u003eCorrect because for an option-free, fixed-rate bond, changes in the yield spread can arise from changes in the credit risk of the issuer and/or changes in the liquidity of the issue. Changes in the expected inflation rate influence the benchmark rate.\u003c/p\u003e",
+                    "af9f51e4-15e3-4b9f-ae00-19df243df472": "\u003cp\u003eIncorrect because changes in the yield spread an option-free, fixed-rate bond arise from changes in the liquidity of the issue.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "af9f51e4-15e3-4b9f-ae00-19df243df472",
+                            "itemBody": "\u003cp\u003eA. liquidity of the bond.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a1545679-bac4-4885-a370-9d7d060cebc9",
+                            "itemBody": "\u003cp\u003eB. expected inflation rate.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0655eaf0-b15b-4800-9149-fba8e8cdad8d",
+                            "itemBody": "\u003cp\u003eC. credit risk of the issuer.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8657,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4469,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

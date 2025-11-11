@@ -1,0 +1,736 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6110,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 11,
+    "hidden_question_count": 0,
+    "points": 2,
+    "points_possible": 11,
+    "correct_questions_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 4: Probability Trees and Conditional Expectations",
+        "topic_id": 1031,
+        "topic": "CFA-26-02-LI-C: Quantitative Methods",
+        "subtopic_id": 6110,
+        "subtopic": "Module 4: Probability Trees and Conditional Expectations",
+        "question_count": 11,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 799,
+                "name": "Warehouse Course: Quantitative Methods 26-LI",
+                "code": "Warehouse Course: Quantitative Methods 26-LI",
+                "module_id": 4422,
+                "question_count": 7,
+                "type": "warehouse"
+            },
+            {
+                "id": 838,
+                "name": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "code": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "module_id": 4625,
+                "question_count": 4,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 11.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "79492bb77d8f4375",
+        "ordered_item_ids": [
+            "54417",
+            "54418",
+            "54419",
+            "54420",
+            "53109",
+            "53110",
+            "53590",
+            "53591",
+            "53592",
+            "53593",
+            "53594"
+        ],
+        "visible_item_ids": [
+            "53109",
+            "53110",
+            "53590",
+            "53591",
+            "53592",
+            "53593",
+            "53594",
+            "54417",
+            "54418",
+            "54419",
+            "54420"
+        ]
+    },
+    "items": [
+        {
+            "id": "54417",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.09-Quant-Zhang-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA discrete random variable \u003ci\u003eX\u003c/i\u003e\u0026nbsp;has the following probability distribution:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 220px; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"width: 106px; max-width: 106px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eProbability\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"width: 106px; max-width: 106px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eOutcome\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 106px; max-width: 106px; text-align: center;\"\u003e0.20\u003c/td\u003e\n\u003ctd style=\"width: 106px; max-width: 106px; text-align: center;\"\u003e35\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 106px; max-width: 106px; text-align: center;\"\u003e0.30\u003c/td\u003e\n\u003ctd style=\"width: 106px; max-width: 106px; text-align: center;\"\u003e50\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 106px; max-width: 106px; text-align: center;\"\u003e0.50\u003c/td\u003e\n\u003ctd style=\"width: 106px; max-width: 106px; text-align: center;\"\u003e80\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe standard deviation of \u003ci\u003eX\u003c/i\u003e is\u0026nbsp;\u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8b7d7a05-0542-4045-8fe4-5cecae576b7d"
+                },
+                "answerFeedback": {
+                    "5b0436c5-2c23-43ec-8197-c6714b3bfb79": "\u003cp\u003eIncorrect because it uses the simple average of the outcomes instead of the expected value in the calculation. The simple average \u003ci\u003eX\u003csub\u003ebar\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;= (35 + 50 + 80)/3 = 55. Hence the variance becomes\u0026nbsp;σ\u003csup\u003e2\u003c/sup\u003e(\u003ci\u003eX\u003c/i\u003e) =\u0026nbsp;Σ\u003csub\u003ei=1\u003c/sub\u003e\u003csup\u003en\u003c/sup\u003e\u003ci\u003eP\u003c/i\u003e(\u003ci\u003eX\u003c/i\u003e\u003csub\u003ei\u003c/sub\u003e)[\u003ci\u003eX\u0026nbsp;– X\u003csub\u003ebar\u003c/sub\u003e\u003c/i\u003e]\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;= 0.20\u0026nbsp;× (35\u0026nbsp;– 55)\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;+\u0026nbsp;0.30\u0026nbsp;× (50 – 55)\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;+\u0026nbsp;0.50\u0026nbsp;× (80\u0026nbsp;– 55)\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;= 400. Then, the standard deviation is equal to\u0026nbsp;σ = 400\u003csup\u003e1/2\u003c/sup\u003e\u0026nbsp;=\u0026nbsp;20.00.\u003c/p\u003e",
+                    "8b7d7a05-0542-4045-8fe4-5cecae576b7d": "\u003cp\u003eCorrect because the expected value\u0026nbsp;\u003ci\u003eE\u003c/i\u003e(\u003ci\u003eX\u003c/i\u003e)\u0026nbsp;=\u0026nbsp;Σ\u003csub\u003ei=1\u003c/sub\u003e\u003csup\u003en\u003c/sup\u003e\u003ci\u003eP\u003c/i\u003e(\u003ci\u003eX\u003c/i\u003e\u003csub\u003ei\u003c/sub\u003e)\u003ci\u003eX\u003c/i\u003e\u003csub\u003ei\u003c/sub\u003e\u0026nbsp;= (0.20\u0026nbsp;× 35) +\u0026nbsp;(0.30\u0026nbsp;× 50) + (0.50\u0026nbsp;× 80) = 62. The variance\u0026nbsp;σ\u003csup\u003e2\u003c/sup\u003e(\u003ci\u003eX\u003c/i\u003e) = \u003ci\u003eE\u003c/i\u003e{[\u003ci\u003eX\u0026nbsp;–\u003c/i\u003e\u0026nbsp;\u003ci\u003eE\u003c/i\u003e(\u003ci\u003eX\u003c/i\u003e)]\u003csup\u003e2\u003c/sup\u003e} =\u0026nbsp;Σ\u003csub\u003ei=1\u003c/sub\u003e\u003csup\u003en\u003c/sup\u003e\u003ci\u003eP\u003c/i\u003e(\u003ci\u003eX\u003c/i\u003e\u003csub\u003ei\u003c/sub\u003e)[\u003ci\u003eX\u0026nbsp;– E\u003c/i\u003e(\u003ci\u003eX\u003c/i\u003e)]\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;= 0.20\u0026nbsp;× (35\u0026nbsp;–\u0026nbsp;62)\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;+\u0026nbsp;0.30\u0026nbsp;× (50 –\u0026nbsp;62)\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;+\u0026nbsp;0.50\u0026nbsp;× (80\u0026nbsp;–\u0026nbsp;62)\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;= 351. \u003cb\u003eStandard deviation \u003c/b\u003eis the positive square root of variance:\u0026nbsp;σ = 351\u003csup\u003e1/2\u003c/sup\u003e\u0026nbsp;≈\u0026nbsp;18.73.\u003c/p\u003e",
+                    "c009cc5a-dcdb-454b-b113-571b7b188940": "\u003cp\u003eIncorrect because it ignores that this is a random variable and just calculates the sample standard deviation instead for a sample with 3 observations. The sample mean \u003ci\u003eX\u003csub\u003ebar\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;= (35 + 50 + 80)/3 = 55. Hence the sample variance is equal to\u0026nbsp;σ\u003csup\u003e2\u003c/sup\u003e = (Σ\u003csub\u003ei=1\u003c/sub\u003e\u003csup\u003en\u003c/sup\u003e[\u003ci\u003eX\u0026nbsp;– X\u003csub\u003ebar\u003c/sub\u003e\u003c/i\u003e]\u003csup\u003e2\u003c/sup\u003e)/(\u003ci\u003en\u003c/i\u003e\u0026nbsp;– 1)\u0026nbsp;= [(35\u0026nbsp;– 55)\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;+ (50 – 55)\u003csup\u003e2\u003c/sup\u003e\u0026nbsp;+ (80\u0026nbsp;– 55)\u003csup\u003e2\u003c/sup\u003e]/(3\u0026nbsp;– 1)\u0026nbsp;= 525. Then, the sample standard deviation is equal to σ = 525\u003csup\u003e1/2\u003c/sup\u003e\u0026nbsp;≈\u0026nbsp;22.91.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8b7d7a05-0542-4045-8fe4-5cecae576b7d",
+                            "itemBody": "\u003cp\u003eA. 18.73.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5b0436c5-2c23-43ec-8197-c6714b3bfb79",
+                            "itemBody": "\u003cp\u003eB. 20.00.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c009cc5a-dcdb-454b-b113-571b7b188940",
+                            "itemBody": "\u003cp\u003eC. 22.91.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8766,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4625,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54418",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Quant-Tomter-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst assumes that a company's future EPS will be either $2.00, $2.20, or $2.40. If each scenario is equally likely, the variance [in $\u003csup\u003e2\u003c/sup\u003e] of the company's future EPS is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "14d659b8-8d30-46b3-9b9d-756096363cea"
+                },
+                "answerFeedback": {
+                    "14d659b8-8d30-46b3-9b9d-756096363cea": "\u003cp\u003eCorrect because the \u003cb\u003evariance\u003c/b\u003e of a random variable is the expected value (the probability-weighted average) of squared deviations from the random variable’s expected value: σ\u003csup\u003e2\u003c/sup\u003e(\u003ci\u003eX\u003c/i\u003e) = \u003ci\u003eE\u003c/i\u003e[\u003ci\u003eX\u003c/i\u003e –\u0026nbsp;\u003ci\u003eE(X\u003c/i\u003e)]\u003csup\u003e2\u003c/sup\u003e.\u0026nbsp;Since each scenario is equally likely (probability = 1/3), \u003ci\u003eE\u003c/i\u003e(\u003ci\u003eX\u003c/i\u003e) = (2.0 + 2.2 + 2.4)/3 = 2.2, so σ\u003csup\u003e2\u003c/sup\u003e(\u003ci\u003eX\u003c/i\u003e) = [(2.0 –\u0026nbsp;2.2)\u003csup\u003e2\u003c/sup\u003e + (2.2\u0026nbsp;– 2.2)\u003csup\u003e2\u003c/sup\u003e + (2.4 –\u0026nbsp;2.2)\u003csup\u003e2\u003c/sup\u003e]/3 = [0.04 + 0.04]/3 = 0.08/3 = 0.0267 ≈ 0.03 [in $\u003csup\u003e2\u003c/sup\u003e].\u003c/p\u003e",
+                    "7f1c7e69-760e-45bf-b2fa-6303e8066b26": "\u003cp\u003eIncorrect because it is the difference between each pair of EPS values, not the variance: $2.40 – $2.20 = $2.20 – $2.00 = $0.20.\u0026nbsp;\u003c/p\u003e",
+                    "eb7260cc-3dec-4fc2-b73a-a8929aff3f07": "\u003cp\u003eIncorrect because it is the standard deviation, not the variance. The \u003cb\u003evariance\u003c/b\u003e of a random variable is the expected value (the probability-weighted average) of squared deviations from the random variable’s expected value: σ\u003csup\u003e2\u003c/sup\u003e(\u003ci\u003eX\u003c/i\u003e) = \u003ci\u003eE\u003c/i\u003e[\u003ci\u003eX\u003c/i\u003e –\u0026nbsp;\u003ci\u003eE(X\u003c/i\u003e)]\u003csup\u003e2\u003c/sup\u003e.\u0026nbsp;Since each scenario is equally likely (probability = 1/3), \u003ci\u003eE(X)\u003c/i\u003e = (2.0 + 2.2 + 2.4)/3 = 2.2, so σ\u003csup\u003e2\u003c/sup\u003e(\u003ci\u003eX\u003c/i\u003e) = [(2.0 –\u0026nbsp;2.2)\u003csup\u003e2\u003c/sup\u003e + (2.2\u0026nbsp;– 2.2)\u003csup\u003e2\u003c/sup\u003e + (2.4 –\u0026nbsp;2.2)\u003csup\u003e2\u003c/sup\u003e]/3\u0026nbsp;= [0.04 + 0.04]/3 = 0.08/3 = 0.0267 [in $\u003csup\u003e2\u003c/sup\u003e]. \u003cb\u003eStandard deviation\u003c/b\u003e is the positive square root of variance.\u0026nbsp;Therefore, σ(\u003ci\u003eX\u003c/i\u003e) = (0.0267)\u003csup\u003e0.5\u003c/sup\u003e = 0.1633\u0026nbsp;≈ 0.16 [in $].\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "14d659b8-8d30-46b3-9b9d-756096363cea",
+                            "itemBody": "\u003cp\u003eA. 0.03.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "eb7260cc-3dec-4fc2-b73a-a8929aff3f07",
+                            "itemBody": "\u003cp\u003eB. 0.16.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7f1c7e69-760e-45bf-b2fa-6303e8066b26",
+                            "itemBody": "\u003cp\u003eC. 0.20.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8766,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4625,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54419",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Quant-Georgiou-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA tree diagram contains the following information about the dividend per share payable by a company under two scenarios:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 496px; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 93px; text-align: center; max-width: 93px;\"\u003e\u003cstrong\u003eScenario\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 116px; text-align: center; max-width: 116px;\"\u003e\u003cstrong\u003eProbability of Scenario\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 163px; text-align: center; max-width: 163px;\"\u003e\u003cstrong\u003eDividend\u003cbr\u003eper Share\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"width: 116px; text-align: center; max-width: 116px;\"\u003e\u003cstrong\u003eProbability\u003cbr\u003eof Dividend\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 93px; max-width: 93px;\" colspan=\"1\" rowspan=\"2\"\u003eFavorable\u003c/td\u003e\n\u003ctd style=\"width: 116px; text-align: center; max-width: 116px;\" colspan=\"1\" rowspan=\"2\"\u003e0.60\u003c/td\u003e\n\u003ctd style=\"width: 163px; text-align: center; max-width: 163px;\"\u003e$2.00\u003c/td\u003e\n\u003ctd style=\"width: 116px; text-align: center; max-width: 116px;\"\u003e0.80\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 163px; text-align: center; max-width: 163px;\"\u003e$1.50\u003c/td\u003e\n\u003ctd style=\"width: 116px; text-align: center; max-width: 116px;\"\u003e0.20\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 93px; max-width: 93px;\" colspan=\"1\" rowspan=\"2\"\u003eUnfavorable\u003c/td\u003e\n\u003ctd style=\"width: 116px; text-align: center; max-width: 116px;\" colspan=\"1\" rowspan=\"2\"\u003e0.40\u003c/td\u003e\n\u003ctd style=\"width: 163px; text-align: center; max-width: 163px;\"\u003e$0.75\u003c/td\u003e\n\u003ctd style=\"width: 116px; text-align: center; max-width: 116px;\"\u003e0.30\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 163px; text-align: center; max-width: 163px;\"\u003e$0.50\u003c/td\u003e\n\u003ctd style=\"width: 116px; text-align: center; max-width: 116px;\"\u003e0.70\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe expected dividend per share under the favorable scenario is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f52d8003-25ec-4530-a1dc-6dc7db897bee"
+                },
+                "answerFeedback": {
+                    "d0c1f683-8d41-42b7-af40-5fe953b9178c": "\u003cp\u003eIncorrect because it wrongly multiplies the expected dividend per share given the favorable scenario ($1.90)\u0026nbsp;by the probability of the scenario (0.60):\u003c/p\u003e\u003cp\u003eProbability of favorable scenario × \u003ci\u003eE\u003c/i\u003e(Dividend | Favorable scenario)\u003c/p\u003e\u003cp\u003e= 0.60 × [(0.80 × $2.00) + (0.20 × $1.50)]\u003c/p\u003e\u003cp\u003e= 0.60 × $1.90\u003c/p\u003e\u003cp\u003e= $1.14.\u003c/p\u003e",
+                    "eab68613-37e7-4f0b-afec-6ff9c64fcc5c": "\u003cp\u003eIncorrect because it is the unconditional expected dividend per share based on the total probability rule for expected value:\u003c/p\u003e\u003cp\u003e\u003ci\u003eE\u003c/i\u003e(Dividend | Favorable scenario) = (0.80 × $2.00) + (0.20 × $1.50) = $1.90.\u003c/p\u003e\u003cp\u003e\u003ci\u003eE\u003c/i\u003e(Dividend | Unfavorable scenario) = (0.30 × $0.75) + (0.70 × $0.50) = $0.575.\u003c/p\u003e\u003cp\u003e\u003ci\u003eE\u003c/i\u003e(Dividend) = (0.60 × $1.90) + (0.40 × $0.575) = $1.37.\u003c/p\u003e",
+                    "f52d8003-25ec-4530-a1dc-6dc7db897bee": "\u003cp\u003eCorrect because the expected value of a random variable \u003ci\u003eX \u003c/i\u003egiven an event or scenario \u003ci\u003eS \u003c/i\u003eis denoted \u003ci\u003eE\u003c/i\u003e(\u003ci\u003eX \u003c/i\u003e| \u003ci\u003eS\u003c/i\u003e). Suppose the random variable \u003ci\u003eX \u003c/i\u003ecan take on any one of \u003ci\u003en \u003c/i\u003edistinct outcomes \u003ci\u003eX\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e, \u003ci\u003eX\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e, …, \u003ci\u003eX\u003c/i\u003e\u003ci\u003e\u003csub\u003en\u003c/sub\u003e \u003c/i\u003e(these outcomes form a set of mutually exclusive and exhaustive events). The expected value of \u003ci\u003eX \u003c/i\u003econditional on \u003ci\u003eS \u003c/i\u003eis the first outcome, \u003ci\u003eX\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e, times the probability of the first outcome given \u003ci\u003eS, P\u003c/i\u003e(\u003ci\u003eX\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e | \u003ci\u003eS\u003c/i\u003e), plus the second outcome, \u003ci\u003eX\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e, times the probability of the second outcome given \u003ci\u003eS, P\u003c/i\u003e(\u003ci\u003eX\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e | \u003ci\u003eS\u003c/i\u003e), and so forth. In our case, \u003ci\u003eS\u003c/i\u003e = Favorable scenario, \u003ci\u003eX\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e = Dividend of $2.50, \u003ci\u003eX\u003c/i\u003e\u003csub\u003e2\u003c/sub\u003e = Dividend of $1.50, \u003ci\u003eP\u003c/i\u003e(\u003ci\u003eX\u003c/i\u003e\u003csub\u003e1\u003c/sub\u003e | \u003ci\u003eS\u003c/i\u003e) = 0.80, and \u003ci\u003eP\u003c/i\u003e(\u003ci\u003eX\u003csub\u003e2\u003c/sub\u003e\u003c/i\u003e | \u003ci\u003eS\u003c/i\u003e) = 0.20. Thus, the expected dividend given the favorable scenario = (0.80 × $2.00) + (0.20 × $1.50) = $1.90.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d0c1f683-8d41-42b7-af40-5fe953b9178c",
+                            "itemBody": "\u003cp\u003eA. $1.14.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "eab68613-37e7-4f0b-afec-6ff9c64fcc5c",
+                            "itemBody": "\u003cp\u003eB. $1.37.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f52d8003-25ec-4530-a1dc-6dc7db897bee",
+                            "itemBody": "\u003cp\u003eC. $1.90.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8766,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4625,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54420",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.01-Quant-Lamba-13",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst examines the distribution of portfolio returns in bullish and bearish market scenarios. To calculate the expected return on the portfolio in a bearish market scenario, the \u003ci\u003emost\u003c/i\u003e appropriate approach is to use:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "30385c32-3543-42b3-af7d-3790c115ddbf"
+                },
+                "answerFeedback": {
+                    "30385c32-3543-42b3-af7d-3790c115ddbf": "\u003cp\u003eCorrect because in investments, we make use of any relevant information available in making our forecasts. When we refine our expectations or forecasts, we are typically making adjustments based on new information or events; in these cases, we are using conditional expected values.\u003c/p\u003e",
+                    "34032a84-9b50-4ab0-ad1e-f439c69b3594": "\u003cp\u003eIncorrect because the multiplication rule is the probability rule where the joint probability of \u003ci\u003eA \u003c/i\u003eand \u003ci\u003eB \u003c/i\u003ecan be expressed as \u003ci\u003eP\u003c/i\u003e(\u003ci\u003eAB\u003c/i\u003e) = \u003ci\u003eP\u003c/i\u003e(\u003ci\u003eA \u003c/i\u003e| \u003ci\u003eB\u003c/i\u003e)\u003ci\u003eP\u003c/i\u003e(\u003ci\u003eB\u003c/i\u003e).\u003c/p\u003e",
+                    "f60cf930-0b31-45c2-a38b-f892f103d8bd": "\u003cp\u003eIncorrect because parallel to the total probability rule for stating unconditional probabilities in terms of conditional probabilities, there is a principle for stating (unconditional) expected values in terms of conditional expected values. This principle is the total probability rule for expected value.\u0026nbsp;Considering just one scenario (bearish market), the total probability rule for expected value would not be used.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "34032a84-9b50-4ab0-ad1e-f439c69b3594",
+                            "itemBody": "\u003cp\u003eA. the multiplication rule.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "30385c32-3543-42b3-af7d-3790c115ddbf",
+                            "itemBody": "\u003cp\u003eB. conditional expected values.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f60cf930-0b31-45c2-a38b-f892f103d8bd",
+                            "itemBody": "\u003cp\u003eC. the total probability rule for expected value.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8766,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4625,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53109",
+            "entry": {
+                "title": "CFA2464-R-s03-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. If Scenario 1 occurs, the expected recovery is 60% (USD50,000) + 40% (USD30,000) = USD42,000, and if Scenario 2 occurs, the expected recovery is 90% (USD80,000) + 10% (USD60,000) = USD78,000. Weighting by the probability of each scenario, the expected recovery is 40% (USD42,000) + 60% (USD78,000) = USD63,600. Alternatively, first calculating the probability of each amount occurring, the expected recovery is (40%)(60%)(USD50,000) + (40%)(40%)(USD30,000) + (60%)(90%)(USD80,000) + (60%)(10%)(USD60,000) = USD63,600.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst developed two scenarios with respect to the recovery of USD100,000 principal from defaulted loans:\u003c/p\u003e\n\u003cdiv id=\"CFA2464-R-s03-T-2-b\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-bottom: 1px solid #000000;\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom;\"\u003e\u003cstrong\u003eScenario\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eProbability of Scenario (%)\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eAmount Recovered (USD)\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eProbability of Amount (%)\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e40\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e50,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e60\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e30,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e40\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e60\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e80,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e90\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e60,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e10\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe amount of the expected recovery is \u003cem\u003eclosest\u003c/em\u003e to which of the following?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6071d9bf-57ef-4d62-b7f9-53f82cac5656"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c0360f5c-ddb9-4118-b43a-94865e63ee1c",
+                            "itemBody": "A. USD36,400.",
+                            "position": 1
+                        },
+                        {
+                            "id": "1c30d752-a17b-4bea-984e-4ff9b23a2e36",
+                            "itemBody": "B. USD55,000.",
+                            "position": 2
+                        },
+                        {
+                            "id": "6071d9bf-57ef-4d62-b7f9-53f82cac5656",
+                            "itemBody": "C. USD63,600.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7975,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4422,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53110",
+            "entry": {
+                "title": "CFA2464-R-s03-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The analyst must first calculate expected sales as 0.05 × USD70 + 0.70 × USD40 + 0.25 × USD25 = USD3.50 million + USD28.00 million + USD6.25 million = USD37.75 million.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAfter calculating expected sales, we can calculate the variance of sales:\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2464-R-s03-E-3-\"\u003eσ\u003csup\u003e2\u003c/sup\u003e (Sales) = \u003cem\u003eP\u003c/em\u003e(USD70)[USD70\u0026nbsp;–\u0026nbsp;\u003cem\u003eE\u003c/em\u003e(Sales)]\u003csup\u003e2\u003c/sup\u003e + \u003cem\u003eP\u003c/em\u003e(USD40)[USD40\u0026nbsp;–\u0026nbsp;\u003cem\u003eE\u003c/em\u003e(Sales)]\u003csup\u003e2\u003c/sup\u003e + \u003cem\u003eP\u003c/em\u003e(USD25)[USD25\u0026nbsp;–\u0026nbsp;\u003cem\u003eE\u003c/em\u003e(Sales)]\u003csup\u003e2\u003c/sup\u003e\n            \u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2464-R-s03-E-3-___1\"\u003e= 0.05(USD70\u0026nbsp;–\u0026nbsp;37.75)\u003csup\u003e2\u003c/sup\u003e + 0.70(USD40\u0026nbsp;–\u0026nbsp;37.75)\u003csup\u003e2\u003c/sup\u003e + 0.25(USD25\u0026nbsp;–\u0026nbsp;37.75)\u003csup\u003e2\u003c/sup\u003e\n            \u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2464-R-s03-E-3-___2\"\u003e= USD52.00 million + USD3.54 million + USD40.64 million = USD96.18 million.\u003c/div\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe standard deviation of sales is thus σ = (USD96.18)\u003csup\u003e1/2\u003c/sup\u003e = USD9.81 million.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe probability distribution for a company’s sales is:\u003c/p\u003e\n\u003cdiv id=\"CFA2464-R-s03-T-3-c\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-bottom: 1px solid #000000;\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-bottom: 1px solid #000000; border-top: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom;\"\u003e\u003cstrong\u003eProbability \u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom;\"\u003e\u003cstrong\u003eSales (USD, millions)\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e0.05\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e70\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e0.70\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e40\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top;\"\u003e0.25\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top;\"\u003e25\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe standard deviation of sales is \u003cem\u003eclosest\u003c/em\u003e to which of the following?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0a7cd0ed-8717-4942-b657-3ebed27b9697"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0a7cd0ed-8717-4942-b657-3ebed27b9697",
+                            "itemBody": "A. USD9.81 million.",
+                            "position": 1
+                        },
+                        {
+                            "id": "9e4dadbf-85a8-46da-a558-10a3b28ec161",
+                            "itemBody": "B. USD12.20 million.",
+                            "position": 2
+                        },
+                        {
+                            "id": "97ae92ce-2dd4-43c3-81d9-200b98d8d940",
+                            "itemBody": "C. USD32.40 million.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7975,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4422,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53590",
+            "entry": {
+                "title": "ITEM_20170421196",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe conditional expected value of a random variable is \u003ci\u003ebest\u003c/i\u003e described as the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "00f87ca4-fc4d-4c10-a517-44dc82b50bb3"
+                },
+                "answerFeedback": {
+                    "00f87ca4-fc4d-4c10-a517-44dc82b50bb3": "\u003cp\u003eCorrect. The conditional expected value of a random variable is the expected value of a random variable given an event or scenario.\u003c/p\u003e",
+                    "3b9c1819-ef8b-404c-a564-d7212f55dd9c": "\u003cp\u003eIncorrect. An expected value is not a probability. This answer defines the total probability rule, which is the weighted average of the probabilities of an event given all possible scenarios.\u003c/p\u003e",
+                    "e4b43293-3535-415a-8019-df05663da819": "\u003cp\u003eIncorrect. An expected value (not a conditional expected value) is defined as the probability-weighted average of the possible outcomes of the random variable.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "00f87ca4-fc4d-4c10-a517-44dc82b50bb3",
+                            "itemBody": "\u003cp\u003eA. expected value of a random variable given an event or scenario.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e4b43293-3535-415a-8019-df05663da819",
+                            "itemBody": "\u003cp\u003eB. probability-weighted average of the possible outcomes of the random variable.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3b9c1819-ef8b-404c-a564-d7212f55dd9c",
+                            "itemBody": "\u003cp\u003eC. weighted average of the probabilities of an event given all possible scenarios.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8580,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4422,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53591",
+            "entry": {
+                "title": "ITEM_20170421097",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA tree diagram is \u003ci\u003emost likely\u003c/i\u003e used when dealing with investment problems that involve outcomes that are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b4a642aa-f806-42a4-982e-ee4b43ce381e"
+                },
+                "answerFeedback": {
+                    "169bd4b2-1e69-49a0-9686-10be39520cda": "\u003cp\u003eIncorrect. Two outcomes are independent if the occurrence of one outcome does not affect the probability of occurrence of the other outcome. At each node of a tree diagram, the two outcomes that follow are dependent because the probability on the outcome on one branch is related to the probability of the outcome on the other branch.\u003c/p\u003e",
+                    "70d7d58e-455c-439f-9e09-c078c531d18b": "\u003cp\u003eIncorrect. Outcomes are unconditional when the probability of an outcome is not conditioned on another outcome. In a tree diagram, outcomes at each node are conditional (the probability of an outcome is conditioned on another outcome).\u003c/p\u003e",
+                    "b4a642aa-f806-42a4-982e-ee4b43ce381e": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The following figure depicts an example of a tree diagram:\u003c/p\u003e\n\u003cp\u003e\u003cimg id=\"5817-embeddedImageMediaId\" src=\"https://inst-fs-pdx-prod.inscloudgate.net/files/4f7e132d-f6ef-4c57-ba5d-6c36320e7087/MAX17005-MC-Fg.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6Im5ldy1xdWl6emVzL21haW4ifQ.eyJyZXNvdXJjZSI6Ii9maWxlcy80ZjdlMTMyZC1mNmVmLTRjNTctYmE1ZC02YzM2MzIwZTcwODcvTUFYMTcwMDUtTUMtRmcucG5nIiwidGVuYW50X2F1dGgiOnsibG9jYXRpb24iOiJiYW5rLzk4NDMwMDAwMDAwMDAwODk2In0sImV4cCI6MTc2MTc4NzA4OSwiaWF0IjoxNzYxNzQwMjg5LCJpc3MiOiJuZXctcXVpenplcyIsImF1ZCI6Imh0dHBzOi8vaW5zdC1mcy1wZHgtcHJvZC5pbnNjbG91ZGdhdGUubmV0In0.NmbZX83Ur03oshxnk3slpOvKNbLwnFXkrZ9UhJDBfpQJFlEHwmlYaRak_KIob6hGNVOztLbelkCSV38Ju4ZLxA\" alt=\"A binomial diagram that starts with a box on the left labeled Expected Value. Following rules labeled with equations, the diagram ends on the right with four boxes labeled Outcome 1, Outcome 2, Outcome 3, and Outcome 4.\" data-old-link=\"/courses/799/files/92734/preview?verifier=xqWUmfJICRcAA9KuZ7WimJNdvaGNJkubQpV8B2fS\"\u003e\u003c/p\u003e\n\u003cdetails id=\"5817-embeddedImageMediaId-extended-desc\" class=\"dp-panels-wrapper\" style=\"font-size: 10pt; margin-top: 20px;\"\u003e\n\u003csummary class=\"dp-panel-outside-panel\"\u003eExpand / Collapse Extended Description\u003c/summary\u003e\n\u003cp class=\"dp-panel-outside-panel\"\u003eA line with equation P times A equals X extends up from Expected Value towards Outcomes 1 and 2. Outcome 1 has the equation P times Outcome 1 A equals y. Outcome 2 has the equation P times Outcome 2 A equals 1 minus y. A line with equation P times A equals 1 minus x extends down from Expected Value towards Outcomes 3 and 4. Outcome 3 has the equation P times Outcome 3 B equals Z. Outcome 4 has the equation P times Outcome 4 B equals 1 minus z.\u003c/p\u003e\n\u003c/details\u003e\n\u003cp\u003eA tree diagram is a diagram with branches emanating from nodes representing either mutually exclusive outcomes or mutually exclusive decisions. Mutually exclusive outcomes are dependent (the occurrence of one outcome does affect the probability of occurrence of the other outcome). In addition, outcomes at each node are conditional (the probability of an outcome is conditioned on another outcome).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b4a642aa-f806-42a4-982e-ee4b43ce381e",
+                            "itemBody": "\u003cp\u003eA. mutually exclusive.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "169bd4b2-1e69-49a0-9686-10be39520cda",
+                            "itemBody": "\u003cp\u003eB. independent at each node.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "70d7d58e-455c-439f-9e09-c078c531d18b",
+                            "itemBody": "\u003cp\u003eC. unconditional at each node.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8580,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4422,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53592",
+            "entry": {
+                "title": "ITEM_20170421024",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003e\n\u003cp\u003eAn analyst has established the following prior probabilities regarding a company's next quarter's earnings per share (EPS) exceeding, equaling, or being below the consensus estimate.\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 442px; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 265px; max-width: 265px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 166px; max-width: 166px;\"\u003e\u003cstrong\u003ePrior Probabilities\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 265px; max-width: 265px;\"\u003eEPS exceed consensus\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 166px; max-width: 166px;\"\u003e25%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 265px; max-width: 265px;\"\u003eEPS equal consensus\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 166px; max-width: 166px;\"\u003e55%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 265px; max-width: 265px;\"\u003eEPS are less than consensus\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 166px; max-width: 166px;\"\u003e20%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv\u003e\n\u003cp\u003eSeveral days before releasing its earnings statement, the company announces a cut in its dividend. Given this new information, the analyst revises his opinion regarding the likelihood that the company will have EPS below the consensus estimate. He estimates the likelihood the company will cut the dividend, given that EPS exceeds/meets/falls below consensus, as reported below.\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 772px; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 200px; max-width: 200px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 563px; max-width: 563px;\"\u003e\u003cstrong\u003eProbabilities the Company Cuts Dividends, Conditional on EPS Exceeding/Equaling/Falling below Consensus\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 200px; max-width: 200px;\"\u003e\u003ci\u003eP\u003c/i\u003e(Cut div\u0026nbsp;| EPS exceed)\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 563px; max-width: 563px;\"\u003e5%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 200px; max-width: 200px;\"\u003e\u003ci\u003eP\u003c/i\u003e(Cut div\u0026nbsp;| EPS equal)\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 563px; max-width: 563px;\"\u003e10%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 200px; max-width: 200px;\"\u003e\u003ci\u003eP\u003c/i\u003e(Cut div\u0026nbsp;| EPS below)\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 563px; max-width: 563px;\"\u003e85%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eThe analyst thus determines that the unconditional probability for a cut in the dividend, \u003ci\u003eP\u003c/i\u003e(Cut div), is equal to 23.75%. Using Bayes’ formula, the updated (posterior) probability that the company’s EPS are below the consensus is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1f0b57b5-150c-489c-b327-35c8b6d1a011"
+                },
+                "answerFeedback": {
+                    "01d7630f-a640-4af5-906f-c25464df8621": "\u003cp\u003eIncorrect. It simply multiplies the unconditional probability for a cut in the dividend with the conditional probability of a cut in the dividend given that EPS falls below consensus: \u003cem\u003eP\u003c/em\u003e(Cut div) × \u003cem\u003eP\u003c/em\u003e(Cut div\u003cem\u003e \u003c/em\u003e|\u003cem\u003e \u003c/em\u003eEPS below) = 0.2375 × 0.85 = 20.188.%\u003c/p\u003e",
+                    "1f0b57b5-150c-489c-b327-35c8b6d1a011": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Bayes’ Formula:\u003c/p\u003e\n\u003cp\u003eUpdated probability of event given the new information\u003c/p\u003e\n\u003cp\u003e\u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmtext\u003eProbability\u0026nbsp;of\u0026nbsp;the\u0026nbsp;new\u0026nbsp;information\u0026nbsp;given\u0026nbsp;event\u003c/mtext\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmtext\u003eUnconditional\u0026nbsp;probability\u0026nbsp;of\u0026nbsp;the\u0026nbsp;new\u0026nbsp;information\u003c/mtext\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e×\u003c/mo\u003e\u003cmtext\u003ePrior\u0026nbsp;probability\u0026nbsp;of\u0026nbsp;event\u003c/mtext\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e where\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003eUpdated probability of event given the new information: \u003cem\u003eP\u003c/em\u003e(EPS below\u003cem\u003e \u003c/em\u003e|\u003cem\u003e \u003c/em\u003eCut div);\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eProbability of the new information given event: \u003cem\u003eP\u003c/em\u003e(Cut div\u003cem\u003e \u003c/em\u003e|\u003cem\u003e \u003c/em\u003eEPS below) = 85%;\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eUnconditional probably of the new information: \u003cem\u003eP\u003c/em\u003e(Cut div) = 23.75%;\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003ePrior probability of event: \u003cem\u003eP\u003c/em\u003e(EPS below) = 20%.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eTherefore, the probability of EPS falling below the consensus is updated as:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cem\u003eP\u003c/em\u003e(EPS below\u003cem\u003e \u003c/em\u003e|\u003cem\u003e \u003c/em\u003eCut div) = [\u003cem\u003eP\u003c/em\u003e(Cut div\u003cem\u003e \u003c/em\u003e|\u003cem\u003e \u003c/em\u003eEPS below)/\u003cem\u003eP\u003c/em\u003e(Cut div)] × \u003cem\u003eP\u003c/em\u003e(EPS below)\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e= (0.85/0.2375) × 0.20 = 0.71579 ~ \u003cstrong\u003e72%\u003c/strong\u003e\u003c/p\u003e",
+                    "7106da7c-23d1-4838-aaa7-f9fffdd9cb2d": "\u003cp\u003eIncorrect. It is the given \u003cem\u003eP\u003c/em\u003e(Cut div\u003cem\u003e \u003c/em\u003e|\u003cem\u003e \u003c/em\u003eEPS below).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7106da7c-23d1-4838-aaa7-f9fffdd9cb2d",
+                            "itemBody": "\u003cp\u003eA. 85%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1f0b57b5-150c-489c-b327-35c8b6d1a011",
+                            "itemBody": "\u003cp\u003eB. 72%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "01d7630f-a640-4af5-906f-c25464df8621",
+                            "itemBody": "\u003cp\u003eC. 20%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8580,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4422,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53593",
+            "entry": {
+                "title": "ITEM_20170421198",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhen working backward from the nodes on a binomial tree diagram, the analyst\u0026nbsp;is \u003ci\u003emost likely\u0026nbsp;\u003c/i\u003eattempting to calculate:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "583df8cd-e024-4a2b-abc5-0f984e0daf4c"
+                },
+                "answerFeedback": {
+                    "583df8cd-e024-4a2b-abc5-0f984e0daf4c": "\u003cp\u003eCorrect. In a tree diagram, a problem is worked backward to formulate an expected value as of today.\u003c/p\u003e",
+                    "c41082f4-9d69-424e-8968-acddbabfc76c": "\u003cp\u003eIncorrect.\u0026nbsp;The probability of a given scenario is estimated by the analyst for use in forecasting ending values.\u0026nbsp; While the probability of each of\u0026nbsp;end outcomes are calculated, these outcomes are calculated by working forward, not backwards.\u003c/p\u003e",
+                    "df9cf750-915a-4b7c-827b-4398066524e0": "\u003cp\u003eIncorrect. The number of nodes is determined by the number of periods as well as the number of forecasted probabilities per period. These inputs will be used in the model to find the potential outcomes. Working backward will then provide the expected value as of today.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "df9cf750-915a-4b7c-827b-4398066524e0",
+                            "itemBody": "\u003cp\u003eA. the number of potential outcomes.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c41082f4-9d69-424e-8968-acddbabfc76c",
+                            "itemBody": "\u003cp\u003eB. the probability of a given\u0026nbsp;scenario.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "583df8cd-e024-4a2b-abc5-0f984e0daf4c",
+                            "itemBody": "\u003cp\u003eC. an expected value as of today.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8580,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4422,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53594",
+            "entry": {
+                "title": "ITEM_20170421197",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor in Abco stock forecasts the probability that Abco exceeded, met, or fell short of consensus expectations for free cash flow (FCF) during the prior quarter:\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003cp\u003e\u003ci\u003eP(FCF exceeded consensus)\u003c/i\u003e = 0.50\u003c/p\u003e\u003c/li\u003e\n\u003cli\u003e\u003cp\u003e\u003ci\u003eP(FCF met consensus) =\u003c/i\u003e 0.35\u003c/p\u003e\u003c/li\u003e\n\u003cli\u003e\u003cp\u003e\u003ci\u003eP(FCF fell short of consensus)\u003c/i\u003e = 0.15\u003c/p\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eWhile waiting for Abco to release last quarter’s FCF data, the investor learns that Abco will acquire a competitor. Believing that the upcoming acquisition makes it more likely that last quarter’s FCF will exceed the consensus, the investor generates a list of FCF events that may have influenced the acquisition:\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003cp\u003e\u003ci\u003eP(Acquisition\u003c/i\u003e \u003ci\u003e \u003c/i\u003e|\u003ci\u003e \u003c/i\u003e \u003ci\u003eFCF exceeded consensus)\u003c/i\u003e = 0.40\u003c/p\u003e\u003c/li\u003e\n\u003cli\u003e\u003cp\u003e\u003ci\u003eP(Acquisition\u003c/i\u003e \u003ci\u003e \u003c/i\u003e|\u003ci\u003e \u003c/i\u003e \u003ci\u003eFCF met consensus) =\u003c/i\u003e 0.25\u003c/p\u003e\u003c/li\u003e\n\u003cli\u003e\u003cp\u003e\u003ci\u003eP(Acquisition\u003c/i\u003e \u003ci\u003e \u003c/i\u003e|\u003ci\u003e \u003c/i\u003e \u003ci\u003eFCF fell short of consensus)\u003c/i\u003e = 0.35\u003c/p\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eUsing Bayes’ Formula, calculate the probability that Abco is likely to exceed consensus FCF expectations for last quarter given the acquisition. \u003ci\u003eP(FCF exceeded consensus\u003c/i\u003e \u003ci\u003e \u003c/i\u003e|\u003ci\u003e \u003c/i\u003e \u003ci\u003eAcquisition)\u003c/i\u003e is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1ce708b7-07e2-42ec-8706-87da3e22a8d8"
+                },
+                "answerFeedback": {
+                    "1ce708b7-07e2-42ec-8706-87da3e22a8d8": "\u003cp\u003eCorrect. The updated probability \u003cem\u003eP(FCF exceeded consensus\u003c/em\u003e \u003cem\u003e \u003c/em\u003e|\u003cem\u003e \u003c/em\u003e \u003cem\u003eAcquisition)\u003c/em\u003e is 59%.\u003c/p\u003e\u003col\u003e\n\u003cli\u003e\u003cp\u003eCalculate the unconditional probability that Abco will acquire the competitor firm:\u003cem\u003eP(Acquisition)\u003c/em\u003e = (0.50 × 0.40) + (0.35 × 0.25) + (0.15 × 0.35) = 0.34, or 34%.\u003c/p\u003e\u003c/li\u003e\n\u003cli\u003e\u003cp\u003eCalculate the updated probability that Abco exceeded consensus expectations for FCF given that they acquire the competitor firm: \u003cem\u003eP(FCF exceeded consensus\u003c/em\u003e \u003cem\u003e \u003c/em\u003e|\u003cem\u003e \u003c/em\u003e \u003cem\u003eAcquisition)\u003c/em\u003e = [\u003cem\u003eP(Acquisition  \u003c/em\u003e|\u003cem\u003e \u003c/em\u003e \u003cem\u003eFCF exceeded consensus)\u003c/em\u003e/\u003cem\u003eP(Acquisition)\u003c/em\u003e] × \u003cem\u003eP(FCF exceeded consensus)\u003c/em\u003e = (0.40/0.34) × (0.50) = 0.59 or 59%.\u003c/p\u003e\u003c/li\u003e\n\u003c/ol\u003e",
+                    "340b7359-9c2b-4dbe-b531-0d001d6166ad": "\u003cp\u003eIncorrect. 34% is the unconditional probability that Abco acquires the competitor firm: P(\u003cem\u003eAbco acquires\u003c/em\u003e) = (0.50 × 0.40) + (0.35 × 0.25) + (0.15 × 0.35) = 0.34, or 34%.\u003c/p\u003e",
+                    "dd149c0a-80ce-43fb-b9bb-24df97d82297": "\u003cp\u003eIncorrect. The updated probability was calculated in error:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e[\u003cem\u003eP\u003c/em\u003e(\u003cem\u003eAcquisition\u003c/em\u003e \u003cem\u003e \u003c/em\u003e|\u003cem\u003e \u003c/em\u003e \u003cem\u003eFCF exceeded consensus\u003c/em\u003e) × \u003cem\u003eP\u003c/em\u003e(\u003cem\u003eAcquisition\u003c/em\u003e)]/\u003cem\u003eP\u003c/em\u003e(\u003cem\u003eFCF exceeded consensus\u003c/em\u003e) = (0.40 × 0.34)/(0.50) = 0.27 or 27%\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "340b7359-9c2b-4dbe-b531-0d001d6166ad",
+                            "itemBody": "\u003cp\u003eA. 34%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1ce708b7-07e2-42ec-8706-87da3e22a8d8",
+                            "itemBody": "\u003cp\u003eB. 59%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "dd149c0a-80ce-43fb-b9bb-24df97d82297",
+                            "itemBody": "\u003cp\u003eC. 27%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8580,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4422,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {},
+    "scored_data": {
+        "points": 2,
+        "points_possible": 11
+    }
+}

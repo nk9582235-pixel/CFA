@@ -1,0 +1,817 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6011,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 12,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 10: Valuing a Derivative Using a One-Period Binomial Model",
+        "topic_id": 1037,
+        "topic": "CFA-26-02-LI-C: Derivatives",
+        "subtopic_id": 6011,
+        "subtopic": "Module 10: Valuing a Derivative Using a One-Period Binomial Model",
+        "question_count": 12,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 853,
+                "name": "Warehouse Course: Derivatives 26-LI",
+                "code": "Warehouse Course: Derivatives 26-LI",
+                "module_id": 4491,
+                "question_count": 7,
+                "type": "warehouse"
+            },
+            {
+                "id": 844,
+                "name": "Practice Pack Warehouse: Derivatives 26-LI",
+                "code": "Practice Pack Warehouse: Derivatives 26-LI",
+                "module_id": 4744,
+                "question_count": 5,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 12.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "086f3769628613b0",
+        "ordered_item_ids": [
+            "56327",
+            "56328",
+            "56329",
+            "56330",
+            "56331",
+            "51093",
+            "51094",
+            "51095",
+            "51096",
+            "51097",
+            "53934",
+            "53935",
+            "53936"
+        ],
+        "visible_item_ids": [
+            "56327",
+            "56328",
+            "56329",
+            "56330",
+            "56331",
+            "51093",
+            "51094",
+            "51095",
+            "51096",
+            "51097",
+            "53934",
+            "53935",
+            "53936"
+        ]
+    },
+    "items": [
+        {
+            "id": "56327",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Augulyte-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following factors affects the option price when using a binomial model? The:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "740d3c3e-c463-4f4e-a994-8c25124208ba"
+                },
+                "answerFeedback": {
+                    "740d3c3e-c463-4f4e-a994-8c25124208ba": "\u003cp\u003eCorrect because the value of the call option today, c\u003csub\u003e0\u003c/sub\u003e, is computed as the expected value of the option at expiration, c\u003csub\u003e1\u003c/sub\u003e\u003csup\u003eu\u003c/sup\u003e and c\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e, discounted at the risk-free rate, r. Also, this no-arbitrage derivative value established separately from investor views on risk is referred to as risk-neutral pricing.\u003c/p\u003e",
+                    "af02dea9-9104-4c24-a472-886d5db4fb9d": "\u003cp\u003eIncorrect because the value of the call option today, c\u003csub\u003e0\u003c/sub\u003e, is computed as the expected value of the option at expiration, c\u003csub\u003e1\u003c/sub\u003e\u003csup\u003eu\u003c/sup\u003e and c\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e, discounted at the risk-free rate, r. Also, this no-arbitrage derivative value established separately from investor views on risk is referred to as risk-neutral pricing.\u003c/p\u003e",
+                    "e8b6f759-fccc-41d0-b7c8-d2158a7b8c81": "\u003cp\u003eIncorrect because the value of the call option today, c\u003csub\u003e0\u003c/sub\u003e, is computed as the expected value of the option at expiration, c\u003csub\u003e1\u003c/sub\u003e\u003csup\u003eu\u003c/sup\u003e and c\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e, discounted at the risk-free rate, r. Also, only the expected volatility—that is, gross returns R\u003csup\u003eu\u003c/sup\u003e and R\u003csup\u003ed\u003c/sup\u003e—and not the expected return are required to price an option.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "740d3c3e-c463-4f4e-a994-8c25124208ba",
+                            "itemBody": "\u003cp\u003eA. risk-free rate.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "af02dea9-9104-4c24-a472-886d5db4fb9d",
+                            "itemBody": "\u003cp\u003eB. level of investors' risk aversion.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e8b6f759-fccc-41d0-b7c8-d2158a7b8c81",
+                            "itemBody": "\u003cp\u003eC. expected return of the underlying.\u0026nbsp;\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8987,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4744,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56328",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Pitrakkou-16",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about an underlying:\u003c/p\u003e\u003ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:335px\"\u003e\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:257px; max-width:257px\"\u003eCurrent price of underlying asset\u003c/td\u003e\n\u003ctd style=\"width:68px; max-width:68px; text-align:center\"\u003e$16.0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:257px; max-width:257px\"\u003eEnd of period upward price\u003c/td\u003e\n\u003ctd style=\"width:68px; max-width:68px; text-align:center\"\u003e$22.0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:257px; max-width:257px\"\u003eEnd of period downward price\u003c/td\u003e\n\u003ctd style=\"width:68px; max-width:68px; text-align:center\"\u003e$12.0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:257px; max-width:257px\"\u003eRisk-free rate\u003c/td\u003e\n\u003ctd style=\"width:68px; max-width:68px; text-align:center\"\u003e4.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\u003c/table\u003e\u003cp\u003eUsing a one-period binomial model, the risk-neutral probability of a price increase is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4469999d-5cd3-42a6-a3c1-8d9004499ba3"
+                },
+                "answerFeedback": {
+                    "021c9047-5819-471e-89e6-717af447d386": "\u003cp\u003eIncorrect because this is the expected return of an upward price move, i.e. \u003ci\u003eS\u003csub\u003e1\u003c/sub\u003e\u003csup\u003eu\u003c/sup\u003e / S\u003csub\u003e0 \u003c/sub\u003e\u003c/i\u003e– 1 = $22/$16 – 1 = 1.375 – 1 = 0.375 ≈ 0.38. Instead, the risk neutral probability is equal to 0.46, as described in the response rationale for the correct answer.\u003c/p\u003e",
+                    "2920115e-549a-4dd7-9265-f59a9844c303": "\u003cp\u003eIncorrect because this is the risk-neutral probability of a price decrease (1 − π) = 1 − 0.46 = 0.54. Instead, the risk neutral probability is equal to 0.46, as described in the response rationale for the correct answer.\u003c/p\u003e",
+                    "4469999d-5cd3-42a6-a3c1-8d9004499ba3": "\u003cp\u003eCorrect because the risk-neutral probability (\u003ci\u003eπ\u003c/i\u003e) is the computed probability used in binomial option pricing by which the discounted weighted sum of expected values of the underlying, \u003ci\u003eS\u003csub\u003e1\u003c/sub\u003e\u003csup\u003eu\u003c/sup\u003e = R\u003csup\u003eu\u003c/sup\u003eS\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e and \u003ci\u003eS\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e = R\u003csup\u003ed\u003c/sup\u003eS\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e, equal the current option price. Specifically, this probability is computed using the risk-free rate and assumed up gross return and down gross return of the underlying as in Equation 7.\u003c/p\u003e\u003cp\u003e\u003ci\u003eπ = 1 + r – R\u003csup\u003ed\u003c/sup\u003e / R\u003csup\u003eu \u003c/sup\u003e– R\u003csup\u003ed\u003c/sup\u003e\u003c/i\u003e\u003c/p\u003e\u003cp\u003eMore specifically, \u003ci\u003eπ\u003c/i\u003e, is the risk-neutral probability of an increase in the underlying price to \u003ci\u003eS\u003csub\u003e1\u003c/sub\u003e\u003csup\u003eu\u003c/sup\u003e = R\u003csup\u003eu\u003c/sup\u003eS\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e, and (1 − π) is that of a decrease, \u003ci\u003eS\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e = R\u003csup\u003ed\u003c/sup\u003eS\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e.\u003c/p\u003e\u003cp\u003eThus, An increase from $16 to $22 or a decrease from $16 to $12 corresponds to:\u003c/p\u003e\u003cp\u003eR\u003csup\u003eu\u003c/sup\u003e = $22/$16 = 1.375 and R\u003csup\u003ed\u003c/sup\u003e = $12/$16 = 0.75.\u003c/p\u003e\u003cp\u003eUsing the risk-neutral probability (π) of a price increase:\u003c/p\u003e\u003cp\u003e\u003ci\u003eπ = 1 + r – R\u003csup\u003ed\u003c/sup\u003e / R\u003csup\u003eu \u003c/sup\u003e– R\u003csup\u003ed \u003c/sup\u003e\u003c/i\u003e= (1 + 0.04 – 0.75) / (1.375 – 0.75) = 0.29/0.625\u0026nbsp;= 0.464\u0026nbsp;≈ 0.46.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "021c9047-5819-471e-89e6-717af447d386",
+                            "itemBody": "\u003cp\u003eA. 0.38.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4469999d-5cd3-42a6-a3c1-8d9004499ba3",
+                            "itemBody": "\u003cp\u003eB. 0.46.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2920115e-549a-4dd7-9265-f59a9844c303",
+                            "itemBody": "\u003cp\u003eC. 0.54.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8987,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4744,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56329",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Bangaruswamy-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll else being equal, if the up gross return increases\u0026nbsp;in a one-period binomial model, the risk-neutral probability of an upward price\u0026nbsp;movement of the\u0026nbsp;asset will:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "67461ba4-8aff-485e-ab1e-776428d48bb9"
+                },
+                "answerFeedback": {
+                    "67461ba4-8aff-485e-ab1e-776428d48bb9": "\u003cp\u003eCorrect because the\u0026nbsp;risk-neutral probability\u0026nbsp;(π) is the computed probability used in binomial option pricing by which the discounted weighted sum of expected values of the underlying,\u0026nbsp;S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003eu\u003c/sup\u003e\u0026nbsp;=\u0026nbsp;R\u003csup\u003eu\u003c/sup\u003eS\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;and\u0026nbsp;S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e\u0026nbsp;=\u0026nbsp;R\u003csup\u003ed\u003c/sup\u003eS\u003csub\u003e0\u003c/sub\u003e, equal the current option price. Specifically, this probability is computed using the risk-free rate and assumed up gross return and down gross return of the underlying as in\u0026nbsp;π=\u0026nbsp;(1+r-R\u003csub\u003ed\u003c/sub\u003e)/(R\u003csub\u003eu\u003c/sub\u003e-R\u003csub\u003ed\u003c/sub\u003e).\u0026nbsp;So,\u0026nbsp;if the up gross return increases\u0026nbsp;in a one-period binomial model, the denominator will increase. Therefore,\u0026nbsp;the risk-neutral probability of an upward price\u0026nbsp;movement of the\u0026nbsp;asset, (π),\u0026nbsp;decreases.\u003c/p\u003e",
+                    "c402e953-a249-4cfc-8029-5b6ba0c44611": "\u003cp\u003eIncorrect because the\u0026nbsp;risk-neutral probability\u0026nbsp;(π) is the computed probability used in binomial option pricing by which the discounted weighted sum of expected values of the underlying,\u0026nbsp;S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003eu\u003c/sup\u003e\u0026nbsp;=\u0026nbsp;R\u003csup\u003eu\u003c/sup\u003eS\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;and\u0026nbsp;S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e\u0026nbsp;=\u0026nbsp;R\u003csup\u003ed\u003c/sup\u003eS\u003csub\u003e0\u003c/sub\u003e, equal the current option price. Specifically, this probability is computed using the risk-free rate and assumed up gross return and down gross return of the underlying as in\u0026nbsp;π=\u0026nbsp;(1+r-R\u003csub\u003ed\u003c/sub\u003e)/(R\u003csub\u003eu\u003c/sub\u003e-R\u003csub\u003ed\u003c/sub\u003e).\u0026nbsp;So,\u0026nbsp;if the up gross return increases\u0026nbsp;in a one-period binomial model, the denominator will increase. Therefore,\u0026nbsp;the risk-neutral probability of an upward price\u0026nbsp;movement of the\u0026nbsp;asset, (π),\u0026nbsp;decreases.\u003c/p\u003e",
+                    "e00c3b4c-8972-4c10-b04a-e8b9a8159547": "\u003cp\u003eIncorrect because the\u0026nbsp;risk-neutral probability\u0026nbsp;(π) is the computed probability used in binomial option pricing by which the discounted weighted sum of expected values of the underlying,\u0026nbsp;S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003eu\u003c/sup\u003e\u0026nbsp;=\u0026nbsp;R\u003csup\u003eu\u003c/sup\u003eS\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;and\u0026nbsp;S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e\u0026nbsp;=\u0026nbsp;R\u003csup\u003ed\u003c/sup\u003eS\u003csub\u003e0\u003c/sub\u003e, equal the current option price. Specifically, this probability is computed using the risk-free rate and assumed up gross return and down gross return of the underlying as in\u0026nbsp;π=\u0026nbsp;(1+r-R\u003csub\u003ed\u003c/sub\u003e)/(R\u003csub\u003eu\u003c/sub\u003e-R\u003csub\u003ed\u003c/sub\u003e).\u0026nbsp;So,\u0026nbsp;if the up gross return increases\u0026nbsp;in a one-period binomial model, the denominator will increase. Therefore,\u0026nbsp;the risk-neutral probability of an upward price\u0026nbsp;movement of the\u0026nbsp;asset, (π),\u0026nbsp;decreases.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "67461ba4-8aff-485e-ab1e-776428d48bb9",
+                            "itemBody": "\u003cp\u003eA. decrease.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c402e953-a249-4cfc-8029-5b6ba0c44611",
+                            "itemBody": "\u003cp\u003eB. remain the same.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e00c3b4c-8972-4c10-b04a-e8b9a8159547",
+                            "itemBody": "\u003cp\u003eC. increase.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8987,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4744,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56330",
+            "entry": {
+                "title": "ITEM_Copyof2019BDeriv06HFJ08U2",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst collects\u0026nbsp;the following information:\u003c/p\u003e\u003ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:352px; margin-bottom:12px\"\u003e\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:236.51px; max-width:236.51px\"\u003eCurrent stock price\u003c/td\u003e\n\u003ctd style=\"width:105px; max-width:105px; text-align:center\"\u003e€26\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:236.51px; max-width:236.51px\"\u003eGross return from an up move\u003c/td\u003e\n\u003ctd style=\"width:105px; max-width:105px; text-align:center\"\u003e1.10\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:236.51px; max-width:236.51px\"\u003eGross return from a down move\u003c/td\u003e\n\u003ctd style=\"width:105px; max-width:105px; text-align:center\"\u003e0.75\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:236.51px; max-width:236.51px\"\u003eCall and put exercise price\u003c/td\u003e\n\u003ctd style=\"width:105px; max-width:105px; text-align:center\"\u003e€22\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\u003c/table\u003e\u003cp\u003eBased on a one-period binomial pricing model, which of the following has the largest payoff?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d38cb9a5-cb18-4f58-9909-870b1d510dbf"
+                },
+                "answerFeedback": {
+                    "aa92419d-7436-4a93-b4b5-22dc7ea788dc": "\u003cp\u003eIncorrect because the payoff of a call option following an a down move is c\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e\u0026nbsp;= Max (0, S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e\u0026nbsp;- X) where X is the exercise price and S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e\u0026nbsp;is the price after a down move. In this case, S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e\u0026nbsp;= €26(0.75) = €19.50. So, c\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e\u0026nbsp;= Max (0,€19.50 - €22) = €0, which is less than the payoff of a put option following a down move, as described in the response rationale for the correct answer.\u003c/p\u003e",
+                    "b24388bf-3984-464d-915c-bda7ebfee8a8": "\u003cp\u003eIncorrect because the payoff of a put option following an up\u0026nbsp;move\u0026nbsp;is p\u003csub\u003e1\u003c/sub\u003e\u003csup\u003eu\u003c/sup\u003e\u0026nbsp;= Max (0, X – S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003eu\u003c/sup\u003e) where X is the exercise price and S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003eu\u003c/sup\u003e\u003csup\u003e\u0026nbsp;\u003c/sup\u003eis the price after an up move. In this case, S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003eu\u003c/sup\u003e\u0026nbsp;= €26(1.10) = €28.60. So, p\u003csub\u003e1\u003c/sub\u003e\u003csup\u003eu\u003c/sup\u003e\u0026nbsp;= Max(0, €22 - €28.60) = €0, which is less than\u0026nbsp;the payoff of a put option following a down move, as described in the response rationale for the correct answer.\u0026nbsp;\u003c/p\u003e",
+                    "d38cb9a5-cb18-4f58-9909-870b1d510dbf": "\u003cp\u003eCorrect because the payoff of a put option following a down\u0026nbsp;move\u0026nbsp;is p\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e\u0026nbsp;= Max (0, X – S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e) where X is the exercise price and S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e\u003csup\u003e\u0026nbsp;\u003c/sup\u003eis the price after a\u0026nbsp;down\u0026nbsp;move. In this case, S\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e\u0026nbsp;= €26(0.75) = €19.50. So, p\u003csub\u003e1\u003c/sub\u003e\u003csup\u003ed\u003c/sup\u003e\u0026nbsp;= Max (0, €22 - €19.50) = €2.50, which is greater than the payoffs of other two responses.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b24388bf-3984-464d-915c-bda7ebfee8a8",
+                            "itemBody": "\u003cp\u003eA. Put option following an up move.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d38cb9a5-cb18-4f58-9909-870b1d510dbf",
+                            "itemBody": "\u003cp\u003eB. Put option following a down move.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "aa92419d-7436-4a93-b4b5-22dc7ea788dc",
+                            "itemBody": "\u003cp\u003eC. Call option following a down move.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8987,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4744,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56331",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Lee-17",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eRisk-neutral pricing establishes no-arbitrage option values independent of the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3e44efcb-6ed1-47d1-b782-823a0a51b541"
+                },
+                "answerFeedback": {
+                    "3e44efcb-6ed1-47d1-b782-823a0a51b541": "\u003cp\u003eCorrect because this no-arbitrage derivative value established separately from investor views on risk is referred to as\u0026nbsp;risk-neutral pricing.\u0026nbsp;Volatility generally means risk because\u0026nbsp;the expected price risk of the underlying, is known as\u0026nbsp;implied volatility.\u0026nbsp;Therefore, risk-neutral pricing establishes no-arbitrage option values independent of the\u0026nbsp;investor views on the underlying's\u0026nbsp;volatility.\u003c/p\u003e",
+                    "9f76c9f3-9f54-4454-bf04-37d153a0143e": "\u003cp\u003eIncorrect because the use of risk-neutral pricing may be applied to any model that uses future underlying asset price movements.\u0026nbsp;Therefore, risk-neutral pricing is not\u0026nbsp;independent of the underlying's spot price.\u0026nbsp;\u003c/p\u003e",
+                    "adcf7960-746b-40f3-a564-4ca083fc3ebf": "\u003cp\u003eIncorrect because the use of risk-neutral pricing\u0026nbsp;may be applied to any model that uses future underlying asset price movements. Therefore, risk-neutral pricing is not\u0026nbsp;independent of the future price of the underlying following an up or down move.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9f76c9f3-9f54-4454-bf04-37d153a0143e",
+                            "itemBody": "\u003cp\u003eA. spot price of the underlying.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3e44efcb-6ed1-47d1-b782-823a0a51b541",
+                            "itemBody": "\u003cp\u003eB. investor's views on the volatility of the underlying.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "adcf7960-746b-40f3-a564-4ca083fc3ebf",
+                            "itemBody": "\u003cp\u003eC. future price of the underlying following an up or down move.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8987,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4744,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51093",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ePrivatbank Kleinert KGaA, a private wealth manager in Munich, has a number of clients with large holdings in the German fintech firm SparCoin AG. Kleinert’s analyst is concerned about a drop in SparCoin’s share price in the next year and is recommending to clients that they consider purchasing a one-year put with an exercise price of €100. SparCoin’s spot price (\u003cem\u003eS\u003c/em\u003e\n               \u003csub\u003e0\u003c/sub\u003e) is €105.25, and it pays no dividends. The risk-free rate is 0.37%.\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8245,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4491,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51094",
+            "entry": {
+                "title": "CFA1012-s05-Q6",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. A 12% increase in the stock price gives:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003eu\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsup\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eu\u003c/mi\u003e \u003c/msup\u003e \u003cmsub\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e1.12\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e105.25\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e117.88.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe put option will expire unexercised:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003eu\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmtext\u003eMax\u003c/mtext\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmtext\u003e\u0026nbsp;\u003c/mtext\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsubsup\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003eu\u003c/mi\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmtext\u003eMax\u003c/mtext\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmtext\u003e\u0026nbsp;\u003c/mtext\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e100\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e117.88\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e0.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAlternatively, a 10% price decrease gives:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsup\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msup\u003e \u003cmsub\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.9\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e105.25\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e94.73.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe put option will pay off:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___3\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmtext\u003eMax\u003c/mtext\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmtext\u003e\u0026nbsp;\u003c/mtext\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsubsup\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmtext\u003eMax\u003c/mtext\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmtext\u003e\u0026nbsp;\u003c/mtext\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e100\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e94.73\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e5.27.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eTo price this option, the risk-neutral pricing formula gives the risk-neutral probability π as:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___4\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003eπ = (1 + 0.0037 − 0.9)/(1.12 − 0.9) = 0.47.\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe no-arbitrage price is:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___5\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eπ\u003c/mi\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmsubsup\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003eu\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003eπ\u003c/mi\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmsubsup\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___6\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cem\u003ep\u003c/em\u003e \u003csub\u003e0\u003c/sub\u003e = (0.47 × €0 + 0.53 × €5.27)/(1 + 0.0037) = €2.79/1.0037 = €2.78.\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eKleinert’s analyst estimates a 50-50 chance that the price of SparCoin will either increase by 12% or decline by 10% at the put option’s expiration date. Which of the following statements best describes the no-arbitrage option price implied by this assumption?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e66f6508-b8f7-43e7-9c28-c5db4f89b89c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fb5038e0-e652-4772-b1f7-3e53c29d3325",
+                            "itemBody": "A. Since there is a 50% chance that the stock will fall to €94.73, there is a 50-50 chance of a €5.27 payout upon exercise and the no-arbitrage put is therefore worth €2.64 (= €5.27 / 2).",
+                            "position": 1
+                        },
+                        {
+                            "id": "d42c1db3-9607-42b0-80a6-1b573bff6543",
+                            "itemBody": "B. Since there is a 50% chance that the stock will fall to €94.73, there is a 50-50 chance of a €5.27 payout upon exercise and given the risk-neutral probability of 0.47, the no-arbitrage put price is €2.48 (= €5.27 × 0.47).",
+                            "position": 2
+                        },
+                        {
+                            "id": "e66f6508-b8f7-43e7-9c28-c5db4f89b89c",
+                            "itemBody": "C. Since there is a 50% chance that the stock will fall to €94.73 and the risk-neutral probability is 0.47, the no-arbitrage put price is €2.78 (= €5.27 × {[1 – 0.47]/1.0037}).",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8245,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4491,
+            "stimulusQuizEntryId": "51093"
+        },
+        {
+            "id": "51095",
+            "entry": {
+                "title": "CFA1012-s05-Q7",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. If the put option can be purchased for less than the no-arbitrage price, then a potential arbitrage opportunity is available. In this case, Kleinert’s clients should purchase the underpriced put option and buy \u003cem\u003eh\u003c/em\u003e* units of SparCoin’s stock. The hedge ratio, \u003cem\u003eh\u003c/em\u003e*, is calculated as:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___7\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmi\u003eh\u003c/mi\u003e \u003cmo\u003e*\u003c/mo\u003e \u003c/msup\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003eu\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsubsup\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003eu\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsubsup\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e5.27\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e117.88\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e94.73\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e5.27\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e23.15\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e0.2276.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eNote that the negative hedge ratio implies that both the put option and underlying are purchased or sold to create a hedge. This initial purchase of the put option and stock will cost:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___8\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e€2.50 + 0.2276 × €105.25 = €26.45.\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eShould the stock price decrease, the value of this portfolio will be:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___9\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsubsup\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsup\u003e \u003cmi\u003eh\u003c/mi\u003e \u003cmo\u003e*\u003c/mo\u003e \u003c/msup\u003e \u003cmsubsup\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsubsup\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.2276\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e94.73\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e5.27\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e26.83.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe strategy generates a risk-free return of (€26.83 – €26.45)/€26.45 = 1.44%, which is greater than the 0.37% return on other available risk-free investments.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf Kleinert’s clients observe that the one-year put option with a €100 exercise price is trading at €2.50, which of the following statements best describes how Kleinert’s clients could take advantage of this to earn a risk-free return greater than 0.37% over the year.\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5f1ae165-81d0-458e-98b9-a07bd9f37722"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5f1ae165-81d0-458e-98b9-a07bd9f37722",
+                            "itemBody": "A. Kleinert should purchase the put option and also purchase approximately 0.23 shares per option to match the hedge ratio.",
+                            "position": 1
+                        },
+                        {
+                            "id": "b121b45e-436b-4a0d-99f3-69cb2dec5d1f",
+                            "itemBody": "B. Kleinert should purchase the put option and purchase 50% of the underlying shares given the 50-50 chance the stock will fall and the put option exercised.",
+                            "position": 2
+                        },
+                        {
+                            "id": "64faf98e-ffd5-4e6d-9bbf-5a214ca4d111",
+                            "itemBody": "C. Kleinert should purchase the put option and purchase 47% of the underlying shares to match the risk-neutral probability of put exercise.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8245,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4491,
+            "stimulusQuizEntryId": "51093"
+        },
+        {
+            "id": "51096",
+            "entry": {
+                "title": "CFA1012-s05-Q8",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. Rising interest rates reduce the value of a put option. Increasing the risk-free rate will increase the risk-neutral probability of a price increase π and decrease the present value of the expected option payoff. Since the value of a put option is inversely related to the price of the underlying asset, an increased probability of an upward price move will reduce the expected payoff from the put. Consequently, both of these effects will reduce the put option value as the return on risk-free investments increases.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf risk-free investments yielded a higher return over the next year, which of the following statements best describes how this would affect the no-arbitrage value of the put option on SparCoin shares?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a8aab079-3c82-434e-8d87-6ffad9451824"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fa9dcd4a-ceb6-4e40-91a4-d491402e5b7f",
+                            "itemBody": "\u003cp\u003eA. An increase in the risk-free rate will have \u003cem\u003eno effect\u003c/em\u003e on SparCoin’s put option price, as it is solely a function of the probability and degree of share price increase or decrease upon option expiration.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "febab5a3-1611-481b-8f2d-8001ce4c6c2e",
+                            "itemBody": "\u003cp\u003eB. An increase in the risk-free rate will \u003cem\u003eincrease \u003c/em\u003ethe value of the put option, as it will increase the risk-neutral probability of a price decline.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a8aab079-3c82-434e-8d87-6ffad9451824",
+                            "itemBody": "\u003cp\u003eC. An increase in the risk-free rate will \u003cem\u003edecrease \u003c/em\u003ethe value of the put option, as it will both increase the risk-neutral probability of a price increase π and decrease the present value of the expected option payoff.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8245,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4491,
+            "stimulusQuizEntryId": "51093"
+        },
+        {
+            "id": "51097",
+            "entry": {
+                "title": "CFA1012-s05-Q9",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. A 24% (previously 12%) increase in the stock price gives:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___10\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003eu\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsup\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003eu\u003c/mi\u003e \u003c/msup\u003e \u003cmsub\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e1.24\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e105.25\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e130.51.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe put option will expire unexercised:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___11\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003eu\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmtext\u003eMax\u003c/mtext\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmtext\u003e\u0026nbsp;\u003c/mtext\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsubsup\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003eu\u003c/mi\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmtext\u003eMax\u003c/mtext\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmtext\u003e\u0026nbsp;\u003c/mtext\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e100.00\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e130.51\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e0.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAlternatively, a 20% (previously 10%) decrease gives:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___12\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsup\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msup\u003e \u003cmsub\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.8\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e105.25\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e84.20.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe put option will pay off:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___13\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsubsup\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmtext\u003eMax\u003c/mtext\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmtext\u003e\u0026nbsp;\u003c/mtext\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsubsup\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmtext\u003eMax\u003c/mtext\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmtext\u003e\u0026nbsp;\u003c/mtext\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e100\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e84.20\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e15.80.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eTo price this option, the risk-neutral pricing formula gives the risk-neutral probability as:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___14\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003eπ = (1 + 0.0037 − 0.8)/(1.24 − 0.8) = 0.46.\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe no-arbitrage price is:\u003c/p\u003e\n\u003cdiv id=\"CFA1012-s05-E-2-___15\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eπ\u003c/mi\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmsubsup\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003eu\u003c/mi\u003e \u003c/msubsup\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003eπ\u003c/mi\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmsubsup\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/msubsup\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.46\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.54\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e15.80\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e0.0037\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e8.53\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1.0037\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003e€\u003c/mi\u003e \u003cmn\u003e8.50.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf the expected percentage increase and decrease in SparCoin’s share price were to \u003cem\u003edouble\u003c/em\u003e, which of the following is the closest estimate of the one-year put option price with an exercise price of €100?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "296cf0b4-0810-4b6c-b570-e47405e045f8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a90efff9-ff88-4dd5-9e6a-3fbea3d7ccd7",
+                            "itemBody": "A. The one-year put option price will rise to €7.90.",
+                            "position": 1
+                        },
+                        {
+                            "id": "296cf0b4-0810-4b6c-b570-e47405e045f8",
+                            "itemBody": "B. The one-year put option price will rise to €8.50.",
+                            "position": 2
+                        },
+                        {
+                            "id": "7e0138e7-f243-40d3-9782-649222591345",
+                            "itemBody": "C. The one-year put option price will rise to €7.40.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8245,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4491,
+            "stimulusQuizEntryId": "51093"
+        },
+        {
+            "id": "53934",
+            "entry": {
+                "title": "ITEM_20170601027",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhen valuing a call option using the binomial model, an increase in the probability that the underlying will go up \u003ci\u003emost likely\u003c/i\u003e implies that the current price of the call option:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "00af1a9d-c515-4552-8d68-8c53bb340c3c"
+                },
+                "answerFeedback": {
+                    "00af1a9d-c515-4552-8d68-8c53bb340c3c": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The probability that the underlying will go up is not part of the binomial model for pricing options. This probability is irrelevant because the options are priced using risk-neutral probabilities. These are derived by constructing a hedged portfolio in the absence of arbitrage opportunities.\u003c/p\u003e",
+                    "4cebad99-d74d-4a96-8e18-af8724bf8498": "\u003cp\u003eIncorrect. The probability that the underlying will go up is not part of the binomial model for pricing options and hence does not influence the value of the call option.\u003c/p\u003e",
+                    "55a8424b-78b2-44fe-babd-bba95aba0582": "\u003cp\u003eIncorrect. The probability that the underlying will go up is not part of the binomial model for pricing options and hence does not influence the value of the call option.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4cebad99-d74d-4a96-8e18-af8724bf8498",
+                            "itemBody": "\u003cp\u003eA. increases.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "00af1a9d-c515-4552-8d68-8c53bb340c3c",
+                            "itemBody": "\u003cp\u003eB. remains unchanged.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "55a8424b-78b2-44fe-babd-bba95aba0582",
+                            "itemBody": "\u003cp\u003eC. decreases.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8700,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4491,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53935",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.08-Deriv-Hambusch-23",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor expects an underlying to go up or down by 25% over the next year. If the risk-free rate is 5%,\u0026nbsp;the risk-neutral probability of a decrease\u0026nbsp;in the underlying price is \u003ci\u003eclosest\u003c/i\u003e\u0026nbsp;to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8b7c3197-a8e1-4bc5-aed3-961a5002d4c0"
+                },
+                "answerFeedback": {
+                    "6e48064c-d003-4b27-b4f0-7b9f1a1aa76a": "\u003cp\u003eIncorrect because 0.25 is simply the expected reduction in percent (down move) of the underlying after one year. Instead, the risk-neutral probability (π) is the computed probability used in binomial option pricing with π = (1 + r – R\u003csup\u003ed\u003c/sup\u003e) / (R\u003csup\u003eu\u0026nbsp;\u003c/sup\u003e–\u0026nbsp;R\u003csup\u003ed\u003c/sup\u003e), where π is the risk-neutral probability of an increase in the underlying price, r is the risk-free rate and\u0026nbsp;R\u003csup\u003ed\u003c/sup\u003e and R\u003csup\u003eu\u003c/sup\u003e\u0026nbsp;represent\u0026nbsp;the underlying asset volatility, i.e., expected up and down moves of the underlying after the period. Here, r = 0.05,\u0026nbsp;R\u003csup\u003eu\u003c/sup\u003e\u0026nbsp;is (1 + 0.25) = 1.25 and R\u003csup\u003ed\u003c/sup\u003e\u0026nbsp;is (1\u0026nbsp;– 0.25) = 0.75. Substituting in yields (1 + 0.05\u0026nbsp;– 0.75) / (1.25 – 0.75) = 0.60. Since\u0026nbsp;the risk-neutral probability of a \u003ci\u003edecrease\u003c/i\u003e\u0026nbsp;in the underlying price is 1 –\u0026nbsp;π\u0026nbsp;we get 1\u0026nbsp;– 0.60 = 0.40.\u003c/p\u003e",
+                    "8b7c3197-a8e1-4bc5-aed3-961a5002d4c0": "\u003cp\u003eCorrect because the risk-neutral probability (π) is the computed probability used in binomial option pricing\u0026nbsp;with π = (1 + r\u0026nbsp;– R\u003csup\u003ed\u003c/sup\u003e) / (R\u003csup\u003eu\u0026nbsp;–\u0026nbsp;\u003c/sup\u003eR\u003csup\u003ed\u003c/sup\u003e), where π is the risk-neutral probability of an increase in the underlying price, r is the risk-free rate and\u0026nbsp;R\u003csup\u003ed\u003c/sup\u003e and R\u003csup\u003eu\u003c/sup\u003e\u0026nbsp;represent\u0026nbsp;the underlying asset volatility, i.e., expected up and down moves of the underlying after the period. Here, r = 0.05,\u0026nbsp;R\u003csup\u003eu\u003c/sup\u003e\u0026nbsp;is (1 + 0.25)=1.25 and R\u003csup\u003ed\u003c/sup\u003e\u0026nbsp;is (1\u0026nbsp;– 0.25) = 0.75. Substituting in yields (1 + 0.05\u0026nbsp;– 0.75) / (1.25\u0026nbsp;– 0.75) = 0.60. Since\u0026nbsp;the risk-neutral probability of a \u003ci\u003edecrease\u003c/i\u003e\u0026nbsp;in the underlying price is 1\u0026nbsp;– π\u0026nbsp;we get 1\u0026nbsp;– 0.60 = 0.40.\u003c/p\u003e",
+                    "9d2d0968-6b14-4e23-95b0-25c29cd12d29": "\u003cp\u003eIncorrect because 0.60 is the risk-neutral probability of an increase in the underlying price, not decrease. The risk-neutral probability (π) is the computed probability used in binomial option pricing with π = (1 + r\u0026nbsp;– R\u003csup\u003ed\u003c/sup\u003e) / (R\u003csup\u003eu\u0026nbsp;–\u0026nbsp;\u003c/sup\u003eR\u003csup\u003ed\u003c/sup\u003e), where π is the risk-neutral probability of an increase in the underlying price, r is the risk-free rate and\u0026nbsp;R\u003csup\u003ed\u003c/sup\u003e and R\u003csup\u003eu\u003c/sup\u003e\u0026nbsp;represent\u0026nbsp;the underlying asset volatility, i.e., expected up and down moves of the underlying after the period. Here, r = 0.05,\u0026nbsp;R\u003csup\u003eu\u003c/sup\u003e\u0026nbsp;is (1 + 0.25)=1.25 and R\u003csup\u003ed\u003c/sup\u003e\u0026nbsp;is (1\u0026nbsp;– 0.25) = 0.75. Substituting in yields (1 + 0.05\u0026nbsp;– 0.75) / (1.25\u0026nbsp;– 0.75) = 0.60. Since\u0026nbsp;the risk-neutral probability of a \u003ci\u003edecrease\u003c/i\u003e\u0026nbsp;in the underlying price is 1\u0026nbsp;– π\u0026nbsp;we get 1\u0026nbsp;– 0.60 = 0.40.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6e48064c-d003-4b27-b4f0-7b9f1a1aa76a",
+                            "itemBody": "\u003cp\u003eA. 0.25.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8b7c3197-a8e1-4bc5-aed3-961a5002d4c0",
+                            "itemBody": "\u003cp\u003eB. 0.40.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9d2d0968-6b14-4e23-95b0-25c29cd12d29",
+                            "itemBody": "\u003cp\u003eC. 0.60.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8700,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4491,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53936",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-Deriv-Blasky-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eMost derivatives pricing models are established on the foundation that:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d7c72ca8-afc3-4d46-ae67-0a16597be2cc"
+                },
+                "answerFeedback": {
+                    "16df2421-fb67-4504-80d7-5ccdaa7a71bc": "\u003cp\u003eIncorrect because the law of one price can be used to value a derivative security since there is a one-to-one relationship between the derivative and its underlying asset at maturity. Further, the one-period binomial model determines the value of a derivative using the underlying's price at t = 0 as an input for the calculation. For example, the price of a call option is c\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;= h x S\u003csub\u003e0\u003c/sub\u003e –\u0026nbsp;V\u003csub\u003e1\u003c/sub\u003e(1 + r)\u003csup\u003e–\u003c/sup\u003e\u003csup\u003e1\u003c/sup\u003e,\u0026nbsp;where c\u003csub\u003e0\u003c/sub\u003e is the call option value at t = 0 and S\u003csub\u003e0\u003c/sub\u003e is the price of the underlying at t = 0. Therefore, the price of the underlying asset is not inferred when determining the derivative's price. Instead, the price of the underlying asset is considered a given and used as an input in the calculation.\u003c/p\u003e",
+                    "446d47fc-e629-488f-804c-14de0398e475": "\u003cp\u003eIncorrect\u0026nbsp;because the principle of no arbitrage and replication can be used to value and price derivatives. In other words, arbitrage opportunities can be exploited using derivatives, but for the pricing of derivatives the no-arbitrage condition is assumed to hold, i.e., no arbitrage opportunities exist.\u003c/p\u003e",
+                    "d7c72ca8-afc3-4d46-ae67-0a16597be2cc": "\u003cp\u003eCorrect because the law of one price can be used to value a derivative security since there is a one-to-one relationship between the derivative and its underlying asset at maturity.\u0026nbsp;Therefore, there exists only one price for each derivative.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "446d47fc-e629-488f-804c-14de0398e475",
+                            "itemBody": "\u003cp\u003eA. arbitrage opportunities exist.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d7c72ca8-afc3-4d46-ae67-0a16597be2cc",
+                            "itemBody": "\u003cp\u003eB. only one price for a derivative exists.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "16df2421-fb67-4504-80d7-5ccdaa7a71bc",
+                            "itemBody": "\u003cp\u003eC. the underlying asset price is inferred to determine the derivative price.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8700,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4491,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

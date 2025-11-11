@@ -1,0 +1,914 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6131,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 14,
+    "hidden_question_count": 0,
+    "points": 2,
+    "points_possible": 14,
+    "correct_questions_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 11: Introduction to Big Data Techniques",
+        "topic_id": 1031,
+        "topic": "CFA-26-02-LI-C: Quantitative Methods",
+        "subtopic_id": 6131,
+        "subtopic": "Module 11: Introduction to Big Data Techniques",
+        "question_count": 14,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 799,
+                "name": "Warehouse Course: Quantitative Methods 26-LI",
+                "code": "Warehouse Course: Quantitative Methods 26-LI",
+                "module_id": 4427,
+                "question_count": 9,
+                "type": "warehouse"
+            },
+            {
+                "id": 838,
+                "name": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "code": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "module_id": 4632,
+                "question_count": 5,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 14.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "26416256e6801f49",
+        "ordered_item_ids": [
+            "54472",
+            "54473",
+            "54474",
+            "54475",
+            "54476",
+            "53113",
+            "53114",
+            "53115",
+            "53558",
+            "53559",
+            "53560",
+            "53561",
+            "53562",
+            "53563"
+        ],
+        "visible_item_ids": [
+            "53113",
+            "53114",
+            "53115",
+            "53558",
+            "53559",
+            "53560",
+            "53561",
+            "53562",
+            "53563",
+            "54472",
+            "54473",
+            "54474",
+            "54475",
+            "54476"
+        ]
+    },
+    "items": [
+        {
+            "id": "54472",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-PM-Glover-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost likely\u003c/i\u003e used to detect sentiment shifts in an analyst's commentary?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c8eebb76-db75-430e-ab5c-dcb03a122d9d"
+                },
+                "answerFeedback": {
+                    "9e6d381f-7667-4b27-8115-75ebf8d353a5": "\u003cp\u003eIncorrect because tokenization is the process of representing ownership rights to physical assets on a blockchain or distributed ledger.\u0026nbsp;It is not able to detect\u0026nbsp;shifts in an analyst's sentiment.\u003c/p\u003e",
+                    "a91791a9-4ff2-49d1-88db-ba9aba832cff": "\u003cp\u003eIncorrect because data curation refers to the process of ensuring data quality and accuracy through a data cleaning exercise. This process consists of reviewing all data to detect and uncover data errors—bad or inaccurate data—and making adjustments for missing data when appropriate. While the data used for natural language processing may need to be curated, it is not, in of itself, able to detect shifts in an analyst's sentiment.\u003c/p\u003e",
+                    "c8eebb76-db75-430e-ab5c-dcb03a122d9d": "\u003cp\u003eCorrect because NLP [natural language processing] may be used to monitor analyst commentary to aid investment decision making. Since analysts tend not to change their buy, hold, and sell recommendations for a company frequently, they may instead offer nuanced commentary without making a change in their investment recommendation. NLP can, therefore, be used to detect, monitor, and tag shifts in sentiment, potentially ahead of an analyst's recommendation change.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9e6d381f-7667-4b27-8115-75ebf8d353a5",
+                            "itemBody": "\u003cp\u003eA. Tokenization\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a91791a9-4ff2-49d1-88db-ba9aba832cff",
+                            "itemBody": "\u003cp\u003eB. Data curation\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c8eebb76-db75-430e-ab5c-dcb03a122d9d",
+                            "itemBody": "\u003cp\u003eC. Natural language processing\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8781,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4632,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54473",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Tsependa-13",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe failure of machine learning models to accurately predict outcomes can be the result of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "267a8208-6e3f-4c73-8c19-fe7396c2685a"
+                },
+                "answerFeedback": {
+                    "267a8208-6e3f-4c73-8c19-fe7396c2685a": "\u003cp\u003eCorrect because an ML model that has been overfitted is not able to accurately predict outcomes using a different dataset and may be too complex.\u0026nbsp;Also, underfitted models will typically fail to fully discover patterns that underlie the data\u0026nbsp;and thus may\u0026nbsp;not be able to accurately predict outcomes.\u003c/p\u003e",
+                    "bad9238d-f28f-4c5a-80d1-211c16216e9b": "\u003cp\u003eIncorrect because underfitting also results in this problem. Underfitted models will typically fail to fully discover patterns that underlie the data\u0026nbsp;and thus may\u0026nbsp;not be able to accurately predict outcomes. ML involves splitting the dataset into three distinct subsets: a training dataset, a validation dataset, and a test dataset. Once an algorithm has been trained, validated, and tested, the ML model can be used to predict outcomes based on other datasets. ML models also require sufficiently large amounts of data and may not perform well where there may not be enough available data to train and validate the model.\u003c/p\u003e",
+                    "bd807c40-ba5f-42f1-9e56-42b8cf45fb74": "\u003cp\u003eIncorrect because overfitting also results in this problem. An ML model that has been overfitted is not able to accurately predict outcomes using a different dataset and may be too complex.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bad9238d-f28f-4c5a-80d1-211c16216e9b",
+                            "itemBody": "\u003cp\u003eA. overfitting, but not underfitting.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "bd807c40-ba5f-42f1-9e56-42b8cf45fb74",
+                            "itemBody": "\u003cp\u003eB. underfitting, but not overfitting.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "267a8208-6e3f-4c73-8c19-fe7396c2685a",
+                            "itemBody": "\u003cp\u003eC. either overfitting or underfitting.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8781,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4632,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54474",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Gottschalk-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn its broadest sense, fintech is \u003ci\u003ebest \u003c/i\u003edescribed as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "634c9d53-641e-4ebc-ae71-41a3d72a57e4"
+                },
+                "answerFeedback": {
+                    "634c9d53-641e-4ebc-ae71-41a3d72a57e4": "\u003cp\u003eCorrect because in its broadest sense, the term 'fintech' generally refers to technology-driven innovation occurring in the financial services industry. For the purposes of this reading, \u003cb\u003efintech\u003c/b\u003e refers to technological innovation in the design and delivery of financial services and products. Note, however, that in common usage, fintech can also refer to companies (often new, startup companies) involved in developing the new technologies and their applications, as well as the business sector that comprises such companies.\u003c/p\u003e",
+                    "7b0eab9e-0adb-43ee-82e4-53f224d517dc": "\u003cp\u003eIncorrect because the term Big Data has been in use since the late 1990s and refers to the vast amount of data being generated by industry, governments, individuals, and electronic devices.\u0026nbsp;The term fintech is much broader.\u003c/p\u003e",
+                    "928b9d6c-32d4-4ad3-a0b2-07f52107b433": "\u003cp\u003eIncorrect because automated trading, not fintech, refers to executing investment decisions through computer algorithms or automated trading applications.\u0026nbsp;The term fintech is much broader.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7b0eab9e-0adb-43ee-82e4-53f224d517dc",
+                            "itemBody": "\u003cp\u003eA. the vast amount of data being generated by the financial services industry.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "928b9d6c-32d4-4ad3-a0b2-07f52107b433",
+                            "itemBody": "\u003cp\u003eB. the execution of investment strategies through computer-generated algorithms.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "634c9d53-641e-4ebc-ae71-41a3d72a57e4",
+                            "itemBody": "\u003cp\u003eC. technological innovation in the design and delivery of financial services and products.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8781,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4632,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54475",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-PM-Conover-13",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration\"\u003eWith respect to Big Data, which of the following is \u003ci\u003emost likely\u003c/i\u003e classified as alternative data?\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "62f4bd35-11b7-4b6b-abed-7abcd4e4e592"
+                },
+                "answerFeedback": {
+                    "62f4bd35-11b7-4b6b-abed-7abcd4e4e592": "\u003cp\u003eCorrect because Big Data includes data generated from traditional sources—such as stock exchanges, companies, and governments—as well as non-traditional data types, also known as \u003cb\u003ealternative data\u003c/b\u003e, arising from the use of electronic device.\u0026nbsp; As the internet and the presence of such networked devices have grown, the use of non-traditional data sources, or alternative data sources—including social media (posts, tweets, and blogs), email and text communications and other electronic information sources—has risen.\u003c/p\u003e",
+                    "90af4aef-851d-4ad8-a0d6-a0432fd2268e": "\u003cp\u003eIncorrect because Big Data includes data generated from traditional sources—such as stock exchanges, companies, and governments—as well as non-traditional data types, also known as \u003cb\u003ealternative data\u003c/b\u003e, arising from the use of electronic devices.\u0026nbsp;Traditional data sources include corporate data in the form of regulatory filings.\u0026nbsp;\u003c/p\u003e",
+                    "a7b2a489-0193-49c8-949d-b38ed0137ef2": "\u003cp\u003eIncorrect becausee Big Data includes data generated from traditional sources—such as stock exchanges, companies, and governments—as well as non-traditional data types, also known as \u003cb\u003ealternative data\u003c/b\u003e, arising from the use of electronic devices.\u0026nbsp;Traditional data sources include corporate data in the form of regulatory filings.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "62f4bd35-11b7-4b6b-abed-7abcd4e4e592",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA. Email communication data\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "90af4aef-851d-4ad8-a0d6-a0432fd2268e",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eB. Corporate regulatory filings\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a7b2a489-0193-49c8-949d-b38ed0137ef2",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eC. Data from derivative markets\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8781,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4632,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54476",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Croitoru-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is the \u003ci\u003emost \u003c/i\u003erecent advancement in fintech? Applications\u0026nbsp;that can:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "73b66b12-a57e-438f-9204-4aa59b8a71e9"
+                },
+                "answerFeedback": {
+                    "08977483-4fa1-4159-b2ee-89193bd8dfd4": "\u003cp\u003eIncorrect because early forms of\u0026nbsp;fintech included data processing and the automation of routine tasks.\u0026nbsp;Fintech has since advanced into decision-making applications based on complex machine-learning logic, where computer programs are able to 'learn'\u0026nbsp;how to complete tasks over time.\u0026nbsp;Thus, it was earlier forms of fintech that included data processing,\u0026nbsp;not advanced forms of fintech.\u0026nbsp;\u003c/p\u003e",
+                    "73b66b12-a57e-438f-9204-4aa59b8a71e9": "\u003cp\u003eCorrect because early forms of\u0026nbsp;fintech included data processing and the automation of routine tasks. Fintech has since advanced into decision-making applications based on complex machine-learning logic, where computer programs are able to 'learn'\u0026nbsp;how to complete tasks over time.\u0026nbsp;Thus, advanced forms of fintech include applications that are capable of decision-making.\u003c/p\u003e",
+                    "879adfd8-3b9b-4b55-add4-aefc78885354": "\u003cp\u003eIncorrect because early forms of\u0026nbsp;fintech included data processing and the automation of routine tasks.\u0026nbsp;Fintech has since advanced into decision-making applications based on complex machine-learning logic, where computer programs are able to 'learn'\u0026nbsp;how to complete tasks over time.\u0026nbsp;Thus, it was earlier forms of fintech that included data processing,\u0026nbsp;not advanced forms of fintech.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "879adfd8-3b9b-4b55-add4-aefc78885354",
+                            "itemBody": "\u003cp\u003eA. process data\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "08977483-4fa1-4159-b2ee-89193bd8dfd4",
+                            "itemBody": "\u003cp\u003eB. automate tasks\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "73b66b12-a57e-438f-9204-4aa59b8a71e9",
+                            "itemBody": "\u003cp\u003eC. make decisions\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8781,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4632,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53113",
+            "entry": {
+                "title": "CFA2409-R-s02-Q1",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Big Data is collected from many different sources and is in a variety of formats, including structured data (e.g., SQL tables), semistructured data (e.g., HTML code), and unstructured data (e.g., video messages).\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA characteristic of Big Data is that:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "87ab4e52-8139-4e46-a523-4c9556da79e7"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "87ab4e52-8139-4e46-a523-4c9556da79e7",
+                            "itemBody": "A. it involves formats with diverse structures.",
+                            "position": 1
+                        },
+                        {
+                            "id": "0592cfe2-6b78-469b-87f6-3d6bd71e4928",
+                            "itemBody": "B. one of its traditional sources is business processes.",
+                            "position": 2
+                        },
+                        {
+                            "id": "87cd252e-5e0b-497c-a955-1af94da7e484",
+                            "itemBody": "C. real-time communication of it is uncommon due to vast content.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7977,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4427,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53114",
+            "entry": {
+                "title": "CFA2409-R-s03-Q1",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Overfitting occurs when the ML model learns the input and target dataset too precisely. In this case, the model has been “overtrained” on the data and is treating noise in the data as true parameters. An ML model that has been overfitted is not able to accurately predict outcomes using a different dataset and might be too complex.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements is true in the use of ML:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d93a30df-e471-4b3e-83df-b3b193e2d082"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1a7d4eb2-e1d8-4b3c-b6d4-9dd3f33b9f45",
+                            "itemBody": "A. some techniques are termed “black box” due to data biases.",
+                            "position": 1
+                        },
+                        {
+                            "id": "14874116-1b9d-4193-bf9e-5d90de474840",
+                            "itemBody": "B. human judgment is not needed because algorithms continuously learn from data.",
+                            "position": 2
+                        },
+                        {
+                            "id": "d93a30df-e471-4b3e-83df-b3b193e2d082",
+                            "itemBody": "C. training data can be learned too precisely, resulting in inaccurate predictions when used with different datasets.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7977,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4427,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53115",
+            "entry": {
+                "title": "CFA2409-R-s04-Q1",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Through the text analytics application of NLP, models using NLP analysis might incorporate non-traditional information to evaluate what people are saying—through their preferences, opinions, likes, or dislikes— in an attempt to identify trends and short-term indicators—for example, about a company, a stock, or an economic event—to forecast coming trends that may affect investment performance in the future.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eText analytics is appropriate for application to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9103e096-bba0-4305-933f-a87b693cf6af"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "79d2d905-62ba-438e-ae41-ac012255e1b9",
+                            "itemBody": "A. large, structured datasets.",
+                            "position": 1
+                        },
+                        {
+                            "id": "9faa3053-2206-4f3e-bd12-a06e39e1d1d4",
+                            "itemBody": "B. public but not private information.",
+                            "position": 2
+                        },
+                        {
+                            "id": "9103e096-bba0-4305-933f-a87b693cf6af",
+                            "itemBody": "C. identifying possible short-term indicators of coming trends.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7977,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4427,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53558",
+            "entry": {
+                "title": "ITEM_20190531031",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e“Fintech” is \u003ci\u003ebest\u003c/i\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9a05e902-7aff-446a-9bb0-ab7404acd619"
+                },
+                "answerFeedback": {
+                    "50ff2c29-9722-48b8-92f1-ac2801010bac": "\u003cp\u003eIncorrect. The collection of large quantities of data from a variety of sources in multiple formats is the description of big data.\u003c/p\u003e",
+                    "91444d99-3bbe-47af-ba37-0dd49b93779e": "\u003cp\u003eIncorrect. The use of technical models to describe patterns in financial markets and make trading decisions is the description of technical analysis.\u003c/p\u003e",
+                    "9a05e902-7aff-446a-9bb0-ab7404acd619": "\u003cp\u003eCorrect. In its broadest sense, the term “fintech” generally refers to technology-driven innovation occurring in the financial service industry.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9a05e902-7aff-446a-9bb0-ab7404acd619",
+                            "itemBody": "\u003cp\u003eA. technology-driven innovation in the financial service industry.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "50ff2c29-9722-48b8-92f1-ac2801010bac",
+                            "itemBody": "\u003cp\u003eB. the collection of large quantities of financial data from a variety of sources in multiple formats.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "91444d99-3bbe-47af-ba37-0dd49b93779e",
+                            "itemBody": "\u003cp\u003eC. the use of technical models to describe patterns in financial markets and make trading decisions.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8576,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4427,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53559",
+            "entry": {
+                "title": "ITEM_20190531032",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst creating a dataset composed largely of product reviews would \u003ci\u003emost likely\u003c/i\u003e classify the data sources as generated by:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f0a8cbe4-aa0a-45f5-a412-4f7185f8b978"
+                },
+                "answerFeedback": {
+                    "6dcf9789-4780-4e64-9960-6409dbcb90d5": "\u003cp\u003eIncorrect. Data from sensors would most likely be generated by satellites, geolocation, and connected devices and would not include product reviews.\u003c/p\u003e",
+                    "da5f825f-2de6-4715-b9d1-be21ccfdb573": "\u003cp\u003eIncorrect. Data from business processes would most likely be transactional or corporate in nature.\u003c/p\u003e",
+                    "f0a8cbe4-aa0a-45f5-a412-4f7185f8b978": "\u003cp\u003eCorrect. Product reviews would most likely come from individual sources.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6dcf9789-4780-4e64-9960-6409dbcb90d5",
+                            "itemBody": "\u003cp\u003eA. sensors.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f0a8cbe4-aa0a-45f5-a412-4f7185f8b978",
+                            "itemBody": "\u003cp\u003eB. individuals.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "da5f825f-2de6-4715-b9d1-be21ccfdb573",
+                            "itemBody": "\u003cp\u003eC. business processes.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8576,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4427,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53560",
+            "entry": {
+                "title": "ITEM_20190531033",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following errors would \u003ci\u003emost likely\u003c/i\u003e be a result of overfitting a machine learning model?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "afb6005f-a0e3-483e-8aa5-b18c0157bee6"
+                },
+                "answerFeedback": {
+                    "afb6005f-a0e3-483e-8aa5-b18c0157bee6": "\u003cp\u003eCorrect. Overfitting a model can lead to the discovery of unsubstantiated patterns that lead to prediction errors and incorrect output forecasts.\u003c/p\u003e",
+                    "e4cf28b7-67e9-4a1b-bbaf-8b3ef97459d3": "\u003cp\u003eIncorrect. The development of a predictive model that treats true parameters as if they are noise is most likely a result of underfitting the model.\u003c/p\u003e",
+                    "f121c9f2-b73d-45eb-b19e-49de4b4e79df": "\u003cp\u003eIncorrect. The inability to recognize relationships within the training data most likely results from underfitting the model.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f121c9f2-b73d-45eb-b19e-49de4b4e79df",
+                            "itemBody": "\u003cp\u003eA. Inability to recognize relationships within the training data\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e4cf28b7-67e9-4a1b-bbaf-8b3ef97459d3",
+                            "itemBody": "\u003cp\u003eB. A predictive model that treats true parameters as if they are noise\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "afb6005f-a0e3-483e-8aa5-b18c0157bee6",
+                            "itemBody": "\u003cp\u003eC. The discovery of unsubstantiated patterns that lead to prediction errors\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8576,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4427,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53561",
+            "entry": {
+                "title": "ITEM_20190531034",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements \u003ci\u003ebest\u003c/i\u003e describes a potential concern for clients using robo-advisers? Robo-advisers:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c785377c-f271-421f-b644-815555a0d369"
+                },
+                "answerFeedback": {
+                    "65716a10-ba7f-4d49-a8c1-0883a18e7a67": "\u003cp\u003eIncorrect. It is an advantage to clients that robo-advisers must be registered as investment advisers, because they are subject to guidance from the securities regulator of their country.\u003c/p\u003e",
+                    "9d9cdd7d-b798-49df-831a-35018b3b906c": "\u003cp\u003eIncorrect. It is an advantage to clients that robo-advisers must be held to a similar code of conduct as other investment professionals in the given region.\u003c/p\u003e",
+                    "c785377c-f271-421f-b644-815555a0d369": "\u003cp\u003eCorrect. Initial research has shown that robo-advisers do not seem to incorporate the full range of investment information into their recommendations, meaning that important points may be missing in investment decisions.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "65716a10-ba7f-4d49-a8c1-0883a18e7a67",
+                            "itemBody": "\u003cp\u003eA. must be established as registered investment advisers.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c785377c-f271-421f-b644-815555a0d369",
+                            "itemBody": "\u003cp\u003eB. do not seem to incorporate the full range of investment information into their recommendations.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9d9cdd7d-b798-49df-831a-35018b3b906c",
+                            "itemBody": "\u003cp\u003eC. are likely to be held to a similar code of conduct as other investment professionals in the given region.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8576,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4427,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53562",
+            "entry": {
+                "title": "ITEM_20190531035",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe computerized buying and selling of financial instruments, in accordance with pre-specified rules and guidelines, is \u003ci\u003ebest\u003c/i\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "31a15068-fa59-4c84-8731-374b39c2eccd"
+                },
+                "answerFeedback": {
+                    "31a15068-fa59-4c84-8731-374b39c2eccd": "\u003cp\u003eCorrect. Algorithmic trading is defined as the computerized buying and selling of financial instruments, in accordance with pre-specified rules and guidelines.\u003c/p\u003e",
+                    "33e1f93e-aa34-4121-a2f6-67ef41f271f9": "\u003cp\u003eIncorrect. Robo-advising suggests assets for clients but does not necessarily place the trades.\u003c/p\u003e",
+                    "f04aaf9c-7db6-4641-9104-b270795b1fb3": "\u003cp\u003eIncorrect. Dark pools are alternative trading destinations.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f04aaf9c-7db6-4641-9104-b270795b1fb3",
+                            "itemBody": "\u003cp\u003eA. a dark pool.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "33e1f93e-aa34-4121-a2f6-67ef41f271f9",
+                            "itemBody": "\u003cp\u003eB. robo-advising.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "31a15068-fa59-4c84-8731-374b39c2eccd",
+                            "itemBody": "\u003cp\u003eC. algorithmic trading.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8576,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4427,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53563",
+            "entry": {
+                "title": "ITEM_20190531038",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e“Big data” is \u003ci\u003ebest\u003c/i\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9487f644-e734-47f1-b456-482ce4ad7306"
+                },
+                "answerFeedback": {
+                    "21d47b5a-26ef-4e46-b405-922c6d05fa76": "\u003cp\u003eIncorrect. In its broadest sense, the term “fintech” generally refers to technology-driven innovation occurring in the financial service industry.\u003c/p\u003e",
+                    "69691215-4af3-42ab-8bc7-9470475e4557": "\u003cp\u003eIncorrect. The use of technical models to describe patterns in financial markets and make trading decisions is the description of technical analysis.\u003c/p\u003e",
+                    "9487f644-e734-47f1-b456-482ce4ad7306": "\u003cp\u003eCorrect. The collection of large quantities of data from a variety of sources in multiple formats is the description of big data.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "21d47b5a-26ef-4e46-b405-922c6d05fa76",
+                            "itemBody": "\u003cp\u003eA. technology-driven innovation in the financial service industry.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9487f644-e734-47f1-b456-482ce4ad7306",
+                            "itemBody": "\u003cp\u003eB. the collection of large quantities of financial data from a variety of sources in multiple formats.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "69691215-4af3-42ab-8bc7-9470475e4557",
+                            "itemBody": "\u003cp\u003eC. the use of technical models to describe patterns in financial markets and make trading decisions.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8576,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4427,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {},
+    "scored_data": {
+        "points": 2,
+        "points_possible": 14
+    }
+}

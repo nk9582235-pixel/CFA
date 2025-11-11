@@ -1,0 +1,969 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6149,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 15,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 5: Analyzing Statements of Cash Flows II",
+        "topic_id": 1034,
+        "topic": "CFA-26-02-LI-C: Financial Statement Analysis",
+        "subtopic_id": 6149,
+        "subtopic": "Module 5: Analyzing Statements of Cash Flows II",
+        "question_count": 15,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 850,
+                "name": "Warehouse Course: Financial Statement Analysis 26-LI",
+                "code": "Warehouse Course: Financial Statement Analysis 26-LI",
+                "module_id": 4447,
+                "question_count": 9,
+                "type": "warehouse"
+            },
+            {
+                "id": 841,
+                "name": "Practice Pack Warehouse: Financial Statement Analysis 26-LI",
+                "code": "Practice Pack Warehouse: Financial Statement Analysis 26-LI",
+                "module_id": 4664,
+                "question_count": 6,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 15.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "e443d3388b2250af",
+        "ordered_item_ids": [
+            "54794",
+            "54795",
+            "54796",
+            "54797",
+            "54798",
+            "54799",
+            "50869",
+            "50870",
+            "50871",
+            "50872",
+            "53688",
+            "53689",
+            "53690",
+            "53691",
+            "53692"
+        ],
+        "visible_item_ids": [
+            "54794",
+            "54795",
+            "54796",
+            "54797",
+            "54798",
+            "54799",
+            "50869",
+            "50870",
+            "50871",
+            "50872",
+            "53688",
+            "53689",
+            "53690",
+            "53691",
+            "53692"
+        ]
+    },
+    "items": [
+        {
+            "id": "54794",
+            "entry": {
+                "title": "ITEM_CFA-L1-04979",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information (in £ thousands) about a company:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 228px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\u003ccolgroup\u003e \u003ccol style=\"width: 133.5px;\" width=\"63.04%\"\u003e \u003ccol style=\"width: 93.5px;\" width=\"36.96%\"\u003e \u003c/colgroup\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eFCFF\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e2,500\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eFCFE\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e1,300\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eInterest paid\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e260\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf interest paid is classified as a cash flow from operating activities and the income tax rate is 40%, net debt repayment (in £ thousands) is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0ca1bea3-d3e6-46a4-9e69-0d27c593bf9f"
+                },
+                "answerFeedback": {
+                    "0ca1bea3-d3e6-46a4-9e69-0d27c593bf9f": "\u003cp\u003eCorrect because FCFF = Cash flow from operating activities (“CFO”) + Interest paid (1 – Tax rate) – Capital expenditures (“FCInv”). In addition, FCFE = CFO – FCInv – Net debt repayment.\u003c/p\u003e\u003cp\u003eRearranging FCFF: CFO – FCInv = FCFF – Interest paid (1 – Tax rate)\u003c/p\u003e\u003cp\u003eRearranging FCFE: CFO – FCInv = FCFE + Net debt repayment\u003c/p\u003e\u003cp\u003eTherefore: FCFF – Interest paid (1 – Tax rate) = FCFE + Net debt repayment; or = 2,500 – [260 × (1 – 40%)] = 1,300 + Net debt repayment; or 2,344 = 1,300 + Net debt repayment\u003c/p\u003e\u003cp\u003eTherefore, Net debt repayment = 2,344 – 1,300 = 1,044.\u0026nbsp;\u003c/p\u003e",
+                    "c42e8f2d-5042-42ec-89bc-67379d17100f": "\u003cp\u003eIncorrect because it subtracts out the entire interest portion as opposed to the net-of-tax interest amount: FCFF – Interest paid = FCFE + Net debt repayment. Therefore, 2,500 – 260 = 1,300 + Net debt repayment; or Net debt repayment = 940.\u0026nbsp;\u003c/p\u003e",
+                    "e8bfe9c7-6c63-4ec0-8552-4a1c3b951532": "\u003cp\u003eIncorrect because it assumes that interest paid is classified as a cash flow from financing activities and does not need to be added back to CFO. As such, FCFF = FCFE + Net debt repayment; or 2,500 = 1,300 + Net debt repayment; or Net debt repayment = 1,200.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c42e8f2d-5042-42ec-89bc-67379d17100f",
+                            "itemBody": "\u003cp\u003eA. 940.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0ca1bea3-d3e6-46a4-9e69-0d27c593bf9f",
+                            "itemBody": "\u003cp\u003eB. 1,044.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e8bfe9c7-6c63-4ec0-8552-4a1c3b951532",
+                            "itemBody": "\u003cp\u003eC. 1,200.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8826,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4664,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54795",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-FRA-Pitrakkou-12",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information (in € thousands) about a company:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 295px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 251px; max-width: 251px;\"\u003eCash flow from operating activities\u003c/td\u003e\n\u003ctd style=\"width: 36px; max-width: 36px; text-align: center;\"\u003e80\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 251px; max-width: 251px;\"\u003eCapital expenditures\u003c/td\u003e\n\u003ctd style=\"width: 36px; max-width: 36px; text-align: center;\"\u003e15\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 251px; max-width: 251px;\"\u003eInterest paid and expensed\u003c/td\u003e\n\u003ctd style=\"width: 36px; max-width: 36px; text-align: center;\"\u003e10\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf interest paid is classified as a cash flow from operating activities and the income tax rate is 20%, FCFF (in\u0026nbsp;€ thousands) is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "20a092cc-130a-4ef2-b96b-19e57b16b1e6"
+                },
+                "answerFeedback": {
+                    "20a092cc-130a-4ef2-b96b-19e57b16b1e6": "\u003cp\u003eCorrect because FCFF can also be computed from cash flow from operating activities as FCFF = CFO + Int(1 – Tax rate) – FCInv. CFO represents cash flow from operating activities under US GAAP or under IFRS where the company has included interest paid in operating activities. Accordingly, FCFF = CFO + Int(1 – Tax rate) – FCInv; or = 80 + [10\u0026nbsp;× (1\u0026nbsp;–\u0026nbsp;0.20)] – 15 = 80 + 8 – 15 = 73.\u003c/p\u003e",
+                    "30ee104c-ded3-4075-aa70-3f830505da52": "\u003cp\u003eIncorrect because it has deducted the after-tax interest adjustment instead of adding it back.\u0026nbsp;Accordingly,\u0026nbsp;FCFF = CFO – Int(1 –\u0026nbsp;Tax rate) – FCInv ; or = 80 –\u0026nbsp;[10\u0026nbsp;× (1\u0026nbsp;–\u0026nbsp;0.20)] – 15 = 80 –\u0026nbsp;8 – 15 = 57.\u0026nbsp;\u003c/p\u003e",
+                    "ccd4fec4-2260-4676-ad07-92f586baae94": "\u003cp\u003eIncorrect because it assumed that interest expensed and paid was included in financing activities and no adjustment for\u0026nbsp;Int(1 – Tax rate) has been made. Accordingly,\u0026nbsp;FCFF = CFO\u0026nbsp;– FCInv ; or = 80\u0026nbsp;– 15 = 65.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "30ee104c-ded3-4075-aa70-3f830505da52",
+                            "itemBody": "\u003cp\u003eA. 57.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ccd4fec4-2260-4676-ad07-92f586baae94",
+                            "itemBody": "\u003cp\u003eB. 65.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "20a092cc-130a-4ef2-b96b-19e57b16b1e6",
+                            "itemBody": "\u003cp\u003eC. 73.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8826,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4664,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54796",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FRA-Terry-17",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn a common-size analysis of the cash flow statement, each line item of cash inflow may be\u0026nbsp;stated as a percentage of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "adf62652-fb02-40d1-aa70-d93d8e6fe336"
+                },
+                "answerFeedback": {
+                    "aa8ba654-70c5-49b2-a94c-8fcb5b2a1944": "\u003cp\u003eIncorrect because for the common-size cash flow statement, there are two alternative approaches. The first approach is to express each line item of cash inflow (outflow) as a percentage of total inflows (outflows) of cash, and the second approach is to express each line item as a percentage of net revenue.\u0026nbsp;Thus an inflow is stated either as a percentage of total inflows or total net revenues, not total assets.\u003c/p\u003e",
+                    "adf62652-fb02-40d1-aa70-d93d8e6fe336": "\u003cp\u003eCorrect because for the common-size cash flow statement, there are two alternative approaches. The first approach is to express each line item of cash inflow (outflow) as a percentage of total inflows (outflows) of cash, and the second approach is to express each line item as a percentage of net revenue.\u003c/p\u003e",
+                    "c077c523-3ef3-498e-84aa-4ec013a59d4b": "\u003cp\u003eIncorrect because for the common-size cash flow statement, there are two alternative approaches. The first approach is to express each line item of cash inflow (outflow) as a percentage of total inflows (outflows) of cash, and the second approach is to express each line item as a percentage of net revenue. Thus an inflow is stated either as a percentage of total inflows or total net revenues, not net cash flows.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "aa8ba654-70c5-49b2-a94c-8fcb5b2a1944",
+                            "itemBody": "\u003cp\u003eA. total assets.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "adf62652-fb02-40d1-aa70-d93d8e6fe336",
+                            "itemBody": "\u003cp\u003eB. net revenue.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c077c523-3ef3-498e-84aa-4ec013a59d4b",
+                            "itemBody": "\u003cp\u003eC. net cash flow.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8826,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4664,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54797",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FRA-Terry-18",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information\u0026nbsp;(in € millions) about a company:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 407px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 314px; max-width: 314px;\"\u003eNet cash flow from operating activities\u003c/td\u003e\n\u003ctd style=\"width: 85px; max-width: 85px; text-align: center;\"\u003e\u0026nbsp; (750)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 314px; max-width: 314px;\"\u003eTotal cash inflows\u003c/td\u003e\n\u003ctd style=\"width: 85px; max-width: 85px; text-align: center;\"\u003e\u0026nbsp; 1,500\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 314px; max-width: 314px;\"\u003eTotal cash outflows\u003c/td\u003e\n\u003ctd style=\"width: 85px; max-width: 85px; text-align: center;\"\u003e\u0026nbsp; 2,500\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 314px; max-width: 314px;\"\u003eNet increase (decrease) in cash\u003c/td\u003e\n\u003ctd style=\"width: 85px; max-width: 85px; text-align: center;\"\u003e(1,000)\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eOn a common-size statement of cash flows presented using the indirect method, net operating cash flow is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a0717097-09ed-4564-bb4e-b2383ecd021f"
+                },
+                "answerFeedback": {
+                    "313488ab-7344-426c-a919-81410736b453": "\u003cp\u003eIncorrect because when a cash flow statement has been presented using the indirect method, operating cash inflows and outflows are not separately presented; therefore, the common-size cash flow statement shows only the net operating cash flow (net cash provided by or used in operating activities) as a percentage of total inflows or outflows, depending on whether the net amount was a cash inflow or outflow. Because the net amount is an outflow, it should be calculated as a percentage of total cash outflows as follows: 750/2500 = 30%. The incorrect answer is obtained by dividing net cash used in operations by total cash inflows: 750/1500 = 50%.\u0026nbsp;\u003c/p\u003e",
+                    "a0717097-09ed-4564-bb4e-b2383ecd021f": "\u003cp\u003eCorrect because when a cash flow statement has been presented using the indirect method, operating cash inflows and outflows are not separately presented; therefore, the common-size cash flow statement shows only the net operating cash flow (net cash provided by or used in operating activities) as a percentage of total inflows or outflows, depending on whether the net amount was a cash inflow or outflow. Because the net amount is an outflow, it should be calculated as a percentage of total cash outflows as follows: 750/2500 = 30%.\u0026nbsp;\u003c/p\u003e",
+                    "c553191b-52c0-43d2-b6b2-0556c73228b7": "\u003cp\u003eIncorrect because when a cash flow statement has been presented using the indirect method, operating cash inflows and outflows are not separately presented; therefore, the common-size cash flow statement shows only the net operating cash flow (net cash provided by or used in operating activities) as a percentage of total inflows or outflows, depending on whether the net amount was a cash inflow or outflow. Because the net amount is an outflow, it should be calculated as a percentage of total cash outflows as follows: 750/2500 = 30%. The incorrect answer is obtained by dividing net cash used in operations by the net decrease in cash: 750/1000 = 75%.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a0717097-09ed-4564-bb4e-b2383ecd021f",
+                            "itemBody": "\u003cp\u003eA. 30%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "313488ab-7344-426c-a919-81410736b453",
+                            "itemBody": "\u003cp\u003eB. 50%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c553191b-52c0-43d2-b6b2-0556c73228b7",
+                            "itemBody": "\u003cp\u003eC. 75%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8826,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4664,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54798",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FRA-Lee-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFor a mature company, the primary source of cash flows is \u003ci\u003emost likely\u003c/i\u003e\u0026nbsp;from:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f34a2df6-f6d0-4eb0-94b0-5c0ccc0d7611"
+                },
+                "answerFeedback": {
+                    "323cabeb-88bd-48d4-a14d-c2e15af8dbb6": "\u003cp\u003eIncorrect because for a mature company, it is expected and desirable that operating activities are the primary source of cash flows. Cash generated from operating activities can be used in either investing or financing activities. If the company does not have profitable investment opportunities, the cash should be returned to capital providers, a financing activity.\u003c/p\u003e",
+                    "e1f8de46-7f06-413a-85fd-696c42bda625": "\u003cp\u003eIncorrect because for a mature company, it is expected and desirable that operating activities are the primary source of cash flows. Cash generated from operating activities can be used in either investing or financing activities. If the company has good opportunities to grow the business or other investment opportunities, it is desirable to use the cash in investing activities.\u003c/p\u003e",
+                    "f34a2df6-f6d0-4eb0-94b0-5c0ccc0d7611": "\u003cp\u003eCorrect because the\u0026nbsp;major sources of cash for a company can vary with its stage of growth. For a mature company, it is expected and desirable that operating activities are the primary source of cash flows. Over the long term, a company must generate cash from its operating activities. If operating cash flow were consistently negative, a company would need to borrow money or issue stock (financing activities) to fund the shortfall. Eventually, these providers of capital need to be repaid from operations or they will no longer be willing to provide capital.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f34a2df6-f6d0-4eb0-94b0-5c0ccc0d7611",
+                            "itemBody": "\u003cp\u003eA. operating activities.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e1f8de46-7f06-413a-85fd-696c42bda625",
+                            "itemBody": "\u003cp\u003eB. investing activities.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "323cabeb-88bd-48d4-a14d-c2e15af8dbb6",
+                            "itemBody": "\u003cp\u003eC. financing activities.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8826,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4664,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54799",
+            "entry": {
+                "title": "ITEM_CFA-L1-00752",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about a company:\u003c/p\u003e\n\u003ctable style=\"width: 306px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\u003ccolgroup\u003e \u003ccol style=\"width: 185.5px;\" width=\"66.14%\"\u003e \u003ccol style=\"width: 119.5px;\" width=\"33.86%\"\u003e \u003c/colgroup\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eInterest payments\u003c/td\u003e\n\u003ctd style=\"width: 69px; max-width: 69px; text-align: center;\"\u003e$30,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eCapital expenditures\u003c/td\u003e\n\u003ctd style=\"width: 69px; max-width: 69px; text-align: center;\"\u003e$82,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eNet borrowing\u003c/td\u003e\n\u003ctd style=\"width: 69px; max-width: 69px; text-align: center;\"\u003e$18,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eIncome tax rate\u003c/td\u003e\n\u003ctd style=\"width: 69px; max-width: 69px; text-align: center;\"\u003e40%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eUnder U.S. GAAP, free cash flow to equity is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e73679cf-75ac-4558-8727-140aa6e4d170"
+                },
+                "answerFeedback": {
+                    "32bef554-41a5-4efa-974e-39e8bcc1a5ad": "\u003cp\u003eIncorrect because FCFE is equal to FCFF.\u0026nbsp;\u003c/p\u003e",
+                    "7f0a3534-befd-4b4b-a6b7-e6c38e1dfd9f": "\u003cp\u003eIncorrect because FCFE is equal to FCFF.\u003c/p\u003e",
+                    "e73679cf-75ac-4558-8727-140aa6e4d170": "\u003cp\u003eCorrect because under U.S. GAAP, free cash flow to the firm is calculated as CFO + int (1− tax rate) – capital expenditures. Since the firm has interest bearing debt outstanding, $18,000 ($30,000 × (1 − .4)) is added back to CFO in calculating FCFF. In addition, the capital expenditures of $82,000 are subtracted so the equation becomes CFO + $18,000 − $82,000 for a net decrease to CFO of $64,000 ($18,000 − $82,000 = − $64,000). The calculation for free cash flow to equity is CFO – capital expenditures + net borrowing with no adjustment for interest paid under U.S. GAAP. The calculation becomes CFO − $82,000 + $18,000 for a net decrease to CFO of $64,000 (− $82,000 + $18,000). Therefore, FCFE will be equal to FCFF; as the after-tax interest add-back to FCFF is equal to the net borrowing add-back to FCFE and CFO and capital expenditures are the same for both.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7f0a3534-befd-4b4b-a6b7-e6c38e1dfd9f",
+                            "itemBody": "\u003cp\u003eA. less than free cash flow to the firm.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e73679cf-75ac-4558-8727-140aa6e4d170",
+                            "itemBody": "\u003cp\u003eB. equal to free cash flow to the firm.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "32bef554-41a5-4efa-974e-39e8bcc1a5ad",
+                            "itemBody": "\u003cp\u003eC. greater than free cash flow to the firm.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8826,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4664,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50869",
+            "entry": {
+                "title": "CFA2421-R-s03-Q5",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. An appropriate method to prepare a common-size cash flow statement is to show each line item on the cash flow statement as a percentage of net revenue. An alternative way to prepare a statement of cash flows is to show each item of cash inflow as a percentage of total inflows and each item of cash outflows as a percentage of total outflows.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eOne appropriate method of preparing a common-size cash flow statement is to show each line item:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "046d2a6b-7aca-445a-b457-d2888c7bb9c8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "45b2f335-5a64-455e-ae30-438f6089d0b2",
+                            "itemBody": "\u003cp\u003eA. of revenue and expense as a percentage of net revenue.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "046d2a6b-7aca-445a-b457-d2888c7bb9c8",
+                            "itemBody": "\u003cp\u003eB. on the cash flow statement as a percentage of net revenue.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0c030f0d-f1e9-4122-89fd-7db86441f8aa",
+                            "itemBody": "\u003cp\u003eC. on the cash flow statement as a percentage of total cash outflows.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8193,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4447,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50870",
+            "entry": {
+                "title": "CFA2421-R-s04-Q1",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Free cash flow to the firm can be computed as operating cash flows plus after-tax interest expense less capital expenditures.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is an appropriate method of computing free cash flow to the firm?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bda86498-7b97-4807-99e5-93107ceacb8a"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2916ab48-932f-4887-afa3-8d52ff79e4a1",
+                            "itemBody": "A. Add operating cash flows to capital expenditures and deduct after-tax interest payments.",
+                            "position": 1
+                        },
+                        {
+                            "id": "bda86498-7b97-4807-99e5-93107ceacb8a",
+                            "itemBody": "B. Add operating cash flows to after-tax interest payments and deduct capital expenditures.",
+                            "position": 2
+                        },
+                        {
+                            "id": "74c55b64-3115-4a29-9b3d-879dd7e76ab4",
+                            "itemBody": "C. Deduct both after-tax interest payments and capital expenditures from operating cash flows.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8193,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4447,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50871",
+            "entry": {
+                "title": "CFA2421-R-s05-Q2",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. An overall assessment of the major sources and uses of cash should be the first step in evaluating a cash flow statement.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe first step in cash flow statement analysis should be to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6843f86a-eb83-474a-8fcf-d366b119a822"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "555e1ccb-e8b9-4b3d-a065-06997ef4de05",
+                            "itemBody": "\u003cp\u003eA. evaluate consistency of cash flows.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b8d40515-c40b-41b9-9610-cd2843005bbc",
+                            "itemBody": "\u003cp\u003eB. determine operating cash flow drivers.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6843f86a-eb83-474a-8fcf-d366b119a822",
+                            "itemBody": "\u003cp\u003eC. identify the major sources and uses of cash.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8193,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4447,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50872",
+            "entry": {
+                "title": "CFA2421-R-s05-Q3",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. This ratio is an interest coverage ratio, measuring a company’s ability to meet its interest obligations and indicating a company’s solvency. This coverage ratio is based on cash flow information; another common formulation of the interest coverage ratio uses EBITDA based on the income statement as the numerator.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst has calculated a ratio using as the numerator the sum of operating cash flow, interest, and taxes and as the denominator the amount of interest. What is this ratio, what does it measure, and what does it indicate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "cfda9ae0-4dfd-480e-acb3-0b4afc8b2761"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "cfda9ae0-4dfd-480e-acb3-0b4afc8b2761",
+                            "itemBody": "\u003cp\u003eA. This ratio is an interest coverage ratio, measuring a company’s ability to meet its interest obligations and indicating a company’s solvency.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "afc33cc0-2d36-4abb-9690-77eeebe36634",
+                            "itemBody": "\u003cp\u003eB. This ratio is an effective tax ratio, measuring the amount of a company’s operating cash flow used for taxes and indicating a company’s efficiency in tax management.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d5526019-4d5a-40c3-a530-4d6843d1a381",
+                            "itemBody": "\u003cp\u003eC. This ratio is an operating profitability ratio, measuring the operating cash flow generated accounting for taxes and interest and indicating a company’s liquidity.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8193,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4447,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53688",
+            "entry": {
+                "title": "ITEM_20170608225",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eThe following financial statement data are available for a company:\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 470px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eMetric\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 128px; max-width: 128px;\" scope=\"col\"\u003e\u003cstrong\u003e$ thousands\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 335px; max-width: 335px;\"\u003eOperating income\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 128px; max-width: 128px;\"\u003e3,390\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 335px; max-width: 335px;\"\u003eNet income\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 128px; max-width: 128px;\"\u003e2,210\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 335px; max-width: 335px;\"\u003eOperating assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 128px; max-width: 128px;\"\u003e3,850\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 335px; max-width: 335px;\"\u003eChange in cash and cash equivalents\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 128px; max-width: 128px;\"\u003e1,010\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 335px; max-width: 335px;\"\u003eChange in cash from operating activities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 128px; max-width: 128px;\"\u003e1,750\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 335px; max-width: 335px;\"\u003eFree cash flow to the firm\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 128px; max-width: 128px;\"\u003e2,240\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eThe company’s cash-to-income ratio is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "206d259f-bf9e-4f83-b752-07443412a9ab"
+                },
+                "answerFeedback": {
+                    "206d259f-bf9e-4f83-b752-07443412a9ab": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eCash to income = Cash flow from operating activities (CFO)/Operating income\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= (1,750/3,390)\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 0.52\u003c/p\u003e",
+                    "27c660e3-ca28-42a3-929e-fdebf9c64dc8": "\u003cp\u003eIncorrect. The calculation incorrectly uses free cash flow in the numerator.\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eIncorrect cash to income = Free cash flow to the firm/Operating income\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 2,240/3,390\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 0.66\u003c/p\u003e",
+                    "3f8dc7b1-7ade-4821-8ae8-b4c69c28af1c": "\u003cp\u003eIncorrect. The calculation incorrectly uses net income in the denominator.\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eIncorrect cash to income = Cash flow from operations/Net income\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 1,750/2,210\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e\u0026nbsp;= 0.79\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3f8dc7b1-7ade-4821-8ae8-b4c69c28af1c",
+                            "itemBody": "\u003cp\u003eA. 0.79.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "27c660e3-ca28-42a3-929e-fdebf9c64dc8",
+                            "itemBody": "\u003cp\u003eB. 0.66.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "206d259f-bf9e-4f83-b752-07443412a9ab",
+                            "itemBody": "\u003cp\u003eC. 0.52.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8623,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4447,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53689",
+            "entry": {
+                "title": "ITEM_20170608297",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eA firm reported the following financial statement items:\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 342px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\" scope=\"col\"\u003e\u003cstrong\u003e\u0026nbsp;\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 94px; max-width: 94px;\" scope=\"col\"\u003e\u003cstrong\u003e€ millions\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\"\u003eNet income\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 94px; max-width: 94px;\"\u003e2,100\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\"\u003eNon-cash charges\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 94px; max-width: 94px;\"\u003e400\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\"\u003eInterest expense\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 94px; max-width: 94px;\"\u003e300\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\"\u003eCapital expenditures\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 94px; max-width: 94px;\"\u003e210\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\"\u003eWorking capital expenditures\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 94px; max-width: 94px;\"\u003e0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\"\u003eNet borrowing\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 94px; max-width: 94px;\"\u003e1,600\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\"\u003eTax rate\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 94px; max-width: 94px;\"\u003e40%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eThe free cash flow to the firm (FCFF) is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8d1fa0e7-081b-44f1-a100-0ff650343d25"
+                },
+                "answerFeedback": {
+                    "8d1fa0e7-081b-44f1-a100-0ff650343d25": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eFCFF = NI + NCC + Int(1 – \u003cem\u003et\u003c/em\u003e) – FCInv – WCInv\u003c/p\u003e\u003cdiv\u003e\u003ctable border=\"1\"\u003e\n\u003cthead\u003e\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:78px; max-width:78px\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:bottom; width:290px; max-width:290px\"\u003e\u003cstrong\u003eCash Flow Item\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:119px; max-width:119px\"\u003e\u003cstrong\u003e\u0026nbsp;\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:bottom; width:103px; max-width:103px\"\u003e\u003cstrong\u003eAmount (€ millions)\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:78px; max-width:78px\"\u003eNI\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:290px; max-width:290px\"\u003eNet income\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:119px; max-width:119px\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:103px; max-width:103px\"\u003e2,100\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:78px; max-width:78px\"\u003eNCC\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:290px; max-width:290px\"\u003ePlus non-cash charges\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:119px; max-width:119px\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:103px; max-width:103px\"\u003e400\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:78px; max-width:78px\"\u003eInt(1 – \u003cem\u003et\u003c/em\u003e)\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:290px; max-width:290px\"\u003ePlus interest expense (1 – tax rate)\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:119px; max-width:119px\"\u003e300 (1 – 0.40)\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:103px; max-width:103px\"\u003e180\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:78px; max-width:78px\"\u003eFCInv\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:290px; max-width:290px\"\u003eLess capital expenditures\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:119px; max-width:119px\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:103px; max-width:103px\"\u003e(210)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:78px; max-width:78px\"\u003eWCInv\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:290px; max-width:290px\"\u003eLess working capital expenditures\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:119px; max-width:119px\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:103px; max-width:103px\"\u003e0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:78px; max-width:78px\"\u003eFCFF\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:290px; max-width:290px\"\u003eFree cash flow to the firm\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:119px; max-width:119px\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:103px; max-width:103px\"\u003e\u003cstrong\u003e€2,470\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/div\u003e",
+                    "b7b90554-89f2-4ba1-8bae-25a6b5e7396c": "\u003cp\u003eIncorrect. It ignores the tax effect on interest expense.\u003c/p\u003e\u003cdiv\u003e\u003ctable border=\"1\" style=\"width:402px\"\u003e\n\u003cthead\u003e\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:bottom; width:283px; max-width:283px\"\u003e\u003cstrong\u003eCash Flow Item\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:bottom; width:112px; max-width:112px\"\u003e\u003cstrong\u003eAmount (€)\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:283px; max-width:283px\"\u003eNet income\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:112px; max-width:112px\"\u003e2,100\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:283px; max-width:283px\"\u003ePlus Non-cash charges\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:112px; max-width:112px\"\u003e400\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:283px; max-width:283px\"\u003ePlus Interest expense\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:112px; max-width:112px\"\u003e300\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:283px; max-width:283px\"\u003eLess Capital expenditure\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:112px; max-width:112px\"\u003e(210)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:283px; max-width:283px\"\u003eLess working capital expenditures\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:112px; max-width:112px\"\u003e0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:283px; max-width:283px\"\u003eFCFF\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:112px; max-width:112px\"\u003e\u003cstrong\u003e€2,590\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/div\u003e",
+                    "dbdf3757-6f14-4d6b-81c7-0934b3dc4193": "\u003cp\u003eIncorrect. It incorrectly subtracted interest expense.\u003c/p\u003e\u003cdiv\u003e\u003ctable border=\"1\" style=\"width:399px\"\u003e\n\u003cthead\u003e\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:bottom\"\u003e\u003cstrong\u003eCash Flow Item\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:33px; max-width:33px\"\u003e\u003cstrong\u003e\u0026nbsp;\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:bottom; width:107px; max-width:107px\"\u003e\u003cstrong\u003eAmount (€)\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top\"\u003eNet income\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:33px; max-width:33px\"\u003e+\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:107px; max-width:107px\"\u003e€2,100\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top\"\u003eNon-cash charges\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:33px; max-width:33px\"\u003e+\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:107px; max-width:107px\"\u003e400\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top\"\u003eCapital expenditure\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:33px; max-width:33px\"\u003e–\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:107px; max-width:107px\"\u003e210\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;Interest Expense: Int × (1 – \u003cem\u003et\u003c/em\u003e)\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:33px; max-width:33px\"\u003e–\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:107px; max-width:107px\"\u003e180\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top\"\u003eFCFF\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:33px; max-width:33px\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:107px; max-width:107px\"\u003e€2,110\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/div\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "dbdf3757-6f14-4d6b-81c7-0934b3dc4193",
+                            "itemBody": "\u003cp\u003eA. €2,110.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8d1fa0e7-081b-44f1-a100-0ff650343d25",
+                            "itemBody": "\u003cp\u003eB. €2,470.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b7b90554-89f2-4ba1-8bae-25a6b5e7396c",
+                            "itemBody": "\u003cp\u003eC. €2,590.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8623,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4447,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53690",
+            "entry": {
+                "title": "ITEM_20180516120",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eThe following common-size cash flow statement is available for a company:\n\u003cdiv\u003e\n\u003cp\u003e\u003cstrong\u003eCash Flow Statement for the Years Ended 31 December\u003c/strong\u003e\u003c/p\u003e\n\u003c/div\u003e\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 782px; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; width: 525px; max-width: 525px;\" rowspan=\"2\" scope=\"col\"\u003e\u003cstrong\u003eInflows\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 248px; max-width: 248px;\" colspan=\"2\" scope=\"col\"\u003e\u003cstrong\u003ePercentage of Total Inflows\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; width: 119px; max-width: 119px;\" colspan=\"1\"\u003e\u003cstrong\u003e2016\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; width: 126px; max-width: 126px;\"\u003e\u003cstrong\u003e2015\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 525px; max-width: 525px;\"\u003eCash received from customers\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 119px; max-width: 119px;\"\u003e88.1\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 126px; max-width: 126px;\"\u003e97.4\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 525px; max-width: 525px;\"\u003eProceeds from disposal of property, plant, and equipment\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 119px; max-width: 119px;\"\u003e0.3\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 126px; max-width: 126px;\"\u003e0.3\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 525px; max-width: 525px;\"\u003eProceeds from issuance of bonds\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 119px; max-width: 119px;\"\u003e11.6\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 126px; max-width: 126px;\"\u003e2.3\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 525px; max-width: 525px;\"\u003e\u003cstrong\u003eTotal\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 119px; max-width: 119px;\"\u003e\u003cstrong\u003e100.0\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 126px; max-width: 126px;\"\u003e\u003cstrong\u003e100.0\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; width: 525px; max-width: 525px;\" rowspan=\"2\"\u003e\u003cstrong\u003eOutflows\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; width: 248px; max-width: 248px;\" colspan=\"2\"\u003e\u003cstrong\u003ePercentage of Total Outflows\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; width: 119px; max-width: 119px;\" colspan=\"1\"\u003e\u003cstrong\u003e2016\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; width: 126px; max-width: 126px;\"\u003e\u003cstrong\u003e2015\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 525px; max-width: 525px;\"\u003eCash paid to suppliers and employees\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 119px; max-width: 119px;\"\u003e71.0\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 126px; max-width: 126px;\"\u003e70.7\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 525px; max-width: 525px;\"\u003ePayments for investments in property, plant, and equipment\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 119px; max-width: 119px;\"\u003e10.5\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 126px; max-width: 126px;\"\u003e10.6\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 525px; max-width: 525px;\"\u003ePayments made for financial instruments not included under cash equivalents\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 119px; max-width: 119px;\"\u003e2.0\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 126px; max-width: 126px;\"\u003e0.2\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 525px; max-width: 525px;\"\u003ePayments for investments in companies, net of cash and cash equivalents\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 119px; max-width: 119px;\"\u003e0.1\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 126px; max-width: 126px;\"\u003e2.9\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 525px; max-width: 525px;\"\u003eTransactions with equity holders\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 119px; max-width: 119px;\"\u003e8.8\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 126px; max-width: 126px;\"\u003e9.0\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 525px; max-width: 525px;\"\u003eRepayments of loans, borrowings, and promissory notes\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 119px; max-width: 119px;\"\u003e7.6\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 126px; max-width: 126px;\"\u003e6.6\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 525px; max-width: 525px;\"\u003e\u003cstrong\u003eTotal\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 119px; max-width: 119px;\"\u003e\u003cstrong\u003e100.0\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 126px; max-width: 126px;\"\u003e\u003cstrong\u003e100.0\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eCompared with 2015, which of the following statements about 2016 is \u003ci\u003emost \u003c/i\u003eaccurate? The company:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d1bb749e-f934-4a1b-86b2-d0ee42840acb"
+                },
+                "answerFeedback": {
+                    "30169e66-9cbc-47a0-a12c-c1e63e9b3361": "\u003cp\u003eIncorrect. As the actual total inflows and outflows are not known the relative size of the inflows and outflows from each activity cannot be compared on an absolute basis, therefore it is not possible to conclude on whether operating cash flows were positive or negative.\u003c/p\u003e",
+                    "7b26f6c7-892a-42af-98c0-473456e92b03": "\u003cp\u003eIncorrect. Investing outflows includes payments on PP\u0026amp;E, financial instruments and investments in other companies. In 2016 this is 10.5 + 2.0 + 0.1 = 12.6 and in 2015: 10.6 + 0.2 + 2.9 = 13.7, therefore the portion of outflows spent on investing activities decreased.\u003c/p\u003e",
+                    "d1bb749e-f934-4a1b-86b2-d0ee42840acb": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The cash inflows from financing activities in 2016 are 11.6% from bonds, which is greater than the 2.3% in 2015. Therefore, the company did rely more heavily on financing activities to generate cash inflows in 2016. Because the actual total inflows and outflows are not known, the relative size of the inflows and outflows from each activity cannot be compared on an absolute basis. Therefore, it is not possible to conclude whether operating cash flows were positive or negative. Investing outflows includes payments on PP\u0026amp;E, financial instruments, and investments in other companies. For 2016, this calculation is 10.5 + 2.0 + 0.1 = 12.6%, and for 2015, it is 10.6 + 0.2 + 2.9 = 13.7%. Therefore, the portion of outflows spent on investing activities decreased.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "30169e66-9cbc-47a0-a12c-c1e63e9b3361",
+                            "itemBody": "\u003cp\u003eA. had a positive net operating cash flow.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7b26f6c7-892a-42af-98c0-473456e92b03",
+                            "itemBody": "\u003cp\u003eB. directed a larger portion of cash outflows to investing activities.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d1bb749e-f934-4a1b-86b2-d0ee42840acb",
+                            "itemBody": "\u003cp\u003eC. relied more heavily on financing activities to generate cash inflows.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8623,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4447,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53691",
+            "entry": {
+                "title": "ITEM_20180516121",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eThe following partial common-size cash flow statement and coverage ratio information is available for a company:\n\u003cdiv\u003e\n\u003cp\u003e\u003cstrong\u003eCash Flow Statement for the Year Ended 31 December of Year 2\u003c/strong\u003e\u003c/p\u003e\n\u003c/div\u003e\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 94.2598%; height: 549px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"height: 27px; border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; width: 62.6603%; max-width: 391px; height: 27px;\" scope=\"col\"\u003e\u0026nbsp;\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 37.1795%; max-width: 232px; height: 27px;\" scope=\"col\"\u003e\u003cstrong\u003ePercentage of Net Revenues\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: bottom; width: 62.6603%; max-width: 391px; height: 29px;\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: bottom; width: 37.1795%; max-width: 232px; height: 29px;\"\u003e\u003cstrong\u003eYear 2\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 99.8397%; height: 29px;\" colspan=\"2\"\u003e\u003cstrong\u003eCash flows from operating activities\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 62.6603%; max-width: 391px; height: 29px;\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;Cash received from customers\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 37.1795%; max-width: 232px; height: 29px;\"\u003e118.7%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 62.6603%; max-width: 391px; height: 29px;\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;Cash paid to suppliers and employees\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 37.1795%; max-width: 232px; height: 29px;\"\u003e(81.4)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 62.6603%; max-width: 391px; height: 29px;\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;Dividends received\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 37.1795%; max-width: 232px; height: 29px;\"\u003e0.2\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 62.6603%; max-width: 391px; height: 29px;\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;Net interest and other financial expenses paid\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 37.1795%; max-width: 232px; height: 29px;\"\u003e(3.8)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 62.6603%; max-width: 391px; height: 29px;\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;Taxes paid\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 37.1795%; max-width: 232px; height: 29px;\"\u003e(5.2)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 62.6603%; max-width: 391px; height: 29px;\"\u003e\u003cstrong\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;Net cash from operating activities\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 37.1795%; max-width: 232px; height: 29px;\"\u003e\u003cstrong\u003e28.5\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 99.8397%; height: 29px;\" colspan=\"2\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 62.6603%; max-width: 391px; height: 29px;\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;Cash paid for long-term assets\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 37.1795%; max-width: 232px; height: 29px;\"\u003e(13.4)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 62.6603%; max-width: 391px; height: 29px;\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;Other investing activities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 37.1795%; max-width: 232px; height: 29px;\"\u003e(3.1)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 62.6603%; max-width: 391px; height: 29px;\"\u003e\u003cstrong\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;Net cash used in investing activities\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 37.1795%; max-width: 232px; height: 29px;\"\u003e\u003cstrong\u003e(16.5)\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 99.8397%; height: 29px;\" colspan=\"2\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 62.6603%; max-width: 391px; height: 29px;\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;Dividends paid\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 37.1795%; max-width: 232px; height: 29px;\"\u003e(8.5)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 62.6603%; max-width: 391px; height: 29px;\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;Other financing activities\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 37.1795%; max-width: 232px; height: 29px;\"\u003e3.8\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 62.6603%; max-width: 391px; height: 29px;\"\u003e\u003cstrong\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;Net cash flow used in financing activities\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 37.1795%; max-width: 232px; height: 29px;\"\u003e\u003cstrong\u003e(4.7)\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 99.8397%; height: 29px;\" colspan=\"2\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 29px;\"\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 62.6603%; max-width: 391px; height: 29px;\"\u003e\u003cstrong\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;Net change in cash\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 37.1795%; max-width: 232px; height: 29px;\"\u003e\u003cstrong\u003e7.3%\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003cdiv\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCash Flow Coverage Ratios\u003c/strong\u003e\u003c/p\u003e\n\u003c/div\u003e\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 263px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; width: 193px; max-width: 193px;\" scope=\"col\"\u003e\u0026nbsp;\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 61px; max-width: 61px;\" scope=\"col\"\u003e\u003cstrong\u003eYear 1\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 193px; max-width: 193px;\"\u003eDividend payment\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 61px; max-width: 61px;\"\u003e3.69\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 193px; max-width: 193px;\"\u003eInvesting and financing\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 61px; max-width: 61px;\"\u003e0.82\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 193px; max-width: 193px;\"\u003eReinvestment\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 61px; max-width: 61px;\"\u003e2.18\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eCompared with Year 1, the \u003ci\u003emost\u003c/i\u003e appropriate conclusion an analyst can make about Year 2\u0026nbsp;is that the company’s ability to use operating cash flows to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7b8531bc-8ee8-4de8-94d2-507bfc2eb3e5"
+                },
+                "answerFeedback": {
+                    "7b8531bc-8ee8-4de8-94d2-507bfc2eb3e5": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The company’s dividend payment coverage ratio worsened; therefore, the company was less able to pay dividends from operating cash flows. Calculations are as follows:\u003c/p\u003e\u003cdiv\u003e\u003ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:572px\"\u003e\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:118px; max-width:118px\"\u003e\u003cb\u003eCoverage Ratio\u003c/b\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:200px; max-width:200px\"\u003e\u003cb\u003eDefinition and Calculation\u003c/b\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:58px; max-width:58px\"\u003e\u003cb\u003eYear 2\u003c/b\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:48px; max-width:48px\"\u003e\u003cb\u003eYear 1\u003c/b\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:130px; max-width:130px\"\u003e\u003cb\u003eInterpretation\u003c/b\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:118px; max-width:118px\"\u003eDividend payment\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:200px; max-width:200px\"\u003e\n\u003cp\u003eCash flow from operations ÷ Dividends paid\u003c/p\u003e\n\u003cp\u003e28.5\u0026nbsp;÷ 8.5 =\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:58px; max-width:58px\"\u003e3.35\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:48px; max-width:48px\"\u003e3.69\u003c/td\u003e\n\u003ctd style=\"width:130px; max-width:130px; text-align:center\"\u003eAbility to pay dividends decreased\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:118px; max-width:118px\"\u003eInvesting and financing\u003c/td\u003e\n\u003ctd style=\"width:200px; max-width:200px; text-align:center\"\u003e\n\u003cp\u003eCash flow from operations ÷ Cash outflows for investing and financing\u003c/p\u003e\n\u003cp\u003e28.5 ÷ (16.5 + 4.7) =\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:58px; max-width:58px\"\u003e1.34\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:48px; max-width:48px\"\u003e0.82\u003c/td\u003e\n\u003ctd style=\"width:130px; max-width:130px; text-align:center\"\u003eAbility to acquire assets, pay debts and make distributions improved\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:118px; max-width:118px\"\u003eReinvestment\u003c/td\u003e\n\u003ctd style=\"width:200px; max-width:200px\"\u003e\n\u003cp\u003eCash flow from operations ÷ Cash paid for long term assets\u003c/p\u003e\n\u003cp\u003e28.5\u0026nbsp;÷ 13.4 =\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:58px; max-width:58px\"\u003e2.13\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:48px; max-width:48px\"\u003e2.18\u003c/td\u003e\n\u003ctd style=\"width:130px; max-width:130px; text-align:center\"\u003eAbility to acquire assets decreased\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "987f36fe-df2d-4e5b-a4ed-400e0a6808bd": "\u003cp\u003eIncorrect. The company’s reinvestment coverage ratio worsened. Calculations are as follows:\u003c/p\u003e\u003cdiv\u003e\u003cp\u003e\u003cb\u003eReinvestment coverage ratio\u003c/b\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv\u003e\u003ctable border=\"1\"\u003e\n\u003cthead\u003e\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:middle; width:53px; max-width:53px\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:bottom; width:324px; max-width:324px\"\u003e\u003cstrong\u003eCalculation\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:bottom; width:84px; max-width:84px\"\u003e\u003cstrong\u003eResult\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:bottom; width:146px; max-width:146px\"\u003e\u003cstrong\u003eInterpretation\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:53px; max-width:53px\"\u003eYear 2\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:324px; max-width:324px\"\u003eCFO ÷ Cash paid for long term assets or 28.5 ÷ 13.4 =\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:84px; max-width:84px\"\u003e2.13\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:146px; max-width:146px\"\u003eWorsened\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top; width:53px; max-width:53px\"\u003eYear 1\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:324px; max-width:324px\"\u003eGiven\u003c/td\u003e\n\u003ctd style=\"text-align:center; vertical-align:top; width:84px; max-width:84px\"\u003e2.18\u003c/td\u003e\n\u003ctd style=\"vertical-align:top; width:146px; max-width:146px; text-align:center\"\u003e---\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/div\u003e",
+                    "a16d85b8-39c3-471d-a47e-5bcbd51a3c54": "\u003cp\u003eIncorrect. The company’s investing and financing coverage ratio improved. Calculations are as follows:\u003c/p\u003e\u003cdiv\u003e\n\u003cp\u003e\u003cb\u003eInvesting and financing coverage ratio\u003c/b\u003e\u003c/p\u003e\n\u003ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:572px\"\u003e\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:53px; max-width:53px\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:321px; max-width:321px\"\u003e\u003cb\u003eCalculation\u003c/b\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:61px; max-width:61px\"\u003e\u003cb\u003eResult\u003c/b\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:124px; max-width:124px\"\u003e\u003cb\u003eInterpretation\u003c/b\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:53px; max-width:53px\"\u003eYear 2\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:321px; max-width:321px\"\u003eCFO ÷ Cash Outflows for investing and financing or 28.5 ÷ (16.5 + 4.7) =\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:61px; max-width:61px\"\u003e1.34\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:124px; max-width:124px\"\u003eImproved\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:53px; max-width:53px\"\u003eYear 1\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:321px; max-width:321px\"\u003eGiven\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:61px; max-width:61px\"\u003e0.82\u003c/td\u003e\n\u003ctd style=\"text-align:center; width:124px; max-width:124px\"\u003e---\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\u003c/table\u003e\n\u003c/div\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "987f36fe-df2d-4e5b-a4ed-400e0a6808bd",
+                            "itemBody": "\u003cp\u003eA. acquire assets improved.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7b8531bc-8ee8-4de8-94d2-507bfc2eb3e5",
+                            "itemBody": "\u003cp\u003eB. pay dividends decreased.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a16d85b8-39c3-471d-a47e-5bcbd51a3c54",
+                            "itemBody": "\u003cp\u003eC. acquire assets, pay debts, and make distributions to owners decreased.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8623,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4447,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53692",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-FRA-Pitrakkou-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAn analyst gathers the following information (in € thousands) about a company:\u003c/span\u003e\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 299px; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 245px; max-width: 245px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eCash flow from operating activities\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 39px; max-width: 39px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e120\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 245px; max-width: 245px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eCapital expenditures\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 39px; max-width: 39px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e50\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 245px; max-width: 245px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eDepreciation\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 39px; max-width: 39px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e15\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 245px; max-width: 245px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eInterest paid and expensed\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width: 39px; max-width: 39px; text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e4\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eIf interest paid is classified as a cash flow from financing activities and the income tax rate is 25%, FCFF (in € thousands) is:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e037b9dd-7e1a-4643-ad8b-a8d99fa6dd23"
+                },
+                "answerFeedback": {
+                    "0c286250-e1f5-4f81-ab51-09e132096797": "\u003cp\u003eIncorrect because it assumes that CFO (instead of Net income) should have been adjusted for depreciation. Accordingly,\u0026nbsp;FCFF = CFO + Depreciation\u0026nbsp;– FCInv; or = 120 + 15 – 50 = 85.\u0026nbsp;\u003c/p\u003e",
+                    "e037b9dd-7e1a-4643-ad8b-a8d99fa6dd23": "\u003cp\u003eCorrect because, while FCFF = CFO + Int(1 – Tax rate) – FCInv, if interest paid is included in financing activities, then CFO does not have to be adjusted for Int(1 – Tax rate).\u0026nbsp;Accordingly, for this company, FCFF = CFO\u0026nbsp;– FCInv; or = 120 – 50 = 70.\u003c/p\u003e",
+                    "e9ddd954-f434-46e8-83ab-407fb51d8ae5": "\u003cp\u003eIncorrect because it assumes interest paid is classified as a cash flow from operating activities.\u0026nbsp;Accordingly,\u0026nbsp;FCFF = CFO + Int(1 – Tax rate) – FCInv; or = 120 + [4 × (1 – 25%)] – 50; or = 120 + 3 – 50 = 73.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e037b9dd-7e1a-4643-ad8b-a8d99fa6dd23",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e70.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e9ddd954-f434-46e8-83ab-407fb51d8ae5",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e73.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0c286250-e1f5-4f81-ab51-09e132096797",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e85.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8623,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4447,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

@@ -1,0 +1,1319 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6282,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 21,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 6: Industry and Competitive Analysis",
+        "topic_id": 1035,
+        "topic": "CFA-26-02-LI-C: Equity",
+        "subtopic_id": 6282,
+        "subtopic": "Module 6: Industry and Competitive Analysis",
+        "question_count": 21,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 851,
+                "name": "Warehouse Course: Equity 26-LI",
+                "code": "Warehouse Course: Equity 26-LI",
+                "module_id": 4460,
+                "question_count": 10,
+                "type": "warehouse"
+            },
+            {
+                "id": 842,
+                "name": "Practice Pack Warehouse: Equity 26-LI",
+                "code": "Practice Pack Warehouse: Equity 26-LI",
+                "module_id": 4677,
+                "question_count": 11,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 21.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "7ab362e3244bf532",
+        "ordered_item_ids": [
+            "54971",
+            "54972",
+            "54973",
+            "54974",
+            "54975",
+            "54976",
+            "54977",
+            "54978",
+            "54979",
+            "54980",
+            "54981",
+            "53297",
+            "53298",
+            "53299",
+            "53300",
+            "53301",
+            "53302",
+            "53303",
+            "53304",
+            "53785",
+            "53787"
+        ],
+        "visible_item_ids": [
+            "54971",
+            "54972",
+            "54973",
+            "54974",
+            "54975",
+            "54976",
+            "54977",
+            "54978",
+            "54979",
+            "54980",
+            "54981",
+            "53297",
+            "53298",
+            "53299",
+            "53300",
+            "53301",
+            "53302",
+            "53303",
+            "53304",
+            "53785",
+            "53787"
+        ]
+    },
+    "items": [
+        {
+            "id": "54971",
+            "entry": {
+                "title": "ITEM_ Copy of 2019B Equity 02FCE 08U3",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWithin Porter’s five forces framework, the power of buyers within an industry is \u003ci\u003emost likely\u003c/i\u003e influenced by the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0ff1ff34-a4f9-4569-a052-18824122c734"
+                },
+                "answerFeedback": {
+                    "0ff1ff34-a4f9-4569-a052-18824122c734": "\u003cp\u003eCorrect because the smaller the number of buyers, the more likely buyer power will increase. Bargaining Power of Customers.\u0026nbsp;Affected by: size and concentration of customers, costs of switching to other suppliers, customers’ ability to produce the product or service themselves.\u0026nbsp;Are customers able to force price reductions or better payment terms? This can affect the intensity of competition by exerting influence on suppliers regarding prices (and possibly other factors such as product quality). For example, auto parts companies generally sell to a small number of auto manufacturers, which allows those customers, the auto manufacturers, to be tough negotiators when it comes to setting prices.\u003c/p\u003e",
+                    "c6e20f6f-a44a-4a6c-af55-cd10afd8f4f9": "\u003cp\u003eIncorrect because the degree of industry concentration most likely explains the bargaining power of suppliers, which is a different Porter force.\u003c/p\u003e",
+                    "eadc84d0-6527-4358-b72b-4f58d3736dab": "\u003cp\u003eIncorrect because the availability of lower priced alternative brands most likely explains the threat of substitution, a different Porter force.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c6e20f6f-a44a-4a6c-af55-cd10afd8f4f9",
+                            "itemBody": "\u003cp\u003eA. industry concentration.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "eadc84d0-6527-4358-b72b-4f58d3736dab",
+                            "itemBody": "\u003cp\u003eB. availability of lower priced alternative brands.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0ff1ff34-a4f9-4569-a052-18824122c734",
+                            "itemBody": "\u003cp\u003eC. number of customers for the industry’s products.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8852,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4677,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54972",
+            "entry": {
+                "title": "ITEM_CFA-L1-09532",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe Global Industry Classification Standard's broadest level of classification is a(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3a17e2c1-1e05-4c6c-bd30-1e7881b7bcc5"
+                },
+                "answerFeedback": {
+                    "3a17e2c1-1e05-4c6c-bd30-1e7881b7bcc5": "\u003cp\u003eCorrect because in the GICS each company is assigned to a sub-industry according to its principal business activity. Each sub-industry belongs to a particular industry; each industry belongs to an industry group; and each group belongs to a sector. In June 2009, the GICS classification structure comprised four levels of detail consisting of 154 sub- industries, 68 industries, 24 industry groups, and 10 sectors.\u0026nbsp;Therefore, a sector is the broadest level of classification.\u0026nbsp;\u003c/p\u003e",
+                    "8f0268ee-5b6b-4994-bdca-d573dafbe832": "\u003cp\u003eIncorrect because a sector is the broadest level of classification. Each industry belongs to an industry group; and each group belongs to a sector.\u003c/p\u003e",
+                    "f301d2ed-e231-45ee-a684-910182039cea": "\u003cp\u003eIncorrect because a sector is the broadest level of classification. Each industry belongs to an industry group; and each group belongs to a sector.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3a17e2c1-1e05-4c6c-bd30-1e7881b7bcc5",
+                            "itemBody": "\u003cp\u003eA. sector.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8f0268ee-5b6b-4994-bdca-d573dafbe832",
+                            "itemBody": "\u003cp\u003eB. industry.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f301d2ed-e231-45ee-a684-910182039cea",
+                            "itemBody": "\u003cp\u003eC. industry group.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8852,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4677,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54973",
+            "entry": {
+                "title": "ITEM_CFA-L1-08572",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eExternal factors affecting an industry's growth \u003ci\u003emost likely\u003c/i\u003e include:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "faee90d5-7f46-4e47-8ab1-462132fc1f50"
+                },
+                "answerFeedback": {
+                    "bcb35210-233b-4d0f-9f11-6c11637f8640": "\u003cp\u003eIncorrect because external factors affecting an industry's growth include macroeconomic, technological, demographic, governmental, and social influences. In contrast, economies of scale is an internal factor.\u003c/p\u003e",
+                    "bee0df86-a269-4c34-be7c-3218d4dc722f": "\u003cp\u003eIncorrect because external factors affecting an industry's growth include macroeconomic, technological, demographic, governmental, and social influences. In contrast, cost structures (or cost conditions) are internal factors.\u003c/p\u003e",
+                    "faee90d5-7f46-4e47-8ab1-462132fc1f50": "\u003cp\u003eCorrect because external factors affecting an industry's growth include macroeconomic, technological, demographic, governmental, and social influences.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bee0df86-a269-4c34-be7c-3218d4dc722f",
+                            "itemBody": "\u003cp\u003eA. cost structures.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "bcb35210-233b-4d0f-9f11-6c11637f8640",
+                            "itemBody": "\u003cp\u003eB. economies of scale.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "faee90d5-7f46-4e47-8ab1-462132fc1f50",
+                            "itemBody": "\u003cp\u003eC. technological influences.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8852,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4677,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54974",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Equity-Islam-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCommercial industry classification systems are \u003ci\u003emost likely\u003c/i\u003e updated:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9515e1a1-f6ac-4e47-aa27-5627ed33660d"
+                },
+                "answerFeedback": {
+                    "4ad7c34b-959f-4e29-b646-2ddf5356afc9": "\u003cp\u003eIncorrect because most government and commercial classification systems are reviewed and, if necessary, updated from time to time. Generally, commercial classification systems are adjusted more frequently than government classification systems, which may be updated only every five years or so.\u003c/p\u003e",
+                    "9515e1a1-f6ac-4e47-aa27-5627ed33660d": "\u003cp\u003eCorrect because most government and commercial classification systems are reviewed and, if necessary, updated from time to time. Generally, commercial classification systems are adjusted more frequently than government classification systems, which may be updated only every five years or so.\u003c/p\u003e",
+                    "98a63db9-7bee-40cc-a26e-43238ee91089": "\u003cp\u003eIncorrect because most government and commercial classification systems are reviewed and, if necessary, updated from time to time. Generally, commercial classification systems are adjusted more frequently than government classification systems, which may be updated only every five years or so.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4ad7c34b-959f-4e29-b646-2ddf5356afc9",
+                            "itemBody": "\u003cp\u003eA. less frequently than government classification systems.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "98a63db9-7bee-40cc-a26e-43238ee91089",
+                            "itemBody": "\u003cp\u003eB. as frequently as\u0026nbsp;government classification systems.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9515e1a1-f6ac-4e47-aa27-5627ed33660d",
+                            "itemBody": "\u003cp\u003eC. more frequently than government classification systems.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8852,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4677,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54975",
+            "entry": {
+                "title": "ITEM_CFA-L1-09848",
+                "feedback": {},
+                "itemBody": "\u003cp\u003ePorter's five determinants of the intensity of competition in an industry do\u0026nbsp;\u003cb\u003enot\u003c/b\u003e include the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "53df6f6f-8d00-4243-89b4-10854bbdac2e"
+                },
+                "answerFeedback": {
+                    "085f803e-346f-4e97-9be5-2c28d71f3c29": "\u003cp\u003eIncorrect because threat of substitutes is part of the five forces.\u0026nbsp;\u003c/p\u003e",
+                    "53df6f6f-8d00-4243-89b4-10854bbdac2e": "\u003cp\u003eCorrect because the position of a company in its life-cycle stage is not part of Porter's five forces. The five forces are: threat of entry, power of suppliers, power of buyers, threat of substitutes, and rivalry among existing competitors.\u0026nbsp;\u003c/p\u003e",
+                    "db256e57-09e3-4d4d-8c20-dd16be6a91d8": "\u003cp\u003eIncorrect because power of buyers is part of the five forces.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "db256e57-09e3-4d4d-8c20-dd16be6a91d8",
+                            "itemBody": "\u003cp\u003eA. power of buyers.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "085f803e-346f-4e97-9be5-2c28d71f3c29",
+                            "itemBody": "\u003cp\u003eB. threat of substitutes.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "53df6f6f-8d00-4243-89b4-10854bbdac2e",
+                            "itemBody": "\u003cp\u003eC. position of a company in its life-cycle stage.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8852,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4677,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54976",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Equity-Zipp-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following \u003ci\u003ebest\u003c/i\u003e describes an industry-level force in a thorough industry analysis?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9e68fddb-6fdf-4782-9073-6ec8465b7a5e"
+                },
+                "answerFeedback": {
+                    "55fc1a99-4318-49d8-8457-2bcdf732f1ae": "\u003cp\u003eIncorrect because macro forces (rather than industry forces) include macroeconomic, demographic, environmental, governmental, social, and technological influences affecting the industry.\u003c/p\u003e",
+                    "9e68fddb-6fdf-4782-9073-6ec8465b7a5e": "\u003cp\u003eCorrect because industry-level forces driving industry competition include: threat of new entrants, substitution threats, customer and supplier bargaining forces, the competitive forces in the industry (rivalry), life-cycle issues, and business-cycle considerations.\u003c/p\u003e",
+                    "c3eff377-c4f1-452e-a911-2ebd15e16d5c": "\u003cp\u003eIncorrect because macro forces (rather than industry forces) include macroeconomic, demographic, environmental, governmental, social, and technological influences affecting the industry.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9e68fddb-6fdf-4782-9073-6ec8465b7a5e",
+                            "itemBody": "\u003cp\u003eA. Threat of new entrants\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "55fc1a99-4318-49d8-8457-2bcdf732f1ae",
+                            "itemBody": "\u003cp\u003eB. Demographic influences\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c3eff377-c4f1-452e-a911-2ebd15e16d5c",
+                            "itemBody": "\u003cp\u003eC. Technological influences\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8852,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4677,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54977",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Equity-Young-05",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following industries or sectors is \u003ci\u003emost likely\u003c/i\u003e classified as cyclical?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "016ae328-d909-4236-be3c-a57a0a3b3ac5"
+                },
+                "answerFeedback": {
+                    "016ae328-d909-4236-be3c-a57a0a3b3ac5": "\u003cp\u003eCorrect because examples of cyclical industries and broader sectors are autos, housing, basic materials, industrials, and technology.\u003c/p\u003e",
+                    "ad48379b-5a97-4167-ba6c-5e8bbb880d7c": "\u003cp\u003eIncorrect because utilities are classified as non-cyclical. Examples of non-cyclical industries are food and beverage, household and personal care products, health care, and utilities.\u003c/p\u003e",
+                    "b63c7099-222e-4fe5-8856-c4a106291ba1": "\u003cp\u003eIncorrect because health care is classified as non-cyclical. Examples of non-cyclical industries are food and beverage, household and personal care products, health care, and utilities.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ad48379b-5a97-4167-ba6c-5e8bbb880d7c",
+                            "itemBody": "\u003cp\u003eA. Utilities\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "016ae328-d909-4236-be3c-a57a0a3b3ac5",
+                            "itemBody": "\u003cp\u003eB. Industrials\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b63c7099-222e-4fe5-8856-c4a106291ba1",
+                            "itemBody": "\u003cp\u003eC. Health care\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8852,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4677,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54978",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Equity-Tsependa-08",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIndustry classification systems are developed and used by:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bed5ec3b-b855-4784-b3a1-90441c934456"
+                },
+                "answerFeedback": {
+                    "2f9f34b7-a744-4292-ae7f-07a08a1971ca": "\u003cp\u003eIncorrect because industry classification systems are developed and used by both commercial entities and various governmental agencies.\u003c/p\u003e",
+                    "4b586890-b578-4d05-95c7-aceac17dd7c7": "\u003cp\u003eIncorrect because industry classification systems are developed and used by both commercial entities and various governmental agencies.\u003c/p\u003e",
+                    "bed5ec3b-b855-4784-b3a1-90441c934456": "\u003cp\u003eCorrect because industry classification systems are developed and used by both commercial entities and various governmental agencies.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4b586890-b578-4d05-95c7-aceac17dd7c7",
+                            "itemBody": "\u003cp\u003eA. commercial entities only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2f9f34b7-a744-4292-ae7f-07a08a1971ca",
+                            "itemBody": "\u003cp\u003eB. governmental agencies only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bed5ec3b-b855-4784-b3a1-90441c934456",
+                            "itemBody": "\u003cp\u003eC. both commercial entities and governmental agencies.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8852,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4677,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54979",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Equity-Horvath-05",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is considered an external influence on industry growth?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f35b0a80-7962-40a5-913f-4b6d65040cda"
+                },
+                "answerFeedback": {
+                    "0d6b2e20-002e-43ce-b00d-5b8e73626335": "\u003cp\u003eIncorrect because barriers to entry are considered internal factors affecting an industry, while external factors affecting an industry’s growth include macroeconomic, technological, demographic, governmental, and social influences.\u003c/p\u003e",
+                    "bdfb89e2-2a9e-427f-aefe-29df61286928": "\u003cp\u003eIncorrect because industry concentration is considered an internal factor affecting an industry, while external factors affecting an industry’s growth include macroeconomic, technological, demographic, governmental, and social influences.\u003c/p\u003e",
+                    "f35b0a80-7962-40a5-913f-4b6d65040cda": "\u003cp\u003eCorrect because external factors affecting an industry’s growth include macroeconomic, technological, demographic, governmental, and social influences.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f35b0a80-7962-40a5-913f-4b6d65040cda",
+                            "itemBody": "\u003cp\u003eA. Social trends\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0d6b2e20-002e-43ce-b00d-5b8e73626335",
+                            "itemBody": "\u003cp\u003eB. Barriers to entry\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bdfb89e2-2a9e-427f-aefe-29df61286928",
+                            "itemBody": "\u003cp\u003eC. Industry concentration\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8852,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4677,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54980",
+            "entry": {
+                "title": "ITEM_CFA-L1-06188",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIndustries whose revenues and profits are least\u003cb\u003e \u003c/b\u003eaffected by fluctuations in the overall economy are \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "59289039-8888-4fc6-b798-32a81e91d3ec"
+                },
+                "answerFeedback": {
+                    "073596d2-143b-49e0-9f82-a46f2bf37026": "\u003cp\u003eIncorrect because growth industries would include industries with specific demand dynamics that are so strong that they override the significance of broad economic or other external factors and generate growth regardless of overall economic conditions, although their rates of growth may slow during an economic downturn.\u003c/p\u003e",
+                    "4dda13b0-4b2b-4cc0-bb30-972940ff97c1": "\u003cp\u003eIncorrect because a cyclical industry is one whose profits are strongly correlated with the strength of the overall economy. Such companies experience wider-than-average fluctuations in demand—high demand during periods of economic expansion and low demand during periods of economic contraction—and/or are subject to greater-than-average profit variability related to high operating leverage (i.e., high fixed costs).\u003c/p\u003e",
+                    "59289039-8888-4fc6-b798-32a81e91d3ec": "\u003cp\u003eCorrect because defensive industries and companies are those whose revenues and profits are least affected by fluctuations in overall economic activity. These industries/companies tend to produce staple consumer goods (e.g., bread), to provide basic services (grocery stores, drug stores, fast food outlets).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "073596d2-143b-49e0-9f82-a46f2bf37026",
+                            "itemBody": "\u003cp\u003eA. growth industries.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4dda13b0-4b2b-4cc0-bb30-972940ff97c1",
+                            "itemBody": "\u003cp\u003eB. cyclical industries.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "59289039-8888-4fc6-b798-32a81e91d3ec",
+                            "itemBody": "\u003cp\u003eC. defensive industries.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8852,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4677,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54981",
+            "entry": {
+                "title": "ITEM_CFA-L1-10899",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost likely\u003c/i\u003e a demographic influence on industry growth?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ea292d74-8820-4167-9fc6-8cc8c23132f3"
+                },
+                "answerFeedback": {
+                    "84eae590-8629-4bbc-a183-20519048585b": "\u003cp\u003eIncorrect because changes in spending behavior of the customers happen due to societal influences. Societal changes involving how people work, spend their money, enjoy their leisure time, and conduct other aspects of their lives can have significant effects on the sales of various industries.\u003c/p\u003e",
+                    "ea292d74-8820-4167-9fc6-8cc8c23132f3": "\u003cp\u003eCorrect because changes in distribution of age happen due to demographic influence. Changes in population size, in the distributions of age and gender, and in other demographic characteristics may have significant effects on economic growth and on the amounts and types of goods and services consumed.\u003c/p\u003e",
+                    "fa7bd488-afdd-428a-bbaf-28f9dd1bbe5e": "\u003cp\u003eIncorrect because changes in the lifestyle of people happen due to societal influences. Societal changes involving how people work, spend their money, enjoy their leisure time, and conduct other aspects of their lives can have significant effects on the sales of various industries.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fa7bd488-afdd-428a-bbaf-28f9dd1bbe5e",
+                            "itemBody": "\u003cp\u003eA. Lifestyle\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ea292d74-8820-4167-9fc6-8cc8c23132f3",
+                            "itemBody": "\u003cp\u003eB. Distribution of age\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "84eae590-8629-4bbc-a183-20519048585b",
+                            "itemBody": "\u003cp\u003eC. Spending behavior\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8852,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4677,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53297",
+            "entry": {
+                "title": "CFA2428-R-s06-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Classification by country is typically by the country where the issuer is incorporated, the country of the primary listing of its equity securities, the location of its headquarters, or market perception. Note that classification by the geographic composition of revenue is generally \u003cem\u003enot\u003c/em\u003e the approach taken, though this aspect may be the foremost concern for an analyst.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn alternative method of grouping companies by geography is \u003cem\u003eleast likely\u003c/em\u003e to be completed using:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "882568bf-7920-4c59-8373-eec5a46c7097"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e64c65ac-b63c-4dac-b3b2-135c171a22d1",
+                            "itemBody": "A. location of head office.",
+                            "position": 1
+                        },
+                        {
+                            "id": "882568bf-7920-4c59-8373-eec5a46c7097",
+                            "itemBody": "B. geographic composition of revenue.",
+                            "position": 2
+                        },
+                        {
+                            "id": "264741b7-1b1e-445a-820f-4f68e6c779bc",
+                            "itemBody": "C. primary listing of its equity securities.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8522,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4460,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53298",
+            "entry": {
+                "title": "CFA2428-R-s06-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The Herfindahl-Hirschman Index (HHI) is calculated as the sum of the squares of competitor market shares. In this example, the HHI is calculated as (50\u003csup\u003e2\u003c/sup\u003e + 30\u003csup\u003e2\u003c/sup\u003e + 20\u003csup\u003e2\u003c/sup\u003e = 3,800). A incorrectly calculates the HHI using the percentage market shares (0.5\u003csup\u003e2\u003c/sup\u003e + 0.3\u003csup\u003e2\u003c/sup\u003e + 0.2\u003csup\u003e2\u003c/sup\u003e = 0.38). B incorrectly calculates the HHI using only the market leader concentration (50\u003csup\u003e2\u003c/sup\u003e = 2,500).\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA market consists of three firms with market shares of 50%, 30%, and 20%. The Herfindahl-Hirschman Index (HHI) is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f02a7d3f-866d-4b6b-a7b5-23c1bc201a04"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4b855a3f-be1d-44f3-8044-60f98e288d2f",
+                            "itemBody": "A. 0.38.",
+                            "position": 1
+                        },
+                        {
+                            "id": "95d1dde7-fae1-49ee-9b56-c127f3d22827",
+                            "itemBody": "B. 2,500.",
+                            "position": 2
+                        },
+                        {
+                            "id": "f02a7d3f-866d-4b6b-a7b5-23c1bc201a04",
+                            "itemBody": "C. 3,800.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8522,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4460,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53299",
+            "entry": {
+                "title": "CFA2428-R-s06-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Lower industry concentration, defined as many small competitors in the market, is usually associated with a high degree of competitive intensity unless the industry is service-oriented, is local in nature, or has high product differentiation.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eLower industry concentration is usually associated with a high degree of competitive intensity unless the industry is \u003cem\u003emost likely\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fb5cf650-7fb9-47b1-a2d8-7335eab49721"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bb8e1ec3-7776-4c20-b590-eec727d50e52",
+                            "itemBody": "A. global.",
+                            "position": 1
+                        },
+                        {
+                            "id": "fb5cf650-7fb9-47b1-a2d8-7335eab49721",
+                            "itemBody": "B. service-oriented.",
+                            "position": 2
+                        },
+                        {
+                            "id": "3c47a3fe-bdcd-4188-bf93-ee0548f3517c",
+                            "itemBody": "C. one with low product differentiation.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8522,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4460,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53300",
+            "entry": {
+                "title": "CFA2428-R-s06-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Increased environmental regulations on automotive manufacturers represent an additional cost for compliance when building a new manufacturing facility and increase the barriers to entry into the industry.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIncreased environmental regulations on automotive manufacturers will \u003cem\u003emost likely\u003c/em\u003e have which of the following effects on the threat of new entrants?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "14122b49-2fb3-4a81-9798-9f2fdee27d93"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d54fe5e2-c24a-473f-86a8-d26b2433ae14",
+                            "itemBody": "A. An increase",
+                            "position": 1
+                        },
+                        {
+                            "id": "14122b49-2fb3-4a81-9798-9f2fdee27d93",
+                            "itemBody": "B. A decrease",
+                            "position": 2
+                        },
+                        {
+                            "id": "8bb58f4b-679a-47cf-bb07-15e440bd4b87",
+                            "itemBody": "C. No change",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8522,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4460,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53301",
+            "entry": {
+                "title": "CFA2428-R-s06-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The described mobile application represents a fundamental change in the business model of a law firm. The application is a disruptive, not sustaining, innovation, as it brings new entrants into the market but with a very different value proposition. The CEO’s decision represents the “innovator’s dilemma”: the firm can either invest in the disruptive innovation, speeding the decline of its existing business but not losing market share, or ignore the innovation and lose market share while continuing to generate strong profits in the near term.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe CEO of a large law firm is concerned about a new mobile application that uses algorithms to auto-complete legal forms and questions in discovery and provides recommendations for small-claims matters at a much lower cost than a traditional law firm charges. As a result, the CEO is contemplating whether the firm should develop and launch its own branded application, which would affect its short-term profitability but maintain its existing customer base, or give up market share to focus on more complex claims with higher profitability. This scenario is an example of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "452affb3-8852-44e9-a311-06145d3f9d0d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b2daf251-2232-4695-b532-ba68149a6d3d",
+                            "itemBody": "A. defensiveness.",
+                            "position": 1
+                        },
+                        {
+                            "id": "452affb3-8852-44e9-a311-06145d3f9d0d",
+                            "itemBody": "B. innovator’s dilemma.",
+                            "position": 2
+                        },
+                        {
+                            "id": "68e74e4b-90b7-4a85-afbc-fcc7c6666d97",
+                            "itemBody": "C. sustaining innovation.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8522,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4460,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53302",
+            "entry": {
+                "title": "CFA2428-R-s06-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. PESTLE analysis is a framework for identifying “themes” or “narratives” that investors may take a perspective on and desire exposure to. B refers to the Herfindahl-Hirschman Index. C refers to Porter’s Five Forces.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ePESTLE analysis is a framework for identifying:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b3f3061a-4a0e-4390-b849-2380c1a0b206"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b3f3061a-4a0e-4390-b849-2380c1a0b206",
+                            "itemBody": "A. industry themes.",
+                            "position": 1
+                        },
+                        {
+                            "id": "07272ca5-2990-4beb-a45f-3357056a4ae0",
+                            "itemBody": "B. the level of industry concentration.",
+                            "position": 2
+                        },
+                        {
+                            "id": "f7f19c2c-969e-422d-8894-82933720d164",
+                            "itemBody": "C. determinants of industry profitability.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8522,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4460,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53303",
+            "entry": {
+                "title": "CFA2428-R-s06-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Proximity to customers is a means of executing a focus strategy. The means of executing a cost leadership strategy include economies of scale from fixed costs, favorable access to raw materials, a culture of strict cost control, aggressive pricing to gain high volume, low-cost distribution, and economies of scope.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe means of executing cost leadership competitive strategies \u003cem\u003edo not include\u003c/em\u003e which of the following?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2f9e76d7-0b77-4cf3-808c-555931c8e9bd"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2f9e76d7-0b77-4cf3-808c-555931c8e9bd",
+                            "itemBody": "A. proximity to customers",
+                            "position": 1
+                        },
+                        {
+                            "id": "d7a9ae94-edec-4147-b565-0b884d669eaf",
+                            "itemBody": "B. favorable access to raw materials",
+                            "position": 2
+                        },
+                        {
+                            "id": "2ccbefd6-b024-44c0-8f50-e324238d8d6f",
+                            "itemBody": "C. economies of scale from fixed costs",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8522,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4460,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53304",
+            "entry": {
+                "title": "CFA2428-R-s06-Q13",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The risks of a differentiation strategy include imitation by competitors, buyers becoming sophisticated and no longer demanding level of service, and pricing premiums becoming too high for customers to beat; such a strategy may also preclude high market share, as customers value exclusivity. B relates to a focus strategy, while C relates to a cost leadership strategy.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is \u003cem\u003emost likely\u003c/em\u003e a risk of executing a differentiation competitive strategy?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "30ded660-f2f8-4bcc-8eff-26953efdf5dc"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "30ded660-f2f8-4bcc-8eff-26953efdf5dc",
+                            "itemBody": "A. pricing premiums become too high",
+                            "position": 1
+                        },
+                        {
+                            "id": "7b60d940-ada6-4b5f-aee9-0749e6ea69c6",
+                            "itemBody": "B. larger competitors outcompete on price",
+                            "position": 2
+                        },
+                        {
+                            "id": "b81ca3a7-3cd2-4f65-919b-d7faf9018df9",
+                            "itemBody": "C. a desire for premium-ization among customers",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8522,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4460,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53785",
+            "entry": {
+                "title": "ITEM_20170516133",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following types of companies is \u003ci\u003emost\u003c/i\u003e sensitive to economic conditions?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4f04a531-bea8-45da-829f-3dafc34e56da"
+                },
+                "answerFeedback": {
+                    "3813972a-0019-494a-aa50-3cf4381824cc": "\u003cp\u003eIncorrect. Growth firms have steady increases in demand and are less dependent on economic conditions.\u003c/p\u003e",
+                    "4f04a531-bea8-45da-829f-3dafc34e56da": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The performance of companies with cyclical demand for their products is highly variable and depends on economic conditions.\u003c/p\u003e",
+                    "e66ed834-684e-4cb7-b7dc-f083e82d5e2f": "\u003cp\u003eIncorrect. Defensive demand is stable and does not fluctuate with the economic cycle, except in severe recessions.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4f04a531-bea8-45da-829f-3dafc34e56da",
+                            "itemBody": "\u003cp\u003eA. Cyclical\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3813972a-0019-494a-aa50-3cf4381824cc",
+                            "itemBody": "\u003cp\u003eB. Growth\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e66ed834-684e-4cb7-b7dc-f083e82d5e2f",
+                            "itemBody": "\u003cp\u003eC. Defensive\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8645,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4460,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53787",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Equity-Islam-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe Global Industry Classification Standard (GICS) classifies\u0026nbsp;industries\u0026nbsp;based on:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "92417069-5cbe-490c-ab0d-fca7f88be1fc"
+                },
+                "answerFeedback": {
+                    "2e10ba8b-9468-42c5-a947-7379460d0799": "\u003cp\u003eIncorrect because examples of classification systems based on products and/or services include the commercial classification systems,\u0026nbsp;namely, the Global Industry Classification Standard (GICS).\u003c/p\u003e",
+                    "8c696192-8bff-4380-9eee-a02df8df8f18": "\u003cp\u003eIncorrect because examples of classification systems based on products and/or services include the commercial classification systems,\u0026nbsp;namely, the Global Industry Classification Standard (GICS).\u003c/p\u003e",
+                    "92417069-5cbe-490c-ab0d-fca7f88be1fc": "\u003cp\u003eCorrect because examples of classification systems based on products and/or services include the commercial classification systems,\u0026nbsp;namely, the Global Industry Classification Standard (GICS).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8c696192-8bff-4380-9eee-a02df8df8f18",
+                            "itemBody": "\u003cp\u003eA. statistical similarities.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2e10ba8b-9468-42c5-a947-7379460d0799",
+                            "itemBody": "\u003cp\u003eB. business-cycle sensitivities.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "92417069-5cbe-490c-ab0d-fca7f88be1fc",
+                            "itemBody": "\u003cp\u003eC. products and/or services supplied.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8645,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4460,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

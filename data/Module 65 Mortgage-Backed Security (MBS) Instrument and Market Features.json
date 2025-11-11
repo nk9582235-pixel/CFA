@@ -1,0 +1,1534 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6408,
+    "time_spent": 4,
+    "questions_answered": 0,
+    "question_count": 23,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 19: Mortgage-Backed Security (MBS) Instrument and Market Features",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6408,
+        "subtopic": "Module 19: Mortgage-Backed Security (MBS) Instrument and Market Features",
+        "question_count": 23,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4481,
+                "question_count": 18,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4698,
+                "question_count": 5,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 24.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "65b44640c39951d6",
+        "ordered_item_ids": [
+            "55095",
+            "55096",
+            "55097",
+            "55098",
+            "55099",
+            "63431",
+            "51275",
+            "51276",
+            "51277",
+            "51278",
+            "51279",
+            "51280",
+            "51281",
+            "51282",
+            "51283",
+            "51284",
+            "51285",
+            "51286",
+            "51287",
+            "51288",
+            "51289",
+            "51290",
+            "53846",
+            "53847",
+            "53848",
+            "53849",
+            "53850"
+        ],
+        "visible_item_ids": [
+            "55095",
+            "55096",
+            "55097",
+            "55098",
+            "55099",
+            "63431",
+            "51275",
+            "51276",
+            "51277",
+            "51278",
+            "51279",
+            "51280",
+            "51281",
+            "51282",
+            "51283",
+            "51284",
+            "51285",
+            "51286",
+            "51287",
+            "51288",
+            "51289",
+            "51290",
+            "53846",
+            "53847",
+            "53848",
+            "53849",
+            "53850"
+        ]
+    },
+    "items": [
+        {
+            "id": "55095",
+            "entry": {
+                "title": "ITEM_CFA-L1-05833",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll else being equal, the risk of a strategic default for a non-recourse mortgage is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7fbda725-1751-4f28-bdbc-ebe3754f9461"
+                },
+                "answerFeedback": {
+                    "00889022-070f-4808-a4b8-2369ab6cede3": "\u003cp\u003eIncorrect because for a non-recourse mortgage, the borrower may have an incentive to default on an underwater mortgage and allow the lender to foreclose on the property, even if resources are available to continue to make mortgage payments. This type of default by a borrower is referred to as a “strategic default.”\u0026nbsp;Therefore, the risk of a strategic default is higher (not the same) for a non-recourse mortgage.\u003c/p\u003e",
+                    "0c0e6268-df18-4b71-a033-6305688d047e": "\u003cp\u003eIncorrect because for a non-recourse mortgage, the borrower may have an incentive to default on an underwater mortgage and allow the lender to foreclose on the property, even if resources are available to continue to make mortgage payments. This type of default by a borrower is referred to as a “strategic default.”\u0026nbsp;Therefore, the risk of a strategic default is higher (not lower) for a non-recourse mortgage.\u0026nbsp;\u003c/p\u003e",
+                    "7fbda725-1751-4f28-bdbc-ebe3754f9461": "\u003cp\u003eCorrect because for a non-recourse mortgage, the borrower may have an incentive to default on an underwater mortgage and allow the lender to foreclose on the property, even if resources are available to continue to make mortgage payments. This type of default by a borrower is referred to as a “strategic default\". In countries where residential mortgages are recourse loans, a strategic default is less likely because the lender can seek to recover the shortfall from the borrower's other assets and/or income.\u0026nbsp;Therefore, the risk of a strategic default is higher for a non-recourse mortgage.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0c0e6268-df18-4b71-a033-6305688d047e",
+                            "itemBody": "\u003cp\u003eA. lower than for a recourse mortgage.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "00889022-070f-4808-a4b8-2369ab6cede3",
+                            "itemBody": "\u003cp\u003eB. the same as for a recourse mortgage.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7fbda725-1751-4f28-bdbc-ebe3754f9461",
+                            "itemBody": "\u003cp\u003eC. greater than for a recourse mortgage.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8894,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4698,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55096",
+            "entry": {
+                "title": "ITEM_2019B-F-12KXK",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following mortgage features \u003ci\u003emost likely\u003c/i\u003e benefits the lender?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "54ead4fe-4ccb-451a-a4a4-02a7cabc2550"
+                },
+                "answerFeedback": {
+                    "4042a5e1-b251-4d30-b230-76a9c019776c": "\u003cp\u003eIncorrect because a\u0026nbsp;mortgage may entitle the borrower to prepay all or part of the outstanding mortgage principal prior to the scheduled due date when the principal must be repaid. This contractual provision is referred to as a prepayment option\u003cb\u003e \u003c/b\u003eor an early repayment option. From the lender’s or investor’s viewpoint, the effect of a prepayment option is that the amount and timing of the cash flows from a mortgage cannot be known with certainty.\u0026nbsp;The prepayment option benefits the borrower rather than the lender.\u003c/p\u003e",
+                    "54ead4fe-4ccb-451a-a4a4-02a7cabc2550": "\u003cp\u003eCorrect because the purpose of the prepayment penalty is to compensate the lender for the difference between the contract rate and the prevailing mortgage rate if the borrower prepays when interest rates decline.\u003c/p\u003e",
+                    "c523aa10-a0f3-4c48-bb46-06dba7079c32": "\u003cp\u003eIncorrect because in a recourse loan, the lender has a claim against the borrower for the shortfall between the amount of the outstanding mortgage balance and the proceeds received from the sale of the property. In a non-recourse loan, the lender does not have such a claim and thus can look only to the property to recover the outstanding mortgage balance.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c523aa10-a0f3-4c48-bb46-06dba7079c32",
+                            "itemBody": "\u003cp\u003eA. Non-recourse loan\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4042a5e1-b251-4d30-b230-76a9c019776c",
+                            "itemBody": "\u003cp\u003eB. Prepayment option\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "54ead4fe-4ccb-451a-a4a4-02a7cabc2550",
+                            "itemBody": "\u003cp\u003eC. Prepayment penalty\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8894,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4698,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55097",
+            "entry": {
+                "title": "ITEM_CFA-L1-06805",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhen interest rates increase, mortgage-backed securities \u003ci\u003emost likely\u003c/i\u003e exhibit increased:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d2195fed-0b9b-415e-9e13-369a94cbcc0a"
+                },
+                "answerFeedback": {
+                    "3a67a159-7e94-4cbb-bbb0-7c3e17f00497": "\u003cp\u003eIncorrect because contraction risk is the risk that when interest rates decline, actual prepayments will be higher than forecasted because homeowners will refinance at now-available lower interest rates. \u0026nbsp;First, investors must reinvest the proceeds at lower interest rates.\u0026nbsp;When interest rates decline, as opposed to increase, prepayments are likely to increase and be reinvested at lower rates, thus increasing reinvestment risk. This is not likely to occur when interest rates rise.\u0026nbsp;\u003c/p\u003e",
+                    "3ea3dc30-ed8b-46e0-9090-02e0fe36d82a": "\u003cp\u003eIncorrect because contraction risk is the risk that when interest rates decline, actual prepayments will be higher than forecasted because homeowners will refinance at now-available lower interest rates. Thus, a security backed by mortgages will have a shorter maturity than was anticipated at the time of purchase. Holding a security whose maturity becomes shorter when interest rates decline has two adverse consequences for investors. First, investors must reinvest the proceeds at lower interest rates. Second, if the security is prepayable or callable, its price appreciation is not as great as that of an otherwise identical bond that does not have a prepayment or call option.\u0026nbsp;Increased contraction risk occurs when interest rates decline, not increase.\u003c/p\u003e",
+                    "d2195fed-0b9b-415e-9e13-369a94cbcc0a": "\u003cp\u003eCorrect because extension risk is the risk that when interest rates rise, prepayments will be lower than forecasted because homeowners are reluctant to give up the benefits of a contractual interest rate that now looks low. As a result, a security backed by mortgages will typically have a longer maturity than was anticipated at the time of purchase.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d2195fed-0b9b-415e-9e13-369a94cbcc0a",
+                            "itemBody": "\u003cp\u003eA. extension risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3ea3dc30-ed8b-46e0-9090-02e0fe36d82a",
+                            "itemBody": "\u003cp\u003eB. contraction risk.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3a67a159-7e94-4cbb-bbb0-7c3e17f00497",
+                            "itemBody": "\u003cp\u003eC. reinvestment risk.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8894,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4698,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55098",
+            "entry": {
+                "title": "ITEM_2019B-FI-13KXK21U2",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe coupon of a residential mortgage-backed security is the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c4e102b4-f4dc-4962-9553-992cae51ed68"
+                },
+                "answerFeedback": {
+                    "12acf539-7c4c-4a81-a679-5ad314add8ec": "\u003cp\u003eIncorrect because not all of the mortgages that are included in a pool of securitized mortgages have the same mortgage rate and the same maturity.\u0026nbsp;The WAC is calculated by weighting the mortgage rate of each mortgage in the pool by the percentage of the outstanding mortgage balance relative to the outstanding amount of all the mortgages in the pool.\u0026nbsp;This rate, less servicing and other administrative fees, determines the pass-through rate.\u003c/p\u003e",
+                    "be2d60af-4995-4c8a-8369-1c38ae0bbf41": "\u003cp\u003eIncorrect because a\u0026nbsp;mortgage pass-through security’s coupon rate is called the pass- through rate. The pass-through rate is lower than the mortgage rate on the underlying pool of mortgages by an amount equal to the servicing and other administrative fees. The pass-through rate that the investor receives is said to be ‘net interest’ or ‘net coupon'.\u003c/p\u003e",
+                    "c4e102b4-f4dc-4962-9553-992cae51ed68": "\u003cp\u003eCorrect because a\u0026nbsp;mortgage pass-through security’s coupon rate is called the pass- through rate. The pass-through rate is lower than the mortgage rate on the underlying pool of mortgages by an amount equal to the servicing and other administrative fees. The pass-through rate that the investor receives is said to be 'net interest' or 'net coupon'.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c4e102b4-f4dc-4962-9553-992cae51ed68",
+                            "itemBody": "\u003cp\u003eA. pass-through rate.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "12acf539-7c4c-4a81-a679-5ad314add8ec",
+                            "itemBody": "\u003cp\u003eB. weighted average coupon rate.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "be2d60af-4995-4c8a-8369-1c38ae0bbf41",
+                            "itemBody": "\u003cp\u003eC. rate on the underlying pool of mortgages.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8894,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4698,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55099",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-FI-Agarwal-08",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn a securitization, time tranching \u003ci\u003emost likely\u003c/i\u003e refers to differences in:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7c79661d-3f4d-4adc-8231-17501d3f9039"
+                },
+                "answerFeedback": {
+                    "06d81670-5110-45c4-874a-1d3c9e0e5198": "\u003cp\u003eIncorrect because this relates to credit tranching, not time tranching. In credit tranching, there is more than one bond class or tranche, and the share classes differ as to how they will share losses resulting from defaults of the borrowers whose loans are in the collateral.\u003c/p\u003e",
+                    "7674f603-75ca-4169-9023-6726872bd1fc": "\u003cp\u003eIncorrect because tranching does not change underlying collateral, rather it only changes how losses or prepayments will be shared. In such a structure, there is more than one bond class or tranche, and the share classes differ as to how they will share losses resulting from defaults of the borrowers whose loans are in the collateral.\u003c/p\u003e",
+                    "7c79661d-3f4d-4adc-8231-17501d3f9039": "\u003cp\u003eCorrect because the\u0026nbsp;creation of bond classes that possess different expected maturities is referred to as time tranching.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "06d81670-5110-45c4-874a-1d3c9e0e5198",
+                            "itemBody": "\u003cp\u003eA. default\u0026nbsp;risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7c79661d-3f4d-4adc-8231-17501d3f9039",
+                            "itemBody": "\u003cp\u003eB. expected maturities.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7674f603-75ca-4169-9023-6726872bd1fc",
+                            "itemBody": "\u003cp\u003eC. underlying collateral.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8894,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4698,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "63431",
+            "entry": {
+                "title": "2026CFA LI V6 Module 19 Curriculum Problem Set: Mortgage-Backed Security (MBS) Instrument and Market Features",
+                "archived": false,
+                "entryCount": 61,
+                "itemEntryCount": 13
+            },
+            "status": "mutable",
+            "position": 1,
+            "entryType": "Bank",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51275",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ePlease refer to the information below to answer questions 1 and 2 regarding the bonds securitized by the AR\u0026amp;C leases.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\u003cstrong\u003eAR\u0026amp;C Limited Securitization of Private Jet Leases\u003c/strong\u003e\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAR\u0026amp;C Limited leases private jets to corporations in North America for a fixed term of five years. AR\u0026amp;C retains ownership of the jets. The corporations make equal interest payments each month. If a customer defaults, AR\u0026amp;C can repossess the jet. AR\u0026amp;C has been in business for approximately fifteen years and has a B3 credit rating, meaning that its debt is non-investment grade. AR\u0026amp;C has CAD500 million in leases on its balance sheet that it wants to securitize into ABS.\u003c/p\u003e\n\u003cp\u003e\u003cimg id=\"CFA2448-R-s05-img01\" style=\"width: clamp(250px, 100%, 800px); height: auto; display: block; margin-left: auto; margin-right: auto;\" src=\"https://quiz-api-production-s3-uploads-pdx.s3.us-west-2.amazonaws.com/quiz_assets/ad215b1d-362f-4f66-9289-bc5a556fe02b/e79ab69d953de1f65d51b34322186ac0.png\" alt=\"Cash payments for A B S go to the Special Purpose Entity. Revenue becomes accounts receivable. Company collects and reduces A R balance through customer payments. Additionally, company may lease jets for\u0026nbsp;its\u0026nbsp;operations.\" height=\"413\"\u003e\u003c/p\u003e\n\u003cdiv id=\"CFA2448-R-s05-T-2-b\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eBond Class\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: left; vertical-align: top; padding: 8px;\" scope=\"col\"\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eA (senior)\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cem\u003eTranche A Notes\u003c/em\u003e \u003cbr\u003e\u003cbr\u003eFace value: CAD250 million\u003cbr\u003e\u003cbr\u003eInterest rate: MRR + 1.00%\u003cbr\u003e\u003cbr\u003eMaturity: One year\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eB (subordinated)\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cem\u003eTranche B Notes\u003c/em\u003e \u003cbr\u003e\u003cbr\u003eFace value: CAD100 million\u003cbr\u003e\u003cbr\u003eInterest rate: MRR + 2.00%\u003cbr\u003e\u003cbr\u003eMaturity: Two years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eC (subordinated)\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cem\u003eTranche C Notes\u003c/em\u003e \u003cbr\u003e\u003cbr\u003eFace value: CAD100 million\u003cbr\u003e\u003cbr\u003eInterest rate: MRR + 3.00%\u003cbr\u003e\u003cbr\u003eMaturity: Three years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eD (subordinated)\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cem\u003eTranche D Notes\u003c/em\u003e \u003cbr\u003e\u003cbr\u003eFace value: CAD50 million\u003cbr\u003e\u003cbr\u003eInterest rate: MRR + 4.00%\u003cbr\u003e\u003cbr\u003eMaturity: Four years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eTotal\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCAD500 million\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51276",
+            "entry": {
+                "title": "CFA2448-R-s05-Q5",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. The Class A bonds issued by the SPE are backed by collateral, the leases sold by AR\u0026amp;C to the SPE, and they are the most senior of the bonds issued by the SPE. A secured bond is secured by collateral and is considered less risky than a bond without collateral backing. The Class A bonds issued by the SPE would \u003cem\u003emost likely\u003c/em\u003e be rated higher than any unsecured corporate bonds issued directly by AR\u0026amp;C.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCompare the credit rating of the Class A bonds issued by the SPE and the uncollateralized bonds issued directly by AR\u0026amp;C. The Class A bonds are \u003cem\u003emost likely\u003c/em\u003e rated:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "441a8d23-8234-4dfd-b1a4-a6d8a4b754e9"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e6aa72a5-5612-4f6b-8adf-4b38ebf9e836",
+                            "itemBody": "A. lower than AR\u0026amp;C bonds.",
+                            "position": 1
+                        },
+                        {
+                            "id": "b0e9d0cf-b986-438c-bf1c-c43b4c667a8d",
+                            "itemBody": "B. the same as AR\u0026amp;C bonds.",
+                            "position": 2
+                        },
+                        {
+                            "id": "441a8d23-8234-4dfd-b1a4-a6d8a4b754e9",
+                            "itemBody": "C. higher than AR\u0026amp;C bonds.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": "51275"
+        },
+        {
+            "id": "51277",
+            "entry": {
+                "title": "CFA2448-R-s05-Q6",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. Losses are realized by the subordinated bond classes before any losses are realized by the senior Class A bonds. A is incorrect because this senior/subordinated structure is an example of credit tranching, not time tranching. C is incorrect because in a waterfall structure such as this one, the most junior tranche, Class D, will absorb all losses up to its full CAD50 million par value first. Then, if credit losses exceed that threshold, Bond Class C will absorb all losses up to its full CAD100 million par value. The losses are not shared proportionally across all subordinated bond classes; instead, they are absorbed by the most junior classes first and subsequently by the more senior ones up to the value of the loss.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSelect which of the following statements related to the collateralized bonds issued directly by the SPE is \u003cem\u003emost\u003c/em\u003e accurate.\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "316e5413-cbe1-41c0-89f8-9496d424abbc"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "62c03c86-af31-44c3-9bff-f5940ef0e12c",
+                            "itemBody": "A. This senior/subordinated structure is an example of time tranching.",
+                            "position": 1
+                        },
+                        {
+                            "id": "316e5413-cbe1-41c0-89f8-9496d424abbc",
+                            "itemBody": "B. Losses are realized by the subordinated bond classes before any losses are realized by Class A bonds.",
+                            "position": 2
+                        },
+                        {
+                            "id": "e936f8cd-a8a4-4ab3-8674-4e480d8f8894",
+                            "itemBody": "C. In a waterfall structure such as this one, losses are shared proportionally across all subordinated bond classes.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": "51275"
+        },
+        {
+            "id": "51278",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA borrower wishes to procure a mortgage loan to purchase a property. Information regarding the property, the desired loan, and the buyer’s finances is shown below:\u003c/p\u003e\u003cul id=\"CFA2448-R-s05-L14\" style=\"list-style-type: disc; margin-bottom: 15px; padding-left: 20px;\"\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eProperty price: CAD750,000\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDesired loan amount: CAD525,000\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAnnual interest rate: 5.00%\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eLoan term: 30 years/360 months\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMonthly payment: CAD2,818.31\u003c/p\u003e\n               \u003c/li\u003e\n               \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBorrower’s annual pre-tax gross income: CAD210,000\u003c/p\u003e\n               \u003c/li\u003e\n            \u003c/ul\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51279",
+            "entry": {
+                "title": "CFA2448-R-s05-Q7",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. The loan-to-value ratio (LTV) is the ratio of the amount of the loan/mortgage to the property’s value.\u003c/p\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-3-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003eL\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003em\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003eu\u003c/mi\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003ef\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmi\u003eh\u003c/mi\u003e \u003cmi\u003ee\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003el\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmi\u003em\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmi\u003eg\u003c/mi\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003eg\u003c/mi\u003e \u003cmi\u003ee\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmi\u003ee\u003c/mi\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmi\u003ey\u003c/mi\u003e \u003cmo\u003e'\u003c/mo\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003ev\u003c/mi\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003el\u003c/mi\u003e \u003cmi\u003eu\u003c/mi\u003e \u003cmi\u003ee\u003c/mi\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-3-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eL\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e525\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e750\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-3-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eL\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e70\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because it was calculated as the monthly payment divided by the beginning loan value, not the loan to property value, as follows:\u003c/p\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-3-___3\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e818.31\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e525\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e0.54\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eNote: This is 0.54%, not 54%. Choice A was adjusted to 54% to make the correct answer less obvious.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because it was calculated as the monthly payment for a 20-year loan, not a 30-year loan, divided by the beginning loan value, not the loan to property value, as follows:\u003c/p\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-3-___4\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e464.77\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e525\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e0.66\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eNote: This is 0.66%, not 66%. Choice B was adjusted to 66% to make the correct answer less obvious.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe loan-to-value (LTV) ratio is \u003cem\u003eclosest to\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b3eb9193-9183-4ac8-bd84-84d9a397cd25"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5f25da8d-550b-4e42-a9cd-349b91293064",
+                            "itemBody": "A. 54%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "ba01d68b-b713-45c5-b692-6471a53c1b8d",
+                            "itemBody": "B. 66%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b3eb9193-9183-4ac8-bd84-84d9a397cd25",
+                            "itemBody": "C. 70%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": "51278"
+        },
+        {
+            "id": "51280",
+            "entry": {
+                "title": "CFA2448-R-s05-Q8",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. The DTI is calculated using the monthly debt payment and the borrower’s monthly pre-tax gross income, as follows:\u003c/p\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-3-___5\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmi\u003eI\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmi\u003eh\u003c/mi\u003e \u003cmi\u003el\u003c/mi\u003e \u003cmi\u003ey\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003ee\u003c/mi\u003e \u003cmi\u003eb\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003ey\u003c/mi\u003e \u003cmi\u003em\u003c/mi\u003e \u003cmi\u003ee\u003c/mi\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmi\u003eh\u003c/mi\u003e \u003cmi\u003el\u003c/mi\u003e \u003cmi\u003ey\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmi\u003ee\u003c/mi\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003ex\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003eg\u003c/mi\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmi\u003ec\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003em\u003c/mi\u003e \u003cmi\u003ee\u003c/mi\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-3-___6\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmi\u003eI\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e818.31\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eD\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e210\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmn\u003e12\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e16.10\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because it was calculated as the monthly payment divided by the annual pre-tax gross income, as follows:\u003c/p\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-3-___7\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e818.31\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e210\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e1.30\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because it was calculated as the starting loan value divided by the annual pre-tax gross income, as follows:\u003c/p\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-3-___8\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e525\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e210\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmn\u003e250.00\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe debt-to-income (DTI) ratio is \u003cem\u003eclosest to\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b7572163-6a43-4c16-bc0d-52f27e5d53cd"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1e329715-5e70-49ff-b2b1-d6c713324517",
+                            "itemBody": "A. 1.30%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "b7572163-6a43-4c16-bc0d-52f27e5d53cd",
+                            "itemBody": "B. 16.10%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2e0f346c-2b56-4245-b773-485a47a13a74",
+                            "itemBody": "C. 250.00%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": "51278"
+        },
+        {
+            "id": "51281",
+            "entry": {
+                "title": "CFA2448-R-s05-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. If the prepayment rate is within the specified range, all prepayment risk is absorbed by the support tranche. This provides greater predictability of the size and timing of cash flows paid to investors in the PAC tranches.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because in a CMO that includes a PAC tranche, the PAC tranche is protected from prepayment risk because all prepayment risk is absorbed by the support tranche.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because in a CMO that includes a PAC tranche, the senior (PAC) tranche is protected from prepayment risk because all prepayment risk is absorbed by the support tranche.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFor a CMO that includes Planned Amortization Class (PAC) tranches, if the prepayment rate is within the anticipated range, which of the following tranches \u003cem\u003emost likely\u003c/em\u003e protects investors from prepayment risk?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5b571fd8-8842-4e6a-9d3d-34ebb68b7192"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3ea91d08-7c3c-4e1a-b682-4a029356dd4b",
+                            "itemBody": "A. PAC tranche",
+                            "position": 1
+                        },
+                        {
+                            "id": "e7cf5d8d-08b6-4f25-84f4-86d841d0e475",
+                            "itemBody": "B. Senior tranche",
+                            "position": 2
+                        },
+                        {
+                            "id": "5b571fd8-8842-4e6a-9d3d-34ebb68b7192",
+                            "itemBody": "C. Support tranche",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51282",
+            "entry": {
+                "title": "CFA2448-R-s05-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. The tranching structure in CMOs cannot eliminate prepayment risk, but it can redistribute prepayment risk across the different tranches, insulating some tranches more than others. CMO tranche structures reduce the uncertainties of the size and timing of payments investors receive.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB and C are incorrect because excess spread and overcollateralization are both common forms of credit enhancement, but they do not redistribute prepayment risk.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following approaches redistributes prepayment risk?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b704c2fa-53dc-4d93-945a-deeee7b87e98"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b704c2fa-53dc-4d93-945a-deeee7b87e98",
+                            "itemBody": "A. Tranching",
+                            "position": 1
+                        },
+                        {
+                            "id": "e3a0ee95-544b-4ef9-a196-3abf051878a3",
+                            "itemBody": "B. Excess spread",
+                            "position": 2
+                        },
+                        {
+                            "id": "f36b3069-5d93-4c93-b397-47ba245a6834",
+                            "itemBody": "C. Overcollateralization",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51283",
+            "entry": {
+                "title": "CFA2448-R-s05-Q12",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. The weighted average maturity is calculated by weighting the number of months to maturity for each mortgage in the pool by the percentage of the outstanding mortgage balance relative to the outstanding amount of all the mortgages in the pool, as shown in the following equation:\u003c/p\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-6-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmi\u003eW\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eB\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eB\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eC\u003c/mi\u003e \u003c/msub\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eB\u003c/mi\u003e \u003cmi\u003eC\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eD\u003c/mi\u003e \u003c/msub\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eB\u003c/mi\u003e \u003cmi\u003eD\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eE\u003c/mi\u003e \u003c/msub\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eB\u003c/mi\u003e \u003cmi\u003eE\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-6-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmi\u003eW\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e140\u003c/mn\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e83\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e496\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e192\u003c/mn\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e193\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e496\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e240\u003c/mn\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e315\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e496\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e144\u003c/mn\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e357\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e496\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e324\u003c/mn\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e548\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e496\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-6-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cem\u003eWAM\u003c/em\u003e = 236 months.\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because it is calculated by averaging the months to maturity for the five mortgages, rather than calculating their weighted average.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because it is calculated by weighting the number of months to maturity for each mortgage in the pool by the percentage of the beginning mortgage balance relative to the beginning amount of all the mortgages in the pool, not by the current balances.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eShown below are five mortgages that comprise the entire pool in a mortgage-backed security.\u003c/p\u003e\n\u003cdiv id=\"CFA2448-R-s05-T-6-c\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eMortgage\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eInterest Rate\u003c/strong\u003e \u003cbr\u003e\u003cstrong\u003e(\u003cem\u003ei\u003c/em\u003e)\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eBeginning Balance\u003c/strong\u003e \u003cbr\u003e\u003cstrong\u003e(BB)\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eCurrent Balance\u003c/strong\u003e \u003cbr\u003e\u003cstrong\u003e(CB)\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eOriginal Term (months)\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eNumber of Months to Maturity\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eA\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e2.00%\u003c/td\u003e\n\u003ctd style=\"text-align: right; vertical-align: top; padding: 8px;\"\u003eCAD200,000\u003c/td\u003e\n\u003ctd style=\"text-align: right; vertical-align: top; padding: 8px;\"\u003eCAD83,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e420\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e140\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eB\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e3.00%\u003c/td\u003e\n\u003ctd style=\"text-align: right; vertical-align: top; padding: 8px;\"\u003eCAD300,000\u003c/td\u003e\n\u003ctd style=\"text-align: right; vertical-align: top; padding: 8px;\"\u003eCAD193,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e360\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e192\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eC\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e4.00%\u003c/td\u003e\n\u003ctd style=\"text-align: right; vertical-align: top; padding: 8px;\"\u003eCAD400,000\u003c/td\u003e\n\u003ctd style=\"text-align: right; vertical-align: top; padding: 8px;\"\u003eCAD315,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e360\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e240\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eD\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e5.00%\u003c/td\u003e\n\u003ctd style=\"text-align: right; vertical-align: top; padding: 8px;\"\u003eCAD500,000\u003c/td\u003e\n\u003ctd style=\"text-align: right; vertical-align: top; padding: 8px;\"\u003eCAD357,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e240\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e144\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eE\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e6.00%\u003c/td\u003e\n\u003ctd style=\"text-align: right; vertical-align: top; padding: 8px;\"\u003e\u003cspan style=\"text-decoration: underline;\"\u003eCAD600,000\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: right; vertical-align: top; padding: 8px;\"\u003e\u003cspan style=\"text-decoration: underline;\"\u003eCAD548,000\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e420\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e324\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: right; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eCAD2,000,000\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: right; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eCAD1,496,000\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe WAM for this security is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c6daebc8-d056-4a5d-8ad2-52cabe0d0555"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "cfa411b9-8fa9-4ef1-8888-88c20c43b18d",
+                            "itemBody": "A. 208 months.",
+                            "position": 1
+                        },
+                        {
+                            "id": "a18f3596-e8d0-41b7-bee0-c5a217f11cfd",
+                            "itemBody": "B. 224 months.",
+                            "position": 2
+                        },
+                        {
+                            "id": "c6daebc8-d056-4a5d-8ad2-52cabe0d0555",
+                            "itemBody": "C. 236 months.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51284",
+            "entry": {
+                "title": "CFA2448-R-s05-Q13",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. Extension risk is the risk that the borrower might pay back the money borrowed more slowly than anticipated, extending the time of repayment and the maturity of the bond. For investors, this has one adverse consequence: Higher interest rates reduce the value of the cash flows investors receive. The payments the investors receive will be discounted at a higher interest rate, and the extension stretches out the payments the investors receive.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because contraction risk (the risk that the borrower might pay back the money borrowed more quickly than anticipated, reducing the amount of future payments the investor receives), not extension risk, has the adverse consequence that investors must reinvest the proceeds at lower interest rates.\u003c/p\u003e\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because contraction risk (the risk that the borrower might pay back the money borrowed more quickly than anticipated, reducing the amount of future payments the investor receives), not extension risk, has the adverse consequence that the prepayment option reduces the potential price appreciation for the bond.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following adverse consequences is most likely associated with extension risk?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8b4ecca1-7b4c-4ee5-9b9a-b5d5ecbfbbdc"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d17a1d88-7b1b-46ec-af58-8e2028d7c84b",
+                            "itemBody": "A. Investors must reinvest the proceeds at lower interest rates.",
+                            "position": 1
+                        },
+                        {
+                            "id": "8b4ecca1-7b4c-4ee5-9b9a-b5d5ecbfbbdc",
+                            "itemBody": "B. Higher interest rates reduce the value of the cash flows investors receive.",
+                            "position": 2
+                        },
+                        {
+                            "id": "24b94ae2-0ecb-4723-9468-c294cb71832f",
+                            "itemBody": "C. The prepayment option reduces the potential price appreciation for the bond.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51285",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eUse the following information for questions 9, 10, and 11:\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eShown below are three properties whose mortgages are securitized to create a sequential-pay CMBS and information related to the four tranches comprising the CMBS.\u003c/p\u003e\n\u003cdiv id=\"CFA2448-R-s05-T-8-d\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"6\" scope=\"col\"\u003e\u003cstrong\u003eProperty Information\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eProperty Type\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eFair Market Value\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eMortgaged Amount\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eCoupon Rate\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eMaturity\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eRepayment\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eOffice Building\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e35,000,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e27,000,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e4.00%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eFour years from settlement date\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eFully amortizing\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eOffice Building\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e60,000,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e44,000,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e3.00%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eFour years from settlement date\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eFully amortizing\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eWarehouse\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e15,000,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e12,000,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e5.00%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eEight years from settlement date\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eFully amortizing\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ePrepayment: No prepayment on the underlying mortgages is allowed in the first 5 years.\u003c/p\u003e\n\u003cdiv id=\"CFA2448-R-s05-T-8-e\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"3\" scope=\"col\"\u003e\u003cstrong\u003eTranche Information \u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eTranche\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003eCoupon Rate\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"\u003e\u003cstrong\u003ePrincipal Value\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eA\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e2.00%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e20,000,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eB\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e3.00%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e22,000,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eC\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e4.00%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e23,000,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eD\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e5.00%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e18,000,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51286",
+            "entry": {
+                "title": "CFA2448-R-s05-Q14",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. The associated loan to value ratio is calculated as the total value of all loans (mortgages) divided by the total value of the properties associated with the mortgages, as follows:\u003c/p\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-8-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eL\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003el\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003ev\u003c/mi\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003el\u003c/mi\u003e \u003cmi\u003eu\u003c/mi\u003e \u003cmi\u003ee\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003ef\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003el\u003c/mi\u003e \u003cmi\u003el\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003el\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003em\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmi\u003eg\u003c/mi\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003eg\u003c/mi\u003e \u003cmi\u003ee\u003c/mi\u003e \u003cmi\u003es\u003c/mi\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003el\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003ev\u003c/mi\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003el\u003c/mi\u003e \u003cmi\u003eu\u003c/mi\u003e \u003cmi\u003ee\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003ef\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003el\u003c/mi\u003e \u003cmi\u003el\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmi\u003ee\u003c/mi\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmi\u003ee\u003c/mi\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmi\u003em\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003cmi\u003eg\u003c/mi\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003eg\u003c/mi\u003e \u003cmi\u003ee\u003c/mi\u003e \u003cmi\u003ed\u003c/mi\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-8-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eL\u003c/mi\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmo\u003e\u0026nbsp;\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e83\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e110\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.75\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because 0.77 is the value of just the mortgage on the first property (27,000,000) divided by the first property’s total value (35,000,000).\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because 0.80 is the value of just the mortgage on the third property (11,400,000) divided by the third property’s total value (15,000,000).\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe associated loan to value ratio is \u003cem\u003eclosest to\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ce48cf7a-c823-4439-a11c-845327acc955"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ce48cf7a-c823-4439-a11c-845327acc955",
+                            "itemBody": "A. 0.75.",
+                            "position": 1
+                        },
+                        {
+                            "id": "e3281db8-4455-47b2-b1e7-b947624d8e76",
+                            "itemBody": "B. 0.77.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b2f57e29-cb2f-48a9-84a9-69dad3e40ccc",
+                            "itemBody": "C. 0.80.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": "51285"
+        },
+        {
+            "id": "51287",
+            "entry": {
+                "title": "CFA2448-R-s05-Q15",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. The weighted average coupon payment is calculated as the value of each tranche’s coupon rate weighted by the principal value of that tranche as a percentage of the total value of all tranches:\u003c/p\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-8-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eW\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmi\u003eC\u003c/mi\u003e \u003c/msub\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmi\u003eC\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmi\u003eD\u003c/mi\u003e \u003c/msub\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmi\u003eD\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmi\u003eV\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-8-___3\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmi\u003eW\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e2.00\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e20\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e83\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e3.00\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e22\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e83\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e4.00\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e23\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e83\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e5.00\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e18\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e23\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-8-___4\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eW\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e3.47\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because 3.50% is calculated as a straight average of the four coupon rates (of the four tranches), rather than a weighted average.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because 3.61% is the weighted proceeds from the three mortgages, not the weighted average coupon payment.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe weighted average coupon payment is \u003cem\u003eclosest to\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "677d7e13-38b1-410e-8f46-297cbf0ea463"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "677d7e13-38b1-410e-8f46-297cbf0ea463",
+                            "itemBody": "A. 3.47%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "a150d4d3-7286-4ab6-9696-4dde23869b9d",
+                            "itemBody": "B. 3.50%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "18178442-3365-4ea0-b340-72204458e749",
+                            "itemBody": "C. 3.61%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": "51285"
+        },
+        {
+            "id": "51288",
+            "entry": {
+                "title": "CFA2448-R-s05-Q16",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. The weighted average proceeds from the mortgages (\u003cem\u003eWAMP\u003c/em\u003e shown below) is calculated as the coupon rate of each mortgage weighted by that mortgage’s value/amount as a percentage of the total value of all the mortgages:\u003c/p\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-8-___5\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eW\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eB\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmi\u003eC\u003c/mi\u003e \u003c/msub\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eC\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA2448-R-s05-E-8-___6\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eW\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e4.00\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e27\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e83\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e3.00\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e44\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e83\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e5.00\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e12\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e83\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cul style=\"list-style-type: none; margin-bottom: 15px; padding-left: 20px;\"\u003e\n\u003cli\u003e\u003cspan style=\"display: inline;\"\u003e \u003cmath id=\"m27\"\u003e \u003cmrow\u003e \u003cmi\u003eW\u003c/mi\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e3.61\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003c/mrow\u003e \u003c/math\u003e \u003c/span\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because 3.47% is the weighted average coupon payment for the four tranches, not the weighted average proceeds from the mortgages.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because 3.50% is calculated as a straight average of the four coupon rates (of the four tranches), not the weighted average proceeds from the mortgages.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe weighted average proceeds from the mortgages is \u003cem\u003eclosest to\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c135c82a-680f-4ac0-ac24-4174767fb1ee"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0fb2a9e6-6a7a-4e6e-8951-b61991d31df9",
+                            "itemBody": "A. 3.47%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "8eac4cb7-5b5f-40dc-9d07-399093f8c176",
+                            "itemBody": "B. 3.50%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "c135c82a-680f-4ac0-ac24-4174767fb1ee",
+                            "itemBody": "C. 3.61%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": "51285"
+        },
+        {
+            "id": "51289",
+            "entry": {
+                "title": "CFA2448-R-s05-Q17",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. A lack of property buyers in the market will make it challenging for a borrower to sell a property to generate sufficient funds to pay off the outstanding principal balance. A is incorrect because a high DSCR would reduce the balloon risk. B is incorrect because a low LTV ratio would also reduce the balloon risk of a maturing loan.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following would \u003cem\u003emost likely\u003c/em\u003e increase balloon risk for a commercial mortgage loan that is maturing?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fd061046-d36f-43f3-afa7-77549b5c91d2"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1fcd1922-27a1-4820-8f6d-12251f709538",
+                            "itemBody": "A. High DSCR",
+                            "position": 1
+                        },
+                        {
+                            "id": "7e7861f5-a8f9-455d-a085-3b871c25a1bc",
+                            "itemBody": "B. Low LTV ratio",
+                            "position": 2
+                        },
+                        {
+                            "id": "fd061046-d36f-43f3-afa7-77549b5c91d2",
+                            "itemBody": "C. Lack of property buyers in market",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51290",
+            "entry": {
+                "title": "CFA2448-R-s05-Q18",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. Structural call protection is achieved through sequential-pay tranches in the CMBS as a lower-rated tranche cannot be paid down until the higher-rated tranche is completely retired. A is incorrect because defeasance provides call protection at the individual loan level. Defeasance allows prepayment, but the borrower must purchase a portfolio of government securities that fully replicates the cash flows of the remaining scheduled principal and interest payments, including the balloon loan balance, on the loan. B is incorrect because prepayment lockout provides call protection at the individual loan level. Prepayment lockout is a contractual agreement that prohibits any prepayments during a specified period.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following provides call protection for CMBS investors at the structural level?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "89cf2934-abc5-4d6a-b00e-b40c1ddb00d8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3fa6f03f-d946-4ae8-987c-a69fa585574c",
+                            "itemBody": "A. Defeasance",
+                            "position": 1
+                        },
+                        {
+                            "id": "8f3c9f18-f897-44e3-ab51-5304e4a8c8c6",
+                            "itemBody": "B. Prepayment lockout",
+                            "position": 2
+                        },
+                        {
+                            "id": "89cf2934-abc5-4d6a-b00e-b40c1ddb00d8",
+                            "itemBody": "C. Sequential-pay tranches",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 17,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8241,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53846",
+            "entry": {
+                "title": "ITEM_20170607040",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor who owns a mortgage pass-through security is exposed to contraction risk, which is the risk that when interest rates:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "972f4558-8f17-47e7-918c-4880302bb36c"
+                },
+                "answerFeedback": {
+                    "7035550f-75ec-47c6-8d4d-15bcf585e773": "\u003cp\u003eIncorrect because contraction risk is the risk faced by investors when interest rates fall in that the security will effectively have a shorter, not longer, maturity than was anticipated at the time of purchase because homeowners can refinance at new, lower interest rates.\u003c/p\u003e",
+                    "972f4558-8f17-47e7-918c-4880302bb36c": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Contraction risk is the risk faced by investors when interest rates fall in that the security will effectively have a shorter maturity than was anticipated at the time of purchase because homeowners can refinance at new, lower interest rates.\u003c/p\u003e",
+                    "d1ea30d6-4aa8-4053-8cd8-2a022f047484": "\u003cp\u003eIncorrect because contraction risk is the risk faced by investors when interest rates fall, not rise, in that the security will effectively have a shorter maturity than was anticipated at the time of purchase because homeowners can refinance at new, lower interest rates.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d1ea30d6-4aa8-4053-8cd8-2a022f047484",
+                            "itemBody": "\u003cp\u003eA. rise, the security will effectively have a shorter maturity than was anticipated at the time of purchase.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "972f4558-8f17-47e7-918c-4880302bb36c",
+                            "itemBody": "\u003cp\u003eB. decline, the security will effectively have a shorter maturity than was anticipated at the time of purchase.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7035550f-75ec-47c6-8d4d-15bcf585e773",
+                            "itemBody": "\u003cp\u003eC. decline, the security will effectively have a longer maturity than was anticipated at the time of purchase.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8678,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53847",
+            "entry": {
+                "title": "ITEM_20170607046",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003eleast likely\u003c/i\u003e a feature typical of an agency residential mortgage-backed security (RMBS)?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f9ace350-d8f5-4fab-a575-b8fcbf38899f"
+                },
+                "answerFeedback": {
+                    "28ff6a6b-42de-4c1f-b2ce-e15f1eefcc6d": "\u003cp\u003eIncorrect because non-agency RMBS securitized mortgages were collateralized by non-conforming mortgages, or by subprime, highly risky mortgages.\u003c/p\u003e",
+                    "db7a1c12-3c2f-4249-b6d4-2f8c2216b052": "\u003cp\u003eIncorrect because agency RMBS include securities issued by government agencies. These RMBS carry the full faith and credit of the government, essentially a guarantee with respect to timely payment of interest and repayment of principal. Agency RMBS also include RMBS issued by GSEs.\u003c/p\u003e",
+                    "f9ace350-d8f5-4fab-a575-b8fcbf38899f": "\u003cp\u003eCorrect because RMBS issued by GSEs do not carry the full faith and credit of the government, but rather the GSEs’ guarantee of the timely payment of interest and principal for the securities. The GSE’s charge a fee for this guarantee.\u003cbr\u003eDue to changing regulatory guidance and increased scrutiny, non-agency-RMBS all but disappeared after the global financial crisis. They were issued by banks, financial institutions, and other private businesses and were not beneficiaries of government guarantees. These private pass-throughs or private label MBS gained credit enhancement through pool insurance, letters of credit, guarantees, or subordination.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "db7a1c12-3c2f-4249-b6d4-2f8c2216b052",
+                            "itemBody": "\u003cp\u003eA. A guarantee by a government-sponsored enterprise\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "28ff6a6b-42de-4c1f-b2ce-e15f1eefcc6d",
+                            "itemBody": "\u003cp\u003eB. The satisfaction of specific established underwriting standards\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f9ace350-d8f5-4fab-a575-b8fcbf38899f",
+                            "itemBody": "\u003cp\u003eC. The use of credit enhancements to reduce credit risk\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8678,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53848",
+            "entry": {
+                "title": "ITEM_20170607090",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn a mortgage pass-through security, the pass-through rate:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8f4ab5d6-6974-4d10-9bdc-a8d38359f6aa"
+                },
+                "answerFeedback": {
+                    "46bf1079-ce3e-4af7-94e2-05663b8426d7": "\u003cp\u003eIncorrect because in a mortgage pass-through security, the pass-through rate is less than the mortgage rate on the underlying pool of mortgages by an amount equal to the servicing (and other administrative) fees.\u003c/p\u003e",
+                    "8f4ab5d6-6974-4d10-9bdc-a8d38359f6aa": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e In a mortgage pass-through security, the pass-through rate is less than the mortgage rate on the underlying pool of mortgages by an amount equal to the servicing (and other administrative) fees.\u003c/p\u003e",
+                    "f032031a-48c4-468e-a5dc-7be27cda6f98": "\u003cp\u003eIncorrect because in a mortgage pass-through security, the pass-through rate is less than the mortgage rate on the underlying pool of mortgages by an amount equal to the servicing (and other administrative) fees.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "46bf1079-ce3e-4af7-94e2-05663b8426d7",
+                            "itemBody": "\u003cp\u003eA. is adjusted as market rates rise or fall.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f032031a-48c4-468e-a5dc-7be27cda6f98",
+                            "itemBody": "\u003cp\u003eB. is equal to the mortgage rate on the underlying pool of mortgages.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8f4ab5d6-6974-4d10-9bdc-a8d38359f6aa",
+                            "itemBody": "\u003cp\u003eC. adjusts the rate on the underlying pool of mortgages by a servicing fee.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8678,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53849",
+            "entry": {
+                "title": "ITEM_20170607091",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor who owns a mortgage pass-through security is exposed to extension risk, which is the risk that when interest rates:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "62dda4ad-c8e3-42c2-a0b5-c129292b294b"
+                },
+                "answerFeedback": {
+                    "15469076-5492-4c4c-9112-b3975f0a8d6d": "\u003cp\u003eIncorrect because extension risk is the risk faced that when interest rates rise, fewer prepayments will occur because homeowners are reluctant to give up the benefits of a contractual interest rate that is now lower than the market rate. As a result, the security becomes longer (not shorter) in maturity than anticipated at the time of purchase.\u003c/p\u003e",
+                    "60be3055-e0c0-4b92-a08e-b7238e484107": "\u003cp\u003eIncorrect because extension risk is the risk faced that when interest rates rise (not fall), fewer prepayments will occur because homeowners are reluctant to give up the benefits of a contractual interest rate that is now lower than the market rate. As a result, the security becomes longer in maturity than anticipated at the time of purchase.\u003c/p\u003e",
+                    "62dda4ad-c8e3-42c2-a0b5-c129292b294b": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Extension risk is the risk faced that when interest rates rise, fewer prepayments will occur because homeowners will be reluctant to give up the benefits of a contractual interest rate that is now lower than the market rate. As a result, the security becomes longer in maturity than anticipated at the time of purchase.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "60be3055-e0c0-4b92-a08e-b7238e484107",
+                            "itemBody": "\u003cp\u003eA. fall, the security will effectively have a shorter maturity than was anticipated at the time of purchase.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "15469076-5492-4c4c-9112-b3975f0a8d6d",
+                            "itemBody": "\u003cp\u003eB. rise, the security will effectively have a shorter maturity than was anticipated at the time of purchase.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "62dda4ad-c8e3-42c2-a0b5-c129292b294b",
+                            "itemBody": "\u003cp\u003eC. rise, the security will effectively have a longer maturity than was anticipated at the time of purchase.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8678,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53850",
+            "entry": {
+                "title": "ITEM_20170607092",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eInvestors in commercial mortgage-backed securities (CMBS) face balloon risk, which is \u003ci\u003emost likely\u003c/i\u003e a type of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c77e6c9b-fcd7-4e69-a641-154b9c0f6f3a"
+                },
+                "answerFeedback": {
+                    "13ddcbbd-521c-4e59-81d4-050a0c37a82a": "\u003cp\u003eIncorrect because balloon risk is the risk that the borrower will not be able to arrange for refinancing or sell the property to make the balloon payment typically associated with commercial loans backing CMBS. As a result, the CMBS may extend in maturity, implying that balloon risk is a type of extension (not contraction) risk.\u003c/p\u003e",
+                    "c77e6c9b-fcd7-4e69-a641-154b9c0f6f3a": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Balloon risk is the risk that the borrower will not be able to arrange for refinancing or sell the property to make the balloon payment typically associated with commercial loans backing CMBS. As a result, the CMBS may extend in maturity, implying that balloon risk is a type of extension risk.\u003c/p\u003e",
+                    "e2f88c69-3552-4f4a-9ae3-44f7251d72b7": "\u003cp\u003eIncorrect because balloon risk is the risk that the borrower will not be able to arrange for refinancing or sell the property to make the balloon payment typically associated with commercial loans backing CMBS. As a result, the CMBS may extend in maturity, implying that balloon risk is a type of extension (not call) risk.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e2f88c69-3552-4f4a-9ae3-44f7251d72b7",
+                            "itemBody": "\u003cp\u003eA. call risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c77e6c9b-fcd7-4e69-a641-154b9c0f6f3a",
+                            "itemBody": "\u003cp\u003eB. extension risk.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "13ddcbbd-521c-4e59-81d4-050a0c37a82a",
+                            "itemBody": "\u003cp\u003eC. contraction risk.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8678,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4481,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {},
+    "scored_data": {}
+}

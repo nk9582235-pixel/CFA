@@ -1,0 +1,1689 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6336,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 27,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 5: The Behavioral Biases of Individuals",
+        "topic_id": 1039,
+        "topic": "CFA-26-02-LI-C: Portfolio Management",
+        "subtopic_id": 6336,
+        "subtopic": "Module 5: The Behavioral Biases of Individuals",
+        "question_count": 27,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 855,
+                "name": "Warehouse Course: Portfolio Management 26-LI",
+                "code": "Warehouse Course: Portfolio Management 26-LI",
+                "module_id": 4503,
+                "question_count": 19,
+                "type": "warehouse"
+            },
+            {
+                "id": 846,
+                "name": "Practice Pack Warehouse: Portfolio Management 26-LI",
+                "code": "Practice Pack Warehouse: Portfolio Management 26-LI",
+                "module_id": 4755,
+                "question_count": 8,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 27.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "7d32dd15bf0af147",
+        "ordered_item_ids": [
+            "56443",
+            "56444",
+            "56445",
+            "56446",
+            "56447",
+            "56448",
+            "56449",
+            "56450",
+            "51369",
+            "51370",
+            "51371",
+            "51372",
+            "51373",
+            "51374",
+            "51375",
+            "51376",
+            "51377",
+            "51378",
+            "51379",
+            "51380",
+            "51381",
+            "51382",
+            "51383",
+            "51384",
+            "53997",
+            "53998",
+            "53999",
+            "54000"
+        ],
+        "visible_item_ids": [
+            "56443",
+            "56444",
+            "56445",
+            "56446",
+            "56447",
+            "56448",
+            "56449",
+            "56450",
+            "51369",
+            "51370",
+            "51371",
+            "51372",
+            "51373",
+            "51374",
+            "51375",
+            "51376",
+            "51377",
+            "51378",
+            "51379",
+            "51380",
+            "51381",
+            "51382",
+            "51383",
+            "51384",
+            "53997",
+            "53998",
+            "53999",
+            "54000"
+        ]
+    },
+    "items": [
+        {
+            "id": "56443",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-PM-Huffman-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost likely \u003c/i\u003ea\u0026nbsp;consequence of the illusion of control bias?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d899806b-f551-41c1-a922-6fadc183fdbf"
+                },
+                "answerFeedback": {
+                    "06c3122f-b132-4550-b889-f0cd05f783e4": "\u003cp\u003eIncorrect because as a result of illusion of control bias, FMPs [financial market participants] may trade more than is prudent. Researchers have found that portfolio turnover is negatively correlated with investment returns.\u003c/p\u003e",
+                    "d899806b-f551-41c1-a922-6fadc183fdbf": "\u003cp\u003eCorrect because as a result of illusion of control bias, FMPs [financial market participants] may inadequately diversify portfolios. Research has found that some investors prefer to invest in companies that they feel they have control over, such as the companies they work for, leading them to hold concentrated positions.\u003c/p\u003e",
+                    "fe3405ac-844d-45ba-be7a-e086c2187b27": "\u003cp\u003eIncorrect because as a result of illusion of control bias, FMPs [financial market participants] may construct financial models and forecasts that are overly detailed. FMPs may require detailed models before making an investment decision, believing that forecasts from these models control uncertainty. Although a greater understanding of an investment, issuer, or industry is often useful, increased model complexity does not control the inherent risk and uncertainty of investment outcomes.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "06c3122f-b132-4550-b889-f0cd05f783e4",
+                            "itemBody": "\u003cp\u003eA. An investor's portfolio turnover is too low.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d899806b-f551-41c1-a922-6fadc183fdbf",
+                            "itemBody": "\u003cp\u003eB. The investor's portfolio contains concentrated positions in companies.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "fe3405ac-844d-45ba-be7a-e086c2187b27",
+                            "itemBody": "\u003cp\u003eC. An investor uses a simple forecasting model for portfolio construction.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9009,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4755,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56444",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-PM-Tsependa-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following \u003ci\u003ebest\u003c/i\u003e describes a potential\u0026nbsp;consequence of the regret-aversion bias for\u0026nbsp;financial market participants?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e4b5d3e2-e7ce-4599-b863-092ebf63cd9b"
+                },
+                "answerFeedback": {
+                    "a92fd1c1-4884-4657-ad11-7cbcc09309dd": "\u003cp\u003eIncorrect because it is a likely consequence of the framing bias, and not the regret-aversion bias. As a result of framing bias, FMPs [financial market participants] may misidentify risk tolerances because of how questions about risk tolerance were framed, becoming more risk-averse when presented with a gain frame of reference and more risk-seeking when presented with a loss frame of reference.\u003c/p\u003e",
+                    "b21ba691-d853-4ef5-aab7-f59da02976c1": "\u003cp\u003eIncorrect because it is a likely consequence of the self-control bias, and not the regret-aversion bias. As a result of self-control bias, FMPs [financial market participants] may borrow excessively to finance present consumption.\u003c/p\u003e",
+                    "e4b5d3e2-e7ce-4599-b863-092ebf63cd9b": "\u003cp\u003eCorrect because as a result of regret-aversion bias, FMPs [financial market participants] may engage in herding behavior. FMPs may feel safer in popular investments in order to limit potential future regret. \u003cb\u003eRegret-aversion bias \u003c/b\u003eis an emotional bias in which people tend to avoid making decisions out of fear that the decision will turn out poorly.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e4b5d3e2-e7ce-4599-b863-092ebf63cd9b",
+                            "itemBody": "\u003cp\u003eA. Engaging in herding behavior\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b21ba691-d853-4ef5-aab7-f59da02976c1",
+                            "itemBody": "\u003cp\u003eB. Borrowing excessively to finance present consumption\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a92fd1c1-4884-4657-ad11-7cbcc09309dd",
+                            "itemBody": "\u003cp\u003eC. Misidentifying risk tolerances because of how questions about risk tolerance were framed\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9009,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4755,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56445",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-PM-Croitoru-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost likely \u003c/i\u003ea\u0026nbsp;consequence of overconfidence bias? Investors:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5f7cf862-9fcb-473a-bad3-cbdaf9943ccb"
+                },
+                "answerFeedback": {
+                    "10714235-23ea-452c-8e6f-7fa483455415": "\u003cp\u003eIncorrect because this is a potential consequence of loss-aversion bias, not overconfidence. As a result of loss-aversion bias, FMPs [financial market participants] may hold investments in a loss position longer than justified by fundamental analysis, in the hope that they will return to breakeven.\u003c/p\u003e",
+                    "47e1038f-dbfa-4d62-a852-80cc48ba7761": "\u003cp\u003eIncorrect because this is a potential consequence of endowment bias, not overconfidence bias. \u003cb\u003eEndowment bias\u003c/b\u003e is an emotional bias in which people value an asset more when they own it than when they do not. Endowment bias may lead FMPs [financial market participants] to continue to hold classes of assets with which they are familiar. FMPs may believe they understand the characteristics of the investments they already own and may be reluctant to purchase assets with which they have less experience. Familiarity adds to owners’ perceived value of a security.\u003c/p\u003e",
+                    "5f7cf862-9fcb-473a-bad3-cbdaf9943ccb": "\u003cp\u003eCorrect because \u003cb\u003eoverconfidence bias\u003c/b\u003e is a bias in which people demonstrate unwarranted faith in their own abilities. As a result of overconfidence bias, FMPs [financial market participants] may hold poorly diversified portfolios, which may result in significant downside risk.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5f7cf862-9fcb-473a-bad3-cbdaf9943ccb",
+                            "itemBody": "\u003cp\u003eA. holding poorly diversified portfolios.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "47e1038f-dbfa-4d62-a852-80cc48ba7761",
+                            "itemBody": "\u003cp\u003eB. continuing to hold classes of assets with which they are familiar.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "10714235-23ea-452c-8e6f-7fa483455415",
+                            "itemBody": "\u003cp\u003eC. holding investments in a loss position longer than justified, in the hope that they will return to breakeven.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9009,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4755,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56446",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.08-PM-Glover-07",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following can \u003ci\u003ebest\u003c/i\u003e\u0026nbsp;be explained by overconfidence when predicting companies' earnings growth rates?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e02e92f1-4933-460b-b2f7-3b285c5c3699"
+                },
+                "answerFeedback": {
+                    "79e5183a-34e8-46f6-858f-8a6acd522e27": "\u003cp\u003eIncorrect because, in \u003cb\u003ebase-rate neglect\u003c/b\u003e, a\u0026nbsp;phenomenon's rate of incidence in a larger population—its base rate—is neglected in favor of specific information. The specific, individual\u0026nbsp;information may be misleading relative to the more appropriate base rate or general\u0026nbsp;information.\u0026nbsp;Base-rate neglect is connected to representativeness bias and not overconfidence, nor does it\u0026nbsp;relate to earnings growth rates.\u003c/p\u003e",
+                    "7a71f96a-ae44-4418-81e0-6a40d4275b90": "\u003cp\u003eIncorrect because an important concept embedded in this utility representation is what has been termed the \u003cb\u003edisposition effect\u003c/b\u003e: the holding of investments that have experienced losses too long, and the selling of investments that have experienced gains too quickly (i.e., holding on to losers and selling winners).\u0026nbsp;The disposition effect does not relate to prediction errors, nor to\u0026nbsp;earnings growth rates.\u003c/p\u003e",
+                    "e02e92f1-4933-460b-b2f7-3b285c5c3699": "\u003cp\u003eCorrect because a\u0026nbsp;number of other studies have offered behavioral explanations for value anomalies, presenting the anomalies as mispricing rather than compensation for increased risk. These studies recognize the emotional factors involved in appraising stocks. Overconfidence can also be involved in predicting growth rates, potentially leading growth stocks to be overvalued,\u0026nbsp;leading to the value anomaly.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "79e5183a-34e8-46f6-858f-8a6acd522e27",
+                            "itemBody": "\u003cp\u003eA. Base-rate neglect\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e02e92f1-4933-460b-b2f7-3b285c5c3699",
+                            "itemBody": "\u003cp\u003eB. The value anomaly\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7a71f96a-ae44-4418-81e0-6a40d4275b90",
+                            "itemBody": "\u003cp\u003eC. The disposition effect\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9009,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4755,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56447",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-PM-Tomter-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eHolding on to losers for too long and selling winners too quickly \u003ci\u003ebest\u003c/i\u003e characterizes which of the following?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "62ecf740-12f4-40cf-a01c-56a0e9dc24b2"
+                },
+                "answerFeedback": {
+                    "451e6c1b-13cf-4f80-a77a-59d900463561": "\u003cp\u003eIncorrect because anchoring and adjustment bias pertains to rigidity to an original estimate, not a fear of accepting losses. Anchoring and adjustment bias\u003cstrong\u003e \u003c/strong\u003erefers to relying on an initial piece of information to make subsequent estimates, judgments, and decisions. When required to estimate a value with unknown magnitude, people generally begin with some initial default number—an \u003cspan class=\"ice-cts-1 ice-ins\"\u003e'\u003c/span\u003eanchor\u003cspan class=\"ice-cts-1 ice-ins\"\u003e'\u003c/span\u003e—which they then adjust up or down. Regardless of how the initial anchor was chosen, people tend to adjust their anchors insufficiently and produce end approximations that are, consequently, biased. Anchoring and adjustment bias is closely related to conservatism bias.\u003c/p\u003e",
+                    "62ecf740-12f4-40cf-a01c-56a0e9dc24b2": "\u003cp\u003eCorrect because the disposition effect pertains to loss-aversion bias.\u0026nbsp;Loss-aversion bias\u003cb\u003e \u003c/b\u003erefers to the tendency to strongly prefer avoiding losses to achieving gains. Rational FMPs (financial market participants) should accept more risk to increase gains, not to mitigate losses. Loss aversion leads FMPs to hold their losers to avoid recognizing losses and sell their winners to lock in profits. An important concept is what has been termed the disposition effect: the holding of investments that have experienced losses too long, and the selling of investments that have experienced gains too quickly (i.e., holding on to losers and selling winners).\u003c/p\u003e",
+                    "fd07a656-1b23-4476-b2bf-ee6a0a44e36c": "\u003cp\u003eIncorrect because hindsight bias refers to the belief that\u0026nbsp;past actions were predictable\u0026nbsp;rather than a current fear of accepting\u0026nbsp;losses. Hindsight bias refers to believing past events as having been predictable and reasonable to expect. This behavior results from the obvious fact that outcomes that did occur are more readily evident than outcomes that did not. Similarly, people tend to remember their own predictions of the future as more accurate than they actually were because they are biased by the knowledge of what actually occurred. Poorly reasoned decisions with positive results may be remembered as brilliant tactical moves, and poor results of well-reasoned decisions may be described as avoidable mistakes.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fd07a656-1b23-4476-b2bf-ee6a0a44e36c",
+                            "itemBody": "\u003cp\u003eA. Hindsight bias\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "62ecf740-12f4-40cf-a01c-56a0e9dc24b2",
+                            "itemBody": "\u003cp\u003eB. Disposition effect\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "451e6c1b-13cf-4f80-a77a-59d900463561",
+                            "itemBody": "\u003cp\u003eC. Anchoring and adjustment bias\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9009,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4755,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56448",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-PM-Tomter-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following tendencies\u0026nbsp;of financial market participants is \u003ci\u003emost likely\u003c/i\u003e a\u0026nbsp;consequence\u0026nbsp;of endowment\u0026nbsp;bias?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "616b5cee-68e1-4793-a0cc-79ae969f3c58"
+                },
+                "answerFeedback": {
+                    "616b5cee-68e1-4793-a0cc-79ae969f3c58": "\u003cp\u003eCorrect because endowment bias may lead FMPs (financial market participants) to do the following: Continue to hold classes of assets with which they are familiar. FMPs may believe they understand the characteristics of the investments they already own and may be reluctant to purchase assets with which they have less experience. Familiarity adds to owners’ perceived value of a security.\u003c/p\u003e",
+                    "b8b8b8ec-19e2-47ad-baf1-94d785d29d5b": "\u003cp\u003eIncorrect because it is\u0026nbsp;a consequence of self-control bias, not endowment\u0026nbsp;bias. As a result of self-control bias, FMPs (financial market participants)\u0026nbsp;may save insufficiently for the future, which may, in turn, result in accepting too much risk in portfolios in an attempt to generate higher returns.\u003c/p\u003e",
+                    "c6975fcb-ed67-4e77-8af9-e694b771fa00": "\u003cp\u003eIncorrect because it is a consequence of regret-aversion bias, not endowment bias.\u0026nbsp;FMPs (financial market participants)\u0026nbsp;may engage in herding behavior. FMPs may feel safer in popular investments in order to limit potential future regret. It seems safe to be with the crowd, and a reduction in potential emotional pain is perceived. Regret aversion may lead to preference for stocks of well-known companies even in the face of equal risk and return expectations. Choosing the stocks of less-familiar companies is perceived as riskier and involves more personal responsibility and greater potential for regret.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c6975fcb-ed67-4e77-8af9-e694b771fa00",
+                            "itemBody": "\u003cp\u003eA. Engaging in herding behavior\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b8b8b8ec-19e2-47ad-baf1-94d785d29d5b",
+                            "itemBody": "\u003cp\u003eB. Saving insufficiently for the future\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "616b5cee-68e1-4793-a0cc-79ae969f3c58",
+                            "itemBody": "\u003cp\u003eC. Continuing to hold classes of assets with which they are familiar\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9009,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4755,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56449",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-PM-Leonida-07",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following biases \u003ci\u003emost likely\u0026nbsp;\u003c/i\u003econtributes to the momentum effect in financial markets?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "aba95ccd-5610-4e96-afcc-f5db82d8beca"
+                },
+                "answerFeedback": {
+                    "aba95ccd-5610-4e96-afcc-f5db82d8beca": "\u003cp\u003eCorrect because momentum can be partly explained by availability, hindsight, and loss aversion biases. Studies have identified faulty learning models within traders, in which reasoning is based on their recent experience. Behaviorally, this is \u003cstrong\u003eavailability bias\u003c/strong\u003e. In this context, availability bias is also called the \u003cstrong\u003erecency effect\u003c/strong\u003e, which is the tendency to recall recent events more vividly and give them undue weight. In such models, if the price of an asset rises for a period of time, investors may simply extrapolate this rise to the future.\u003c/p\u003e",
+                    "bcac3579-6902-48cc-b636-349fcfe6c720": "\u003cp\u003eIncorrect because overconfidence bias has two forms: \u003cstrong\u003eprediction overconfidence\u003c/strong\u003e and \u003cstrong\u003ecertainty overconfidence\u003c/strong\u003e. Both types demonstrate faulty reasoning combined with “gut feel” and hope. Prediction overconfidence occurs when the confidence intervals that FMPs (Financial Market Participants) assign to their investment predictions are too narrow. For example, when estimating the future value of a stock, overconfident FMPs will incorporate far too little variation—using a narrower range of expected payoffs and a lower standard deviation of returns—than justified by historical results and fundamental analysis.\u0026nbsp;However, momentum can be partly explained by availability, hindsight, and loss aversion biases.\u003c/p\u003e",
+                    "eca1278e-5944-46b8-8a67-644cd1976311": "\u003cp\u003eIncorrect because status quo bias is an emotional bias in which people choose to do nothing (i.e., maintain the 'status quo') instead of making a change, even when change is warranted.\u0026nbsp;However, momentum can be partly explained by availability, hindsight, and loss aversion biases.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "aba95ccd-5610-4e96-afcc-f5db82d8beca",
+                            "itemBody": "\u003cp\u003eA. Availability\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "eca1278e-5944-46b8-8a67-644cd1976311",
+                            "itemBody": "\u003cp\u003eB. Status quo\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bcac3579-6902-48cc-b636-349fcfe6c720",
+                            "itemBody": "\u003cp\u003eC. Prediction overconfidence\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9009,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4755,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56450",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-PM-Leonida-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about emotional biases is \u003ci\u003emost\u003c/i\u003e accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "39ffd39a-8154-4050-a1d8-ea5a2e179aa4"
+                },
+                "answerFeedback": {
+                    "1709b6c1-f792-4a87-9006-906dc2aeb1a6": "\u003cp\u003eIncorrect because emotional biases arise spontaneously rather than through conscious effort and may even be undesired to the individual feeling them.\u003c/p\u003e",
+                    "370dc996-364c-41ed-8c74-ee617d8dbb1c": "\u003cp\u003eIncorrect because in general, behavioral biases come in two forms: faulty cognitive reasoning, known as cognitive errors, and those based on feelings or emotions, known as emotional biases.\u003c/p\u003e",
+                    "39ffd39a-8154-4050-a1d8-ea5a2e179aa4": "\u003cp\u003eCorrect because cognitive errors can often be corrected or eliminated through better information, education, and advice. Emotional biases, on the other hand, are harder to correct because they stem from impulses and intuitions.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1709b6c1-f792-4a87-9006-906dc2aeb1a6",
+                            "itemBody": "\u003cp\u003eA. They arise through conscious effort\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "370dc996-364c-41ed-8c74-ee617d8dbb1c",
+                            "itemBody": "\u003cp\u003eB. They are caused by faulty cognitive reasoning\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "39ffd39a-8154-4050-a1d8-ea5a2e179aa4",
+                            "itemBody": "\u003cp\u003eC. They are more difficult to correct than cognitive biases\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9009,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4755,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51369",
+            "entry": {
+                "title": "CFA2252-Q1",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Under-diversified portfolios are a\n                                            consequence of both illusion of control and confirmation\n                                            biases. Researchers have found that some investors\n                                            prefer to invest in companies that they feel they have\n                                            control over, such as the companies they work for,\n                                            leading them to hold concentrated positions.\n                                            Confirmation bias may lead to FMPs ignoring negative\n                                            news, paying attention only to information confirming\n                                            that a company is a good investment, which may result in\n                                            large positions. Representativeness bias is not\n                                            typically associated with under-diversified\n                                            portfolios.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eUnder-diversified portfolios are\n                                                \u003cspan style=\"text-decoration: underline;\"\u003enot\u003c/span\u003e a potential implication\n                                            of which of the following behavioral biases?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2cc9391d-8506-44b4-9c68-e782bb2b5a71"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2cc9391d-8506-44b4-9c68-e782bb2b5a71",
+                            "itemBody": "A. Representativeness",
+                            "position": 1
+                        },
+                        {
+                            "id": "6bc0dbd8-c4b2-4fd7-91b7-da6122486175",
+                            "itemBody": "B. Illusion of control",
+                            "position": 2
+                        },
+                        {
+                            "id": "a343acd3-6566-4b3a-948a-6ab409ad7ef0",
+                            "itemBody": "C. Confirmation",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51370",
+            "entry": {
+                "title": "CFA2252-Q2",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. This advice is specifically aimed at\n                                            reducing self-attribution bias, a form of overconfidence\n                                            bias. This bias may result in FMPs taking credit for\n                                            investment success, as well as assigning responsibility\n                                            to others for investment failures, when in reality the\n                                            investment results reflect exogenous market forces.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe advice “Don’t confuse brains with a\n                                            bull market” is aimed at mitigating which of the\n                                            following behavioral biases?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "74354e09-9e7d-46a8-9966-8e0ccbbfb41d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "40d09218-abc1-497e-9adc-af24b8e77447",
+                            "itemBody": "A. Self-control",
+                            "position": 1
+                        },
+                        {
+                            "id": "b800b0d1-e44b-4417-8c1a-81180e785ab2",
+                            "itemBody": "B. Conservatism",
+                            "position": 2
+                        },
+                        {
+                            "id": "74354e09-9e7d-46a8-9966-8e0ccbbfb41d",
+                            "itemBody": "C. Overconfidence",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51371",
+            "entry": {
+                "title": "CFA2252-Q3",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Both endowment bias and regret-aversion\n                                            bias often result in indecision or inertia—a\n                                            typical outcome of status quo bias, in which people\n                                            prefer to not make changes even when changes are\n                                            warranted.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eStatus quo bias is \u003cspan style=\"text-decoration: underline;\"\u003eleast\u003c/span\u003e similar\n                                            to which of the following behavioral biases?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "75a45ae5-01c9-4013-920e-ecf174bbd1d3"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "10b006f6-b5b1-4e7b-9717-fb39dd12d35d",
+                            "itemBody": "A. Endowment",
+                            "position": 1
+                        },
+                        {
+                            "id": "2b298b53-0711-4872-9926-a412ca8af750",
+                            "itemBody": "B. Regret aversion",
+                            "position": 2
+                        },
+                        {
+                            "id": "75a45ae5-01c9-4013-920e-ecf174bbd1d3",
+                            "itemBody": "C. Confirmation",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51372",
+            "entry": {
+                "title": "CFA2252-Q4",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Endowment bias refers to people attributing\n                                            additional, unwarranted value to things they possess\n                                            versus things they do not. This bias is evident in FMPs\n                                            that systematically and materially overvalue securities\n                                            in their portfolio versus securities not in their\n                                            portfolio. The question “Would you buy this\n                                            security today at the current price?” turns the\n                                            investor’s attention to assessing the\n                                            reasonableness of the current price as a buy price\n                                            rather than solely as a selling price.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich strategy would best mitigate or prevent endowment\n                                            bias?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "afbdb1b8-585f-4ec3-9083-b8673d5d8645"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "47cf7264-3cf0-4781-bdb9-2db5d189287f",
+                            "itemBody": "A. Actively seeking out information that challenges existing beliefs",
+                            "position": 1
+                        },
+                        {
+                            "id": "e4d701eb-920f-4a34-9006-a4a62b6283df",
+                            "itemBody": "B. When new information is presented, asking “How does this information change my forecast?”",
+                            "position": 2
+                        },
+                        {
+                            "id": "afbdb1b8-585f-4ec3-9083-b8673d5d8645",
+                            "itemBody": "C. Asking “Would you buy this security today at the current price?”",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51373",
+            "entry": {
+                "title": "CFA2252-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Park is extrapolating his observation based\n                                            on a narrow range of experience (working at a hedge fund\n                                            that employs many CFA charterholders) to the entire\n                                            population of CFA charterholders. Using a narrow range\n                                            of experience is a form of availability bias.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eJun Park, CFA, works at a hedge fund. Most of\n                                            Park’s colleagues are also CFA charterholders. At\n                                            an event with recent university graduates, Park\n                                            comments, “Most CFA charterholders work at hedge\n                                            funds.” Park’s remark exhibits which\n                                            behavioral bias?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ebfd8b90-5c06-495c-88b7-41a250741316"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ebfd8b90-5c06-495c-88b7-41a250741316",
+                            "itemBody": "A. Availability",
+                            "position": 1
+                        },
+                        {
+                            "id": "5a139ae6-9065-48b8-ae0a-01b98a5a1fc3",
+                            "itemBody": "B. Conservatism",
+                            "position": 2
+                        },
+                        {
+                            "id": "eca4d140-81cc-4f56-b4cd-46af64b6ff04",
+                            "itemBody": "C. Framing",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51374",
+            "entry": {
+                "title": "CFA2252-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Conservatism bias results in maintain or\n                                            only slowly updating views and forecasts despite the\n                                            presence of new information. FMPs in the 1990s were\n                                            reluctant to update forecasts, despite materially\n                                            different new information for several years.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn the 1980s, Japan was viewed by many FMPs as the model\n                                            economy. Although its growth began to decelerate sharply\n                                            by 1990, it was not until the mid to late 1990s that\n                                            FMPs’ GDP forecasts were consistently achieved.\n                                            By taking several years to adapt their forecasts to the\n                                            lower growth environment, FMPs exhibited which\n                                            behavioral bias?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "24bfe96d-39de-4196-9444-43858fe97e61"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "129af672-53dc-4c2b-a9cd-8c69b5866d94",
+                            "itemBody": "A. Mental accounting",
+                            "position": 1
+                        },
+                        {
+                            "id": "99e1edfb-50af-4207-910c-7d27ffd1dba6",
+                            "itemBody": "B. Overconfidence",
+                            "position": 2
+                        },
+                        {
+                            "id": "24bfe96d-39de-4196-9444-43858fe97e61",
+                            "itemBody": "C. Conservatism",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51375",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCaitríona Daosri is a portfolio manager for an international bank, where she advises high-net-worth clients. Daosri is meeting with a new client, Estêvão Kai, a 40-year-old surgeon with €4 million across various accounts and a salary of €500,000 per annum. Kai explains to Daosri that he has four accounts at four different banks, each with specific sources and uses of funds, as shown in the following table:\u003c/p\u003e\n\u003cdiv id=\"CFA2252-P-Ta\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eBank Account\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eSource of Deposits\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eUse of Funds\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eSalary\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eLiving expenses\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eBonus\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eCharitable gifts\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003ePortfolio interest\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eSavings for retirement\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e4\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003ePortfolio dividends\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003eMother’s living expenses\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51376",
+            "entry": {
+                "title": "CFA2252-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Kai has segregated money into four\n                                            different accounts based on the sources and uses of his\n                                            funds. Although intuitively appealing, this approach is\n                                            irrational because money is fungible across the four\n                                            accounts. Nothing is stopping Kai from collapsing them\n                                            into a single “account” with a holistic\n                                            portfolio strategy.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBased on the description of how Kai manages his\n                                                finances as outlined in Exhibit 1, Kai\n                                                most likely exhibits the behavioral bias of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bd4366b0-1099-44f2-9f31-7ef023deba73"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "985aa91f-5d13-4b30-872f-715061e8f345",
+                            "itemBody": "A. endowment.",
+                            "position": 1
+                        },
+                        {
+                            "id": "bd4366b0-1099-44f2-9f31-7ef023deba73",
+                            "itemBody": "B. mental accounting.",
+                            "position": 2
+                        },
+                        {
+                            "id": "a59dbe0e-c197-4ca7-9acb-e232000e4191",
+                            "itemBody": "C. framing.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": "51375"
+        },
+        {
+            "id": "51377",
+            "entry": {
+                "title": "CFA2252-Q8",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The most common consequence of mental\n                                            accounting is neglecting opportunities to reduce risk by\n                                            combining assets with low correlations, because each\n                                            account’s asset allocation is examined\n                                            discretely. Offsetting positions across accounts, or an\n                                            overall inefficient allocation with respect to risk, can\n                                            lead to suboptimal aggregate performance.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is a likely consequence of\n                                                Kai’s approach to managing his finances?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fdc0d524-639d-4627-b6cd-28bae48e57b5"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "14ae5490-d868-4fd0-a67e-4d4cf90dfcbd",
+                            "itemBody": "A. Concentrated portfolio positions",
+                            "position": 1
+                        },
+                        {
+                            "id": "fdc0d524-639d-4627-b6cd-28bae48e57b5",
+                            "itemBody": "B. Forgone opportunities to reduce risk by combining assets with low correlations",
+                            "position": 2
+                        },
+                        {
+                            "id": "e7c50e3f-9c1b-4f60-b15b-2ab4d3d0e9ba",
+                            "itemBody": "C. Excessive trading",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": "51375"
+        },
+        {
+            "id": "51378",
+            "entry": {
+                "title": "CFA2252-Q9",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Aggregating mental accounts is a logical\n                                            strategy to combat mental accounting. It is the opposite\n                                            of disaggregating money into separate accounts.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich strategy should Daosri use or recommend to\n                                                Kai?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8cb18f28-a2aa-4880-82b6-d3573183b153"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6c1df763-d19b-4852-9d0b-f15834593cbc",
+                            "itemBody": "A. Keep written records of investment decisions.",
+                            "position": 1
+                        },
+                        {
+                            "id": "16470d08-95f3-49c8-84f3-4ed1dd3d035e",
+                            "itemBody": "B. Ask questions such as, “Is the decision the result of focusing on a net gain or net loss position?”",
+                            "position": 2
+                        },
+                        {
+                            "id": "8cb18f28-a2aa-4880-82b6-d3573183b153",
+                            "itemBody": "C. Aggregate all accounts and portfolios into a single spreadsheet.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": "51375"
+        },
+        {
+            "id": "51379",
+            "entry": {
+                "title": "CFA2252-Q10",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The overconfidence and excessive trading\n                                            that contribute to a bubble are linked to\n                                            self-attribution bias, a form of overconfidence. In a\n                                            rising market, sales of stocks from a portfolio will\n                                            typically be profitable, even if winners are being sold\n                                            too soon, and FMPs will attribute profits and strong\n                                            performance to their investment acumen and subsequently\n                                            underestimate risks.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following individual behavioral biases\n                                                is most strongly associated with market bubbles?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e122de50-d251-4fc3-9e0a-ebe63ce52ebe"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e122de50-d251-4fc3-9e0a-ebe63ce52ebe",
+                            "itemBody": "A. Overconfidence",
+                            "position": 1
+                        },
+                        {
+                            "id": "f2ce2e34-3d14-489c-a92c-736cf17d8138",
+                            "itemBody": "B. Representativeness",
+                            "position": 2
+                        },
+                        {
+                            "id": "774bc786-a9c4-4fb9-98ff-9d3fe5ba3469",
+                            "itemBody": "C. Framing",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": "51375"
+        },
+        {
+            "id": "51380",
+            "entry": {
+                "title": "CFA2252-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Representativeness refers to the tendency\n                                            to adopt a view or forecast based on individual\n                                            information or a small sample, as well to use simple\n                                            classifications. The halo effect is an example of\n                                            representativeness, because FMPs extend an overall\n                                            favorable evaluation to an investment (e.g., a\n                                            “good company”) based on one or few\n                                            characteristics (e.g., a “visionary\n                                            CEO”).\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe halo effect, which may be evident in FMP’s\n                                            assessments of a company with a history of high revenue\n                                            growth, is a form of which behavioral bias?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c5b4c7ae-a73a-451e-84df-e1d8d7616b9c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fee2fd8e-c869-4a3e-b9a6-64cce0536751",
+                            "itemBody": "A. Endowment",
+                            "position": 1
+                        },
+                        {
+                            "id": "c5b4c7ae-a73a-451e-84df-e1d8d7616b9c",
+                            "itemBody": "B. Representativeness",
+                            "position": 2
+                        },
+                        {
+                            "id": "e9e8b9bf-20a2-436c-81a9-ab71c17e3bcd",
+                            "itemBody": "C. Regret aversion",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51381",
+            "entry": {
+                "title": "CFA2252-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Bubbles and crashes are well-known and\n                                            well-documented phenomena yet represent market\n                                            anomalies.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAll of the following are reasons that an apparent\n                                            deviation from the efficient market hypothesis might\n                                                \u003cspan style=\"text-decoration: underline;\"\u003enot\u003c/span\u003e be anomalous\n                                                \u003cspan style=\"text-decoration: underline;\"\u003eexcept\u003c/span\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fc8ddd21-658f-4dc4-8dfd-c0c897e78462"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fe3f1fe8-3e3e-4515-ad4e-45b5f894e57d",
+                            "itemBody": "A. The abnormal returns represent compensation for exposure to risk.",
+                            "position": 1
+                        },
+                        {
+                            "id": "072a324e-494b-4dd0-84d8-7c3c8bf3b027",
+                            "itemBody": "B. Changing the asset pricing model makes the deviation to disappear.",
+                            "position": 2
+                        },
+                        {
+                            "id": "fc8ddd21-658f-4dc4-8dfd-c0c897e78462",
+                            "itemBody": "C. The deviation is well known or documented.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51382",
+            "entry": {
+                "title": "CFA2252-Q13",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Investment managers’\n                                            incentives—or perhaps more accurately, their\n                                            perception of their incentives—for short-term\n                                            performance were named as considerations in the\n                                            technology and real estate bubbles. Not participating in\n                                            the bubble presented certain FMPs with commercial or\n                                            career risk.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eInvestment managers incentivized or accountable for\n                                            short-term performance by current and prospective\n                                            clients is a potentially rational explanation for which\n                                            of the following?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "323da4a9-d4e2-434c-bae3-7cc3eb7b3c6d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fb59be71-9247-4d61-8be4-01b40954ec74",
+                            "itemBody": "A. Home bias",
+                            "position": 1
+                        },
+                        {
+                            "id": "323da4a9-d4e2-434c-bae3-7cc3eb7b3c6d",
+                            "itemBody": "B. Bubbles",
+                            "position": 2
+                        },
+                        {
+                            "id": "6e850162-0aef-4453-b3d1-2a7e8413d5f0",
+                            "itemBody": "C. Value stocks outperforming growth stocks",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51383",
+            "entry": {
+                "title": "CFA2252-Q14",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Home bias refers to FMPs preferentially\n                                            investing in domestic securities, likely reflecting\n                                            perceived relative informational advantages, a greater\n                                            feeling of comfort with the access to company executives\n                                            that proximity brings (either personal or through a\n                                            local brokerage), or a psychological desire to invest in\n                                            a local community. Momentum, on the other hand, has been\n                                            documented in a range of markets around the world, in a\n                                            time-dependent manner, and reflects some FMPs’\n                                            availability bias, manifested as a belief that stocks\n                                            will continue to rise because recently they have only\n                                            risen, as well as regret aversion by those who invest in\n                                            past winners because they regret not investing in them\n                                            in the past.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eMomentum, can be partly explained by the following\n                                            behavioral biases \u003cspan style=\"text-decoration: underline;\"\u003eexcept\u003c/span\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c5351e5e-16dd-43d6-bc61-600685e8058f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "eea2e114-e01f-445d-aad9-4ca65bf8ee0e",
+                            "itemBody": "A. availability.",
+                            "position": 1
+                        },
+                        {
+                            "id": "c5351e5e-16dd-43d6-bc61-600685e8058f",
+                            "itemBody": "B. home bias.",
+                            "position": 2
+                        },
+                        {
+                            "id": "704d2f71-23a4-4e0c-b464-d95885f679c7",
+                            "itemBody": "C. regret.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51384",
+            "entry": {
+                "title": "CFA2252-Q15",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. This choice describes the halo effect,\n                                            which does offer a behavioral explanation for the poor\n                                            performance of growth stocks versus value stocks. Growth\n                                            stocks are mispriced relative to their risk\n                                            characteristics, because FMPs focusing on just a few\n                                            properties, such as a high historical revenue growth\n                                            rate, while neglecting other characteristics.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAll of the following are reasons that the historical\n                                            outperformance of value stocks versus growth stocks may\n                                                \u003cspan style=\"text-decoration: underline;\"\u003enot\u003c/span\u003e be anomalous\n                                                \u003cspan style=\"text-decoration: underline;\"\u003eexcept:\u003c/span\u003e\n            \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "be90dc64-6070-412a-8178-519d2ce850c1"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "192e4c1d-ab53-48ff-94b7-3deaf56f0b61",
+                            "itemBody": "A. Abnormal returns represent compensation for risk exposures, such as the heightened risk of value stocks to suffer distress during downturns.",
+                            "position": 1
+                        },
+                        {
+                            "id": "be90dc64-6070-412a-8178-519d2ce850c1",
+                            "itemBody": "B. Companies with strong historical growth rates are viewed as good investments, with higher expected returns than risk characteristics merit.",
+                            "position": 2
+                        },
+                        {
+                            "id": "d8322cfd-f1d4-42c4-b5f1-dfe03786fe29",
+                            "itemBody": "C. The deviation disappears by incorporating a three-factor asset pricing model.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8287,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53997",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-PM-Tsependa-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFailing to act in pursuit of long-term goals in favor of short-term satisfaction \u003ci\u003ebest\u003c/i\u003e describes which of the following emotional biases?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "64fa584d-6aaa-4a1b-919a-d163fdafbf5a"
+                },
+                "answerFeedback": {
+                    "446567e1-8cff-4f55-8894-69a341003013": "\u003cp\u003eIncorrect because \u003cb\u003eloss-aversion bias\u003c/b\u003e refers to the tendency to strongly prefer avoiding losses to achieving gains, and is not about acting in favor of short-term satisfaction at the cost of long-term goals.\u003c/p\u003e",
+                    "64fa584d-6aaa-4a1b-919a-d163fdafbf5a": "\u003cp\u003eCorrect because \u003cb\u003es\u003c/b\u003e\u003cb\u003eelf-control bias \u003c/b\u003eis a bias in which people fail to act in pursuit of their long-term, overarching goals in favor of short-term satisfaction.\u003c/p\u003e",
+                    "86fdfee2-bb94-4869-aeeb-9071abcf9036": "\u003cp\u003eIncorrect because \u003cb\u003eendowment bias\u003c/b\u003e is an emotional bias in which people value an asset more when they own it than when they do not, and is not about acting in favor of short-term satisfaction the cost of long-term goals.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "64fa584d-6aaa-4a1b-919a-d163fdafbf5a",
+                            "itemBody": "\u003cp\u003eA. Self-control bias\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "86fdfee2-bb94-4869-aeeb-9071abcf9036",
+                            "itemBody": "\u003cp\u003eB. Endowment bias\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "446567e1-8cff-4f55-8894-69a341003013",
+                            "itemBody": "\u003cp\u003eC. Loss-aversion bias\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8724,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53998",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-PM-Tomter-12",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost\u003c/i\u003e closely associated with representativeness bias?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "44849bc1-97cb-456f-8259-faf71303cd7b"
+                },
+                "answerFeedback": {
+                    "44849bc1-97cb-456f-8259-faf71303cd7b": "\u003cp\u003eCorrect because representativeness bias attributes one positive trait\u0026nbsp;as being representative of an overall positive investment. The \u003cb\u003ehalo effect\u003c/b\u003e extends a favorable evaluation of some characteristics to other characteristics. A company with a good growth record and good previous share price performance might be seen as a good investment, with higher expected returns than its risk characteristics merit. This view is a form of representativeness that can lead investors to extrapolate recent past performance into expected returns.\u003c/p\u003e",
+                    "6821b5bb-70bf-47c4-87dd-43a2cd65a5ab": "\u003cp\u003eIncorrect because bubbles and crashes are most closely identified with overconfidence, not representativeness bias. In bubbles, investors often exhibit symptoms of \u003ci\u003eoverconfidence\u003c/i\u003e; overtrading, underestimation of risks, failure to diversify, and rejection of contradictory information. The overconfidence and excessive trading that contribute to a bubble are linked to \u003ci\u003econfirmation bias\u003c/i\u003e and \u003ci\u003eself-attribution bias\u003c/i\u003e.\u003c/p\u003e",
+                    "a2e8eb71-5ae9-4431-a305-41cf56357d07": "\u003cp\u003eIncorrect because representativeness bias pertains to sample-size neglect, where a small sample is believed\u0026nbsp;to represent a population, or base-rate neglect, where specific information is seen to supercede an established trend. Momentum is attributable to the fear of missing out or\u0026nbsp;recent trends in the market, not a specific piece of information.\u0026nbsp;Momentum can be partly explained by availability, hindsight, and loss aversion biases.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a2e8eb71-5ae9-4431-a305-41cf56357d07",
+                            "itemBody": "\u003cp\u003eA. Momentum\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "44849bc1-97cb-456f-8259-faf71303cd7b",
+                            "itemBody": "\u003cp\u003eB. The halo effect\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6821b5bb-70bf-47c4-87dd-43a2cd65a5ab",
+                            "itemBody": "\u003cp\u003eC. Bubbles and crashes\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8724,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53999",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.08-PM-Glover-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following behavioral biases is\u0026nbsp;\u003ci\u003emost likely \u003c/i\u003ethe hardest to correct?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "69e66ae3-da43-45fb-922f-cae0fd5c73b1"
+                },
+                "answerFeedback": {
+                    "43828b65-1b26-4d62-b5f5-2ab03fe86eef": "\u003cp\u003eIncorrect because hindsight bias\u0026nbsp;is a cognitive error\u0026nbsp;and cognitive errors can often be corrected or eliminated through better information, education, and advice. Emotional biases, on the other hand, are harder to correct because they stem from impulses and intuitions. Thus, it is often possible only to recognize an emotional bias and adapt to it.\u0026nbsp;\u003cb\u003eHindsight bias\u003c/b\u003e refers to believing past events as having been predictable and reasonable to expect. This behavior results from the obvious fact that outcomes that did occur are more readily evident than outcomes that did not.\u003c/p\u003e",
+                    "69e66ae3-da43-45fb-922f-cae0fd5c73b1": "\u003cp\u003eCorrect because loss-aversion bias\u0026nbsp;is an emotional bias, as opposed to a cognitive error, and cognitive errors can often be corrected or eliminated through better information, education, and advice. Emotional biases, on the other hand, are harder to correct because they stem from impulses and intuitions. Thus, it is often possible only to recognize an emotional bias and adapt to it.\u0026nbsp;\u003cb\u003eLoss-aversion bias\u003c/b\u003e refers to the tendency to strongly prefer avoiding losses to achieving gains.\u003c/p\u003e",
+                    "fc503932-b5ea-4668-965f-cfbc1c8e04d9": "\u003cp\u003eIncorrect because representativeness bias is a cognitive error\u0026nbsp;and cognitive errors can often be corrected or eliminated through better information, education, and advice. Emotional biases, on the other hand, are harder to correct because they stem from impulses and intuitions. Thus, it is often possible only to recognize an emotional bias and adapt to it.\u0026nbsp;\u003cb\u003eRepresentativeness bias \u003c/b\u003erefers to the tendency to classify new information based on past experiences and classifications.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "43828b65-1b26-4d62-b5f5-2ab03fe86eef",
+                            "itemBody": "\u003cp\u003eA. Hindsight bias\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "69e66ae3-da43-45fb-922f-cae0fd5c73b1",
+                            "itemBody": "\u003cp\u003eB. Loss-aversion bias\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "fc503932-b5ea-4668-965f-cfbc1c8e04d9",
+                            "itemBody": "\u003cp\u003eC. Representativeness bias\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8724,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54000",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-PM-Tsependa-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCognitive errors:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1e1ccaaf-bd72-4e79-821b-2a841099199b"
+                },
+                "answerFeedback": {
+                    "1e1ccaaf-bd72-4e79-821b-2a841099199b": "\u003cp\u003eCorrect because cognitive errors can often be corrected or eliminated through better information, education, and advice.\u003c/p\u003e",
+                    "3afeb0ab-7f3e-4e0b-bbe5-83b791ae6c53": "\u003cp\u003eIncorrect because both forms of bias [cognitive and emotional], regardless of their source, may cause decisions to deviate from what is assumed by traditional finance theory.\u003c/p\u003e",
+                    "68e69085-83b5-49fb-aa92-ae693f79e973": "\u003cp\u003eIncorrect because emotional biases [not cognitive errors], on the other hand, are harder to correct because they stem from impulses and intuitions.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "68e69085-83b5-49fb-aa92-ae693f79e973",
+                            "itemBody": "\u003cp\u003eA. stem from impulses and intuition.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3afeb0ab-7f3e-4e0b-bbe5-83b791ae6c53",
+                            "itemBody": "\u003cp\u003eB. result in the same decision as\u0026nbsp;assumed by traditional finance theory.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1e1ccaaf-bd72-4e79-821b-2a841099199b",
+                            "itemBody": "\u003cp\u003eC. can often be corrected or eliminated through better information, education, and advice.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8724,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4503,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

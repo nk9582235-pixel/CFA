@@ -1,0 +1,543 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6353,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 8,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 5: Fixed-Income Markets for Government Issuers",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6353,
+        "subtopic": "Module 5: Fixed-Income Markets for Government Issuers",
+        "question_count": 8,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4467,
+                "question_count": 7,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4684,
+                "question_count": 1,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 8.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "fd8dc25db3e7a7cf",
+        "ordered_item_ids": [
+            "55031",
+            "51162",
+            "51163",
+            "51164",
+            "51165",
+            "51166",
+            "51167",
+            "53812"
+        ],
+        "visible_item_ids": [
+            "55031",
+            "51162",
+            "51163",
+            "51164",
+            "51165",
+            "51166",
+            "51167",
+            "53812"
+        ]
+    },
+    "items": [
+        {
+            "id": "55031",
+            "entry": {
+                "title": "ITEM_CFA-L1-02865",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eUS municipal bonds are \u003ci\u003ebest\u003c/i\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e2dbb125-35ca-4359-a01c-dcefc06baaa0"
+                },
+                "answerFeedback": {
+                    "15f43e43-efeb-4827-985a-c82316454898": "\u003cp\u003eIncorrect because government agencies are quasi-government entities that issue debt in order to fund the government-sponsored provision of specific public goods or services based on sovereign or local law. This may involve the financing of specific activities promoted by the government or the operation of necessary infrastructure as mandated by law.\u0026nbsp;The bonds issued by these agencies are known as quasi-government bonds or agency bonds.\u003c/p\u003e",
+                    "65113cfa-f5c5-4f82-8c85-4178cc10f97e": "\u003cp\u003eIncorrect because government agencies are quasi-government entities that issue debt in order to fund the government-sponsored provision of specific public goods or services based on sovereign or local law. This may involve the financing of specific activities promoted by the government or the operation of necessary infrastructure as mandated by law.\u0026nbsp;The bonds issued by these agencies are known as quasi-government bonds or agency bonds\u003c/p\u003e",
+                    "e2dbb125-35ca-4359-a01c-dcefc06baaa0": "\u003cp\u003eCorrect because the main types of non-sovereign government issuers include agencies, public banks, supranationals, and regional governments.\u0026nbsp;Regional Government Issuers.\u0026nbsp;These include provincial, state, and local governments, referred to as municipal bonds in the US and most often as local authority bonds elsewhere, within a specific sovereign jurisdiction.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "65113cfa-f5c5-4f82-8c85-4178cc10f97e",
+                            "itemBody": "\u003cp\u003eA. agency bonds.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e2dbb125-35ca-4359-a01c-dcefc06baaa0",
+                            "itemBody": "\u003cp\u003eB. non-sovereign bonds.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "15f43e43-efeb-4827-985a-c82316454898",
+                            "itemBody": "\u003cp\u003eC. quasi-government bonds.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8866,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4684,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51162",
+            "entry": {
+                "title": "CFA2435-R-s04-Q4",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Public sector financial accounting standards vary widely and are often prepared using cash, rather than accrual-based, principles, typically excluding such items as the depreciation of fixed public goods, such as federal highways, or the accrual of unfunded liabilities, such as government pension obligations. A and B are incorrect because balance sheets of government entities are likely to include FX reserves and long-term debt.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBalance sheets of government entities are unlikely to include:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3a17537c-c7e1-4c88-b171-8e937573d489"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a52b58cf-06a0-4c8b-aa28-42eeb42c85ad",
+                            "itemBody": "A. FX reserves.",
+                            "position": 1
+                        },
+                        {
+                            "id": "40090c72-2b32-424f-9711-64dba61faed7",
+                            "itemBody": "B. long-term debt.",
+                            "position": 2
+                        },
+                        {
+                            "id": "3a17537c-c7e1-4c88-b171-8e937573d489",
+                            "itemBody": "C. accrual of unfunded liabilities.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8221,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4467,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51163",
+            "entry": {
+                "title": "CFA2435-R-s04-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Governments seek to minimize interest rate and rollover risks by distributing debt across maturities while issuing debt in regular, predictable intervals. A and B are incorrect because taxpayers are neither able to perfectly smooth consumption over time, nor do they form rational expectations about current versus future taxes across generations, leading to fiscal instability, creating uncertainty in future tax rates, and threatening the stability of economic growth over time.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn practice, which of the following applies as it relates to sovereign government financing?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f5ae160f-8591-459c-97c9-b2a3571cf4cb"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "eb6fb923-5188-4415-9357-3f0fa9c5538c",
+                            "itemBody": "A. Taxpayers smooth consumption over time, saving expected future taxes today for future payment.",
+                            "position": 1
+                        },
+                        {
+                            "id": "f69c369c-a420-4d92-b1c1-006633264605",
+                            "itemBody": "B. Taxpayers form rational expectations that today’s tax cuts will result in future tax increases and pass on tax savings to descendants.",
+                            "position": 2
+                        },
+                        {
+                            "id": "f5ae160f-8591-459c-97c9-b2a3571cf4cb",
+                            "itemBody": "C. Governments seek to minimize interest rate and rollover risks by distributing debt across maturities while issuing debt in regular, predictable intervals.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8221,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4467,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51164",
+            "entry": {
+                "title": "CFA2435-R-s04-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. All non-competitive bids are accepted, while competitive bids are ranked starting at the lowest yield (highest bond price). A is incorrect because individuals can also bid, in addition to dealers and institutional investors. B is incorrect because competitive bidders who bid higher than the stop yield (lower price) do not purchase any securities. All securities are sold for a single price, using a stop yield.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is correct regarding the single-price auction process?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1250c545-3466-4a44-bdbe-148c146ed96a"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a3e09503-436a-4303-972d-fd47389f7df1",
+                            "itemBody": "A. Bidders include only dealers and institutional investors.",
+                            "position": 1
+                        },
+                        {
+                            "id": "fcc52483-83ed-4e7c-b7bc-a9ba9cd39c72",
+                            "itemBody": "B. Competitive bidders who bid higher than the stop yield are allocated securities.",
+                            "position": 2
+                        },
+                        {
+                            "id": "1250c545-3466-4a44-bdbe-148c146ed96a",
+                            "itemBody": "C. All non-competitive bids are accepted, while competitive bids are ranked starting at the lowest yield (highest bond price).",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8221,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4467,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51165",
+            "entry": {
+                "title": "CFA2435-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The most recently issued sovereign securities, known as on-the-run securities, are used for benchmark yield analyses. B is incorrect because off-the-run securities are issued prior to on-the-run securities. C is incorrect because on-the-run securities are not less liquid than off-the-run securities.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eOn-the-run sovereign debt securities are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fb16c1e2-a957-40c5-bfa0-e942743f8868"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fb16c1e2-a957-40c5-bfa0-e942743f8868",
+                            "itemBody": "A. used for benchmark yield analyses.",
+                            "position": 1
+                        },
+                        {
+                            "id": "7ec6510e-6f36-4033-a997-7d8d99d9114f",
+                            "itemBody": "B. issued prior to off-the-run securities.",
+                            "position": 2
+                        },
+                        {
+                            "id": "70d61a8f-c804-4a81-b307-1914b3dea50f",
+                            "itemBody": "C. less liquid than off-the-run securities.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8221,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4467,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51166",
+            "entry": {
+                "title": "CFA2435-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. General obligation bonds are used to fund public goods and services in the non-sovereign’s limited jurisdiction and are repaid from local tax cash flows. B is incorrect because revenue bonds are issued for a specific project financing (infrastructure such as roads, bridges, or tunnels) with the source of repayment often linked to a project’s revenue stream (tolls, fees, etc.). C is incorrect because government agencies are quasi-government entities that issue debt in order to fund the government-sponsored provision of specific public goods or services based on sovereign or local law, with the primary source of repayment related to the public good or service and the sovereign government backing as a secondary source of repayment.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA non-sovereign bond issued to fund public goods and services in the non-sovereign’s limited jurisdiction that is repaid from local tax cash flows is referred to as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c7261c9a-27f2-4d18-a3b4-77552a360d3f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c7261c9a-27f2-4d18-a3b4-77552a360d3f",
+                            "itemBody": "A. a GO bond.",
+                            "position": 1
+                        },
+                        {
+                            "id": "2b10ff35-75ab-40dd-a57d-777c02c51e73",
+                            "itemBody": "B. a revenue bond.",
+                            "position": 2
+                        },
+                        {
+                            "id": "f46670b4-dada-4249-aaa5-2e26401c4f86",
+                            "itemBody": "C. an agency bond.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8221,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4467,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51167",
+            "entry": {
+                "title": "CFA2435-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. For the Airport Authority of Hong Kong, for example, the primary source of repayment is cash flows from airport operations, while its sovereign government backing is a secondary source of repayment. Similarly, the primary source of repayment for Ginnie Mae is mortgage-based guaranty fees and other cash flows, with its sovereign government backing as a secondary source of repayment. A is incorrect because while sovereign agencies typically borrow at a yield-to-maturity near that of their sovereign guarantor, they do not benefit from the full liquidity premium associated with sovereign debt. C is incorrect because agencies issue a combination of short- and long-term debt to meet specific working capital and capital investment needs.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eGovernment agencies issue debt that is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2806836b-13a6-4f57-80ae-ac9e774fd4fc"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "91ad09ca-7c4e-4f15-abbd-d83951a35212",
+                            "itemBody": "A. at a yield-to-maturity equal to that of its sovereign guarantor.",
+                            "position": 1
+                        },
+                        {
+                            "id": "2806836b-13a6-4f57-80ae-ac9e774fd4fc",
+                            "itemBody": "B. primarily repaid by cash flows related to its underlying activities.",
+                            "position": 2
+                        },
+                        {
+                            "id": "5c23aef0-b9b6-4e29-a81d-24d85dfd23e5",
+                            "itemBody": "C. short term, only to meet working capital and capital investment needs.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8221,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4467,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53812",
+            "entry": {
+                "title": "ITEM_20190531009",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eQuasi-governmental bonds are \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7489b520-8507-460a-b1ab-39c715e66244"
+                },
+                "answerFeedback": {
+                    "389db9c5-e594-47a9-ada2-fb0f11cf51f5": "\u003cp\u003eIncorrect because these are are known as non-sovereign bonds. Some non-sovereign government issuers are similar to sovereign borrowers in that they can levy taxes to fund activities in their jurisdiction.\u003c/p\u003e",
+                    "7489b520-8507-460a-b1ab-39c715e66244": "\u003cp\u003eCorrect because Government agencies are quasi-government entities that issue debt in order to fund the government-sponsored provision of specific public goods or services based on sovereign or local law. This may involve the financing of specific activities promoted by the government or the operation of necessary infrastructure as mandated by law. For example, the Airport Authority of Hong Kong (AAHK), introduced in an earlier module, is the statutory agency for operating and developing the Hong Kong International Airport. AAHK issues a combination of short- and long-term debt to meet the airport’s specific working capital and capital investment needs. The primary source of repayment is cash flows from airport operations, while its sovereign government backing is a secondary source of repayment.\u003c/p\u003e",
+                    "d61cd481-319b-484b-8806-8d9886ea10b8": "\u003cp\u003eIncorrect because these are known as sovereign bonds even if they are denominated in a foreign currency. In the case of emerging market sovereign issuers, it is important to further distinguish between domestic debt issued in the domestic currency and external debt. External debt of emerging and frontier market sovereign issuers comprises debt from supranational financial organizations and debt issuance denominated in a foreign currency held by foreign private investors.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d61cd481-319b-484b-8806-8d9886ea10b8",
+                            "itemBody": "\u003cp\u003eA. issued by a national government in a foreign currency.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "389db9c5-e594-47a9-ada2-fb0f11cf51f5",
+                            "itemBody": "\u003cp\u003eB. issued by a governmental body below the national level.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7489b520-8507-460a-b1ab-39c715e66244",
+                            "itemBody": "\u003cp\u003eC. repaid from cash flows generated by the issuer or from the project being financed.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8654,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4467,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

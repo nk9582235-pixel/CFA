@@ -1,0 +1,2497 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6344,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 41,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 6: Introduction to Risk Management",
+        "topic_id": 1039,
+        "topic": "CFA-26-02-LI-C: Portfolio Management",
+        "subtopic_id": 6344,
+        "subtopic": "Module 6: Introduction to Risk Management",
+        "question_count": 41,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 855,
+                "name": "Warehouse Course: Portfolio Management 26-LI",
+                "code": "Warehouse Course: Portfolio Management 26-LI",
+                "module_id": 4504,
+                "question_count": 31,
+                "type": "warehouse"
+            },
+            {
+                "id": 846,
+                "name": "Practice Pack Warehouse: Portfolio Management 26-LI",
+                "code": "Practice Pack Warehouse: Portfolio Management 26-LI",
+                "module_id": 4756,
+                "question_count": 10,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 41.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "f6a0d6caed7b51c0",
+        "ordered_item_ids": [
+            "56475",
+            "56476",
+            "56477",
+            "56478",
+            "56479",
+            "56480",
+            "56481",
+            "56482",
+            "56483",
+            "56484",
+            "51435",
+            "51436",
+            "51437",
+            "51438",
+            "51439",
+            "51440",
+            "51441",
+            "51442",
+            "51443",
+            "51444",
+            "51445",
+            "51446",
+            "51447",
+            "51448",
+            "51449",
+            "51450",
+            "51451",
+            "51452",
+            "51453",
+            "54001",
+            "54002",
+            "54003",
+            "54004",
+            "54005",
+            "54006",
+            "54007",
+            "54008",
+            "54009",
+            "54010",
+            "54011",
+            "54012"
+        ],
+        "visible_item_ids": [
+            "56475",
+            "56476",
+            "56477",
+            "56478",
+            "56479",
+            "56480",
+            "56481",
+            "56482",
+            "56483",
+            "56484",
+            "51435",
+            "51436",
+            "51437",
+            "51438",
+            "51439",
+            "51440",
+            "51441",
+            "51442",
+            "51443",
+            "51444",
+            "51445",
+            "51446",
+            "51447",
+            "51448",
+            "51449",
+            "51450",
+            "51451",
+            "51452",
+            "51453",
+            "54001",
+            "54002",
+            "54003",
+            "54004",
+            "54005",
+            "54006",
+            "54007",
+            "54008",
+            "54009",
+            "54010",
+            "54011",
+            "54012"
+        ]
+    },
+    "items": [
+        {
+            "id": "56475",
+            "entry": {
+                "title": "ITEM_2019BPM06BMA",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003ebest\u003c/i\u003e classified as a non-financial risk?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c43a1c6e-355f-483e-8744-29ac71c903ca"
+                },
+                "answerFeedback": {
+                    "77255975-8f23-48fb-9a9a-b87799b65796": "\u003cp\u003eIncorrect because liquidity risk is a\u0026nbsp;financial risk and defined as\u0026nbsp;the risk of a significant downward valuation adjustment when selling a financial asset.\u003c/p\u003e",
+                    "c43a1c6e-355f-483e-8744-29ac71c903ca": "\u003cp\u003eCorrect because although most risks have monetary consequences, there are a number of risks that are typically classified as non-financial in nature. These risks arise from a variety of sources, such as the relationship between the entity and counterparties, regulators, governments, the environment, suppliers, customers, and employees. The following three non-financial risks are related: regulatory risk, accounting risk, and tax risk. They could even be collectively referred to as compliance risk because they all deal with the matter of conforming to policies, laws, rules, and regulations as set forth by governments and authoritative bodies, such as accounting governing boards.\u003c/p\u003e",
+                    "eff4ec46-60c7-405a-810d-30f7c6a487e6": "\u003cp\u003eIncorrect because the second primary financial risk is credit risk. Credit risk is the risk of loss if one party fails to pay an amount owed on an obligation, such as a bond, loan, or derivative, to another party.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "eff4ec46-60c7-405a-810d-30f7c6a487e6",
+                            "itemBody": "\u003cp\u003eA. Credit risk\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "77255975-8f23-48fb-9a9a-b87799b65796",
+                            "itemBody": "\u003cp\u003eB. Liquidity risk\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c43a1c6e-355f-483e-8744-29ac71c903ca",
+                            "itemBody": "\u003cp\u003eC. Accounting risk\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9011,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4756,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56476",
+            "entry": {
+                "title": "ITEM_2019BPM05BMA",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn risk management, which of the following should be taken into account when determining an enterprise’s risk tolerance?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b6a1692c-261d-4ca3-bed2-5988ec4c481d"
+                },
+                "answerFeedback": {
+                    "9f9ddf3a-2af6-4834-bce7-1ae90929e8d0": "\u003cp\u003eIncorrect because, in the context of risk management, risk budgeting picks up where risk tolerance leaves off. Whereas risk tolerance focuses on the appetite for risk and what is and is not acceptable, risk budgeting has a more specific focus on how that risk is taken. Risk budgeting quantifies and allocates the tolerable risk by specific metrics; it extends and guides implementation of the risk tolerance decision.\u003c/p\u003e",
+                    "ac97b3a5-9173-4f64-9f6d-24cb40c355fe": "\u003cp\u003eIncorrect because, in the context of risk management, certain factors should \u003ci\u003enot\u003c/i\u003e determine risk tolerance, but in many cases they do. Personal motivations, beliefs, and agendas of board members (the agency problem); company size; whether the market environment seems stable; short-term pressures; and management compensation often affect risk tolerance in ways that might not be in line with the owners’ best interests.\u003c/p\u003e",
+                    "b6a1692c-261d-4ca3-bed2-5988ec4c481d": "\u003cp\u003eCorrect because, in the context of risk management, factors such as a company’s goals, its expertise in certain areas, and its strategies will help a board determine which risks the company may pursue and with how much intensity. The government and regulatory landscape is important too, both in their \u003ci\u003eex ante\u003c/i\u003e demands on how companies approach risk and in the likely \u003ci\u003eex post\u003c/i\u003e reaction in the event of disasters.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ac97b3a5-9173-4f64-9f6d-24cb40c355fe",
+                            "itemBody": "\u003cp\u003eA. Management compensation\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9f9ddf3a-2af6-4834-bce7-1ae90929e8d0",
+                            "itemBody": "\u003cp\u003eB. The enterprise’s value at risk (VaR)\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b6a1692c-261d-4ca3-bed2-5988ec4c481d",
+                            "itemBody": "\u003cp\u003eC. The government and regulatory landscape\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9011,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4756,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56477",
+            "entry": {
+                "title": "ITEM_2019BPM07BMA",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe risk management measure that captures the sensitivity of a derivative’s delta to a change in the value of the underlying \u003ci\u003ebest\u003c/i\u003e describes:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2e9386ad-ac71-49a5-bfdc-ad02df152aad"
+                },
+                "answerFeedback": {
+                    "2e9386ad-ac71-49a5-bfdc-ad02df152aad": "\u003cp\u003eCorrect because the sensitivity of the derivative price to a small change in the value of the underlying asset is called the delta. Large changes are captured by the concept of gamma. Whereas delta is a first-order risk, gamma is considered a second-order risk because it reflects the risk of changes in delta.\u0026nbsp;Gamma is a numerical measure of how sensitive an option’s delta is to a change in the value of the underlying.\u003c/p\u003e",
+                    "6bc5b209-cddb-4b20-9fdd-a67c3d50cc34": "\u003cp\u003eIncorrect because vega is a first-order measure of the change in the derivative price for a change in the volatility of the underlying.\u003c/p\u003e",
+                    "f287ba86-5a1e-4ede-9108-0d2b4241e4e9": "\u003cp\u003eIncorrect because derivatives are also sensitive to changes in interest rates, which are reflected in a measure called rho.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f287ba86-5a1e-4ede-9108-0d2b4241e4e9",
+                            "itemBody": "\u003cp\u003eA. rho.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6bc5b209-cddb-4b20-9fdd-a67c3d50cc34",
+                            "itemBody": "\u003cp\u003eB. vega.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2e9386ad-ac71-49a5-bfdc-ad02df152aad",
+                            "itemBody": "\u003cp\u003eC. gamma.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9011,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4756,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56478",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-PM-Y.Zhang-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA good risk management process should:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8ac2b1c2-1007-4ed9-a94a-d4f45e131d63"
+                },
+                "answerFeedback": {
+                    "476daf12-4edf-4a14-a865-989ff0b31ae3": "\u003cp\u003eIncorrect because a\u0026nbsp;poor risk management process would have ignored the possibility, though small, of such a significant market event and not quantified the potential loss.\u003c/p\u003e",
+                    "8ac2b1c2-1007-4ed9-a94a-d4f45e131d63": "\u003cp\u003eCorrect because\u0026nbsp;a\u0026nbsp;good risk management process would include a deep discussion at the governance level about the balance between the likely returns and the unlikely—but sizable—losses and whether such losses are tolerable.\u003c/p\u003e",
+                    "9451e50e-682e-486a-b809-4ca38c8b5e53": "\u003cp\u003eIncorrect because risk management is not even about predicting risks. 'The Doctrine of No Surprises'\u0026nbsp;is a key mantra among many risk managers, but it does not mean they are expected to predict what will happen. For example, a risk manager of a bank would not have been expected to know that a real estate crisis was going to occur and cause significant defaults on the bank's real estate securities.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9451e50e-682e-486a-b809-4ca38c8b5e53",
+                            "itemBody": "\u003cp\u003eA. predict when a crisis will occur.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8ac2b1c2-1007-4ed9-a94a-d4f45e131d63",
+                            "itemBody": "\u003cp\u003eB. consider the balance between expected returns and losses.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "476daf12-4edf-4a14-a865-989ff0b31ae3",
+                            "itemBody": "\u003cp\u003eC. only consider losses occurring from events that have a high likelihood.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9011,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4756,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56479",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-PM-Conover-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA bank determines that its value at risk (VaR) is £5 million at 5% for one day. The bank is expecting a minimum loss of £5 million once every:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "188932c7-a1d0-4250-8f57-2af5c1fcc1c0"
+                },
+                "answerFeedback": {
+                    "188932c7-a1d0-4250-8f57-2af5c1fcc1c0": "\u003cp\u003eCorrect because with a probability of 5% and a measurement period of\u0026nbsp;one day, we can interpret the bank’s VaR as expecting a minimum loss of £5\u0026nbsp;million once every 20 business days.\u003c/p\u003e",
+                    "8e8d035f-1357-48de-afdb-849a7d45c76d": "\u003cp\u003eIncorrect because with a probability of 5% and a measurement period of\u0026nbsp;one day, we can interpret the bank’s VaR as expecting a minimum loss of £5\u0026nbsp;million once every 20 business days.\u003c/p\u003e",
+                    "a71aec5d-d154-4763-977c-b308a6adc14c": "\u003cp\u003eIncorrect because with a probability of 5% and a measurement period of\u0026nbsp;one day, we can interpret the bank’s VaR as expecting a minimum loss of £5\u0026nbsp;million once every 20 business days.\u0026nbsp;Based on a year with 250 to 260 business days, this should occur 12.5 to 13 times per year (roughly once per month).\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8e8d035f-1357-48de-afdb-849a7d45c76d",
+                            "itemBody": "\u003cp\u003eA. 5 business days.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a71aec5d-d154-4763-977c-b308a6adc14c",
+                            "itemBody": "\u003cp\u003eB. 13 business days.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "188932c7-a1d0-4250-8f57-2af5c1fcc1c0",
+                            "itemBody": "\u003cp\u003eC. 20 business days.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9011,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4756,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56480",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Gagne-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following metrics is \u003ci\u003emost\u003c/i\u003e\u0026nbsp;appropriate to estimate\u0026nbsp;a bond's average extreme loss?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "819d8718-c646-47a6-8c28-0c0a89d4c917"
+                },
+                "answerFeedback": {
+                    "51019015-6050-40ee-a8e7-1a29350abad0": "\u003cp\u003eIncorrect because a standard deviation may not exist for return distributions with fat tails.\u0026nbsp;Thus, the use of standard deviation is not appropriate when estimating\u0026nbsp;extreme losses.\u0026nbsp;\u003c/p\u003e",
+                    "819d8718-c646-47a6-8c28-0c0a89d4c917": "\u003cp\u003eCorrect because the statistics used to estimate VaR can be used to gauge average extreme losses. Conditional VaR or \u003cb\u003eCVaR\u003c/b\u003e is a common tail loss measure, defined as the weighted average of all loss outcomes in the statistical distribution that exceed the VaR loss. Another tail risk metric in the credit risk space that is analogous to CVaR is expected loss given default, which answers the question for a debt security, If the underlying company or asset defaults, how much do we lose on average?\u003c/p\u003e",
+                    "c53a97bc-add8-4ca3-95d7-5fe80609c371": "\u003cp\u003eIncorrect because in a VaR measure, there is no ultimate maximum that one can state. VaR is thus a minimum extreme loss metric.\u0026nbsp;Thus, the average loss cannot be provided by the VaR.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c53a97bc-add8-4ca3-95d7-5fe80609c371",
+                            "itemBody": "\u003cp\u003eA. VaR of loss\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "51019015-6050-40ee-a8e7-1a29350abad0",
+                            "itemBody": "\u003cp\u003eB. Standard deviation of loss\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "819d8718-c646-47a6-8c28-0c0a89d4c917",
+                            "itemBody": "\u003cp\u003eC. Expected loss given default\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9011,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4756,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56481",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Gagne-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe process of risk management is\u0026nbsp;\u003ci\u003ebest\u003c/i\u003e\u0026nbsp;described as the set of decisions that\u0026nbsp;maximizes a company's value while:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "adf5a6c3-5f44-4910-80fc-48c9225fbcf8"
+                },
+                "answerFeedback": {
+                    "3e298b02-4e26-405c-b8c9-fbc559a03af5": "\u003cp\u003eIncorrect because risk management is \u003ci\u003enot \u003c/i\u003eabout minimizing risk; it is about actively understanding and embracing those risks that best balance the achievement of goals with an acceptable chance of failure, quantifying the exposure, and continually monitoring and modifying it.\u003c/p\u003e",
+                    "adf5a6c3-5f44-4910-80fc-48c9225fbcf8": "\u003cp\u003eCorrect because risk management is the process by which an organization or individual defines the level of risk to be taken, measures the level of risk being taken, and adjusts the latter toward the former, with the goal of maximizing the company’s or portfolio’s value.\u0026nbsp;Said differently, risk management comprises all the decisions and actions needed to best achieve organizational or personal objectives while bearing a tolerable level of risk.\u003c/p\u003e",
+                    "c89e5157-042a-4ba2-a057-19f08d68e922": "\u003cp\u003eIncorrect because risk management is not even about predicting risks. 'The Doctrine of No Surprises'\u0026nbsp;is a key mantra among many risk managers, but it does not mean they are expected to predict what will happen.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3e298b02-4e26-405c-b8c9-fbc559a03af5",
+                            "itemBody": "\u003cp\u003eA. minimizing the risk taken.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "adf5a6c3-5f44-4910-80fc-48c9225fbcf8",
+                            "itemBody": "\u003cp\u003eB. bearing a tolerable level of risk.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c89e5157-042a-4ba2-a057-19f08d68e922",
+                            "itemBody": "\u003cp\u003eC. predicting the potential risk correctly.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9011,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4756,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56482",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Gagne-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003ebest\u0026nbsp;\u003c/i\u003eclassified as a financial risk?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c6b646d7-fb8d-41e6-8048-2ee527c594b5"
+                },
+                "answerFeedback": {
+                    "14bf190a-5967-4613-9617-553e3943f644": "\u003cp\u003eIncorrect because accounting\u0026nbsp;risk is a non-financial risk as\u0026nbsp;the following three non-financial risks are related: regulatory risk, accounting risk, and tax risk.\u003c/p\u003e",
+                    "2762c840-63b6-4920-81ba-d9d0b308a31a": "\u003cp\u003eIncorrect because tax risk is a non-financial risk as\u0026nbsp;the following three non-financial risks are related: regulatory risk, accounting risk, and tax risk.\u003c/p\u003e",
+                    "c6b646d7-fb8d-41e6-8048-2ee527c594b5": "\u003cp\u003eCorrect because the risk management industry has come to classify three types of risks as primarily financial in nature and the second primary financial risk is credit risk.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2762c840-63b6-4920-81ba-d9d0b308a31a",
+                            "itemBody": "\u003cp\u003eA. Tax risk\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c6b646d7-fb8d-41e6-8048-2ee527c594b5",
+                            "itemBody": "\u003cp\u003eB. Credit risk\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "14bf190a-5967-4613-9617-553e3943f644",
+                            "itemBody": "\u003cp\u003eC. Accounting risk\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9011,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4756,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56483",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Tsependa-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is\u0026nbsp;\u003ci\u003eleast\u003c/i\u003e consistent with effective risk governance?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "706c09e6-399c-4f8e-b0b0-b08909c67857"
+                },
+                "answerFeedback": {
+                    "0695d0c4-8a12-4ed3-94ed-2bf2e25f7655": "\u003cp\u003eIncorrect because good governance should include defining an organization’s risk tolerance and providing risk oversight.\u003c/p\u003e",
+                    "706c09e6-399c-4f8e-b0b0-b08909c67857": "\u003cp\u003eCorrect because risk governance\u003cb\u003e \u003c/b\u003eis the top-down (not bottom-up) process and guidance that directs risk management activities to align with and support the overall enterprise.\u003c/p\u003e",
+                    "ef8eec9c-2611-48c5-83e9-7bafd60db1c1": "\u003cp\u003eIncorrect because to achieve the best results for an organization, risk governance should take an enterprise-wide view.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ef8eec9c-2611-48c5-83e9-7bafd60db1c1",
+                            "itemBody": "\u003cp\u003eA. Taking an enterprise-wide view\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0695d0c4-8a12-4ed3-94ed-2bf2e25f7655",
+                            "itemBody": "\u003cp\u003eB. Defining the enterprise's risk tolerance\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "706c09e6-399c-4f8e-b0b0-b08909c67857",
+                            "itemBody": "\u003cp\u003eC. Following a bottom-up process to direct risk management activities\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9011,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4756,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56484",
+            "entry": {
+                "title": "ITEM_2019BPM07EJT09U1",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA benefit of risk budgeting is that it:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b856d358-d023-4b78-b86d-3e7526f01d67"
+                },
+                "answerFeedback": {
+                    "144dd323-b9f5-42ef-9c51-005606b36f71": "\u003cp\u003eIncorrect because it refers to risk governance, not risk budgeting. Good risk governance should include defining an organization’s risk tolerance and providing risk oversight.\u0026nbsp;\u003cb\u003eRisk budgeting\u003c/b\u003e picks up where risk tolerance leaves off. Whereas risk tolerance focuses on the appetite for risk and what is and is not acceptable, risk budgeting has a more specific focus on how that risk is taken.\u003c/p\u003e",
+                    "b856d358-d023-4b78-b86d-3e7526f01d67": "\u003cp\u003eCorrect because one major benefit of even the most basic risk budgeting is that it forces risk trade-offs and supports a culture in which risk is considered as a part of all key decisions.\u003c/p\u003e",
+                    "c52a7b89-e2ed-4d5b-8841-a1afb04b4fdc": "\u003cp\u003eIncorrect because it refers to risk governance, not risk budgeting. Good risk governance should include defining an organization’s risk tolerance and providing risk oversight.\u0026nbsp;\u003cb\u003eRisk budgeting\u003c/b\u003e picks up where risk tolerance leaves off. Whereas risk tolerance focuses on the appetite for risk and what is and is not acceptable, risk budgeting has a more specific focus on how that risk is taken.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b856d358-d023-4b78-b86d-3e7526f01d67",
+                            "itemBody": "\u003cp\u003eA. forces risk trade-offs.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "144dd323-b9f5-42ef-9c51-005606b36f71",
+                            "itemBody": "\u003cp\u003eB. provides risk oversight.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c52a7b89-e2ed-4d5b-8841-a1afb04b4fdc",
+                            "itemBody": "\u003cp\u003eC. defines an organization’s risk tolerance.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9011,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 846,
+            "sourceModuleId": 4756,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51435",
+            "entry": {
+                "title": "CFA1642-s002-Q1",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. For individuals, risk management concerns maximizing utility while taking risk consistent with individual’s level of risk tolerance.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eRisk management in the case of individuals is \u003cem\u003ebest \u003c/em\u003edescribed as concerned with:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6a8b9ffe-ca7a-4cfe-9a42-ae69e79c5167"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "aa4e39ae-e6af-409c-b3dc-d5ae57cf45fe",
+                            "itemBody": "A. hedging risk exposures.",
+                            "position": 1
+                        },
+                        {
+                            "id": "6a8b9ffe-ca7a-4cfe-9a42-ae69e79c5167",
+                            "itemBody": "B. maximizing utility while bearing a tolerable level of risk.",
+                            "position": 2
+                        },
+                        {
+                            "id": "71670613-88ab-44c6-8494-8dc05bcd042c",
+                            "itemBody": "C. maximizing utility while avoiding exposure to undesirable risks.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51436",
+            "entry": {
+                "title": "CFA1642-s002-Q2",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Many decision makers focus on return, which is not something that is easily controlled, as opposed to risk, or exposure to risk, which may actually be managed or controlled\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following may be controlled by an investor?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d8b279fd-aa58-45b6-91f2-560108512b93"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d8b279fd-aa58-45b6-91f2-560108512b93",
+                            "itemBody": "A. Risk",
+                            "position": 1
+                        },
+                        {
+                            "id": "0b81c6b6-7e91-4610-bc1c-7142331a4941",
+                            "itemBody": "B. Raw returns",
+                            "position": 2
+                        },
+                        {
+                            "id": "7bd98c9a-f1a0-4fcf-b5d8-d0393e513d90",
+                            "itemBody": "C. Risk-adjusted returns",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51437",
+            "entry": {
+                "title": "CFA1642-s002-Q3",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Risks need to be defined and measured so as to be consistent with the organization’s chosen level of risk tolerance and target for returns or other outcomes.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe process of risk management includes:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6687cd56-a6cf-48e7-b63b-009eef2b6c6a"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9b792cd0-e10b-4b5d-bdc0-98dc1c1bef8c",
+                            "itemBody": "A. minimizing risk.",
+                            "position": 1
+                        },
+                        {
+                            "id": "06856ed1-2cae-49e4-95ab-ba9af3bf39c9",
+                            "itemBody": "B. maximizing returns.",
+                            "position": 2
+                        },
+                        {
+                            "id": "6687cd56-a6cf-48e7-b63b-009eef2b6c6a",
+                            "itemBody": "C. defining and measuring risks being taken.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51438",
+            "entry": {
+                "title": "CFA1642-s003-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. While risk infrastructure, which a risk management framework must address, refers to the people and systems required to track risk exposures, there is no requirement to actually name the responsible individuals.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe factors a risk management framework should address include all of the following \u003cem\u003eexcept\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ee36da64-1639-4b33-aa8f-9ab8017f910d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "cbc02832-e5ff-439b-b2fc-5b64038079d1",
+                            "itemBody": "A. communications.",
+                            "position": 1
+                        },
+                        {
+                            "id": "3ba62337-ec4e-49b4-b12e-fd0de79de043",
+                            "itemBody": "B. policies and processes.",
+                            "position": 2
+                        },
+                        {
+                            "id": "ee36da64-1639-4b33-aa8f-9ab8017f910d",
+                            "itemBody": "C. names of responsible individuals.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51439",
+            "entry": {
+                "title": "CFA1642-s003-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct.\u003cem\u003e Risk infrastructure\u003c/em\u003e refers to the people and systems required to track risk exposures and perform most of the quantitative risk analysis to allow an assessment of the organization’s risk profile. The risk management infrastructure identifies, measures, and monitors risks (among other things).\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following \u003cem\u003ebest\u003c/em\u003e describes activities that are supported by a risk management infrastructure?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3fda5b23-3bb8-4de9-a0e5-94be84849ca9"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "14c96200-7f30-4e17-a055-805476409379",
+                            "itemBody": "A. Risk tolerance, budgeting, and reporting",
+                            "position": 1
+                        },
+                        {
+                            "id": "23eea22b-2606-4ece-9bc1-f25899ad313a",
+                            "itemBody": "B. Risk tolerance, measurement, and monitoring",
+                            "position": 2
+                        },
+                        {
+                            "id": "3fda5b23-3bb8-4de9-a0e5-94be84849ca9",
+                            "itemBody": "C. Risk identification, measurement, and monitoring",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51440",
+            "entry": {
+                "title": "CFA1642-s004-Q1",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Risk governance is the top-down process that defines risk tolerance,\n               provides risk oversight and guidance to align risk with enterprise goals.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eRisk governance:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7eb2acd4-832f-4189-986d-1dc75ce925ca"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7eb2acd4-832f-4189-986d-1dc75ce925ca",
+                            "itemBody": "A. aligns risk management activities with the goals of the overall enterprise.",
+                            "position": 1
+                        },
+                        {
+                            "id": "a925bb72-cfe4-46b4-9059-a9a7d6c52194",
+                            "itemBody": "B. defines the qualitative assessment and evaluation of potential sources of risk in an organization.",
+                            "position": 2
+                        },
+                        {
+                            "id": "5f60ab1a-4887-4dca-bd66-1b2c3094afd2",
+                            "itemBody": "C. delegates responsibility for risk management to all levels of the organization’s hierarchy.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51441",
+            "entry": {
+                "title": "CFA1642-s004-Q3",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Risk governance is not about specifying methods to mitigate risk at the business line level. Rather, it is about establishing an appropriate level of risk for the entire enterprise. Specifics of dealing with risk fall under risk management and the risk infrastructure framework.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eEffective risk governance in an enterprise provides guidance on all of the following \u003cem\u003eexcept\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d53cb155-990a-4b87-8e57-b200069bb772"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "aaeba03f-e53b-498f-8da8-62d2361c96be",
+                            "itemBody": "A. unacceptable risks.",
+                            "position": 1
+                        },
+                        {
+                            "id": "1215d84a-64ac-46f0-9efb-365f0e819be5",
+                            "itemBody": "B. worst losses that may be tolerated.",
+                            "position": 2
+                        },
+                        {
+                            "id": "d53cb155-990a-4b87-8e57-b200069bb772",
+                            "itemBody": "C. specific methods to mitigate risk for each subsidiary in the enterprise.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51442",
+            "entry": {
+                "title": "CFA1642-s004-Q4",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The risk management committee is a part of the risk governance structure at the operational level—as such, it does not approve the governing body’s policies.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA firm’s risk management committee would be expected to do all of the following \u003cem\u003eexcept\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d62b051f-316e-418b-a1e8-8b683ef6458c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d62b051f-316e-418b-a1e8-8b683ef6458c",
+                            "itemBody": "A. approving the governing body’s proposed risk policies.",
+                            "position": 1
+                        },
+                        {
+                            "id": "03f3a3bf-b31f-4df0-a728-caf022ffb787",
+                            "itemBody": "B. deliberating the governing body’s risk policies at the operational level.",
+                            "position": 2
+                        },
+                        {
+                            "id": "7391c6cf-8439-49f3-9739-8d176af25603",
+                            "itemBody": "C. providing top decision-makers with a forum for considering risk management issues.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51443",
+            "entry": {
+                "title": "CFA1642-s005-Q1",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. When risk tolerance has been determined, the risk framework should be geared toward measuring, managing, and complying with the risk tolerance, or aligning risk exposure with risk tolerance. The risk tolerance decision begins by looking at what shortfalls within an organization would cause it to fail to achieve some critical goals and what are the organization’s risk drivers.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eOnce an enterprise’s risk tolerance is determined, the role of risk management is to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5321f7c8-1efc-4a40-91f0-849456541a87"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c236543e-c369-45f9-9aca-2e67dd6b3537",
+                            "itemBody": "A. analyze risk drivers.",
+                            "position": 1
+                        },
+                        {
+                            "id": "5321f7c8-1efc-4a40-91f0-849456541a87",
+                            "itemBody": "B. align risk exposures with risk appetite.",
+                            "position": 2
+                        },
+                        {
+                            "id": "e79539b6-dfc8-4a89-bfbc-120052d7ca82",
+                            "itemBody": "C. identify the extent to which the enterprise is willing to fail in meeting its objectives.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51444",
+            "entry": {
+                "title": "CFA1642-s005-Q2",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. If a company has the ability to adapt quickly to adverse events may allow for a higher risk tolerance. There are other factors, such as beliefs of board members and a stable market environment, which may but should not affect risk tolerance.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich factor should \u003cem\u003emost\u003c/em\u003e affect a company’s ability to tolerate risk?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7647ece3-b0a4-4d3a-a139-9632f287668a"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e908631c-ba04-4840-bedd-73733fe7c897",
+                            "itemBody": "A. A stable market environment",
+                            "position": 1
+                        },
+                        {
+                            "id": "613709e9-30b8-4f50-9522-4cf7f7eeec6d",
+                            "itemBody": "B. The beliefs of the individual board members",
+                            "position": 2
+                        },
+                        {
+                            "id": "7647ece3-b0a4-4d3a-a139-9632f287668a",
+                            "itemBody": "C. The ability to dynamically respond to adverse events",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51445",
+            "entry": {
+                "title": "CFA1642-s006-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. In establishing a risk management system, determining risk tolerance must happen before specific risks can be accepted or reduced. Risk tolerance defines the appetite for risk. Risk budgeting determine how or where the risk is taken and quantifies the tolerable risk by specific metrics. Risk exposures can then be measured and compared against the acceptable risk.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is the correct sequence of events for risk governance and management that focuses on the entire enterprise? Establishing:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6a9f3f23-6642-46b0-96e1-e27c615d1055"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6a9f3f23-6642-46b0-96e1-e27c615d1055",
+                            "itemBody": "A. risk tolerance, then risk budgeting, and then risk exposures.",
+                            "position": 1
+                        },
+                        {
+                            "id": "2fd83e2f-a856-4466-8cc9-84c6f5e13f56",
+                            "itemBody": "B. risk exposures, then risk tolerance, and then risk budgeting.",
+                            "position": 2
+                        },
+                        {
+                            "id": "246d8b3c-0e53-4f83-8bcc-8dcb39df2987",
+                            "itemBody": "C. risk budgeting, then risk exposures, and then risk tolerance.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51446",
+            "entry": {
+                "title": "CFA1642-s006-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Risk budgeting does not include determining the target return. Risk budgeting quantifies and allocates the tolerable risk by specific metrics.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eRisk budgeting includes all of the following \u003cem\u003eexcept\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "20c40154-2713-47b7-bf3d-5e768fb17edf"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "20c40154-2713-47b7-bf3d-5e768fb17edf",
+                            "itemBody": "A. determining the target return.",
+                            "position": 1
+                        },
+                        {
+                            "id": "72dfe617-43ca-40d8-a40e-66ce99bdb965",
+                            "itemBody": "B. quantifying tolerable risk by specific metrics.",
+                            "position": 2
+                        },
+                        {
+                            "id": "69ccfeec-03c3-436d-a8c8-f54df525d5f3",
+                            "itemBody": "C. allocating a portfolio by some risk characteristics of the investments.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51447",
+            "entry": {
+                "title": "CFA1642-s006-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The process of risk budgeting forces the firm to consider risk tradeoffs. As a result, the firm should choose to invest where the return per unit of risk is the highest.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA benefit of risk budgeting is that it:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fe854bee-0507-41be-a989-97199b4b92c7"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fe854bee-0507-41be-a989-97199b4b92c7",
+                            "itemBody": "A. considers risk tradeoffs.",
+                            "position": 1
+                        },
+                        {
+                            "id": "957cfbf3-73a6-41bd-b841-0d78eefb6250",
+                            "itemBody": "B. establishes a firm’s risk tolerance.",
+                            "position": 2
+                        },
+                        {
+                            "id": "3a73e2e4-a831-4de4-9818-7b71efccbded",
+                            "itemBody": "C. reduces uncertainty facing the firm.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51448",
+            "entry": {
+                "title": "CFA1642-s007-Q1",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. A financial risk originates from the financial markets. Credit risk is one of three financial risks identified in the reading: Credit risk is the chance of loss due to an outside party defaulting on an obligation. Solvency risk depends at least in part on factors internal to the organization and operational risk is an \u003cem\u003einternal\u003c/em\u003e risk arising from the people and processes within the organization.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following risks is \u003cem\u003ebest\u003c/em\u003e described as a financial risk?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "507a466c-6f2d-4cc0-968c-ca43daae740f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "507a466c-6f2d-4cc0-968c-ca43daae740f",
+                            "itemBody": "A. Credit",
+                            "position": 1
+                        },
+                        {
+                            "id": "aeb72914-843f-47ed-8283-5c5a1d4c8e8b",
+                            "itemBody": "B. Solvency",
+                            "position": 2
+                        },
+                        {
+                            "id": "af0679b2-d56f-4eb5-ba59-0a906028b60d",
+                            "itemBody": "C. Operational",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51449",
+            "entry": {
+                "title": "CFA1642-s007-Q2",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Liquidity risk is also called transaction cost risk. When the bid–ask spread widens, purchase and sale transactions become increasingly costly. The risk arises from the uncertainty of the spread.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eLiquidity risk is \u003cem\u003emost\u003c/em\u003e associated with:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2c5fc73e-0dae-4a98-acbc-541704ecc0ae"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "48e758bc-6335-48a2-bce6-c2abbd475d34",
+                            "itemBody": "A. the probability of default.",
+                            "position": 1
+                        },
+                        {
+                            "id": "2c5fc73e-0dae-4a98-acbc-541704ecc0ae",
+                            "itemBody": "B. a widening bid–ask spread.",
+                            "position": 2
+                        },
+                        {
+                            "id": "fe7ddde6-6cb6-467c-940d-7792077f5b13",
+                            "itemBody": "C. a poorly functioning market.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51450",
+            "entry": {
+                "title": "CFA1642-s007-Q3",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Settlement risk is related to default risk but deals with the timing of payments rather than the risk of default.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn example of a non-financial risk is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "272d6b39-f3bf-4e9b-9c80-c02dadc34b18"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "504a7862-19b5-4877-a266-bb2acc8bf491",
+                            "itemBody": "A. market risk.",
+                            "position": 1
+                        },
+                        {
+                            "id": "a73d13a7-06ce-4a39-b8e2-1ed1da22285a",
+                            "itemBody": "B. liquidity risk.",
+                            "position": 2
+                        },
+                        {
+                            "id": "272d6b39-f3bf-4e9b-9c80-c02dadc34b18",
+                            "itemBody": "C. settlement risk.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51451",
+            "entry": {
+                "title": "CFA1642-s009-Q1",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The VaR measure indicates the probability of a loss of at least a certain level in a time period.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf a company has a one-day 5% Value at Risk of $1 million, this means:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f7505ce2-b5f1-4a16-9c65-6d4218c51efb"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f7505ce2-b5f1-4a16-9c65-6d4218c51efb",
+                            "itemBody": "A. 5% of the time the firm is expected to lose at least $1 million in one day.",
+                            "position": 1
+                        },
+                        {
+                            "id": "e23b56c4-f445-434c-b7d4-e737973c040d",
+                            "itemBody": "B. 95% of the time the firm is expected to lose at least $1 million in one day.",
+                            "position": 2
+                        },
+                        {
+                            "id": "73e80f6b-464a-46e7-aa8a-536be991ff29",
+                            "itemBody": "C. 5% of the time the firm is expected to lose no more than $1 million in one day.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 17,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51452",
+            "entry": {
+                "title": "CFA1642-s010-Q1",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Risk acceptance is similar to self-insurance. An organization choosing to self-insure may set up a reserve fund to cover losses. Buying insurance is a form of risk transfer and using derivatives is a form of risk-shifting, not risk acceptance.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn organization choosing to accept a risk exposure may:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "47cc6e5c-2e27-4038-97d9-08e67add7ac2"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5f74df0e-de72-455d-b6f7-754fe6ea705f",
+                            "itemBody": "A. buy insurance.",
+                            "position": 1
+                        },
+                        {
+                            "id": "32ca4c09-af45-4f00-9d57-a3fdf40da2b9",
+                            "itemBody": "B. enter into a derivative contract.",
+                            "position": 2
+                        },
+                        {
+                            "id": "47cc6e5c-2e27-4038-97d9-08e67add7ac2",
+                            "itemBody": "C. establish a reserve fund to cover losses.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 18,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51453",
+            "entry": {
+                "title": "CFA1642-s011-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Among the risk-modification methods of risk avoidance, risk acceptance, risk transfer, and risk shifting none has a clear advantage. One must weigh benefits and costs in light of the firm’s risk tolerance when choosing the method to use.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe choice of risk-modification method is based on:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2634a613-1014-43d9-9142-7ad908f814ee"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "900c1249-a053-4534-9a8f-78ef09c022d2",
+                            "itemBody": "A. minimizing risk at the lowest cost.",
+                            "position": 1
+                        },
+                        {
+                            "id": "9c9b3ac8-9fdc-4bed-8413-b759c395dde2",
+                            "itemBody": "B. maximizing returns at the lowest cost.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2634a613-1014-43d9-9142-7ad908f814ee",
+                            "itemBody": "C. weighing costs versus benefits in light of the organization’s risk tolerance.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 19,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8283,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54001",
+            "entry": {
+                "title": "ITEM_20170606106",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA risk metric that measures how different an actual investment outcome could be from what the investor expects is \u003ci\u003emost likely \u003c/i\u003ea:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3f66dc1e-a5ea-48f0-b990-eb0a53695637"
+                },
+                "answerFeedback": {
+                    "0ed83623-27f8-4176-af76-b5c58ee177eb": "\u003cp\u003eIncorrect. Vega measures the sensitivity of a security (either a derivative or a security with derivative-like characteristics) to a change in the price volatility of the underlying asset.\u003c/p\u003e",
+                    "24b71efd-152a-4dfb-8fb0-8a5766aabd6c": "\u003cp\u003eIncorrect. Duration measures the sensitivity of a security or portfolio to a change in market interest rates.\u003c/p\u003e",
+                    "3f66dc1e-a5ea-48f0-b990-eb0a53695637": "\u003cp\u003eCorrect. Standard deviation is a measure of dispersion in a probability distribution and is used to describe the range of outcomes (minimum and maximum, centered on the expected outcome) that can occur with a particular probability. In contrast, duration measures the sensitivity of a security or portfolio to a change in market interest rates, and vega measures the sensitivity of a security (either a derivative or a security with derivative-like characteristics) to a change in the price volatility of the underlying asset.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0ed83623-27f8-4176-af76-b5c58ee177eb",
+                            "itemBody": "\u003cp\u003eA. vega.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "24b71efd-152a-4dfb-8fb0-8a5766aabd6c",
+                            "itemBody": "\u003cp\u003eB. duration.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3f66dc1e-a5ea-48f0-b990-eb0a53695637",
+                            "itemBody": "\u003cp\u003eC. standard deviation.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8726,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54002",
+            "entry": {
+                "title": "ITEM_20190531027",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA top-down process that offers guidance and directs activities that seek to maximize the value of an enterprise is \u003ci\u003emost likely\u003c/i\u003e an element of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fea1b78b-cffc-4355-b253-1c62aecc75b6"
+                },
+                "answerFeedback": {
+                    "c9972181-ffcc-4f1e-b85d-b2896328caec": "\u003cp\u003eIncorrect. Active risk monitoring and mitigation requires pulling together risk governance, identification, measurement, infrastructure, policies, and procedures and continually reevaluating in the face of changing risk exposures and risk drivers.\u003c/p\u003e",
+                    "ef952cb5-ff96-4c89-a1c6-e57958386570": "\u003cp\u003eIncorrect. Risk infrastructure refers to the people and systems required to track risk exposures and to perform quantitative risk analysis to allow assessment of a risk profile.\u003c/p\u003e",
+                    "fea1b78b-cffc-4355-b253-1c62aecc75b6": "\u003cp\u003eCorrect. Risk governance is the top-down process and guidance that directs risk management activities to align with and support the overall enterprise.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fea1b78b-cffc-4355-b253-1c62aecc75b6",
+                            "itemBody": "\u003cp\u003eA. risk governance.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ef952cb5-ff96-4c89-a1c6-e57958386570",
+                            "itemBody": "\u003cp\u003eB. risk infrastructure.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c9972181-ffcc-4f1e-b85d-b2896328caec",
+                            "itemBody": "\u003cp\u003eC. risk monitoring and mitigation.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8726,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54003",
+            "entry": {
+                "title": "ITEM_20190531028",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWithin a risk management framework, risk tolerance:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "731f6cc0-2a04-4177-999d-a0cfcb8bb4c0"
+                },
+                "answerFeedback": {
+                    "731f6cc0-2a04-4177-999d-a0cfcb8bb4c0": "\u003cp\u003eCorrect. The process of risk monitoring, mitigation, and management is the most obvious facet of the risk management framework and requires recognizing when risk exposure is not aligned with risk tolerance.\u003c/p\u003e",
+                    "82e16ad7-9450-4df9-872c-15b911b934d5": "\u003cp\u003eIncorrect. Risk identification and measurement include the qualitative assessment and evaluation of risk.\u003c/p\u003e",
+                    "dc9ca7b5-9594-402c-9d61-3eb759199a59": "\u003cp\u003eIncorrect. Risk tolerance can provide guidance on risk budgeting, which is how and where risk is taken. Risk budgeting is a result of determining risk tolerance.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "731f6cc0-2a04-4177-999d-a0cfcb8bb4c0",
+                            "itemBody": "\u003cp\u003eA. and risk exposure should be kept in alignment.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "82e16ad7-9450-4df9-872c-15b911b934d5",
+                            "itemBody": "\u003cp\u003eB. includes the qualitative assessment and evaluation of risk.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "dc9ca7b5-9594-402c-9d61-3eb759199a59",
+                            "itemBody": "\u003cp\u003eC. is determined as a result of establishing how and where risk is taken.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8726,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54004",
+            "entry": {
+                "title": "ITEM_20190531029",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eRisk budgeting \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fe84309e-5e15-494c-a9c7-2bafe6713c1e"
+                },
+                "answerFeedback": {
+                    "7eb76c9e-d138-454e-b2f7-f6207e04386a": "\u003cp\u003eIncorrect. Limiting the amount invested for hedging purposes is not a result of a market-benchmarked choice of risk intensity.\u003c/p\u003e",
+                    "b5679fea-6579-4fb2-b8c8-ce7d44d89e46": "\u003cp\u003eIncorrect. Risk tolerance focuses on the appetite for risk.\u003c/p\u003e",
+                    "fe84309e-5e15-494c-a9c7-2bafe6713c1e": "\u003cp\u003eCorrect. Risk budgeting quantifies and allocates the tolerable risk according to specific metrics. A risk budget can be multidimensional or a simple, one-dimensional risk measure, such as standard deviation, beta, value at risk, or scenario loss, among others.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7eb76c9e-d138-454e-b2f7-f6207e04386a",
+                            "itemBody": "\u003cp\u003eA. limits the cost of hedging a portfolio.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fe84309e-5e15-494c-a9c7-2bafe6713c1e",
+                            "itemBody": "\u003cp\u003eB. can be defined by a measure such as beta or scenario loss.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b5679fea-6579-4fb2-b8c8-ce7d44d89e46",
+                            "itemBody": "\u003cp\u003eC. focuses on the appetite for risk and what exposures are acceptable.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8726,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54005",
+            "entry": {
+                "title": "ITEM_20170606030",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eRisk management is \u003ci\u003emost likely \u003c/i\u003ethe process by which an organization:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3405ee08-6ae3-424c-8e2f-1c4fe5b7a37f"
+                },
+                "answerFeedback": {
+                    "3405ee08-6ae3-424c-8e2f-1c4fe5b7a37f": "\u003cp\u003eCorrect. An organization with a strong competitive position can recover from losses more easily than one with a weaker competitive position. Therefore, an organization’s risk tolerance should reflect its competitive position. An organization’s size does not define the risk sources it faces or the relative losses it can absorb, so it should not be reflected in its risk tolerance. Neither the risk sources affecting an organization nor the size of the losses an organization can absorb are a function of its perception of market stability.\u003c/p\u003e",
+                    "73c472c7-86b4-4a42-884a-48d98afd5134": "\u003cp\u003eIncorrect. A high risk-adjusted return may require a level of risk taking that is beyond the organization’s capacity to absorb.\u003c/p\u003e",
+                    "a78bd441-dcc3-4acc-b6cb-e982bbf69506": "\u003cp\u003eIncorrect. A\u0026nbsp;minimum risk position may not be optimal for the organization.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a78bd441-dcc3-4acc-b6cb-e982bbf69506",
+                            "itemBody": "\u003cp\u003eA. minimizes its exposure to potential losses.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3405ee08-6ae3-424c-8e2f-1c4fe5b7a37f",
+                            "itemBody": "\u003cp\u003eB. adjusts its risk to a predetermined level.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "73c472c7-86b4-4a42-884a-48d98afd5134",
+                            "itemBody": "\u003cp\u003eC. maximizes its risk-adjusted return.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8726,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54006",
+            "entry": {
+                "title": "ITEM_20170606031",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe top level of a risk management system \u003ci\u003emost likely \u003c/i\u003eis:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7393931d-2a5e-4041-8c7a-355cfbf33d87"
+                },
+                "answerFeedback": {
+                    "7393931d-2a5e-4041-8c7a-355cfbf33d87": "\u003cp\u003eCorrect. Normally a role of the board of directors of a company, risk governance is where goals and responsibilities are defined and top-level decisions (such as determining the company’s risk tolerance) are made.\u003c/p\u003e",
+                    "7486fc31-f184-4225-a473-578b6bb857bb": "\u003cp\u003eIncorrect. Policies and procedures extend risk governance into the day to day operations of the company.\u003c/p\u003e",
+                    "d9420eb2-f03a-4fba-b020-57ca20a3682c": "\u003cp\u003eIncorrect. Strategic analysis or integration occurs at the end of the process and leads to changes in investment decision-making and firm strategy going forward.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7393931d-2a5e-4041-8c7a-355cfbf33d87",
+                            "itemBody": "\u003cp\u003eA. risk governance.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d9420eb2-f03a-4fba-b020-57ca20a3682c",
+                            "itemBody": "\u003cp\u003eB. strategic analysis or integration.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7486fc31-f184-4225-a473-578b6bb857bb",
+                            "itemBody": "\u003cp\u003eC. defined policies or procedures.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8726,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54007",
+            "entry": {
+                "title": "ITEM_20170606032",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA good risk governance process would \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "55aa299b-8405-4477-8bc6-5c8aeb4279bb"
+                },
+                "answerFeedback": {
+                    "2285ae84-c246-4ad5-909c-060a1bccd877": "\u003cp\u003eIncorrect. A risk governance process is a top-down process.\u003c/p\u003e",
+                    "55aa299b-8405-4477-8bc6-5c8aeb4279bb": "\u003cp\u003eCorrect. A quality risk governance process takes a top-down approach and is charged with risk oversight for the entire organization. It should operate on an enterprise-wise basis rather than viewing each unit in isolation. It will determine the organization’s risk tolerance and provide a sense of the maximum loss the organization can absorb.\u003c/p\u003e",
+                    "bf1b57ea-94f7-479a-93ad-c97e8ff96191": "\u003cp\u003eIncorrect. A\u0026nbsp;good risk governance process looks at the enterprise as a whole rather than viewing individual units in isolation.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "55aa299b-8405-4477-8bc6-5c8aeb4279bb",
+                            "itemBody": "\u003cp\u003eA. provide guidance on the size of the largest acceptable loss for the organization.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "bf1b57ea-94f7-479a-93ad-c97e8ff96191",
+                            "itemBody": "\u003cp\u003eB. provide different risk targets for each unit within the organization.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2285ae84-c246-4ad5-909c-060a1bccd877",
+                            "itemBody": "\u003cp\u003eC. be a bottom-up process that reflects the current risk exposures of all parts of the organization.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8726,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54008",
+            "entry": {
+                "title": "ITEM_20170606067",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAmong other things, an organization’s risk tolerance should \u003ci\u003emost likely\u003c/i\u003e reflect its:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "89bcb24f-9e11-4412-8b49-20788a30ed66"
+                },
+                "answerFeedback": {
+                    "89bcb24f-9e11-4412-8b49-20788a30ed66": "\u003cp\u003eCorrect. An organization with a strong competitive position can recover from losses more easily than one with a weaker competitive position. Therefore an organization’s risk tolerance should reflect its competitive position. An organization’s size does not define the risk sources it faces or the relative losses it can absorb, so it should not be reflected in its risk tolerance. Neither the risk sources affecting an organization nor the size of the losses an organization can absorb are a function of its perception of market stability.\u003c/p\u003e",
+                    "db678411-0b1c-4645-bb3b-a59e950aa129": "\u003cp\u003eIncorrect. An organization’s size does not define the risk sources it faces or the relative losses it can absorb, so it should not be reflected in its risk tolerance.\u003c/p\u003e",
+                    "dc7e9949-8dff-4181-afd0-00425fe924a8": "\u003cp\u003eIncorrect. Neither the risk sources affecting an organization nor the size of the losses an organization can absorb are a function of perceived market stability.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "dc7e9949-8dff-4181-afd0-00425fe924a8",
+                            "itemBody": "\u003cp\u003eA. perception of market stability.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "db678411-0b1c-4645-bb3b-a59e950aa129",
+                            "itemBody": "\u003cp\u003eB. size.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "89bcb24f-9e11-4412-8b49-20788a30ed66",
+                            "itemBody": "\u003cp\u003eC. competitive position.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8726,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54009",
+            "entry": {
+                "title": "ITEM_20170606068",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA major benefit of employing a risk budgeting process is that it \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "88f3d508-b38c-465a-a304-142dc7002dae"
+                },
+                "answerFeedback": {
+                    "2a610b34-bfd5-4831-b978-cdea97d700b8": "\u003cp\u003eIncorrect. The risk tolerance of the organization defines its risk budget, not the other way around.\u003c/p\u003e",
+                    "3cd0dc91-8e6a-4dc3-9580-f2f3c76ef338": "\u003cp\u003eIncorrect. Hedging can be a part of risk budgeting if it produces the best returns per unit of the risk budget.\u003c/p\u003e",
+                    "88f3d508-b38c-465a-a304-142dc7002dae": "\u003cp\u003eCorrect. Adding a risk budgeting process causes the organization to consider how its total risk tolerance will be allocated across its subsidiaries. Either the total current risks the subsidiaries are engaging in will exceed the risk tolerance and subsidiaries will have to compete for risk by demonstrating highest returns per unit of risk or the total current risks will be less than the risk tolerance and a search will be underway for the subsidiaries that can best utilize the remaining risk budget. The risk tolerance is determined and then sets the risk budget, rather than being determined by it. Hedging can be a part of risk budgeting if hedging produces the superior risk adjusted returns.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2a610b34-bfd5-4831-b978-cdea97d700b8",
+                            "itemBody": "\u003cp\u003eA. allows the organization to determine its enterprise risk tolerance.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "88f3d508-b38c-465a-a304-142dc7002dae",
+                            "itemBody": "\u003cp\u003eB. forces risk tradeoffs across the organization.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3cd0dc91-8e6a-4dc3-9580-f2f3c76ef338",
+                            "itemBody": "\u003cp\u003eC. eliminates the need for hedging within the organization.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8726,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54010",
+            "entry": {
+                "title": "ITEM_20170606105",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following pairs of risks are \u003ci\u003emost closely\u003c/i\u003e related?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e118e81d-4ad6-402a-9a8d-f2a87531447b"
+                },
+                "answerFeedback": {
+                    "0976b4d1-69ea-406f-adcf-026983ed45ab": "\u003cp\u003eIncorrect. Credit risk involves the risk of a borrower not repaying you, whereas solvency risk is the risk of you running out of the money needed to pay your obligations.\u003c/p\u003e",
+                    "9939ed94-fb27-428d-ac37-8e15af60a79e": "\u003cp\u003eIncorrect. Liquidity risk is the risk that the future transaction price for an investment will be different than expected, whereas operational risk includes a wide range of potential problems occurring within an organization’s personnel and systems.\u003c/p\u003e",
+                    "e118e81d-4ad6-402a-9a8d-f2a87531447b": "\u003cp\u003eCorrect. Model risk is the risk of using the wrong model to analyze an investment or the risk of using the right model for the analysis but using it incorrectly. Tail risk, although it involves unlikely but substantial losses, typically results from using inappropriate modeling assumptions such as assuming that returns are normally distributed. Credit risk involves the risk of a borrower not repaying you, whereas solvency risk is the risk of you running out of the money needed to pay your obligations. Liquidity risk is the risk that the future transaction price for an investment will be different than expected, whereas operational risk includes a wide range of potential problems occurring within an organization’s personnel and systems.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e118e81d-4ad6-402a-9a8d-f2a87531447b",
+                            "itemBody": "\u003cp\u003eA. Model risk and tail risk\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9939ed94-fb27-428d-ac37-8e15af60a79e",
+                            "itemBody": "\u003cp\u003eB. Liquidity risk and operational risk\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0976b4d1-69ea-406f-adcf-026983ed45ab",
+                            "itemBody": "\u003cp\u003eC. Credit risk and solvency risk\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8726,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54011",
+            "entry": {
+                "title": "ITEM_20170606107",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn example of risk transfer combined with self-insurance is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8e1fd97f-3f70-42c2-910a-afb2372333f0"
+                },
+                "answerFeedback": {
+                    "18465b1a-78ac-4d82-aa9c-64f3e87af3a2": "\u003cp\u003eIncorrect. A bank loan loss reserve is a form of self-insurance combined with diversification, but it does not include risk transfer.\u003c/p\u003e",
+                    "8e1fd97f-3f70-42c2-910a-afb2372333f0": "\u003cp\u003eCorrect. Risk transfer is accomplished through an insurance policy. A deductible in an insurance policy means the insured is bearing some of the risk of loss and thereby (partially) self-insuring. Hedging with derivatives accomplishes risk shifting, not risk transfer. A bank loan loss reserve is a form of self-insurance combined with diversification, but it does not include risk transfer.\u003c/p\u003e",
+                    "e5d20a62-473a-47c0-a9c6-0be7f5f690ca": "\u003cp\u003eIncorrect. Hedging with derivatives accomplishes risk shifting, not risk transfer.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e5d20a62-473a-47c0-a9c6-0be7f5f690ca",
+                            "itemBody": "\u003cp\u003eA. a bond portfolio hedged with an interest rate option.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8e1fd97f-3f70-42c2-910a-afb2372333f0",
+                            "itemBody": "\u003cp\u003eB. an insurance policy with a deductible.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "18465b1a-78ac-4d82-aa9c-64f3e87af3a2",
+                            "itemBody": "\u003cp\u003eC. a bank that establishes a loan loss reserve fund.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8726,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54012",
+            "entry": {
+                "title": "ITEM_20190531030",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe German firm IHK AG has entered into a three-month forward currency contract to purchase USD35 million versus euros from US firm GED Corp. to hedge a future payment obligation. The US dollar appreciates 5% in the coming three months. IHK should \u003ci\u003emost likely\u003c/i\u003e focus on:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8941a624-f81a-4860-88e0-8a12c8ecb904"
+                },
+                "answerFeedback": {
+                    "485f4f57-319a-4c8e-afda-25e8c2fc136e": "\u003cp\u003eIncorrect. IHK would not face market risk since the forward contract would have become more valuable during the three months.\u003c/p\u003e",
+                    "8941a624-f81a-4860-88e0-8a12c8ecb904": "\u003cp\u003eCorrect. IHK’s potential risk is settlement risk, which is a type of counterparty risk. Settlement risk deals with the settling of payments that occur just before a default. If IHK wires the euros to GED and GED then declares bankruptcy, IHK will not be able to get the money back.\u003c/p\u003e",
+                    "e5a30ce6-163a-442e-a612-886d9073db74": "\u003cp\u003eIncorrect. Liquidity risk is the risk of a significant downward valuation adjustment when selling a financial asset and is not applicable for a contract for which the price was fixed when the contract was initiated.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "485f4f57-319a-4c8e-afda-25e8c2fc136e",
+                            "itemBody": "\u003cp\u003eA. market risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e5a30ce6-163a-442e-a612-886d9073db74",
+                            "itemBody": "\u003cp\u003eB. liquidity risk.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8941a624-f81a-4860-88e0-8a12c8ecb904",
+                            "itemBody": "\u003cp\u003eC. counterparty risk.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8726,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 855,
+            "sourceModuleId": 4504,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

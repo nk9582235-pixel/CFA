@@ -1,0 +1,1692 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6119,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 27,
+    "hidden_question_count": 0,
+    "points": 2,
+    "points_possible": 27,
+    "correct_questions_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 7: Estimation and Inference",
+        "topic_id": 1031,
+        "topic": "CFA-26-02-LI-C: Quantitative Methods",
+        "subtopic_id": 6119,
+        "subtopic": "Module 7: Estimation and Inference",
+        "question_count": 27,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 799,
+                "name": "Warehouse Course: Quantitative Methods 26-LI",
+                "code": "Warehouse Course: Quantitative Methods 26-LI",
+                "module_id": 4424,
+                "question_count": 21,
+                "type": "warehouse"
+            },
+            {
+                "id": 838,
+                "name": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "code": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+                "module_id": 4628,
+                "question_count": 6,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 27.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "a74391c469178e3c",
+        "ordered_item_ids": [
+            "53116",
+            "53117",
+            "53118",
+            "53119",
+            "53120",
+            "53564",
+            "53565",
+            "53566",
+            "53567",
+            "53568",
+            "53569",
+            "53570",
+            "53571",
+            "53572",
+            "53573",
+            "53574",
+            "53575",
+            "53576",
+            "53577",
+            "53578",
+            "53579",
+            "54429",
+            "54430",
+            "54431",
+            "54432",
+            "54433",
+            "54434"
+        ],
+        "visible_item_ids": [
+            "53116",
+            "53117",
+            "53118",
+            "53119",
+            "53120",
+            "53564",
+            "53565",
+            "53566",
+            "53567",
+            "53568",
+            "53569",
+            "53570",
+            "53571",
+            "53572",
+            "53573",
+            "53574",
+            "53575",
+            "53576",
+            "53577",
+            "53578",
+            "53579",
+            "54429",
+            "54430",
+            "54431",
+            "54432",
+            "54433",
+            "54434"
+        ]
+    },
+    "items": [
+        {
+            "id": "53116",
+            "entry": {
+                "title": "CFA2405-R-s02-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Because non-probability sampling is dependent on factors other than probability considerations, such as a sampler’s judgment or the convenience to access data, there is a significant risk that non-probability sampling might generate a non-representative sample.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich one of the following statements is true about non-probability sampling?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5c846c35-fb64-42aa-99b8-96057d80ded2"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5c846c35-fb64-42aa-99b8-96057d80ded2",
+                            "itemBody": "A. There is significant risk that the sample is not representative of the population.",
+                            "position": 1
+                        },
+                        {
+                            "id": "1d8ac31d-5dc9-413e-98f4-f6c60bec9402",
+                            "itemBody": "B. Every member of the population has an equal chance of being selected for the sample.",
+                            "position": 2
+                        },
+                        {
+                            "id": "579fe3ba-9dd2-4bfa-8ba8-800a7d4c4a69",
+                            "itemBody": "C. Using judgment guarantees that population subdivisions of interest are represented in the sample.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7976,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53117",
+            "entry": {
+                "title": "CFA2405-R-s02-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Stratified random sampling involves dividing a population into subpopulations based on one or more classification criteria. Then, simple random samples are drawn from each subpopulation in sizes proportional to the relative size of each subpopulation. These samples are then pooled to form a stratified random sample.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe \u003cem\u003ebest\u003c/em\u003e approach for creating a stratified random sample of a population involves:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "543729bb-1b1b-4b98-9302-8aa8d3340bdb"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "97636271-b1fd-49e9-9904-a169cc091efb",
+                            "itemBody": "A. drawing an equal number of simple random samples from each subpopulation.",
+                            "position": 1
+                        },
+                        {
+                            "id": "b3596bc6-f82b-4a17-b83e-9d5f2be76be4",
+                            "itemBody": "B. selecting every kth member of the population until the desired sample size is reached.",
+                            "position": 2
+                        },
+                        {
+                            "id": "543729bb-1b1b-4b98-9302-8aa8d3340bdb",
+                            "itemBody": "C. drawing simple random samples from each subpopulation in sizes proportional to the relative size of each subpopulation.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7976,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53118",
+            "entry": {
+                "title": "CFA2405-R-s03-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Given a population described by any probability distribution (normal or non-normal) with finite variance, the central limit theorem states that the sampling distribution of the sample mean will be approximately normal, with the mean approximately equal to the population mean, when the sample size is large.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA population has a non-normal distribution with mean \u003cem\u003eµ\u003c/em\u003e and variance \u003cem\u003eσ\u003c/em\u003e\n               \u003csup\u003e2\u003c/sup\u003e. The sampling distribution of the sample mean computed from samples of large size from that population will have:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5669cdd8-a855-488f-8e72-972e7fa4eb18"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c18d4a14-82b0-46e1-9985-f3d16099206d",
+                            "itemBody": "A. the same distribution as the population distribution.",
+                            "position": 1
+                        },
+                        {
+                            "id": "5669cdd8-a855-488f-8e72-972e7fa4eb18",
+                            "itemBody": "B. its mean approximately equal to the population mean.",
+                            "position": 2
+                        },
+                        {
+                            "id": "f8f7e8d9-8a5c-46af-98f5-c02838fe86f9",
+                            "itemBody": "C. its variance approximately equal to the population variance.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7976,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53119",
+            "entry": {
+                "title": "CFA2405-R-s03-Q7",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Taking the square root of the known population variance to determine the population standard deviation (σ) results in\u003c/p\u003e\n\u003cdiv id=\"CFA2405-R-s03-E-3-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eσ\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsqrt\u003e \u003cmrow\u003e \u003cmn\u003e2.45\u003c/mn\u003e \u003c/mrow\u003e \u003c/msqrt\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e1.565\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe formula for the standard error of the sample mean (σ\u003csub\u003eX\u003c/sub\u003e), based on a known sample size (\u003cem\u003en\u003c/em\u003e), is\u003c/p\u003e\n\u003cdiv id=\"CFA2405-R-s03-E-3-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eσ\u003c/mi\u003e \u003cmi\u003eX\u003c/mi\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmi\u003eσ\u003c/mi\u003e \u003cmrow\u003e \u003cmsqrt\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/msqrt\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eTherefore,\u003c/p\u003e\n\u003cdiv id=\"CFA2405-R-s03-E-3-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eσ\u003c/mi\u003e \u003cmi\u003eX\u003c/mi\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e1.565\u003c/mn\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsqrt\u003e \u003cmrow\u003e \u003cmn\u003e40\u003c/mn\u003e \u003c/mrow\u003e \u003c/msqrt\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e0.247\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA sample mean is computed from a population with a variance of 2.45. The sample size is 40. The standard error of the sample mean is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4cc6ec0a-b4d1-485d-a055-483fe16c8696"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f069599c-4b11-4353-9f9a-ab2d25a27c6c",
+                            "itemBody": "A. 0.039.",
+                            "position": 1
+                        },
+                        {
+                            "id": "4cc6ec0a-b4d1-485d-a055-483fe16c8696",
+                            "itemBody": "B. 0.247.",
+                            "position": 2
+                        },
+                        {
+                            "id": "53e50380-0a5c-4992-8c32-3f4740c0f7b3",
+                            "itemBody": "C. 0.387.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7976,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53120",
+            "entry": {
+                "title": "CFA2405-R-s04-Q3",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. For a sample of size \u003cem\u003en\u003c/em\u003e, jackknife resampling usually requires \u003cem\u003en\u003c/em\u003e repetitions. In contrast, with bootstrap resampling, we are left to determine how many repetitions are appropriate.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCompared with bootstrap resampling, jackknife resampling:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6f0cb10c-afbc-427a-9abc-f1915483ea58"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5f24559d-db82-4e63-a4ea-5adf3ffe5d63",
+                            "itemBody": "A. is done with replacement.",
+                            "position": 1
+                        },
+                        {
+                            "id": "6f0cb10c-afbc-427a-9abc-f1915483ea58",
+                            "itemBody": "B. usually requires that the number of repetitions is equal to the sample size.",
+                            "position": 2
+                        },
+                        {
+                            "id": "f3a60b4a-2179-49f3-b04b-98564f79f117",
+                            "itemBody": "C. produces dissimilar results for every run because resamples are randomly drawn.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 7976,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53564",
+            "entry": {
+                "title": "ITEM_20170421039",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA descriptive measure of a population characteristic is \u003ci\u003ebest\u003c/i\u003e described as a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ddcfe5ea-9e23-4723-87bc-2f61657c5429"
+                },
+                "answerFeedback": {
+                    "12807694-268f-424b-8f87-ccd9762c85a7": "\u003cp\u003eIncorrect because\u0026nbsp;sample statistic is a quantity computed from or used to describe a sample.\u003c/p\u003e",
+                    "d9a87188-7b77-4b22-8184-07c4b0a6f271": "\u003cp\u003eIncorrect because a\u0026nbsp;frequency distribution is a tabular display of data summarized into a relatively small number of intervals.\u003c/p\u003e",
+                    "ddcfe5ea-9e23-4723-87bc-2f61657c5429": "\u003cp\u003eCorrect because\u0026nbsp;any descriptive measure of a population characteristic is called a parameter.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ddcfe5ea-9e23-4723-87bc-2f61657c5429",
+                            "itemBody": "\u003cp\u003eA. parameter.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "12807694-268f-424b-8f87-ccd9762c85a7",
+                            "itemBody": "\u003cp\u003eB. sample statistic.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d9a87188-7b77-4b22-8184-07c4b0a6f271",
+                            "itemBody": "\u003cp\u003eC. frequency distribution.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53565",
+            "entry": {
+                "title": "ITEM_20170421062",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf the distribution of the population from which samples of size \u003ci\u003en\u003c/i\u003e are drawn is positively skewed and given that the sample size, \u003ci\u003en\u003c/i\u003e, is large, the sampling distribution of the sample means is \u003ci\u003emost likely to\u003c/i\u003e have a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e011d64f-73bf-466a-9ba0-9515d21a1d2f"
+                },
+                "answerFeedback": {
+                    "5d5f7dcd-daa2-452d-b2ff-347d0e925197": "\u003cp\u003eIncorrect. Given a population that has a finite variance and a large sample size, the central limit theorem establishes that the sampling distribution of sample means will have a variance equal to the population variance divided by the sample size.\u003c/p\u003e",
+                    "8c0e2664-f0c1-4c47-ae22-551007dc14e9": "\u003cp\u003eIncorrect. Given a population that has a finite variance and a large sample size, the central limit theorem establishes that the sampling distribution of samples means will have a mean equal to\u0026nbsp;the population mean.\u003c/p\u003e",
+                    "e011d64f-73bf-466a-9ba0-9515d21a1d2f": "\u003cp\u003eCorrect. Given a population that has a finite variance and a large sample size, the central limit theorem establishes that the sampling distribution of sample means will be approximately normal, will have a mean equal to the population mean, and will have a variance equal to the population variance divided by the sample size.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8c0e2664-f0c1-4c47-ae22-551007dc14e9",
+                            "itemBody": "\u003cp\u003eA. mean smaller than the mean of the entire population.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5d5f7dcd-daa2-452d-b2ff-347d0e925197",
+                            "itemBody": "\u003cp\u003eB. variance equal to that of the entire population.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e011d64f-73bf-466a-9ba0-9515d21a1d2f",
+                            "itemBody": "\u003cp\u003eC. distribution that is approximately normal.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53566",
+            "entry": {
+                "title": "ITEM_20170421073",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA sample of 25 observations has a mean of 8 and a standard deviation of 15. The standard error of the sample mean is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4f79dab4-0d1f-498c-985e-b9bed54a3196"
+                },
+                "answerFeedback": {
+                    "1ab76e14-e071-48d8-b106-99a347e6bd5f": "\u003cp\u003eIncorrect. It is calculated by dividing 8 by the square root of 25.\u003c/p\u003e",
+                    "4f79dab4-0d1f-498c-985e-b9bed54a3196": "\u003cp\u003eCorrect. The standard error of the sample mean, when the sample standard deviation is known, is: \u003cmath style=\"font-family: Arial;\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmover\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmrow\u003e\u003cmi\u003es\u003c/mi\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmrow\u003e \u003cmsqrt\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/msqrt\u003e \u003c/mrow\u003e\u003c/mrow\u003e \u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e In this case, \u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmover\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmrow\u003e\u003cmrow\u003e \u003cmn\u003e15\u003c/mn\u003e\u003c/mrow\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmrow\u003e \u003cmsqrt\u003e \u003cmrow\u003e \u003cmn\u003e25\u003c/mn\u003e\u003c/mrow\u003e \u003c/msqrt\u003e \u003c/mrow\u003e\u003c/mrow\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e3.00\u003c/mn\u003e\u003c/mrow\u003e\u003c/math\u003e.\u003c/p\u003e",
+                    "63aba194-24f5-4530-8f46-ea6f481fbd05": "\u003cp\u003eIncorrect. It is calculated by dividing 15 by the square root of 24.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1ab76e14-e071-48d8-b106-99a347e6bd5f",
+                            "itemBody": "\u003cp\u003eA. 1.60.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4f79dab4-0d1f-498c-985e-b9bed54a3196",
+                            "itemBody": "\u003cp\u003eB. 3.00.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "63aba194-24f5-4530-8f46-ea6f481fbd05",
+                            "itemBody": "\u003cp\u003eC. 3.06.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53567",
+            "entry": {
+                "title": "ITEM_20170421101",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe distribution of all the distinct possible values for a statistic when calculated from samples of the same size randomly drawn from the same population is \u003ci\u003emost\u003c/i\u003e accurately referred to as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e770546b-7a79-4ddb-bb3c-8cb2a5db5dd5"
+                },
+                "answerFeedback": {
+                    "60e9ed9a-902d-48d7-8a5b-ca38f059a288": "\u003cp\u003eIncorrect. Multivariate normal distribution specifies the probabilities for a group of related random variables.\u003c/p\u003e",
+                    "7a52b7e9-8939-4a73-a8de-eb5f25f4e227": "\u003cp\u003eIncorrect. Discrete uniform distribution refers to the distribution of equally likely outcomes.\u003c/p\u003e",
+                    "e770546b-7a79-4ddb-bb3c-8cb2a5db5dd5": "\u003cp\u003eCorrect. The sampling distribution of a statistic (like a sample mean) is defined as the probability distribution of a given sample statistic when samples of the same size are randomly drawn from the same population.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7a52b7e9-8939-4a73-a8de-eb5f25f4e227",
+                            "itemBody": "\u003cp\u003eA. a discrete uniform distribution.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "60e9ed9a-902d-48d7-8a5b-ca38f059a288",
+                            "itemBody": "\u003cp\u003eB. a multivariate normal distribution.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e770546b-7a79-4ddb-bb3c-8cb2a5db5dd5",
+                            "itemBody": "\u003cp\u003eC. the sampling distribution of a statistic.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53568",
+            "entry": {
+                "title": "ITEM_20170421162",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA subset of a population is \u003ci\u003ebest\u003c/i\u003e described as a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e26ecc32-1868-4d17-946f-64ea7e86ba25"
+                },
+                "answerFeedback": {
+                    "061c2e8f-1469-48b3-be80-2ad9f10fca08": "\u003cp\u003eIncorrect because a\u0026nbsp;conditional distribution is a misnomer, but it sounds like the distribution of some value conditional upon some event.\u003c/p\u003e",
+                    "8c4ffe4c-f1ac-4017-9d2c-efe69ddefdd4": "\u003cp\u003eIncorrect because a\u0026nbsp;statistic is a quantity computed from or used to describe a sample of data.\u003c/p\u003e",
+                    "e26ecc32-1868-4d17-946f-64ea7e86ba25": "\u003cp\u003eCorrect because we often need to infer information on a population (all members of a specified group) through samples (part of the population).\u0026nbsp;Hence a sample is a subset of the population.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8c4ffe4c-f1ac-4017-9d2c-efe69ddefdd4",
+                            "itemBody": "\u003cp\u003eA. statistic.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e26ecc32-1868-4d17-946f-64ea7e86ba25",
+                            "itemBody": "\u003cp\u003eB. sample.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "061c2e8f-1469-48b3-be80-2ad9f10fca08",
+                            "itemBody": "\u003cp\u003eC. conditional distribution.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53569",
+            "entry": {
+                "title": "ITEM_20170421169",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe sampling error is \u003ci\u003ebest\u003c/i\u003e described as the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3ea7bc79-e598-4f1d-b2b0-5f0dfd284a21"
+                },
+                "answerFeedback": {
+                    "0b3aa2e7-c110-4255-9f35-c8c112c7e3c0": "\u003cp\u003eIncorrect. The sum of squared deviations from the mean divided by the sample size minus one is the sample variance.\u003c/p\u003e",
+                    "3ea7bc79-e598-4f1d-b2b0-5f0dfd284a21": "\u003cp\u003eCorrect. The sampling error is the difference between the observed value of a statistic and the quantity it is intended to estimate.\u003c/p\u003e",
+                    "f165a0a2-f675-4bc6-a3fb-46a9f9fde2ec": "\u003cp\u003eIncorrect. The sample standard deviation divided by the square root of the sample size is the standard error of the sample mean.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f165a0a2-f675-4bc6-a3fb-46a9f9fde2ec",
+                            "itemBody": "\u003cp\u003eA. sample standard deviation divided by the square root of the sample size.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3ea7bc79-e598-4f1d-b2b0-5f0dfd284a21",
+                            "itemBody": "\u003cp\u003eB. difference between the observed value of a statistic and the quantity it is intended to estimate.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0b3aa2e7-c110-4255-9f35-c8c112c7e3c0",
+                            "itemBody": "\u003cp\u003eC. sum of squared deviations from the mean divided by the sample size minus one.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53570",
+            "entry": {
+                "title": "ITEM_20170421077",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003e\n\u003cp\u003eThe following sample of 10 items is selected from a population. The population variance is unknown.\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 500px; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e10\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e20\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 49px; max-width: 49px;\"\u003e–8\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 39px; max-width: 39px;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 49px; max-width: 49px;\"\u003e–9\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 39px; max-width: 39px;\"\u003e5\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e0\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 47px; max-width: 47px;\"\u003e–8\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 41px; max-width: 41px;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e21\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003cp\u003eThe standard error of the sample mean is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "022f6582-478e-4ae5-8138-7de896a80b9d"
+                },
+                "answerFeedback": {
+                    "022f6582-478e-4ae5-8138-7de896a80b9d": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e When the population variance is unknown, the standard error of the sample mean is calculated as \u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmover\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmrow\u003e \u003cmsqrt\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/msqrt\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/math\u003e, where \u003cem\u003es\u003c/em\u003e is the sample standard deviation and \u003cem\u003en\u003c/em\u003e is the size of the sample. The sample standard deviation is \u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e \u003cmunderover\u003e \u003cmo\u003e∑\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003ei\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/mrow\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/munderover\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmi\u003ei\u003c/mi\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmover\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmrow\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo style=\"font-size: xx-large; font-family: serif;\"\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e0.5\u003c/mn\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp\u003eIn this problem, \u003cmath style=\"font-family: Arial;\"\u003e \u003cmover\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003c/math\u003e = (10 + 20 − 8 + 2 − 9 + 5 + 0 − 8 + 3 + 21)/10 = 3.6.\u003c/p\u003e\n\u003ctable style=\"width: 438px;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 212px; max-width: 212px;\"\u003e\u003cstrong\u003eDeviation from Mean\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 216px; max-width: 216px;\"\u003e\u003cstrong\u003eSquared Deviation\u003c/strong\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 212px; max-width: 212px;\"\u003e(10 – 3.6) = 6.4\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 216px; max-width: 216px;\"\u003e6.4²=40.96\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 212px; max-width: 212px;\"\u003e(20 – 3.6) = 16.4\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 216px; max-width: 216px;\"\u003e16.4² = 268.96\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 212px; max-width: 212px;\"\u003e(–8\u0026nbsp;– 3.6) =\u0026nbsp;–11.6\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 216px; max-width: 216px;\"\u003e–11.6² = 134.56\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 212px; max-width: 212px;\"\u003e(2\u0026nbsp;– 3.6) =\u0026nbsp;–1.6\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 216px; max-width: 216px;\"\u003e–1.6² = 2.56\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 212px; max-width: 212px;\"\u003e(–9\u0026nbsp;– 3.6) = –12.6\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 216px; max-width: 216px;\"\u003e–12.6² = 158.76\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 212px; max-width: 212px;\"\u003e(5\u0026nbsp;– 3.6) = 1.4\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 216px; max-width: 216px;\"\u003e1.4² = 1.96\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 212px; max-width: 212px;\"\u003e(0\u0026nbsp;– 3.6) =\u0026nbsp;–3.6\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 216px; max-width: 216px;\"\u003e–3.6² = 12.96\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 212px; max-width: 212px;\"\u003e(–8 – 3.6) =\u0026nbsp;–11.6\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 216px; max-width: 216px;\"\u003e–11.6² = 134.56\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 212px; max-width: 212px;\"\u003e(3\u0026nbsp;– 3.6) =\u0026nbsp;–0.6\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 216px; max-width: 216px;\"\u003e–0.6² = 0.36\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 212px; max-width: 212px;\"\u003e(21\u0026nbsp;– 3.6) = 17.4\u003c/td\u003e\n\u003ctd style=\"text-align: center; width: 216px; max-width: 216px;\"\u003e17.4² = 302.76\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cstrong\u003eTotal\u003c/strong\u003e\u003c/td\u003e\n\u003ctd\u003e1058.4\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cstrong\u003eVariance\u003c/strong\u003e\u003c/td\u003e\n\u003ctd\u003e1058.4/9 = 117.6\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cstrong\u003eStandard Deviation(s):\u003c/strong\u003e\u003c/td\u003e\n\u003ctd\u003e\u003cmath style=\"font-family: Arial;\"\u003e \u003cmrow\u003e \u003cmsqrt\u003e \u003cmrow\u003e \u003cmn\u003e117.6\u003c/mn\u003e \u003c/mrow\u003e \u003c/msqrt\u003e \u003c/mrow\u003e \u003c/math\u003e = 10.844\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cdiv\u003eThe standard error of the sample mean is therefore 10.844/10\u003csup\u003e0.5\u003c/sup\u003e = 3.429 \u003cstrong\u003e~ 3.43\u003c/strong\u003e.\u003c/div\u003e",
+                    "50a184c2-29ab-4ea9-aa17-9aeb494eb54b": "\u003cp\u003eIncorrect. It is the sample standard deviation: (1058.4/9)\u003csup\u003e0.5\u003c/sup\u003e = 10.844.\u003c/p\u003e",
+                    "6a2329b8-c9f6-48bc-b90e-9857e20fe67b": "\u003cp\u003eIncorrect. It is the sample mean: \u003cmath style=\"font-family: Arial;\"\u003e \u003cmover\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e\u003c/math\u003e = (10 + 20 − 8 + 2 − 9 + 5 + 0 − 8 + 3 + 21)/10 = 3.60.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6a2329b8-c9f6-48bc-b90e-9857e20fe67b",
+                            "itemBody": "\u003cp\u003eA. 3.60.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "022f6582-478e-4ae5-8138-7de896a80b9d",
+                            "itemBody": "\u003cp\u003eB. 3.43.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "50a184c2-29ab-4ea9-aa17-9aeb494eb54b",
+                            "itemBody": "\u003cp\u003eC. 10.84.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53571",
+            "entry": {
+                "title": "ITEM_20170421140",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA mutual fund manager wants to create a fund based on a high-grade corporate bond index. She first distinguishes between utility bonds and industrial bonds; she then, for each segment, defines maturity intervals of less than 5 years, 5 to 10 years, and greater than 10 years. For each segment and maturity level, she classifies the bonds as callable or noncallable. She then randomly selects bonds from each of the subpopulations she has created. For the manager’s sample, which of the following \u003ci\u003ebest\u003c/i\u003e describes the sampling approach?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7b549a9c-8c65-41e0-b022-4c49faf4687d"
+                },
+                "answerFeedback": {
+                    "55e47dd0-ab17-4608-ae03-4f24cd1ae023": "\u003cp\u003eIncorrect. The approach described is called stratified random sampling. In stratified random sampling, one divides the population into subpopulations and randomly samples from within the subpopulations.\u003c/p\u003e",
+                    "7b549a9c-8c65-41e0-b022-4c49faf4687d": "\u003cp\u003eCorrect. In stratified random sampling, one divides the population into subpopulations and randomly samples from within the subpopulations.\u003c/p\u003e",
+                    "f6026044-e147-4ce4-bdfc-f1f7041188eb": "\u003cp\u003eIncorrect. The approach described is called stratified random sampling. In stratified random sampling, one divides the population into subpopulations and randomly samples from within the subpopulations.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "55e47dd0-ab17-4608-ae03-4f24cd1ae023",
+                            "itemBody": "\u003cp\u003eA. Simple random\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f6026044-e147-4ce4-bdfc-f1f7041188eb",
+                            "itemBody": "\u003cp\u003eB. Systematic\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7b549a9c-8c65-41e0-b022-4c49faf4687d",
+                            "itemBody": "\u003cp\u003eC. Stratified random\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53572",
+            "entry": {
+                "title": "ITEM_CFA-L1-03336",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following factors is \u003cb\u003enot\u003c/b\u003e used in the calculation of a confidence interval?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "cf4056cc-03c9-4fcb-8164-ef32e0f222f7"
+                },
+                "answerFeedback": {
+                    "508ca4db-918d-4ef4-97bf-6056b431ce84": "\u003cp\u003eIncorrect because a reliability factor is used to calculate a confidence interval; Point estimate ± Reliability factor × Standard error = confidence interval.\u0026nbsp;\u003c/p\u003e",
+                    "5b220a5b-6492-4aa7-9779-a0501fe75d0d": "\u003cp\u003eIncorrect because a point estimate is used to calculate a confidence interval; Point estimate ± Reliability factor × Standard error = confidence interval.\u0026nbsp;\u003c/p\u003e",
+                    "cf4056cc-03c9-4fcb-8164-ef32e0f222f7": "\u003cp\u003eCorrect because a confidence interval for a parameter is calculated as: Point estimate ± Reliability factor × Standard error, where standard error is the standard error of the sample statistic providing the point estimate. Thus, sampling error is not part of the calculation. Sampling error is the difference between the observed value of a statistic and the quantity it is intended to estimate. It is because of sampling error that confidence intervals are used.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5b220a5b-6492-4aa7-9779-a0501fe75d0d",
+                            "itemBody": "\u003cp\u003eA. Point estimate\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "cf4056cc-03c9-4fcb-8164-ef32e0f222f7",
+                            "itemBody": "\u003cp\u003eB. Sampling error\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "508ca4db-918d-4ef4-97bf-6056b431ce84",
+                            "itemBody": "\u003cp\u003eC. Reliability factor\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53573",
+            "entry": {
+                "title": "ITEM_CFA-L1-06632",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eSamples are drawn from a population that follows a binomial distribution with a probability of success on a trial of 0.3. According to the central limit theorem, as the sample size increases, the distribution of the sample mean approaches a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "576acb5b-d62d-4c51-93f8-39df36a8153a"
+                },
+                "answerFeedback": {
+                    "576acb5b-d62d-4c51-93f8-39df36a8153a": "\u003cp\u003eCorrect because, according to the central limit theorem, the sampling distribution of the sample mean will be approximately normal when the sample size \u003ci\u003en\u003c/i\u003e is large. The normal distribution has a skewness of 0 (it is symmetric).\u0026nbsp; Since the binomial distribution has a mean of \u003ci\u003enp\u003c/i\u003e and finite variance of \u003ci\u003enp\u003c/i\u003e(1 – \u003ci\u003ep\u003c/i\u003e), where \u003ci\u003en\u003c/i\u003e is the number of trials and \u003ci\u003ep\u003c/i\u003e is the probability of success, the central limit theorem holds.\u0026nbsp;\u003c/p\u003e",
+                    "b09a2831-76b5-4534-9c9d-bb4fa4835853": "\u003cp\u003eIncorrect because it is the underlying binomial distribution that exhibits skewness when \u003ci\u003ep\u003c/i\u003e ≠ 0.5, not the sampling distribution of the sample mean. Since the sample size is large, the distribution of the sample mean will be approximately normal according to the central limit theorem, and therefore symmetric.\u003c/p\u003e",
+                    "e8d67107-9ae2-4e49-a81c-ba7f68f4ec42": "\u003cp\u003eIncorrect because it is the underlying binomial distribution that exhibits skewness when \u003ci\u003ep\u003c/i\u003e ≠ 0.5, not the sampling distribution of the sample mean. Since the sample size is large, the distribution of the sample mean will be approximately normal according to the central limit theorem, and therefore symmetric.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e8d67107-9ae2-4e49-a81c-ba7f68f4ec42",
+                            "itemBody": "\u003cp\u003eA. negatively skewed distribution.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "576acb5b-d62d-4c51-93f8-39df36a8153a",
+                            "itemBody": "\u003cp\u003eB. symmetric distribution.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b09a2831-76b5-4534-9c9d-bb4fa4835853",
+                            "itemBody": "\u003cp\u003eC. positively skewed distribution.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53574",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Quant-Ma-24",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst considers the population of all existing stocks and selects those where the company name starts with the letter P. This sampling procedure is \u003ci\u003emost likely\u0026nbsp;\u003c/i\u003ean example of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a44b88ef-29cd-4b58-801c-a8394a55420d"
+                },
+                "answerFeedback": {
+                    "4f01bd59-0846-494d-9a65-17b826d96c8c": "\u003cp\u003eIncorrect because the procedure does not involve the systematic selection of a sample\u0026nbsp;from the population. With systematic sampling, we select every \u003ci\u003ek\u003c/i\u003eth member until we have a sample of the desired size. The sample that results from this procedure should be approximately random.\u003c/p\u003e",
+                    "9effee99-bfdc-4554-9c34-e6f885ade38c": "\u003cp\u003eIncorrect because cluster sampling requires the division or classification of the population into subpopulation groups, called clusters. In this method, the population is divided into clusters, each of which is essentially a mini-representation of the entire populations. Then certain clusters are chosen as a whole using simple random sampling. If all the members in each sampled cluster are sampled, this sample plan is referred to as one-stage cluster sampling. If a subsample is randomly selected from each selected cluster, then the plan is referred as two-stage cluster sampling.\u0026nbsp;Choosing only company names starting with the letter P is not two-stage cluster sampling.\u003c/p\u003e",
+                    "a44b88ef-29cd-4b58-801c-a8394a55420d": "\u003cp\u003eCorrect because the sampling procedure does not give every member of the population an equal chance of being selected. It is based on the analyst's convenience. Non-probability sampling depends on factors other than probability considerations, such as a sampler’s judgment or the convenience to access data.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4f01bd59-0846-494d-9a65-17b826d96c8c",
+                            "itemBody": "\u003cp\u003eA. systematic sampling.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a44b88ef-29cd-4b58-801c-a8394a55420d",
+                            "itemBody": "\u003cp\u003eB. non-probability sampling.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9effee99-bfdc-4554-9c34-e6f885ade38c",
+                            "itemBody": "\u003cp\u003eC. two-stage cluster sampling.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53575",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Quant-Leonida-08",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn which of the following cases is\u0026nbsp;cluster sampling \u003ci\u003emost likely\u003c/i\u003e\u0026nbsp;used? When:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1848f2cc-6df3-4147-8740-bed2938d7ce2"
+                },
+                "answerFeedback": {
+                    "1848f2cc-6df3-4147-8740-bed2938d7ce2": "\u003cp\u003eCorrect because, in cluster sampling, the population is divided into clusters, each of which is essentially a mini-representation of the entire populations. Then certain clusters are chosen as a whole using simple random sampling. Cluster sampling is commonly used for market surveys, and the most popular version identifies clusters based on geographic parameters.\u003c/p\u003e",
+                    "282e998f-40af-425a-9bbd-1eef2755a0ac": "\u003cp\u003eIncorrect because judgmental, not cluster,\u0026nbsp;sampling involves selectively handpicking elements from the population based on a researcher’s knowledge and professional judgment. For example, when auditing financial statements, seasoned auditors can apply their sound judgment to select accounts or transactions that can provide sufficient audit coverage.\u003c/p\u003e",
+                    "83e7555d-3261-4531-9e66-39f4be0d62e2": "\u003cp\u003eIncorrect because creating a bond portfolio to mirror the performance of a specified index\u0026nbsp;is an application of\u0026nbsp;stratified sampling.\u0026nbsp;Bond indexing is one area in which stratified sampling, rather than cluster sampling,\u0026nbsp;is frequently applied.\u0026nbsp;\u003cb\u003eIndexing\u003c/b\u003e\u0026nbsp;is an investment strategy in which an investor constructs a portfolio to mirror the performance of a specified index.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1848f2cc-6df3-4147-8740-bed2938d7ce2",
+                            "itemBody": "\u003cp\u003eA. conducting a market survey\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "282e998f-40af-425a-9bbd-1eef2755a0ac",
+                            "itemBody": "\u003cp\u003eB. auditing financial statements\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "83e7555d-3261-4531-9e66-39f4be0d62e2",
+                            "itemBody": "\u003cp\u003eC. creating a bond portfolio to mirror the performance of a specified index\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53576",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Quant-Zhang-22",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eGrouping all publicly traded US firms by sector and then randomly selecting subsamples of firms from each sector according to the sector's proportion in the total population\u0026nbsp;is an example of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b82f6077-253a-4c50-b437-d104d402fd13"
+                },
+                "answerFeedback": {
+                    "9285d9aa-0eaa-41bb-8bb5-991ea12e1b42": "\u003cp\u003eIncorrect because, in simple random sampling, a public firm would be randomly selected without the firms being grouped into sectors first. A simple random sample is a subset of a larger population created in such a way that each element of the population has an equal probability of being selected to the subset.\u003c/p\u003e",
+                    "b82f6077-253a-4c50-b437-d104d402fd13": "\u003cp\u003eCorrect because, in stratified random sampling, the population is divided into subpopulations (strata) based on one or more classification criteria. Simple random samples are then drawn from each stratum in sizes proportional to the relative size of each stratum in the population.\u003c/p\u003e",
+                    "fe39e747-eca0-49fc-bd68-af14a613fd11": "\u003cp\u003eIncorrect because, in cluster sampling, the population is divided into clusters, each of which is essentially a mini-representation of the entire populations. Then certain clusters are chosen as a whole using simple random sampling.\u0026nbsp;The sampling method used by the analyst is not cluster sampling because, first, each sector is not a mini-representation of all public firms; second, certain sectors are not chosen as a whole.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fe39e747-eca0-49fc-bd68-af14a613fd11",
+                            "itemBody": "\u003cp\u003eA. cluster sampling.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9285d9aa-0eaa-41bb-8bb5-991ea12e1b42",
+                            "itemBody": "\u003cp\u003eB. simple random sampling.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b82f6077-253a-4c50-b437-d104d402fd13",
+                            "itemBody": "\u003cp\u003eC. stratified random sampling.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53577",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Quant-Glover-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll else being equal, when compared to non-probability sampling, probability sampling \u003ci\u003emost likely\u003c/i\u003e yields:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f5b3467f-0ab8-4419-abc5-44cbfc6afb74"
+                },
+                "answerFeedback": {
+                    "db0cd121-dd99-4ba1-8ed0-1bbca17eb295": "\u003cp\u003eIncorrect because probability sampling gives every member of the population an equal chance of being selected. Hence it can create a sample that is representative of the population. In contrast, non-probability\u0026nbsp;sampling depends on factors other than probability considerations, such as a sampler's judgment or the convenience to access data. Consequently there is a significant risk that non-probability sampling might generate a non-representative sample. In general, all else being equal, probability sampling can yield more accuracy and reliability compared with non-probability sampling.\u003c/p\u003e",
+                    "f5b3467f-0ab8-4419-abc5-44cbfc6afb74": "\u003cp\u003eCorrect because probability sampling gives every member of the population an equal change of being selected. Hence it can create a sample that is representative of the population. In contrast, non-probability\u0026nbsp;sampling depends on factors other than probability considerations, such as a sampler's judgment or the convenience to access data. Consequently there is a significant risk that non-probability sampling might generate a non-representative sample. In general, all else being equal, probability sampling can yield more accuracy and reliability compared with non-probability sampling.\u003c/p\u003e",
+                    "f5b99fc9-7ed0-4e3e-951f-b55f95d90e29": "\u003cp\u003eIncorrect because probability sampling gives every member of the population an equal change of being selected. Hence it can create a sample that is representative of the population. In contrast, non-probability\u0026nbsp;sampling depends on factors other than probability considerations, such as a sampler's judgment or the convenience to access data. Consequently there is a significant risk that non-probability sampling might generate a non-representative sample. In general, all else being equal, probability sampling can yield more accuracy and reliability compared with non-probability sampling.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "db0cd121-dd99-4ba1-8ed0-1bbca17eb295",
+                            "itemBody": "\u003cp\u003eA. a less representative sample.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f5b99fc9-7ed0-4e3e-951f-b55f95d90e29",
+                            "itemBody": "\u003cp\u003eB. an equally representative sample.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f5b3467f-0ab8-4419-abc5-44cbfc6afb74",
+                            "itemBody": "\u003cp\u003eC. a more representative sample.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53578",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Quant-Tsependa-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eSampling error is the difference between the observed value of a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fcebeddc-c41d-43ce-8fda-4d4701850fd7"
+                },
+                "answerFeedback": {
+                    "441c8cd8-5dbe-44b2-94a0-b9023e1dd14a": "\u003cp\u003eIncorrect because\u0026nbsp;sampling error is the difference between the observed value of a statistic and the quantity it is intended to estimate.\u003c/p\u003e",
+                    "6c58d690-6ff5-458c-9ce9-87185800c873": "\u003cp\u003eIncorrect because\u0026nbsp;sampling error is the difference between the observed value of a statistic and the quantity it is intended to estimate.\u003c/p\u003e",
+                    "fcebeddc-c41d-43ce-8fda-4d4701850fd7": "\u003cp\u003eCorrect because sampling error is the difference between the observed value of a statistic and the quantity it is intended to estimate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "441c8cd8-5dbe-44b2-94a0-b9023e1dd14a",
+                            "itemBody": "\u003cp\u003eA. random variable and the respective statistic.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6c58d690-6ff5-458c-9ce9-87185800c873",
+                            "itemBody": "\u003cp\u003eB. random variable and its hypothesized value.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "fcebeddc-c41d-43ce-8fda-4d4701850fd7",
+                            "itemBody": "\u003cp\u003eC. statistic and the quantity it is intended to estimate.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53579",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-Quant-Glover-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is required to compute the standard error of a sample mean using the bootstrap resampling method?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d2d16db4-41e3-4ff1-87f1-588dc723e4a8"
+                },
+                "answerFeedback": {
+                    "47e76c5a-81b3-4aea-a232-68259245d17b": "\u003cp\u003eIncorrect because\u0026nbsp;the equation to\u0026nbsp;estimate the standard error of the sample mean effectively computes the sample standard deviation of the different means generated across all resamples. Hence\u0026nbsp;the mean of each resample is required. However, neither the mean, nor the standard deviation, of the original sample are required.\u0026nbsp;\u003c/p\u003e",
+                    "d2d16db4-41e3-4ff1-87f1-588dc723e4a8": "\u003cp\u003eCorrect because the equation to\u0026nbsp;estimate the standard error of the sample mean effectively computes the sample standard deviation of the different means generated across all resamples. Hence\u0026nbsp;the mean of each resample is required. However, neither the mean, nor the standard deviation, of the original sample are required.\u0026nbsp;\u003c/p\u003e",
+                    "fd55666f-1fef-4ab1-8d7c-79ed3bc9ac11": "\u003cp\u003eIncorrect because the equation to\u0026nbsp;estimate the standard error of the sample mean effectively computes the sample standard deviation of the different means generated across all resamples. Hence\u0026nbsp;the mean of each resample is required. However, neither the mean, nor the standard deviation, of the original sample are required.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d2d16db4-41e3-4ff1-87f1-588dc723e4a8",
+                            "itemBody": "\u003cp\u003eA. The mean of each resample\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fd55666f-1fef-4ab1-8d7c-79ed3bc9ac11",
+                            "itemBody": "\u003cp\u003eB. The mean of the original sample\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "47e76c5a-81b3-4aea-a232-68259245d17b",
+                            "itemBody": "\u003cp\u003eC. The standard deviation of the original sample\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8572,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 799,
+            "sourceModuleId": 4424,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54429",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.01-Quant-Moustra-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA researcher\u0026nbsp;wants to measure the level of consumer confidence in a country by interviewing a simple random sample of ten consumers from three randomly selected cities. This method is an example of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "370d6e47-ae38-4151-9875-4464cc6f8e69"
+                },
+                "answerFeedback": {
+                    "08ee3059-5c4e-4424-bc72-34104c5bc317": "\u003cp\u003eIncorrect because a\u0026nbsp;major difference between cluster and stratified random samples is that in cluster\u0026nbsp;sampling, a whole cluster is regarded as a sampling unit and only sampled clusters are\u0026nbsp;included. In stratified random sampling, however, all the strata are included and only\u0026nbsp;specific elements within each stratum are then selected as sampling unit.\u0026nbsp;Also, in stratified random sampling, the population is divided into subpopulations (strata) based on one or more classification criteria. Simple random samples are then drawn from each stratum in sizes proportional to the relative size of each stratum in the population.\u0026nbsp;This would have been a stratified random sampling if the researcher randomly selected consumers from each city based on the size of each city relative to the whole population.\u003c/p\u003e",
+                    "1da863ae-9a8a-41f2-8d06-6a1cb61a2d57": "\u003cp\u003eIncorrect because with systematic sampling, we select\u0026nbsp;every \u003ci\u003ek\u003c/i\u003eth member until we have a sample of the desired size.\u0026nbsp;Systematic sampling does not involve the division or classification of the population into subpopulation groups.\u003c/p\u003e",
+                    "370d6e47-ae38-4151-9875-4464cc6f8e69": "\u003cp\u003eCorrect because cluster sampling requires the division or classification of the population into subpopulation groups, called clusters. In this method, the\u0026nbsp;population is divided into clusters, each of which is essentially a mini-representation\u0026nbsp;of the entire populations.\u0026nbsp;Then certain clusters are chosen as a whole using simple random sampling. If a subsample is randomly selected from each selected cluster, then the plan is referred as two-stage cluster sampling.\u0026nbsp;In this case, each city represents a cluster, from which a sample of ten consumers is randomly selected, i.e. the researcher uses a two-stage cluster sampling.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "370d6e47-ae38-4151-9875-4464cc6f8e69",
+                            "itemBody": "\u003cp\u003eA. cluster sampling.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1da863ae-9a8a-41f2-8d06-6a1cb61a2d57",
+                            "itemBody": "\u003cp\u003eB. systematic sampling.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "08ee3059-5c4e-4424-bc72-34104c5bc317",
+                            "itemBody": "\u003cp\u003eC. stratified random sampling.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8772,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4628,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54430",
+            "entry": {
+                "title": "ITEM_20170421072",
+                "feedback": {},
+                "itemBody": "\u003cp class=\"x_x_x_x_x_x_x_x_x_x_cfa-stem\"\u003eThe central limit theorem is \u003ci\u003ebest\u003c/i\u003e described as stating that the sampling distribution of the sample mean will be approximately normal for large-size samples:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bdd7b66c-9018-4e96-a59f-54a2735f7566"
+                },
+                "answerFeedback": {
+                    "a5635099-d4a7-4b04-88f0-da8a668d094d": "\u003cp\u003eIncorrect because the central limit theorem holds without regard for the distribution of the underlying population.\u003c/p\u003e",
+                    "a95b3d66-8f8e-4c3c-8dc3-00ec74310124": "\u003cp\u003eIncorrect because the central limit theorem holds without regard for the distribution of the underlying population.\u003c/p\u003e",
+                    "bdd7b66c-9018-4e96-a59f-54a2735f7566": "\u003cp\u003eCorrect because the central limit theorem holds without regard for the distribution of the underlying population.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a5635099-d4a7-4b04-88f0-da8a668d094d",
+                            "itemBody": "\u003cp\u003eA. if the population distribution is normal.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a95b3d66-8f8e-4c3c-8dc3-00ec74310124",
+                            "itemBody": "\u003cp\u003eB. if the population distribution is symmetrical.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bdd7b66c-9018-4e96-a59f-54a2735f7566",
+                            "itemBody": "\u003cp\u003eC. for populations described by any probability distribution.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8772,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4628,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54431",
+            "entry": {
+                "title": "ITEM_20170421135",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003e\n\u003cp\u003eAn analyst gathered the following information about a stock index:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 652px; border-style: solid;\" border=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"width: 523px; max-width: 523px; text-align: left;\" scope=\"row\"\u003eMean net income for all companies in the index\u003c/th\u003e\n\u003ctd style=\"width: 122px; max-width: 122px; text-align: center;\"\u003e$2.4 million\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003cth style=\"width: 523px; max-width: 523px; text-align: left;\" scope=\"row\"\u003eStandard deviation of net income for all companies in the index\u003c/th\u003e\n\u003ctd style=\"width: 122px; max-width: 122px; text-align: center;\"\u003e$3.2 million\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003cp\u003eIf the analyst takes a sample of 36 companies from the index, the standard error of the sample mean is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b9bc6f10-0a96-4be6-8d2d-7303f3ce6aa7"
+                },
+                "answerFeedback": {
+                    "8872326f-a62f-404b-81fe-de8b28d445e7": "\u003cp\u003eIncorrect because it uses the following formula:\u003c/p\u003e\n\u003cp\u003e\u003cmath\u003e \u003cmrow\u003e \u003cmi\u003e$\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e400\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e000\u003c/mn\u003e \u003cmo\u003e/\u003c/mo\u003e \u003cmsqrt\u003e \u003cmrow\u003e \u003cmn\u003e36\u003c/mn\u003e \u003c/mrow\u003e \u003c/msqrt\u003e \u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e\n\u003cp\u003e= $400,000.\u003c/p\u003e",
+                    "b9bc6f10-0a96-4be6-8d2d-7303f3ce6aa7": "\u003cp\u003eCorrect because the standard error of the sample mean is equal to the population standard deviation (σ) divided by the square root of the number of observations in the sample (\u003cem\u003en\u003c/em\u003e):\u003c/p\u003e\n\u003cp\u003e\u003cmath\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003eσ\u003c/mi\u003e \u003cmover accent=\"true\"\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmo\u003e¯\u003c/mo\u003e \u003c/mover\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmi\u003eσ\u003c/mi\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmsqrt\u003e \u003cmi\u003en\u003c/mi\u003e \u003c/msqrt\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmi\u003e$\u003c/mi\u003e\u003cmn\u003e3\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e200\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003cmo\u003e/\u003c/mo\u003e\u003cmsqrt\u003e \u003cmrow\u003e \u003cmn\u003e36\u003c/mn\u003e\u003c/mrow\u003e \u003c/msqrt\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmi\u003e$\u003c/mi\u003e\u003cmn\u003e533\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e333\u003c/mn\u003e\u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e",
+                    "cd305e25-85f2-4039-8df1-ea52000293ef": "\u003cp\u003eIncorrect because it uses the following formula: $3,200,000/36 = $88,889.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "cd305e25-85f2-4039-8df1-ea52000293ef",
+                            "itemBody": "\u003cp\u003eA. $88,889.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8872326f-a62f-404b-81fe-de8b28d445e7",
+                            "itemBody": "\u003cp\u003eB. $400,000.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b9bc6f10-0a96-4be6-8d2d-7303f3ce6aa7",
+                            "itemBody": "\u003cp\u003eC. $533,333.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8772,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4628,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54432",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-Quant-Croitoru-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst studying the Sharpe ratios of mutual funds globally uses only the data from the standard internal database, which covers 12 mutual funds. This sampling method is\u0026nbsp;\u003ci\u003ebest \u003c/i\u003edescribed as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2e3e7e08-0fff-4532-9c4c-1c5aecf9966d"
+                },
+                "answerFeedback": {
+                    "1fc6fa51-cb8c-4f17-91ea-65aea3a448e0": "\u003cp\u003eIncorrect because cluster sampling\u0026nbsp;requires the division or classification of the\u0026nbsp;population into subpopulation groups, called clusters. In this method, the population is divided into clusters, each of which is essentially a mini-representation of the entire populations. Then certain clusters are chosen as a whole using simple random sampling.\u0026nbsp;However, in this situation, the analyst uses all the data from the database, without dividing them into clusters, which best describes convenience sampling, not cluster sampling.\u003c/p\u003e",
+                    "2e3e7e08-0fff-4532-9c4c-1c5aecf9966d": "\u003cp\u003eCorrect because in this method (convenience sampling), an element is selected from the population based on whether or not it is accessible to a researcher or on how easy it is for a researcher to access the element. Because the samples are selected conveniently, they are not necessarily representative of the entire population, and hence the level of the sampling accuracy could be limited.\u0026nbsp;By choosing to use all the data from an internal database, the analyst is using convenience sampling.\u003c/p\u003e",
+                    "cf3b61a2-6861-4ab4-b11a-c2bef0160401": "\u003cp\u003eIncorrect because this sampling process (judgmental sampling)\u0026nbsp;involves selectively handpicking elements from the population based on a researcher’s knowledge and professional judgment. In circumstances where there is a time constraint, however, or when the specialty of researchers is critical to select a more representative sample than by using other probability or non-probability sampling methods, judgmental sampling allows researchers to go directly to the target population of interest.\u0026nbsp;However, in this situation, the analyst uses all the data from the database, without selecting elements based on her knowledge, which\u0026nbsp;best describes convenience sampling, not judgmental sampling.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1fc6fa51-cb8c-4f17-91ea-65aea3a448e0",
+                            "itemBody": "\u003cp\u003eA. cluster sampling.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "cf3b61a2-6861-4ab4-b11a-c2bef0160401",
+                            "itemBody": "\u003cp\u003eB. judgmental sampling.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2e3e7e08-0fff-4532-9c4c-1c5aecf9966d",
+                            "itemBody": "\u003cp\u003eC. convenience sampling.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8772,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4628,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54433",
+            "entry": {
+                "title": "ITEM_CFA-L1-08839",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eThe sampling distribution of a statistic must be constructed from samples that are:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8dcce2b7-92ce-4a19-a8a9-152b7f70bd00"
+                },
+                "answerFeedback": {
+                    "4dc25235-aa28-4f52-b8a9-2b5934641b3e": "\u003cp\u003eIncorrect because the sampling distribution of a statistic is the distribution of all the distinct possible values that the statistic can assume when computed from samples of the same size randomly drawn from the same population. In stratified random sampling, the population is divided into subpopulations (strata) based on one or more classification criteria. Drawing the sample 'from the same stratum' is not consistent with drawing the sample 'from the same population.' Further, a sampling distribution also requires the samples to be of the same size.\u0026nbsp;\u003c/p\u003e",
+                    "8dcce2b7-92ce-4a19-a8a9-152b7f70bd00": "\u003cp\u003eCorrect because the sampling distribution of a statistic is the distribution of all the distinct possible values that the statistic can assume when computed from samples of the same size randomly drawn from the same population.\u003c/p\u003e",
+                    "931c07b7-39c5-4072-b4c9-caf8fd8a31d3": "\u003cp\u003eIncorrect because the sampling distribution of a statistic is the distribution of all the distinct possible values that the statistic can assume when computed from samples of the same size randomly drawn from the same population. Although the central limit theorem does require a large sample, the question is asking for the definition of a sampling distribution. The central limit theorem allows us to make quite precise probability statements about the population mean by using the sample mean, \u003ci\u003ewhatever the distribution of the population\u003c/i\u003e (so long as it has finite variance), because the sample mean follows an approximate normal distribution for large-size samples.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "931c07b7-39c5-4072-b4c9-caf8fd8a31d3",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA. large.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8dcce2b7-92ce-4a19-a8a9-152b7f70bd00",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eB. of the same size.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4dc25235-aa28-4f52-b8a9-2b5934641b3e",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eC. from the same stratum.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8772,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4628,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54434",
+            "entry": {
+                "title": "ITEM_CFA-L1-06049",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA population has a lognormal distribution with a standard deviation of 50. Samples with a size of 100 are drawn from the population. The sampling distribution of the sample mean is \u003ci\u003emost likely\u003c/i\u003e: \u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f5e69d44-0409-4666-a2d2-e61ae7b8277b"
+                },
+                "answerFeedback": {
+                    "03fff76c-4f1a-4973-91d0-75db8b5ccbf8": "\u003cp\u003eIncorrect because the population distribution is skewed to the right, not the sampling distribution of the sample mean. The lognormal distribution\u0026nbsp;is skewed to the right (it has a long right tail).\u0026nbsp;\u0026nbsp;The central limit theorem applies since the sample size is large (\u003cem\u003en\u003c/em\u003e = 100); therefore, the sampling distribution of the sample mean is approximately normal, or symmetric, not skewed to the right.\u0026nbsp;\u003c/p\u003e",
+                    "7c42e6db-96f4-4a0f-b199-3dbdff53080e": "\u003cp\u003eIncorrect because the sampling distribution of the sample mean has a standard deviation of σ/(\u003cem\u003en\u003c/em\u003e)\u003csup\u003e1/2\u003c/sup\u003e, not σ/\u003cem\u003en\u003c/em\u003e (50/100 = 0.5). According to the central limit theorem, given a population described by any probability distribution having mean µ and finite variance σ\u003csup\u003e2\u003c/sup\u003e, the sampling distribution of the sample mean \u003cem\u003eX\u003c/em\u003e computed from samples of size \u003cem\u003en\u003c/em\u003e from this population will be approximately normal with mean µ (the population mean) and variance σ\u003csup\u003e2\u003c/sup\u003e/\u003cem\u003en\u003c/em\u003e (the population variance divided by\u003cem\u003e n\u003c/em\u003e) when the sample size \u003cem\u003en\u003c/em\u003e is large.\u0026nbsp;Since the sample size is large (\u003cem\u003en\u003c/em\u003e = 100), the sampling distribution of the sample mean is approximately normal, or symmetric, with a mean of 100 and standard deviation of 50/(100)\u003csup\u003e1/2\u003c/sup\u003e = 5.\u003c/p\u003e",
+                    "f5e69d44-0409-4666-a2d2-e61ae7b8277b": "\u003cp\u003eCorrect because, according to the central limit theorem, given a population described by any probability distribution having mean µ and finite variance σ\u003csup\u003e2\u003c/sup\u003e, the sampling distribution of the sample mean \u003cem\u003eX\u003c/em\u003e computed from samples of size \u003cem\u003en\u003c/em\u003e from this population will be approximately normal with mean µ (the population mean) and variance σ\u003csup\u003e2\u003c/sup\u003e/\u003cem\u003en\u003c/em\u003e (the population variance divided by\u003cem\u003e n\u003c/em\u003e) when the sample size \u003cem\u003en\u003c/em\u003e is large.\u0026nbsp;Since the sample size is large (\u003cem\u003en\u003c/em\u003e = 100), the sampling distribution of the sample mean is approximately normal, or symmetric, with a mean of 100 and standard deviation of 50/(100)\u003csup\u003e1/2\u003c/sup\u003e = 5.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "03fff76c-4f1a-4973-91d0-75db8b5ccbf8",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA. skewed to the right with a standard deviation of 50.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f5e69d44-0409-4666-a2d2-e61ae7b8277b",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eB. approximately symmetric with a standard deviation of 5.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7c42e6db-96f4-4a0f-b199-3dbdff53080e",
+                            "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eC. approximately symmetric with a standard deviation of 0.5.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8772,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 838,
+            "sourceModuleId": 4628,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {},
+    "scored_data": {
+        "points": 2,
+        "points_possible": 27
+    }
+}

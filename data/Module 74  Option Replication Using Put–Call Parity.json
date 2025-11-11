@@ -1,0 +1,1527 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6006,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 24,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 9: Option Replication Using Put–Call Parity",
+        "topic_id": 1037,
+        "topic": "CFA-26-02-LI-C: Derivatives",
+        "subtopic_id": 6006,
+        "subtopic": "Module 9: Option Replication Using Put–Call Parity",
+        "question_count": 24,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 853,
+                "name": "Warehouse Course: Derivatives 26-LI",
+                "code": "Warehouse Course: Derivatives 26-LI",
+                "module_id": 4490,
+                "question_count": 13,
+                "type": "warehouse"
+            },
+            {
+                "id": 844,
+                "name": "Practice Pack Warehouse: Derivatives 26-LI",
+                "code": "Practice Pack Warehouse: Derivatives 26-LI",
+                "module_id": 4743,
+                "question_count": 11,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 24.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "b6f292cbcd2fb655",
+        "ordered_item_ids": [
+            "56316",
+            "56317",
+            "56318",
+            "56319",
+            "56320",
+            "56321",
+            "56322",
+            "56323",
+            "56324",
+            "56325",
+            "56326",
+            "51108",
+            "51109",
+            "51110",
+            "51111",
+            "51112",
+            "51113",
+            "51114",
+            "54225",
+            "54226",
+            "54227",
+            "54228",
+            "54229",
+            "54230",
+            "54231"
+        ],
+        "visible_item_ids": [
+            "56316",
+            "56317",
+            "56318",
+            "56319",
+            "56320",
+            "56321",
+            "56322",
+            "56323",
+            "56324",
+            "56325",
+            "56326",
+            "51108",
+            "51109",
+            "51110",
+            "51111",
+            "51112",
+            "51113",
+            "51114",
+            "54225",
+            "54226",
+            "54227",
+            "54228",
+            "54229",
+            "54230",
+            "54231"
+        ]
+    },
+    "items": [
+        {
+            "id": "56316",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Derivs-Lee-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information:\u003c/p\u003e\u003ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:203px\"\u003e\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:134px; max-width:134px\"\u003eCall price\u003c/td\u003e\n\u003ctd style=\"width:59px; max-width:59px; text-align:center\"\u003e$10\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:134px; max-width:134px\"\u003eStock price\u003c/td\u003e\n\u003ctd style=\"width:59px; max-width:59px; text-align:center\"\u003e$40\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:134px; max-width:134px\"\u003eExercise price\u003c/td\u003e\n\u003ctd style=\"width:59px; max-width:59px; text-align:center\"\u003e$60\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:134px; max-width:134px\"\u003eInterest rate\u003c/td\u003e\n\u003ctd style=\"width:59px; max-width:59px; text-align:center\"\u003e3%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:134px; max-width:134px\"\u003eTime to expiry\u003c/td\u003e\n\u003ctd style=\"width:59px; max-width:59px; text-align:center\"\u003e1 year\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\u003c/table\u003e\u003cp\u003eAccording to put-call parity, the price of the put is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "58da3f07-1f67-45f7-8bab-d12fccd534fa"
+                },
+                "answerFeedback": {
+                    "2ea71096-34e0-4971-a1b3-c33891a6a3be": "\u003cp\u003eIncorrect because \u003ci\u003eS\u003csub\u003e0\u003c/sub\u003e + p\u003csub\u003e0\u003c/sub\u003e = c\u003csub\u003e0\u003c/sub\u003e + X / (1+r)\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e. This relationship is known as \u003cb\u003eput-call parity\u003c/b\u003e. In this response, S\u003csub\u003e0\u003c/sub\u003e was incorrectly added instead of subtracted from c\u003csub\u003e0\u003c/sub\u003e + X / (1+r)\u003csup\u003eT\u003c/sup\u003e to arrive at P\u003csub\u003e0\u003c/sub\u003e. Here \u003ci\u003eS\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e is the spot price, \u003ci\u003ep\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e is the put premium, \u003ci\u003eX\u003c/i\u003e is the strike price and \u003ci\u003er\u003c/i\u003e is the interest rate.\u003c/p\u003e\u003cp\u003eS\u003csub\u003e0\u003c/sub\u003e + p\u003csub\u003e0\u003c/sub\u003e = c\u003csub\u003e0\u003c/sub\u003e + X / (1+r)\u003csup\u003eT \u003c/sup\u003e\u003c/p\u003e\u003cp\u003e40 + p\u003csub\u003e0\u003c/sub\u003e = 10 + 60 / 1.03\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e = 10 + 60 / 1.03 + 40\u003c/p\u003e\u003cp\u003e= 108.252427 = 108.25.\u003c/p\u003e",
+                    "58da3f07-1f67-45f7-8bab-d12fccd534fa": "\u003cp\u003eCorrect because \u003ci\u003eS\u003csub\u003e0\u003c/sub\u003e + p\u003csub\u003e0\u003c/sub\u003e = c\u003csub\u003e0\u003c/sub\u003e + X / (1+r)\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e. This relationship is known as \u003cb\u003eput-call parity\u003c/b\u003e. Here \u003ci\u003eS\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e is the spot price, \u003ci\u003ep\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e is the put premium, \u003ci\u003eX\u003c/i\u003e is the strike price and \u003ci\u003er\u003c/i\u003e is the interest rate.\u003c/p\u003e\u003cp\u003eS\u003csub\u003e0\u003c/sub\u003e + p\u003csub\u003e0\u003c/sub\u003e = c\u003csub\u003e0\u003c/sub\u003e + X / (1+r)\u003csup\u003eT \u003c/sup\u003e\u003c/p\u003e\u003cp\u003e40 + p\u003csub\u003e0\u003c/sub\u003e = 10 + 60 / 1.03\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e = 10 + 60 / 1.03 - 40\u003c/p\u003e\u003cp\u003e= 28.25242718 = 28.25\u003c/p\u003e",
+                    "d36d4565-71d4-490b-a7ac-dfc4da5998fa": "\u003cp\u003eIncorrect because \u003ci\u003eS\u003csub\u003e0\u003c/sub\u003e + p\u003csub\u003e0\u003c/sub\u003e = c\u003csub\u003e0\u003c/sub\u003e + X / (1+r)\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e. This relationship is known as \u003cb\u003eput-call parity\u003c/b\u003e. In this response, X was not divided by (1+r)\u003csup\u003eT\u003c/sup\u003e. Here \u003ci\u003eS\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e is the spot price, \u003ci\u003ep\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e is the put premium, \u003ci\u003eX\u003c/i\u003e is the strike price and \u003ci\u003er\u003c/i\u003e is the interest rate.\u003c/p\u003e\u003cp\u003eS\u003csub\u003e0\u003c/sub\u003e + p\u003csub\u003e0\u003c/sub\u003e = c\u003csub\u003e0\u003c/sub\u003e + X / (1+r)\u003csup\u003eT \u003c/sup\u003e\u003c/p\u003e\u003cp\u003e40 + p\u003csub\u003e0\u003c/sub\u003e = 10 + 60\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e = 10 + 60 - 40 = 30.00\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "58da3f07-1f67-45f7-8bab-d12fccd534fa",
+                            "itemBody": "\u003cp\u003eA. $28.25.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d36d4565-71d4-490b-a7ac-dfc4da5998fa",
+                            "itemBody": "\u003cp\u003eB. $30.00.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2ea71096-34e0-4971-a1b3-c33891a6a3be",
+                            "itemBody": "\u003cp\u003eC. $108.25.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4743,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56317",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Deriv-Stroh-07",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eAll else being equal, the cost of a fiduciary call must be:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1c5e156e-176b-4f8c-a429-4ff55974da0f"
+                },
+                "answerFeedback": {
+                    "1c5e156e-176b-4f8c-a429-4ff55974da0f": "\u003cp\u003eCorrect because the cost of the fiduciary call must equal the cost of the synthetic protective put, giving us what is referred to as put–call–forward parity.\u003c/p\u003e",
+                    "6a0f17ce-6411-470e-824a-8545087ba471": "\u003cp\u003eIncorrect because the cost of the fiduciary call must equal the cost of the synthetic protective put, giving us what is referred to as put–call–forward parity.\u003c/p\u003e",
+                    "c812c62e-d220-465f-9bf5-4842bff605d9": "\u003cp\u003eIncorrect because the cost of the fiduciary call must equal the cost of the synthetic protective put, giving us what is referred to as put–call–forward parity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c812c62e-d220-465f-9bf5-4842bff605d9",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eless than the cost of a synthetic protective put.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1c5e156e-176b-4f8c-a429-4ff55974da0f",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eequal to the cost of a synthetic protective put.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6a0f17ce-6411-470e-824a-8545087ba471",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003egreater than the cost of a synthetic protective put.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4743,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56318",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Derivs-Lamba-08",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"line-height:normal\"\u003eBased on put-call parity, the payoff on a short underlying position is equivalent to the payoff on a portfolio consisting of a:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b3b00d47-fac0-4e34-af00-7fa83950d9dc"
+                },
+                "answerFeedback": {
+                    "6e0a4663-7abf-4964-a519-fd5849e3abea": "\u003cp\u003e\u003cspan style=\"background:white\"\u003e\u003cspan style=\"line-height:normal\"\u003e\u003cspan style=\"vertical-align:baseline\"\u003e\u003cspan lang=\"EN-US\"\u003eIncorrect\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"line-height:normal\"\u003e\u003cspan style=\"vertical-align:baseline\"\u003ebecause the put-call parity relationship implies that a long underlying can be mimicked as follows: \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e = \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e – \u003ci\u003ep\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e + \u003ci\u003eX\u003c/i\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e. This implies that a short underlying position is equivalent to: –\u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e = –\u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e + \u003ci\u003ep\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e – \u003ci\u003eX\u003c/i\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e, that is, a short (not long) call, a long (not short) put, and a short bond.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "77a128dc-2751-4752-a5a3-411e1f18dd56": "\u003cp\u003e\u003cspan style=\"background:white\"\u003e\u003cspan style=\"line-height:normal\"\u003e\u003cspan style=\"vertical-align:baseline\"\u003e\u003cspan lang=\"EN-US\"\u003eIncorrect\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"line-height:normal\"\u003e\u003cspan style=\"vertical-align:baseline\"\u003ebecause the put-call parity relationship implies that a long underlying can be mimicked as follows: \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e = \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e – \u003ci\u003ep\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e + \u003ci\u003eX\u003c/i\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e. This implies that a short underlying position is equivalent to: –\u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e = –\u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e + \u003ci\u003ep\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e – \u003ci\u003eX\u003c/i\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e, that is, a short call, a long put, and a short (not long) bond.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "b3b00d47-fac0-4e34-af00-7fa83950d9dc": "\u003cp\u003e\u003cspan style=\"line-height:normal\"\u003e\u003cspan style=\"vertical-align:baseline\"\u003eCorrect because the put-call parity relationship implies that a long underlying can be mimicked as follows: \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e = \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e – \u003ci\u003ep\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e + \u003ci\u003eX\u003c/i\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e. This implies that a short underlying position is equivalent to: –\u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e = –\u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e + \u003ci\u003ep\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e – \u003ci\u003eX\u003c/i\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e, that is, a short call, a long put, and a short bond. \u003c/span\u003e\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "77a128dc-2751-4752-a5a3-411e1f18dd56",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"line-height:normal\"\u003e\u003cspan style=\"vertical-align:top\"\u003eshort call, a long put, and a long bond.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b3b00d47-fac0-4e34-af00-7fa83950d9dc",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"line-height:normal\"\u003e\u003cspan style=\"vertical-align:baseline\"\u003eshort call, a long put, and a short bond.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6e0a4663-7abf-4964-a519-fd5849e3abea",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"line-height:normal\"\u003e\u003cspan style=\"vertical-align:top\"\u003elong call, a short put, and a short bond.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4743,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56319",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Derivs-Lamba-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"line-height:normal\"\u003e\u003cspan style=\"vertical-align:baseline\"\u003eAccording to put-call-forward parity, a trader can create a synthetic short position in a\u0026nbsp;risk-free bond by setting up a long position in a call option along with a:\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b6c80c4c-80f5-4497-b560-6f7311bd7047"
+                },
+                "answerFeedback": {
+                    "675419c1-0c0b-47cb-a1e5-d4ea5ce0a4e3": "\u003cp\u003eIncorrect because combining the synthetic asset with the put–call parity relationship—so, substituting the present value of F\u003csub\u003e0\u003c/sub\u003e(T) for S\u003csub\u003e0\u003c/sub\u003e —we have what is referred to as \u003cstrong\u003eput–call forward parity\u003c/strong\u003e:\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eF\u003csub\u003e0\u003c/sub\u003e(T)(1+r)\u003csup\u003e-T\u003c/sup\u003e + p\u003csub\u003e0\u003c/sub\u003e = c\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;+ X(1 + r)\u003csup\u003e-T\u0026nbsp;\u003c/sup\u003e,\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003ewhere F\u003csub\u003e0\u003c/sub\u003e(T)(1+r)\u003csup\u003e-T\u003c/sup\u003e s the present value of F\u003csub\u003e0\u003c/sub\u003e(T)\u0026nbsp;discounted at the risk-free rate,\u0026nbsp;p\u003csub\u003e0\u003c/sub\u003e is the price of the put option on the underlying at t=0,\u0026nbsp;c\u003csub\u003e0\u003c/sub\u003e is the price of the call option on the underlying at t=0, X(1 + r)\u003csup\u003e-T\u003c/sup\u003e\u0026nbsp;is a risk free bond that pays the amount of the exercise price X at t=T.\u003c/p\u003e\n\u003cp\u003eIn other words, under put–call parity, at t = 0 the price of the long underlying asset plus the long put must equal the price of the long call plus the risk-free asset.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eRearranging the formula yields:\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e-X(1 + r)\u003csup\u003e-T\u0026nbsp;\u003c/sup\u003e= c\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;- p\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;-\u0026nbsp;F\u003csub\u003e0\u003c/sub\u003e(T)(1+r)\u003csup\u003e-T\u003c/sup\u003e\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eIn other words, one can create a synthetic short position in a risk–free bond by going long a call, short a put, and short (not long) a forward contract.\u003c/p\u003e",
+                    "b6c80c4c-80f5-4497-b560-6f7311bd7047": "\u003cp\u003eCorrect because combining the synthetic asset with the put–call parity relationship—so, substituting the present value of F\u003csub\u003e0\u003c/sub\u003e(T) for S\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;—we have what is referred to as \u003cstrong\u003eput–call forward parity\u003c/strong\u003e:\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eF\u003csub\u003e0\u003c/sub\u003e(T)(1+r)\u003csup\u003e-T\u003c/sup\u003e + p\u003csub\u003e0\u003c/sub\u003e = c\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;+ X(1 + r)\u003csup\u003e-T\u0026nbsp;\u003c/sup\u003e,\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003ewhere F\u003csub\u003e0\u003c/sub\u003e(T)(1+r)\u003csup\u003e-T\u003c/sup\u003e s the present value of F\u003csub\u003e0\u003c/sub\u003e(T)\u0026nbsp;discounted at the risk-free rate,\u0026nbsp;p\u003csub\u003e0\u003c/sub\u003e is the price of the put option on the underlying at t=0,\u0026nbsp;c\u003csub\u003e0\u003c/sub\u003e is the price of the call option on the underlying at t=0, X(1 + r)\u003csup\u003e-T\u003c/sup\u003e\u0026nbsp;is a risk free bond that pays the amount of the exercise price X at t=T.\u003c/p\u003e\n\u003cp\u003eIn other words, under put–call parity, at t = 0 the price of the long underlying asset plus the long put must equal the price of the long call plus the risk-free asset.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eRearranging the formula yields:\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e-X(1 + r)\u003csup\u003e-T\u0026nbsp;\u003c/sup\u003e= c\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;- p\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;-\u0026nbsp;F\u003csub\u003e0\u003c/sub\u003e(T)(1+r)\u003csup\u003e-T\u003c/sup\u003e\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eIn other words, one\u0026nbsp;can create a synthetic short position in a\u0026nbsp;risk–free bond by\u0026nbsp;going\u0026nbsp;long a call, short a put, and short\u0026nbsp;a forward contract.\u003c/p\u003e",
+                    "b943f2d2-291c-4905-93ab-0facb180d0bc": "\u003cp\u003eIncorrect because combining the synthetic asset with the put–call Equation l parity relationship—so, substituting the present value of F\u003csub\u003e0\u003c/sub\u003e(T) for S\u003csub\u003e0\u003c/sub\u003e —we have what is referred to as \u003cstrong\u003eput–call forward parity\u003c/strong\u003e:\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eF\u003csub\u003e0\u003c/sub\u003e(T)(1+r)\u003csup\u003e-T\u003c/sup\u003e + p\u003csub\u003e0\u003c/sub\u003e = c\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;+ X(1 + r)\u003csup\u003e-T\u0026nbsp;\u003c/sup\u003e,\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003ewhere F\u003csub\u003e0\u003c/sub\u003e(T)(1+r)\u003csup\u003e-T\u003c/sup\u003e s the the present value of F\u003csub\u003e0\u003c/sub\u003e(T)\u0026nbsp;discounted at the risk-free rate,\u0026nbsp;p\u003csub\u003e0\u003c/sub\u003e is the price of the put option on the underlying at t=0,\u0026nbsp;c\u003csub\u003e0\u003c/sub\u003e is the price of the call option on the underlying at t=0, X(1 + r)\u003csup\u003e-T\u003c/sup\u003e\u0026nbsp;is a risk free bond that pays the amount of the exercise price X at t=T.\u003c/p\u003e\n\u003cp\u003eIn other words, under put–call parity, at t = 0 the price of the long underlying asset plus the long put must equal the price of the long call plus the risk-free asset.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eRearranging the formula yields:\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e-X(1 + r)\u003csup\u003e-T\u0026nbsp;\u003c/sup\u003e= c\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;- p\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;-\u0026nbsp;F\u003csub\u003e0\u003c/sub\u003e(T)(1+r)\u003csup\u003e-T\u003c/sup\u003e\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eIn other words, one can create a synthetic short position in a risk–free bond by going long a call, short (not long) a put, and short a forward contract.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b943f2d2-291c-4905-93ab-0facb180d0bc",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"line-height:normal\"\u003e\u003cspan style=\"vertical-align:baseline\"\u003eshort position in a forward contract and a long position in a put.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "675419c1-0c0b-47cb-a1e5-d4ea5ce0a4e3",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"line-height:normal\"\u003e\u003cspan style=\"vertical-align:baseline\"\u003elong position in a forward contract and a short position in a put.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b6c80c4c-80f5-4497-b560-6f7311bd7047",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"line-height:normal\"\u003e\u003cspan style=\"vertical-align:baseline\"\u003eshort position in a forward contract and a short position in a put.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4743,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56320",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Derivs-Lin-08",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAccording to put-call-forward parity, the payoff on a synthetic protective put is equivalent to the payoff on a portfolio consisting of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8466ae2c-a0ad-4eb1-b735-55a3a96f8eda"
+                },
+                "answerFeedback": {
+                    "32838ef7-7e0a-44bd-9a5c-1a6d2133e0c6": "\u003cp\u003eIncorrect because recall our put–call parity discussion and assume that Investor A creates his protective put in a slightly different manner. Instead of buying the asset, he buys a forward contract and a risk-free bond in which the face value is the forward price. This strategy is a synthetic protective put. Because we showed that the fiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent to a protective put with a forward contract.\u0026nbsp;Therefore, the payoff on a\u0026nbsp;synthetic protective put is not equal to the payoff on a portfolio consisting of a long call, a short forward contract and a long risk-free bond.\u003c/p\u003e",
+                    "8466ae2c-a0ad-4eb1-b735-55a3a96f8eda": "\u003cp\u003eCorrect because recall our put–call parity discussion and assume that Investor A creates his protective put in a slightly different manner. Instead of buying the asset, he buys a forward contract and a risk-free bond in which the face value is the forward price. This strategy is a synthetic protective put. Because we showed that the fiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent to a protective put with a forward contract.\u0026nbsp;Therefore, the payoff on a synthetic protective put = the payoff on a fiduciary call, synthetic protective put =\u0026nbsp;long risk-free bond + long forward contract + long put = long call + long\u0026nbsp;risk-free bond.\u003c/p\u003e",
+                    "c2ffab87-08b1-4c09-80ba-e6200bfd6573": "\u003cp\u003eIncorrect because recall our put–call parity discussion and assume that Investor A creates his protective put in a slightly different manner. Instead of buying the asset, he buys a forward contract and a risk-free bond in which the face value is the forward price. This strategy is a synthetic protective put. Because we showed that the fiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent to a protective put with a forward contract.\u0026nbsp;Therefore, the payoff on a\u0026nbsp;synthetic protective put is not equal to the payoff on a portfolio consisting of a long put, a short\u0026nbsp;forward contract and a short risk-free bond.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8466ae2c-a0ad-4eb1-b735-55a3a96f8eda",
+                            "itemBody": "\u003cp\u003eA. a long call and a long risk-free bond.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "32838ef7-7e0a-44bd-9a5c-1a6d2133e0c6",
+                            "itemBody": "\u003cp\u003eB. a long call, a short forward contract and a long risk-free bond.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c2ffab87-08b1-4c09-80ba-e6200bfd6573",
+                            "itemBody": "\u003cp\u003eC. a long put, a short forward contract and a short risk-free bond.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4743,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56321",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Derivs-Lin-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAccording to put-call parity, the payoff of a\u0026nbsp;long\u0026nbsp;risk-free bond\u0026nbsp;can be replicated synthetically\u0026nbsp;by going:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "39752d01-d8c7-47f1-a696-349aa405d8e6"
+                },
+                "answerFeedback": {
+                    "023fedb4-d1d6-45d6-b8cf-8611f3017d38": "\u003cp\u003eIncorrect because according to put-call parity, X/(1 + r)\u003csup\u003eT\u003c/sup\u003e\u0026nbsp;= S\u003csub\u003e0\u003c/sub\u003e +\u0026nbsp;p\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;–\u0026nbsp;c\u003csub\u003eo\u003c/sub\u003e, long bond = long asset, long put, short call. Therefore, the payoff of a long risk-free bond cannot be synthetically created by going long an asset, long a put and long a call.\u003c/p\u003e",
+                    "39752d01-d8c7-47f1-a696-349aa405d8e6": "\u003cp\u003eCorrect because according to put-call parity, X/(1 + r)\u003csup\u003eT\u003c/sup\u003e\u0026nbsp;= S\u003csub\u003e0\u003c/sub\u003e +\u0026nbsp;p\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;–\u0026nbsp;c\u003csub\u003eo\u003c/sub\u003e, long bond = long\u0026nbsp;asset, long\u0026nbsp;put, short\u0026nbsp;call. Therefore, the payoff of a long risk-free bond can\u0026nbsp;be synthetically created by going long an asset, long a put and short a call.\u003c/p\u003e",
+                    "851e5878-1402-4bb5-9f11-1dfaff957492": "\u003cp\u003eIncorrect because according to put-call parity, X/(1 + r)\u003csup\u003eT\u003c/sup\u003e\u0026nbsp;= S\u003csub\u003e0\u003c/sub\u003e +\u0026nbsp;p\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;–\u0026nbsp;c\u003csub\u003eo\u003c/sub\u003e, long bond = long asset, long put, short call.\u0026nbsp;Therefore, the payoff of a long risk-free bond cannot be synthetically created by going long an asset, short a put and short a call.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "023fedb4-d1d6-45d6-b8cf-8611f3017d38",
+                            "itemBody": "\u003cp\u003eA. long an asset, long a put and long a call.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "39752d01-d8c7-47f1-a696-349aa405d8e6",
+                            "itemBody": "\u003cp\u003eB. long an asset, long a put and short a call.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "851e5878-1402-4bb5-9f11-1dfaff957492",
+                            "itemBody": "\u003cp\u003eC. long an\u0026nbsp;asset, short a put and short a call.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4743,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56322",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Derivs-Agarwal-07",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA fiduciary call is a strategy in which a trader purchases a call option:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d273bbce-c24a-43a6-837e-6c76f1734705"
+                },
+                "answerFeedback": {
+                    "bf43d894-5215-4add-a20f-3e326426de5e": "\u003cp\u003eIncorrect because in a fiduciary call the investor,\u0026nbsp;buys a call option on this asset with an exercise price of X that expires at T and a risk-free zero-coupon bond with a face value of X that matures at T. This strategy is sometimes known as a fiduciary call.\u003c/p\u003e",
+                    "d273bbce-c24a-43a6-837e-6c76f1734705": "\u003cp\u003eCorrect because this combination of instruments is the precise definition of a fiduciary call.\u0026nbsp;At time 0, this investor buys a call option on this asset with an exercise price of X that expires at T and a risk-free zero-coupon bond with a face value of X that matures at T. This strategy is sometimes known as a fiduciary call.\u003c/p\u003e",
+                    "fcfddebc-8a37-4a3f-b876-919b414cc076": "\u003cp\u003eIncorrect because in a fiduciary call the investor,\u0026nbsp;buys a call option on this asset with an exercise price of X that expires at T and a risk-free zero-coupon bond with a face value of X that matures at T. This strategy is sometimes known as a fiduciary call.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fcfddebc-8a37-4a3f-b876-919b414cc076",
+                            "itemBody": "\u003cp\u003eA. and takes a short position in the underlying asset.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "bf43d894-5215-4add-a20f-3e326426de5e",
+                            "itemBody": "\u003cp\u003eB. with funds received from selling short a zero coupon bond of the same maturity as the call option.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d273bbce-c24a-43a6-837e-6c76f1734705",
+                            "itemBody": "\u003cp\u003eC. along with a zero coupon bond of the same maturity as the call option and with a face value equal to the exercise price of the option.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4743,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56323",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Derivs-Agarwal-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost \u003c/i\u003eaccurate? Put-call-forward parity:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f1bb8268-5dd1-4f33-b77d-74cc08b1435d"
+                },
+                "answerFeedback": {
+                    "555106f2-745a-4d5f-9752-e8d2ee5bf45a": "\u003cp\u003eIncorrect because the put-call-forward parity equation is valid for all strikes. P\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;- C\u003csub\u003eo\u003c/sub\u003e\u0026nbsp;= [X - F\u003csub\u003e0\u003c/sub\u003e(T)]/(1 + r)\u003csup\u003eT\u003c/sup\u003e\u0026nbsp;X is the strike and can take any value.\u003c/p\u003e",
+                    "ed9c55cb-d36d-43ae-93b3-2b71ff2588a0": "\u003cp\u003eIncorrect because the put-call-forward parity equation is formed by comparing the maturity payoffs of synthetic protective put and a fiduciary call. Because we showed that the fiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent to a protective put with a forward contract. It follows that the cost of the fiduciary call must equal the cost of the synthetic protective put, giving us what is referred to as put–call–forward parity.\u003c/p\u003e",
+                    "f1bb8268-5dd1-4f33-b77d-74cc08b1435d": "\u003cp\u003eCorrect because the put-call-forward parity equation is formed by comparing the maturity payoffs of synthetic protective put and a fiduciary call. It follows that maturity of all the components have to be the same. Because we showed that the fiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent to a protective put with a forward contract. It follows that the cost of the fiduciary call must equal the cost of the synthetic protective put, giving us what is referred to as put–call–forward parity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "555106f2-745a-4d5f-9752-e8d2ee5bf45a",
+                            "itemBody": "\u003cp\u003eA. assumes that the strike of the\u0026nbsp;options is equal to the forward price of the underlying.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ed9c55cb-d36d-43ae-93b3-2b71ff2588a0",
+                            "itemBody": "\u003cp\u003eB. is derived by equating the price of an at the money put to the price of\u0026nbsp;an at the money call.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f1bb8268-5dd1-4f33-b77d-74cc08b1435d",
+                            "itemBody": "\u003cp\u003eC. assumes that the maturity of the put option, the call option, the forward and the bond are the same.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4743,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56324",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Derivs-Jin-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll else being equal, based on put-call–forward parity, the price of a\u0026nbsp;put is\u0026nbsp;higher than the price of a\u0026nbsp;call\u0026nbsp;when:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7c5af629-bbdc-49e8-9ad9-35112dbdc370"
+                },
+                "answerFeedback": {
+                    "24755bc7-43e7-468f-aac3-832f1d70b41f": "\u003cp\u003e\u003cspan style=\"font-size:10pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;맑은 고딕\u0026quot;\"\u003e\u003cspan lang=\"EN-US\" style=\"font-size:12.0pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;Arial\u0026quot;,sans-serif\"\u003eIncorrect because, according to put–call–forward parity, \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003ethe price of a\u0026nbsp;put is\u0026nbsp;higher than the price of a\u0026nbsp;call\u0026nbsp;when\u0026nbsp;\u003cspan style=\"font-size:10pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;맑은 고딕\u0026quot;\"\u003e\u003cspan lang=\"EN-US\" style=\"font-size:12.0pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;Arial\u0026quot;,sans-serif\"\u003ewhen the forward price is lower, not equal to, than the exercise price. The put–call–forward parity is presented as: p0 - c0 = [X – F0(T)]/(1 + r)\u003csup\u003eT\u003c/sup\u003e.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "7c5af629-bbdc-49e8-9ad9-35112dbdc370": "\u003cp\u003e\u003cspan style=\"font-size:10pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;맑은 고딕\u0026quot;\"\u003e\u003cspan lang=\"EN-US\" style=\"font-size:12.0pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;Arial\u0026quot;,sans-serif\"\u003eCorrect because\u0026nbsp;it follows that the cost of the fiduciary call must equal the cost of the synthetic protective put, giving us what is referred to as put–call–forward parity, F0(T)/(1 + r)\u003csup\u003eT\u003c/sup\u003e + p0 = c0 + X/(1 + r)\u003csup\u003eT\u003c/sup\u003e. Rearranging this equation results in:\u0026nbsp;p0 - c0 = [X – F0(T)]/(1 + r)\u003csup\u003eT\u003c/sup\u003e.\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan lang=\"EN-US\" style=\"font-size:12.0pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;Arial\u0026quot;,sans-serif\"\u003eBased on this\u0026nbsp;parity equation, p0 \u0026gt; c0 when X \u0026gt; F0(T).\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "a4c1a714-bd3a-4891-b24a-956f20fb5354": "\u003cp\u003e\u003cspan style=\"font-size:10pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;맑은 고딕\u0026quot;\"\u003e\u003cspan lang=\"EN-US\" style=\"font-size:12.0pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;Arial\u0026quot;,sans-serif\"\u003eIncorrect because, according to put–call–forward parity,\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003ethe price of a\u0026nbsp;put is\u0026nbsp;higher than the price of a\u0026nbsp;call\u0026nbsp;when\u0026nbsp;\u003cspan style=\"font-size:10pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;맑은 고딕\u0026quot;\"\u003e\u003cspan lang=\"EN-US\" style=\"font-size:12.0pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;Arial\u0026quot;,sans-serif\"\u003ethe forward price is lower, not higher, than the exercise price. The put–call–forward parity is presented as: p0 - c0 = [X – F0(T)]/(1 + r)\u003csup\u003eT\u003c/sup\u003e.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7c5af629-bbdc-49e8-9ad9-35112dbdc370",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-size:10pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;맑은 고딕\u0026quot;\"\u003e\u003cspan lang=\"EN-US\" style=\"font-size:12.0pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;Arial\u0026quot;,sans-serif\"\u003ethe forward price of the underlying is lower than the exercise price.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "24755bc7-43e7-468f-aac3-832f1d70b41f",
+                            "itemBody": "\u003cp\u003eB. \u003cspan lang=\"EN-US\" style=\"font-size:12.0pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;Arial\u0026quot;,sans-serif\"\u003ethe forward price of the underlying is equal to the exercise price.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a4c1a714-bd3a-4891-b24a-956f20fb5354",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-size:10pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;맑은 고딕\u0026quot;\"\u003e\u003cspan lang=\"EN-US\" style=\"font-size:12.0pt\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;Arial\u0026quot;,sans-serif\"\u003ethe forward price of the underlying is higher than the exercise price. \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4743,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56325",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Derivs-Lee-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003eAn analyst gathers the following information: \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:192px\"\u003e\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:123px; max-width:123px\"\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003ePut price\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width:60px; max-width:60px; text-align:center\"\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e$120\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:123px; max-width:123px\"\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003eForward price\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width:60px; max-width:60px; text-align:center\"\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e$110\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:123px; max-width:123px\"\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003eExercise price\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width:60px; max-width:60px; text-align:center\"\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e$100\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:123px; max-width:123px\"\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003eInterest rate\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width:60px; max-width:60px; text-align:center\"\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e2%\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width:123px; max-width:123px\"\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003eTime to expiry\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"width:60px; max-width:60px; text-align:center\"\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e1 year\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\u003c/table\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003eAccording to put-call-forward parity, the price of the call is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ecf2187c-f0b5-41c4-b269-8e3adc55c5ec"
+                },
+                "answerFeedback": {
+                    "55657d88-0b26-4b65-a4e7-2fbf016bf883": "\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003eIncorrect because the cost of the fiduciary call must equal the cost of the synthetic protective put, giving us what is referred to as\u0026nbsp;\u003cb\u003eput–call–forward parity\u003c/b\u003e,\u0026nbsp;\u003ci\u003e\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003eF\u003csub\u003e0\u003c/sub\u003e(T)/\u0026nbsp;\u003c/span\u003e\u003cspan style=\"top:1pt\"\u003e(1+r)\u003c/span\u003e\u003c/span\u003e\u003csup\u003eT\u003c/sup\u003e\u0026nbsp; + p\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003e\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan style=\"top:1pt\"\u003e\u0026nbsp;=\u0026nbsp;\u003c/span\u003e\u003cspan style=\"top:-1pt\"\u003ec\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003cspan style=\"top:1pt\"\u003e\u0026nbsp;+ X / (1+r)\u003c/span\u003e\u003c/span\u003e\u003csup\u003eT\u003c/sup\u003e\u0026nbsp; \u003cspan class=\"ice-cts-1 ice-del\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/i\u003eIn this response,\u0026nbsp;\u003ci\u003e\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003eF\u003csub\u003e0\u003c/sub\u003e(T)\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u0026nbsp;was not divided by (\u003ci\u003e1+r)\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e.\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003eHere \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:-1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003eF\u003c/span\u003e\u003csub class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e0\u003c/span\u003e\u003c/sub\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e(T) \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003eis the\u0026nbsp;forward price at expiration\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:-1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e, \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003eX \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003eis the strike price and\u0026nbsp;\u003ci\u003er \u003c/i\u003eis the interest rate\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e, \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003ep\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:-1pt\"\u003e\u003csub class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e0\u003c/span\u003e\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e is the put premium and \u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:-1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003ec\u003c/span\u003e\u003csub class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e0\u003c/span\u003e\u003c/sub\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003eis the call premium\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003ci class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003eF\u003csub\u003e0\u003c/sub\u003e(T)\u003c/span\u003e\u003c/span\u003e\u0026nbsp;\u0026nbsp;+ p\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003e\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan style=\"top:1pt\"\u003e\u0026nbsp;=\u0026nbsp;\u003c/span\u003e\u003cspan style=\"top:-1pt\"\u003ec\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan style=\"top:1pt\"\u003e\u0026nbsp;+ X / (1+r)\u003c/span\u003e\u003c/span\u003e\u003csup\u003eT\u003c/sup\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e110 + 120 =\u0026nbsp;\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003ec\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u0026nbsp;+ 100 / 1.02\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e110 + 120 - 100 / 1.02 =\u0026nbsp;\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003ec\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003ec\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003e\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u0026nbsp;= 131.9608\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u0026nbsp;= 131.96\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "d070d66d-24bd-4b85-8dc8-5144cacca2bd": "\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003eIncorrect because the cost of the fiduciary call must equal the cost of the synthetic protective put, giving us what is referred to as\u0026nbsp;\u003cb\u003eput–call–forward parity\u003c/b\u003e,\u0026nbsp;\u003ci\u003e\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003eF\u003csub\u003e0\u003c/sub\u003e(T)/\u0026nbsp;\u003c/span\u003e\u003cspan style=\"top:1pt\"\u003e(1+r)\u003c/span\u003e\u003c/span\u003e\u003csup\u003eT\u003c/sup\u003e\u0026nbsp; + p\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003e\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan style=\"top:1pt\"\u003e\u0026nbsp;=\u0026nbsp;\u003c/span\u003e\u003cspan style=\"top:-1pt\"\u003ec\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003cspan style=\"top:1pt\"\u003e\u0026nbsp;+ X / (1+r)\u003c/span\u003e\u003c/span\u003e\u003csup\u003eT\u003c/sup\u003e\u0026nbsp; \u0026nbsp;\u003c/i\u003eIn this response, \u003ci\u003eX\u003c/i\u003e was not divided by \u003ci\u003e(1+r)\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e.\u003cspan class=\"ice-cts-1 ice-ins\"\u003e Here \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:-1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003eF\u003c/span\u003e\u003csub class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e0\u003c/span\u003e\u003c/sub\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e(T) \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003eis the\u0026nbsp;forward price at expiration\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:-1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e, \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003eX \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003eis the strike price and\u0026nbsp;\u003ci\u003er \u003c/i\u003eis the interest rate\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e, \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003ep\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:-1pt\"\u003e\u003csub class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e0\u003c/span\u003e\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e is the put premium and \u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:-1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003ec\u003c/span\u003e\u003csub class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e0\u003c/span\u003e\u003c/sub\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003eis the call premium\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e. \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003eF\u003csub\u003e0\u003c/sub\u003e(T)/\u0026nbsp;\u003c/span\u003e\u003cspan style=\"top:1pt\"\u003e(1+r)\u003c/span\u003e\u003c/span\u003e\u003csup\u003eT\u003c/sup\u003e\u0026nbsp; + p\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003e\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan style=\"top:1pt\"\u003e\u0026nbsp;=\u0026nbsp;\u003c/span\u003e\u003cspan style=\"top:-1pt\"\u003ec\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003cspan style=\"top:1pt\"\u003e\u0026nbsp;+ X \u003c/span\u003e\u003c/span\u003e\u0026nbsp; \u0026nbsp; \u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e110/1.02 + 120 =\u0026nbsp;\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003ec\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u0026nbsp;+ 100\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e110/1.02 + 120 - 100 =\u0026nbsp;\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003ec\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003ec\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u0026nbsp;=\u0026nbsp;127.843137\u0026nbsp;=\u0026nbsp;127.84\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "ecf2187c-f0b5-41c4-b269-8e3adc55c5ec": "\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003eCorrect because the cost of the fiduciary call must equal the cost of the synthetic protective put, giving us what is referred to as\u0026nbsp;\u003cb\u003eput–call–forward parity\u003c/b\u003e,\u0026nbsp;\u003ci\u003e\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003eF\u003csub\u003e0\u003c/sub\u003e(T)/\u0026nbsp;\u003c/span\u003e\u003cspan style=\"top:1pt\"\u003e(1+r)\u003c/span\u003e\u003c/span\u003e\u003csup\u003eT\u003c/sup\u003e\u0026nbsp; + p\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003e\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan style=\"top:1pt\"\u003e\u0026nbsp;=\u0026nbsp;\u003c/span\u003e\u003cspan style=\"top:-1pt\"\u003ec\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003cspan style=\"top:1pt\"\u003e\u0026nbsp;+ X / (1+r)\u003c/span\u003e\u003c/span\u003e\u003csup\u003eT\u003c/sup\u003e\u0026nbsp; \u0026nbsp; \u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003eHere \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:-1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003eF\u003c/span\u003e\u003csub class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e0\u003c/span\u003e\u003c/sub\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e(T) \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003eis the\u0026nbsp;forward price at expiration\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:-1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e, \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003eX \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003eis the strike price and\u0026nbsp;\u003ci\u003er \u003c/i\u003eis the interest rate\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e, \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003ep\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:-1pt\"\u003e\u003csub class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e0\u003c/span\u003e\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e is the put premium and \u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:-1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003ec\u003c/span\u003e\u003csub class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e0\u003c/span\u003e\u003c/sub\u003e\u003c/span\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003eis the call premium\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-style:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"font-weight:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"letter-spacing:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-transform:none\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"white-space:normal\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"word-spacing:0px\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"text-decoration:none\"\u003e\u003ci class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins flite-container-only\" style=\"top:1pt\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003ci class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration ice-cts-1 ice-ins flite-container-only\"\u003e\u003cspan class=\"ice-cts-1 ice-ins\"\u003e \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003eF\u003csub\u003e0\u003c/sub\u003e(T)/\u0026nbsp;\u003c/span\u003e\u003cspan style=\"top:1pt\"\u003e(1+r)\u003c/span\u003e\u003c/span\u003e\u003csup\u003eT\u003c/sup\u003e\u0026nbsp; + p\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003e\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan style=\"top:1pt\"\u003e\u0026nbsp;=\u0026nbsp;\u003c/span\u003e\u003cspan style=\"top:-1pt\"\u003ec\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan style=\"top:1pt\"\u003e\u0026nbsp;+ X / (1+r)\u003c/span\u003e\u003c/span\u003eT\u003csup\u003eT\u003c/sup\u003e\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e110/1.02 + 120 =\u0026nbsp;\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003ec\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u0026nbsp;+ 100 / 1.02\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e110/1.02 + 120 - 100 / 1.02 =\u0026nbsp;\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003ec\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003ec\u003cspan\u003e\u003cspan style=\"top:-1pt\"\u003e\u003csub\u003e0\u003c/sub\u003e\u003c/span\u003e\u003c/span\u003e\u0026nbsp;=\u0026nbsp;129.803922\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e=\u0026nbsp;129.80\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/i\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d070d66d-24bd-4b85-8dc8-5144cacca2bd",
+                            "itemBody": "\u003cp\u003eA. $\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e127.84.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ecf2187c-f0b5-41c4-b269-8e3adc55c5ec",
+                            "itemBody": "\u003cp\u003eB. $\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e129.80.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "55657d88-0b26-4b65-a4e7-2fbf016bf883",
+                            "itemBody": "\u003cp\u003eC. $\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003e131.96.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4743,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56326",
+            "entry": {
+                "title": "ITEM_CFA-L1-09950",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eAccording to put–call parity, a long put option is equivalent to being:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0abf250b-75af-4244-b83e-c563af4f2aed"
+                },
+                "answerFeedback": {
+                    "0abf250b-75af-4244-b83e-c563af4f2aed": "\u003cp\u003eCorrect because the formula for put–call parity is \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e + \u003ci\u003ep\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e = \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e + \u003ci\u003eX\u003c/i\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e,\u0026nbsp;where \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e is the stock price at time zero, \u003ci\u003ep\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e is the price of a put option at time zero, \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e is the price of a call option at time zero, \u003ci\u003eX\u003c/i\u003e is the strike price, \u003ci\u003er\u003c/i\u003e is the risk-free rate, and \u003ci\u003eT\u003c/i\u003e is time. By using the symbols and the signs in these versions of put–call parity, we can see several important interpretations. In the equations below, plus signs mean long and minus signs mean short: \u003ci\u003ep\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e = \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e − \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e + \u003ci\u003eX\u003c/i\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e ⇒ long put = long call, short asset, long bond.\u003c/p\u003e",
+                    "68ac15d8-8738-42a9-ac2a-14dcd2d1854c": "\u003cp\u003eIncorrect because a long put option is not equivalent to being long a call, long the underlying asset, and short a risk-free bond. By using the symbols and the signs in these versions of put–call parity, we can see several important interpretations. In the equations below, plus signs mean long and minus signs mean short: \u003ci\u003ep\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e = \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e − \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e + \u003ci\u003eX\u003c/i\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e ⇒ long put = long call, short asset, long bond.\u003c/p\u003e",
+                    "846b5e1d-6487-420b-9318-c37123b529da": "\u003cp\u003eIncorrect because a long put option is not equivalent to being short a call, long the underlying asset, and long a risk-free bond. By using the symbols and the signs in these versions of put–call parity, we can see several important interpretations. In the equations below, plus signs mean long and minus signs mean short: \u003ci\u003ep\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e = \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e − \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e + \u003ci\u003eX\u003c/i\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e ⇒ long put = long call, short asset, long bond.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0abf250b-75af-4244-b83e-c563af4f2aed",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003elong a call, short the underlying asset, and long a risk-free bond.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "68ac15d8-8738-42a9-ac2a-14dcd2d1854c",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003elong a call, long the underlying asset, and short a risk-free bond.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "846b5e1d-6487-420b-9318-c37123b529da",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eshort a call, long the underlying asset, and long a risk-free bond.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8985,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4743,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51108",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n               \u003cstrong\u003eSouth China Sprintwyck Investments (SCSI)\u003c/strong\u003e\n            \u003c/p\u003e\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSouth China Sprintwyck Investments (SCSI) has a Chinese equity portfolio that has outperformed in the first half of the year due to an overweight position in health care industry shares. SCSI is considering option-based alternatives for one of its current overweight positions, ChinaWell Inc. (CWI). CWI has a current price (\u003cem\u003eS\u003c/em\u003e\n               \u003csub\u003e0\u003c/sub\u003e) of CNY127.50 and pays no dividends. The current risk-free rate is 4%. You are a new SCSI analyst hired to evaluate several alternatives for CWI stock.\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8253,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4490,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51109",
+            "entry": {
+                "title": "CFA1008-s06-Q5",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. From Equation 1, the put–call parity relationship is\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA1008-s06-E-2-\"\u003e\n                  \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e + \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = \u003cem\u003ec\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e + \u003cem\u003eX\u003c/em\u003e(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e–\u003c/sup\u003e\n                  \u003cem\u003e\n                     \u003csup\u003eT\u003c/sup\u003e\n                  \u003c/em\u003e.\u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWe can rearrange these terms to solve for \u003cem\u003ec\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e: \u003cem\u003ec\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e + \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e – \u003cem\u003eX\u003c/em\u003e(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e–\u003c/sup\u003e\n                  \u003cem\u003e\n                     \u003csup\u003eT\u003c/sup\u003e\n                  \u003c/em\u003e, which shows that the call price may be derived by \u003cem\u003eadding\u003c/em\u003e the traded put price to the underlying price less the present value of the exercise price.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSCSI is considering the sale of a three-month call on CWI shares. If you observe a traded put price with the same underlying details, which of the following statements best describes how to derive the no-arbitrage call price?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b3f3c5d2-b17f-4bea-92a2-bf0821f15a5b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f6d32e9b-0e98-4722-811c-a2bdb8e091c5",
+                            "itemBody": "A. Using put–call parity, the call price may be derived by subtracting the traded put price from the underlying price less the present value of the exercise price.",
+                            "position": 1
+                        },
+                        {
+                            "id": "b3f3c5d2-b17f-4bea-92a2-bf0821f15a5b",
+                            "itemBody": "B. Using put–call parity, the call price may be derived by adding the traded put price to the underlying price less the present value of the exercise price.",
+                            "position": 2
+                        },
+                        {
+                            "id": "ef3c1b86-4ec5-46e0-9cbb-7aff5a2ac387",
+                            "itemBody": "C. Using put–call parity, the call price may be derived by adding the traded put price to the present value of the exercise price minus the underlying price.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8253,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4490,
+            "stimulusQuizEntryId": "51108"
+        },
+        {
+            "id": "51110",
+            "entry": {
+                "title": "CFA1008-s06-Q6",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. If \u003cem\u003ec\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = CNY22.60, \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = CNY127.50, and PV(\u003cem\u003eX\u003c/em\u003e) = CNY117.67 (= 120(1.04)\u003csup\u003e–0.5\u003c/sup\u003e), we can solve for \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e using put–call parity:\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA1008-s06-E-2-___1\"\u003e\n                  \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e + \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = \u003cem\u003ec\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e + \u003cem\u003eX\u003c/em\u003e(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e–\u003c/sup\u003e\n                  \u003cem\u003e\n                     \u003csup\u003eT\u003c/sup\u003e\n                  \u003c/em\u003e.\u003c/div\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA1008-s06-E-2-___2\"\u003e\n                  \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = \u003cem\u003ec\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e + \u003cem\u003eX\u003c/em\u003e(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e–\u003c/sup\u003e\n                  \u003cem\u003e\n                     \u003csup\u003eT\u003c/sup\u003e\n                  \u003c/em\u003e – \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e.\u003c/div\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA1008-s06-E-2-127.50\"\u003eCNY12.77 = 22.60 + 117.67 – 127.50.\u003c/div\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDue to the recent sharp rise in CWI’s share price, SCSI is recommending that clients consider protective put strategies for three- to six-month tenors. If you observe that a six-month CWI call option at an exercise price of CNY120 is trading at a price of CNY22.60, which answer is closest to what you would expect to pay for a six-month put option with the same underlying terms?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5f7fdfe4-2b0b-4f9f-b5a4-86182ed4a92f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6d2f8ef5-fa67-4f95-b519-f7b2c085ec82",
+                            "itemBody": "A. CNY15.10",
+                            "position": 1
+                        },
+                        {
+                            "id": "7c187da6-f1a5-4334-8d5a-8cffab08c787",
+                            "itemBody": "B. CNY9.83",
+                            "position": 2
+                        },
+                        {
+                            "id": "5f7fdfe4-2b0b-4f9f-b5a4-86182ed4a92f",
+                            "itemBody": "C. CNY12.77",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8253,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4490,
+            "stimulusQuizEntryId": "51108"
+        },
+        {
+            "id": "51111",
+            "entry": {
+                "title": "CFA1008-s06-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. Since the put option is overpriced, we would sell it to earn the difference between the price at which it is sold and the no-arbitrage price. The put–call parity relationship, from Equation 1, is\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA1008-s06-E-2-___3\"\u003e\n                  \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e + \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = \u003cem\u003ec\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e + \u003cem\u003eX\u003c/em\u003e(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e–\u003c/sup\u003e\n                  \u003cem\u003e\n                     \u003csup\u003eT\u003c/sup\u003e\n                  \u003c/em\u003e.\u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWe can rearrange this to demonstrate that the put option value is equivalent to a long call option, a long risk-free bond, and a short position in CWI shares:\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA1008-s06-E-2-___4\"\u003e\n                  \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = \u003cem\u003ec\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e + \u003cem\u003eX\u003c/em\u003e(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e–\u003c/sup\u003e\n                  \u003cem\u003e\n                     \u003csup\u003eT\u003c/sup\u003e\n                  \u003c/em\u003e – \u003cem\u003eS\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e.\u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAnswer A reflects this long risk-free bond and short CWI combination, which has a payoff of \u003cem\u003eX\u003c/em\u003e – \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\n                  \u003c/em\u003e at expiration matching that of the put payoff, whereas Answer B involves a long cash position in CWI and Answer C involves a long synthetic (forward purchase) position in CWI stock.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eYou realize that the six-month put option on CWI shares is overpriced relative to the no-arbitrage price from Question 2. Which of the following statements best describes the steps you would take to earn a riskless arbitrage profit under this scenario?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "79747c82-6644-46fe-afaf-f64843c86bb5"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "79747c82-6644-46fe-afaf-f64843c86bb5",
+                            "itemBody": "A. Sell the six-month put option and sell CWI short, investing the proceeds in a call option and a risk-free bond.",
+                            "position": 1
+                        },
+                        {
+                            "id": "c9f14dc9-246a-4e46-bce7-1fa0e4880eee",
+                            "itemBody": "B. Sell the six-month put option, buy a call option, and borrow at the risk-free rate to buy CWI shares.",
+                            "position": 2
+                        },
+                        {
+                            "id": "84addc69-f620-4a83-9562-c075a45e2f58",
+                            "itemBody": "C. Sell the six-month put option, buy a call option, enter a forward purchase of CWI, and invest in a risk-free bond.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8253,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4490,
+            "stimulusQuizEntryId": "51108"
+        },
+        {
+            "id": "51112",
+            "entry": {
+                "title": "CFA1008-s06-Q8",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. The debtholder payoff has deteriorated versus the shareholders, because they are effectively short a put option on the value of the firm equal to the value of debt, which has appreciated in value.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe debtholder payoff is min(\u003cem\u003eD\u003c/em\u003e, \u003cem\u003eV\u003csub\u003eT\u003c/sub\u003e\n                  \u003c/em\u003e) = \u003cem\u003eD\u003c/em\u003e – max(0, \u003cem\u003eD\u003c/em\u003e – \u003cem\u003eV\u003csub\u003eT\u003c/sub\u003e\n                  \u003c/em\u003e) and equals the debt face value (\u003cem\u003eD\u003c/em\u003e) \u003cem\u003eminus\u003c/em\u003e a put option on firm value (\u003cem\u003eV\u003csub\u003eT\u003c/sub\u003e\n                  \u003c/em\u003e) with an exercise price of \u003cem\u003eD\u003c/em\u003e. Answer A is incorrect because the debtholders, not the shareholders, have sold a put option. C is incorrect, because the shareholders own a call option, but it is not sold by the debtholders.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn her most recent research note on CWI, SCSI’s equity analyst specifically mentions an increase in CWI’s leverage ratio as a reason for her bearish outlook on the stock. Applying the put–call parity relationship to the value of the firm, which of the following statements most accurately describes the CWI outlook in terms of option pricing?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4c642d33-ac41-4f4d-ba00-6407a6f302de"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "07b08e67-2dd0-4b67-b536-8d6dd4c6dcca",
+                            "itemBody": "A. The shareholder payoff has improved versus debtholders, because they have sold a put option on the firm value that has appreciated.",
+                            "position": 1
+                        },
+                        {
+                            "id": "4c642d33-ac41-4f4d-ba00-6407a6f302de",
+                            "itemBody": "B. The debtholder payoff has deteriorated versus the shareholders, because they are effectively short a put option on the value of the firm equal to the value of debt, which has appreciated in value.",
+                            "position": 2
+                        },
+                        {
+                            "id": "984da6f0-e3b4-405a-a444-390eebe97350",
+                            "itemBody": "C. The shareholder payoff has improved versus the debtholders, because the debtholders have sold a call option on the firm’s assets to the shareholders.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8253,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4490,
+            "stimulusQuizEntryId": "51108"
+        },
+        {
+            "id": "51113",
+            "entry": {
+                "title": "CFA1008-s06-Q9",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Using the put–call forward parity equation as follows:\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n                  \u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e)(1 +\n                     \u003cem\u003er\u003c/em\u003e)\u003csup\u003e–\u003cem\u003eT\u003c/em\u003e\n                  \u003c/sup\u003e +\n                     \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = \u003cem\u003ec\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e +\n                     \u003cem\u003eX\u003c/em\u003e(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e–\u003cem\u003eT\u003c/em\u003e\n                  \u003c/sup\u003e\n               \u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAnd rearranging to solve for the risk-free bond gives the following:\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n                  \u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e)(1 +\n                     \u003cem\u003er\u003c/em\u003e)\u003csup\u003e–\u003cem\u003eT\u003c/em\u003e\n                  \u003c/sup\u003e +\n                     \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e – \u003cem\u003ec\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e =\n                     \u003cem\u003eX\u003c/em\u003e(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e–\u003cem\u003eT\u003c/em\u003e\n                  \u003c/sup\u003e.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe signs on the forward contract and put option positions are both positive, indicating long positions. The negative sign on the call option indicates a short position.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following choices best describes how SCSI could replicate a long risk-free bond return using a forward contract on CWI and call and put options on CWI?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "105e5990-f91a-4e66-b8eb-146b36447598"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4c3b3757-d5ba-46a7-a98f-6b28b09e5309",
+                            "itemBody": "A. Short a forward contract on CWI, short a put option on CWI, and long a call option on CWI",
+                            "position": 1
+                        },
+                        {
+                            "id": "105e5990-f91a-4e66-b8eb-146b36447598",
+                            "itemBody": "B. Long a forward contract on CWI, long a put option on CWI, and short a call option on CWI",
+                            "position": 2
+                        },
+                        {
+                            "id": "b4103807-5401-47aa-a733-f2405379d057",
+                            "itemBody": "C. Long a forward contract on CWI, long a put option on CWI, and long a call option on CWI",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8253,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4490,
+            "stimulusQuizEntryId": "51108"
+        },
+        {
+            "id": "51114",
+            "entry": {
+                "title": "CFA1008-s06-Q10",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The solution can be derived through either put–call parity or put–call forward parity. You can demonstrate the solution using put–call forward parity:\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n                  \u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e)(1 +\n                     \u003cem\u003er\u003c/em\u003e)\u003csup\u003e–\u003cem\u003eT\u003c/em\u003e\n                  \u003c/sup\u003e +\n                     \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = \u003cem\u003ec\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e +\n                     \u003cem\u003eX\u003c/em\u003e(1 + \u003cem\u003er\u003c/em\u003e)\u003csup\u003e–\u003cem\u003eT\u003c/em\u003e\n                  \u003c/sup\u003e\n               \u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e128.76(1.04)\u003csup\u003e–0.25\u003c/sup\u003e + \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = 3 +\n                     130(1.04)\u003csup\u003e–0.25\u003c/sup\u003e\n               \u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e127.50 + \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = 131.73\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n                  \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e = 4.23.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSCSI observes that a 3-month call option on CWI with an exercise price of CNY 130 trades at a premium of CNY 3. A 3-month forward contract on CWI trades at a forward price of CNY 128.76. Which of the following choices is closest to the correct premium for a 3-month put option with an exercise price of CNY 130 on CWI?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2cabbfbd-7599-44e4-8dbd-65f9f8b2b553"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2cabbfbd-7599-44e4-8dbd-65f9f8b2b553",
+                            "itemBody": "A. CNY 4.20",
+                            "position": 1
+                        },
+                        {
+                            "id": "48109cdb-ac7e-4439-a78a-9c20107ee6b0",
+                            "itemBody": "B. CNY 1.20",
+                            "position": 2
+                        },
+                        {
+                            "id": "a1e52973-5ad3-47c8-9686-462024a11bf7",
+                            "itemBody": "C. CNY 0.50",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8253,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4490,
+            "stimulusQuizEntryId": "51108"
+        },
+        {
+            "id": "54225",
+            "entry": {
+                "title": "ITEM_20170601009",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAccording to put–call parity, if a fiduciary call expires in the money, the payoff is \u003ci\u003emost likely\u003c/i\u003e equal to the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9f579b67-7101-430b-99a1-09427e11607a"
+                },
+                "answerFeedback": {
+                    "262e0712-4129-454b-941e-e4ec8df592b0": "\u003cp\u003eIncorrect. The difference between the market value of the asset and the face value of the risk-free bond is the payoff of the long call if exercised. This ignores the fact that the face value of the bond needs to be added to the payoff.\u003c/p\u003e",
+                    "9f579b67-7101-430b-99a1-09427e11607a": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A fiduciary call, defined as a long position in a call and in a risk-free bond, generates a payoff that is equal to the market value of the asset if it expires in the money.\u003c/p\u003e",
+                    "baae7910-53e0-429e-aa55-6e391f86b009": "\u003cp\u003eIncorrect. The face value of the risk-free bond is the payoff of the fiduciary call if the call expires out of the money.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9f579b67-7101-430b-99a1-09427e11607a",
+                            "itemBody": "\u003cp\u003eA. market value of the asset.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "baae7910-53e0-429e-aa55-6e391f86b009",
+                            "itemBody": "\u003cp\u003eB. face value of the risk-free bond.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "262e0712-4129-454b-941e-e4ec8df592b0",
+                            "itemBody": "\u003cp\u003eC. difference between the market value of the asset and the face value of the risk-free bond.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8699,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4490,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54226",
+            "entry": {
+                "title": "ITEM_20170601011",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAccording to put–call–forward parity, if the put in a protective put with forward contract expires out of the money, the payoff is \u003ci\u003emost likely\u003c/i\u003e equal to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4fdd76ef-8f6c-45dc-8980-6094fe5a41f5"
+                },
+                "answerFeedback": {
+                    "4fdd76ef-8f6c-45dc-8980-6094fe5a41f5": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A protective put with forward contract is defined as a long position in (1) a bond that has the face value equal to the forward contract, (2) a forward contract, and (3) a long position in a put. If the put expires out of the money, the value of the overall position is equal to the market value of the asset.\u003c/p\u003e\u003cdiv\u003e\u003ctable border=\"1\"\u003e\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top\"\u003e\u003cp\u003e+ \u003cem\u003eF\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e(\u003cem\u003et\u003c/em\u003e)\u003c/p\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top\"\u003e\u003cp\u003e(payoff of bond)\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top\"\u003e\u003cp\u003e+ \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e – \u003cem\u003eF\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e(\u003cem\u003et\u003c/em\u003e)\u003c/p\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top\"\u003e\u003cp\u003e(payoff of forward)\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top\"\u003e\u003cp\u003e+ 0\u003c/p\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top\"\u003e\u003cp\u003e(payoff of option)\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align:left; vertical-align:top\"\u003e\u003cp\u003e= \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd style=\"text-align:left; vertical-align:top\"\u003e\u003cp\u003e(payoff of strategy)\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "c5531f83-6187-4f03-b64b-3d19c1a810bc": "\u003cp\u003eIncorrect. The face value of the risk-free bond is the payoff of the protective put with forward contract if the put expires in the money.\u003c/p\u003e",
+                    "d6d0bab9-5850-481c-a00e-7f5d17065c92": "\u003cp\u003eIncorrect. Zero is the payoff of the put alone. This ignores the other positions in the strategy.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d6d0bab9-5850-481c-a00e-7f5d17065c92",
+                            "itemBody": "\u003cp\u003eA. zero.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c5531f83-6187-4f03-b64b-3d19c1a810bc",
+                            "itemBody": "\u003cp\u003eB. the face value of a risk-free bond.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4fdd76ef-8f6c-45dc-8980-6094fe5a41f5",
+                            "itemBody": "\u003cp\u003eC. the market value of the underlying asset.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8699,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4490,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54227",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Lee-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor takes a long position in\u0026nbsp;a risk-free bond and in a forward contract on a non-dividend-paying stock. The forward contract is priced at £50. The annual risk-free rate is 10%. A nine-month put option on the stock with an exercise price of £47 trades at £4. The price of a nine-month call option on the stock with an exercise price of £47 is\u0026nbsp;\u003ci\u003eclosest\u0026nbsp;\u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bf967dc5-b713-43db-ba34-cff5140fbffc"
+                },
+                "answerFeedback": {
+                    "855edabe-b751-435b-80d2-ea9bc607e8e8": "\u003cp\u003eIncorrect as calculated the exponent of \u003csup\u003e+T\u003c/sup\u003e is mistakenly used without a negative sign.\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e – c\u003csub\u003e0\u003c/sub\u003e = [X–F\u003csub\u003e0\u003c/sub\u003e(T)](1+r)\u003csup\u003e+T\u003c/sup\u003e\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e – [X–F\u003csub\u003e0\u003c/sub\u003e(T)](1+r) \u003csup\u003e+T \u003c/sup\u003e= c\u003csub\u003e0\u003c/sub\u003e\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e = put = £4\u003c/p\u003e\u003cp\u003eX = exercise price = £47\u003c/p\u003e\u003cp\u003eF\u003csub\u003e0\u003c/sub\u003e(T) = forward = £50\u003c/p\u003e\u003cp\u003er = risk-free rate = 10%\u003c/p\u003e\u003cp\u003e£4 – [£47 – £50](1.10)\u003csup\u003e+0.75\u003c/sup\u003e = \u003cb\u003e£7.22\u003c/b\u003e\u003c/p\u003e\u003cp\u003eThe correct answer should be:\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e – c\u003csub\u003e0\u003c/sub\u003e = [X–F\u003csub\u003e0\u003c/sub\u003e(T)](1+r)\u003csup\u003e–T\u003c/sup\u003e(4)\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e – [X–F\u003csub\u003e0\u003c/sub\u003e(T)](1+r) \u003csup\u003e–T \u003c/sup\u003e= c\u003csub\u003e0\u003c/sub\u003e\u003c/p\u003e\u003cp\u003ec\u003csub\u003e0\u003c/sub\u003e = £4 – [£47 – £50](1.10)\u003csup\u003e–0.75\u003c/sup\u003e = \u003cb\u003e£6.79\u003c/b\u003e\u003c/p\u003e",
+                    "bf967dc5-b713-43db-ba34-cff5140fbffc": "\u003cp\u003eCorrect because a long put and a short call are equivalent to a long risk-free bond and short forward position: p\u003csub\u003e0\u003c/sub\u003e –c\u003csub\u003e0\u003c/sub\u003e =[X–F\u003csub\u003e0\u003c/sub\u003e(T)](1+r)\u003csup\u003e–\u003c/sup\u003e\u003csup\u003eT\u003c/sup\u003e as calculated below:\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e – c\u003csub\u003e0\u003c/sub\u003e = [X–F\u003csub\u003e0\u003c/sub\u003e(T)](1+r)\u003csup\u003e–T\u003c/sup\u003e (4)\u003c/p\u003e\u003cp\u003eRearranging for c\u003csub\u003e0\u003c/sub\u003e:\u003c/p\u003e\u003cp\u003ec\u003csub\u003e0 \u003c/sub\u003e = p\u003csub\u003e0\u003c/sub\u003e – [X–F\u003csub\u003e0\u003c/sub\u003e(T)](1+r) \u003csup\u003e–T \u003c/sup\u003e\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e = put = £4\u003c/p\u003e\u003cp\u003eX = exercise price = £47\u003c/p\u003e\u003cp\u003eF\u003csub\u003e0\u003c/sub\u003e(T) = forward = £50\u003c/p\u003e\u003cp\u003er = risk-free rate = 10%\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e – [X–F\u003csub\u003e0\u003c/sub\u003e(T)](1+r) \u003csup\u003e–T \u003c/sup\u003e= c\u003csub\u003e0\u003c/sub\u003e\u003c/p\u003e\u003cp\u003eThus, c\u003csub\u003e0\u003c/sub\u003e = £4 – [£47 – £50](1.10)\u003csup\u003e–0.75\u003c/sup\u003e = \u003cb\u003e£6.79\u003c/b\u003e\u003c/p\u003e",
+                    "d9ff8a6e-2a2d-488a-909e-2b14b40088e5": "\u003cp\u003eIncorrect as calculated the exponent of \u003csup\u003e+T\u003c/sup\u003e is missed entirely.\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e – c\u003csub\u003e0\u003c/sub\u003e = [X–F\u003csub\u003e0\u003c/sub\u003e(T)](1+r)\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e – [X–F\u003csub\u003e0\u003c/sub\u003e(T)](1+r) \u003csup\u003e+T \u003c/sup\u003e= c\u003csub\u003e0\u003c/sub\u003e\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e = put = £4\u003c/p\u003e\u003cp\u003eX = exercise price = £47\u003c/p\u003e\u003cp\u003eF\u003csub\u003e0\u003c/sub\u003e(T) = forward = £50\u003c/p\u003e\u003cp\u003er = risk-free rate = 10%\u003c/p\u003e\u003cp\u003e£4 – [£47 – £50](1.10) = \u003cb\u003e£7.30\u003c/b\u003e\u003c/p\u003e\u003cp\u003eThe correct answer should be:\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e – c\u003csub\u003e0\u003c/sub\u003e = [X–F\u003csub\u003e0\u003c/sub\u003e(T)](1+r)\u003csup\u003e–T\u003c/sup\u003e(4)\u003c/p\u003e\u003cp\u003ep\u003csub\u003e0\u003c/sub\u003e – [X–F\u003csub\u003e0\u003c/sub\u003e(T)](1+r) \u003csup\u003e–T \u003c/sup\u003e= c\u003csub\u003e0\u003c/sub\u003e\u003c/p\u003e\u003cp\u003ec\u003csub\u003e0\u003c/sub\u003e = £4 – [£47 – £50](1.10)\u003csup\u003e–0.75\u003c/sup\u003e = \u003cb\u003e£6.79\u003c/b\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bf967dc5-b713-43db-ba34-cff5140fbffc",
+                            "itemBody": "\u003cp\u003eA. £6.79.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "855edabe-b751-435b-80d2-ea9bc607e8e8",
+                            "itemBody": "\u003cp\u003eB. £7.22.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d9ff8a6e-2a2d-488a-909e-2b14b40088e5",
+                            "itemBody": "\u003cp\u003eC. £7.30.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8699,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4490,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54228",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-Derivs-Lamba-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eBased on put-call parity, which of the following is equivalent to a long position in the underlying asset?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3cc64cd5-c181-4d02-ae13-ccbe3723291f"
+                },
+                "answerFeedback": {
+                    "0b34325e-535f-45e3-bffe-58939a0d43d2": "\u003cp\u003eIncorrect because as described in the rationale for the correct answer, the payoff on a long asset can be mimicked using a long call, short put, and a long bond.\u003c/p\u003e",
+                    "3cc64cd5-c181-4d02-ae13-ccbe3723291f": "\u003cp\u003eCorrect because the put-call parity relationship implies \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e = \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e – \u003ci\u003ep\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e + \u003ci\u003eX\u003c/i\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003ci\u003e\u003csup\u003eT\u003c/sup\u003e\u003c/i\u003e which implies that a long asset = long call, short put, long bond.\u003c/p\u003e",
+                    "76f550a0-a0d5-4806-ab56-0f75ae135f46": "\u003cp\u003eIncorrect because as described in the rationale for the correct answer, the payoff on a long asset can be mimicked using a long call, short put, and a long bond.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0b34325e-535f-45e3-bffe-58939a0d43d2",
+                            "itemBody": "\u003cp\u003eA. Long call, long put, and short bond\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "76f550a0-a0d5-4806-ab56-0f75ae135f46",
+                            "itemBody": "\u003cp\u003eB. Long put, short call, and long bond\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3cc64cd5-c181-4d02-ae13-ccbe3723291f",
+                            "itemBody": "\u003cp\u003eC. Long call, short put, and long bond\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8699,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4490,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54229",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Derivs-Lin-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAccording to put-call-forward parity, the payoff on a fiduciary call is equivalent to the payoff on a portfolio consisting of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "87a6393d-b905-493c-a4d3-d1ac628273e5"
+                },
+                "answerFeedback": {
+                    "52a1038c-d3e5-453c-983f-ad7b1f7ecac4": "\u003cp\u003eIncorrect because recall our put–call parity discussion and assume that Investor A creates his protective put in a slightly different manner. Instead of buying the asset, he buys a forward contract and a risk-free bond in which the face value is the forward price. This strategy is a synthetic protective put. Because we showed that the fiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent to a protective put with a forward contract. Therefore, the payoff on a fiduciary call is not equal to the payoff on a portfolio consisting of a short call, a long forward contract and a long risk-free bond.\u003c/p\u003e",
+                    "87a6393d-b905-493c-a4d3-d1ac628273e5": "\u003cp\u003eCorrect because recall our put–call parity discussion and assume that Investor A creates his protective put in a slightly different manner. Instead of buying the asset, he buys a forward contract and a risk-free bond in which the face value is the forward price. This strategy is a synthetic protective put. Because we showed that the fiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent to a protective put with a forward contract. Therefore, the payoff on a fiduciary call = the payoff on a synthetic protective put, fiduciary call = long call + long risk-free bond = long risk-free bond + long forward contract + long put.\u003c/p\u003e",
+                    "fa3d1400-cd26-4dd8-ba83-05186ce1ebf2": "\u003cp\u003eIncorrect because recall our put–call parity discussion and assume that Investor A creates his protective put in a slightly different manner. Instead of buying the asset, he buys a forward contract and a risk-free bond in which the face value is the forward price. This strategy is a synthetic protective put. Because we showed that the fiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent to a protective put with a forward contract. Therefore, the payoff on a fiduciary call is not equal to the payoff on a portfolio consisting of a long call and a short risk-free bond.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fa3d1400-cd26-4dd8-ba83-05186ce1ebf2",
+                            "itemBody": "\u003cp\u003eA. a long call and a short\u0026nbsp;risk-free bond.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "87a6393d-b905-493c-a4d3-d1ac628273e5",
+                            "itemBody": "\u003cp\u003eB. a long put, a long forward contract and a long risk-free bond.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "52a1038c-d3e5-453c-983f-ad7b1f7ecac4",
+                            "itemBody": "\u003cp\u003eC. a short call, a long forward contract and a long\u0026nbsp;risk-free bond.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8699,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4490,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54230",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Derivs-Lin-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAccording to put-call parity, the payoff of a European put option is equivalent to a payoff of a portfolio consisting of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "35bed89b-c350-4ab8-80ec-80d0b6051edd"
+                },
+                "answerFeedback": {
+                    "2d146b26-b985-49e8-9a25-fb85c2a151a0": "\u003cp\u003eIncorrect because according to put-call parity, p\u003csub\u003eo\u003c/sub\u003e\u0026nbsp;= c\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;– S\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;+ X/(1 + r)\u003csup\u003eT\u003c/sup\u003e, long put = long call, short asset, long bond.\u0026nbsp;Therefore, the payoff of\u0026nbsp;a European put option is not equal to a payoff of a portfolio consisting of a long asset, a short call and a long risk-free bond.\u003c/p\u003e",
+                    "35bed89b-c350-4ab8-80ec-80d0b6051edd": "\u003cp\u003eCorrect because according to put-call parity, p\u003csub\u003eo\u003c/sub\u003e\u0026nbsp;= c\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;– S\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;+ X/(1 + r)\u003csup\u003eT\u003c/sup\u003e, long put = long call, short asset, long bond. Therefore, the payoff of\u0026nbsp;a European put option is equal to a payoff of a portfolio consisting of a short asset, a long call and a long risk-free bond.\u003c/p\u003e",
+                    "c010f464-434f-4fde-a7c2-241d07b5b84b": "\u003cp\u003eIncorrect because according to put-call parity, p\u003csub\u003eo\u003c/sub\u003e\u0026nbsp;= c\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;– S\u003csub\u003e0\u003c/sub\u003e\u0026nbsp;+ X/(1 + r)\u003csup\u003eT\u003c/sup\u003e, long put = long call, short asset, long bond. Therefore, the payoff of\u0026nbsp;a European put option is not equal to a payoff of a portfolio consisting of a short asset, a short\u0026nbsp;call and a short risk-free bond.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2d146b26-b985-49e8-9a25-fb85c2a151a0",
+                            "itemBody": "\u003cp\u003eA. a long asset, a short call and a long risk-free bond.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "35bed89b-c350-4ab8-80ec-80d0b6051edd",
+                            "itemBody": "\u003cp\u003eB. a short asset, a long call and a long risk-free bond.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c010f464-434f-4fde-a7c2-241d07b5b84b",
+                            "itemBody": "\u003cp\u003eC. a short asset, a short\u0026nbsp;call and a short risk-free bond.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8699,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4490,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54231",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Derivs-Hambusch-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following \u003ci\u003ebest\u003c/i\u003e describes put–call forward parity?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3a6441d4-2401-4ac0-b14b-fd39276f616e"
+                },
+                "answerFeedback": {
+                    "3a6441d4-2401-4ac0-b14b-fd39276f616e": "\u003cp\u003eCorrect because under put–call forward parity\u0026nbsp;the put price (p\u003csub\u003e0\u003c/sub\u003e) plus the present value of the forward contract price (F\u003csub\u003e0\u003c/sub\u003e(T)(1 + r)\u003csup\u003e–T\u003c/sup\u003e) equals the call price (c\u003csub\u003e0\u003c/sub\u003e) plus the present value of the exercise price (X(1 + r)\u003csup\u003e–T\u003c/sup\u003e):\u0026nbsp;\u003c/p\u003e\n\u003cp\u003ep\u003csub\u003e0\u0026nbsp;\u003c/sub\u003e+\u0026nbsp;F\u003csub\u003e0\u003c/sub\u003e(T)(1 + r)\u003csup\u003e–T\u003c/sup\u003e\u003cspan\u003e\u0026nbsp;\u003c/span\u003e= c\u003csub\u003e0\u003c/sub\u003e\u003cspan\u003e\u0026nbsp;\u003c/span\u003e+ X(1 + r)\u003csup\u003e–T\u003c/sup\u003e\u003c/p\u003e",
+                    "44450bf9-857a-465c-8ff5-edfe14bf49c0": "\u003cp\u003eIncorrect because, as described in the response rationale for the correct answer, the\u0026nbsp;put–call forward parity is described as follows:\u0026nbsp;The present value of the exercise price plus\u0026nbsp;the call price equals the\u0026nbsp;put price plus the present value of the forward contract price.\u003c/p\u003e\n\u003cp\u003eThe verbal description of the equation in this answer choice is incorrect as it incorrectly rearranges terms of the put–call forward parity.\u003c/p\u003e",
+                    "4e438a32-6d22-4f14-86ec-cea338ce33e8": "\u003cp\u003eIncorrect because, as described in the response rationale for the correct answer, the\u0026nbsp;put–call forward parity is described as follows: The present value of the exercise price plus\u0026nbsp;the call price equals the\u0026nbsp;put price plus the present value of the forward contract price.\u003c/p\u003e\n\u003cp\u003eThe verbal description of the equation in this answer choice is incorrect as it incorrectly rearranges terms of the put–call forward parity.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3a6441d4-2401-4ac0-b14b-fd39276f616e",
+                            "itemBody": "\u003cp\u003eA. The present value of the exercise price plus the call price equals the put price plus the present value of the forward contract price.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4e438a32-6d22-4f14-86ec-cea338ce33e8",
+                            "itemBody": "\u003cp\u003eB. \u003cspan\u003eThe present value of the forward contract price plus the call price equals the present value of the exercise price plus the put price.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "44450bf9-857a-465c-8ff5-edfe14bf49c0",
+                            "itemBody": "\u003cp\u003eC. \u003cspan\u003eThe call price minus the put price equals\u0026nbsp;the present value of the exercise price minus\u0026nbsp;the present value of the forward contract price.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8699,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4490,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

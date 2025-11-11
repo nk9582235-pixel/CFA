@@ -1,0 +1,1763 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6384,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 28,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 12: Yield-Based Bond Convexity and Portfolio Properties",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6384,
+        "subtopic": "Module 12: Yield-Based Bond Convexity and Portfolio Properties",
+        "question_count": 28,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4474,
+                "question_count": 19,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4691,
+                "question_count": 9,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 28.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "fc1e60497232cd9e",
+        "ordered_item_ids": [
+            "55071",
+            "55072",
+            "55073",
+            "55074",
+            "55075",
+            "55076",
+            "55077",
+            "55078",
+            "55079",
+            "51258",
+            "51259",
+            "51260",
+            "51261",
+            "51262",
+            "51263",
+            "51264",
+            "51265",
+            "51266",
+            "51267",
+            "54215",
+            "54216",
+            "54217",
+            "54218",
+            "54219",
+            "54220",
+            "54221",
+            "54222",
+            "54223",
+            "54224"
+        ],
+        "visible_item_ids": [
+            "55071",
+            "55072",
+            "55073",
+            "55074",
+            "55075",
+            "55076",
+            "55077",
+            "55078",
+            "55079",
+            "51258",
+            "51259",
+            "51260",
+            "51261",
+            "51262",
+            "51263",
+            "51264",
+            "51265",
+            "51266",
+            "51267",
+            "54215",
+            "54216",
+            "54217",
+            "54218",
+            "54219",
+            "54220",
+            "54221",
+            "54222",
+            "54223",
+            "54224"
+        ]
+    },
+    "items": [
+        {
+            "id": "55071",
+            "entry": {
+                "title": "ITEM_CFA-L1-01049",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor gathers the following information about a bond portfolio comprised of two option-free bonds:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth scope=\"colgroup\"\u003e\u003cstrong\u003eBond\u003c/strong\u003e\u003c/th\u003e\n\u003cth scope=\"colgroup\"\u003e\u003cstrong\u003ePar Value\u003c/strong\u003e\u003c/th\u003e\n\u003cth scope=\"colgroup\"\u003e\u003cstrong\u003eMarket Value\u003c/strong\u003e\u003c/th\u003e\n\u003cth scope=\"colgroup\"\u003e\u003cstrong\u003eDuration\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$100,000\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$120,000\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e5\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$200,000\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$180,000\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e4\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe duration of the portfolio is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e71862fb-3d7c-4abc-ae70-5aed8b5ee1f7"
+                },
+                "answerFeedback": {
+                    "558a05eb-31d1-485d-a205-6117ba51a948": "\u003cp\u003eIncorrect because it weights the bonds by their duration.\u003c/p\u003e\u003cp\u003eDP= [(5 ÷ 9) × 5] + [(4 ÷ 9) × 4)]\u003c/p\u003e\u003cp\u003e= 2.777 + 1.777\u003c/p\u003e\u003cp\u003e= 4.554 = 4.55\u003c/p\u003e",
+                    "b2045d62-095c-48f4-9aaf-bde120ae3743": "\u003cp\u003eIncorrect because it weights the bonds by par value.\u003c/p\u003e\u003cp\u003eDP= [(100,000 ÷ 300,000) × 5] + [(200,000 ÷ 300,000) × 4]\u003c/p\u003e\u003cp\u003e= (0.333 × 5) + (0.667 × 4)\u003c/p\u003e\u003cp\u003e= 1.665 + 2.668\u003c/p\u003e\u003cp\u003e= 4.333 = 4.33\u003c/p\u003e",
+                    "e71862fb-3d7c-4abc-ae70-5aed8b5ee1f7": "\u003cp\u003eCorrect because the portfolio's duration is the weighted average (by market value) of the duration of the bonds in the portfolio.\u003c/p\u003e\u003cp\u003eDuration of portfolio = [(120,000 ÷ 300,000) × 5] + [(180,000 ÷ 300,000) × 4]\u003c/p\u003e\u003cp\u003e= (0.4 × 5) + (0.6 × 4)\u003c/p\u003e\u003cp\u003e= 2.00 + 2.40\u003c/p\u003e\u003cp\u003e= 4.40\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b2045d62-095c-48f4-9aaf-bde120ae3743",
+                            "itemBody": "\u003cp\u003eA. 4.33.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e71862fb-3d7c-4abc-ae70-5aed8b5ee1f7",
+                            "itemBody": "\u003cp\u003eB. 4.40.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "558a05eb-31d1-485d-a205-6117ba51a948",
+                            "itemBody": "\u003cp\u003eC. 4.55.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8880,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4691,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55072",
+            "entry": {
+                "title": "ITEM_CFA-L1-05452",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about an option-free bond:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003ePar value\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$1,000,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eCurrent market value\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$912,575\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eDuration\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e2.4\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf yields are expected to decrease by 50 basis points, the expected price change for the bond is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "128edd21-186d-4c87-9b40-9a64a2b40550"
+                },
+                "answerFeedback": {
+                    "128edd21-186d-4c87-9b40-9a64a2b40550": "\u003cp\u003eCorrect because modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity. A modified duration of 2.4 translates to a 2.4% percentage price change given a 100 basis points change in the bond's yield to maturity. Therefore, for a 50 basis point decrease in yields, the bond's price will change by (2.4)(0.0050)($912,575) = $10,951 ≈ $11,000.\u0026nbsp;\u003c/p\u003e",
+                    "1ca72a36-6e4b-4c2e-acc0-3c547748823f": "\u003cp\u003eIncorrect because it uses an incorrect calculation (0.024)($1,000,000) = $24,000.\u0026nbsp;\u003c/p\u003e",
+                    "85f8d544-ddf9-4f17-962d-238c9027db77": "\u003cp\u003eIncorrect because it uses an incorrect calculation (0.024)($912,575) = $21,902 ≈ $22,000.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "128edd21-186d-4c87-9b40-9a64a2b40550",
+                            "itemBody": "\u003cp\u003eA. $11,000.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "85f8d544-ddf9-4f17-962d-238c9027db77",
+                            "itemBody": "\u003cp\u003eB. $22,000.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1ca72a36-6e4b-4c2e-acc0-3c547748823f",
+                            "itemBody": "\u003cp\u003eC. $24,000.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8880,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4691,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55073",
+            "entry": {
+                "title": "ITEM_CFA-L1-03514",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about a bond:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003ePrice\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e96.00\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003ePrice with yield to maturity 10 basis points higher\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e95.80\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003ePrice with yield to maturity 10 basis points lower\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e96.30\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe approximate convexity of this bond is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "efc06aae-e260-4d37-a5bc-3c46d60a6e6e"
+                },
+                "answerFeedback": {
+                    "2b455303-f5f6-4f9a-9ece-0a385c1f0608": "\u003cp\u003eIncorrect because the approximate convexity is incorrectly calculated as approximate duration, with a mistake in that the change in yield (0.001) is squared: \u003cmath\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e96.3\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e95.8\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.001\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e96\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e604\u003c/mn\u003e \u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e",
+                    "efc06aae-e260-4d37-a5bc-3c46d60a6e6e": "\u003cp\u003eCorrect because \u003cmath\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003ex\u003c/mi\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e−\u003c/mo\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmo\u003e+\u003c/mo\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eΔ\u003c/mi\u003e \u003cmtext\u003eYield\u003c/mtext\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eP\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eV\u003c/mi\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003c/math\u003e .\u003c/p\u003e\n\u003cp\u003eTherefore the approximate convexity of this =\u003cmath\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e96.3\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e95.8\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e96\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.001\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e96\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmn\u003e042\u003c/mn\u003e \u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e",
+                    "f396a908-4a4a-4b92-98a9-b9da461ba98d": "\u003cp\u003eIncorrect because the denominator is incorrectly multiplied by 2, as happens in the calculation of approximate duration:\u003c/p\u003e\n\u003cp\u003e\u003cmath\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e96.3\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e95.8\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e96\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.001\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e96\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e \u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e521\u003c/mn\u003e \u003c/mrow\u003e \u003c/math\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f396a908-4a4a-4b92-98a9-b9da461ba98d",
+                            "itemBody": "\u003cp\u003eA. 521.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "efc06aae-e260-4d37-a5bc-3c46d60a6e6e",
+                            "itemBody": "\u003cp\u003eB. 1,042.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2b455303-f5f6-4f9a-9ece-0a385c1f0608",
+                            "itemBody": "\u003cp\u003eC. 2,604.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8880,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4691,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55074",
+            "entry": {
+                "title": "ITEM_CFA-L1-09869",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA bond portfolio consists of the following option-free annual-pay coupon bonds:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth scope=\"colgroup\"\u003e\u0026nbsp;\u003c/th\u003e\n\u003cth style=\"text-align: center;\" scope=\"colgroup\"\u003e\u003cstrong\u003eBond 1\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center;\" scope=\"colgroup\"\u003e\u003cstrong\u003eBond 2\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003ePar value\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$300,000\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$450,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eMarket value\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$200,000\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$400,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eYield to maturity\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e4%\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e3%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eMacaulay duration\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e7.5\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e5.4\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe modified duration of this portfolio is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5e0851b5-6eb6-41ab-beaa-a0aa636a38d2"
+                },
+                "answerFeedback": {
+                    "5e0851b5-6eb6-41ab-beaa-a0aa636a38d2": "\u003cp\u003eCorrect because the Macaulay and modified durations for the portfolio are calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights.\u003c/p\u003e\u003cp\u003eFirst we calculate the modified duration (ModDur) of the individual bonds using formula below:\u003c/p\u003e\u003cp\u003eModDur = MacDur / (1 + \u003ci\u003er\u003c/i\u003e)\u0026nbsp;\u003c/p\u003e\u003cp\u003eModDur of Bond 1 = 7.5 / (1 + 4%) = 7.211538\u003c/p\u003e\u003cp\u003eModDur of Bond 2 = 5.4 / (1 + 3%) = 5.242718.\u003c/p\u003e\u003cp\u003eNext, we calculate the weights for the individual bonds based on market values, as follows:\u003c/p\u003e\u003cp\u003eWeight for Bond 1 = $200,000 / ($200,000 + $400,000) = 0.333333\u003c/p\u003e\u003cp\u003eWeight for Bond 2 = $400,000 / ($200,000 + $400,000) = 0.666667\u003c/p\u003e\u003cp\u003eModified duration of the portfolio = (Weight for Bond 1 × ModDur of Bond 1) + (Weight for Bond 2 × ModDur of Bond 2) = (0.333333 × 7.211538) + (0.666667 × 5.242718) = 5.898992 ≈ 5.9.\u003c/p\u003e",
+                    "6bc6d2b4-e8d6-4662-a7e2-201f62b9fb5a": "\u003cp\u003eIncorrect because the weights based on par value are used.\u003c/p\u003e\u003cp\u003eWeight for Bond 1 ≠ $300,000 / ($300,000 + $450,000) = 0.4\u003c/p\u003e\u003cp\u003eWeight for Bond 2 ≠ $450,000 / ($300,000 + $450,000) = 0.6\u003c/p\u003e\u003cp\u003eModified duration of the portfolio ≠ (0.4 × 7.211538) + (0.6 × 5.242718) = 6.030246 ≈ 6.0.\u003c/p\u003e",
+                    "cd7b4fd8-454f-47c9-a76f-37ed99c740de": "\u003cp\u003eIncorrect because it uses Macaulay duration instead of modified duration for the individual bonds, and represents the Macaulay duration of the portfolio.\u003c/p\u003e\u003cp\u003eModified duration of the portfolio ≠ Macaulay duration of the portfolio = (0.333333 × 7.5) + (0.666667 × 5.4) = 6.099999 ≈ 6.1.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5e0851b5-6eb6-41ab-beaa-a0aa636a38d2",
+                            "itemBody": "\u003cp\u003eA. 5.9.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6bc6d2b4-e8d6-4662-a7e2-201f62b9fb5a",
+                            "itemBody": "\u003cp\u003eB. 6.0.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "cd7b4fd8-454f-47c9-a76f-37ed99c740de",
+                            "itemBody": "\u003cp\u003eC. 6.1.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8880,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4691,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55075",
+            "entry": {
+                "title": "ITEM_CFA-L1-07592",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA bond priced at 99.4 has a modified duration of 6.9 and an annual convexity statistic of –212. If the market yield increases by 75 basis points, the price of this bond is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "483b0b4a-b77c-4bac-8304-0e12de98f368"
+                },
+                "answerFeedback": {
+                    "483b0b4a-b77c-4bac-8304-0e12de98f368": "\u003cp\u003eCorrect because %\u003ci\u003e∆PV\u003csup\u003eFull\u003c/sup\u003e\u003c/i\u003e = (–AnnModDur × ∆Yield) + [(0.5 × AnnConvexity × ∆(Yield)\u003csup\u003e2\u003c/sup\u003e]= (–6.9 × 0.0075) + (0.5 × –212 × 0.0075\u003csup\u003e2\u003c/sup\u003e) = –0.05175 – 0.0059625 = 0.0577125, rounded to 5.77%. The percentage decline in price = –0.0577125 × 99.4 = –5.7366, and the bond price = 99.4 – 5.7366 = 93.6634, rounded to 93.66.\u003c/p\u003e",
+                    "591a89da-958c-4f3e-831b-705d7d1c2e1b": "\u003cp\u003eIncorrect because the price is calculated using par instead of 99.4: Price ≠ 100 – 5.74 = 94.26.\u003c/p\u003e",
+                    "878341e3-9a70-41a4-95b1-f6acddd4fe4c": "\u003cp\u003eIncorrect because the convexity adjustment is input as a positive number:(–6.9 × 0.0075) + (0.5 × 212 × 0.0075\u003csup\u003e2\u003c/sup\u003e) = –0.05175 + 0.0059625 = 0.04579, rounded to 4.58%. The percentage decline in price = 0.04579 × 99.4 = 4.5515, and the bond price = 99.4 – 4.5515 = 94.8485, rounded to 94.85.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "483b0b4a-b77c-4bac-8304-0e12de98f368",
+                            "itemBody": "\u003cp\u003eA. 93.7.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "591a89da-958c-4f3e-831b-705d7d1c2e1b",
+                            "itemBody": "\u003cp\u003eB. 94.3.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "878341e3-9a70-41a4-95b1-f6acddd4fe4c",
+                            "itemBody": "\u003cp\u003eC. 94.9.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8880,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4691,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55076",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-FI-Tyler-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about a zero-coupon bond:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eTime to maturity\u003c/td\u003e\n\u003ctd\u003e5 years\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eAnnual convexity\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e28.835\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eAnnual yield to maturity\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e2%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf the yield decreases by 1%, the bond's percentage change in price is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "21cf0941-4981-4549-b3e5-9730c2c70146"
+                },
+                "answerFeedback": {
+                    "21cf0941-4981-4549-b3e5-9730c2c70146": "\u003cp\u003eCorrect because the Macaulay duration of a zero-coupon bond is its time-to-maturity and modified duration\u0026nbsp;is the Macaulay duration statistic divided by one plus the yield per period.\u003c/p\u003e\u003cp\u003eHere, modified duration = 5/1.02 = 4.901961.\u003c/p\u003e\u003cp\u003eThus, the percentage change in price =\u0026nbsp;–4.901961 * –0.01 + (0.5 * 28.835 * –0.01\u003csup\u003e2\u003c/sup\u003e) = 0.04901961 + 0.0014418 = 5.04614%, rounded to 5.05%.\u003c/p\u003e",
+                    "2acdb7a0-0962-4e4c-ab69-4ebea689b5dd": "\u003cp\u003eIncorrect because the convexity adjustment is applied to the Macaulay duration rather than the modified duration. The percentage change in price is not equal to\u0026nbsp;\u0026nbsp;–5 * –0.01 + (0.5 * 28.835 * –0.01\u003csup\u003e2\u003c/sup\u003e) = 0.05 + 0.0014418 = 5.14418%, rounded to 5.14%.\u003c/p\u003e",
+                    "8b6e2b8a-847e-4bf3-86d9-857a02e6a09e": "\u003cp\u003eIncorrect because the convexity adjustment is subtracted rather than added. The percentage change in price is not equal to\u0026nbsp;\u0026nbsp;–4.901961 * –0.01\u0026nbsp;– (0.5 * 28.835 * –0.01\u003csup\u003e2\u003c/sup\u003e) = 0.04901961\u0026nbsp;– 0.0014418 = 4.757781%, rounded to 4.76%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8b6e2b8a-847e-4bf3-86d9-857a02e6a09e",
+                            "itemBody": "\u003cp\u003eA. 4.76%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "21cf0941-4981-4549-b3e5-9730c2c70146",
+                            "itemBody": "\u003cp\u003eB. 5.05%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2acdb7a0-0962-4e4c-ab69-4ebea689b5dd",
+                            "itemBody": "\u003cp\u003eC. 5.14%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8880,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4691,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55077",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-FI-Tyler-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following details about a bond portfolio:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eBond\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eMarket Price (per 100 of par value)\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eMoney Duration (per 100 of par value\u003c/strong\u003e)\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e95\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e730\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e120\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e515\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf each bond has a par value of £25 million, the modified duration of this bond portfolio is \u003ci\u003eclosest \u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dbfdeae9-ae46-4c76-861f-19ff22a687f7"
+                },
+                "answerFeedback": {
+                    "383fb939-cf57-4a98-9578-09ad2a0a09f0": "\u003cp\u003eIncorrect because the modified duration of the portfolio is not equal to the weighted average of the money durations of the bonds divided by 100. Portfolio modified duration \u0026lt;\u0026gt; 44.186% * 730 / 100 + 55.814% * 5.15 / 100 = 6.1. Instead, the modified duration of a bond portfolio is calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights.\u003c/p\u003e",
+                    "44e36fe3-809a-4519-a5ca-535692b9702e": "\u003cp\u003eIncorrect because the modified duration of the portfolio is not equal to the simple average of the money durations of the bonds divided by 100. Portfolio modified duration\u0026nbsp;50% * 730 / 100 + 50% * 5.15 / 100 = 6.225, rounded to 6.2. Instead, the modified duration of a bond portfolio is calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights.\u0026nbsp;Candidates may choose this option because the par values of the bonds are the same.\u003c/p\u003e",
+                    "dbfdeae9-ae46-4c76-861f-19ff22a687f7": "\u003cp\u003eCorrect because money duration (MoneyDur) is calculated as the annual modified duration times the full price (PV\u003csup\u003eFull\u003c/sup\u003e) of the bond, including accrued interest. Thus the modified durations of the bonds are 730/95 = 7.6842 and 515/120 = 4.29167, respectively.\u0026nbsp;\u003c/p\u003e\u003cp\u003eThe modified duration of a bond portfolio is calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights.\u0026nbsp;Here, the market values of the bonds are\u0026nbsp;£25 million * 95/100 =\u0026nbsp;£23,750,000 and\u0026nbsp;£25 million * 120/100 =\u0026nbsp;£30,000,000. Thus the weight of the first bond in the portfolio is\u0026nbsp;£23,750,000 / (£23,750,000 +\u0026nbsp;£30,000,000) = 44.186% and the weight of the second bond in the portfolio is £30,000,000 / (£23,750,000 +\u0026nbsp;£30,000,000) = 55.814%. The modified duration of the portfolio is therefore 44.186% * 7.6842 + 55.814% * 4.29167 = 3.3953 + 2.3953 = 5.7907, rounded to 5.8.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "dbfdeae9-ae46-4c76-861f-19ff22a687f7",
+                            "itemBody": "\u003cp\u003eA. 5.8.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "383fb939-cf57-4a98-9578-09ad2a0a09f0",
+                            "itemBody": "\u003cp\u003eB. 6.1.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "44e36fe3-809a-4519-a5ca-535692b9702e",
+                            "itemBody": "\u003cp\u003eC. 6.2.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8880,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4691,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55078",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FI-Moustra-07",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eTwo par bonds have the same duration but different convexity. All else being equal, if yields to maturity increase by 10 basis points, it is \u003ci\u003emost likely\u003c/i\u003e that:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "45ee7f67-1755-44c5-8b37-cbf5f5a127bb"
+                },
+                "answerFeedback": {
+                    "1f7b956c-6157-47eb-b88d-a5c8cce1afcf": "\u003cp\u003eIncorrect because\u0026nbsp;the two bonds are assumed to have the same price, yield-to-maturity, and modified duration.\u0026nbsp;The benefit of greater convexity occurs when their yields-to-maturity change. For the same decrease in yield-to-maturity, the more convex bond appreciates more in price. And for the same increase in yield-to-maturity, the more convex bond depreciates less in price. The conclusion is that the more convex bond outperforms the less convex bond in both bull (rising price) and bear (falling price) markets.\u0026nbsp;The more convex bond always outperforms the less convex bond.\u003c/p\u003e",
+                    "45ee7f67-1755-44c5-8b37-cbf5f5a127bb": "\u003cp\u003eCorrect because\u0026nbsp;the two bonds are assumed to have the same price, yield-to-maturity, and modified duration.\u0026nbsp;The benefit of greater convexity occurs when their yields-to-maturity change. And for the same increase in yield-to-maturity, the more convex bond depreciates less in price (than the less convex bond).\u003c/p\u003e",
+                    "506a0058-7602-425c-a0d4-f0c2a7ca7f86": "\u003cp\u003eIncorrect because\u0026nbsp;the two bonds are assumed to have the same price, yield-to-maturity, and modified duration.\u0026nbsp;The benefit of greater convexity occurs when their yields-to-maturity change. For the same decrease in yield-to-maturity, the more convex bond appreciates more in price. And for the same increase in yield-to-maturity, the more convex bond depreciates less in price. The conclusion is that the more convex bond outperforms the less convex bond in both bull (rising price) and bear (falling price) markets.\u0026nbsp;The more convex bond always outperforms the less convex bond.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1f7b956c-6157-47eb-b88d-a5c8cce1afcf",
+                            "itemBody": "\u003cp\u003eA. the more convex bond underperforms the less convex bond.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "506a0058-7602-425c-a0d4-f0c2a7ca7f86",
+                            "itemBody": "\u003cp\u003eB. both bond prices decrease by the same amount.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "45ee7f67-1755-44c5-8b37-cbf5f5a127bb",
+                            "itemBody": "\u003cp\u003eC. the more convex bond outperforms the less convex bond.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8880,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4691,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55079",
+            "entry": {
+                "title": "ITEM_CFA-L1-09959",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAn analyst gathers the following information about an option-free coupon bond that pays annually:\u003c/span\u003e\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eModified duration\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e13.2\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eConvexity statistic\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e1,081\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eIf the bond's yield decreases by 10 basis points, the expected percentage price change for this bond is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "cfcd645c-7cd1-4695-9662-1376f8a2ddff"
+                },
+                "answerFeedback": {
+                    "96c0456c-b60c-4d53-b68f-0a8b506cb620": "\u003cp\u003eIncorrect because the modified duration is not negated. \u003ci\u003e%ΔPV\u003csup\u003eFull\u003c/sup\u003e\u003c/i\u003e ≠ (AnnModDur × ΔYield) + [1/2 × AnnConvexity × (ΔYield)\u003csup\u003e2\u003c/sup\u003e] = (13.2 × −0.0010) + [1/2 × 1081 × (−0.0010)\u003csup\u003e2\u003c/sup\u003e] = –0.0132 + 0.0005405 = −1.26595% ≈ −1.27%.\u003c/p\u003e",
+                    "cfcd645c-7cd1-4695-9662-1376f8a2ddff": "\u003cp\u003eCorrect because \u003ci\u003e%ΔPV\u003csup\u003eFull\u003c/sup\u003e\u003c/i\u003e ≈ (−AnnModDur × ΔYield) + [1/2 × AnnConvexity × (ΔYield)\u003csup\u003e2\u003c/sup\u003e] = (−13.2 × −0.0010) + [1/2 × 1081 × (−0.0010)\u003csup\u003e2\u003c/sup\u003e] = 0.0132 + 0.0005405 = 1.37405% ≈ 1.37%.\u003c/p\u003e",
+                    "eb2bc401-bcb7-4207-a7aa-cbb1c3fc69e8": "\u003cp\u003eIncorrect because the convexity adjustment is subtracted instead of added: \u003ci\u003e%ΔPV\u003csup\u003eFull\u003c/sup\u003e\u003c/i\u003e ≈ (−AnnModDur × ΔYield) – [1/2 × AnnConvexity × (ΔYield)\u003csup\u003e2\u003c/sup\u003e] = (−13.2 × −0.0010) – [1/2 × 1081 × (−0.0010)\u003csup\u003e2\u003c/sup\u003e] = 0.0132 – 0.0005405 = 1.26595% ≈ 1.27%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "96c0456c-b60c-4d53-b68f-0a8b506cb620",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e−1.27%.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "eb2bc401-bcb7-4207-a7aa-cbb1c3fc69e8",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e1.27%.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "cfcd645c-7cd1-4695-9662-1376f8a2ddff",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e1.37%.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8880,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4691,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51258",
+            "entry": {
+                "title": "CFA2442-R-s04-Q8",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct.\u003c/p\u003e\n\u003cdiv id=\"CFA2442-R-s04-E___10\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eA\u003c/mi\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmi\u003er\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003ex\u003c/mi\u003e \u003cmi\u003eC\u003c/mi\u003e \u003cmi\u003eo\u003c/mi\u003e \u003cmi\u003en\u003c/mi\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e100.177546\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmn\u003e99.82283\u003c/mn\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e100\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.005\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmn\u003e100\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmn\u003e15.04.\u003c/mn\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA 5.5% semiannual-pay fixed-coupon bond is issued at par on 1 May 2025 and matures on\n               1 May 2029. For a 50 bps increase and decrease in yield-to-maturity,\n                  \u003cem\u003ePV\u003c/em\u003e\n               \u003csub\u003e+\u003c/sub\u003e and \u003cem\u003ePV\u003c/em\u003e\n               \u003csub\u003e–\u003c/sub\u003e are 99.82283 and 100.177546, respectively. The approximate convexity is\n                  \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6f9d9099-cdf5-44fa-ac7d-7355deba35fa"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7e245378-6fcf-4407-a3e5-d577d77823d2",
+                            "itemBody": "A. 3.548.",
+                            "position": 1
+                        },
+                        {
+                            "id": "6f9d9099-cdf5-44fa-ac7d-7355deba35fa",
+                            "itemBody": "B. 15.045.",
+                            "position": 2
+                        },
+                        {
+                            "id": "01084608-f863-47c5-b147-ca346b1687b2",
+                            "itemBody": "C. 101.793.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8239,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51259",
+            "entry": {
+                "title": "CFA2442-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct.\u003c/p\u003e\n            \u003cdiv id=\"CFA2442-R-s04-Te\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch3 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; background-color: #fff; border-top: 2px solid #CCCCCC; border-bottom: none !important; border-right: none; border-left: none; text-align: center; margin-top: .84em !important; background-color: inherit !important;\"\u003e\n\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003e\u003cspan style=\"display: block;\"\u003eEight-Year, 4.70% Semiannual Bond\u003c/span\u003e\n\u003c/h3\u003e\n               \n               \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                  \n                  \u003ctbody\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003eFixed Coupon (%)\u003c/strong\u003e\n                        \u003c/td\u003e\n                        \u003ctd style=\"text-align: right; vertical-align: top; padding: 8px; \"\u003e4.70\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003ePeriods p.a.\u003c/strong\u003e\n                        \u003c/td\u003e\n                        \u003ctd style=\"text-align: right; vertical-align: top; padding: 8px; \"\u003e2\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003ePrice (per 100 Par Value)\u003c/strong\u003e\n                        \u003c/td\u003e\n                        \u003ctd style=\"text-align: right; vertical-align: top; padding: 8px; \"\u003e100\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003eYield-to-Maturity (%)\u003c/strong\u003e\n                        \u003c/td\u003e\n                        \u003ctd style=\"text-align: right; vertical-align: top; padding: 8px; \"\u003e4.70\u003c/td\u003e\n                     \u003c/tr\u003e\n                  \u003c/tbody\u003e\n               \u003c/table\u003e\u003c/div\u003e\n            \u003c/div\u003e\n            \u003cdiv id=\"CFA2442-R-s04-Tf\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n               \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                  \n                  \u003cthead\u003e\n                     \u003ctr\u003e\n                        \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003eCol. 1\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003eCol. 2\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003eCol. 3\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003eCol. 4\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003eCol. 5\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003eCol. 6 = Col. 2 × Col. 5\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                           \u003cstrong\u003eCol. 7 = Col. 2 × (Col. 2 + 1) × Col. 5 × (1 + YTM/2)\u003csup\u003e–2\u003c/sup\u003e\n                           \u003c/strong\u003e\n                        \u003c/th\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003cth style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003e\n                           \u003cstrong\u003ePeriod\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003e\n                           \u003cstrong\u003eTime to Receipt\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003e\n                           \u003cstrong\u003eCash Flow\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003e\n                           \u003cstrong\u003ePresent Value\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003e\n                           \u003cstrong\u003eWeight\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003e\n                           \u003cstrong\u003eTime to Receipt × Weight\u003c/strong\u003e\n                        \u003c/th\u003e\n                        \u003cth style=\"text-align: center; vertical-align: middle; padding: 8px; \"\u003e\n                           \u003cstrong\u003eConvexity of Cash Flows\u003c/strong\u003e\n                        \u003c/th\u003e\n                     \u003c/tr\u003e\n                  \u003c/thead\u003e\n                  \u003ctbody\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e1\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.296043\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02296\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02296\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.04384\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e2\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.243325\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02243\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.04487\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.12849\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e3\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.191817\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02192\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.06575\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.25108\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e4\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e4.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.141492\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02141\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.08566\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.40886\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e5\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e5.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.092323\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02092\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.10462\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.59920\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e6\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e6.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.044282\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.02044\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.12266\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.81962\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e7\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e7.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.997344\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01997\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.13981\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.06774\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e8\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e8.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.951484\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01951\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.15612\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.34129\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e9\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e9.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.906677\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01907\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.17160\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.63811\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e10\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e10.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.862899\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01863\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.18629\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.95617\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e11\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e11.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.820126\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01820\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.20021\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.29351\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e12\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e12.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.778336\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01778\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.21340\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.64827\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e13\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e13.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.737504\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01738\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.22588\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.01871\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e14\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e14.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.697610\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01698\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.23767\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.40315\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e15\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e15.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e2.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e1.658632\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.01659\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.24879\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e3.80002\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e16\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e16.0\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e102.35\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e70.580104\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e0.70580\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e11.29282\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e183.26330\u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003e100.0000\u003c/strong\u003e\n                        \u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003e1.00000\u003c/strong\u003e\n                        \u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003e13.51910\u003c/strong\u003e\n                        \u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003e206.68136\u003c/strong\u003e\n                        \u003c/td\u003e\n                     \u003c/tr\u003e\n                     \u003ctr\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \" colspan=\"5\"\u003e\n                           \u003cstrong\u003eAnnualized Convexity\u003c/strong\u003e\n                        \u003c/td\u003e\n                        \u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                           \u003cstrong\u003e51.67034\u003c/strong\u003e\n                        \u003c/td\u003e\n                     \u003c/tr\u003e\n                  \u003c/tbody\u003e\n               \u003c/table\u003e\u003c/div\u003e\n            \u003c/div\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA bond pays a semiannual fixed coupon of 4.70%. It trades at par on its coupon date of 16 December 2025 and matures on 16 December 2033. The bond’s annualized convexity statistic is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9a57e9c7-8044-4b0c-8511-78d110713aea"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9a57e9c7-8044-4b0c-8511-78d110713aea",
+                            "itemBody": "A. 51.670.",
+                            "position": 1
+                        },
+                        {
+                            "id": "ca692364-9e59-42c1-a379-89ff73852af0",
+                            "itemBody": "B. 53.231.",
+                            "position": 2
+                        },
+                        {
+                            "id": "f5d6ffa6-0ceb-43da-b0b3-10bcfa322ce6",
+                            "itemBody": "C. 206.681.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8239,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51260",
+            "entry": {
+                "title": "CFA2442-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The convexity adjustment is a complementary risk measure to duration. It accounts for the second-order (non-linear) effect of yield changes on price. It is most useful for large yield changes, because duration provides a good approximation for small yield changes.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFor changes in yield-to-maturity, the convexity adjustment is \u003cem\u003emost\u003c/em\u003e needed to account for the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fce318c7-c96d-45c0-85cc-602fafbcaa11"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "31a61ae3-bb9c-41db-bb42-bfdbbbb14d67",
+                            "itemBody": "A. first-order effect on bond prices.",
+                            "position": 1
+                        },
+                        {
+                            "id": "00136def-b12f-4af4-a9d1-ad9a8651a974",
+                            "itemBody": "B. bond price risk due to small changes in yield-to-maturity.",
+                            "position": 2
+                        },
+                        {
+                            "id": "fce318c7-c96d-45c0-85cc-602fafbcaa11",
+                            "itemBody": "C. non-linear relationship of bond prices and yield to maturity.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8239,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51261",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA bond portfolio consists of the following three option-free, fixed-rate bonds:\u003c/p\u003e\n\u003cdiv id=\"CFA2442-R-s04-Tg\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eBond\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eMarket Value (£)\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eAnnual Modified Duration\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"\u003e\u003cstrong\u003eAnnual Convexity\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eX\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e5,000,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e3.6239\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e16.2513\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eY\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e5,000,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e9.0036\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e91.0278\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eZ\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e10,000,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e12.7512\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e179.8591\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8239,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51262",
+            "entry": {
+                "title": "CFA2442-R-s04-Q11",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The expected price change is calculated as follows:\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2442-R-s04-E___11\"\u003e%Δ\u003cem\u003ePV\u003csup\u003eFull\u003c/sup\u003e\n                  \u003c/em\u003e ≈ (–3.6239 × 0.005) + [½ × 16.2513 × (0.005)\u003csup\u003e2\u003c/sup\u003e] = –1.79164% ≈ –1.792%.\u003c/div\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf the yield-to-maturity of Bond X increases by 50 bps, the expected percentage price change of Bond X is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a768f550-ae69-41e2-a7a1-8c9f47dc8977"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a768f550-ae69-41e2-a7a1-8c9f47dc8977",
+                            "itemBody": "A. 1.792%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "e84f9729-6eb3-47fb-9188-9993260f36a2",
+                            "itemBody": "B. 1.812%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "77f49f50-3357-40bb-a912-d455dab7e93d",
+                            "itemBody": "C. 1.832%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8239,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": "51261"
+        },
+        {
+            "id": "51263",
+            "entry": {
+                "title": "CFA2442-R-s04-Q12",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Since the convexity adjustment uses the square of the change in yield, it is always positive regardless of the direction of the change in yield-to-maturity. As a result, the convexity adjustment for Bond Z will always be greater than the convexity adjustment for Bond Y, given the same change in yields-to-maturity.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eGiven a 75 bps change in the yields-to-maturity for Bonds Y and Z, the convexity adjustment for Bond Z would be greater than the convexity adjustment of Bond Y:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0314146d-dffa-46e6-88ff-3a988362ecdb"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "243abb81-ff49-4df3-bb73-0ba8e70ae980",
+                            "itemBody": "A. if the YTM change is positive.",
+                            "position": 1
+                        },
+                        {
+                            "id": "7431380d-7f4b-4466-b2f2-d5d2d0b45274",
+                            "itemBody": "B. if the YTM change is negative.",
+                            "position": 2
+                        },
+                        {
+                            "id": "0314146d-dffa-46e6-88ff-3a988362ecdb",
+                            "itemBody": "C. regardless of the direction of the change in YTM.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8239,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": "51261"
+        },
+        {
+            "id": "51264",
+            "entry": {
+                "title": "CFA2442-R-s04-Q13",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct.\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2442-R-s04-E___12\"\u003e\n                  \u003cem\u003eMoneyDur\u003c/em\u003e ≈ 9.0036 × 5,000,000 = 45,018,000\u003c/div\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2442-R-s04-E___13\"\u003e\n                  \u003cem\u003eMoneyCon\u003c/em\u003e ≈ 91.0278 × 5,000,000 = 455,139,000\u003c/div\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2442-R-s04-E___14\"\u003eΔ\u003cem\u003ePV\u003csup\u003eFull\u003c/sup\u003e\n                  \u003c/em\u003e ≈ –(45,018,000 × 0.01) + [½ × 455,139,000 × (0.01)\u003csup\u003e2\u003c/sup\u003e] = –GBP427,423.\u003c/div\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFor a 100 bps increase in yield-to-maturity and using money duration and money convexity, the estimated change in Bond Y’s full price is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "da7bd42c-908a-4ef5-88b9-e7c2a34d622e"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "57ed80eb-bc76-41b6-90b1-f6b19697350b",
+                            "itemBody": "A. GBP472,937.",
+                            "position": 1
+                        },
+                        {
+                            "id": "46020587-72ea-4ee7-acb0-840df9b1bd63",
+                            "itemBody": "B. GBP450,180.",
+                            "position": 2
+                        },
+                        {
+                            "id": "da7bd42c-908a-4ef5-88b9-e7c2a34d622e",
+                            "itemBody": "C. GBP427,423.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8239,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": "51261"
+        },
+        {
+            "id": "51265",
+            "entry": {
+                "title": "CFA2442-R-s04-Q14",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The portfolio weights for Bonds X, Y, and Z are 0.25, 0.25, and 0.50, respectively. The weighted average duration and convexity measures are calculated as follows:\u003c/p\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2442-R-s04-E___15\"\u003eWeighted-average duration = (0.25 × 3.6239) + (0.25 × 9.0036) + (0.50 × 12.7512) = 9.5325.\u003c/div\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2442-R-s04-E___16\"\u003eWeighted-average convexity = (0.25 × 16.2513) + (0.25 × 91.0278) + (0.50 × 179.8591) = 116.7493.\u003c/div\u003e\n               \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2442-R-s04-E___17\"\u003e%Δ\u003cem\u003ePV\u003csup\u003eFull\u003c/sup\u003e\n                  \u003c/em\u003e ≈ (–9.5325 × 0.01) + [½ × 116.7493 × (0.01)\u003csup\u003e2\u003c/sup\u003e] = –8.9487% ≈ –8.949%.\u003c/div\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFor a 100 bps increase in yield-to-maturity and using the weighted average duration and convexity, the expected percentage price change for the bond portfolio is \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dc09be50-ba68-482b-b3f3-ee2751d53327"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "57ab1bf6-9571-44a1-8c57-998312bc4571",
+                            "itemBody": "A. 7.981%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "dc09be50-ba68-482b-b3f3-ee2751d53327",
+                            "itemBody": "B. 8.949%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "06c7c808-7939-4101-9249-67a77a1bee58",
+                            "itemBody": "C. 9.533%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8239,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": "51261"
+        },
+        {
+            "id": "51266",
+            "entry": {
+                "title": "CFA2442-R-s04-Q15",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The portfolio has a weighted-average duration of 9.5325, which is identical to the benchmark’s duration. However, the portfolio has higher convexity (116.7493) compared to the benchmark (103.0677). All else equal, the portfolio should outperform the lower convexity benchmark portfolio in both rising and falling interest rate environments.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe bond portfolio’s benchmark is a fixed-income index with a duration of 9.5325 and convexity of 103.0677. Based on the weighted-average portfolio duration and convexity, the portfolio should outperform its benchmark in which of the following scenarios?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d5522b59-46e4-4747-bd52-0b762b99d42a"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "94dc2836-5a8e-4c87-a79d-21f2910609cf",
+                            "itemBody": "A. Only when interest rates are rising",
+                            "position": 1
+                        },
+                        {
+                            "id": "c8a05f6d-27ff-4e5a-bce2-5e48847cc0ed",
+                            "itemBody": "B. Only when interest rates are falling",
+                            "position": 2
+                        },
+                        {
+                            "id": "d5522b59-46e4-4747-bd52-0b762b99d42a",
+                            "itemBody": "C. Both when interest rates are rising and falling",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8239,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": "51261"
+        },
+        {
+            "id": "51267",
+            "entry": {
+                "title": "CFA2442-R-s04-Q16",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The weighted-average portfolio duration and convexity method is easy to calculate and apply in practice and is commonly used by portfolio managers to assess bond portfolio price risk. It does, however, implicitly assume parallel shifts in the yield curve. Using the weighted average of time to receipt of the aggregate cash flows is the theoretically correct method to calculate portfolio duration and convexity, but it is difficult to use in practice.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe method of using weighted-average portfolio duration and convexity measures to assess price risk of a bond portfolio is \u003cem\u003ebest\u003c/em\u003e characterized as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5115d7ef-74ff-4c9a-a47b-72d3a80df9c9"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c9182f24-51b2-4e18-aad0-81a23bfad9f7",
+                            "itemBody": "A. being theoretically correct.",
+                            "position": 1
+                        },
+                        {
+                            "id": "5115d7ef-74ff-4c9a-a47b-72d3a80df9c9",
+                            "itemBody": "B. being commonly used by portfolio managers.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2245257e-92c6-4497-80ec-69dc50e2b564",
+                            "itemBody": "C. accommodating non-parallel shifts in the yield curve.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8239,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": "51261"
+        },
+        {
+            "id": "54215",
+            "entry": {
+                "title": "ITEM_20170607047",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA bond with a par value of $100 matures in 10 years with a coupon of 4.5% paid semiannually; it is priced to yield 5.83% and has a modified duration of 7.81. If the yield of the bond declines by 0.25%, the approximate percentage price change for the bond is \u003ci\u003eclosest \u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "27393270-7ce1-4a3b-94e2-b80ae6864e10"
+                },
+                "answerFeedback": {
+                    "27393270-7ce1-4a3b-94e2-b80ae6864e10": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eApproximate percentage price change = –[7.81 × (–0.0025)] = 0.01953 or 1.95%\u003c/p\u003e",
+                    "44571f9c-df06-41f4-a58f-a9adb5ebfe4f": "\u003cp\u003eIncorrect. This incorrectly calculated as follows:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eApproximate percentage price change = –[7.81 × (–0.0025)] × 2 = 0.03905 or 3.91%\u003c/p\u003e",
+                    "b09303ec-1701-4b57-be9c-48115a93a8aa": "\u003cp\u003eIncorrect. This incorrectly calculated as follows:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eApproximate percentage price change = – [7.81 × (–0.0025)]/2 = 0.00976 or 0.98%\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b09303ec-1701-4b57-be9c-48115a93a8aa",
+                            "itemBody": "\u003cp\u003eA. 0.98%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "27393270-7ce1-4a3b-94e2-b80ae6864e10",
+                            "itemBody": "\u003cp\u003eB. 1.95%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "44571f9c-df06-41f4-a58f-a9adb5ebfe4f",
+                            "itemBody": "\u003cp\u003eC. 3.91%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8667,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54216",
+            "entry": {
+                "title": "ITEM_20170607054",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eThe following table provides information about a portfolio of three bonds.\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 434px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"vertical-align: bottom; width: 52px; max-width: 52px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eBond\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 79px; max-width: 79px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eMaturity\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 93px; max-width: 93px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003ePrice\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 111px; max-width: 111px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003ePar Amount\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 81px; max-width: 81px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eDuration\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 52px; max-width: 52px; text-align: center;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 79px; max-width: 79px; text-align: center;\"\u003e17-year\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 93px; max-width: 93px; text-align: center;\"\u003e$109.2461\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 111px; max-width: 111px; text-align: center;\"\u003e$16 million\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 81px; max-width: 81px; text-align: center;\"\u003e8.56\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 52px; max-width: 52px; text-align: center;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 79px; max-width: 79px; text-align: center;\"\u003e20-year\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 93px; max-width: 93px; text-align: center;\"\u003e$100.4732\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 111px; max-width: 111px; text-align: center;\"\u003e$4 million\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 81px; max-width: 81px; text-align: center;\"\u003e9.19\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 52px; max-width: 52px; text-align: center;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"vertical-align: top; width: 79px; max-width: 79px; text-align: center;\"\u003e25-year\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 93px; max-width: 93px;\"\u003e$84.6427\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 111px; max-width: 111px;\"\u003e$8 million\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 81px; max-width: 81px;\"\u003e11.48\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eBased on this information, the duration of the portfolio is \u003ci\u003eclosest \u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ebef6c2b-2d93-4796-937a-6e04291fe911"
+                },
+                "answerFeedback": {
+                    "b351f93d-40cb-447b-9c30-de064084cf33": "\u003cp\u003eIncorrect because it bases the weights on par values rather than market values.\u003c/p\u003e",
+                    "ebef6c2b-2d93-4796-937a-6e04291fe911": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The market values of the bonds (Price × Par amount) are $17,479,376, $4,018,928, and $6,771,416, respectively, for a portfolio value of $28,269,720. Therefore, the duration of the portfolio is:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e17\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e479\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e376\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e28\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e269\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e720\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e8.56\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e4\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e018\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e928\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e28\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e269\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e720\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e9.19\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e6\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e771\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e416\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e28\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e269\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e720\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e11.48\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e9.35\u003c/mn\u003e\u003c/mrow\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e",
+                    "f94e75de-f56a-4074-9012-f4806d5e1a7f": "\u003cp\u003eIncorrect because it is the simple arithmetic average of the bonds’ durations.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ebef6c2b-2d93-4796-937a-6e04291fe911",
+                            "itemBody": "\u003cp\u003eA. 9.35.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b351f93d-40cb-447b-9c30-de064084cf33",
+                            "itemBody": "\u003cp\u003eB. 9.48.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f94e75de-f56a-4074-9012-f4806d5e1a7f",
+                            "itemBody": "\u003cp\u003eC. 9.74.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8667,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54217",
+            "entry": {
+                "title": "ITEM_20170607061",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eOne limitation as to why using the average duration of the bonds in a portfolio does not properly reflect that portfolio’s yield curve risk is that the approach assumes:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "168a00ec-2a2c-41aa-abbe-3d0b29786ee8"
+                },
+                "answerFeedback": {
+                    "168a00ec-2a2c-41aa-abbe-3d0b29786ee8": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A limitation to using the average duration approach in calculating portfolio duration is that it assumes all interest rates across the yield curve change by the same amount and, therefore, each bond’s price changes by the same percentage.\u003c/p\u003e",
+                    "320f03d1-5d79-48a4-97c4-eb35e1c19f22": "\u003cp\u003eIncorrect because the duration of each bond is calculated using the appropriate discount rate for the bond, not the same discount rate for all bonds.\u003c/p\u003e",
+                    "976de9c1-5524-4119-95f0-5d4f072223a0": "\u003cp\u003eIncorrect because the duration of each bond is calculated using the bond’s coupon rate payment.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "168a00ec-2a2c-41aa-abbe-3d0b29786ee8",
+                            "itemBody": "\u003cp\u003eA. a parallel shift in the yield curve.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "976de9c1-5524-4119-95f0-5d4f072223a0",
+                            "itemBody": "\u003cp\u003eB. a non-parallel shift in the yield curve.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "320f03d1-5d79-48a4-97c4-eb35e1c19f22",
+                            "itemBody": "\u003cp\u003eC. all the bonds have the same discount rate.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8667,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54218",
+            "entry": {
+                "title": "ITEM_20170607086",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe Delfain Corporation reported a significant improvement in profitability that was followed by a material upgrade in its credit rating. The market responded by immediately requiring a 100 basis point narrower spread to Gilts on Delfain’s 8-year bond. If the bond’s modified duration is 6.0 and its convexity is 55.0, the return impact of this change is \u003ci\u003eclosest \u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "cc3b45f4-bf9f-4401-8f6d-bacf868fa477"
+                },
+                "answerFeedback": {
+                    "cc3b45f4-bf9f-4401-8f6d-bacf868fa477": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The return impact of a 60 bps fall in the bond’s yield can be computed as:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eReturn impact ≈ –(MDur × ΔSpread) + ½Cvx × (ΔSpread)\u003csup\u003e2\u003c/sup\u003e\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eReturn impact ≈ –(6.0 × –0.01) + ½(55.0) × (–0.01)\u003csup\u003e2\u003c/sup\u003e = 6.28%\u003c/p\u003e",
+                    "dc3f08f4-3c74-4431-86a5-025712f19092": "\u003cp\u003eIncorrect because the return impact is incorrectly computed as:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eReturn impact ≈ –(6.0 × 0.01) + ½(55.0) × (0.01)\u003csup\u003e2\u003c/sup\u003e = –5.73%\u003c/p\u003e",
+                    "eb11aa80-352c-482f-9bda-236a1bb0fda3": "\u003cp\u003eIncorrect because the return impact is incorrectly computed as:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003eReturn impact ≈ –(6.0 × –0.01) + 2 × (55.0) × (–0.01)\u003csup\u003e2\u003c/sup\u003e = 7.10%\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "dc3f08f4-3c74-4431-86a5-025712f19092",
+                            "itemBody": "\u003cp\u003eA. –5.73%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "cc3b45f4-bf9f-4401-8f6d-bacf868fa477",
+                            "itemBody": "\u003cp\u003eB. 6.28%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "eb11aa80-352c-482f-9bda-236a1bb0fda3",
+                            "itemBody": "\u003cp\u003eC. 7.10%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8667,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54219",
+            "entry": {
+                "title": "ITEM_20170607125",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA bond has a Macaulay duration of 6.0, modified duration of 6.5, and convexity of 50.25. If the bond’s yield to maturity decreases by 50 bps, the expected percentage price change is \u003ci\u003eclosest \u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "35b97bb8-0922-45cf-b55b-252b0f9e80b2"
+                },
+                "answerFeedback": {
+                    "35b97bb8-0922-45cf-b55b-252b0f9e80b2": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The expected percentage price change for a bond can be is estimated as follows:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e%Δ\u003cem\u003eP\u003csup\u003eFull\u003c/sup\u003e\u003c/em\u003e ≈ (–AnnModDur × ΔYield) + [0.5 × AnnConvexity × (ΔYield)\u003csup\u003e2\u003c/sup\u003e]\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e%Δ\u003cem\u003eP\u003csup\u003eFull\u003c/sup\u003e\u003c/em\u003e ≈ (–6.5 × –0.005) + [0.5 × 50.25 × (–0.005)\u003csup\u003e2\u003c/sup\u003e] = 3.313%\u003c/p\u003e",
+                    "54f53133-22b1-452c-81aa-0f3438090f68": "\u003cp\u003eIncorrect because it ignores the convexity adjustment, as follows:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e(–6.5 × –0.005) = 3.250%\u003c/p\u003e",
+                    "d012af43-eda7-4e0e-9c3f-9403bc24b5f5": "\u003cp\u003eIncorrect because it uses the Macaulay duration, as follows:\u003c/p\u003e\u003cp style=\"margin-left:1.618em\"\u003e(–6.0 × –0.005) + [0.5 × 50.25 × (–0.005)\u003csup\u003e2\u003c/sup\u003e] = 3.063%\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d012af43-eda7-4e0e-9c3f-9403bc24b5f5",
+                            "itemBody": "\u003cp\u003eA. 3.06%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "54f53133-22b1-452c-81aa-0f3438090f68",
+                            "itemBody": "\u003cp\u003eB. 3.25%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "35b97bb8-0922-45cf-b55b-252b0f9e80b2",
+                            "itemBody": "\u003cp\u003eC. 3.31%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8667,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54220",
+            "entry": {
+                "title": "ITEM_20170607131",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA bond’s duration is 7.31, and its convexity is –24.85. Using the duration model with convexity adjustment, the bond’s percentage change in price if interest rates decrease 2% is \u003ci\u003eclosest to\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5d76516a-9363-4edc-a566-a9df61f06198"
+                },
+                "answerFeedback": {
+                    "340d053c-eaee-4832-b51c-529807ce493e": "\u003cp\u003eIncorrect because it uses –\u003cem\u003eC\u003c/em\u003e × (∆\u003cem\u003ei\u003c/em\u003e)\u003csup\u003e2\u003c/sup\u003e × 100 or –24.85 × (0.02)\u003csup\u003e2\u003c/sup\u003e × 100 = +0.98% as the convexity adjustment and 14.62% + 0.98% = 15.60%.\u003c/p\u003e",
+                    "5d76516a-9363-4edc-a566-a9df61f06198": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The duration model estimates the percentage change in price as –AnnModDur × ΔYield, or –7.31 × (–0.02)= +14.62%, and the convexity adjustment is ½ × AnnConvexity × (∆Yield)\u003csup\u003e2\u003c/sup\u003e, or ½ × (–24.85) × (0.02)\u003csup\u003e2\u003c/sup\u003e = –0.50%, and 14.62% – 0.50% = 14.12%.\u003c/p\u003e",
+                    "af10daec-c963-4db0-bef4-5c74aaea0b76": "\u003cp\u003eIncorrect because it uses –\u003cem\u003eC\u003c/em\u003e × ∆\u003cem\u003ei\u003c/em\u003e as the convexity adjustment or –24.85 × –0.02 = 0.50% and 14.62% + 0.50% = 15.12%.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5d76516a-9363-4edc-a566-a9df61f06198",
+                            "itemBody": "\u003cp\u003eA. 14.12%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "af10daec-c963-4db0-bef4-5c74aaea0b76",
+                            "itemBody": "\u003cp\u003eB. 15.12%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "340d053c-eaee-4832-b51c-529807ce493e",
+                            "itemBody": "\u003cp\u003eC. 15.60%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8667,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54221",
+            "entry": {
+                "title": "ITEM_20180516054",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eConsider the following information on three bonds: Bond A, Bond B, and Bond C.\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 588px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; width: 241px; max-width: 241px;\" scope=\"col\"\u003e\u0026nbsp;\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 108px; max-width: 108px;\" scope=\"col\"\u003e\u003cstrong\u003eBond A\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 108px; max-width: 108px;\" scope=\"col\"\u003e\u003cstrong\u003eBond B\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; width: 114px; max-width: 114px;\" scope=\"col\"\u003e\u003cstrong\u003eBond C\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\"\u003eTime to maturity (years)\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e10\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e6\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 114px; max-width: 114px;\"\u003e4\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\"\u003ePar value\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e$10,000,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e$10,000,000\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 114px; max-width: 114px;\"\u003e$10,000,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\"\u003eMarket value\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e$9,323,381\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e$11,189,092\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 114px; max-width: 114px;\"\u003e$10,000,000\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\"\u003eAnnualized modified duration\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e7.3105\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\"\u003e4.6880\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 114px; max-width: 114px;\"\u003e3.4370\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eA fixed-income portfolio contains Bond A and Bond B. If another $10 million is added to the portfolio and is used to purchase Bond C, then the annualized modified duration of the portfolio will be \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "452b3bad-2de5-4c77-a6e2-8529b4703645"
+                },
+                "answerFeedback": {
+                    "33e26f61-c1a5-41b6-bc0d-830d40e8d2b0": "\u003cp\u003eIncorrect because the calculation of 6.5668 uses the time to maturity rather than the annualized modified duration for each bond:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmtext\u003eModDur\u003c/mtext\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e10\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e9\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e323\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e381\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e30\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e512\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e473\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e6\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e11\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e189\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e092\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e30\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e512\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e473\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e4\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e10\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e30\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e512\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e473\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e6.5668\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e",
+                    "452b3bad-2de5-4c77-a6e2-8529b4703645": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The new modified duration of the portfolio is calculated as follows:\u003c/p\u003e\n\u003cp\u003eThe initial market value of the portfolio = $9,323,381 + $11,189,092 = $20,512,473.\u003c/p\u003e\n\u003cp\u003eThe portfolio market value with the purchase of Bond C is:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eNew portfolio market value = $20,512,473 + $10,000,000 = $30,512,473.\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmtext\u003eModDur\u003c/mtext\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e7.3105\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e9\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e323\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e381\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e30\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e512\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e473\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e4.6880\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e11\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e189\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e092\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e30\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e512\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e473\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003cmtext\u003e \u003c/mtext\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e3.4370\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e10\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e30\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e512\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e473\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e5.0793\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e\n\u003cp\u003ewhere the first term in each set of brackets is the annualized modified duration and the second term is the weighting factor based on market value.\u003c/p\u003e",
+                    "c0c4e733-c578-441e-990d-3d23cd340cd2": "\u003cp\u003eIncorrect because the calculation of 5.1452 uses par value rather than market value in determining the portfolio value of $30,000,000 and in setting the weighting factors:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmtext\u003eModDur\u003c/mtext\u003e\u003cmo\u003e=\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e7.3105\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e10\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e30\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e4.6880\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e10\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e30\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e3.4370\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e10\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e30\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003cmo\u003e,\u003c/mo\u003e\u003cmn\u003e000\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e5.1452\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "452b3bad-2de5-4c77-a6e2-8529b4703645",
+                            "itemBody": "\u003cp\u003eA. 5.0793.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c0c4e733-c578-441e-990d-3d23cd340cd2",
+                            "itemBody": "\u003cp\u003eB. 5.1452.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "33e26f61-c1a5-41b6-bc0d-830d40e8d2b0",
+                            "itemBody": "\u003cp\u003eC. 6.5668.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8667,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54222",
+            "entry": {
+                "title": "ITEM_20180516058",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eConsider the following information for a traditional (option-free) fixed-rate bond where \u003ci\u003ePV\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e is the bond’s original price, \u003ci\u003ePV\u003c/i\u003e\u003csub\u003e+\u003c/sub\u003e is the new price of the bond when the yield to maturity is increased, \u003ci\u003ePV\u003cspan style=\"font-size: 13.5px;\"\u003e_\u003c/span\u003e\u003c/i\u003e\u0026nbsp;is the new price of the bond when the yield to maturity is decreased, ∆Curve is the change in the benchmark yield curve, and ∆Yield is the change in the yield to maturity:\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 409px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\"\u003e\n\u003cth style=\"vertical-align: bottom; width: 83px; max-width: 83px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003ePV\u003csub\u003e0\u003c/sub\u003e\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 87px; max-width: 87px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003ePV\u003csub\u003e+\u003c/sub\u003e\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 82px; max-width: 82px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003ePV\u003csub\u003e–\u003c/sub\u003e\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 71.9219px; max-width: 71.9219px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003e∆Curve\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"vertical-align: bottom; width: 63px; max-width: 63px; text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003e∆Yield\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"vertical-align: top; width: 83px; max-width: 83px; text-align: center;\"\u003e99.41172\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 87px; max-width: 87px;\"\u003e99.32213\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 82px; max-width: 82px;\"\u003e99.50132\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 71.9219px; max-width: 71.9219px;\"\u003e3 bps\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 63px; max-width: 63px;\"\u003e1 bp\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eThe bond’s approximate convexity is \u003ci\u003eclosest \u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f6ddcfef-f814-4704-b77e-dd48bbebb9bc"
+                },
+                "answerFeedback": {
+                    "3dfdabfc-7f3d-4f84-9253-36ec3f61333f": "\u003cp\u003eIncorrect because the change in the benchmark yield curve (not the change in the yield to maturity) was used to compute ApproxCon. The resulting incorrect answer is calculated as:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eApproxCon = \u003cmath style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e99.50132\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e99.32213\u003c/mn\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e99.41172\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.0003\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e99.41172\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e\u003c/math\u003e\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u0026nbsp;= 1.11769\u003c/p\u003e",
+                    "a7a617b5-6864-416e-8b18-b0c414201077": "\u003cp\u003eIncorrect because the change in yield to maturity was not squared in the denominator. The resulting incorrect answer is calculated as:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eApproxCon = \u003cmath style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e99.50132\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e99.32213\u003c/mn\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e99.41172\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.0001\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e99.41172\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e\u003c/math\u003e\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u0026nbsp;= 0.00101\u003c/p\u003e",
+                    "f6ddcfef-f814-4704-b77e-dd48bbebb9bc": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The bond’s approximate convexity (ApproxCon) is 10.05918, calculated as:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003eApproxCon = \u003cmath style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmrow\u003e \u003cmtext\u003ePV\u003c/mtext\u003e\u003c/mrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmrow\u003e \u003cmtext\u003ePV\u003c/mtext\u003e\u003c/mrow\u003e \u003cmo\u003e+\u003c/mo\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmrow\u003e \u003cmtext\u003ePV\u003c/mtext\u003e\u003c/mrow\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eΔ\u003c/mi\u003e\u003cmtext\u003eYield\u003c/mtext\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e×\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmrow\u003e \u003cmtext\u003ePV\u003c/mtext\u003e\u003c/mrow\u003e \u003cmn\u003e0\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e\u003c/math\u003e\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u0026nbsp;= \u003cmath style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e99.50132\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e99.32213\u003c/mn\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e99.41172\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0.0001\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e99.41172\u003c/mn\u003e\u003c/mrow\u003e \u003c/mfrac\u003e \u003c/mrow\u003e\u003c/math\u003e\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u0026nbsp;= 10.05918\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a7a617b5-6864-416e-8b18-b0c414201077",
+                            "itemBody": "\u003cp\u003eA. 0.00101.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3dfdabfc-7f3d-4f84-9253-36ec3f61333f",
+                            "itemBody": "\u003cp\u003eB. 1.11769.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f6ddcfef-f814-4704-b77e-dd48bbebb9bc",
+                            "itemBody": "\u003cp\u003eC. 10.05918.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8667,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54223",
+            "entry": {
+                "title": "ITEM_20190531023",
+                "feedback": {},
+                "itemBody": "\u003cdiv\u003eAn analyst gathers the following information on a bond:\n\u003cdiv\u003e\n\u003ctable style=\"border-collapse: collapse; width: 347px; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 260px; max-width: 260px;\"\u003eApproximate modified duration\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 80px; max-width: 80px;\"\u003e10.3829\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; width: 260px; max-width: 260px;\"\u003eApproximate modified convexity\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; width: 80px; max-width: 80px;\"\u003e141.217\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eWhat is the estimated percentage price change for the bond if yield to maturity decreases by 50 bps?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4be23816-f31a-4233-831f-77c133804e38"
+                },
+                "answerFeedback": {
+                    "4be23816-f31a-4233-831f-77c133804e38": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The convexity-adjusted estimate of the percentage change in bond price is calculated as follows:\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmi\u003e%\u003c/mi\u003e\u003cmi\u003eΔ\u003c/mi\u003e\u003cmsup\u003e \u003cmtext\u003ePV\u003c/mtext\u003e \u003cmrow\u003e \u003cmi\u003eF\u003c/mi\u003e\u003cmi\u003eu\u003c/mi\u003e\u003cmi\u003el\u003c/mi\u003e\u003cmi\u003el\u003c/mi\u003e\u003c/mrow\u003e \u003c/msup\u003e \u003cmo\u003e≈\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmtext\u003eAnnModDur\u003c/mtext\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmi\u003eΔ\u003c/mi\u003e\u003cmtext\u003eYield\u003c/mtext\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/mfrac\u003e \u003cmo\u003e×\u003c/mo\u003e\u003cmtext\u003eAnnConvexity\u003c/mtext\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eΔ\u003c/mi\u003e\u003cmtext\u003eYield\u003c/mtext\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e≈\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e10.3829\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e0.005\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/mfrac\u003e \u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e141.217\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e0.005\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e0.051915\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.001765\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e0.05368\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e",
+                    "62070bf1-0e52-4b5f-aa20-a3acbbaf617d": "\u003cp\u003eIncorrect. It is the result of neglecting to multiply the convexity adjustment by ½.\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e≈\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e10.3829\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e0.005\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e141.217\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e0.005\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e0.051915\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.00353\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmn\u003e0.0554\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e",
+                    "b9f178e8-b30e-456b-8867-ba918f1b207b": "\u003cp\u003eIncorrect. It is the result of omitting the negative sign for the change in yield.\u003c/p\u003e\n\u003cp style=\"margin-left: 1.618em;\"\u003e\u003cmath style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e \u003cmtable\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e≈\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e10.3829\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e0.005\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmfrac\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/mfrac\u003e \u003cmo\u003e×\u003c/mo\u003e\u003cmn\u003e141.217\u003c/mn\u003e\u003cmo\u003e×\u003c/mo\u003e\u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e0.005\u003c/mn\u003e\u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e0.051915\u003c/mn\u003e\u003cmo\u003e+\u003c/mo\u003e\u003cmn\u003e0.001765\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003cmtr\u003e \u003cmtd\u003e \u003cmo\u003e=\u003c/mo\u003e\u003cmo\u003e−\u003c/mo\u003e\u003cmn\u003e0.0501\u003c/mn\u003e \u003c/mtd\u003e \u003c/mtr\u003e \u003c/mtable\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b9f178e8-b30e-456b-8867-ba918f1b207b",
+                            "itemBody": "\u003cp\u003eA. –5.01%\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4be23816-f31a-4233-831f-77c133804e38",
+                            "itemBody": "\u003cp\u003eB. 5.37%\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "62070bf1-0e52-4b5f-aa20-a3acbbaf617d",
+                            "itemBody": "\u003cp\u003eC. 5.54%\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8667,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54224",
+            "entry": {
+                "title": "ITEM_2019BFI08EKH",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about an annual-pay bond:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 199px; border-style: none;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 137px; max-width: 137px;\"\u003eCoupon rate\u003c/td\u003e\n\u003ctd style=\"width: 52px; max-width: 52px; text-align: center;\"\u003e6.0%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 137px; max-width: 137px;\"\u003eYield to maturity\u003c/td\u003e\n\u003ctd style=\"width: 52px; max-width: 52px; text-align: center;\"\u003e4.5%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 137px; max-width: 137px;\"\u003eMacaulay duration\u003c/td\u003e\n\u003ctd style=\"width: 52px; max-width: 52px; text-align: center;\"\u003e10.0\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eIf the yield to maturity decreases by 100 basis points, the expected percentage change in the bond’s price is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0af83c22-54d6-4217-8dfb-ca25020188d0"
+                },
+                "answerFeedback": {
+                    "0af83c22-54d6-4217-8dfb-ca25020188d0": "\u003cp\u003eCorrect because modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity (YTM).\u003cbr\u003eModified duration = Macaulay Duration / (1+r) = 10.0/1.045 = 9.5694\u003cbr\u003e%*SYMBOL*PV≈ ¬AnnModDur × ∆Yield = –9.5694 × –1% = 9.5694% ≈ 9.57%.\u0026nbsp;\u003c/p\u003e",
+                    "7081fa18-9dbc-4db8-afa4-c564a1bef4dd": "\u003cp\u003eIncorrect because it calculates modified duration using the coupon rather than YTM. MacDur / (1 + coupon) = 10/1.06 = 9.43.\u0026nbsp;\u003c/p\u003e",
+                    "fcdd4016-7c7b-430e-954c-a1ce1b93626d": "\u003cp\u003eIncorrect because this is Macaulay duration. Macaulay duration must be adjusted by the yield-to-maturity to calculate the modified duration, and afterwards, modified duration is the used to calculate the percentage price change for a change in bond’s yield to maturity.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7081fa18-9dbc-4db8-afa4-c564a1bef4dd",
+                            "itemBody": "\u003cp\u003eA. 9.43%.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0af83c22-54d6-4217-8dfb-ca25020188d0",
+                            "itemBody": "\u003cp\u003eB. 9.57%.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "fcdd4016-7c7b-430e-954c-a1ce1b93626d",
+                            "itemBody": "\u003cp\u003eC. 10.00%.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8667,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4474,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

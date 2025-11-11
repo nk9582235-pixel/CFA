@@ -1,0 +1,1511 @@
+{
+    "user_id": 239466,
+    "quiz_id": 5977,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 24,
+    "hidden_question_count": 0,
+    "points": 6,
+    "points_possible": 24,
+    "correct_questions_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 3: Fiscal Policy",
+        "topic_id": 1032,
+        "topic": "CFA-26-02-LI-C: Economics",
+        "subtopic_id": 5977,
+        "subtopic": "Module 3: Fiscal Policy",
+        "question_count": 24,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 848,
+                "name": "Warehouse Course: Economics 26-LI",
+                "code": "Warehouse Course: Economics 26-LI",
+                "module_id": 4430,
+                "question_count": 14,
+                "type": "warehouse"
+            },
+            {
+                "id": 839,
+                "name": "Practice Pack Warehouse: Economics 26-LI",
+                "code": "Practice Pack Warehouse: Economics 26-LI",
+                "module_id": 4647,
+                "question_count": 10,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 24.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "6b9572e87c7f4af2",
+        "ordered_item_ids": [
+            "54511",
+            "54512",
+            "54513",
+            "54514",
+            "54515",
+            "54516",
+            "54517",
+            "54518",
+            "54519",
+            "54520",
+            "50769",
+            "50770",
+            "50771",
+            "50772",
+            "50773",
+            "54061",
+            "54062",
+            "54063",
+            "54064",
+            "54065",
+            "54066",
+            "54067",
+            "54068",
+            "54069"
+        ],
+        "visible_item_ids": [
+            "54511",
+            "54512",
+            "54513",
+            "54514",
+            "54515",
+            "54516",
+            "54517",
+            "54518",
+            "54519",
+            "54520",
+            "50769",
+            "50770",
+            "50771",
+            "50772",
+            "50773",
+            "54061",
+            "54062",
+            "54063",
+            "54064",
+            "54065",
+            "54066",
+            "54067",
+            "54068",
+            "54069"
+        ]
+    },
+    "items": [
+        {
+            "id": "54511",
+            "entry": {
+                "title": "ITEM_CFA-L1-10885",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following changes \u003ci\u003emost likely\u003c/i\u003e reflects a discretionary fiscal policy action?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "96758ece-674f-4a32-a790-0bac8eb94ece"
+                },
+                "answerFeedback": {
+                    "27d93c91-cc55-4eaf-b864-32955422cd91": "\u003cp\u003eIncorrect because automatic stabilizers—such as income tax, VAT, and social benefits—are important because as output and employment fall and reduce tax revenues, so net tax revenues also fall as unemployment benefits rise. This acts as a fiscal stimulus and serves to reduce the size of the multiplier, dampening the output response of whatever caused the fall in output in the first place. By their very nature, automatic stabilizers do not require policy changes; no policymaker has to decide that an economic shock has occurred and how to respond.\u003c/p\u003e",
+                    "96758ece-674f-4a32-a790-0bac8eb94ece": "\u003cp\u003eCorrect because in addition to these automatic adjustments, governments also use discretionary fiscal adjustments to influence aggregate demand. These will involve tax changes and/or spending cuts or increase usually with the aim of stabilizing the economy. An increase in government expenditures due to new infrastructure projects is a discretionary fiscal policy action because new public spending on social goods and infrastructure, such as hospitals and schools, boosting personal incomes with the objective of raising aggregate demand.\u003c/p\u003e",
+                    "aa0a51c0-d712-4ad2-81c0-59fc51704315": "\u003cp\u003eIncorrect because the deficit can change for reasons unrelated to actual fiscal policy changes. Automatic stabilizers will lead to changes in the budget deficit unrelated to fiscal policy changes; a recession will cause tax revenues to fall and the budget deficit to rise.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "aa0a51c0-d712-4ad2-81c0-59fc51704315",
+                            "itemBody": "\u003cp\u003eA. A decrease in corporate tax revenues due to lower corporate profitability\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "96758ece-674f-4a32-a790-0bac8eb94ece",
+                            "itemBody": "\u003cp\u003eB. An increase in government expenditures due to new infrastructure projects\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "27d93c91-cc55-4eaf-b864-32955422cd91",
+                            "itemBody": "\u003cp\u003eC. An increase in payments of unemployment benefits due to increasing unemployment\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8791,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4647,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54512",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Econ-Bailey-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWith respect to fiscal policy, transfer payments are \u003ci\u003ebest\u003c/i\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9f0ca29b-ec33-45bf-bf80-243eaca60838"
+                },
+                "answerFeedback": {
+                    "2723344d-cc19-4b5c-9191-111f18fb57e5": "\u003cp\u003eIncorrect because current government spending involves spending on goods and services that are provided on a regular, recurring basis—including health, education, and defense, not transfer payments.\u0026nbsp;\u003c/p\u003e",
+                    "9f0ca29b-ec33-45bf-bf80-243eaca60838": "\u003cp\u003eCorrect because transfer payment\u003cb\u003es\u003c/b\u003e are welfare payments made through the social security system, and, depending on the country, comprise payments for state pensions, housing benefits, tax credits and income support for poorer families, child benefits, unemployment benefits and job search allowances.\u003c/p\u003e",
+                    "f49c0765-1b59-4fb9-9a12-9ac1606a169c": "\u003cp\u003eIncorrect because capital expenditure includes infrastructure spending on roads, hospitals, prisons, and schools, not transfer payments.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9f0ca29b-ec33-45bf-bf80-243eaca60838",
+                            "itemBody": "\u003cp\u003eA. welfare payments.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f49c0765-1b59-4fb9-9a12-9ac1606a169c",
+                            "itemBody": "\u003cp\u003eB. infrastructure spending.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2723344d-cc19-4b5c-9191-111f18fb57e5",
+                            "itemBody": "\u003cp\u003eC. spending on recurring goods and services.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8791,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4647,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54513",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Econ-Young-13",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA decline in tax revenues due to a recession is \u003ci\u003ebest\u003c/i\u003e described as an example of a(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ff2c713f-8673-4246-b56b-a98869dd98fc"
+                },
+                "answerFeedback": {
+                    "0c6f531a-a0dd-40ea-9c9c-956d2219e7a9": "\u003cp\u003eIncorrect because falling tax revenues due to a recession are an example of an automatic stabilizer. Automatic stabilizers\u003cb\u003e \u003c/b\u003ewill lead to changes in the budget deficit unrelated to fiscal policy changes; a recession will cause tax revenues to fall and the budget deficit to rise. An expansionary fiscal policy is discretionary in order to help manage the economy through its influence on aggregate national output, that is, real GDP. In a recession, governments can raise spending (expansionary fiscal policy) in an attempt to raise employment and output.\u003c/p\u003e",
+                    "0c77498e-710f-42ea-adbc-f8285b2d8ec5": "\u003cp\u003eIncorrect because falling tax revenues due to a recession are an example of an automatic stabilizer. Automatic stabilizers\u003cb\u003e \u003c/b\u003ewill lead to changes in the budget deficit unrelated to fiscal policy changes; a recession will cause tax revenues to fall and the budget deficit to rise. A contractionary fiscal policy is discretionary in order to help manage the economy through its influence on aggregate national output, that is, real GDP. When an economy has full employment and wages and prices are rising too fast—then government spending may be reduced and taxes raised (contractionary fiscal policy).\u003c/p\u003e",
+                    "ff2c713f-8673-4246-b56b-a98869dd98fc": "\u003cp\u003eCorrect because falling tax revenues due to a recession is an example of automatic stabilizer, not a discretionary fiscal policy. Automatic stabilizers\u003cb\u003e \u003c/b\u003ewill lead to changes in the budget deficit unrelated to fiscal policy changes; a recession will cause tax revenues to fall and the budget deficit to rise.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ff2c713f-8673-4246-b56b-a98869dd98fc",
+                            "itemBody": "\u003cp\u003eA. automatic stabilizer.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0c6f531a-a0dd-40ea-9c9c-956d2219e7a9",
+                            "itemBody": "\u003cp\u003eB. expansionary fiscal policy.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0c77498e-710f-42ea-adbc-f8285b2d8ec5",
+                            "itemBody": "\u003cp\u003eC. contractionary fiscal policy.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8791,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4647,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54514",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Econ-Zipp-14",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is an expansionary fiscal policy?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1de51a7c-4ff2-4314-a12e-4b7fd0374d06"
+                },
+                "answerFeedback": {
+                    "1de51a7c-4ff2-4314-a12e-4b7fd0374d06": "\u003cp\u003eCorrect because there are\u0026nbsp;a number of ways that fiscal policy can influence aggregate demand. Expansionary policy could take\u0026nbsp;the form of\u0026nbsp;new public spending on social goods and infrastructure.\u003c/p\u003e",
+                    "6577193b-0537-4ef6-ae06-96b9bd3514b3": "\u003cp\u003eIncorrect because\u0026nbsp;when the economy is slowing and inflation and monetary trends are weakening, central banks may increase liquidity by cutting their target (interest)\u0026nbsp;rate. In these circumstances, monetary policy is said to be expansionary.\u0026nbsp;Thus while expansionary, this is an example of monetary rather than fiscal policy.\u003c/p\u003e",
+                    "9122dedb-a473-4c90-b23e-e07bc339c25e": "\u003cp\u003eIncorrect because expansionary (fiscal) policy could take\u0026nbsp;the form of\u0026nbsp;cuts in sales (indirect) taxes to lower prices which raises real incomes with the objective of raising consumer demand. Thus, an increase in sales taxes would be contractionary, not expansionary.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9122dedb-a473-4c90-b23e-e07bc339c25e",
+                            "itemBody": "\u003cp\u003eA. An increase in sales taxes\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6577193b-0537-4ef6-ae06-96b9bd3514b3",
+                            "itemBody": "\u003cp\u003eB. A\u0026nbsp;decrease in interest rates\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1de51a7c-4ff2-4314-a12e-4b7fd0374d06",
+                            "itemBody": "\u003cp\u003eC. \u003cspan\u003eAn increase\u003c/span\u003e in public spending on infrastructure\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8791,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4647,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54515",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Econ-Young-12",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following fiscal policy actions is \u003ci\u003emost likely\u003c/i\u003e contractionary?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fca6ac1f-a9b4-498f-adfc-f14b1c4ac597"
+                },
+                "answerFeedback": {
+                    "248c5b8a-4c37-44f3-a47f-9399946def62": "\u003cp\u003eIncorrect because decreasing taxes and increasing spending are indicative of a budget deficit, which is expansionary. An expansionary policy could take one or more of the following forms: cuts in sales (indirect) taxes to lower prices which raises real incomes with the objective of raising consumer demand, cuts in corporation (company) taxes to boost business profits, which may raise capital spending, and cuts in tax rates on personal savings to raise disposable income for those with savings, with the objective of raising consumer demand. Expansionary fiscal policy also includes new public spending on social goods and infrastructure, such as hospitals and schools, boosting personal incomes with the objective of raising aggregate demand. An increase in a budget surplus would be associated with contractionary fiscal policy, while a rise in a deficit is an expansionary fiscal policy.\u003c/p\u003e",
+                    "8ab9d485-b97f-4fcd-82dc-86245a03fa90": "\u003cp\u003eIncorrect because a decrease in taxes is expansionary, while a decrease in spending is contractionary. Without knowing the relative magnitudes, we cannot say whether the policy is expansionary or contractionary. An expansionary policy could take one or more of the following forms: cuts in sales (indirect) taxes to lower prices which raises real incomes with the objective of raising consumer demand, cuts in corporation (company) taxes to boost business profits, which may raise capital spending, and cuts in tax rates on personal savings to raise disposable income for those with savings, with the objective of raising consumer demand. However, an increase (not decrease) in spending is expansionary. Expansionary fiscal policy also includes new public spending on social goods and infrastructure, such as hospitals and schools, boosting personal incomes with the objective of raising aggregate demand. An increase in a budget surplus would be associated with contractionary fiscal policy, while a rise in a deficit is an expansionary fiscal policy.\u003c/p\u003e",
+                    "fca6ac1f-a9b4-498f-adfc-f14b1c4ac597": "\u003cp\u003eCorrect because increasing taxes and decreasing spending are\u0026nbsp;indicative of a contractionary fiscal policy. When an economy has full employment and wages and prices are rising too fast—then government spending may be reduced and taxes raised (contractionary fiscal policy).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fca6ac1f-a9b4-498f-adfc-f14b1c4ac597",
+                            "itemBody": "\u003cp\u003eA. Increasing taxes and decreasing\u0026nbsp;spending\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "248c5b8a-4c37-44f3-a47f-9399946def62",
+                            "itemBody": "\u003cp\u003eB. Decreasing taxes and increasing spending\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8ab9d485-b97f-4fcd-82dc-86245a03fa90",
+                            "itemBody": "\u003cp\u003eC. Decreasing taxes and decreasing spending\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8791,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4647,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54516",
+            "entry": {
+                "title": "ITEM_CFA-L1-08536",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA fiscal policy tool that can immediately influence spending is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "641a5678-cbe7-45cc-922e-ea06668a29b9"
+                },
+                "answerFeedback": {
+                    "5fc82072-dbe6-4253-8b40-5e38953cc7a2": "\u003cp\u003eIncorrect because capital spending plans take longer to formulate and implement, typically over a period of years. The slower the impact of a fiscal change, the more likely other exogenous changes will already be influencing the economy before the fiscal change kicks in.\u003c/p\u003e",
+                    "641a5678-cbe7-45cc-922e-ea06668a29b9": "\u003cp\u003eCorrect because indirect taxes can be adjusted almost immediately after they are announced and can influence spending behavior instantly and generate revenue for the government at little or no cost to the government.\u003c/p\u003e",
+                    "8b87b73a-2113-4e85-ba71-c37a420abd10": "\u003cp\u003eIncorrect because exchange rate targeting is a monetary policy tool, not a fiscal policy tool. Many developing economies choose to operate monetary policy by targeting their currency's exchange rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "641a5678-cbe7-45cc-922e-ea06668a29b9",
+                            "itemBody": "\u003cp\u003eA. indirect taxes.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8b87b73a-2113-4e85-ba71-c37a420abd10",
+                            "itemBody": "\u003cp\u003eB. exchange rate targeting.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "5fc82072-dbe6-4253-8b40-5e38953cc7a2",
+                            "itemBody": "\u003cp\u003eC. capital expenditure plans.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8791,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4647,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54517",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Econ-McDonald-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eAn objective of fiscal policy is to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "df0d0432-cf9e-4655-b3c8-7d448165d407"
+                },
+                "answerFeedback": {
+                    "140d02e7-6b3f-488f-86e8-2f8e78f05ede": "\u003cp\u003eIncorrect because monetary policy (not fiscal policy) refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy.\u0026nbsp;\u003c/p\u003e",
+                    "6f271a0e-0a3a-4913-b998-6a2477f4f009": "\u003cp\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration\"\u003eIncorrect because fiscal policy refers to the government’s decisions about taxation and spending.\u0026nbsp; It is for central banks that t\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration\"\u003ehere is one \u003c/span\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration\"\u003eoverarching objective that most seem to acknowledge explicitly, and that is the objective of maintaining price stability.\u003c/span\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration\"\u003e\u003cspan class=\"x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "df0d0432-cf9e-4655-b3c8-7d448165d407": "\u003cp\u003eCorrect because\u0026nbsp;fiscal policy can be used to redistribute income and wealth.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6f271a0e-0a3a-4913-b998-6a2477f4f009",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003emaintain\u0026nbsp;price stability.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "df0d0432-cf9e-4655-b3c8-7d448165d407",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eredistribute the wealth within an economy.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "140d02e7-6b3f-488f-86e8-2f8e78f05ede",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003einfluence\u0026nbsp;the quantity of credit in an economy.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8791,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4647,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54518",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Econ-Bailey-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following government actions is \u003ci\u003emost likely\u003c/i\u003e an expansionary fiscal policy?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "17e3df37-06cc-4b39-8714-d0d547ff73f6"
+                },
+                "answerFeedback": {
+                    "17e3df37-06cc-4b39-8714-d0d547ff73f6": "\u003cp\u003eCorrect because a decrease in taxes, including tax on savings, would be expansionary fiscal policy. For example, an expansionary policy could take the form of cuts in tax rates on personal savings to raise disposable income for those with savings, with the objective of raising consumer demand.\u0026nbsp;\u003c/p\u003e",
+                    "9932190d-f34e-4c43-8f55-6c20eab6d077": "\u003cp\u003eIncorrect because a decrease in public spending, including infrastructure, would not be an expansionary fiscal policy. For example, an expansionary policy could take the form of new public spending on social goods and infrastructure, such as hospitals and schools, boosting personal incomes with the objective of raising aggregate demand.\u003c/p\u003e",
+                    "b0a7a7e4-f139-494e-86cf-e0d8790cbf0e": "\u003cp\u003eIncorrect because an increase in taxes, including tax on sales, would not be\u0026nbsp;expansionary fiscal policy. For example, an expansionary policy could take\u0026nbsp;the form of cuts in sales (indirect) taxes to lower prices which raises real incomes with the objective of raising consumer demand.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b0a7a7e4-f139-494e-86cf-e0d8790cbf0e",
+                            "itemBody": "\u003cp\u003eA. Increasing sales tax rate\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "17e3df37-06cc-4b39-8714-d0d547ff73f6",
+                            "itemBody": "\u003cp\u003eB. Decreasing savings tax rate\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9932190d-f34e-4c43-8f55-6c20eab6d077",
+                            "itemBody": "\u003cp\u003eC. Decreasing infrastructure spending\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8791,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4647,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54519",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Econ-Kassem-13",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eMonetary policy is used to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e42e2c43-4197-4185-9d87-4175b510f934"
+                },
+                "answerFeedback": {
+                    "2e5e2847-5369-44d6-ba7a-f31d6ee44bac": "\u003cp\u003eIncorrect because fiscal policy, not monetary policy, is used to redistribute income and wealth.\u0026nbsp;Monetary policy refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy.\u0026nbsp;Whereas fiscal policy can be used to redistribute income and wealth.\u0026nbsp;\u003c/p\u003e",
+                    "5b2b81ea-befa-46e9-813a-7aa20381d0fb": "\u003cp\u003eIncorrect because fiscal policy, not monetary policy, determines taxation and spending. Monetary policy refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy.\u0026nbsp;Whereas fiscal policy refers to the government’s decisions about taxation and spending.\u0026nbsp;\u003c/p\u003e",
+                    "e42e2c43-4197-4185-9d87-4175b510f934": "\u003cp\u003eCorrect because the overarching goal of both monetary and fiscal policy is normally the creation of an economic environment where growth is stable and positive and inflation is stable and low.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e42e2c43-4197-4185-9d87-4175b510f934",
+                            "itemBody": "\u003cp\u003eA. promote stable growth.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2e5e2847-5369-44d6-ba7a-f31d6ee44bac",
+                            "itemBody": "\u003cp\u003eB. redistribute income and wealth.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "5b2b81ea-befa-46e9-813a-7aa20381d0fb",
+                            "itemBody": "\u003cp\u003eC. determine taxation and spending.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8791,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4647,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54520",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Econ-Elkinawy-Young-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn argument against being concerned about high national debt levels is that:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "01e69f12-84de-4924-a84f-ec0d3e31024d"
+                },
+                "answerFeedback": {
+                    "01e69f12-84de-4924-a84f-ec0d3e31024d": "\u003cp\u003eCorrect because this internally owed debt may overstate the problem. The arguments against being concerned about national debt (relative to GDP) include the following:\u0026nbsp;The scale of the problem may be overstated because the debt is owed internally to fellow citizens.\u0026nbsp;\u003c/p\u003e",
+                    "a1bef1aa-b129-4371-959c-7f3da37c5681": "\u003cp\u003eIncorrect because government borrowing leads to lower private sector investment. The arguments in favor of being concerned include: Government borrowing may divert private sector investment from taking place (an effect known as crowding out); if there is a limited amount of savings to be spent on investment, then larger government demands will lead to higher interest rates and lower private sector investing.\u003c/p\u003e",
+                    "c408ceb6-0d58-4017-838c-af18ebff7ceb": "\u003cp\u003eIncorrect because this is an argument against high national debt due to the risk of high inflation. The arguments in favor of being concerned include: If markets lose confidence in a government, then the central bank may have to print money to finance a government deficit. This may lead ultimately to high inflation.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "01e69f12-84de-4924-a84f-ec0d3e31024d",
+                            "itemBody": "\u003cp\u003eA. the debt is owed internally to fellow citizens.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a1bef1aa-b129-4371-959c-7f3da37c5681",
+                            "itemBody": "\u003cp\u003eB. government borrowing leads to higher private sector investment.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c408ceb6-0d58-4017-838c-af18ebff7ceb",
+                            "itemBody": "\u003cp\u003eC. the central bank can print money to finance a government deficit.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8791,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 839,
+            "sourceModuleId": 4647,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50769",
+            "entry": {
+                "title": "CFA2412-R-s06-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. A fall in interest rates is likely to lead to a rise in investment. Crowding out refers to government borrowing that reduces the ability of the private sector to invest.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCrowding out refers to a: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "84883253-31c7-43a2-a55b-3c52d2420164"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "700180e0-7fc0-4721-9065-4836e11d1ffe",
+                            "itemBody": "A. fall in interest rates that reduces private investment.",
+                            "position": 1
+                        },
+                        {
+                            "id": "70a1ec9a-65a0-4aea-952a-a3ba5230cda1",
+                            "itemBody": "B. rise in private investment that reduces private consumption.",
+                            "position": 2
+                        },
+                        {
+                            "id": "84883253-31c7-43a2-a55b-3c52d2420164",
+                            "itemBody": "C. rise in government borrowing that reduces the ability of the private sector to access investment funds.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8163,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4430,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50770",
+            "entry": {
+                "title": "CFA2412-R-s06-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Note that a reduction in government spending could be accompanied by an even bigger fall in taxation, making it be expansionary.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA contractionary fiscal policy will always involve which of the following? \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9c39c79f-2e4c-430b-b175-6983c16a5d11"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fce4cbc5-904c-4fa2-9dc8-d6fdc4ac931e",
+                            "itemBody": "A. Balanced budget",
+                            "position": 1
+                        },
+                        {
+                            "id": "38865bb7-09c6-4d8b-8c0c-dd51f59d2562",
+                            "itemBody": "B. Reduction in government spending",
+                            "position": 2
+                        },
+                        {
+                            "id": "9c39c79f-2e4c-430b-b175-6983c16a5d11",
+                            "itemBody": "C. Fall in the budget deficit or rise in the surplus",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8163,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4430,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50771",
+            "entry": {
+                "title": "CFA2412-R-s06-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Note that governments often allow pressure groups to affect fiscal policy and that Ricardian equivalence involves individuals correctly anticipating future taxes. Thus, A and B are not correct choices.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich one of the following statements is \u003cem\u003emost\u003c/em\u003e accurate? \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "506cb456-b82e-42c7-8d04-e00cf1917938"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4d6f8bb8-a5c2-4e01-9519-8e1e25d802dd",
+                            "itemBody": "A. Ricardian equivalence refers to individuals having no idea of future tax liabilities.",
+                            "position": 1
+                        },
+                        {
+                            "id": "c76decc5-eac2-4360-8c90-4b7cb1d3d970",
+                            "itemBody": "B. Governments do not allow political pressures to influence fiscal policies but do allow voters to affect monetary policies.",
+                            "position": 2
+                        },
+                        {
+                            "id": "506cb456-b82e-42c7-8d04-e00cf1917938",
+                            "itemBody": "C. If there is high unemployment in an economy, then easy monetary and fiscal policies should lead to an expansion in aggregate demand.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8163,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4430,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50772",
+            "entry": {
+                "title": "CFA2412-R-s06-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Cyclically adjusted budget deficits are appropriate indicators of fiscal policy. These are defined as the deficit that would exist if the economy was at full employment (or full potential output).\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich statement regarding fiscal policy is \u003cem\u003emost\u003c/em\u003e accurate? \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f704f617-91cb-487f-a351-6466cf7d81ee"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f704f617-91cb-487f-a351-6466cf7d81ee",
+                            "itemBody": "A. Cyclically adjusted budget deficits are appropriate indicators of fiscal policy.",
+                            "position": 1
+                        },
+                        {
+                            "id": "577bdaa4-dc67-492a-864a-b43d1caf6ca8",
+                            "itemBody": "B. To raise business capital spending, personal income taxes should be reduced.",
+                            "position": 2
+                        },
+                        {
+                            "id": "960b4b54-63ff-4494-9a43-b893572d3277",
+                            "itemBody": "C. An increase in the budget surplus is associated with expansionary fiscal policy.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8163,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4430,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50773",
+            "entry": {
+                "title": "CFA2412-R-s06-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Fiscal policy is subject to recognition, action, and impact lags.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe \u003cem\u003eleast likely\u003c/em\u003e explanation for why fiscal policy cannot stabilize aggregate demand completely is that: \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7a8dafad-61f6-4102-8a93-5d04b23bc3e4"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a4d8935d-ee09-4029-b0b0-9627d49201a7",
+                            "itemBody": "A. private sector behavior changes over time.",
+                            "position": 1
+                        },
+                        {
+                            "id": "7a8dafad-61f6-4102-8a93-5d04b23bc3e4",
+                            "itemBody": "B. policy changes are implemented very quickly.",
+                            "position": 2
+                        },
+                        {
+                            "id": "e5e197d2-23a2-44cb-bf71-7cf258d380cb",
+                            "itemBody": "C. fiscal policy focuses more on inflation than on unemployment.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8163,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4430,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54061",
+            "entry": {
+                "title": "ITEM_20170531101",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe crowding-out effect is \u003ci\u003emost likely \u003c/i\u003eassociated with:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "558dcd6f-d560-49a1-b76c-0820a2f949e9"
+                },
+                "answerFeedback": {
+                    "558dcd6f-d560-49a1-b76c-0820a2f949e9": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The tendency for government borrowing to decrease private sector investment is called the crowding-out effect.\u003c/p\u003e",
+                    "646058fb-159f-4cb1-8e7b-f7ac2b83bdfb": "\u003cp\u003eIncorrect. The tendency for government borrowing to decrease private sector investment is called the crowding-out effect.\u003c/p\u003e",
+                    "ec9cdcbc-f06a-41d2-b804-ce750a7d180a": "\u003cp\u003eIncorrect. The crowding-out effect \u003cem\u003eraises \u003c/em\u003ereal interest rates.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ec9cdcbc-f06a-41d2-b804-ce750a7d180a",
+                            "itemBody": "\u003cp\u003eA. falling real interest rates.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "646058fb-159f-4cb1-8e7b-f7ac2b83bdfb",
+                            "itemBody": "\u003cp\u003eB. decreasing government borrowing.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "558dcd6f-d560-49a1-b76c-0820a2f949e9",
+                            "itemBody": "\u003cp\u003eC. increasing government borrowing.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8590,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4430,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54062",
+            "entry": {
+                "title": "ITEM_20170531104",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf a government increases its spending on domestically produced goods by an amount that is financed by an equivalent increase in taxes, the aggregate demand will \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2724a0d1-26fa-4a34-8ee6-b25e2ab46b02"
+                },
+                "answerFeedback": {
+                    "2724a0d1-26fa-4a34-8ee6-b25e2ab46b02": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Aggregate demand rises when the government increases spending by the same amount as it raises taxes because the marginal propensity to spend out of disposable income is less than 1, and hence for every dollar less in disposable income, spending only falls by $\u003cem\u003ec\u003c/em\u003e (where \u003cem\u003ec\u003c/em\u003e is the marginal propensity to consume). Aggregate spending will fall less than the tax rise by a factor \u003cem\u003ec\u003c/em\u003e. This additional output will, in turn, lead to further increases in income and output through the multiplier effect.\u003c/p\u003e",
+                    "92ee915f-8332-4a75-9f59-4fab1d657ad7": "\u003cp\u003eIncorrect. Aggregate demand rises when the government increases spending by the same amount as it raises taxes because the marginal propensity to spend out of disposable income is less than 1, and hence for every dollar less in disposable income, spending only falls by $\u003cem\u003ec\u003c/em\u003e (where \u003cem\u003ec\u003c/em\u003e is the marginal propensity to consume). Aggregate spending will fall less than the tax rise by a factor \u003cem\u003ec\u003c/em\u003e. This additional output will, in turn, lead to further increases in income and output through the multiplier effect.\u003c/p\u003e",
+                    "e3e6751e-437c-4629-9574-c54e457d699b": "\u003cp\u003eIncorrect. Aggregate demand rises when the government increases spending by the same amount as it raises taxes because the marginal propensity to spend out of disposable income is less than 1, and hence for every dollar less in disposable income, spending only falls by $\u003cem\u003ec\u003c/em\u003e (where \u003cem\u003ec\u003c/em\u003e is the marginal propensity to consume). Aggregate spending will fall less than the tax rise by a factor \u003cem\u003ec\u003c/em\u003e. This additional output will, in turn, lead to further increases in income and output through the multiplier effect.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e3e6751e-437c-4629-9574-c54e457d699b",
+                            "itemBody": "\u003cp\u003eA. decrease.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "92ee915f-8332-4a75-9f59-4fab1d657ad7",
+                            "itemBody": "\u003cp\u003eB. remain unchanged.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2724a0d1-26fa-4a34-8ee6-b25e2ab46b02",
+                            "itemBody": "\u003cp\u003eC. increase.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8590,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4430,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54063",
+            "entry": {
+                "title": "ITEM_20170531106",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIn a hypothetical economy, consumption is 70% of pre-tax income, and the average tax rate is 25% of total income. If planned government expenditures are expected to increase by $1.25 billion, the increase in total income and spending, in billions, is \u003ci\u003eclosest \u003c/i\u003eto:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7c90b33d-468c-49b2-990e-800559450057"
+                },
+                "answerFeedback": {
+                    "4112e888-d69b-400d-9349-2b4e28a773d0": "\u003cp\u003eIncorrect. It uses G/MPC: 1.25/0.933 = 1.34\u003c/p\u003e",
+                    "7c90b33d-468c-49b2-990e-800559450057": "\u003cp\u003eCorrect.\u003c/p\u003e\n\u003cp\u003eThe fiscal multiplier is\u003cspan\u003e\u0026nbsp;\u003c/span\u003e\u003cspan class=\"formula\"\u003e\u003cimg class=\"Wirisformula\" role=\"math\" alt=\"formula\" align=\"middle\"\u003e\u003c/span\u003e\u003cspan\u003e\u0026nbsp;\u003c/span\u003ewhere\u003c/p\u003e\n\u003cp\u003e\u003cem\u003ec\u003c/em\u003e\u003cspan\u003e\u0026nbsp;\u003c/span\u003e= marginal propensity to consume = consumption/disposable income\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eT\u003c/em\u003e\u003cspan\u003e\u0026nbsp;\u003c/span\u003e= the tax rate\u003c/p\u003e\n\u003cp\u003eIt calculates the MPC from pre-tax income (MPC = 0.70) and applies the formula: 1/[1 –\u0026nbsp;\u003ci\u003ec\u003c/i\u003e(1 –\u003ci\u003eT\u003c/i\u003e)]: 1/[1 –\u0026nbsp;0.70(1 –\u0026nbsp;0.25)] = 2.10; resulting in an overall stimulus effect of 2.10 × 1.25 = 2.60.\u003c/p\u003e",
+                    "ac488bc5-7771-4020-9b2b-0cc3950586f3": "\u003cp\u003eIncorrect\u003c/p\u003e\n\u003cp\u003eThis approach incorrectly recalculates the marginal propensity to consume (MPC) as $70 / $75 = 0.933,\u003c/p\u003e\n\u003cp\u003ewhere,\u003c/p\u003e\n\u003cp\u003eAssuming pre-tax income of $100\u003c/p\u003e\n\u003cp\u003eDisposable income: $100 × (1 – 0.25) = $75\u003c/p\u003e\n\u003cp\u003eMarginal propensity to consume: $70/$75 = 0.933\u003c/p\u003e\n\u003cp\u003eThe fiscal multiplier: 1/[1 – 0.933(1 – 0.25)] = 3.33\u003c/p\u003e\n\u003cp\u003eWith government expenditure of $1.25 billion, total incomes and spending will rise by $1.25 billion × 3.33 = $4.2 billion.\u003c/p\u003e\n\u003cp\u003eThis treats\u0026nbsp;the original 0.70 (which was based on pre-tax income) as consumption out of disposable income. However, the fiscal multiplier formula already adjusts for taxes using the term\u003cspan\u003e\u0026nbsp;\u003c/span\u003e\u003ci\u003ec\u003c/i\u003e(1 − \u003ci\u003et\u003c/i\u003e). Recalculating MPC in this way double-counts the effect of taxes and overstates the multiplier.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4112e888-d69b-400d-9349-2b4e28a773d0",
+                            "itemBody": "\u003cp\u003eA. $1.3.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7c90b33d-468c-49b2-990e-800559450057",
+                            "itemBody": "\u003cp\u003eB. $2.6.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ac488bc5-7771-4020-9b2b-0cc3950586f3",
+                            "itemBody": "\u003cp\u003eC. $4.2.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8590,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4430,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54064",
+            "entry": {
+                "title": "ITEM_20170531133",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe primary goal of both monetary and fiscal policy focuses on balancing economic growth and:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b4b5d92e-6cb6-4f44-b554-0fa46ac681b4"
+                },
+                "answerFeedback": {
+                    "6a1c2299-2c49-4bc7-9beb-b8f99b2df7be": "\u003cp\u003eIncorrect because the overarching goal of monetary and fiscal policy is to create economic conditions characterized by positive, stable economic growth and low, stable inflation. Achieving this goal promotes stability (rather than cyclicality) in employment, consumption, and saving/investment outcomes.\u003c/p\u003e",
+                    "b4b5d92e-6cb6-4f44-b554-0fa46ac681b4": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The goal of both monetary and fiscal policy is the creation of an economic environment characterized by positive, stable growth and low, stable inflation.\u003c/p\u003e",
+                    "f221206f-bde8-4653-8d27-24ef282a07e5": "\u003cp\u003eIncorrect because the distribution of income (and wealth) lies within the purview of fiscal policy involving the government’s decisions concerning spending and taxes. By contrast, monetary policy refers to central bank activities directed toward influencing the quantity of money and credit in an economy. Income distribution is not a policy domain of monetary policy.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b4b5d92e-6cb6-4f44-b554-0fa46ac681b4",
+                            "itemBody": "\u003cp\u003eA. inflation.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6a1c2299-2c49-4bc7-9beb-b8f99b2df7be",
+                            "itemBody": "\u003cp\u003eB. employment.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f221206f-bde8-4653-8d27-24ef282a07e5",
+                            "itemBody": "\u003cp\u003eC. income distribution.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8590,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4430,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54065",
+            "entry": {
+                "title": "ITEM_20190530006",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe government embarks on a policy intended to reduce the budget deficit. This is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6d363223-058c-4357-b32e-5c90284a358c"
+                },
+                "answerFeedback": {
+                    "15ea505f-2b5b-41d7-8b09-ffd2c5ff1131": "\u003cp\u003eIncorrect. Reducing the budget deficit would slow the economy, not expand it.\u003c/p\u003e",
+                    "6d363223-058c-4357-b32e-5c90284a358c": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A policy intended to reduce a budget deficit would involve raising taxes and/or reducing spending. Either action is fiscal and would likely cause the economy to slow, which is contractionary.\u003c/p\u003e",
+                    "86be8722-1105-4bc0-b600-2877f03f47b9": "\u003cp\u003eIncorrect. Quantitative easing is an action of monetary policy and does not address the budget deficit, which is a fiscal issue.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "15ea505f-2b5b-41d7-8b09-ffd2c5ff1131",
+                            "itemBody": "\u003cp\u003eA. an expansionary fiscal policy.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6d363223-058c-4357-b32e-5c90284a358c",
+                            "itemBody": "\u003cp\u003eB. a contractionary fiscal policy.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "86be8722-1105-4bc0-b600-2877f03f47b9",
+                            "itemBody": "\u003cp\u003eC. an example of quantitative easing.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8590,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4430,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54066",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Econ-Bailey-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFiscal policy refers to the government's decisions about:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0697de0c-6d2e-4068-b0a3-27d387bbf8b1"
+                },
+                "answerFeedback": {
+                    "0697de0c-6d2e-4068-b0a3-27d387bbf8b1": "\u003cp\u003e\u003cstrong\u003eCorrect \u003c/strong\u003ebecause fiscal policy refers to the government's decisions about taxation and spending.\u003c/p\u003e",
+                    "7ea4aa18-b945-405c-8894-bbe637053126": "\u003cp\u003eIncorrect because monetary policy refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy. By contrast,\u0026nbsp;fiscal policy refers to the government's decisions about taxation and spending.\u003c/p\u003e",
+                    "afa3903f-0987-4a8c-a824-26d657a0faad": "\u003cp\u003eIncorrect because fiscal policy refers to the government's decisions about taxation and spending.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "afa3903f-0987-4a8c-a824-26d657a0faad",
+                            "itemBody": "\u003cp\u003eA. taxation only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0697de0c-6d2e-4068-b0a3-27d387bbf8b1",
+                            "itemBody": "\u003cp\u003eB. taxation and spending only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7ea4aa18-b945-405c-8894-bbe637053126",
+                            "itemBody": "\u003cp\u003eC. taxation, spending, and the quantity of money in the economy.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8590,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4430,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54067",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-Econ-Crutu-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following economic policies is \u003ci\u003emost likely\u003c/i\u003e directed toward influencing the quantity of credit in an economy?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9d68ee5b-69ef-4441-be27-2a411febe9fd"
+                },
+                "answerFeedback": {
+                    "19eefdc5-ae2f-480a-8a91-e0b7175d91a0": "\u003cp\u003eIncorrect because fiscal policy refers to the government’s decisions about taxation and spending and it is not directly related to the quantity of credit in an economy.\u003c/p\u003e",
+                    "38266f75-bb4c-441c-86db-98a8f4fdbbe8": "\u003cp\u003eIncorrect because fiscal policy refers to the government’s decisions about taxation and spending and it is not directly related to the quantity of credit in an economy.\u003c/p\u003e",
+                    "9d68ee5b-69ef-4441-be27-2a411febe9fd": "\u003cp\u003e\u003cstrong\u003eCorrect \u003c/strong\u003ebecause monetary policy refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "19eefdc5-ae2f-480a-8a91-e0b7175d91a0",
+                            "itemBody": "\u003cp\u003eA. Fiscal policy only\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9d68ee5b-69ef-4441-be27-2a411febe9fd",
+                            "itemBody": "\u003cp\u003eB. Monetary policy only\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "38266f75-bb4c-441c-86db-98a8f4fdbbe8",
+                            "itemBody": "\u003cp\u003eC. Both fiscal policy and monetary policy\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8590,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4430,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54068",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Econ-Islam-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is\u0026nbsp;\u003ci\u003emost likely\u003c/i\u003e\u0026nbsp;an objective of fiscal policy?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b02d7c48-6c3d-416f-bd81-64cfd528f341"
+                },
+                "answerFeedback": {
+                    "110855ce-0fe4-4f81-a760-14b59888b6c5": "\u003cp\u003eIncorrect because targeting exchange rates\u0026nbsp;is a part of\u0026nbsp;monetary not fiscal policy. Many developing economies choose to operate monetary policy by targeting their currency’s exchange rate, rather than an explicit level of domestic inflation.\u003c/p\u003e",
+                    "b02d7c48-6c3d-416f-bd81-64cfd528f341": "\u003cp\u003e\u003cstrong\u003eCorrect \u003c/strong\u003ebecause the tools associated with fiscal policy involve the use of government spending and changing tax revenue to affect a number of aspects of the economy: including the overall level of aggregate demand in an economy and hence the level of economic activity.\u003c/p\u003e",
+                    "e2f53447-426d-4b0f-b6a7-8ce113edff21": "\u003cp\u003eIncorrect because ensuring price stability is an objective of monetary policy not fiscal policy. There is one overarching objective [of the central bank] that most seem to acknowledge explicitly, and that is the objective of maintaining price stability.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e2f53447-426d-4b0f-b6a7-8ce113edff21",
+                            "itemBody": "\u003cp\u003eA. Maintaining price stability\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b02d7c48-6c3d-416f-bd81-64cfd528f341",
+                            "itemBody": "\u003cp\u003eB. Affecting aggregate demand\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "110855ce-0fe4-4f81-a760-14b59888b6c5",
+                            "itemBody": "\u003cp\u003eC. Achieving\u0026nbsp;an exchange rate target\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8590,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4430,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54069",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Econ-Zipp-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn objective of fiscal policy is to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "398ed886-7b0d-456a-809a-057b76dee3c7"
+                },
+                "answerFeedback": {
+                    "398ed886-7b0d-456a-809a-057b76dee3c7": "\u003cp\u003e\u003cstrong\u003eCorrect \u003c/strong\u003ebecause fiscal policy involves the use of government spending and changing tax revenue to affect a number of aspects of the economy including the distribution of income and wealth among different segments of the population.\u003c/p\u003e",
+                    "e3e3240a-cb8a-46f8-83b7-5fec843560bb": "\u003cp\u003eIncorrect because monetary policy, not fiscal policy, refers to central bank activities such as supervising the banking system.\u003c/p\u003e",
+                    "eadaed1a-bfa6-4232-aa53-b5bd1322a721": "\u003cp\u003eIncorrect because monetary policy refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy. By contrast, fiscal policy refers to the government’s decisions about taxation and spending.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e3e3240a-cb8a-46f8-83b7-5fec843560bb",
+                            "itemBody": "\u003cp\u003eA. supervise the banking system.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "eadaed1a-bfa6-4232-aa53-b5bd1322a721",
+                            "itemBody": "\u003cp\u003eB. influence the quantity of credit in an economy.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "398ed886-7b0d-456a-809a-057b76dee3c7",
+                            "itemBody": "\u003cp\u003eC. distribute income among different segments of the population.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8590,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 848,
+            "sourceModuleId": 4430,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {},
+    "scored_data": {
+        "points": 6,
+        "points_possible": 24
+    }
+}

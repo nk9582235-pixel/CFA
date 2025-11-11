@@ -1,0 +1,1251 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6074,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 20,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 7: Introduction to Digital Assets",
+        "topic_id": 1038,
+        "topic": "CFA-26-02-LI-C: Alternative Investments",
+        "subtopic_id": 6074,
+        "subtopic": "Module 7: Introduction to Digital Assets",
+        "question_count": 20,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 854,
+                "name": "Warehouse Course: Alternative Investments 26-LI",
+                "code": "Warehouse Course: Alternative Investments 26-LI",
+                "module_id": 4498,
+                "question_count": 15,
+                "type": "warehouse"
+            },
+            {
+                "id": 845,
+                "name": "Practice Pack Warehouse: Alternative Investments 26-LI",
+                "code": "Practice Pack Warehouse: Alternative Investments 26-LI",
+                "module_id": 4767,
+                "question_count": 5,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 20.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "f7d73b6212df6b9f",
+        "ordered_item_ids": [
+            "56699",
+            "56700",
+            "56701",
+            "56702",
+            "56703",
+            "51344",
+            "51345",
+            "51346",
+            "51347",
+            "51348",
+            "51349",
+            "51350",
+            "51351",
+            "51352",
+            "51353",
+            "51354",
+            "51355",
+            "53971",
+            "53972",
+            "53973"
+        ],
+        "visible_item_ids": [
+            "56699",
+            "56700",
+            "56701",
+            "56702",
+            "56703",
+            "51344",
+            "51345",
+            "51346",
+            "51347",
+            "51348",
+            "51349",
+            "51350",
+            "51351",
+            "51352",
+            "51353",
+            "51354",
+            "51355",
+            "53971",
+            "53972",
+            "53973"
+        ]
+    },
+    "items": [
+        {
+            "id": "56699",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-Alt-Glover-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCompared to traditional financial assets, digital assets:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6377c159-34ed-4dce-8042-e101ae7d00db"
+                },
+                "answerFeedback": {
+                    "6377c159-34ed-4dce-8042-e101ae7d00db": "\u003cp\u003eCorrect because, unlike financial assets, most digital assets do\u0026nbsp;not have an inherent value based on underlying assets or on the potential\u0026nbsp;cash flow.\u003c/p\u003e",
+                    "8a1d35d3-b224-4a19-9ca9-28320b37437f": "\u003cp\u003eIncorrect because one key difference between digital\u0026nbsp;assets and traditional financial instruments is that traditional (not digital) assets are\u0026nbsp;generally recorded in private\u0026nbsp; ledgers maintained by central intermediaries.\u003c/p\u003e",
+                    "c73fb229-156d-4823-9e86-f07a2f721241": "\u003cp\u003eIncorrect because the main similarity (not difference) between these asset types is the emergence of indirect\u0026nbsp;investment vehicles such as exchange-traded funds (ETFs) and hedge funds that invest\u0026nbsp;both in traditional financial assets and in digital assets.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c73fb229-156d-4823-9e86-f07a2f721241",
+                            "itemBody": "\u003cp\u003eA. can be invested in through indirect investment vehicles such as ETFs.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8a1d35d3-b224-4a19-9ca9-28320b37437f",
+                            "itemBody": "\u003cp\u003eB. are generally recorded in private ledgers maintained by central intermediaries.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6377c159-34ed-4dce-8042-e101ae7d00db",
+                            "itemBody": "\u003cp\u003eC. do not have an inherent value based on underlying assets or on potential cash flows.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9035,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4767,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56700",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-Alt-Glover-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following forms of digital asset investment \u003ci\u003emost likely\u003c/i\u003e involves the use of a cryptocurrency wallet?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c5098511-78ff-46c0-b765-d908a7483edb"
+                },
+                "answerFeedback": {
+                    "7465363e-688b-48ba-8039-a21623bf5fc0": "\u003cp\u003eIncorrect because an increasing number of exchange-traded\u0026nbsp;products, such as ETFs, seek to replicate digital asset investment\u0026nbsp;returns. These ETFs typically do not directly invest in cryptocurrencies and gain\u0026nbsp;exposure to the value of cryptocurrencies using cash and cryptocurrency\u0026nbsp;derivatives.\u0026nbsp;Since no direct investment is made, a cryptocurrency wallet is not required.\u003c/p\u003e",
+                    "c5098511-78ff-46c0-b765-d908a7483edb": "\u003cp\u003eCorrect because digital asset investment can take the form of direct investment on the blockchain or indirect investments. Direct ownership of bitcoin and other cryptocurrencies involves the use of a cryptocurrency wallet, which stores the (public and private) digital codes required to access the asset on a computer website or mobile device application.\u003c/p\u003e",
+                    "d185dbad-fa2a-4e63-a7b7-f66f621a9477": "\u003cp\u003eIncorrect because \u003ci\u003ecryptocurrency coin trusts\u003c/i\u003e allow investors to trade shares in trusts holding large\u0026nbsp;pools of a cryptocurrency and that trade over the counter (OTC) and behave like\u0026nbsp;closed-end funds. For an investor in a coin trust, there is no need to create a\u0026nbsp;digital wallet and use encryption keys to invest in cryptocurrencies.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c5098511-78ff-46c0-b765-d908a7483edb",
+                            "itemBody": "\u003cp\u003eA. Direct investment\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7465363e-688b-48ba-8039-a21623bf5fc0",
+                            "itemBody": "\u003cp\u003eB. Indirect investment via ETFs\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d185dbad-fa2a-4e63-a7b7-f66f621a9477",
+                            "itemBody": "\u003cp\u003eC. Indirect investment via coin\u0026nbsp;trusts\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9035,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4767,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56701",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-Alt-Glover-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCompared to centralized cryptocurrency exchanges, decentralized exchanges are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7632b218-354d-4793-b39a-851481206fac"
+                },
+                "answerFeedback": {
+                    "343bcefc-3bbb-4830-8582-0af9775dfdd1": "\u003cp\u003eIncorrect because decentralized exchanges\u0026nbsp;are difficult to regulate because no single individual, organization, or group\u0026nbsp;controls the system. This means that those trading on decentralized exchanges\u0026nbsp;are generally free to transact without any regulatory scrutiny.\u0026nbsp;However, some centralized\u0026nbsp;exchanges are regulated, and depending on\u0026nbsp;jurisdiction, these exchanges may be regulated as financial exchanges or other\u0026nbsp;types of financial intermediaries.\u0026nbsp;Hence,\u0026nbsp;decentralized exchanges are less (not more)\u0026nbsp;likely to be regulated.\u003c/p\u003e",
+                    "68237bbc-59a9-42bc-a477-58773c5cb7b7": "\u003cp\u003eIncorrect because\u0026nbsp;decentralized exchanges lack a\u0026nbsp;centralized control mechanism and operate on a distributed platform without\u0026nbsp;central coordination or control. This comes with the benefit that should one of\u0026nbsp;the computers on the network be attacked, the exchange remains operational\u0026nbsp;since there are numerous other computers that continue to operate on the\u0026nbsp;network. That is why attacking decentralized exchanges is substantially more\u0026nbsp;difficult, rendering such attacks almost certain to fail. However, for a centralized exchange, trading is hosted on private servers, exposing the centralized exchanges and their\u0026nbsp;clients to security vulnerabilities. Should the exchange's servers become\u0026nbsp;compromised, the entire system may become paralyzed, halting trade, and\u0026nbsp;leaking vital user information.\u0026nbsp;Hence, decentralized exchanges are less (not more) susceptible to attacks from hackers.\u003c/p\u003e",
+                    "7632b218-354d-4793-b39a-851481206fac": "\u003cp\u003eCorrect because decentralized exchanges lack a centralized control mechanism and operate on a distributed platform without central coordination or control. This comes with the benefit that should one of the computers on the network be attacked, the exchange remains operational since there are numerous other computers that continue to operate on the network. That is why attacking decentralized exchanges is substantially more difficult, rendering such attacks almost certain to fail. However, for a centralized exchange, trading is hosted on private servers, exposing the centralized exchanges and their clients to security vulnerabilities. Should the exchange's servers become compromised, the entire system may become paralyzed, halting trade, and leaking vital user information. Hence, decentralized exchanges are less susceptible to attacks from hackers.\u003c/p\u003e\n\u003cp\u003eMoreover, decentralized exchanges are difficult to regulate because no single individual, organization, or group controls the system. This means that those trading on decentralized exchanges are generally free to transact without any regulatory scrutiny. However, some centralized exchanges are regulated, and depending on jurisdiction, these exchanges may be regulated as financial exchanges or other types of financial intermediaries. Hence, decentralized exchanges are less likely to be regulated.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7632b218-354d-4793-b39a-851481206fac",
+                            "itemBody": "\u003cp\u003eA. less\u0026nbsp;likely to be regulated and less\u0026nbsp;susceptible to attacks from hackers.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "68237bbc-59a9-42bc-a477-58773c5cb7b7",
+                            "itemBody": "\u003cp\u003eB. less likely to be regulated and more susceptible to attacks from hackers.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "343bcefc-3bbb-4830-8582-0af9775dfdd1",
+                            "itemBody": "\u003cp\u003eC. more likely to be regulated and less\u0026nbsp;susceptible to attacks from hackers.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9035,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4767,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56702",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.06-Alt-Tyler-21",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCryptocurrency prices are driven by:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1589b1ad-3178-4fa3-9a6d-71cc1aeedd50"
+                },
+                "answerFeedback": {
+                    "1589b1ad-3178-4fa3-9a6d-71cc1aeedd50": "\u003cp\u003eCorrect because among other drivers, prices (or returns) of cryptocurrencies are driven more by technological advancement and regulatory development.\u003c/p\u003e",
+                    "601252d2-4a2b-4c3b-9179-dca46959f1fb": "\u003cp\u003eIncorrect because among other drivers, prices (or returns) of cryptocurrencies are driven more by technological advancement and\u0026nbsp;regulatory development.\u003c/p\u003e",
+                    "90bdb47a-ba77-4a08-902b-37d991909501": "\u003cp\u003eIncorrect because among other drivers, prices (or returns) of cryptocurrencies are driven more by technological advancement and\u0026nbsp;regulatory development.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "601252d2-4a2b-4c3b-9179-dca46959f1fb",
+                            "itemBody": "\u003cp\u003eA. regulatory development only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "90bdb47a-ba77-4a08-902b-37d991909501",
+                            "itemBody": "\u003cp\u003eB. technological advancement only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1589b1ad-3178-4fa3-9a6d-71cc1aeedd50",
+                            "itemBody": "\u003cp\u003eC. both regulatory development and technological advancement.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9035,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4767,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56703",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-PM-Glover-05",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eThe process of representing ownership rights to physical assets on a distributed ledger \u003ci\u003ebest\u003c/i\u003e describes:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a6a2fc5f-f28d-4446-8f1e-0570854235cd"
+                },
+                "answerFeedback": {
+                    "46b10204-fa15-4736-8740-1643cfc41312": "\u003cp\u003eIncorrect because an initial coin offering (ICO) is an unregulated process whereby companies sell their crypto tokens to investors in exchange for fiat money or for another agreed upon cryptocurrency. An ICO\u0026nbsp;is typically structured to issue digital tokens to investors that can be used to purchase future products or services being developed by the issuer.\u003c/p\u003e",
+                    "a6a2fc5f-f28d-4446-8f1e-0570854235cd": "\u003cp\u003eCorrect because tokenization is the process of representing ownership rights to physical assets on a blockchain or distributed ledger.\u003c/p\u003e",
+                    "bfa69c0a-8f83-46cb-a625-2cfa0587ce15": "\u003cp\u003eIncorrect because a blockchain is a type of digital ledger in which information, such as changes in ownership, is recorded sequentially within blocks that are then linked or 'chained' together and secured using cryptographic methods.\u0026nbsp;However, the process of representing ownership on such a blockchain is called tokenization so this answer choice is not the best description.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a6a2fc5f-f28d-4446-8f1e-0570854235cd",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003etokenization.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "bfa69c0a-8f83-46cb-a625-2cfa0587ce15",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ea blockchain.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "46b10204-fa15-4736-8740-1643cfc41312",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ean initial coin offering.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9035,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4767,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51344",
+            "entry": {
+                "title": "CFA1943-R-s05-Q4",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. DLT has the potential to streamline the existing, often complex and labor-intensive post-trade processes in securities markets by providing close to real-time trade verification, reconciliation, and settlement, thereby reducing related complexity, time, and costs.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA benefit of distributed ledger technology (DLT) that increases its use by the investment industry is its:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9956ae0b-82bc-4e06-8c92-ca59698f8158"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "02e2d0c6-c27c-413a-af54-1ffb7386e30a",
+                            "itemBody": "A. scalability of underlying systems.",
+                            "position": 1
+                        },
+                        {
+                            "id": "d202df42-c836-4970-a79d-8199e1ff21a5",
+                            "itemBody": "B. ease of integration with existing systems.",
+                            "position": 2
+                        },
+                        {
+                            "id": "9956ae0b-82bc-4e06-8c92-ca59698f8158",
+                            "itemBody": "C. streamlining of current post-trade processes.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8271,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51345",
+            "entry": {
+                "title": "CFA1943-R-s05-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. Through tokenization—the process of representing ownership rights to physical assets on a blockchain or distributed ledger—DLT has the potential to streamline this rights process by creating a single digital record of ownership with which to verify ownership title and authenticity, including all historical activity.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhat is a DLT application suited for physical assets?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "071cde0e-99d1-4c46-bb98-6abb599e1dd4"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "071cde0e-99d1-4c46-bb98-6abb599e1dd4",
+                            "itemBody": "A. Tokenization",
+                            "position": 1
+                        },
+                        {
+                            "id": "644ce5f6-12c9-40b3-a325-236f2fd23209",
+                            "itemBody": "B. Cryptocurrencies",
+                            "position": 2
+                        },
+                        {
+                            "id": "b7900c9b-cd04-4d3f-9276-f99b2ce1595f",
+                            "itemBody": "C. Permissioned networks",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8271,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51346",
+            "entry": {
+                "title": "CFA1943-R-s05-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. Under both PoW and PoS consensus protocols, the validation of the transactions, or “mining,” always comes with rewards. A successful miner that validates the transactions obtains new digital assets—either a cryptocurrency or a token. For blockchain networks based on the PoW protocol, the miner earns his digital assets by solving complex algorithm puzzles to validate blocks of transactions onto a blockchain network. For blockchain networks based on the PoS protocol, the miner earns his digital assets by staking his own to validate and attest to the new blocks of transactions.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA cryptocurrency miner can earn new digital assets by:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a2a4c886-c48c-4a24-a3cc-118093c83dfb"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7636ad61-f642-4cf1-aa83-60e199a62e69",
+                            "itemBody": "A. solving complex algorithm puzzles to validate blocks of transactions onto a blockchain network based on a PoS protocol.",
+                            "position": 1
+                        },
+                        {
+                            "id": "c31f4c70-54ad-46d4-923f-fa8cb0119e81",
+                            "itemBody": "B. staking his own cryptocurrencies to validate blocks of transactions onto a blockchain network based on a PoW protocol.",
+                            "position": 2
+                        },
+                        {
+                            "id": "a2a4c886-c48c-4a24-a3cc-118093c83dfb",
+                            "itemBody": "C. validating and locking transactions onto a blockchain irrespective of the consensus protocol adopted by the particular network.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8271,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51347",
+            "entry": {
+                "title": "CFA1943-R-s05-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. A cryptocurrency derives its price solely from an anticipated asset appreciation given the perceived scarcity value arising from a self-imposed limit of supply. Whether a cryptocurrency transaction is validated in a permissionless or permissioned network using either PoS or PoW standard also impacts its perceived value. But most digital assets do not have an inherent value based on underlying assets or on the potential cash flow.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe perceived value of a cryptocurrency depends on the following factors \u003cem\u003eexcept\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dde3510a-7575-40e7-bd3e-ad8067b8f1a6"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c454affb-abb1-4b3a-8d95-b6801dcada0e",
+                            "itemBody": "A. the maximum supply of the cryptocurrencies.",
+                            "position": 1
+                        },
+                        {
+                            "id": "dde3510a-7575-40e7-bd3e-ad8067b8f1a6",
+                            "itemBody": "B. the underlying cash flow of the cryptocurrencies.",
+                            "position": 2
+                        },
+                        {
+                            "id": "15effba4-ea76-4fbf-b710-409e7afb7c1b",
+                            "itemBody": "C. whether the relevant blockchain operates on a permissionless or permissioned network.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8271,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51348",
+            "entry": {
+                "title": "CFA1943-R-s05-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. Unlike traditional financial assets, most digital assets do not have an inherent value based on underlying assets or the potential cash flow or earnings they are expected to generate. Digital asset transactions are usually kept on decentralized digital ledgers using cryptography and algorithms without any central intermediaries. Regulations around digital assets are also ambiguous and evolving, unlike most traditional financial assets, which are subject to a well-defined set of regulations.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA key difference between digital assets and traditional financial assets is that:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "03b8a6a6-7093-4122-b0d7-a7d4fc3757aa"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7756f033-e7bd-4b34-adb3-b62b371efbab",
+                            "itemBody": "A. digital assets are usually subject to a well-defined set of regulations.",
+                            "position": 1
+                        },
+                        {
+                            "id": "32e53107-5a96-4af8-9e61-746c9c64fae6",
+                            "itemBody": "B. transactions in digital assets are most likely kept on private centralized ledgers.",
+                            "position": 2
+                        },
+                        {
+                            "id": "03b8a6a6-7093-4122-b0d7-a7d4fc3757aa",
+                            "itemBody": "C. digital assets are valued not on their earnings but on the expected price appreciation given supply limitation.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8271,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51349",
+            "entry": {
+                "title": "CFA1943-R-s05-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. Asset-backed tokens can increase liquidity by allowing for fractional ownership of high-priced assets, such as houses, art, precious metals, and precious stones, which allows multiple investors to possess a fractional interest of the same asset. B is incorrect because the validation of transactions on the blockchains takes up a substantial amount of computing power, which can be expensive.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAsset-backed tokens have the potential of improving the liquidity of the underlying assets because:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "64cf9c40-da45-48b4-86cc-6b569fc2e81d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "64cf9c40-da45-48b4-86cc-6b569fc2e81d",
+                            "itemBody": "A. they allow for fractional ownership of high-value assets.",
+                            "position": 1
+                        },
+                        {
+                            "id": "bc2a3b35-570d-47ac-8185-dc27c791c7a8",
+                            "itemBody": "B. costs of validating the transactions are reduced on the blockchains.",
+                            "position": 2
+                        },
+                        {
+                            "id": "6c73dc76-27e4-4482-a514-9a0160ecedc9",
+                            "itemBody": "C. they make it easier to trade the underlying assets on centralized exchanges.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8271,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51350",
+            "entry": {
+                "title": "CFA1943-R-s05-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. Decentralized exchanges operate on a distributed platform without central coordination or control. The benefit is that should one of the computers on the network be attacked, the exchange remains operational since there are numerous other computers that continue to operate on the network. For this reason, decentralized exchanges are substantially more difficult to hack, rendering such attacks almost certain to fail. However, transactions on centralized cryptocurrency exchanges are hosted on private servers, exposing the centralized exchanges and their clients to security vulnerabilities. Should the exchange’s servers become compromised, the entire system may become paralyzed, halting trade and leaking vital user information, such as cryptographic keys stored in the cryptocurrency wallets.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is the least vulnerable to a computer security hack?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a7992f94-7076-4886-a431-0a21e8bd8e70"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4a5d934d-75a7-4045-8a2c-792cc51733cb",
+                            "itemBody": "A. Cryptocurrency wallets",
+                            "position": 1
+                        },
+                        {
+                            "id": "c0a011b4-e434-4588-90e2-e9744efc4fc7",
+                            "itemBody": "B. Centralized cryptocurrency exchanges",
+                            "position": 2
+                        },
+                        {
+                            "id": "a7992f94-7076-4886-a431-0a21e8bd8e70",
+                            "itemBody": "C. Decentralized cryptocurrency exchanges",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8271,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51351",
+            "entry": {
+                "title": "CFA1943-R-s05-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is A. Investing in a cryptocurrency coin trust that holds Bitcoins is the best way to replicate the return on Bitcoins. Investing in a listed cryptocurrency exchange stock provides very indirect exposure that may not necessarily replicate the performance of Bitcoins because of a variety of company-specific factors, as well as the sensitivity to the general stock market environment. Buying Bitcoins from a centralized cryptocurrency exchange provides a direct exposure, but it would require a digital wallet.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn investor who wants to replicate the return on Bitcoins without the use of a digital wallet can \u003cem\u003ebest\u003c/em\u003e do so by:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4a661e52-6547-457c-aff7-c4bea0348a8a"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4a661e52-6547-457c-aff7-c4bea0348a8a",
+                            "itemBody": "A. investing in a cryptocurrency coin trust that holds Bitcoins.",
+                            "position": 1
+                        },
+                        {
+                            "id": "c91f48e4-1eda-4f78-8600-5bb076d67557",
+                            "itemBody": "B. investing in a listed cryptocurrency exchange stock.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2d6efacf-fb3e-4ccd-a7c6-13012bed33bf",
+                            "itemBody": "C. buying Bitcoins from a centralized cryptocurrency exchange.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8271,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51352",
+            "entry": {
+                "title": "CFA1943-R-s05-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. Smart contracts are the building block of dApps. dApps are usually developed on the Ethereum blockchain network or other smart contract platforms that allow for peer-to-peer interaction using interoperable, transparent smart contracts that persist for the duration of the chain. These decentralized applications, or dApps, allow for transactions to take place—and to be recorded on the blockchain—without a central coordinating mechanism or centralized exchange.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is a key building block of dApps?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "665b9698-20a5-4ddc-a0ab-11ae9e82f80b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "379113cc-6deb-4f78-93c8-bc013d513dd4",
+                            "itemBody": "A. Bitcoins",
+                            "position": 1
+                        },
+                        {
+                            "id": "665b9698-20a5-4ddc-a0ab-11ae9e82f80b",
+                            "itemBody": "B. Smart contracts",
+                            "position": 2
+                        },
+                        {
+                            "id": "01fcab01-38ae-474e-8b2e-29d4a002f148",
+                            "itemBody": "C. Centralized exchanges",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8271,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51353",
+            "entry": {
+                "title": "CFA1943-R-s05-Q13",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. Historical Bitcoin returns are characterized by high mean returns and high standard deviation. Despite the high volatility, the return distribution is positively skewed.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCompared to traditional equity investment, the historical return distribution of Bitcoins shows:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "649553f8-3203-4d6b-8918-df27bf7aae25"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2dddf4a6-cc7b-4048-98fd-3a922bebab85",
+                            "itemBody": "A. negative skewness.",
+                            "position": 1
+                        },
+                        {
+                            "id": "649553f8-3203-4d6b-8918-df27bf7aae25",
+                            "itemBody": "B. high mean returns.",
+                            "position": 2
+                        },
+                        {
+                            "id": "ffb87091-500e-461b-ad32-8d6f803dffa8",
+                            "itemBody": "C. low standard deviation.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8271,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51354",
+            "entry": {
+                "title": "CFA1943-R-s05-Q14",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. Although purely speculative in nature, cryptocurrencies have historically exhibited low correlations with traditional asset class returns and are considered to have value drivers distinct from common equity and debt markets. Therefore, cryptocurrencies are potential diversifiers of an investment portfolio.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDespite higher volatility, cryptocurrencies may offer diversification benefits to an investment portfolio due to their:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ea092ecc-42b6-4480-ac9b-5f01dadac59f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "97310e78-6464-451d-9a1b-fe40529c1e93",
+                            "itemBody": "A. scarcity value.",
+                            "position": 1
+                        },
+                        {
+                            "id": "f6727357-5e17-4501-840d-3958a96344dc",
+                            "itemBody": "B. expected higher return.",
+                            "position": 2
+                        },
+                        {
+                            "id": "ea092ecc-42b6-4480-ac9b-5f01dadac59f",
+                            "itemBody": "C. lower correlation with other traditional investments.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8271,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51355",
+            "entry": {
+                "title": "CFA1943-R-s05-Q15",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. Cryptocurrencies are purely speculative, with no fundamental value or future cash flow. There is no consensus on how to value them. Their markets are therefore subject to rapid price swings, changes, and uncertainty. But historically, their performance has relatively low correlations with traditional asset classes.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003ePrice volatility of cryptocurrencies is high most likely because they are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b22857d3-c8ef-4757-861f-e9bb10f0e04b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3f3d236d-fd22-427e-814c-747f0a4d0ba8",
+                            "itemBody": "A. subject to self-imposed limit on supply.",
+                            "position": 1
+                        },
+                        {
+                            "id": "f4711bba-59ec-41dc-aa4c-1007e85bd220",
+                            "itemBody": "B. correlated with traditional risky asset classes.",
+                            "position": 2
+                        },
+                        {
+                            "id": "b22857d3-c8ef-4757-861f-e9bb10f0e04b",
+                            "itemBody": "C. highly speculative with no fundamental value or cash flow.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8271,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53971",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Tsependa-15",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe process of representing ownership rights to physical assets on a distributed ledger is referred to as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5729faed-7a5a-4d42-b946-532d8c5668de"
+                },
+                "answerFeedback": {
+                    "5729faed-7a5a-4d42-b946-532d8c5668de": "\u003cp\u003eCorrect because tokenization\u003cb\u003e \u003c/b\u003eis\u003cb\u003e\u0026nbsp;\u003c/b\u003ethe process of representing ownership rights to physical assets on a blockchain or distributed ledger.\u003c/p\u003e",
+                    "83d424ea-2ec8-4075-baa4-269e8b7f2b03": "\u003cp\u003eIncorrect because an initial coin offering\u003cb\u003e \u003c/b\u003e(ICO) is an unregulated process whereby companies sell their crypto tokens to investors in exchange for fiat money or for another agreed upon cryptocurrency.\u003c/p\u003e",
+                    "ab356437-8040-4e34-ae06-a82ae658cbcc": "\u003cp\u003eIncorrect because a consensus mechanism is used to validate new transactions in the blockchain; it is not the process of representing ownership rights to physical assets.\u0026nbsp;New transactions are inserted into the chain only after validation via a consensus mechanism in which authorized members agree on the transaction and the preceding order, or history, in which previous transactions have occurred. The consensus mechanism used to verify a transaction includes a cryptographic problem that must be solved by some computers on the network (known as miners) each time a transaction takes place.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5729faed-7a5a-4d42-b946-532d8c5668de",
+                            "itemBody": "\u003cp\u003eA. tokenization.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "83d424ea-2ec8-4075-baa4-269e8b7f2b03",
+                            "itemBody": "\u003cp\u003eB. initial coin offering.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ab356437-8040-4e34-ae06-a82ae658cbcc",
+                            "itemBody": "\u003cp\u003eC. consensus mechanism.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8714,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53972",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-PM-Ma-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about distributed ledger technology is \u003ci\u003emost \u003c/i\u003eaccurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4d313ec6-a313-40fd-8a04-76c9cf985662"
+                },
+                "answerFeedback": {
+                    "433c49af-ac66-4eb9-9c73-5d698c7ab39f": "\u003cp\u003eIncorrect because bitcoin is a well-­known use of an open permissionless network.\u003c/p\u003e",
+                    "4d313ec6-a313-40fd-8a04-76c9cf985662": "\u003cp\u003eCorrect because through tokenization, the process of representing ownership rights to physical assets on a blockchain or distributed ledger, distributed ledger technology (DLT) has the potential to streamline this process by creating a single, digital record of ownership with which to verify ownership title and authenticity, including all historical activity.\u003c/p\u003e",
+                    "546ddafa-86c9-4fc4-982c-bbc0b887fee9": "\u003cp\u003eIncorrect because miners verify transactions in the blockchain, they do not execute smart contracts.\u0026nbsp;The consensus mechanism used to verify a transaction includes a cryptographic problem that must be solved by some computers on the network (known as miners) each time a transaction takes place.\u0026nbsp;On the other hand, smart contracts are computer programs that self-execute on the basis of pre-specified terms and conditions agreed to by the parties to a contract.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "433c49af-ac66-4eb9-9c73-5d698c7ab39f",
+                            "itemBody": "\u003cp\u003eA. Bitcoin uses\u0026nbsp;a permissioned network.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "546ddafa-86c9-4fc4-982c-bbc0b887fee9",
+                            "itemBody": "\u003cp\u003eB. Miners execute smart contracts\u0026nbsp;in the blockchain.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4d313ec6-a313-40fd-8a04-76c9cf985662",
+                            "itemBody": "\u003cp\u003eC. Tokenization can streamline the\u0026nbsp;transfer of ownership of physical assets.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8714,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53973",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-Alt-Berlinicke-05",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost likely\u003c/i\u003e a major driver of bitcoin\u0026nbsp;returns?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c649623f-9416-4ecc-9f71-267b512e442b"
+                },
+                "answerFeedback": {
+                    "507e0eed-cb6a-41bb-9954-649368831b3d": "\u003cp\u003eIncorrect because bitcoin and other cryptocurrency values are based solely on asset appreciation, with no underlying cash flows.\u003c/p\u003e",
+                    "81ae4e90-98e2-491e-9b01-c62de0105728": "\u003cp\u003eIncorrect because since its launch in 2009, bitcoin’s performance has been characterized by high return, high volatility, and low correlations with traditional asset classes.\u0026nbsp;The fact that the correlation of cryptocurrencies with traditional assets is on the rise does not imply that the correlation of bitcoin and other cryptocurrencies has reached a high level yet, nor would a high level necessarily be a desirable feature.\u003c/p\u003e",
+                    "c649623f-9416-4ecc-9f71-267b512e442b": "\u003cp\u003eCorrect because in practice, prices (or returns) of cryptocurrencies are driven more by market adoption, network effects, technological advancement, regulatory development, and general market risk appetite.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c649623f-9416-4ecc-9f71-267b512e442b",
+                            "itemBody": "\u003cp\u003eA. Increased market adoption\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "507e0eed-cb6a-41bb-9954-649368831b3d",
+                            "itemBody": "\u003cp\u003eB. The prospect of underlying cashflow generation\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "81ae4e90-98e2-491e-9b01-c62de0105728",
+                            "itemBody": "\u003cp\u003eC. Consistently high correlation with traditional asset classes\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8714,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4498,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

@@ -1,0 +1,2083 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6139,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 34,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 1: Introduction to Financial Statement Analysis",
+        "topic_id": 1034,
+        "topic": "CFA-26-02-LI-C: Financial Statement Analysis",
+        "subtopic_id": 6139,
+        "subtopic": "Module 1: Introduction to Financial Statement Analysis",
+        "question_count": 34,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 850,
+                "name": "Warehouse Course: Financial Statement Analysis 26-LI",
+                "code": "Warehouse Course: Financial Statement Analysis 26-LI",
+                "module_id": 4443,
+                "question_count": 29,
+                "type": "warehouse"
+            },
+            {
+                "id": 841,
+                "name": "Practice Pack Warehouse: Financial Statement Analysis 26-LI",
+                "code": "Practice Pack Warehouse: Financial Statement Analysis 26-LI",
+                "module_id": 4660,
+                "question_count": 5,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 34.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "06afa5e8cf968a30",
+        "ordered_item_ids": [
+            "54754",
+            "54755",
+            "54756",
+            "54757",
+            "54758",
+            "50927",
+            "50928",
+            "50929",
+            "50930",
+            "50931",
+            "50932",
+            "50933",
+            "50934",
+            "50935",
+            "50936",
+            "50937",
+            "50938",
+            "50939",
+            "50940",
+            "50941",
+            "50942",
+            "54119",
+            "54120",
+            "54121",
+            "54122",
+            "54123",
+            "54124",
+            "54125",
+            "54126",
+            "54127",
+            "54128",
+            "54129",
+            "54130",
+            "54131"
+        ],
+        "visible_item_ids": [
+            "54754",
+            "54755",
+            "54756",
+            "54757",
+            "54758",
+            "50927",
+            "50928",
+            "50929",
+            "50930",
+            "50931",
+            "50932",
+            "50933",
+            "50934",
+            "50935",
+            "50936",
+            "50937",
+            "50938",
+            "50939",
+            "50940",
+            "50941",
+            "50942",
+            "54119",
+            "54120",
+            "54121",
+            "54122",
+            "54123",
+            "54124",
+            "54125",
+            "54126",
+            "54127",
+            "54128",
+            "54129",
+            "54130",
+            "54131"
+        ]
+    },
+    "items": [
+        {
+            "id": "54754",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.09-FRA-Vervloet-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost likely\u003c/i\u003e found in the management commentary?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8ab2ca4f-88b0-4c55-a487-155b35631b70"
+                },
+                "answerFeedback": {
+                    "08a7edca-683a-403d-840d-64f60fdc479c": "\u003cp\u003eIncorrect because\u0026nbsp;under ISAs, the overall objectives of an auditor in conducting an audit of financial statements are:\u0026nbsp;to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, thereby enabling the auditor to express an opinion on whether the financial statements are prepared, in all material respects, in accordance with an applicable financial reporting framework.\u003c/p\u003e",
+                    "8ab2ca4f-88b0-4c55-a487-155b35631b70": "\u003cp\u003eCorrect because the management commentary, or MD\u0026amp;A, is a good starting place for understanding information in the financial statements. In particular, the forward-looking disclosures, such as those about planned capital expenditures, new store openings, or divestitures, can be useful in projecting a company’s future performance.\u003c/p\u003e",
+                    "941b209a-6576-42c3-8e46-04ba8a7ed634": "\u003cp\u003eIncorrect because the notes disclose the basis of preparation for the financial statements.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8ab2ca4f-88b0-4c55-a487-155b35631b70",
+                            "itemBody": "\u003cp\u003eA. Forward-looking disclosures\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "941b209a-6576-42c3-8e46-04ba8a7ed634",
+                            "itemBody": "\u003cp\u003eB. Basis of preparation for the financial statements\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "08a7edca-683a-403d-840d-64f60fdc479c",
+                            "itemBody": "\u003cp\u003eC. Reasonable assurance whether the financial statements as a whole are free from material misstatement\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8818,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4660,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54755",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.09-FRA-Vervloet-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost\u003c/i\u003e appropriately issued when an auditor determines that the financial statements materially depart from accounting standards and are not fairly presented?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "daf01e08-614b-4818-8da7-1e52b28adb17"
+                },
+                "answerFeedback": {
+                    "b5b35a97-5992-476a-8cbd-0a2502dd7588": "\u003cp\u003eIncorrect because \"a \u003ci\u003edisclaimer \u003c/i\u003eof opinion occurs when, for some reason, such as a scope limitation, the auditors are unable to issue an opinion.\"\u003c/p\u003e",
+                    "daf01e08-614b-4818-8da7-1e52b28adb17": "\u003cp\u003eCorrect because \"[a]n \u003ci\u003eadverse \u003c/i\u003eaudit opinion is issued when an auditor determines that the financial statements materially depart from accounting standards and are not fairly presented.\"\u003c/p\u003e",
+                    "f71ae006-95b0-487b-8889-4af3406b6eda": "\u003cp\u003eIncorrect because \"[a] \u003ci\u003equalified \u003c/i\u003eaudit opinion is one in which there is some scope limitation or exception to accounting standards. Exceptions are described in the audit report with additional explanatory paragraphs so that the analyst can determine the importance of the exception.\"\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "daf01e08-614b-4818-8da7-1e52b28adb17",
+                            "itemBody": "\u003cp\u003eA. Adverse opinion\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f71ae006-95b0-487b-8889-4af3406b6eda",
+                            "itemBody": "\u003cp\u003eB. Qualified opinion\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b5b35a97-5992-476a-8cbd-0a2502dd7588",
+                            "itemBody": "\u003cp\u003eC. Disclaimer of opinion\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8818,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4660,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54756",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.09-FRA-Mazararu-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements is \u003ci\u003emost \u003c/i\u003eaccurate? The role of financial statement analysis is to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f43a9a49-9ad2-40f6-8e45-447ec19a561b"
+                },
+                "answerFeedback": {
+                    "6aca975f-f13c-4057-8bb7-23ac7ad0a327": "\u003cp\u003eIncorrect because this describes the role of audit report not financial statement analysis as follows:\u0026nbsp;the independent audit report provides reasonable assurance that the financial statements are fairly presented, meaning that there is a high probability that the audited financial statements are free from material error, fraud, or illegal acts that have a direct effect on the financial statements.\u003c/p\u003e",
+                    "ce313da6-e2fc-4067-bdd6-e6837f5c1405": "\u003cp\u003eIncorrect because this describes the role of financial reporting not financial statement analysis as follows: the role of financial statements issued by companies is to provide information about a company’s performance, financial position, and changes in financial position that is useful to a wide range of users in making economic decisions.\u003c/p\u003e",
+                    "f43a9a49-9ad2-40f6-8e45-447ec19a561b": "\u003cp\u003eCorrect because the role of financial statement analysis is to use financial reports prepared by companies, combined with other information, to evaluate the past, current, and potential performance and financial position of a company for the purpose of making investment, credit, and other economic decisions.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6aca975f-f13c-4057-8bb7-23ac7ad0a327",
+                            "itemBody": "\u003cp\u003eA. provide\u0026nbsp;assurance that\u0026nbsp;the audited financial statements are free from material error.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ce313da6-e2fc-4067-bdd6-e6837f5c1405",
+                            "itemBody": "\u003cp\u003eB. provide information about a company’s performance, financial position, and changes in financial position.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f43a9a49-9ad2-40f6-8e45-447ec19a561b",
+                            "itemBody": "\u003cp\u003eC. evaluate the performance and financial position of a company for\u0026nbsp;making investment, credit, and other economic decisions.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8818,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4660,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54757",
+            "entry": {
+                "title": "ITEM_CFA-L1-00981",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCommon-size statements are \u003ci\u003emost likely\u003c/i\u003e the output of which of the following phases of the financial statement analysis framework?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6c576fa6-e608-48eb-ae54-c8382568b486"
+                },
+                "answerFeedback": {
+                    "6c576fa6-e608-48eb-ae54-c8382568b486": "\u003cp\u003eCorrect because common-size statements are an output of the “process data” phase of the financial statement analysis framework.\u003c/p\u003e",
+                    "a83d83f6-d294-4a5a-9065-10638ad4b051": "\u003cp\u003eIncorrect because analytical results, not common-size statements, are the output of the “analyze/interpret the processed data” phase.\u003c/p\u003e",
+                    "e44695ac-4abd-4002-aaac-0dfba3b3194c": "\u003cp\u003eIncorrect because analytical reports and recommendations, not common-size statements, are outputs of the “develop and communicate conclusions and recommendations” phase.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6c576fa6-e608-48eb-ae54-c8382568b486",
+                            "itemBody": "\u003cp\u003eA. Process data\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a83d83f6-d294-4a5a-9065-10638ad4b051",
+                            "itemBody": "\u003cp\u003eB. Analyze/interpret the processed data\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e44695ac-4abd-4002-aaac-0dfba3b3194c",
+                            "itemBody": "\u003cp\u003eC. Develop and communicate conclusions and recommendations\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8818,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4660,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54758",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.10-FSAN-Scott-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eEarnings calls are \u003ci\u003emost likely\u003c/i\u003e sourced from:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1a9f74bc-3861-4452-816e-68aac19364c8"
+                },
+                "answerFeedback": {
+                    "1a9f74bc-3861-4452-816e-68aac19364c8": "\u003cp\u003eCorrect because \"earnings calls\" are considered to be from \"issuer sources\".\u003c/p\u003e",
+                    "d42f358f-b914-4405-9f1e-bf4c97cde54c": "\u003cp\u003eIncorrect because \"earnings calls\" are considered to be from \"issuer sources\", not public third-party sources.\u003c/p\u003e",
+                    "d4428a88-6f0b-44ae-983d-7249ff6d602e": "\u003cp\u003eIncorrect because \"earnings calls\" are considered to be from \"issuer sources\", not proprietary third-party sources.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1a9f74bc-3861-4452-816e-68aac19364c8",
+                            "itemBody": "\u003cp\u003eA. issuers.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d42f358f-b914-4405-9f1e-bf4c97cde54c",
+                            "itemBody": "\u003cp\u003eB. public third parties.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d4428a88-6f0b-44ae-983d-7249ff6d602e",
+                            "itemBody": "\u003cp\u003eC. proprietary third parties.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8818,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 841,
+            "sourceModuleId": 4660,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50927",
+            "entry": {
+                "title": "CFA2417-R-s06-Q1",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Ratios are an output of the process information step but are an input into the analyze/interpret data step.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eRatios are an input into which step in the financial statement analysis framework?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ef991881-cc4d-4f6e-a721-c8861f87accf"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f47e3e36-255d-4634-a4e1-98a1e57f9927",
+                            "itemBody": "\u003cp\u003eA. Process data\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9dc63c50-ae96-4d53-8e02-86a40eeedba9",
+                            "itemBody": "\u003cp\u003eB. Collect input data\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ef991881-cc4d-4f6e-a721-c8861f87accf",
+                            "itemBody": "\u003cp\u003eC. Analyze/interpret the processed data\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50928",
+            "entry": {
+                "title": "CFA2417-R-s06-Q2",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The follow-up phase involves gathering information and repeating the analysis to determine whether it is necessary to update reports and recommendations.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich phase in the financial statement analysis framework is \u003cem\u003emost likely\u003c/em\u003e to involve producing updated reports and recommendations?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "35c6ccac-8e2c-43cb-9128-6a4fc00bedbf"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "35c6ccac-8e2c-43cb-9128-6a4fc00bedbf",
+                            "itemBody": "\u003cp\u003eA. Follow-up\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "694b39f7-8097-4d9a-b465-b31aafe81f88",
+                            "itemBody": "\u003cp\u003eB. Analyze/interpret the processed data\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1e062a1a-3b7e-4ff4-a903-52e17db4a0b1",
+                            "itemBody": "\u003cp\u003eC. Develop and communicate conclusions and recommendations\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50929",
+            "entry": {
+                "title": "CFA2417-R-s06-Q3",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. In general, analysts seek to examine the past and current performance and financial position of a company to form expectations about its future performance and financial position.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following \u003cem\u003ebest\u003c/em\u003e describes the role of financial statement analysis?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8f56745f-af47-4306-9a70-270412c85cf8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "91f1930e-6c8e-459d-ab34-abb61c9ce53a",
+                            "itemBody": "\u003cp\u003eA. To provide information about a company’s performance\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "43a9edf6-aa2d-439e-a3f2-8c17bc28b429",
+                            "itemBody": "\u003cp\u003eB. To provide information about a company’s changes in financial position\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8f56745f-af47-4306-9a70-270412c85cf8",
+                            "itemBody": "\u003cp\u003eC. To form expectations about a company’s future performance and financial position\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50930",
+            "entry": {
+                "title": "CFA2417-R-s06-Q4",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The primary role of financial statement analysis is to use financial reports prepared by companies to evaluate their past, current, and potential performance and financial position for the purpose of making investment, credit, and other economic decisions.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe primary role of financial statement analysis is \u003cem\u003ebest\u003c/em\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "27a4f39a-febe-42b7-90a4-8768366af4e9"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d7537b07-0218-41d8-a018-263c9073c18c",
+                            "itemBody": "\u003cp\u003eA. providing information useful for making investment decisions.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "27a4f39a-febe-42b7-90a4-8768366af4e9",
+                            "itemBody": "\u003cp\u003eB. evaluating a company for the purpose of making economic decisions.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "5143b92c-dc21-4a96-994a-2476397dfa65",
+                            "itemBody": "\u003cp\u003eC. using financial reports prepared by analysts to make economic decisions.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50931",
+            "entry": {
+                "title": "CFA2417-R-s06-Q5",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The International Accounting Standards Board (IASB) is currently charged with developing International Financial Reporting Standards.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eInternational Financial Reporting Standards are currently developed by which entity?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "638c8b56-edd8-4957-9bc0-4a4a3b62d2a7"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "72385191-791d-4dc8-96e4-481eb209951b",
+                            "itemBody": "\u003cp\u003eA. IFRS Foundation\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "638c8b56-edd8-4957-9bc0-4a4a3b62d2a7",
+                            "itemBody": "\u003cp\u003eB. International Accounting Standards Board\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1c746ab7-06f4-4898-a5fd-f05e4c276077",
+                            "itemBody": "\u003cp\u003eC. International Organization of Securities Commissions\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50932",
+            "entry": {
+                "title": "CFA2417-R-s06-Q6",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. US Generally Accepted Accounting Principles are developed by the US Financial Accounting Standards Board (FASB).\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eUS GAAP are currently developed by which entity?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "92489623-c354-456d-b755-07d1039a0caa"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f8673732-799e-4856-9571-aa9c18c97a00",
+                            "itemBody": "\u003cp\u003eA. Securities and Exchange Commission\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "92489623-c354-456d-b755-07d1039a0caa",
+                            "itemBody": "\u003cp\u003eB. Financial Accounting Standards Board\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "685bc57d-1d85-4ced-8ad7-7a739e71cbc4",
+                            "itemBody": "\u003cp\u003eC. Public Company Accounting Oversight Board\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50933",
+            "entry": {
+                "title": "CFA2417-R-s06-Q7",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. A core objective of IOSCO is to ensure that markets are fair, efficient, and transparent. The other core objectives are to reduce, not eliminate, systemic risk and to protect investors, not all users of financial statements.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA core objective of the International Organization of Securities Commissions is to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "51255591-6a88-4bf3-a3dd-c8f55fe4fe5d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e6626fd5-178b-4c25-8261-38b39e31b27d",
+                            "itemBody": "\u003cp\u003eA. eliminate systemic risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2dc6b684-53d4-4ac7-9b36-4a12e3004785",
+                            "itemBody": "\u003cp\u003eB. protect users of financial statements.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "51255591-6a88-4bf3-a3dd-c8f55fe4fe5d",
+                            "itemBody": "\u003cp\u003eC. ensure that markets are fair, efficient, and transparent.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50934",
+            "entry": {
+                "title": "CFA2417-R-s06-Q8",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The notes provide information that is essential to understanding the information provided in the primary statements.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following \u003cem\u003ebest\u003c/em\u003e describes why the notes that accompany the financial statements are required? The notes:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "17886f80-28c8-410e-a3c5-1e2610543ab0"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e06455c1-058d-4586-9192-785439052f2e",
+                            "itemBody": "\u003cp\u003eA. permit flexibility in statement preparation.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "41a382df-ec60-4cdc-a19f-ecdecaacd58a",
+                            "itemBody": "\u003cp\u003eB. standardize financial reporting across companies.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "17886f80-28c8-410e-a3c5-1e2610543ab0",
+                            "itemBody": "\u003cp\u003eC. provide information necessary to understand the financial statements.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50935",
+            "entry": {
+                "title": "CFA2417-R-s06-Q9",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The notes disclose choices in accounting policies, methods, and estimates.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAccounting policies, methods, and estimates used in preparing financial statements are \u003cem\u003emost likely\u003c/em\u003e to be found in the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "84724240-8a54-4010-b404-dd977cdead16"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5e4865c3-9daf-4cef-8318-134479357be3",
+                            "itemBody": "\u003cp\u003eA. auditor’s report.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "bee298e3-3429-4aba-a68c-84aaa61815d6",
+                            "itemBody": "\u003cp\u003eB. management commentary.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "84724240-8a54-4010-b404-dd977cdead16",
+                            "itemBody": "\u003cp\u003eC. notes to the financial statements.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50936",
+            "entry": {
+                "title": "CFA2417-R-s06-Q10",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Disclosure of management compensation is typically included in the proxy statement. An earnings release is about corporate earnings, not what managers earn as compensation.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eInformation about management and director compensation is \u003cem\u003emost likely\u003c/em\u003e to be found in the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "69b76120-dd71-42b4-90f3-d96092c40f02"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d7123feb-2ff4-40f7-a952-f6eb36df0255",
+                            "itemBody": "\u003cp\u003eA. auditor’s report.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "69b76120-dd71-42b4-90f3-d96092c40f02",
+                            "itemBody": "\u003cp\u003eB. proxy statement.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "fd03d732-db14-4569-b09d-c3b780558eba",
+                            "itemBody": "\u003cp\u003eC. earnings release.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50937",
+            "entry": {
+                "title": "CFA2417-R-s06-Q11",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. These are components of management commentary.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eInformation about a company’s objectives, strategies, and significant risks are \u003cem\u003emost likely\u003c/em\u003e to be found in the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "70fd2209-a2e3-4680-be01-4210ad221b64"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0be7b526-35a6-4985-a1c6-c4abc624e604",
+                            "itemBody": "\u003cp\u003eA. auditor’s report.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "70fd2209-a2e3-4680-be01-4210ad221b64",
+                            "itemBody": "\u003cp\u003eB. management commentary.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "560789cc-afd6-466d-9155-d068f61bc525",
+                            "itemBody": "\u003cp\u003eC. notes to the financial statements.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50938",
+            "entry": {
+                "title": "CFA2417-R-s06-Q12",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. An unqualified opinion is a “clean” opinion and indicates that the financial statements present the company’s performance and financial position fairly in accordance with applicable accounting standards.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhat type of audit opinion is preferred when analyzing financial statements?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a8448d24-f6b7-4254-8f0d-1b1e6f9d68bb"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "41ce93bb-d85e-4ea2-b10b-3c7d1004e7ab",
+                            "itemBody": "\u003cp\u003eA. Adverse\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6b4ab965-4bc5-449a-9167-331cf35a99f6",
+                            "itemBody": "\u003cp\u003eB. Qualified\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a8448d24-f6b7-4254-8f0d-1b1e6f9d68bb",
+                            "itemBody": "\u003cp\u003eC. Unqualified\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50939",
+            "entry": {
+                "title": "CFA2417-R-s06-Q13",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. A qualified audit opinion is one in which there is some scope limitation or exception to accounting standards. Exceptions are described in the audit report with additional explanatory paragraphs so that the analyst can determine the importance of the exception.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn auditor determines that a company’s financial statements are prepared in accordance with applicable accounting standards except with respect to inventory reporting. This exception is \u003cem\u003emost likely\u003c/em\u003e to result in an audit opinion that is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b3cd5b87-95e3-4d36-919a-4fe763de1f49"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c2850fdf-6474-41e3-a9ff-500a195b6570",
+                            "itemBody": "\u003cp\u003eA. adverse.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b3cd5b87-95e3-4d36-919a-4fe763de1f49",
+                            "itemBody": "\u003cp\u003eB. qualified.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1f57fec8-b26c-47c8-9dc7-54ae2d97ff4f",
+                            "itemBody": "\u003cp\u003eC. unqualified.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50940",
+            "entry": {
+                "title": "CFA2417-R-s06-Q14",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The independent audit report provides reasonable assurance that the financial statements are fairly presented, meaning that there is a high probability that the audited financial statements are free from material error, fraud, or illegal acts that have a direct effect on the financial statements.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn independent audit report is \u003cem\u003emost likely\u003c/em\u003e to provide:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a639da0c-46ec-4609-9b9f-59f79d9154ad"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "34711ac1-5255-446e-a6d9-e80a4634247a",
+                            "itemBody": "\u003cp\u003eA. absolute assurance about the accuracy of the financial statements.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a639da0c-46ec-4609-9b9f-59f79d9154ad",
+                            "itemBody": "\u003cp\u003eB. reasonable assurance that the financial statements are fairly presented.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1bc0a747-ecb1-4659-988d-fdc1512e5b05",
+                            "itemBody": "\u003cp\u003eC. a qualified opinion with respect to the transparency of the financial statements.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50941",
+            "entry": {
+                "title": "CFA2417-R-s06-Q15",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Interim reports are typically provided semiannually or quarterly and require certain financial information, including unaudited financial statements and an MD\u0026amp;A for the interim period covered by the report. Unqualified refers to a type of audit opinion.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eInterim financial reports released by a company are \u003cem\u003emost likely\u003c/em\u003e to be:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "65adb38d-ef67-413f-afff-6bbd1cd68348"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "502259d0-d1e5-47cb-86d0-4124bc7eb21f",
+                            "itemBody": "\u003cp\u003eA. monthly.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "65adb38d-ef67-413f-afff-6bbd1cd68348",
+                            "itemBody": "\u003cp\u003eB. unaudited.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2b428b74-205d-4191-8429-f63187b9434d",
+                            "itemBody": "\u003cp\u003eC. unqualified.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50942",
+            "entry": {
+                "title": "CFA2417-R-s06-Q16",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. When performing financial statement analysis, analysts should review all company sources of information as well as information from external sources regarding the economy, the industry, the company, and peer (comparable) companies.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following sources of information used by analysts is found outside a company’s annual report?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a4925fd2-f640-4bf7-81e4-bb73199dcfc8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c9a8e0e1-5055-4170-9bdc-a0fdee8f1bd1",
+                            "itemBody": "\u003cp\u003eA. Auditor’s report\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a4925fd2-f640-4bf7-81e4-bb73199dcfc8",
+                            "itemBody": "\u003cp\u003eB. Peer company analysis\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "868c5ad6-4ccf-4596-a04b-72119e1de8d9",
+                            "itemBody": "\u003cp\u003eC. Management discussion and analysis\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8187,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54119",
+            "entry": {
+                "title": "ITEM_20170608001",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements is \u003ci\u003emost\u003c/i\u003e accurate about the responsibilities of an auditor for a publicly traded firm in the United States? The auditor must:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1969ade6-76ac-4a97-9e4a-23dea0bdd00a"
+                },
+                "answerFeedback": {
+                    "073b29d0-c1aa-4c68-b818-dc7fab9fb1d9": "\u003cp\u003eIncorrect. The statements are those prepared by management, not the auditor. The auditor is expressing an opinion as to whether the statements are fairly presented and free from material error.\u003c/p\u003e",
+                    "1969ade6-76ac-4a97-9e4a-23dea0bdd00a": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e For a publicly traded firm in the United States, the auditor must express an opinion as to whether the company’s internal control system is in accordance with the Public Accounting Oversight Board, under the Sarbanes–Oxley Act. The opinion is given either in a final paragraph in the auditor’s report or as a separate opinion.\u003c/p\u003e",
+                    "9baec78e-605f-4ee0-8178-d8b470bd2d3a": "\u003cp\u003eIncorrect. The auditor only provides reasonable assurance that the statements are free from material error.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "073b29d0-c1aa-4c68-b818-dc7fab9fb1d9",
+                            "itemBody": "\u003cp\u003eA. state that the financial statements are prepared according to generally accepted accounting principles.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9baec78e-605f-4ee0-8178-d8b470bd2d3a",
+                            "itemBody": "\u003cp\u003eB. ensure that the financial statements are free from error, fraud, or illegal acts.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1969ade6-76ac-4a97-9e4a-23dea0bdd00a",
+                            "itemBody": "\u003cp\u003eC. express an opinion about the effectiveness of the company’s internal control systems.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8616,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54120",
+            "entry": {
+                "title": "ITEM_20170608002",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eProviding information about the performance of a company, its financial position, and changes in financial position that is useful to a wide range of users is \u003ci\u003emost\u003c/i\u003e accurately described as the role of:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "aa41f3d6-f591-4c3a-bf87-414133cd7a3e"
+                },
+                "answerFeedback": {
+                    "05d26746-03c7-401a-b046-fb392421878c": "\u003cp\u003eIncorrect. The role of financial statement analysis is to take the financial reports and evaluate the past, current, and prospective performance and financial position of a company for the purpose of making investment, credit, and other economic decisions.\u003c/p\u003e",
+                    "530bd1a2-aefb-4fcc-b9cd-fcdc17c3fe99": "\u003cp\u003eIncorrect. Audit reports express an opinion about the fair presentation of the financial statements.\u003c/p\u003e",
+                    "aa41f3d6-f591-4c3a-bf87-414133cd7a3e": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The role of financial reporting is to provide information about the performance of a company, its financial position, and changes in financial position that is useful to a wide range of users in making economic decisions.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "aa41f3d6-f591-4c3a-bf87-414133cd7a3e",
+                            "itemBody": "\u003cp\u003eA. financial reporting.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "530bd1a2-aefb-4fcc-b9cd-fcdc17c3fe99",
+                            "itemBody": "\u003cp\u003eB. the audit report.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "05d26746-03c7-401a-b046-fb392421878c",
+                            "itemBody": "\u003cp\u003eC. financial statement analysis.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8616,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54121",
+            "entry": {
+                "title": "ITEM_20170608015",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following reports is \u003ci\u003eleast likely\u003c/i\u003e to be filed with the US SEC?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8112f9d7-77d8-4d42-ab7d-332207794d24"
+                },
+                "answerFeedback": {
+                    "22c2e6e5-c766-4a03-9f9c-495b097575f6": "\u003cp\u003eIncorrect because the 10-K is required by the US SEC.\u003c/p\u003e",
+                    "8112f9d7-77d8-4d42-ab7d-332207794d24": "\u003cp\u003eCorrect because the\u0026nbsp;annual report is not a requirement of the US SEC.\u003c/p\u003e",
+                    "b0679653-95ac-453f-8a75-734732c15525": "\u003cp\u003eIncorrect because a\u0026nbsp;proxy statement is required by the US SEC.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8112f9d7-77d8-4d42-ab7d-332207794d24",
+                            "itemBody": "\u003cp\u003eA. Annual report\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "22c2e6e5-c766-4a03-9f9c-495b097575f6",
+                            "itemBody": "\u003cp\u003eB. Form 10-K\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b0679653-95ac-453f-8a75-734732c15525",
+                            "itemBody": "\u003cp\u003eC. Proxy statement\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8616,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54122",
+            "entry": {
+                "title": "ITEM_20170608037",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eInterim reports \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a4add90c-29dd-46e4-8024-538ba2308970"
+                },
+                "answerFeedback": {
+                    "a4add90c-29dd-46e4-8024-538ba2308970": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Interim reports are provided semi-annually or quarterly, depending on applicable regulatory requirements.\u003c/p\u003e",
+                    "a5693d68-1363-4561-b232-256c2e7d8c17": "\u003cp\u003eIncorrect. Interim reports generally present the four basic financial statements and condensed notes.\u003c/p\u003e",
+                    "c8176f6d-408e-4d5d-9254-5a0947a52879": "\u003cp\u003eIncorrect. Interim reports are not audited.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c8176f6d-408e-4d5d-9254-5a0947a52879",
+                            "itemBody": "\u003cp\u003eA. are audited.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a4add90c-29dd-46e4-8024-538ba2308970",
+                            "itemBody": "\u003cp\u003eB. are issued semi-annually or quarterly.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a5693d68-1363-4561-b232-256c2e7d8c17",
+                            "itemBody": "\u003cp\u003eC. include a full set of financial statements and notes.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8616,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54123",
+            "entry": {
+                "title": "ITEM_20170608050",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eNotes to financial statements \u003ci\u003emost likely\u003c/i\u003e include:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "544025cb-a836-4f41-aec3-4a739ff26c20"
+                },
+                "answerFeedback": {
+                    "544025cb-a836-4f41-aec3-4a739ff26c20": "\u003cp\u003eCorrect because the notes also disclose information about the accounting policies, methods, and estimates used to prepare the financial statements.\u003c/p\u003e",
+                    "e761cc27-c926-4f65-8c4c-0393287cb608": "\u003cp\u003eIncorrect because to help improve the quality of the discussion by management, the International Accounting Standards Board (IASB) issued an IFRS Practice Statement “Management Commentary” includes a framework for the preparation and presentation of management commentary. The framework provides guidance rather than sets forth\u0026nbsp;requirements in a standard. The framework identifies five content elements of a “decision-useful management commentary”: (1) the nature of the business; (2) management’s objectives and strategies; (3) the company’s significant resources, risks, and relationships; (4) results of operations; and (5) critical performance measures.\u003c/p\u003e",
+                    "f43252d1-069c-4103-aa41-d84733ad11d8": "\u003cp\u003eIncorrect because the audit process provides a basis for the independent auditor to express an opinion on whether the information in the audited financial statements presents fairly the financial position, performance, and cash flows of the company in accordance with a specified set of accounting standards.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f43252d1-069c-4103-aa41-d84733ad11d8",
+                            "itemBody": "\u003cp\u003eA. an auditor’s opinion as to the fair presentation of the financial statements.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "544025cb-a836-4f41-aec3-4a739ff26c20",
+                            "itemBody": "\u003cp\u003eB. supplementary information about accounting policies, methods, and estimates.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e761cc27-c926-4f65-8c4c-0393287cb608",
+                            "itemBody": "\u003cp\u003eC. a discussion of significant trends, events, and uncertainties that affect the operating results.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8616,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54124",
+            "entry": {
+                "title": "ITEM_20170608148",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe role of the International Organization of Securities Commissions (IOSCO) is \u003ci\u003ebest\u003c/i\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b8171017-17c5-4e64-8d03-0573611595ba"
+                },
+                "answerFeedback": {
+                    "1b35294d-a690-471f-94a7-238610bffe88": "\u003cp\u003eIncorrect because maintaining convergence on new standards remains a priority of both standard-setting bodies [IFRS and FASB].\u003c/p\u003e",
+                    "9090049f-43b8-4a2a-baf3-1a638190d365": "\u003cp\u003eIncorrect because the US SEC (not IOSCO)\u0026nbsp;has primary responsibility for securities and capital markets regulation in the United States and is an ordinary member of IOSCO.\u003c/p\u003e",
+                    "b8171017-17c5-4e64-8d03-0573611595ba": "\u003cp\u003eCorrect because IOSCO assists in attaining the\u0026nbsp;goal of uniform regulation as well as cross-border cooperation in combating violations of securities and derivatives laws.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b8171017-17c5-4e64-8d03-0573611595ba",
+                            "itemBody": "\u003cp\u003eA. promoting cross-border cooperation and uniformity in securities regulation.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9090049f-43b8-4a2a-baf3-1a638190d365",
+                            "itemBody": "\u003cp\u003eB. enforcing financial reporting requirements for entities participating in capital markets.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1b35294d-a690-471f-94a7-238610bffe88",
+                            "itemBody": "\u003cp\u003eC. promoting the use of International Financial Reporting Standards (IFRS) and the convergence of national accounting standards.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8616,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54125",
+            "entry": {
+                "title": "ITEM_20170608204",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFor a company issuing securities in the United States to meet its obligations under the Sarbanes–Oxley Act, which of the following is management required to attest to?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "703fd78e-7b06-4f78-9f4e-69dee4d264da"
+                },
+                "answerFeedback": {
+                    "21dc254e-59d5-4421-9b96-52555295b8d3": "\u003cp\u003eIncorrect because the notes to the financial statements disclose information about the accounting policies, methods, and estimates used to prepare the financial statements.\u003c/p\u003e",
+                    "703fd78e-7b06-4f78-9f4e-69dee4d264da": "\u003cp\u003eCorrect because the [Sarbanes–Oxley] act addresses auditor independence (it prohibits auditors from providing certain non-audit services to the companies they audit); strengthens corporate responsibility for financial reports (it requires executive management to certify that the company’s financial reports fairly present the company’s condition); and requires management to report on\u0026nbsp;the effectiveness of the company’s internal control over financial reporting (including obtaining external auditor confirmation of the effectiveness of internal control).\u003c/p\u003e",
+                    "aa98041d-041b-44f9-9ae6-1159b55c9f34": "\u003cp\u003eIncorrect because the SEC requires that shareholders of a company receive a proxy statement before a shareholder meeting. A proxy is an authorization from the shareholder giving another party the right to cast its vote. Shareholder meetings are held at least once a year, but any special meetings also require a proxy statement. Proxies, especially annual meeting\u0026nbsp;proxies, contain information that is often useful to financial analysts. Such information typically includes proposals that require a shareholder vote, details of security ownership by management and principal owners, biographical information on directors, and disclosure of executive compensation. Proxy statement information is filed with the SEC as Form DEF-14A.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "703fd78e-7b06-4f78-9f4e-69dee4d264da",
+                            "itemBody": "\u003cp\u003eA. The adequacy of internal control over financial reporting\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "aa98041d-041b-44f9-9ae6-1159b55c9f34",
+                            "itemBody": "\u003cp\u003eB. The suitability of management and director compensation agreements\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "21dc254e-59d5-4421-9b96-52555295b8d3",
+                            "itemBody": "\u003cp\u003eC. The accuracy of estimates and assumptions used in preparing the financial statements\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8616,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54126",
+            "entry": {
+                "title": "ITEM_20170608299",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCommon-size financial statements are \u003ci\u003emost likely \u003c/i\u003ea component of which step in the financial analysis framework?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6060f795-2c1e-4706-9ad2-9654232a9fc6"
+                },
+                "answerFeedback": {
+                    "3775d011-e4ee-4436-9efa-bdae6ee5f42d": "\u003cp\u003eIncorrect. Preparing common-size financial statements is part of the process data stage, after which the analyst will analyze/interpret the processed data.\u003c/p\u003e",
+                    "6060f795-2c1e-4706-9ad2-9654232a9fc6": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Preparing common-size financial statements is part of the process data step.\u003c/p\u003e",
+                    "bb904f9b-5e64-41ac-bd99-f9a709873609": "\u003cp\u003eIncorrect. The financial statements are obtained in the collect data step, but not converted into common-size statements until the process step.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bb904f9b-5e64-41ac-bd99-f9a709873609",
+                            "itemBody": "\u003cp\u003eA. Collect data\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3775d011-e4ee-4436-9efa-bdae6ee5f42d",
+                            "itemBody": "\u003cp\u003eB. Analyze/interpret data\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6060f795-2c1e-4706-9ad2-9654232a9fc6",
+                            "itemBody": "\u003cp\u003eC. Process data\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8616,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54127",
+            "entry": {
+                "title": "ITEM_20180516111",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhere might an analyst look for details covering the full extent of a company’s capital resources?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "28b4e439-e1b7-42e4-82a7-8988854bf398"
+                },
+                "answerFeedback": {
+                    "21d57646-50b2-40ee-b494-6995d6693bcd": "\u003cp\u003eIncorrect because the balance sheet discloses what an entity owns (assets), what an entity owes (liabilities), and the owners’ interest in the net assets of a company (equity) at a specific point in time.\u0026nbsp;While the balance sheet can include a section summarizing non-current (long-term) liabilities, this usually includes just a single line item listing the total amount of a company’s long-term debt due after one year with no information about a company’s capital resources, including debt financing and off-balance-sheet financing.\u003c/p\u003e",
+                    "28b4e439-e1b7-42e4-82a7-8988854bf398": "\u003cp\u003eCorrect because in the MD\u0026amp;A, management must highlight\u0026nbsp;any favorable or unfavorable trends and identify significant events and uncertainties that affect the company’s liquidity, capital resources, and results of operations.\u0026nbsp;The MD\u0026amp;A must also provide information about off-balance-sheet obligations and about contractual commitments, such as purchase obligations.\u003c/p\u003e",
+                    "8df3c93f-2f99-4c4e-bac0-d4699241ab8c": "\u003cp\u003eIncorrect because, while the notes to the financial statements provide details about a company’s debt financing, it is the MD\u0026amp;A section that commonly provides information about its off-balance-sheet financing. The notes disclose the basis of preparation for the financial statements. The notes also disclose information about the accounting policies, methods, and estimates used to prepare the financial statements.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "21d57646-50b2-40ee-b494-6995d6693bcd",
+                            "itemBody": "\u003cp\u003eA. Balance sheet\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "8df3c93f-2f99-4c4e-bac0-d4699241ab8c",
+                            "itemBody": "\u003cp\u003eB. Notes to the financial statements\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "28b4e439-e1b7-42e4-82a7-8988854bf398",
+                            "itemBody": "\u003cp\u003eC. Management discussion and analysis (MD\u0026amp;A)\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8616,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54128",
+            "entry": {
+                "title": "ITEM_CFA-L1-04115",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA qualified audit opinion is \u003ci\u003emost likely\u003c/i\u003e issued when financial statements are prepared:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3805e15f-62dc-41ae-b9f8-090fef313bfd"
+                },
+                "answerFeedback": {
+                    "35d0a662-387a-4d03-b731-92d8712d40e3": "\u003cp\u003eIncorrect because material departures from accounting standards will earn an adverse opinion.\u003c/p\u003e",
+                    "3805e15f-62dc-41ae-b9f8-090fef313bfd": "\u003cp\u003eCorrect because financial statements showing “scope limitation or exception to accounting standards” will earn a qualified opinion.\u0026nbsp;\u003c/p\u003e",
+                    "5fb968d8-b336-46b8-9fbe-f3db00f4c5cc": "\u003cp\u003eIncorrect because financial statements that are in compliance will earn an unqualified opinion.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5fb968d8-b336-46b8-9fbe-f3db00f4c5cc",
+                            "itemBody": "\u003cp\u003eA. in compliance with accounting standards.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "35d0a662-387a-4d03-b731-92d8712d40e3",
+                            "itemBody": "\u003cp\u003eB. with material departures from accounting standards.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3805e15f-62dc-41ae-b9f8-090fef313bfd",
+                            "itemBody": "\u003cp\u003eC. with some limitation or exception to accounting standards.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8616,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54129",
+            "entry": {
+                "title": "ITEM_CFA-L1-01957",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA disclaimer of opinion is issued when an auditor:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "06c1c5d0-3648-4bb2-a506-bcca1d64d4e2"
+                },
+                "answerFeedback": {
+                    "06c1c5d0-3648-4bb2-a506-bcca1d64d4e2": "\u003cp\u003eCorrect because a disclaimer of opinion occurs when auditors are unable to issue an opinion.\u003c/p\u003e",
+                    "61cc099a-64b1-400b-9552-5ce1b4f0e6a9": "\u003cp\u003eIncorrect because a qualified opinion (rather than a disclaimer of opinion) would be appropriate in the case of some scope limitation or an exception to accounting standards.\u003c/p\u003e",
+                    "b908d982-ea24-4246-83d5-a82465f18f45": "\u003cp\u003eIncorrect because an adverse opinion (rather than a disclaimer of opinion) would be appropriate if the auditor determines that financial statements materially depart from accounting standards and are not fairly presented.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "06c1c5d0-3648-4bb2-a506-bcca1d64d4e2",
+                            "itemBody": "\u003cp\u003eA. is unable to issue an opinion.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "61cc099a-64b1-400b-9552-5ce1b4f0e6a9",
+                            "itemBody": "\u003cp\u003eB. notes an exception to accounting standards.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b908d982-ea24-4246-83d5-a82465f18f45",
+                            "itemBody": "\u003cp\u003eC. finds a material departure from accounting standards.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8616,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54130",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-FRA-Terry-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe role of financial reporting is \u003ci\u003ebest\u003c/i\u003e described as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1c08d7c5-d3ee-4818-8d3c-cfe03fba5702"
+                },
+                "answerFeedback": {
+                    "0e72c6a4-a4e6-4c84-aa4d-ec65ea40f2fe": "\u003cp\u003eIncorrect because the role of financial statements issued by companies is to provide information about a company’s performance, financial position, and changes in financial position. The answer describes the role of financial statement analysis. The role of financial statement analysis is to use financial reports prepared by companies, combined with other information, to evaluate the past, current, and potential performance and financial position of a company for the purpose of making investment, credit, and other economic decisions.\u003c/p\u003e",
+                    "1c08d7c5-d3ee-4818-8d3c-cfe03fba5702": "\u003cp\u003eCorrect because\u0026nbsp;the role of financial statements issued by companies is to provide information about a company’s performance, financial position, and changes in financial position.\u003c/p\u003e",
+                    "a7a76a4a-3a59-4d93-8841-1f44d518fa33": "\u003cp\u003eIncorrect because the role of financial statements issued by companies is to provide information about a company’s performance, financial position, and changes in financial position.\u0026nbsp;The answer describes the role of management analysis:\u0026nbsp;managers within a company perform financial analysis to make operating, investing, and financing decisions\u0026nbsp;but do not necessarily rely on analysis of related financial statements.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a7a76a4a-3a59-4d93-8841-1f44d518fa33",
+                            "itemBody": "\u003cp\u003eA. making\u0026nbsp;operating, investing, and financial decisions.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1c08d7c5-d3ee-4818-8d3c-cfe03fba5702",
+                            "itemBody": "\u003cp\u003eB. providing\u0026nbsp;information about a company's performance,\u0026nbsp;financial position, and change in financial position.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0e72c6a4-a4e6-4c84-aa4d-ec65ea40f2fe",
+                            "itemBody": "\u003cp\u003eC. evaluating\u0026nbsp;a company's past, current, and potential performance for the purpose of making economic decisions.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8616,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54131",
+            "entry": {
+                "title": "ITEM_CFA-L1-10007",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following opinions is the \u003ci\u003ebest\u003c/i\u003e indication that the auditor believes that the financial statements depart materially from accounting standards and are \u003cb\u003enot\u003c/b\u003e fairly presented?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fa465686-8f65-43d1-823b-0795edb51b00"
+                },
+                "answerFeedback": {
+                    "84c97fd6-affe-440d-9b3b-9b0f6f841b49": "\u003cp\u003eIncorrect because a \u003cem\u003edisclaimer of opinion\u003c/em\u003e occurs when, for some reason, such as a scope limitation, the auditors are unable to issue an opinion.\u003c/p\u003e",
+                    "edbd18fc-aae1-42b1-8664-48f22652c8e7": "\u003cp\u003eIncorrect because a\u0026nbsp;\u003cem\u003equalified\u003c/em\u003e audit opinion is one in which there is some scope limitation or exception to accounting standards. Exceptions are described in the audit report with additional explanatory paragraphs so that the analyst can determine the importance of the exception.\u003c/p\u003e",
+                    "fa465686-8f65-43d1-823b-0795edb51b00": "\u003cp\u003eCorrect because an \u003cem\u003eadverse\u003c/em\u003e audit opinion is issued when an auditor determines that the financial statements materially depart from accounting standards and are not fairly presented.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fa465686-8f65-43d1-823b-0795edb51b00",
+                            "itemBody": "\u003cp\u003eA. Adverse opinion\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "edbd18fc-aae1-42b1-8664-48f22652c8e7",
+                            "itemBody": "\u003cp\u003eB. Qualified opinion\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "84c97fd6-affe-440d-9b3b-9b0f6f841b49",
+                            "itemBody": "\u003cp\u003eC. Disclaimer of opinion\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8616,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 850,
+            "sourceModuleId": 4443,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

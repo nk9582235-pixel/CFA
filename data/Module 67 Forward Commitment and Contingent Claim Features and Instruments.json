@@ -1,0 +1,2251 @@
+{
+    "user_id": 239466,
+    "quiz_id": 5969,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 36,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 2: Forward Commitment and Contingent Claim Features and Instruments",
+        "topic_id": 1037,
+        "topic": "CFA-26-02-LI-C: Derivatives",
+        "subtopic_id": 5969,
+        "subtopic": "Module 2: Forward Commitment and Contingent Claim Features and Instruments",
+        "question_count": 36,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 853,
+                "name": "Warehouse Course: Derivatives 26-LI",
+                "code": "Warehouse Course: Derivatives 26-LI",
+                "module_id": 4483,
+                "question_count": 20,
+                "type": "warehouse"
+            },
+            {
+                "id": 844,
+                "name": "Practice Pack Warehouse: Derivatives 26-LI",
+                "code": "Practice Pack Warehouse: Derivatives 26-LI",
+                "module_id": 4736,
+                "question_count": 16,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 36.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "879dbbc971aa6fc0",
+        "ordered_item_ids": [
+            "56268",
+            "56269",
+            "56270",
+            "56271",
+            "56272",
+            "56273",
+            "56274",
+            "56275",
+            "56276",
+            "56277",
+            "56278",
+            "56279",
+            "56280",
+            "56281",
+            "56282",
+            "56283",
+            "51103",
+            "51104",
+            "51105",
+            "51106",
+            "51107",
+            "53910",
+            "53911",
+            "53912",
+            "53913",
+            "53914",
+            "53915",
+            "53916",
+            "53917",
+            "53918",
+            "53919",
+            "53920",
+            "53921",
+            "53922",
+            "53923",
+            "53924",
+            "53925"
+        ],
+        "visible_item_ids": [
+            "56268",
+            "56269",
+            "56270",
+            "56271",
+            "56272",
+            "56273",
+            "56274",
+            "56275",
+            "56276",
+            "56277",
+            "56278",
+            "56279",
+            "56280",
+            "56281",
+            "56282",
+            "56283",
+            "51103",
+            "51104",
+            "51105",
+            "51106",
+            "51107",
+            "53910",
+            "53911",
+            "53912",
+            "53913",
+            "53914",
+            "53915",
+            "53916",
+            "53917",
+            "53918",
+            "53919",
+            "53920",
+            "53921",
+            "53922",
+            "53923",
+            "53924",
+            "53925"
+        ]
+    },
+    "items": [
+        {
+            "id": "56268",
+            "entry": {
+                "title": "ITEM_CFA-L1-Erickson-Clone01ofCFA-L1-04810",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor buys a call for $5.75 that has a strike price of $130. If the value at expiration for this call is $17.80, the price of the underlying at expiration is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6161a946-41b4-44c7-a7a6-e3981d242c00"
+                },
+                "answerFeedback": {
+                    "6161a946-41b4-44c7-a7a6-e3981d242c00": "\u003cp\u003eCorrect because the value or \"payoff to the call buyer\" at expiration is c\u003csub\u003eT\u003c/sub\u003e = Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) where X is the strike price, S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration. Given the information in the stem we get $17.80 = Max(0,S\u003csub\u003eT\u003c/sub\u003e – $130). Hence, S\u003csub\u003eT\u003c/sub\u003e =$ 130 + $17.80 = $147.80.\u003c/p\u003e",
+                    "97bde422-34f2-45e5-ae0c-930dfff0565c": "\u003cp\u003eIncorrect because $112.20 is the value of the underlying assuming that this was a put option instead of a call option. The \"payoff to the put buyer\" at expiration is p\u003csub\u003eT\u003c/sub\u003e = Max(0, X – S\u003csub\u003eT\u003c/sub\u003e), where X is the exercise price and S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration. Given the information in the stem we get $17.80 = Max(0,$130 – S\u003csub\u003eT\u003c/sub\u003e) which yields S\u003csub\u003eT\u003c/sub\u003e = $130 – $17.80 = $112.20. By contrast, the value or \"payoff to the call buyer\" at expiration is c\u003csub\u003eT\u003c/sub\u003e = Max(0,S\u003csub\u003eT\u003c/sub\u003e – X). Given the information in the stem we get $17.80 = Max(0,S\u003csub\u003eT\u003c/sub\u003e – $130). Hence, S\u003csub\u003eT\u003c/sub\u003e = 130 + 17.80﻿ = 147.80, not $112.20.\u003c/p\u003e",
+                    "b3eff54f-2c1a-421a-af2e-141daae1b334": "\u003cp\u003eIncorrect because $142.05 is the profit from the option position added to the strike price. It is computed as (c\u003csub\u003eT\u003c/sub\u003e – c\u003csub\u003e0\u003c/sub\u003e) + X where c\u003csub\u003eT\u003c/sub\u003e is the value of the option at expiration, c\u003csub\u003e0\u003c/sub\u003e is the purchase price of the option and X is the strike price. Given the information in the stem we get ($17.80 – $5.75) + $130\u0026nbsp;= $142.05. By contrast, the value or \"payoff to the call buyer\" at expiration is c\u003csub\u003eT\u003c/sub\u003e = Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) where X is the strike price, S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration. Given the information in the stem we get $17.80 = Max(0,S\u003csub\u003eT\u003c/sub\u003e – $130). Hence, S\u003csub\u003eT\u003c/sub\u003e =$ 130 + $17.80 = $147.80, not $142.05.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "97bde422-34f2-45e5-ae0c-930dfff0565c",
+                            "itemBody": "\u003cp\u003eA. $112.20.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b3eff54f-2c1a-421a-af2e-141daae1b334",
+                            "itemBody": "\u003cp\u003eB. $142.05\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6161a946-41b4-44c7-a7a6-e3981d242c00",
+                            "itemBody": "\u003cp\u003eC. $147.80.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56269",
+            "entry": {
+                "title": "ITEM_CFA-L1-04712",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA call option had the following characteristics on the date it was created:\u003c/span\u003e\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eExercise price\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: right;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e$20\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eOption premium\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: right;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e$3\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eIf the price of the underlying is $17 at expiration, the profit to the option holder is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6f7b0f00-6f97-4944-ac48-688fe2d2842f"
+                },
+                "answerFeedback": {
+                    "6f7b0f00-6f97-4944-ac48-688fe2d2842f": "\u003cp\u003eCorrect because the profit on\u0026nbsp;the call buyer is Π = Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) – c\u003csub\u003e0\u003c/sub\u003e,\u0026nbsp;where S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration, X is the exercise price, and c\u003csub\u003e0\u003c/sub\u003e is the call option premium paid. Hence, the profit to the call option buyer or holder is Max(0,$17 – $20) – $3 = – $3.\u0026nbsp;\u003c/p\u003e",
+                    "9ef69b6e-3441-465a-8c4b-7fb510ea7695": "\u003cp\u003eIncorrect because $0 is the profit on a long put position: the profit to the put buyer\u0026nbsp;is Π = Max(0,X – S\u003csub\u003eT\u003c/sub\u003e) – p\u003csub\u003e0\u003c/sub\u003e,\u0026nbsp;where S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration, X is the exercise price, and p0 is the put option premium paid. Hence, the profit to the put buyer is Max(0,$20 – $17) – $3 = $3 – $3 = $0. Alternatively, this is the value or payoff to the call buyer at expiration, which is Max(0,S\u003csub\u003eT\u003c/sub\u003e – X)\u0026nbsp;or Max(0,$17 - $20) = $0. By contrast, the profit to the call buyer\u0026nbsp;is Π = Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) – c\u003csub\u003e0\u003c/sub\u003e,\u0026nbsp;where c\u003csub\u003e0\u003c/sub\u003e is the call option premium paid. Hence, the profit to the call option buyer or holder is Max(0,$17 – $20) – $3 = – $3, not $0.\u0026nbsp;\u003c/p\u003e",
+                    "c9ea97ed-e1b8-47ef-86e3-c3b19497bfe9": "\u003cp\u003eIncorrect because $3 is the value or payoff to the put buyer\u0026nbsp;at expiration, which is p\u003csub\u003eT\u003c/sub\u003e = Max(0,X – S\u003csub\u003eT\u003c/sub\u003e),\u0026nbsp;where S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration and X is the exercise price. Hence the payoff to the put buyer is Max(0,$20 – $17) = $3. Alternatively, this is also the profit to the call seller\u0026nbsp;which is Π = –Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) + c\u003csub\u003e0\u003c/sub\u003e,\u0026nbsp;where c\u003csub\u003e0\u003c/sub\u003e is the call option premium received. Hence, the profit to the call seller is –Max(0,$17 – $20) + $3 = $0 + $3 = $3. By contrast, the profit to the call buyer\u0026nbsp;is Π = Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) – c\u003csub\u003e0\u003c/sub\u003e, where c\u003csub\u003e0\u003c/sub\u003e is the call option premium paid. Hence, the profit to the call option buyer or holder is Max(0,$17 – $20) – $3 = – $3, not $3.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6f7b0f00-6f97-4944-ac48-688fe2d2842f",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e−$3.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9ef69b6e-3441-465a-8c4b-7fb510ea7695",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$0.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c9ea97ed-e1b8-47ef-86e3-c3b19497bfe9",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$3.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56270",
+            "entry": {
+                "title": "ITEM_CFA-L1-07175",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eIf \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e denotes the price of the underlying at the expiration date\u0026nbsp;and \u003ci\u003eX\u003c/i\u003e is the exercise price of the option, the payoff at expiration to a call seller is \u003ci\u003ebest \u003c/i\u003edescribed as:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a12baeea-f813-41ac-9cf0-ce23ed785213"
+                },
+                "answerFeedback": {
+                    "a12baeea-f813-41ac-9cf0-ce23ed785213": "\u003cp\u003eCorrect because to the seller, the value of the option at that point is ‒\u003ci\u003eMax(\u003c/i\u003e0, \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e – \u003ci\u003eX)\u003c/i\u003e, which is negative to the seller if the option is in the money and zero otherwise.\u003c/p\u003e",
+                    "bbac30e1-8a1b-4a33-9bb2-0414a4262299": "\u003cp\u003eIncorrect because –\u003ci\u003eMax(\u003c/i\u003e0\u003ci\u003e, X – S\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e) (payoff to the put seller). –Max denotes a short position and \u003ci\u003eX\u003c/i\u003e – \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e the inner value of a put option at expiration. Therefore, –\u003ci\u003eMax\u003c/i\u003e(0, \u003ci\u003eX\u003c/i\u003e – \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e) describes the payoff to a put seller and not to a call seller.\u0026nbsp;\u003c/p\u003e",
+                    "f0411a0f-388a-41ba-acb0-ec507f37f786": "\u003cp\u003eIncorrect because \u003ci\u003eMax(\u003c/i\u003e0\u003ci\u003e, S\u003csub\u003eT\u003c/sub\u003e – X)\u003c/i\u003e (payoff to the call buyer).\u0026nbsp;\u003ci\u003eMax\u003c/i\u003e denotes a long position and \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e – \u003ci\u003eX\u003c/i\u003e the inner value of a call option at expiration. Therefore, \u003ci\u003eMax\u003c/i\u003e(0, \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e – \u003ci\u003eX\u003c/i\u003e) describes the payoff to a call buyer and not to a call seller.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a12baeea-f813-41ac-9cf0-ce23ed785213",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e–Max(0, \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e – \u003ci\u003eX\u003c/i\u003e).\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "bbac30e1-8a1b-4a33-9bb2-0414a4262299",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e–Max(0, \u003ci\u003eX\u003c/i\u003e – \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e).\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f0411a0f-388a-41ba-acb0-ec507f37f786",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eMax(0, \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e – \u003ci\u003eX\u003c/i\u003e).\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56271",
+            "entry": {
+                "title": "ITEM_CFA-L1-00791",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA call option that is sold for $4 has an exercise price of $40. If the price of the underlying is $43 at expiration, the value of the option to the seller is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "324d100d-efbc-459e-97a0-b7548cbb8aac"
+                },
+                "answerFeedback": {
+                    "18ae7e11-c928-4722-bcf6-8c07fea7c363": "\u003cp\u003e\u003cspan\u003eIncorrect because the value or payoff to the call seller\u0026nbsp;is equal to –c\u003csub\u003eT\u003c/sub\u003e = –Max(0,S\u003csub\u003eT\u003c/sub\u003e – X),\u0026nbsp;where S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration and X is the exercise price. Here the value or payoff of the call to the seller is –Max(0,$43 – $40) = –\u003c/span\u003e\u003cspan\u003e$3. Further, the profit to the call seller\u0026nbsp;is equal to Π = –Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) + c\u003csub\u003e0\u003c/sub\u003e,\u0026nbsp;where c\u003csub\u003e0\u003c/sub\u003e is the option price or premium paid by the call buyer to the call seller. Therefore, the profit to the call seller is –Max(0,$43 – $40) + $4 = –$3 + $4 = $1, not –$1, which is equal to a loss of $1.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                    "31335c70-3904-4eb5-a6f6-5e7546a40062": "\u003cp\u003e\u003cspan\u003eIncorrect because the value or payoff to the call seller\u0026nbsp;is equal to –c\u003csub\u003eT\u003c/sub\u003e = –Max(0,S\u003csub\u003eT\u003c/sub\u003e – X),\u0026nbsp;where S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration and X is the exercise price. Here the value or payoff of the call to the seller is –Max(0,$43 – $40) = \u003c/span\u003e\u003cspan\u003e$–3, not $3. Further, the profit to the call seller\u0026nbsp;is equal to Π = –Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) + c\u003csub\u003e0\u003c/sub\u003e,\u0026nbsp;where c\u003csub\u003e0\u003c/sub\u003e is the option price or premium paid by the call buyer to the call seller. Therefore, the profit to the call seller is –Max(0,$43 – $40) + $4 = –$3 + $4 = $1, not –$1 which is equal to a loss of $1.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                    "324d100d-efbc-459e-97a0-b7548cbb8aac": "\u003cp\u003e\u003cspan\u003eCorrect because the value or payoff to the call seller\u0026nbsp;is equal to –c\u003csub\u003eT\u003c/sub\u003e = –Max(0,S\u003csub\u003eT\u003c/sub\u003e – X),\u0026nbsp;where S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration and X is the exercise price. Here the value or payoff of the call to the seller is –Max(0,$43 – $40) = –\u003c/span\u003e\u003cspan\u003e$3. Further, the profit to the call seller\u0026nbsp;is equal to Π = –Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) + c\u003csub\u003e0\u003c/sub\u003e, where c\u003csub\u003e0\u003c/sub\u003e is the option price or premium paid by the call buyer to the call seller. Therefore, the profit to the call seller is –Max(0,$43 – $40) + $4 = –$3 + $4 = $1.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "18ae7e11-c928-4722-bcf6-8c07fea7c363",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e–$3, and the loss to the seller is $1.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "324d100d-efbc-459e-97a0-b7548cbb8aac",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e–$3, and the profit to the seller is $1.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "31335c70-3904-4eb5-a6f6-5e7546a40062",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$3, and the loss to the seller is $1.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56272",
+            "entry": {
+                "title": "ITEM_CFA-L1-06695",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAn investor pays $5 for a European put option with an exercise price of $102. At expiration, if the price of the underlying is $100, the value of the put option is:\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a529d909-e141-4585-bd10-bb2e2d84c1e5"
+                },
+                "answerFeedback": {
+                    "717fd1ec-13de-4dd7-8c52-15a29748cd85": "\u003cp\u003eIncorrect because the value of the put option is not equal to the profit to the put buyer which is Π = Max(0,\u003cem\u003eX\u003c/em\u003e – \u003cem\u003eS\u003c/em\u003e\u003csub\u003e\u003cem\u003eT\u003c/em\u003e\u003c/sub\u003e) – \u003cem\u003ep\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e,\u0026nbsp;\u003cspan\u003ewhere \u003cem\u003eX\u003c/em\u003e is the exercise price, \u003cem\u003eS\u003c/em\u003e\u003csub\u003e\u003cem\u003eT\u003c/em\u003e\u003c/sub\u003e is the price of the underlying at expiration, and \u003cem\u003ep\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e is the put premium paid. \u0026nbsp;Therefore, the profit is equal to Max(0,\u003cem\u003eX\u003c/em\u003e – \u003cem\u003eS\u003c/em\u003e\u003csub\u003e\u003cem\u003eT\u003c/em\u003e\u003c/sub\u003e) – \u003cem\u003ep\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e = Max(0,$102 – $100) – $5 = –$3. Instead, the value of the put option at expiration is \u003cem\u003ep\u003c/em\u003e\u003csub\u003eT\u003c/sub\u003e = Max(0,\u003cem\u003eX\u003c/em\u003e – \u003cem\u003eS\u003c/em\u003e\u003csub\u003e\u003cem\u003eT\u003c/em\u003e\u003c/sub\u003e) or Max(0,$102 – 100) = $2.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                    "a529d909-e141-4585-bd10-bb2e2d84c1e5": "\u003cp\u003e\u003cspan\u003eCorrect because\u0026nbsp;\u003c/span\u003e\u003cspan\u003ethe payoff to the put holder is:\u0026nbsp; \u003ci\u003ep\u003c/i\u003e\u003ci\u003e\u003csub\u003eT\u003c/sub\u003e\u0026nbsp;=\u0026nbsp;\u003c/i\u003eMax(0,X – S\u003csub\u003eT\u003c/sub\u003e)\u0026nbsp;where S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration, and X is the exercise price. Therefore, the value of the put at expiration when S\u003csub\u003eT\u0026nbsp;\u003c/sub\u003e= $100 and X = $102\u0026nbsp;is\u0026nbsp;\u003ci\u003ep\u003c/i\u003e\u003ci\u003e\u003csub\u003eT\u003c/sub\u003e\u0026nbsp;=\u0026nbsp;\u003c/i\u003eMax(0,$102\u003c/span\u003e\u003cspan\u003e\u0026nbsp;– $100) = $2\u003c/span\u003e.\u003cspan\u003e\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                    "d0ffb3a4-5fff-4c72-ae01-29d5a83e0478": "\u003cp\u003eIncorrect because it confuses the put option with a call option. The value to the call buyer at expiration is \u003cem\u003ec\u003c/em\u003e\u003csub\u003e\u003cem\u003eT\u003c/em\u003e\u003c/sub\u003e = Max(0,\u003cem\u003eS\u003c/em\u003e\u003csub\u003e\u003cem\u003eT\u003c/em\u003e \u003c/sub\u003e– \u003cem\u003eX\u003c/em\u003e)\u0026nbsp;or Max(0,$100 – 102) = $0, where \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e is the price of the underlying at expiration and \u003cem\u003eX\u003c/em\u003e is the exercise price. \u003cspan\u003eInstead, the value of the put option at expiration is \u003cem\u003ep\u003c/em\u003e\u003csub\u003e\u003cem\u003eT\u003c/em\u003e\u003c/sub\u003e = Max(0,\u003cem\u003eX\u003c/em\u003e – \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e)\u0026nbsp;or Max(0,$102 – 100) = $2.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "717fd1ec-13de-4dd7-8c52-15a29748cd85",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e−$3.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d0ffb3a4-5fff-4c72-ae01-29d5a83e0478",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$0.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a529d909-e141-4585-bd10-bb2e2d84c1e5",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$2.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56273",
+            "entry": {
+                "title": "ITEM_CFA-L1-05443",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-size: 16px;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAn American put has a strike price of ¥5,000 and expires in one year. The current price of the underlying is ¥4,200 and the risk-free rate is 2%. The maximum value of this put is:\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9c8868bb-307c-46ee-af31-fdabeb20fde0"
+                },
+                "answerFeedback": {
+                    "0687680e-319a-4cb4-ab1b-ffc0ba51f70b": "\u003cp\u003e\u003cspan\u003e\u003cspan\u003eIncorrect because ¥4,900 is the present value of X, the strike price discounted at the risk-free rate of 2%. This is wrong because \u003c/span\u003e\u003c/span\u003e\u003cspan\u003ethe payoff to the put holder is:\u0026nbsp; \u003ci\u003ep\u003c/i\u003e\u003ci\u003e\u003csub\u003eT\u003c/sub\u003e\u0026nbsp;=\u0026nbsp;\u003c/i\u003eMax(0,X – S\u003csub\u003eT\u003c/sub\u003e)\u0026nbsp;\u0026nbsp;where S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration, and X is the exercise price. Therefore, the maximum payoff is when S\u003csub\u003eT\u0026nbsp;\u003c/sub\u003e= 0 and\u0026nbsp;\u003ci\u003ep\u003c/i\u003e\u003ci\u003e\u003csub\u003eT\u003c/sub\u003e\u0026nbsp;=\u0026nbsp;\u003c/i\u003eMax(0,\u003c/span\u003e¥5,000\u003cspan\u003e\u0026nbsp;– 0) =\u0026nbsp;\u003c/span\u003e¥5,000.\u003cspan\u003e\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                    "9c8868bb-307c-46ee-af31-fdabeb20fde0": "\u003cp\u003e\u003cspan\u003eCorrect because\u0026nbsp;\u003c/span\u003e\u003cspan\u003ethe payoff to the put holder is:\u0026nbsp; \u003ci\u003ep\u003c/i\u003e\u003ci\u003e\u003csub\u003eT\u003c/sub\u003e\u0026nbsp;=\u0026nbsp;\u003c/i\u003eMax(0,X – S\u003csub\u003eT\u003c/sub\u003e) where S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration, and X is the exercise price. Therefore, the maximum payoff is when S\u003csub\u003eT\u0026nbsp;\u003c/sub\u003e= 0 and\u0026nbsp;\u003ci\u003ep\u003c/i\u003e\u003ci\u003e\u003csub\u003eT\u003c/sub\u003e\u0026nbsp;=\u0026nbsp;\u003c/i\u003eMax(0,\u003c/span\u003e¥5,000\u003cspan\u003e\u0026nbsp;– 0) =\u0026nbsp;\u003c/span\u003e¥5,000.\u003cspan\u003e\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                    "cc776d29-2254-4deb-8459-4fd60b9e2623": "\u003cp\u003e\u003cspan\u003e\u003cspan\u003eIncorrect because this is the payoff of the option if the current price of the underlying did not change for the next year.\u0026nbsp; T\u003c/span\u003ehe payoff to the put holder is:\u0026nbsp; \u003ci\u003ep\u003c/i\u003e\u003ci\u003e\u003csub\u003eT\u003c/sub\u003e\u0026nbsp;=\u0026nbsp;\u003c/i\u003eMax(0,X – S\u003csub\u003eT\u003c/sub\u003e) where S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration, and X is the exercise price. Therefore, the maximum payoff is when S\u003csub\u003eT\u0026nbsp;\u003c/sub\u003e= 0 and\u0026nbsp;\u003ci\u003ep\u003c/i\u003e\u003ci\u003e\u003csub\u003eT\u003c/sub\u003e\u0026nbsp;=\u0026nbsp;\u003c/i\u003eMax(0,\u003c/span\u003e¥5,000\u003cspan\u003e\u0026nbsp;– 0) =\u0026nbsp;\u003c/span\u003e¥5,000.\u003cspan\u003e\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "cc776d29-2254-4deb-8459-4fd60b9e2623",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e¥800.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0687680e-319a-4cb4-ab1b-ffc0ba51f70b",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e¥4,900.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9c8868bb-307c-46ee-af31-fdabeb20fde0",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e¥5,000.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56274",
+            "entry": {
+                "title": "ITEM_2019BDeriv02HFJ",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe following information relates to a put option and the underlying stock:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eStock price at expiration\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$85\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eEuropean put strike price\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e$78\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe value of the put option to the option seller at expiration is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b5d221bc-6fbc-4557-ad18-42e5a832c757"
+                },
+                "answerFeedback": {
+                    "6c36949e-aec0-4ae2-99f3-51a9c6e02f33": "\u003cp\u003eIncorrect because \u003ci\u003ep\u003csub\u003eT \u003c/sub\u003e\u003c/i\u003e= Max(0,\u003ci\u003eX \u003c/i\u003e– \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e). \u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e is put option value at expiration, \u003ci\u003eX\u003c/i\u003e is European put strike price and \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e is stock price at expiration. So, \u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e \u003c/i\u003e= Max($0,\u003ci\u003e$78 \u003c/i\u003e– \u003ci\u003e$85\u003c/i\u003e) ≠ -$7. Therefore, the value of the put option at expiration is not −$7.\u0026nbsp;\u003c/p\u003e",
+                    "b5d221bc-6fbc-4557-ad18-42e5a832c757": "\u003cp\u003eCorrect because \u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e \u003c/i\u003e= Max(0,\u003ci\u003eX \u003c/i\u003e– \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e). \u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e is put option value at expiration, \u003ci\u003eX\u003c/i\u003e is European put strike price and \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e is stock price at expiration. So, \u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e \u003c/i\u003e= Max($0,\u003ci\u003e$78 \u003c/i\u003e– \u003ci\u003e$85\u003c/i\u003e) = $0. Therefore, the value of the put option at expiration is $0.\u0026nbsp;\u003c/p\u003e",
+                    "bcc04029-31f5-4397-b2ef-cda229bca018": "\u003cp\u003eIncorrect because \u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e \u003c/i\u003e= Max(0,\u003ci\u003eX \u003c/i\u003e– \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e). \u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e is put option value at expiration, \u003ci\u003eX\u003c/i\u003e is European put strike price and \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e is stock price at expiration. So, \u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e \u003c/i\u003e= Max($0,\u003ci\u003e$78 \u003c/i\u003e– \u003ci\u003e$85\u003c/i\u003e) ≠ $7. Therefore, the value of the put option at expiration is not $7.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6c36949e-aec0-4ae2-99f3-51a9c6e02f33",
+                            "itemBody": "\u003cp\u003eA. –$7.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b5d221bc-6fbc-4557-ad18-42e5a832c757",
+                            "itemBody": "\u003cp\u003eB. $0.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bcc04029-31f5-4397-b2ef-cda229bca018",
+                            "itemBody": "\u003cp\u003eC. $7.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56275",
+            "entry": {
+                "title": "ITEM_CFA-L1-08105",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAll else being equal, if the price of the underlying at expiration exceeds the exercise price, the option value at expiration for the seller of a put \u003ci\u003emost likely\u003c/i\u003e is:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b0afc0f3-345e-4dda-ab9e-98d5a2184cf7"
+                },
+                "answerFeedback": {
+                    "19dff177-5e78-49d7-84ac-5c226acf4b74": "\u003cp\u003eIncorrect because the payoff or value at expiration to the put seller is defined as –Max(0,\u003cem\u003eX\u003c/em\u003e – \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e),\u0026nbsp;where \u003cem\u003eX\u003c/em\u003e is the exercise price and \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e is the value of the underlying at expiration. \u0026nbsp;If \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e exceeds \u003cem\u003eX\u003c/em\u003e, then the value to the put seller is zero. By contrast, the payoff or value to the call seller is defined as –Max(0,\u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e – \u003cem\u003eX\u003c/em\u003e),\u0026nbsp;in which case the value is negative. Therefore, for \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e \u0026gt; \u003cem\u003eX\u003c/em\u003e, the value to the put seller is zero, and therefore greater, not less than, the value to the call seller which is negative.\u0026nbsp;\u003c/p\u003e",
+                    "433118be-c83f-4851-99f5-1bfa3f8d926b": "\u003cp\u003eIncorrect because the payoff or value at expiration to the put seller is defined as –Max(0,\u003cem\u003eX\u003c/em\u003e – \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e),\u0026nbsp;where \u003cem\u003eX\u003c/em\u003e is the exercise price and \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e is the value of the underlying at expiration. If \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e exceeds \u003cem\u003eX\u003c/em\u003e, then the value to the put seller is zero. By contrast, the payoff or value to the call seller is defined as –Max(0,\u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e – \u003cem\u003eX\u003c/em\u003e),\u0026nbsp;in which case the value is negative. Therefore, for \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e \u0026gt; \u003cem\u003eX\u003c/em\u003e, the value to the put seller is zero, and therefore greater, not equal to, the value to the call seller which is negative.\u003c/p\u003e",
+                    "b0afc0f3-345e-4dda-ab9e-98d5a2184cf7": "\u003cp\u003eCorrect because the payoff or value at expiration to the put seller is defined as –Max(0,\u003cem\u003eX\u003c/em\u003e – \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e),\u0026nbsp;where \u003cem\u003eX\u003c/em\u003e is the exercise price and \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e is the value of the underlying at expiration. If \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e exceeds \u003cem\u003eX\u003c/em\u003e, then the value to the put seller is zero. By contrast, the payoff or value to the call seller is defined as –Max(0,\u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e – \u003cem\u003eX\u003c/em\u003e),\u0026nbsp;in which case the value is negative. Therefore, for \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e \u0026gt; \u003cem\u003eX\u003c/em\u003e, the value to the put seller is zero and, therefore, greater than the value to the call seller which is negative.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "19dff177-5e78-49d7-84ac-5c226acf4b74",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eless than the option value at expiration for the seller of a call.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "433118be-c83f-4851-99f5-1bfa3f8d926b",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eequal to the option value at expiration for the seller of a call.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b0afc0f3-345e-4dda-ab9e-98d5a2184cf7",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003egreater than the option value at expiration for the seller of a call.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56276",
+            "entry": {
+                "title": "ITEM_CFA-L1-07694",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eAn investor gathers the following information about a European put option and its underlying:\u003c/span\u003e\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eExercise price\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: right;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e$29\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eOption purchase price\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: right;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e$2\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eSpot price at the time of the option purchase\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: right;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e$28\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eIf the price of the underlying at expiration is $27, the profit for a buyer of the put is:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2c92829d-3fad-4bbd-baba-c6117406460c"
+                },
+                "answerFeedback": {
+                    "1d50df57-61ef-43b5-a858-37c780407621": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eIncorrect because it represents value or payoff at expiration to the put buyer, not profit for the put buyer. The value of payoff is p\u003csub\u003eT\u003c/sub\u003e = Max(0, X – S\u003csub\u003eT\u003c/sub\u003e),\u0026nbsp;where p\u003csub\u003eT\u003c/sub\u003e is the value of the put option at expiration, X is the exercise price of the option, and S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration. Therefore, p\u003csub\u003eT\u003c/sub\u003e = Max(0, $29 – $27) = $2. This is not the profit, which is $0, as described in the response rationale for the correct answer.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                    "2c92829d-3fad-4bbd-baba-c6117406460c": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eCorrect because the profit for a put buyer is Π = Max(0,X – S\u003csub\u003eT\u003c/sub\u003e) – p\u003csub\u003e0\u003c/sub\u003e, where X is the exercise price, S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration, and p\u003csub\u003e0\u003c/sub\u003e is the put premium paid. Therefore, the profit is equal to Max(0,$29 – $27) – $2 = $0.\u003c/span\u003e\u003c/p\u003e",
+                    "87f80311-810f-4984-b411-0127576012de": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eIncorrect because it represents the exercise price X minus the initial underlying price S\u003csub\u003e0\u003c/sub\u003e minus the premium paid p\u003csub\u003e0\u003c/sub\u003e, or $29 – $28 – $2= –$1. This is not the profit, which is $0, as described in the response rationale for the correct answer.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "87f80311-810f-4984-b411-0127576012de",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e−$1.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2c92829d-3fad-4bbd-baba-c6117406460c",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$0.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1d50df57-61ef-43b5-a858-37c780407621",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$2.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56277",
+            "entry": {
+                "title": "ITEM_CFA-L1-05018",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eA call option has the following characteristics:\u003c/span\u003e\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eValue of underlying at expiration\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: right;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e$2,020\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eExercise price\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: right;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e$2,100\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eCall premium\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: right;\"\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003e$80\u003c/span\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eThe profit to the call seller is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "cabb6040-3289-4414-885d-b12cf76ed00f"
+                },
+                "answerFeedback": {
+                    "216ad634-6879-4932-a2c6-f63eebc76152": "\u003cp\u003eIncorrect because $0 represents the value or payoff to the call seller\u0026nbsp;which is –c\u003csub\u003eT\u003c/sub\u003e = –Max(0,S\u003csub\u003eT\u003c/sub\u003e – X),\u0026nbsp;where S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration and X is the exercise price. Hence, –Max(0,$2,020 – $2,100) = $0. By contrast, the profit to call seller\u0026nbsp;is Π = –Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) + c\u003csub\u003e0\u003c/sub\u003e,\u0026nbsp;where c\u003csub\u003e0\u003c/sub\u003e is the call option premium. Hence, –Max(0,$2,020 – $2,100) + $80 = $80, not $0.\u0026nbsp;\u003c/p\u003e",
+                    "5b114fe3-dfb8-48b9-b5a6-7a8733109b61": "\u003cp\u003eIncorrect because –$80 represents the profit to the call buyer\u0026nbsp;which is Π = Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) – c\u003csub\u003e0\u003c/sub\u003e,\u0026nbsp;where S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration, X is the exercise price, and c\u003csub\u003e0\u003c/sub\u003e is the call option premium. Hence, Max(0,$2,020 – $2,100) – $80 = –$80. By contrast, the profit to call seller\u0026nbsp;is Π = –Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) + c\u003csub\u003e0\u003c/sub\u003e.\u0026nbsp;Hence, –Max(0,$2,020 – $2,100) + $80 = $80, not –$80.\u0026nbsp;\u003c/p\u003e",
+                    "cabb6040-3289-4414-885d-b12cf76ed00f": "\u003cp\u003e\u003cspan\u003e\u003cspan\u003eCorrect because the profit to call seller\u0026nbsp;is Π = –Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) + c\u003csub\u003e0\u003c/sub\u003e,\u0026nbsp;where S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration, X is the exercise price, and c\u003csub\u003e0\u003c/sub\u003e is the call option premium received. Hence, –Max(0,$2,020 – $2,100) + $80 = $0 + $80 = $80.\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5b114fe3-dfb8-48b9-b5a6-7a8733109b61",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e−$80.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "216ad634-6879-4932-a2c6-f63eebc76152",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$0.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "cabb6040-3289-4414-885d-b12cf76ed00f",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$80.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56278",
+            "entry": {
+                "title": "ITEM_CFA-L1-04806",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-size:16px\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eWhich of the following is \u003ci\u003emost likely\u003c/i\u003e an example of a contingent claim? A(n):\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "91c7752c-c21f-403a-a596-aaf34de97688"
+                },
+                "answerFeedback": {
+                    "91c7752c-c21f-403a-a596-aaf34de97688": "\u003cp\u003e\u003cspan\u003e\u003cspan\u003eCorrect because another class of derivatives provides the right but not the obligation to buy or sell the underlying at a pre-determined price. Because the choice of buying or selling versus doing nothing depends on a particular random outcome, these derivatives are called contingent claims. The primary contingent claim is called an option.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "b5ffc445-af49-4eaa-a30b-1ec5bbb57400": "\u003cp\u003e\u003cspan\u003eIncorrect because there are two general classes of derivatives. Some provide the ability to lock in a price at which one might buy or sell the underlying. Because they force the two parties to transact in the future at a previously agreed-on price, these instruments are called forward commitments. The various types of forward commitments are called forward contracts, futures contracts, and swaps. Therefore, a futures contract is a forward commitment, not a contingent claim.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                    "c17c7c8d-b409-4e97-81e1-17e0317fe6ba": "\u003cp\u003e\u003cspan\u003eIncorrect because there are two general classes of derivatives. Some provide the ability to lock in a price at which one might buy or sell the underlying. Because they force the two parties to transact in the future at a previously agreed-on price, these instruments are called forward commitments. The various types of forward commitments are called forward contracts, futures contracts, and swaps. Therefore, a swap contract is a forward commitment, not a contingent claim. \u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c17c7c8d-b409-4e97-81e1-17e0317fe6ba",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eswap contract\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "91c7752c-c21f-403a-a596-aaf34de97688",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eoption contract\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b5ffc445-af49-4eaa-a30b-1ec5bbb57400",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003efutures contract\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56279",
+            "entry": {
+                "title": "ITEM_CFA-L1-07268",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eForward contracts have:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1b90254e-d590-4f7e-b201-49509093244d"
+                },
+                "answerFeedback": {
+                    "1b90254e-d590-4f7e-b201-49509093244d": "\u003cp\u003eCorrect because futures contracts\u0026nbsp;are forward contracts with standardized sizes, dates, and underlyings that trade on futures exchanges. Futures markets offer both greater liquidity and protection against loss by default (compared to forwards)]\u0026nbsp;by combining contract uniformity with an organized market with rules, regulations, and a central clearing facility.\u0026nbsp;Also a\u0026nbsp;forward contract is an over-the-counter (OTC) derivative in which two counterparties agree that one counterparty, the buyer, will purchase an underlying from the other counterparty, the seller, in the future at a pre-agreed fixed price. As noted earlier, OTC derivatives offer greater flexibility and customization than exchange-traded derivatives (ETD), but also usually involve more counterparty risk.\u0026nbsp;Therefore, forwards have more counterparty risk than futures.\u0026nbsp;\u003c/p\u003e",
+                    "aef43e81-1335-4b6e-bcb6-aab60e261495": "\u003cp\u003eIncorrect because futures contracts\u0026nbsp;are forward contracts with standardized sizes, dates, and underlyings that trade on futures exchanges. Futures markets offer both greater liquidity and protection against loss by default (compared to forwards)\u0026nbsp;by combining contract uniformity with an organized market with rules, regulations, and a central clearing facility.\u0026nbsp;Also a\u0026nbsp;forward contract is an over-the-counter (OTC) derivative in which two counterparties agree that one counterparty, the buyer, will purchase an underlying from the other counterparty, the seller, in the future at a pre-agreed fixed price. As noted earlier, OTC derivatives offer greater flexibility and customization than exchange-traded derivatives (ETD), but also usually involve more counterparty risk. Therefore, forwards have more, not less,\u0026nbsp;counterparty\u0026nbsp;risk than futures.\u0026nbsp;\u003c/p\u003e",
+                    "e2b5cfed-4879-436f-b9b9-75c2cfcea61e": "\u003cp\u003eIncorrect because futures contracts\u0026nbsp;are forward contracts with standardized sizes, dates, and underlyings that trade on futures exchanges. Futures markets offer both greater liquidity and protection against loss by default (compared to forwards)\u0026nbsp;by combining contract uniformity with an organized market with rules, regulations, and a central clearing facility.\u0026nbsp;Also a\u0026nbsp;forward contract is an over-the-counter (OTC) derivative in which two counterparties agree that one counterparty, the buyer, will purchase an underlying from the other counterparty, the seller, in the future at a pre-agreed fixed price. As noted earlier, OTC derivatives offer greater flexibility and customization than exchange-traded derivatives (ETD), but also usually involve more counterparty risk.\u0026nbsp;Therefore, forwards have more, not the same level, of\u0026nbsp;counterparty\u0026nbsp;risk than futures.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "aef43e81-1335-4b6e-bcb6-aab60e261495",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eless counter-party risk than futures.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e2b5cfed-4879-436f-b9b9-75c2cfcea61e",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ethe same level of counter-party risk as futures.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1b90254e-d590-4f7e-b201-49509093244d",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003emore counter-party risk than futures.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56280",
+            "entry": {
+                "title": "ITEM_CFA-L1-07457",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eThe payoff to the seller of a forward contract at expiration is defined as the:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4f234807-8a9a-4bb1-b03b-62aaec4914b7"
+                },
+                "answerFeedback": {
+                    "4f234807-8a9a-4bb1-b03b-62aaec4914b7": "\u003cp\u003eCorrect because the long is obligated to pay \u003ci\u003eF\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e(\u003cem\u003eT\u003c/em\u003e), for which he receives an asset worth \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e.\u0026nbsp;The short has the mirror image of the long. He is required to deliver the asset worth \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e and accept a smaller amount, \u003ci\u003eF\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e(\u003cem\u003eT\u003c/em\u003e).\u0026nbsp;Here \u003ci\u003eF\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e(\u003cem\u003eT\u003c/em\u003e) is the forward price agreed at contract initiation with \u003cem\u003eT\u003c/em\u003e denoting the time of expiry, and \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e is the value of the underlying at expiry. Therefore, the payoff to the forward seller at expiration is \u003ci\u003eF\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e(\u003cem\u003eT\u003c/em\u003e) \u003ci\u003e− S\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e.\u003c/p\u003e",
+                    "aaa5f9d3-cc1a-4e4b-b030-a2d7b17b21d0": "\u003cp\u003eIncorrect because the long is obligated to pay \u003ci\u003eF\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e(\u003cem\u003eT\u003c/em\u003e) for which he receives an asset worth \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e.\u0026nbsp;The short has the mirror image of the long. He is required to deliver the asset worth \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e and accept a smaller amount, \u003ci\u003eF\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e(\u003cem\u003eT\u003c/em\u003e).\u0026nbsp;Therefore, the payoff to the seller at expiration is \u003ci\u003eF\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e(\u003cem\u003eT\u003c/em\u003e) \u003ci\u003e− S\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e, not \u003ci\u003eF\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e(\u003cem\u003eT\u003c/em\u003e) \u003ci\u003e+ S\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e.\u003c/p\u003e",
+                    "de13e215-79a0-496f-b205-9f1ed6d4682d": "\u003cp\u003eIncorrect because it represents \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e \u003ci\u003e−\u003c/i\u003e \u003ci\u003eF\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e(\u003cem\u003eT\u003c/em\u003e) which is the payoff for the buyer of the contract. This is not the payoff to the seller at expiration, as described in the response rationale for the correct answer.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "aaa5f9d3-cc1a-4e4b-b030-a2d7b17b21d0",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eforward price plus the value of the underlying at expiration.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4f234807-8a9a-4bb1-b03b-62aaec4914b7",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eforward price minus the value of the underlying at expiration.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "de13e215-79a0-496f-b205-9f1ed6d4682d",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003evalue of the underlying at expiration minus the forward price.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56281",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Deriv-Teo-03",
+                "feedback": {},
+                "itemBody": "\u003cp style=\"margin-bottom:11px\"\u003e\u003cspan style=\"font-size:16px\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"line-height:107%\"\u003eWhich of the following characteristics is \u003ci\u003emost likely\u003c/i\u003e common to both forwards and swaps?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3737ade3-7069-4352-9f42-315ae1358121"
+                },
+                "answerFeedback": {
+                    "3737ade3-7069-4352-9f42-315ae1358121": "\u003cp\u003e\u003cspan style=\"font-size:16px\"\u003eCorrect because\u0026nbsp;\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"line-height:107%\"\u003eboth forward contracts\u0026nbsp;and\u0026nbsp;swaps are traded over-the-counter (OTC), allowing the counterparties to negotiate and agree upon specific features for each contract.\u0026nbsp;\u003c/span\u003e\u003c/span\u003eExchange-traded derivatives are standardized, whereas OTC derivatives are customized.\u0026nbsp;Further, a\u0026nbsp;forward contract is an over-the-counter derivative contract\u003ci\u003e.\u003c/i\u003e\u0026nbsp;\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:Calibri,sans-serif\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"font-family:\u0026quot;Times New Roman\u0026quot;,serif\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003eAlso, a\u0026nbsp;swap is an over-the-counter derivative contract. Therefore, both forward contracts and swaps can be\u0026nbsp;customized as\u0026nbsp;they both are OTC derivative products. \u003c/span\u003e\u003c/p\u003e",
+                    "47f2765f-fa75-4e70-805d-f637378e6a60": "\u003cp style=\"margin-bottom:11px\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"line-height:107%\"\u003eIncorrect\u0026nbsp;because it describes a characteristic\u0026nbsp;of futures but not forward contracts or swaps. P\u003c/span\u003e\u003c/span\u003erobably the most important distinctive characteristic of futures contracts (compared to forwards and swaps)\u0026nbsp;is the daily settlement of gains and losses and the associated credit guarantee provided by the exchange through its clearinghouse.\u0026nbsp;In addition,\u0026nbsp;a\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"line-height:107%\"\u003et the end of each day, the clearinghouse engages in a practice called marked to market, also known as the daily settlement. The clearinghouse determines an average of the final futures trades of the day and designates that price as the settlement price. All contracts are then said to be marked to the settlement price.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"line-height:107%\"\u003e\u003cspan style=\"line-height:107%\"\u003e\u0026nbsp;Therefore, both forwards and swaps are not marked to the settlement price on a daily basis. \u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "cb26d56a-210a-4f30-9b9b-0056c1564ccd": "\u003cp\u003e\u003cspan style=\"font-size:16px\"\u003eIncorrect because this describes a swap but not a forward contract. The concept of a swap is that two parties exchange (swap) a series of cash flows.\u0026nbsp;Whereas in \u003c/span\u003ea\u0026nbsp;forward contract the buyer\u0026nbsp;will purchase an underlying asset from the other party, the seller,\u0026nbsp;at a later date at a fixed price they agree on when the contract is signed.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3737ade3-7069-4352-9f42-315ae1358121",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-size:16px\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eCustomization of contract terms\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "47f2765f-fa75-4e70-805d-f637378e6a60",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-size:16px\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eMarked to the settlement price ​​​​​​on a daily basis\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "cb26d56a-210a-4f30-9b9b-0056c1564ccd",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-size:16px\"\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eMultiple payments over the life of the contract\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56282",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-Deriv-Beisswanger-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eA forward commitment:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2336ea31-859e-4fe8-9844-3d5a928e3190"
+                },
+                "answerFeedback": {
+                    "2336ea31-859e-4fe8-9844-3d5a928e3190": "\u003cp\u003e\u003cspan style=\"font-size:12pt\"\u003e\u003cspan style=\"font-family:\u0026quot;Times New Roman\u0026quot;,serif\"\u003eCorrect because forwards, futures, and swaps represent firm commitments.\u0026nbsp;Further, the symmetric payoff profile is a common feature of firm commitments. Since the derivative price is a linear function of the underlying, firm commitments are also referred to as linear derivatives.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "d0b9bbd0-43f7-4725-8afb-cacb2bded58c": "\u003cp\u003e\u003cspan style=\"font-size:12pt\"\u003e\u003cspan style=\"font-family:\u0026quot;Times New Roman\u0026quot;,serif\"\u003eIncorrect because as with futures and forward contracts, no money is exchanged when a swap contract is initiated.\u0026nbsp;Also, forward commitments require no cash outlay at inception.\u0026nbsp;Therefore, for forwards, futures, and swaps, no money is exchanged at contract initiation.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "ef32bf2d-2a23-46e4-9b1f-109d33176f99": "\u003cp\u003e\u003cspan style=\"font-size:12pt\"\u003e\u003cspan style=\"font-family:\u0026quot;Times New Roman\u0026quot;,serif\"\u003eIncorrect because forwards, futures, and swaps represent firm commitments, or derivative contracts that require counterparties to exchange an underlying in the future based on an agreed-on price.\u0026nbsp;Also, forwards, futures, and swaps are the most common derivative contracts which represent a firm commitment. This firm commitment is an obligation of both counterparties to perform under the terms of the derivative contract.\u0026nbsp;Therefore, forward commitments do not provide rights to the contract parties, they require the forward parties to exchange an underlying in the future based on an agreed-on price.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2336ea31-859e-4fe8-9844-3d5a928e3190",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ehas a linear payoff in relation to the underlying.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d0b9bbd0-43f7-4725-8afb-cacb2bded58c",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003einvolves an exchange of cash at contract initiation.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ef32bf2d-2a23-46e4-9b1f-109d33176f99",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eprovides one party the right to transact at a later date.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56283",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Deriv-Gowen-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family: Arial,Helvetica,sans-serif;\"\u003eWhich of the following types of derivatives has a non-linear payoff?\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ae713bdc-b967-4f60-8516-f2e9818b89c5"
+                },
+                "answerFeedback": {
+                    "ae713bdc-b967-4f60-8516-f2e9818b89c5": "\u003cp\u003eCorrect because given that the holder of the contingent claim has a choice, the term contingent claim has become synonymous with the term option. The holder has a choice of whether or not to exercise the option. This choice creates a payoff that transforms the underlying payoff in a more pronounced manner than does a forward, futures, or swap. Those instruments provide linear payoffs: As the underlying goes up (down), the derivative gains (loses). The further up (down) the underlying goes, the more the derivative gains (loses). Options are different in that they limit losses in one direction.\u003c/p\u003e",
+                    "e7ad525c-ed68-4ef9-af03-23d5688d16be": "\u003cp\u003eIncorrect because given that the holder of the contingent claim has a choice, the term contingent claim has become synonymous with the term option. The holder has a choice of whether or not to exercise the option. This choice creates a payoff that transforms the underlying payoff in a more pronounced manner than does a forward, futures, or swap. Those instruments provide linear payoffs: As the underlying goes up (down), the derivative gains (loses). The further up (down) the underlying goes, the more the derivative gains (loses). Options are different in that they limit losses in one direction.\u0026nbsp;\u003c/p\u003e",
+                    "ff9fe25e-5319-46d3-89d4-280e8563068e": "\u003cp\u003eIncorrect because given that the holder of the contingent claim has a choice, the term contingent claim has become synonymous with the term option. The holder has a choice of whether or not to exercise the option. This choice creates a payoff that transforms the underlying payoff in a more pronounced manner than does a forward, futures, or swap. Those instruments provide linear payoffs: As the underlying goes up (down), the derivative gains (loses). The further up (down) the underlying goes, the more the derivative gains (loses). Options are different in that they limit losses in one direction.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e7ad525c-ed68-4ef9-af03-23d5688d16be",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eSwaps\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ae713bdc-b967-4f60-8516-f2e9818b89c5",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eOptions\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ff9fe25e-5319-46d3-89d4-280e8563068e",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eForwards\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8971,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4736,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51103",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBiomian Limited is a Mumbai-based biotech company with common stock and listed\n               futures and options on the National Stock Exchange (NSE). The Viswan Family Office\n               (VFO) currently owns 10,000 Biomian common shares. VFO would like to reduce its long\n               Biomian position and diversify its equity market exposure but will delay a cash sale\n               of shares for tax reasons for six months.\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8259,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51104",
+            "entry": {
+                "title": "CFA2349-s07-Q4",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. VFO may consider either a short futures position in (or a forward\n                  sale of) Biomian shares in six months to achieve its objective. This firm\n                  commitment allows VFO to offset its long position with a short position in six\n                  months at a pre-agreed price. The futures contract is an exchange-traded\n                  derivative with standardized terms set by the exchange and requires initial margin\n                  and daily settlement. Answers A and B are contingent claims that can both\n                  potentially increase, not decrease, VFO’s exposure to Biomian stock in six\n                  months.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following derivative contracts available to VFO’s chief investment\n                  officer is best suited to reduce exposure to a decline in Biomian’s stock price in\n                  the next six months?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "cbc44edf-7457-4f88-9f5e-390df679b5e5"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f6bef5d5-a424-41f8-a020-b84bdd732792",
+                            "itemBody": "A. A short put position on Biomian stock that expires in six months",
+                            "position": 1
+                        },
+                        {
+                            "id": "65bc3814-d597-4aa5-bf79-3b8c2080d816",
+                            "itemBody": "B. A long call position on Biomian stock that expires in six months",
+                            "position": 2
+                        },
+                        {
+                            "id": "cbc44edf-7457-4f88-9f5e-390df679b5e5",
+                            "itemBody": "C. A short futures position in Biomian stock that settles in six months",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8259,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": "51103"
+        },
+        {
+            "id": "51105",
+            "entry": {
+                "title": "CFA2349-s07-Q5",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. VFO should purchase a six-month put option on Biomian shares to\n                  manage its exposure based on the market strategist’s view. This contingent claim\n                  grants VFO the right but not the obligation to sell Biomian shares at a pre-agreed\n                  exercise price in exchange for a premium. A put option buyer exercises the option\n                  at maturity when the underlying price is below the exercise price. This allows VFO\n                  to continue to benefit from a rise in Biomian’s share price over the next six\n                  months with a limited downside. Neither B nor C provides VFO with downside\n                  protection if Biomian stock declines in six months.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eVFO’s market strategist believes that Biomian’s share price will rise over the\n                  next six months but would like to protect against a decline in Biomian’s share\n                  price over the period. Which of the following positions is best suited for VFO to\n                  manage its existing Biomian exposure based on this view?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9f10bae3-2a2d-4c15-938b-f4db1aa65048"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9f10bae3-2a2d-4c15-938b-f4db1aa65048",
+                            "itemBody": "A. A long put position on Biomian stock that expires in six months",
+                            "position": 1
+                        },
+                        {
+                            "id": "04ad3160-9a71-4534-b6e3-6c898a865c4d",
+                            "itemBody": "B. A short call position on Biomian stock that expires in six months",
+                            "position": 2
+                        },
+                        {
+                            "id": "ca2864c8-c571-423b-8c1c-948bcd898ad6",
+                            "itemBody": "C. A long futures position in Biomian stock that settles in six months",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8259,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": "51103"
+        },
+        {
+            "id": "51106",
+            "entry": {
+                "title": "CFA2349-s07-Q6",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Under a forward sale of Biomian shares, the profit is\n                     [\u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e) – \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\n                  \u003c/em\u003e]. If the shares rise significantly over the next six months—that is,\n                        \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\n                  \u003c/em\u003e \u0026gt; \u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e)—then VFO’s loss on the derivative is the\n                  difference between the Biomian forward price, \u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e), and the spot price, \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\n                  \u003c/em\u003e. Under the long put option on Biomian shares, VFO’s profit is max(0,\n                     \u003cem\u003eX\u003c/em\u003e – \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\n                  \u003c/em\u003e) – \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e. If Biomian shares rise significantly over the next six months (i.e.,\n                        \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\n                  \u003c/em\u003e \u0026gt; \u003cem\u003eX\u003c/em\u003e), then the option expires worthless and VFO’s\n                  loss is limited to the put premium paid, \u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e. If [\u003cem\u003eF\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e(\u003cem\u003eT\u003c/em\u003e) – \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\n                  \u003c/em\u003e] \u0026gt; –\u003cem\u003ep\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e, then VFO’s loss would be greater under the firm commitment than\n                  under the contingent claim.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAssume that Biomian shares rise over the next six months. Which of the following\n                  statements about VFO’s derivative strategies under this scenario is most\n                  accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9f1c9780-3558-49e4-8a6d-cad9670d8a2c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7dea6ff0-4130-4757-b38e-606c5285879f",
+                            "itemBody": "A. A forward sale of Biomian shares in six months would be more profitable than purchasing the right to sell Biomian shares in six months.",
+                            "position": 1
+                        },
+                        {
+                            "id": "09ff5f14-bffb-4e64-96f3-4a8d95aba4b6",
+                            "itemBody": "B. Purchasing the right to sell Biomian shares in six months would be more profitable than a forward sale of Biomian shares in six months.",
+                            "position": 2
+                        },
+                        {
+                            "id": "9f1c9780-3558-49e4-8a6d-cad9670d8a2c",
+                            "itemBody": "C. We do not have enough information to determine whether a forward sale or the right to sell Biomian shares will be more profitable in six months.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8259,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": "51103"
+        },
+        {
+            "id": "51107",
+            "entry": {
+                "title": "CFA2349-s07-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The profit is equal to Π = max(0, \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\n                  \u003c/em\u003e – \u003cem\u003eX\u003c/em\u003e) – \u003cem\u003ec\u003c/em\u003e\n                  \u003csub\u003e0\u003c/sub\u003e, and the payoff is equal to max(0, \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\n                  \u003c/em\u003e – \u003cem\u003eX\u003c/em\u003e). The exercise price is INR16,000, and the spot\n                  price just prior to maturity is INR16,500, so Π = –1,000 [= (16,500 – 16,000) –\n                  1,500], and the payoff is equal to INR500 [= (16,500 – 16,000)].\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eVFO’s market strategist is considering a six-month call option strategy on the\n                  NIFTY 50 benchmark Indian stock market index to increase broad market equity\n                  exposure. The NIFTY 50 price today is INR15,200, and the strategist observes that\n                  a call option with a INR16,000 exercise price (\u003cem\u003eX\u003c/em\u003e) is trading at a\n                  premium of INR1,500. Which of the following represents the payoff and profit of\n                  this strategy just prior to maturity if the NIFTY 50 is trading at INR16,500?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "380c4ed4-d4d6-4001-b7ba-50dad34b5aeb"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "380c4ed4-d4d6-4001-b7ba-50dad34b5aeb",
+                            "itemBody": "A. Payoff is INR500; profit is –INR1,000.",
+                            "position": 1
+                        },
+                        {
+                            "id": "5ca913c4-ba53-4ac9-bf58-2d0110b230ea",
+                            "itemBody": "B. Payoff is INR1,300; profit is INR800.",
+                            "position": 2
+                        },
+                        {
+                            "id": "c612e33f-997f-459b-a1be-e36f4e413307",
+                            "itemBody": "C. Payoff is INR1,300; profit is INR500.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8259,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": "51103"
+        },
+        {
+            "id": "53910",
+            "entry": {
+                "title": "ITEM_20170601038",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements \u003ci\u003ebest\u003c/i\u003e describes a feature of an option contract? In an option contract:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fb8b19a6-cfbe-4d78-bbf4-46f90b90d28a"
+                },
+                "answerFeedback": {
+                    "1662d087-c486-4873-b016-68c91617103a": "\u003cp\u003eIncorrect. Only the short can default. Beyond the initial payment of the premium, there is no further obligation for the long.\u003c/p\u003e",
+                    "e47833d6-7afd-4672-a9e1-9ca5b68bd463": "\u003cp\u003eIncorrect. Beyond the initial payment of the premium, there is no further obligation for the long.\u003c/p\u003e",
+                    "fb8b19a6-cfbe-4d78-bbf4-46f90b90d28a": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Only the short can default. This scenario occurs when the long exercises the option and the short fails to fulfill its obligation under the contract.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fb8b19a6-cfbe-4d78-bbf4-46f90b90d28a",
+                            "itemBody": "\u003cp\u003eA. only the short can default.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e47833d6-7afd-4672-a9e1-9ca5b68bd463",
+                            "itemBody": "\u003cp\u003eB. only the long can default.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1662d087-c486-4873-b016-68c91617103a",
+                            "itemBody": "\u003cp\u003eC. both the long and the short can default.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53911",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-Derivs-Augulyte-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of\u0026nbsp;the following derivatives\u0026nbsp;\u003ci\u003emost likely \u003c/i\u003erequires a payment to be made at the initiation\u0026nbsp;of the contract? A(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "119d0cad-bfc3-48e5-a73a-a19e46498db3"
+                },
+                "answerFeedback": {
+                    "119d0cad-bfc3-48e5-a73a-a19e46498db3": "\u003cp\u003eCorrect because an option is a derivative contract in which one party, the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an underlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date.\u003c/p\u003e",
+                    "426fc45d-b9fd-425c-85f6-d00b1aa83aea": "\u003cp\u003eIncorrect because as with futures and forwards, no money changes hands at the start; thus, the value of a swap when initiated must be zero.\u003c/p\u003e",
+                    "b3a300ce-caf8-488e-a481-dbb9c5239303": "\u003cp\u003eIncorrect because as with futures and forwards, no money changes hands at the start; thus, the value of a swap when initiated must be zero.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "426fc45d-b9fd-425c-85f6-d00b1aa83aea",
+                            "itemBody": "\u003cp\u003eA. swap\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "119d0cad-bfc3-48e5-a73a-a19e46498db3",
+                            "itemBody": "\u003cp\u003eB. option\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b3a300ce-caf8-488e-a481-dbb9c5239303",
+                            "itemBody": "\u003cp\u003eC. forward\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53912",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-Derivs-Klaschka-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCounterparty default risk is \u003ci\u003emost likely\u003c/i\u003e lowest for which of the following types of derivatives?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "692008d5-4aa6-459d-915f-0c630518af1e"
+                },
+                "answerFeedback": {
+                    "692008d5-4aa6-459d-915f-0c630518af1e": "\u003cp\u003eCorrect because exchange-traded derivatives (ETD) are standardized contracts traded on an organized exchange which requires collateral on deposit to protect against counterparty default and a futures contract is an exchange-traded derivative (ETD) with standardized terms set by the exchange.\u0026nbsp;Therefore, futures has lowest counterparty default risk.\u003c/p\u003e",
+                    "d27d4035-102f-4679-ba69-df7233a0487f": "\u003cp\u003eIncorrect because a forward contract is an over-the-counter (OTC) derivative\u0026nbsp;and OTC instruments have less transparency, usually involve\u0026nbsp;more counterparty risk.\u0026nbsp;Therefore, forwards do not have the lowest counterparty risk.\u003c/p\u003e",
+                    "f2742021-9d20-4796-8d79-f36b7dd37b20": "\u003cp\u003eIncorrect because swap credit terms are privately negotiated between counterparties in an over-the-counter agreement and may range from uncollateralized exposure, where each counterparty bears the full default risk of the other.\u0026nbsp;Therefore, swaps do not have the lowest counterparty\u0026nbsp;default risk.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f2742021-9d20-4796-8d79-f36b7dd37b20",
+                            "itemBody": "\u003cp\u003eA. Swaps\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "692008d5-4aa6-459d-915f-0c630518af1e",
+                            "itemBody": "\u003cp\u003eB. Futures\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d27d4035-102f-4679-ba69-df7233a0487f",
+                            "itemBody": "\u003cp\u003eC. Forwards\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53913",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-Derivs-Klaschka-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich party in an option contract has the right to sell the underlying stock at the exercise price?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e372c350-c07b-49fa-864f-94d6159d659e"
+                },
+                "answerFeedback": {
+                    "1eb57424-4392-4359-8684-48539d3bb8d4": "\u003cp\u003eIncorrect, because an option is a derivative contract in which one party, the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an underlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date. The right to buy is one type of option, referred to as a call or call option.\u0026nbsp;The buyer of a call option has the right to buy the underlying stock.\u003c/p\u003e",
+                    "2ad19c5b-584a-43dc-8542-fa87c4fed027": "\u003cp\u003eIncorrect, because an option is a derivative contract in which one party, the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an underlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date. The right to sell is a (another) type of option, referred to as a put or put option.\u0026nbsp;The seller of a put option has the obligation to buy the underlying if the buyer exercises the option.\u003c/p\u003e",
+                    "e372c350-c07b-49fa-864f-94d6159d659e": "\u003cp\u003eCorrect, because an option is a derivative contract in which one party, the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an underlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date. The right to sell is a (another) type of option, referred to as a put or put option.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1eb57424-4392-4359-8684-48539d3bb8d4",
+                            "itemBody": "\u003cp\u003eA. The buyer of a call option\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e372c350-c07b-49fa-864f-94d6159d659e",
+                            "itemBody": "\u003cp\u003eB. The buyer of a put option\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2ad19c5b-584a-43dc-8542-fa87c4fed027",
+                            "itemBody": "\u003cp\u003eC. The seller of a put option\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53914",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.07-Derivs-Agarwal-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost\u003c/i\u003e accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "16f7bf5e-e093-4ae1-ae68-f3d154155320"
+                },
+                "answerFeedback": {
+                    "16f7bf5e-e093-4ae1-ae68-f3d154155320": "\u003cp\u003eCorrect because a\u0026nbsp;forward contract is an over-the-counter derivative contract in which two parties agree that one party, the buyer, will purchase an underlying asset from the other party, the seller, at a later date at a fixed price they agree on when the contract is signed.\u003c/p\u003e",
+                    "350b4f30-6a5f-454d-bac4-e48f5c5058da": "\u003cp\u003eIncorrect because it is actually the opposite and futures contracts are more transparent than forward contracts. Futures markets are far more transparent than forward markets.\u003c/p\u003e",
+                    "ab055ed1-15aa-41bd-8a4b-d7cbb25d0004": "\u003cp\u003eIncorrect because this is a characteristic of a futures contract and not a forward contract. A futures contract is a standardized derivative contract created and traded on a futures exchange in which two parties agree that one party, the buyer, will purchase an underlying asset from the other party, the seller, at a later date and at a price agreed on by the two parties when the contract is initiated and in which there is a daily settling of gains and losses and a credit guarantee by the futures exchange through its clearinghouse.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ab055ed1-15aa-41bd-8a4b-d7cbb25d0004",
+                            "itemBody": "\u003cp\u003eA. A forward contract is\u0026nbsp;traded on an organized exchange.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "350b4f30-6a5f-454d-bac4-e48f5c5058da",
+                            "itemBody": "\u003cp\u003eB. Forward contracts are more transparent than futures contracts.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "16f7bf5e-e093-4ae1-ae68-f3d154155320",
+                            "itemBody": "\u003cp\u003eC. The buyer of a forward contract agrees to buy the underlying asset at a fixed price on a future date.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53915",
+            "entry": {
+                "title": "ITEM_CopyofCFA-L1-08323",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA trader sells\u0026nbsp;a call option on a stock index with a strike price of 2,400 for $25. The value of a one-point move in the index is $1. At expiration, the stock index is trading at 2,450. The trader's profit is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d6540409-4d52-4f47-b4a6-b69c94de261f"
+                },
+                "answerFeedback": {
+                    "c571254c-d631-4dcf-8336-2e774d20107d": "\u003cp\u003eIncorrect because $25 represents the profit to the buyer, not to the seller of the call option. The profit to a call buyer is defined as Max(0,\u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e – \u003cem\u003eX\u003c/em\u003e) – \u003cem\u003ec\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e,\u0026nbsp;where \u003cem\u003eX\u003c/em\u003e is the exercise price, \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e is the value of the underlying at expiration and \u003cem\u003ec\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e is the call premium paid by the buyer. Therefore, Max(0,$2,450 – $2,400) – $25 = $50 – $25 = $25.\u003c/p\u003e",
+                    "d6540409-4d52-4f47-b4a6-b69c94de261f": "\u003cp\u003eCorrect because the writer of a call is the seller of the call: An option is a derivative contract in which one party, the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an underlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date. The profit to the seller of the call is –Max(0,\u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e – \u003cem\u003eX\u003c/em\u003e) + \u003cem\u003ec\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e,\u0026nbsp;where \u003cem\u003eX\u003c/em\u003e is the exercise price, \u003cem\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/em\u003e is the value of the underlying at expiration and \u003cem\u003ec\u003c/em\u003e\u003csub\u003e0\u003c/sub\u003e is the call premium received by the seller. Since one point is equal to one dollar the profit to the call seller is: –Max(0,$2,450 – $2,400) + $25 = –$50 + $25 = –$25.\u003c/p\u003e",
+                    "fea10264-5e8a-4631-95b0-0958a979a913": "\u003cp\u003eIncorrect because this represents the value, not the profit, to the call seller, which is –Max(0,$2,450 – $2,400) = –$50, as described in the response rationale for the correct answer.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fea10264-5e8a-4631-95b0-0958a979a913",
+                            "itemBody": "\u003cp\u003eA. −$50.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d6540409-4d52-4f47-b4a6-b69c94de261f",
+                            "itemBody": "\u003cp\u003eB. −$25.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c571254c-d631-4dcf-8336-2e774d20107d",
+                            "itemBody": "\u003cp\u003eC. $25.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53916",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.08-Deriv-Tyler-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst gathers the following information about three portfolios each consisting of two derivatives on the same underlying:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 500px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003cth scope=\"col\"\u003e\u0026nbsp;\u003c/th\u003e\n\u003cth style=\"text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eForward Position\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center;\" scope=\"col\"\u003e\u003cstrong\u003eOption Position\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003ePortfolio 1\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003eLong\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003eLong Call\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003ePortfolio 2\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003eLong\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003eLong Put\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003ePortfolio 3\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003eShort\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003eLong Call\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eAll else being equal, which portfolio will benefit from an increase in price of the underlying?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "949c3aff-b99b-4929-b17f-f564c6039615"
+                },
+                "answerFeedback": {
+                    "4e5aa416-3252-40eb-a485-ce071bb65f97": "\u003cp\u003eIncorrect because a contingent claim that benefits from a rise in the underlying price is the sold put option [not a bought put option].\u003c/p\u003e",
+                    "7d1cc61f-438e-4c3b-8cc5-10eabe0824f8": "\u003cp\u003eIncorrect because\u0026nbsp;both a long forward position and a long [not short] call option position will gain from an increase in the underlying price.\u003c/p\u003e",
+                    "949c3aff-b99b-4929-b17f-f564c6039615": "\u003cp\u003eCorrect because\u0026nbsp;both a long forward position and a long call option position will gain from an increase in the underlying price.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "949c3aff-b99b-4929-b17f-f564c6039615",
+                            "itemBody": "\u003cp\u003eA. Portfolio 1\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4e5aa416-3252-40eb-a485-ce071bb65f97",
+                            "itemBody": "\u003cp\u003eB. Portfolio 2\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7d1cc61f-438e-4c3b-8cc5-10eabe0824f8",
+                            "itemBody": "\u003cp\u003eC. Portfolio 3\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53917",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.08-Deriv-Bangaruswamy-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following derivatives have a non-linear payoff?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7f7791d0-432d-4e9e-9182-bc84fb125299"
+                },
+                "answerFeedback": {
+                    "7f7791d0-432d-4e9e-9182-bc84fb125299": "\u003cp\u003eCorrect because asymmetric payoff profile is a common feature of contingent claims, which are sometimes referred to as\u0026nbsp;non-linear derivatives.\u003c/p\u003e",
+                    "be125e4b-af36-442c-91c7-3affb24b8d7b": "\u003cp\u003eIncorrect because since the derivative price is a linear function of the underlying, firm forward\u0026nbsp;commitments are also referred to as\u0026nbsp;linear derivatives.\u003c/p\u003e",
+                    "fbde5dc0-ae0c-4004-aeb2-e8e739ece4b8": "\u003cp\u003eIncorrect because since the derivative price is a linear function of the underlying, firm forward\u0026nbsp;commitments are also referred to as\u0026nbsp;linear derivatives.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7f7791d0-432d-4e9e-9182-bc84fb125299",
+                            "itemBody": "\u003cp\u003eA. Contingent claims only\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fbde5dc0-ae0c-4004-aeb2-e8e739ece4b8",
+                            "itemBody": "\u003cp\u003eB. Forward commitments only\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "be125e4b-af36-442c-91c7-3affb24b8d7b",
+                            "itemBody": "\u003cp\u003eC. Both contingent claims and forward commitments\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53918",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Deriv-Stroh-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eConsider a put option selling for $2 in which the exercise price is $45. What is the profit for a put buyer if the price of the underlying at expiration is $41?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b6cac8e6-dbc1-4216-bf47-e46709bac0d6"
+                },
+                "answerFeedback": {
+                    "b6cac8e6-dbc1-4216-bf47-e46709bac0d6": "\u003cp\u003eCorrect because the put’s value at expiration = \u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e = Max\u003c/i\u003e(0,X – \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e),\u0026nbsp;where \u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e is the value of the put at expiration, X is the exercise price, and\u0026nbsp;\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e is the price of the underlying at expiration. In this case, \u003ci\u003eMax\u003c/i\u003e(0,45 – 41) = $4. The put buyer’s profit = Π = \u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e – \u003ci\u003ep\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e\u0026nbsp; \u003ci\u003e(where p\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e is the price of the put at time 0), or 4 – 2\u0026nbsp;= $2.\u003c/p\u003e",
+                    "c9ca2178-e080-40fa-873b-0d47dfbde8e5": "\u003cp\u003eIncorrect because this is the put seller's profit. The put’s value at expiration = –\u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e = \u003c/i\u003e–\u003ci\u003eMax\u003c/i\u003e(0,X – \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e), where \u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e is the value of the put at expiration, X is the exercise price, and\u0026nbsp;\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e is the price of the underlying at expiration. In this case, –\u003ci\u003eMax\u003c/i\u003e(0,45 – 41) = –$4. The put seller’s profit = Π = –\u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;+\u0026nbsp;\u003ci\u003ep\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e (where\u0026nbsp;\u003ci\u003ep\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e is the price of the put at time 0), or –4 + 2\u0026nbsp;= –$2.\u003c/p\u003e",
+                    "cf583519-992c-4181-8656-b3192e139def": "\u003cp\u003eIncorrect because this is the put's value at expiration. The put’s value at expiration = \u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e = Max\u003c/i\u003e(\u003ci\u003eS\u003csub\u003eT\u0026nbsp;\u0026nbsp;\u003c/sub\u003e\u003c/i\u003e–\u0026nbsp;0,X), where \u003ci\u003ep\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e is the value of the put at expiration, X is the exercise price, and\u0026nbsp;\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e is the price of the underlying at expiration. In this case, \u003ci\u003eMax\u003c/i\u003e(0,45 – 41) = $4.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c9ca2178-e080-40fa-873b-0d47dfbde8e5",
+                            "itemBody": "\u003cp\u003eA. –$2\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b6cac8e6-dbc1-4216-bf47-e46709bac0d6",
+                            "itemBody": "\u003cp\u003eB. $2\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "cf583519-992c-4181-8656-b3192e139def",
+                            "itemBody": "\u003cp\u003eC. $4\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53919",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Deriv-Eichenberger-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor collects the following information about a put option:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 246px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 183px; max-width: 183px;\"\u003eStock price at initiation\u003c/td\u003e\n\u003ctd style=\"width: 56px; max-width: 56px; text-align: center;\"\u003e$220\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 183px; max-width: 183px;\"\u003eStrike price\u003c/td\u003e\n\u003ctd style=\"width: 56px; max-width: 56px; text-align: center;\"\u003e$210\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 183px; max-width: 183px;\"\u003eOption premium\u003c/td\u003e\n\u003ctd style=\"width: 56px; max-width: 56px; text-align: center;\"\u003e$9\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eAt expiration, if the price of the stock is $200, the investor's profit from buying\u0026nbsp;the put is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "067256cc-3cf7-4e46-abfc-bd050c380ee1"
+                },
+                "answerFeedback": {
+                    "067256cc-3cf7-4e46-abfc-bd050c380ee1": "\u003cp\u003eCorrect because Π\u0026nbsp;= \u003ci\u003eMax\u003c/i\u003e(0,\u003ci\u003eX\u003c/i\u003e\u0026nbsp;– \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e) – \u003ci\u003ep\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;(profit to the put buyer),\u0026nbsp;where\u0026nbsp;\u003ci\u003eS\u003csub\u003eT\u0026nbsp;\u0026nbsp;\u003c/sub\u003e\u003c/i\u003eis the price of the underlying at expiration,\u0026nbsp;\u003ci\u003eX\u003c/i\u003e\u0026nbsp;is the strike price and \u003ci\u003ep\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e is the option premium. Therefore, the correct calculation yields: $1\u0026nbsp;= Max(0,$210\u0026nbsp;– $200) – $9.\u0026nbsp;\u003c/p\u003e",
+                    "33f86c1e-7d27-406c-9dd9-392ff5c7aee5": "\u003cp\u003eIncorrect because the profit for the put buyer (Π) is not equal to \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;– \u003ci\u003eS\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;+ Max(0,\u003ci\u003eX\u003c/i\u003e\u0026nbsp;– \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e) – \u003ci\u003ep\u003csub\u003e0\u003c/sub\u003e,\u0026nbsp;\u003c/i\u003ewhere\u0026nbsp;\u003ci\u003eS\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;is the spot price of the underlying,\u0026nbsp;\u003ci\u003eS\u003c/i\u003e\u003csub\u003e\u003ci\u003eT\u003c/i\u003e\u0026nbsp;\u0026nbsp;\u003c/sub\u003eis the price of the underlying at expiration,\u0026nbsp;\u003ci\u003eX\u003c/i\u003e\u0026nbsp;is the strike price and \u003ci\u003ep\u003csub\u003e0 \u003c/sub\u003e\u003c/i\u003eis the option premium. Therefore, the incorrect calculation yields:\u0026nbsp;–$19\u0026nbsp;= $200\u0026nbsp;– $220\u0026nbsp;+ Max(0,$210\u0026nbsp;– $200) – $9, which includes the loss\u0026nbsp;of $20 of the underlying. Instead, the correct formula is Π\u0026nbsp;= \u003ci\u003eMax\u003c/i\u003e(0,\u003ci\u003eX\u003c/i\u003e\u0026nbsp;– \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e) – \u003ci\u003ep\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;(profit to the put buyer)\u0026nbsp;which yields:\u0026nbsp;$1\u0026nbsp;= Max(0,$210\u0026nbsp;– $200) – $9.\u003c/p\u003e",
+                    "81e3c68b-8507-4bfa-9e72-dd1a781c351b": "\u003cp\u003eIncorrect because the profit for the put buyer is not equal to\u0026nbsp;–\u003ci\u003ep\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e, the option premium paid, or –$9, since the put option expires in the money. Instead, the correct formula is Π\u0026nbsp;= \u003ci\u003eMax\u003c/i\u003e(0,\u003ci\u003eX\u003c/i\u003e\u0026nbsp;– \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e) – \u003ci\u003ep\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;(profit to the put buyer),\u0026nbsp;where\u0026nbsp;\u003ci\u003eS\u003csub\u003eT\u0026nbsp;\u0026nbsp;\u003c/sub\u003e\u003c/i\u003eis the price of the underlying at expiration,\u0026nbsp;\u003ci\u003eX\u003c/i\u003e\u0026nbsp;is the strike price and \u003ci\u003ep\u003csub\u003e0 \u003c/sub\u003e\u003c/i\u003eis the option premium. Therefore, the correct calculation yields: $1\u0026nbsp;= Max(0,$210\u0026nbsp;– $200) – $9.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "33f86c1e-7d27-406c-9dd9-392ff5c7aee5",
+                            "itemBody": "\u003cp\u003eA. –$19.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "81e3c68b-8507-4bfa-9e72-dd1a781c351b",
+                            "itemBody": "\u003cp\u003eB. –$9.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "067256cc-3cf7-4e46-abfc-bd050c380ee1",
+                            "itemBody": "\u003cp\u003eC. $1.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53920",
+            "entry": {
+                "title": "ITEM_CFA-L1-Gosnell-Clone02ofCFA-L1-00096",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor sells a European put option with the following characteristics:\u003c/p\u003e\u003ctable border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:159px\"\u003e\n\u003ccolgroup\u003e\n\u003ccol width=\"65.69%\"\u003e\n\u003ccol width=\"34.31%\"\u003e\n\u003c/colgroup\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003ePut price\u003c/td\u003e\n\u003ctd style=\"width:58px; max-width:58px; text-align:center\"\u003e30\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eExercise price\u003c/td\u003e\n\u003ctd style=\"width:58px; max-width:58px; text-align:center\"\u003e1,320\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003cp\u003eIf the price of the underlying at expiration is 1,340, the profit for the seller is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8b57b444-36c2-4377-9a90-c54fefaf5b13"
+                },
+                "answerFeedback": {
+                    "8b57b444-36c2-4377-9a90-c54fefaf5b13": "\u003cp\u003eCorrect because to the put seller, the profit is Π = –Max(0,X – S\u003csub\u003eT\u003c/sub\u003e) + p\u003csub\u003e0\u003c/sub\u003e, where X is the exercise price, S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration, and p\u003csub\u003e0\u003c/sub\u003e is the put price. Therefore, Π = –Max(0,(1,320 – 1,340)) + 30 = 30.\u003c/p\u003e",
+                    "d882d1c4-7952-4d8a-b8d3-7adc1f00c39f": "\u003cp\u003eIncorrect because it represents the payoff to the call buyer c\u003csub\u003eT\u003c/sub\u003e = Max(0,S\u003csub\u003eT\u003c/sub\u003e – X), where S\u003csub\u003eT\u003c/sub\u003e is the price of the underlying at expiration and X is the exercise price. Therefore, c\u003csub\u003eT\u003c/sub\u003e = Max(0,(1,340 – 1,320)) = 20. By contrast, to the put seller, the profit is Π = –Max(0,X – S\u003csub\u003eT\u003c/sub\u003e) + p\u003csub\u003e0\u003c/sub\u003e, where p\u003csub\u003e0\u003c/sub\u003e is the put price. Therefore, Π = –Max(0,(1,320 – 1,340)) + 30 = 30.\u003c/p\u003e",
+                    "fe015cd6-f32a-4e33-a133-c62081c481cc": "\u003cp\u003eIncorrect because it represents the put price p\u003csub\u003e0\u003c/sub\u003e less the difference between the exercise price X and the price of the underlying S\u003csub\u003eT\u003c/sub\u003e at expiration: 30 – (1,340 – 1,320) = 10. This would be the profit to the seller of a call option, Π = –Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) + c\u003csub\u003e0\u003c/sub\u003e, with the same exercise price and the same selling price. By contrast, to the put seller, the profit is Π = –Max(0,X – S\u003csub\u003eT\u003c/sub\u003e) + p\u003csub\u003e0\u003c/sub\u003e. Therefore, Π = –Max(0,(1,320 – 1,340)) + 30 = 30.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fe015cd6-f32a-4e33-a133-c62081c481cc",
+                            "itemBody": "\u003cp\u003eA. 10.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d882d1c4-7952-4d8a-b8d3-7adc1f00c39f",
+                            "itemBody": "\u003cp\u003eB. 20.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8b57b444-36c2-4377-9a90-c54fefaf5b13",
+                            "itemBody": "\u003cp\u003eC. 30.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53921",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Deriv-Augulyte-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor buys a call option for $4 that has an exercise price of $27. At expiration, if the stock price\u0026nbsp;is $22, the call option payoff is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "61333239-2335-4ddf-ace1-3d59a32091ef"
+                },
+                "answerFeedback": {
+                    "61333239-2335-4ddf-ace1-3d59a32091ef": "\u003cp\u003eCorrect because c\u003csub\u003eT\u003c/sub\u003e = Max(0,S\u003csub\u003eT\u003c/sub\u003e – X), where\u0026nbsp;c\u003csub\u003eT\u003c/sub\u003e is the value of the call option, or the payoff to the call buyer, X is the strike (or exercise) price, and\u0026nbsp;S\u003csub\u003eT\u003c/sub\u003e\u0026nbsp;is the stock price at expiration. In this case,\u0026nbsp;c\u003csub\u003eT\u003c/sub\u003e\u0026nbsp;= Max(0,$22 – $27) = 0.\u003c/p\u003e",
+                    "9b3456dc-ad3a-4841-8958-693e2a546b95": "\u003cp\u003eIncorrect\u0026nbsp;because it is \u003cs\u003e \u003c/s\u003ethe payoff to the put option buyer. That is,\u0026nbsp;p\u003csub\u003eT\u003c/sub\u003e = Max(0,X – S\u003csub\u003eT\u003c/sub\u003e), where\u0026nbsp;X is the strike (or exercise) price, and\u0026nbsp;S\u003csub\u003eT\u003c/sub\u003e\u0026nbsp;is the stock price at expiration. In this case,\u0026nbsp;p\u003csub\u003eT\u003c/sub\u003e\u0026nbsp;= Max(0,$27 – $22) = $5.\u003c/p\u003e",
+                    "ae2b0fd9-474a-4b55-af2c-da0cfaf2117b": "\u003cp\u003eIncorrect because it is the\u0026nbsp;call buyer's profit, not the payoff. That is,\u0026nbsp;Π = Max(0,S\u003csub\u003eT\u003c/sub\u003e – X) – c\u003csub\u003e0\u003c/sub\u003e, where\u0026nbsp;c\u003csub\u003e0\u0026nbsp;\u003c/sub\u003eis the premium,\u0026nbsp;S\u003csub\u003eT\u0026nbsp;\u003c/sub\u003eis the stock price at expiration, and\u0026nbsp;X is the strike (or exercise) price. In this case,\u0026nbsp;Π = Max(0,$22\u0026nbsp;– $27) – $4\u0026nbsp;= –$4, and thus\u0026nbsp;negative.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ae2b0fd9-474a-4b55-af2c-da0cfaf2117b",
+                            "itemBody": "\u003cp\u003eA. negative.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "61333239-2335-4ddf-ace1-3d59a32091ef",
+                            "itemBody": "\u003cp\u003eB. zero.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9b3456dc-ad3a-4841-8958-693e2a546b95",
+                            "itemBody": "\u003cp\u003eC. positive.\u0026nbsp;\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53922",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020-C2-Deriv-Eichenberger-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn investor gathers the following information about a call option:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; width: 303px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 248px; max-width: 248px;\"\u003eOption premium\u003c/td\u003e\n\u003ctd style=\"width: 45px; max-width: 45px; text-align: center;\"\u003e$5\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 248px; max-width: 248px;\"\u003eExercise price\u003c/td\u003e\n\u003ctd style=\"width: 45px; max-width: 45px; text-align: center;\"\u003e$25\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 248px; max-width: 248px;\"\u003ePrice of the underlying at initiation\u003c/td\u003e\n\u003ctd style=\"width: 45px; max-width: 45px; text-align: center;\"\u003e$15\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eAt expiration, if the price of the underlying is $30, the value of the call option to the call seller is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6c12a43a-3641-4457-9ed1-43f64a6585e3"
+                },
+                "answerFeedback": {
+                    "16f8b3c6-ad50-418c-b25d-c3b8a7c175df": "\u003cp\u003eIncorrect because the call value at expiration for a call seller (–\u003ci\u003ec\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e) is not –\u003ci\u003eMax\u003c/i\u003e(0,\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e – \u003ci\u003eX\u003c/i\u003e) + \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e, where \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e is the price of the underlying at expiration, \u003ci\u003eX\u003c/i\u003e is the strike price, and \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e is the option premium. Therefore, the incorrect calculation yields: $0\u0026nbsp;= –Max(0, $30\u0026nbsp;– $25) + $5, which is the profit for the call option seller.\u003c/p\u003e\u003cp\u003eInstead, the correct formula is –\u003ci\u003ec\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e = –\u003ci\u003eMax\u003c/i\u003e(0,\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e – \u003ci\u003eX\u003c/i\u003e) (payoff [value] to the call seller), which yields: –$5\u0026nbsp;= –Max(0,$30 – $25).\u003c/p\u003e",
+                    "6c12a43a-3641-4457-9ed1-43f64a6585e3": "\u003cp\u003eCorrect because –\u003ci\u003ec\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;= –\u003ci\u003eMax\u003c/i\u003e(0,\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;– \u003ci\u003eX\u003c/i\u003e) (payoff to the call seller),\u0026nbsp;where –\u003ci\u003ec\u003csub\u003eT\u003c/sub\u003e \u003c/i\u003eis the call value at expiration for the call seller, \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;is the price of the underlying at expiration, and \u003ci\u003eX\u003c/i\u003e\u0026nbsp;is the strike price. Therefore, the correct calculation yields: –$5\u0026nbsp;= –Max(0,$30\u0026nbsp;– $25).\u003c/p\u003e",
+                    "7832bb5a-48ac-47a4-bbfd-20e4b15cf5ea": "\u003cp\u003eIncorrect because the call value at expiration for a call seller (–\u003ci\u003ec\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e) is not\u0026nbsp;\u003ci\u003eMax\u003c/i\u003e(0,\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;– \u003ci\u003eX\u003c/i\u003e) +\u0026nbsp;\u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e, where\u0026nbsp;\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;is the price of the underlying at expiration,\u0026nbsp;\u003ci\u003eX\u003c/i\u003e\u0026nbsp;is the strike price, and \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e is the option premium. Therefore, the incorrect calculation yields: $10\u0026nbsp;= Max(0, $30\u0026nbsp;– $25)\u0026nbsp;+ $5.\u0026nbsp;\u003c/p\u003e\u003cp\u003eInstead, the correct formula is –\u003ci\u003ec\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;= –\u003ci\u003eMax\u003c/i\u003e(0,\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e\u0026nbsp;– \u003ci\u003eX\u003c/i\u003e) (payoff [value] to the call seller),\u0026nbsp;which yields:\u0026nbsp;–$5\u0026nbsp;= –Max(0,$30\u0026nbsp;– $25).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6c12a43a-3641-4457-9ed1-43f64a6585e3",
+                            "itemBody": "\u003cp\u003eA. −$5.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "16f8b3c6-ad50-418c-b25d-c3b8a7c175df",
+                            "itemBody": "\u003cp\u003eB. $0.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7832bb5a-48ac-47a4-bbfd-20e4b15cf5ea",
+                            "itemBody": "\u003cp\u003eC. $10.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53923",
+            "entry": {
+                "title": "ITEM_CFA-L1-09159",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eAn option is a type of a:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fadb9e66-2f88-40d3-ba64-9f05332417b5"
+                },
+                "answerFeedback": {
+                    "74f29318-af1f-453d-8e97-4a749cc5e7f9": "\u003cp\u003eIncorrect because there are two general classes of derivatives. Some provide the ability to lock in a price at which one might buy or sell the underlying. Because they force the two parties to transact in the future at a previously agreed-on price, these instruments are called forward commitments.\u0026nbsp;In contrast, an option provides the right but not the obligation to buy or sell the underlying at a pre-determined price.\u0026nbsp;\u003c/p\u003e",
+                    "9f97e628-8ca3-420c-959a-1e91f5060c94": "\u003cp\u003eIncorrect because a swap is a type of a forward commitment, an option is not a type of a swap. The various types of forward commitments are called forward contracts, futures contracts, and swaps.\u003c/p\u003e",
+                    "fadb9e66-2f88-40d3-ba64-9f05332417b5": "\u003cp\u003eCorrect because another class of derivatives provides the right but not the obligation to buy or sell the underlying at a pre-determined price. Because the choice of buying or selling versus doing nothing depends on a particular random outcome, these derivatives are called contingent claims. The primary contingent claim is called an option.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9f97e628-8ca3-420c-959a-1e91f5060c94",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eswap.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fadb9e66-2f88-40d3-ba64-9f05332417b5",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003econtingent claim.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "74f29318-af1f-453d-8e97-4a749cc5e7f9",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eforward commitment.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 14,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53924",
+            "entry": {
+                "title": "ITEM_CFA-L1-08006",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eThe type of derivative that provides the right but \u003cb\u003enot\u003c/b\u003e the obligation to buy an underlying is a:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e3b2a345-6809-4e77-8ea6-dc60ae0a6a13"
+                },
+                "answerFeedback": {
+                    "b8498a64-f37c-486c-9557-52daeaed1daf": "\u003cp\u003eIncorrect because the concept of a swap is that two parties exchange (swap) a series of cash flows. The similarities between futures and forwards apply to futures and swaps and, indeed, combinations of futures contracts expiring at different dates are often compared to swaps.\u0026nbsp;Thus, as with a forward or a future, swaps do not give a holder the right but not the obligation to buy or sell an underlying.\u0026nbsp;\u003c/p\u003e",
+                    "e3b2a345-6809-4e77-8ea6-dc60ae0a6a13": "\u003cp\u003eCorrect because another class of derivatives provides the right but not the obligation to buy or sell the underlying at a pre-determined price. Because the choice of buying or selling versus doing nothing depends on a particular random outcome, these derivatives are called contingent claims. The primary contingent claim is called an option.\u003c/p\u003e",
+                    "f758ef1a-9ae6-4c67-a178-bc42b0a03bf5": "\u003cp\u003eIncorrect because some provide the ability to lock in a price at which one might buy or sell the underlying. Because they force the two parties to transact in the future at a previously agreed-on price, these instruments are called forward commitments.\u0026nbsp;Thus forward commitments do not give the holder the right but the obligation to consummate the transaction at expiration.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b8498a64-f37c-486c-9557-52daeaed1daf",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eswap.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e3b2a345-6809-4e77-8ea6-dc60ae0a6a13",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003econtingent claim.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f758ef1a-9ae6-4c67-a178-bc42b0a03bf5",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eforward commitment.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 15,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53925",
+            "entry": {
+                "title": "ITEM_CFA-L1-07363",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eWhich of the following types of derivatives \u003ci\u003emost likely\u003c/i\u003e has a daily settling of gains and losses?\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9bfe5106-e505-47b0-9e75-7bec84f623e4"
+                },
+                "answerFeedback": {
+                    "221bec3b-ed1b-4939-be41-da4d6ac81eba": "\u003cp\u003eIncorrect because as with forward contracts, swap contracts also contain other terms—such as the identity of the underlying, the relevant payment dates, and the payment procedure—that are negotiated between the parties and written into the contract.\u0026nbsp;Thus swaps, including currency swaps, mostly do not settle daily but have negotiated payment dates.\u0026nbsp;\u003c/p\u003e",
+                    "9baecd27-8807-42f9-ab02-97d576647007": "\u003cp\u003eIncorrect because a\u0026nbsp;forward contract is an over-the-counter derivative contract in which two parties agree that one party, the buyer, will purchase an underlying asset from the other party, the seller, at a later date at a fixed price they agree on when the contract is signed.\u0026nbsp;Thus, a forward commitment is settled at the end of each agreed period and does not involve settlements related to daily mark-to-market values.\u0026nbsp;\u003c/p\u003e",
+                    "9bfe5106-e505-47b0-9e75-7bec84f623e4": "\u003cp\u003eCorrect because a\u0026nbsp;futures contract is a standardized derivative contract in which there is a daily settling of gains and losses.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "221bec3b-ed1b-4939-be41-da4d6ac81eba",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eCurrency swap\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9bfe5106-e505-47b0-9e75-7bec84f623e4",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eFutures contract\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9baecd27-8807-42f9-ab02-97d576647007",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eForward commitment\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 16,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8684,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4483,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

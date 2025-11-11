@@ -1,0 +1,749 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6330,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 11,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 1: Fixed-Income Instrument Features",
+        "topic_id": 1036,
+        "topic": "CFA-26-02-LI-C: Fixed Income",
+        "subtopic_id": 6330,
+        "subtopic": "Module 1: Fixed-Income Instrument Features",
+        "question_count": 11,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 852,
+                "name": "Warehouse Course: Fixed Income 26-LI",
+                "code": "Warehouse Course: Fixed Income 26-LI",
+                "module_id": 4463,
+                "question_count": 8,
+                "type": "warehouse"
+            },
+            {
+                "id": 843,
+                "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+                "module_id": 4680,
+                "question_count": 3,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 11.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "2326522037a96455",
+        "ordered_item_ids": [
+            "55019",
+            "55020",
+            "55021",
+            "51146",
+            "51147",
+            "51148",
+            "51149",
+            "51150",
+            "51151",
+            "53805",
+            "53806",
+            "53807"
+        ],
+        "visible_item_ids": [
+            "55019",
+            "55020",
+            "55021",
+            "51146",
+            "51147",
+            "51148",
+            "51149",
+            "51150",
+            "51151",
+            "53805",
+            "53806",
+            "53807"
+        ]
+    },
+    "items": [
+        {
+            "id": "55019",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-FI-Kashyap-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is\u0026nbsp;\u003ci\u003emost likely\u0026nbsp;\u003c/i\u003ea negative covenant?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b1350fc5-ac97-41b4-8b97-09cf303356c6"
+                },
+                "answerFeedback": {
+                    "667e14cc-ea5c-4de9-b156-7c9d7438b807": "\u003cp\u003eIncorrect because affirmative covenants are typically administrative in nature. For example, frequently used affirmative covenants include what the issuer will do with the proceeds from the bond issue and the promise of making the contractual payments. The issuer may also promise to comply with all laws and regulations.\u003c/p\u003e",
+                    "b1350fc5-ac97-41b4-8b97-09cf303356c6": "\u003cp\u003eCorrect because negative pledges prevent the issuance of debt that would be senior to or rank in priority ahead of the existing bondholders’ debt. This is a negative covenant.\u003c/p\u003e",
+                    "ec908b87-4a5c-47b8-a635-d4acde9bb318": "\u003cp\u003eIncorrect because affirmative covenants are typically administrative in nature. For example, a pari passu (or “equal footing”) clause, which ensures that a debt obligation is treated the same as the borrower’s other senior debt instruments.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "667e14cc-ea5c-4de9-b156-7c9d7438b807",
+                            "itemBody": "\u003cp\u003eA. The issuer must comply with all laws and regulations.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b1350fc5-ac97-41b4-8b97-09cf303356c6",
+                            "itemBody": "\u003cp\u003eB. The issuance of new debt must be junior to existing bondholder\u0026nbsp;debt.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ec908b87-4a5c-47b8-a635-d4acde9bb318",
+                            "itemBody": "\u003cp\u003eC. New debt obligations\u0026nbsp;are treated the same as the borrower’s other senior debt instruments.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8858,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4680,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55020",
+            "entry": {
+                "title": "ITEM_CFA-L1-06204",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eA 2-year treasury note is \u003ci\u003ebest\u003c/i\u003e classified as a(n):\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bdb7d586-36c3-4e35-ab32-a1a541a38000"
+                },
+                "answerFeedback": {
+                    "1254fa19-1839-48e8-bed1-8cca891d2467": "\u003cp\u003eIncorrect because asset-backed securities (ABS) are created from a process called securitization, which involves moving assets from the owner of the assets into a special legal entity. This special legal entity then uses the securitized assets as guarantees to back (secure) a bond issue, leading to the creation of ABS.\u0026nbsp;Treasury notes are not asset-backed securities.\u003c/p\u003e",
+                    "4450fe6f-3a51-4798-b764-55cb6ea1aaa3": "\u003cp\u003eIncorrect because fixed-income securities with maturities at issuance (original maturity) of one year or less are known as money market securities.\u0026nbsp;A two-year treasury note is not a money market security.\u003c/p\u003e",
+                    "bdb7d586-36c3-4e35-ab32-a1a541a38000": "\u003cp\u003eCorrect because fixed-income securities with original maturities that are longer than one year are called capital market securities.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1254fa19-1839-48e8-bed1-8cca891d2467",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003easset-backed security.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "bdb7d586-36c3-4e35-ab32-a1a541a38000",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ecapital market security.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4450fe6f-3a51-4798-b764-55cb6ea1aaa3",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003emoney market security.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8858,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4680,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "55021",
+            "entry": {
+                "title": "ITEM_CFA-L1-10118",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eWhich of the following is \u003ci\u003emost likely\u003c/i\u003e a zero-coupon bond? A bond with a par value of £1,000 that was issued in a positive yield market at:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "45bd9190-5614-4982-85cd-c3511e9ef811"
+                },
+                "answerFeedback": {
+                    "441b8d58-4996-4b62-b9ad-6873fbd1f895": "\u003cp\u003eIncorrect because zero-coupon bonds do not pay interest, hence their name. Instead, they are issued at a discount to par value and redeemed at par. This bond is issued at a premium (and not at a discount) to the redemption value, therefore it is unlikely to be a zero-coupon bond.\u003c/p\u003e",
+                    "45bd9190-5614-4982-85cd-c3511e9ef811": "\u003cp\u003eCorrect because zero-coupon bonds do not pay interest, hence their name. Instead, they are issued at a discount to par value and redeemed at par. Out of all the answer choices, this is the only bond that is issued at a discount to its redemption value, therefore it is the most likely to be a zero-coupon bond.\u003c/p\u003e",
+                    "a56cb564-6f8f-4e5c-853d-a0ad30a26b56": "\u003cp\u003eIncorrect because zero-coupon bonds do not pay interest, hence their name. Instead, they are issued at a discount to par value and redeemed at par. This bond is issued at the same price as (and not at a discount to) the redemption value, therefore it is unlikely to be a zero-coupon bond.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "45bd9190-5614-4982-85cd-c3511e9ef811",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e£920.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a56cb564-6f8f-4e5c-853d-a0ad30a26b56",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e£1,000.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "441b8d58-4996-4b62-b9ad-6873fbd1f895",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e£1,100.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8858,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 843,
+            "sourceModuleId": 4680,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51146",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAntelas AG is a German emerging technology company focused on manufacturing process design. The firm has developed several valuable patents related to micromachining and metal 3D printing technology and derives its revenue through licensing royalties and consultation services. Antelas recently issued the following debt instrument:\u003c/p\u003e\n\u003cdiv id=\"CFA2431-R-s03-T-2-b\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"2\" scope=\"col\"\u003e\u003cstrong\u003eAntelas AG Four-Year Floating-Rate Notes (The “Notes”)\u003c/strong\u003e \u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eProspectus Summary\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eIssuer:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eAntelas AG\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eSettlement Date:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e[T + 5 Business Days]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eMaturity Date:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e[Four Years from Settlement Date]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003ePrincipal Amount:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eEUR250 million\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eInterest:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eMRR plus 250 bps p.a.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eInterest Payment:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCommencing three months from [Settlement Date] to be paid quarterly with final payment on [Maturity Date]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eSeniority:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe Notes are secured and unsubordinated obligations of Antelas AG and will rank pari passu with all other secured and unsubordinated indebtedness.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eBusiness Days:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eFrankfurt\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8233,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4463,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51147",
+            "entry": {
+                "title": "CFA2431-R-s03-Q6",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. The notes mature (the date Antelas AG will pay the final coupon and principal amount) four years after the trade settlement date, and the coupon rate is variable, determined by the MRR plus a fixed 250 bp spread.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e“Four years” and “MRR plus 250 bps p.a.” refer, respectively, to which bond features as of the settlement date?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "80cbace9-fc37-479f-820b-7364b215946c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "80cbace9-fc37-479f-820b-7364b215946c",
+                            "itemBody": "A. Time to maturity and coupon rate",
+                            "position": 1
+                        },
+                        {
+                            "id": "66c5ae8a-7564-4ddc-8174-5a7f7664af5a",
+                            "itemBody": "B. Coupon frequency and current yield",
+                            "position": 2
+                        },
+                        {
+                            "id": "1b87e7d0-5447-41a0-925e-02f69a08b40e",
+                            "itemBody": "C. Time to maturity and contingency provision",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8233,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4463,
+            "stimulusQuizEntryId": "51146"
+        },
+        {
+            "id": "51148",
+            "entry": {
+                "title": "CFA2431-R-s03-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Secured corporate bonds rely on the operating cash flows of the firm as their primary source for interest and principal payments and a legal claim on assets as a secondary source of payment.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect because asset-backed securities (ABS) are issued by special-purpose entities created to take ownership in loans or receivables, the cash flows from which are used to pay interest and principal to investors.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because it describes \u003cem\u003eunsecured\u003c/em\u003e, not secured, corporate debt.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements \u003cem\u003ebest\u003c/em\u003e describes the source(s) of repayment for the Antelas AG floating-rate notes?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "96a387e7-272c-4633-8e08-18343c2e4585"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3df506ee-5b52-4be0-8ecf-796a31f7c34f",
+                            "itemBody": "\u003cp\u003eA. Since the notes are secured (or backed) by Antelas AG’s assets, the floating-rate notes would be considered asset-backed securities.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c60139af-7ca0-4b3b-8831-b20b2a5aae3a",
+                            "itemBody": "\u003cp\u003eB. The Antelas AG notes rely on the operating cash flows of the firm as their \u003cem\u003esole \u003c/em\u003esource for interest and principal payments.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "96a387e7-272c-4633-8e08-18343c2e4585",
+                            "itemBody": "\u003cp\u003eC. The Antelas AG notes rely on the operating cash flows of the firm as their \u003cem\u003eprimary \u003c/em\u003esource for interest and principal payments.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8233,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4463,
+            "stimulusQuizEntryId": "51146"
+        },
+        {
+            "id": "51149",
+            "entry": {
+                "title": "CFA2431-R-s03-Q8",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. For the Antelas AG FRN, the spread is fixed at 250 bps and the coupon will only change with changes in the MRR.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAntelas AG’s issuer-specific credit spread rises by 25 bps p.a. one year after the FRN issuance. Which of the following \u003cem\u003ebest\u003c/em\u003e describes how Antelas AG’s FRN coupon would change as a result?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a8f9c03c-7833-4890-8117-d6b526eeac96"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5ce1ed0f-324e-4792-b16f-6827e45f5df5",
+                            "itemBody": "A. Antelas AG’s FRN coupon payment to investors will immediately increase by 25 bps p.a.",
+                            "position": 1
+                        },
+                        {
+                            "id": "3d3961f8-e4d9-4bb0-bfb9-0a3ff21c4d88",
+                            "itemBody": "B. Antelas AG’s FRN coupon payment to investors will increase by 25 bps p.a. but will not become effective until the next full debt coupon period begins.",
+                            "position": 2
+                        },
+                        {
+                            "id": "a8f9c03c-7833-4890-8117-d6b526eeac96",
+                            "itemBody": "C. Antelas AG’s FRN coupon will remain unchanged.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8233,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4463,
+            "stimulusQuizEntryId": "51146"
+        },
+        {
+            "id": "51150",
+            "entry": {
+                "title": "CFA2431-R-s03-Q9",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. On the maturity date, Antelas AG pays investors the final FRN coupon payment plus the bond’s principal amount. The FRN coupon comprises MRR plus the issuer-specific spread.\u003c/p\u003e\n               \u003cul id=\"CFA2431-R-s03-L2\" style=\"list-style-type: disc; margin-bottom: 15px; padding-left: 20px;\"\u003e\n                  \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                     \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n                        \u003cstrong\u003eFRN coupon rate:\u003c/strong\u003e MRR plus spread, or 0.25% + 2.50%= 2.75%\u003c/p\u003e\n                  \u003c/li\u003e\n                  \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                     \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n                        \u003cstrong\u003eAnnual interest expense:\u003c/strong\u003e Principal × FRN coupon, or €EUR250,000,000 × 2.75% = EUR6,875,000\u003c/p\u003e\n                  \u003c/li\u003e\n                  \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                     \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n                        \u003cstrong\u003eQuarterly interest expense:\u003c/strong\u003e Annual interest expense/4, or EUR6,875,000/4 = EUR1,718,750\u003c/p\u003e\n                  \u003c/li\u003e\n                  \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                     \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n                        \u003cstrong\u003ePrincipal Amount:\u003c/strong\u003e EUR250,000,000\u003c/p\u003e\n                  \u003c/li\u003e\n                  \u003cli style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\"\u003e\n                     \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\n                        \u003cstrong\u003eTotal Payment\u003c/strong\u003e = EUR250,000,000 + EUR1,718,750 = 251,718,750\u003c/p\u003e\n                  \u003c/li\u003e\n               \u003c/ul\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCalculate the value of Antelas’s payment to bondholders on the maturity date if the MRR is 0.25% p.a. for the final interest period.\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "453a2b9a-e647-4612-917c-e544ba5230f7"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "125ae533-00f7-4c8a-8481-c4963c94aa2e",
+                            "itemBody": "A. EUR1,718,750",
+                            "position": 1
+                        },
+                        {
+                            "id": "453a2b9a-e647-4612-917c-e544ba5230f7",
+                            "itemBody": "B. EUR251,718,750",
+                            "position": 2
+                        },
+                        {
+                            "id": "f2df3713-33ab-4915-a358-a94712b31f8c",
+                            "itemBody": "C. EUR256,875,000",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8233,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4463,
+            "stimulusQuizEntryId": "51146"
+        },
+        {
+            "id": "51151",
+            "entry": {
+                "title": "CFA2431-R-s03-Q10",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Antelas AG’s existing secured, unsubordinated debt has a pari passu (or “equal footing”) clause, which ensures that this debt obligation will be treated the same as any other secured, unsubordinated debt from this borrower.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is incorrect because the priority of payments is unrelated to the timing of issuance.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is incorrect because the pari passu clause ensures equal footing for similar new debt.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAntelas decides to raise new secured, unsubordinated debt. Which of the following best describes the priority of payments between the issuer’s new debt and its existing debt?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5ac10417-12f9-48fa-9dae-ee97e513191c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5ac10417-12f9-48fa-9dae-ee97e513191c",
+                            "itemBody": "A. Because the Antelas AG notes have a pari passu (or “equal footing”) clause, this debt obligation will be treated the same as any other secured, unsubordinated debt from this borrower.",
+                            "position": 1
+                        },
+                        {
+                            "id": "eb8374a5-ed9b-4a6c-90ce-1525aea6a8eb",
+                            "itemBody": "B. Because the existing debt was issued earlier, it would receive priority over the new debt in terms of the payment of interest and principal.",
+                            "position": 2
+                        },
+                        {
+                            "id": "27edc0eb-d151-4b18-939c-f67e07aca970",
+                            "itemBody": "C. We do not have enough information to answer this question; the necessary information would be provided in the indenture for new secured, unsubordinated notes.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8233,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4463,
+            "stimulusQuizEntryId": "51146"
+        },
+        {
+            "id": "53805",
+            "entry": {
+                "title": "ITEM_20170607030",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn analyst reviews a corporate bond indenture that contains these two covenants:\u003c/p\u003e\u003col\u003e\n\u003cli\u003e\u003cp\u003eThe borrower will pay interest semiannually and principal at maturity.\u003c/p\u003e\u003c/li\u003e\n\u003cli\u003e\u003cp\u003eThe borrower will not incur additional debt if its debt-to-capital ratio is more than 50%.\u003c/p\u003e\u003c/li\u003e\n\u003c/ol\u003e\u003cp\u003eWhat types of covenants are these?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3da1b8f8-eae9-49ec-8a44-d03657c44d2f"
+                },
+                "answerFeedback": {
+                    "137c66d0-2f9a-4b1b-9734-40b107c1c865": "\u003cp\u003eIncorrect because Covenant 1 is affirmative, and Covenant 2 is negative.\u003c/p\u003e",
+                    "3da1b8f8-eae9-49ec-8a44-d03657c44d2f": "\u003cp\u003eCorrect because paying interest and principal is one of the most common affirmative covenants.\u0026nbsp;Negative covenants set forth certain limitations and restrictions on the borrower’s activities.\u0026nbsp;Affirmative covenants specify what issuers are required to do, whereas negative covenants specify what issuers are prohibited from doing. Affirmative covenants are typically administrative in nature. For example, common affirmative covenants include the use of proceeds from the bond issue, the provision of timely financial reports, and permitting bondholders to redeem their bonds at a premium to par if the issuer is acquired.\u003c/p\u003e",
+                    "93ae4c7e-0ae1-45b6-ae30-08c738e08afe": "\u003cp\u003eIncorrect because Covenant 1 is affirmative, and Covenant 2 is negative.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "93ae4c7e-0ae1-45b6-ae30-08c738e08afe",
+                            "itemBody": "\u003cp\u003eA. Both are affirmative covenants.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "3da1b8f8-eae9-49ec-8a44-d03657c44d2f",
+                            "itemBody": "\u003cp\u003eB. Covenant 1 is affirmative, and Covenant 2 is negative.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "137c66d0-2f9a-4b1b-9734-40b107c1c865",
+                            "itemBody": "\u003cp\u003eC. Covenant 1 is negative, and Covenant 2 is affirmative.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8650,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4463,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53806",
+            "entry": {
+                "title": "ITEM_20170607089",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eDavid Smith purchased a mortgage-backed security with a coupon rate of 8% and a par value of $1,000 for $960. Coupon payments are made monthly. The monthly interest payment is \u003ci\u003eclosest to\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "1a125eaf-6109-41eb-b491-d5254bc92427"
+                },
+                "answerFeedback": {
+                    "1a125eaf-6109-41eb-b491-d5254bc92427": "\u003cp\u003eCorrect because the annual coupon is 8% × $1,000 = $80. The coupon payments are made monthly, and therefore $80/12 = $6.67 is paid twelve times a year.\u003c/p\u003e",
+                    "6a930edf-f1c5-4c42-9bf0-66f7ba4254cf": "\u003cp\u003eIncorrect because $6.94 is based on the following calculation: 8%/960 × 1,000 × 100/12 = $6.94.\u003c/p\u003e",
+                    "72bc6ea0-22e8-48d3-9b52-faf5d9923c60": "\u003cp\u003eIncorrect because $6.40 is the monthly payment derived using the purchase price instead of par value: 8% × $960/12 = $6.40.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "72bc6ea0-22e8-48d3-9b52-faf5d9923c60",
+                            "itemBody": "\u003cp\u003eA. $6.40.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1a125eaf-6109-41eb-b491-d5254bc92427",
+                            "itemBody": "\u003cp\u003eB. $6.67.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6a930edf-f1c5-4c42-9bf0-66f7ba4254cf",
+                            "itemBody": "\u003cp\u003eC. $6.94.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8650,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4463,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53807",
+            "entry": {
+                "title": "ITEM_20170607108",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich type of fixed-income security is \u003ci\u003emost likely\u003c/i\u003e to have coupon payments that reset periodically?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0182161e-6135-4b76-ab47-58254c554fb4"
+                },
+                "answerFeedback": {
+                    "0182161e-6135-4b76-ab47-58254c554fb4": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A floating-rate bond does not have a fixed coupon rate over its life. Instead, its coupon payments reset periodically according to some reference rate.\u003c/p\u003e",
+                    "dd153662-eab4-4f12-b715-4123cb7110bb": "\u003cp\u003eIncorrect because a convertible bond gives the bondholder the right to convert the bond into a specified number of shares of the issuer’s common shares.\u003c/p\u003e",
+                    "df33084f-5108-4c8e-bc56-75d8687e1d51": "\u003cp\u003eIncorrect because a callable bond gives issuers the ability to retire debt prior to maturity. It does not have a feature of resetting coupon payments periodically according to the reference rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "df33084f-5108-4c8e-bc56-75d8687e1d51",
+                            "itemBody": "\u003cp\u003eA. Callable bonds\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0182161e-6135-4b76-ab47-58254c554fb4",
+                            "itemBody": "\u003cp\u003eB. Floating-rate notes\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "dd153662-eab4-4f12-b715-4123cb7110bb",
+                            "itemBody": "\u003cp\u003eC. Convertible bonds\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8650,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 852,
+            "sourceModuleId": 4463,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

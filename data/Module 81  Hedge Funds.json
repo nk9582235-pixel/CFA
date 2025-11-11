@@ -1,0 +1,1268 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6072,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 20,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 6: Hedge Funds",
+        "topic_id": 1038,
+        "topic": "CFA-26-02-LI-C: Alternative Investments",
+        "subtopic_id": 6072,
+        "subtopic": "Module 6: Hedge Funds",
+        "question_count": 20,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 854,
+                "name": "Warehouse Course: Alternative Investments 26-LI",
+                "code": "Warehouse Course: Alternative Investments 26-LI",
+                "module_id": 4497,
+                "question_count": 14,
+                "type": "warehouse"
+            },
+            {
+                "id": 845,
+                "name": "Practice Pack Warehouse: Alternative Investments 26-LI",
+                "code": "Practice Pack Warehouse: Alternative Investments 26-LI",
+                "module_id": 4766,
+                "question_count": 6,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 20.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "9c2f7e00f1cc949f",
+        "ordered_item_ids": [
+            "56704",
+            "56705",
+            "56706",
+            "56707",
+            "56708",
+            "56709",
+            "51319",
+            "51320",
+            "51321",
+            "51322",
+            "51323",
+            "51324",
+            "51325",
+            "54235",
+            "54236",
+            "54237",
+            "54238",
+            "54239",
+            "54240",
+            "54241"
+        ],
+        "visible_item_ids": [
+            "56704",
+            "56705",
+            "56706",
+            "56707",
+            "56708",
+            "56709",
+            "51319",
+            "51320",
+            "51321",
+            "51322",
+            "51323",
+            "51324",
+            "51325",
+            "54235",
+            "54236",
+            "54237",
+            "54238",
+            "54239",
+            "54240",
+            "54241"
+        ]
+    },
+    "items": [
+        {
+            "id": "56704",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-Alt-Kashyap-29",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following\u0026nbsp;hedge funds \u003ci\u003emost likely\u003c/i\u003e\u0026nbsp;have a beta\u0026nbsp;close to zero?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fe27cb4f-6e34-4f4b-840e-370ddc5b3d0f"
+                },
+                "answerFeedback": {
+                    "b25e901f-bbdc-4ffa-a8cf-845a10b7b349": "\u003cp\u003eIncorrect because, although\u0026nbsp;these funds do\u0026nbsp;hedge long positions with short positions, market neutrality is not necessarily a goal.\u0026nbsp;The hedge fund takes long positions in these companies while shorting companies with business models being disintermediated or under downward pressure—where continued revenue growth is deemed unlikely. Portfolios tend to end up long biased.\u003c/p\u003e",
+                    "b40cc42b-1610-4604-928d-2372cd5613e1": "\u003cp\u003eIncorrect because the beta in these types of funds is most often negative given the short bias. These strategies use quantitative (technical) and fundamental analysis to focus the bulk of their portfolio on shorting overvalued equity securities (against limited or no long-side exposures).\u003c/p\u003e",
+                    "fe27cb4f-6e34-4f4b-840e-370ddc5b3d0f": "\u003cp\u003eCorrect because the hedge fund takes long positions in securities identified as undervalued and short positions in overvalued securities. The hedge fund tries to maintain a net position that is neutral with respect to market risk and other risk factors (size, industry, momentum, value, etc.). Ideally, the portfolio has an overall beta of approximately zero.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b40cc42b-1610-4604-928d-2372cd5613e1",
+                            "itemBody": "\u003cp\u003eA. Short-biased funds\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "fe27cb4f-6e34-4f4b-840e-370ddc5b3d0f",
+                            "itemBody": "\u003cp\u003eB. Market-neutral funds\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b25e901f-bbdc-4ffa-a8cf-845a10b7b349",
+                            "itemBody": "\u003cp\u003eC. Fundamental long/short growth funds\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9033,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4766,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56705",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.03-Alt-Vervloet-04",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements is \u003ci\u003emost \u003c/i\u003eaccurate? Hedge funds:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bf4caf6a-765c-4e42-ba6b-4e74fb9f9790"
+                },
+                "answerFeedback": {
+                    "2eccdcd4-477a-4990-81c2-57b7058039e6": "\u003cp\u003eIncorrect because private equity\u0026nbsp;refers to investment in privately owned companies or in public companies with the intent to take them private. In general, private equity is used in the\u0026nbsp;mature\u0026nbsp;life cycle stage or for firms in\u0026nbsp;decline, with leveraged buyouts being a key approach.\u003c/p\u003e",
+                    "bf4caf6a-765c-4e42-ba6b-4e74fb9f9790": "\u003cp\u003eCorrect because hedge funds\u0026nbsp;are private investment vehicles that may invest in public equities or publicly traded fixed-income assets, private capital, and/or real assets, but they are distinguished by their investment\u0026nbsp;approach\u0026nbsp;rather than by the investments themselves.\u0026nbsp;Hedge funds make frequent use of leverage, derivatives, short selling, and other investment strategies/\u0026nbsp;Alternative investments are investments other than ownership of public equity securities, fixed-income instruments, or cash that represent the more traditional asset classes. Even though the investments might be just in traditional assets, like public equities or publicly traded fixed-income assets, the investment approach distinguishes the hedge fund.\u003c/p\u003e",
+                    "d9eb1196-7250-4f6d-a443-b1145814abcc": "\u003cp\u003eIncorrect because venture capital\u0026nbsp;is a specialized form of private equity whereby ownership capital is used for non-public companies in the\u0026nbsp;early\u0026nbsp;life cycle or\u0026nbsp;startup\u0026nbsp;phase, where often an idea or business plan exists with a limited operation or customer base.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bf4caf6a-765c-4e42-ba6b-4e74fb9f9790",
+                            "itemBody": "\u003cp\u003eA. may be invested entirely in traditional assets.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d9eb1196-7250-4f6d-a443-b1145814abcc",
+                            "itemBody": "\u003cp\u003eB. typically invest in early-stage companies with high growth potential.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2eccdcd4-477a-4990-81c2-57b7058039e6",
+                            "itemBody": "\u003cp\u003eC. typically pursue leveraged buyouts of established profitable and cash-generating companies.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9033,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4766,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56706",
+            "entry": {
+                "title": "ITEM_CFA-L1-00793",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eAn activist hedge fund strategy is \u003ci\u003emost likely\u003c/i\u003e:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9a3a1649-eeb7-4ae4-bd4e-bad2d688bf54"
+                },
+                "answerFeedback": {
+                    "47019683-9360-49be-9c4e-409f1b756385": "\u003cp\u003eIncorrect because event-driven strategies (such as activist strategies) seek to profit from defined catalyst events, typically those that involve changes in corporate structure, such as an acquisition or restructuring. This strategy is considered to be underpinned by bottom-up security-specific analysis, as opposed to top-down analysis. Investments may include long and short positions in common and preferred stocks, debt securities, and options.\u0026nbsp;\u003c/p\u003e",
+                    "6966687a-5028-43c8-b8ba-f76996834532": "\u003cp\u003eIncorrect because activist strategies are typically categorized as event-driven, as opposed to relative value strategies, which seek to profit from a pricing discrepancy, an unusual short-term relationship, between related securities. The expectation is that the pricing discrepancy will be resolved over time.\u003c/p\u003e",
+                    "9a3a1649-eeb7-4ae4-bd4e-bad2d688bf54": "\u003cp\u003eCorrect because the term “activist” is short for “activist shareholder.” Here, managers secure sufficient equity holdings to allow them to inﬂuence a company’s policies or direction. The hedge fund manager thus tries to create his or her own catalyst, inﬂuencing the investment’s ultimate destiny by creating a desired corporate outcome. For example, the activist hedge fund may advocate for divestitures, restructuring, capital distributions to shareholders, or changes in management and company strategy that will aﬀect their equity holdings. Such hedge funds are distinct from private equity because they operate primarily in the public equity market.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "47019683-9360-49be-9c4e-409f1b756385",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ebased on top-down analysis.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6966687a-5028-43c8-b8ba-f76996834532",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eclassified as a relative value strategy.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9a3a1649-eeb7-4ae4-bd4e-bad2d688bf54",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eimplemented in the public equity market.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9033,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4766,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56707",
+            "entry": {
+                "title": "ITEM_2019B Alt 05JDS",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eIn contrast to a fund of hedge funds, a single hedge fund is \u003ci\u003emost likely\u003c/i\u003e to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "89e9e8fe-0e88-4ffb-92b6-6635136f9f48"
+                },
+                "answerFeedback": {
+                    "014cb22d-9063-495b-a2cb-c760f67d478e": "\u003cp\u003eIncorrect because\u0026nbsp;funds of hedge funds pool funds from investors and invest the proceeds in a diversified portfolio of hedge fund investments across a variety of hedge funds.\u0026nbsp;Also, funds of funds allow smaller investors to make investments in hedge funds for which the minimum investment and research requirements would otherwise be overly burdensome.\u003c/p\u003e",
+                    "89e9e8fe-0e88-4ffb-92b6-6635136f9f48": "\u003cp\u003eCorrect because\u0026nbsp;single hedge funds come with a lower fee structure than fund of hedge funds. For the investor, fund of funds\u0026nbsp;comes with a higher fee structure—often an additional 1%—because the manager of the fund of funds adds its own fees on top of the hedge fund management fees. Fund-of-funds investors often face a 10% incentive fee in addition to those fees charged by underlying hedge funds.\u003c/p\u003e",
+                    "92a87595-527a-4d52-a951-abbbb39a0efd": "\u003cp\u003eIncorrect because the fund-of-hedge-fund managers\u0026nbsp;are often able to negotiate better redemption or fee terms than individual investors can.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "89e9e8fe-0e88-4ffb-92b6-6635136f9f48",
+                            "itemBody": "\u003cp\u003eA. charge lower total fees.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "92a87595-527a-4d52-a951-abbbb39a0efd",
+                            "itemBody": "\u003cp\u003eB. offer better redemption terms.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "014cb22d-9063-495b-a2cb-c760f67d478e",
+                            "itemBody": "\u003cp\u003eC. make a diversified portfolio of hedge funds accessible to smaller investors.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9033,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4766,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56708",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Alt-Shaw-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eConvertible bond arbitrage is \u003ci\u003ebest\u003c/i\u003e classified as a(n):\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6599d3fa-2e8a-400a-8404-bf56e487da66"
+                },
+                "answerFeedback": {
+                    "6599d3fa-2e8a-400a-8404-bf56e487da66": "\u003cp\u003eCorrect because relative value funds seek to profit from a pricing discrepancy, an unusual short-term relationship, between related securities. The expectation is that the pricing discrepancy will be resolved over time. Examples of relative value strategies include the following:\u0026nbsp;Convertible bond arbitrage. Tis conceptually market-neutral investment strategy seeks to exploit a perceived mispricing between a convertible bond and its component parts—namely, the underlying bond and the embedded stock option—relative to the pricing of a reference equity into which the bond may someday convert. The strategy typically involves buying convertible debt securities and simultaneously selling a certain amount of the same issuer’s common stock. Residual bankruptcy risks can be further hedged using equity put options or credit default swap derivative hedges on the credit of the issuer.\u0026nbsp;\u003c/p\u003e",
+                    "d2d1a78a-8d17-42dd-a6f9-30a01e6c896e": "\u003cp\u003eIncorrect because convertible bond arbitrage strategies are classified as relative value strategies. Event-driven strategies seek to profit from defined catalyst events, typically those that involve changes in corporate structure, such as an acquisition or restructuring. This strategy is considered to be underpinned by bottom-up security-specific analysis, as opposed to top-down analysis. Investments may include long and short positions in common and preferred stocks, debt securities, and options.\u0026nbsp;\u003c/p\u003e",
+                    "f0fd9442-c030-495f-8998-32ec86455006": "\u003cp\u003eIncorrect because convertible bond arbitrage strategies are classified as relative value strategies. Macro hedge funds emphasize a top-down approach to identify economic trends. Trades are made on the basis of expected movements in economic variables. Generally, these funds trade opportunistically in fixed-income, equity, currency, and commodity markets. Macro hedge funds use long and short positions to profit from a view on the overall direction of the market as it is inﬂuenced by major economic trends and events.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f0fd9442-c030-495f-8998-32ec86455006",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003emacro hedge fund strategy.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d2d1a78a-8d17-42dd-a6f9-30a01e6c896e",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eevent-driven hedge fund strategy.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6599d3fa-2e8a-400a-8404-bf56e487da66",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003erelative value hedge fund strategy.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9033,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4766,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56709",
+            "entry": {
+                "title": "ITEM_CFA-L1-04812",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eA hedge fund is \u003ci\u003emost likely\u003c/i\u003e characterized by:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "44361303-6a7c-410e-9abb-291ce3c08fef"
+                },
+                "answerFeedback": {
+                    "3140d98c-e519-40cf-81bb-9514294c5af8": "\u003cp\u003eIncorrect because investors in modern hedge funds are subject to extended holding periods (known as lockup periods) and subsequent notice periods before an investment redemption is possible.\u003c/p\u003e",
+                    "44361303-6a7c-410e-9abb-291ce3c08fef": "\u003cp\u003eCorrect because a contemporary hedge fund generally has the following characteristics: It is a creatively managed portfolio of investments involved in one or more asset classes (equities, credit, fixed income, commodities, futures, foreign exchange, and sometimes even hard assets, such as real estate), sometimes trading in different geographic regions, that is often leveraged, generally takes both long and short positions (when possible), and quite often uses derivatives to express a view or establish a hedge.\u003c/p\u003e",
+                    "e6bdd97f-6db2-4061-9331-609b7750d764": "\u003cp\u003eIncorrect because a\u0026nbsp;contemporary hedge fund generally has the following characteristics:\u0026nbsp;It is a creatively managed portfolio of investments involved in one or more asset classes (equities, credit, fixed income, commodities, futures, foreign exchange, and sometimes even hard assets, such as real estate), sometimes trading in different geographic regions, that is often leveraged, generally takes both long and short positions (when possible), and quite often uses derivatives to express a view or establish a hedge.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "44361303-6a7c-410e-9abb-291ce3c08fef",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ethe ability to use derivatives.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e6bdd97f-6db2-4061-9331-609b7750d764",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ea prohibition against short positions.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3140d98c-e519-40cf-81bb-9514294c5af8",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ean absence of restrictions on redemptions.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9033,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 845,
+            "sourceModuleId": 4766,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51319",
+            "entry": {
+                "title": "CFA2457-R-s04-Q4",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct because it is a false statement. Accredited retail investors can invest in various types of hedge funds. A and B are true.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eChoose the \u003cem\u003efalse\u003c/em\u003e statement about hedge funds:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0d99d4cc-a63d-44ef-a853-6f1d4e678d4c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2b5058b2-822e-4ca4-b109-b027b8ef58ee",
+                            "itemBody": "A. While traditional fund managers charge mainly a management fee, hedge fund managers charge both a management fee and a performance-based incentive fee.",
+                            "position": 1
+                        },
+                        {
+                            "id": "630bfd8d-ce16-48f7-a919-1b1bca6d6052",
+                            "itemBody": "B. Redemption of funds from a hedge fund prior to its liquidation is very hard, due to the initial lockup period and specific terms of redemption.",
+                            "position": 2
+                        },
+                        {
+                            "id": "0d99d4cc-a63d-44ef-a853-6f1d4e678d4c",
+                            "itemBody": "C. Individual retail investors cannot invest in hedge funds, and only institutional investors can.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8269,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4497,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51320",
+            "entry": {
+                "title": "CFA2457-R-s04-Q5",
+                "feedback": {
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Participating in a potential bankruptcy situation would be characteristic of an event-driven hedge fund manager and not a fundamental long/short manager. A is incorrect because a fundamental long/short manager would invest in securities expected to exhibit high growth and capital appreciation. B is incorrect because a fundamental long/short manager would short securities in sectors that project negative growth.\u003c/p\u003e"
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA fundamental long/short hedge fund manager is evaluating specific securities to build a portfolio’s positions. Which of the following is the strategy the manager would \u003cem\u003eleast likely\u003c/em\u003e adopt?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b6e88b9c-0f3a-493b-85d5-ad30bfb86689"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "146b2677-ad5d-47fe-9c40-1243b6d3ff93",
+                            "itemBody": "A. Long securities that have an upside potential relative to current price",
+                            "position": 1
+                        },
+                        {
+                            "id": "a04e9820-ed54-423c-994f-a763c6a302b0",
+                            "itemBody": "B. Short sectors with macro trends negatively impacting the company",
+                            "position": 2
+                        },
+                        {
+                            "id": "b6e88b9c-0f3a-493b-85d5-ad30bfb86689",
+                            "itemBody": "C. Long securities that trade at a significant discount, expecting an increased valuation in case of a bankruptcy",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8269,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4497,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51321",
+            "entry": {
+                "title": "CFA2457-R-s04-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. A hedge fund SMA can be tailored to a single investor seeking a tailored portfolio with negotiated fees. The other fund structures do not generally offer customization or negotiable fees.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following fund structures is most likely to be suitable for an institutional hedge fund investor that seeks a highly customizable offering with negotiable fees?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c8d2ad88-fd89-4d38-bf4c-cb697d1b879e"
+                },
+                "answerFeedback": {
+                    "6ecd0372-0f63-4bc0-9b43-11d709c913e9": ""
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c8d2ad88-fd89-4d38-bf4c-cb697d1b879e",
+                            "itemBody": "\u003cp\u003eA. Separately managed hedge funds\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "6ecd0372-0f63-4bc0-9b43-11d709c913e9",
+                            "itemBody": "\u003cp\u003eB. Commingled hedge funds (master feeder funds)\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "76555371-6c4c-44c7-936a-b819042f9bc7",
+                            "itemBody": "\u003cp\u003eC. Mutual funds\u003c/p\u003e",
+                            "position": 3
+                        },
+                        {
+                            "id": "5a5341b8-b7ad-448a-bd32-8fab8fc867cf",
+                            "itemBody": "\u003cp\u003eD. Funds of funds\u003c/p\u003e",
+                            "position": 4
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8269,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4497,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51322",
+            "entry": {
+                "title": "CFA2457-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The general partner is responsible for choosing the hedge funds in a fund of hedge funds. A and C are incorrect because they refer to customers or investors in the fund.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following parties is responsible for the portfolio management of a fund of hedge funds?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "369c3e42-cf90-492d-9b5e-3e8601a3bd19"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1494ca35-863e-42b0-a924-7544652480fd",
+                            "itemBody": "A. Accredited investor",
+                            "position": 1
+                        },
+                        {
+                            "id": "369c3e42-cf90-492d-9b5e-3e8601a3bd19",
+                            "itemBody": "B. General partner",
+                            "position": 2
+                        },
+                        {
+                            "id": "241366f1-62ae-410f-b41d-27c867e539a1",
+                            "itemBody": "C. Limited partner",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8269,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4497,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51323",
+            "entry": {
+                "title": "CFA2457-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Selection bias refers to when the benchmark inclusion criteria cover only those funds that have good performance and hence report their performance to attract new investors. A is incorrect; survivorship bias is when the benchmark stops including funds that have ceased operations, most likely due to poor performance, and hence does not fully represent the hedge fund universe. B is incorrect; backfill bias occurs when an index retroactively includes the performance of a fund before it is added to the index.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following best explains why it is unlikely a poor-performing hedge fund would be added to an index?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bf40a37f-61bf-4bbe-9ef2-964a00c4edc5"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9f65a9fb-3bab-4414-9aa2-1a268877c59f",
+                            "itemBody": "A. Survivorship bias",
+                            "position": 1
+                        },
+                        {
+                            "id": "0821ad8c-c728-4f33-b13f-eadd4385d384",
+                            "itemBody": "B. Backfill bias",
+                            "position": 2
+                        },
+                        {
+                            "id": "bf40a37f-61bf-4bbe-9ef2-964a00c4edc5",
+                            "itemBody": "C. Selection bias",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8269,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4497,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51324",
+            "entry": {
+                "title": "CFA2457-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Event-driven strategies include mergers, bankruptcies, and spin-offs. Relative value strategies (Choice B) seek to profit from a price or return discrepancy between securities based on a short-term relationship. Opportunistic strategies (Choice C) use managed futures and macro strategies.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe strategy that identifies opportunities for future merger, bankruptcy, or spin-offs and seeks profit from pricing inefficiencies is known as:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "26376afd-2970-44ad-b447-6515903d5f55"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "26376afd-2970-44ad-b447-6515903d5f55",
+                            "itemBody": "A. event driven.",
+                            "position": 1
+                        },
+                        {
+                            "id": "3a6b8716-4222-4773-96f8-89f0d76bbdf9",
+                            "itemBody": "B. relative value.",
+                            "position": 2
+                        },
+                        {
+                            "id": "6dfe2b2c-dd68-4b50-9672-f321831c912a",
+                            "itemBody": "C. opportunistic.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8269,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4497,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51325",
+            "entry": {
+                "title": "CFA2457-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Equity long/short strategies purchase undervalued stocks and sell short overvalued stocks. Event-driven managers (Choice B) participate in such events as mergers and spin-offs. Relative value managers (Choice C) seek to arbitrage values between related securities.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA money manager was reviewing the automobile sector and identified that the stock of General Motors (GM) is relatively overvalued compared to Ford. A money manager purchases 100 shares of Ford and shorts 150 shares of GM. It turned out that the manager’s perception was right. At the end of the quarter, she unwinds both positions, making a profit on both positions. What is this strategy called?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dc9eac29-cc60-4fda-8ef0-3cd6a67d5be6"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "dc9eac29-cc60-4fda-8ef0-3cd6a67d5be6",
+                            "itemBody": "A. Equity long/short",
+                            "position": 1
+                        },
+                        {
+                            "id": "6be56059-ca5b-42a0-a869-e99ff233a01b",
+                            "itemBody": "B. Event driven",
+                            "position": 2
+                        },
+                        {
+                            "id": "85a3cad3-7a34-45fc-a00f-a4895d7c3e8b",
+                            "itemBody": "C. Relative value",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8269,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4497,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54235",
+            "entry": {
+                "title": "ITEM_20170427008",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAn alternative investments fund that uses leverage and takes long and short positions in securities is \u003ci\u003emost likely\u003c/i\u003e a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ec441b51-be63-48fa-80bf-0b55917a4b3c"
+                },
+                "answerFeedback": {
+                    "2ccda02a-571e-4f86-bf06-4ef05511d9f7": "\u003cp\u003eIncorrect. Leveraged buyout funds make equity investments in established companies.\u003c/p\u003e",
+                    "a0298fd9-33b2-4bec-a7b7-ca180b2c6f15": "\u003cp\u003eIncorrect. Venture capital funds provide capital to start-up firms with high growth potential.\u003c/p\u003e",
+                    "ec441b51-be63-48fa-80bf-0b55917a4b3c": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Hedge funds invest in securities and may take long and short positions. They may also use leverage.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ec441b51-be63-48fa-80bf-0b55917a4b3c",
+                            "itemBody": "\u003cp\u003eA. hedge fund.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a0298fd9-33b2-4bec-a7b7-ca180b2c6f15",
+                            "itemBody": "\u003cp\u003eB. venture capital fund.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2ccda02a-571e-4f86-bf06-4ef05511d9f7",
+                            "itemBody": "\u003cp\u003eC. leveraged buyout fund.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8713,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4497,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54236",
+            "entry": {
+                "title": "ITEM_CopyofCFA-L1-04621",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003ebest\u003c/i\u003e described as a relative value hedge fund strategy?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9adb8470-e162-41ac-929e-5116cb0bed10"
+                },
+                "answerFeedback": {
+                    "13d3544e-a1d5-4c02-ae9c-eb9c5dda0a51": "\u003cp\u003eIncorrect because equity hedge strategies can be considered the original hedge fund category. They focus on public equity markets and take long and short positions in equity and equity derivative securities.\u0026nbsp;Examples of equity hedge strategies include the following:\u0026nbsp;Short biased\u003cb\u003e.\u003c/b\u003e These strategies use quantitative (technical) and fundamental analysis to focus the bulk of their portfolio on shorting overvalued equity securities (against limited or no long-side exposures). Managers are often more forensic in their fundamental analysis and sometimes are activist in trying to expose previously unrecognized accounting or business flaws and improve their portfolio’s chance for profits.\u003c/p\u003e",
+                    "609aec9d-babb-4c50-99fa-4f372aff205c": "\u003cp\u003eIncorrect because event-driven strategies seek to profit from defined catalyst events, typically involving changes in corporate structure, such as an acquisition or restructuring.\u0026nbsp;Further subdivisions of this category by HFR include the following:\u0026nbsp;Special situations\u003cb\u003e.\u003c/b\u003e These strategies focus on opportunities to buy equity of companies engaged in restructuring activities other than mergers, acquisitions, or bankruptcy. These activities include security issuance or repurchase, special capital distributions, rescue finance, and asset sales/spin-offs.\u003c/p\u003e",
+                    "9adb8470-e162-41ac-929e-5116cb0bed10": "\u003cp\u003eCorrect because relative value funds seek to profit from a pricing discrepancy between related securities based on an unusual short-term relationship. The expectation is that the discrepancy will be resolved over time. Examples of relative value strategies include the following: Convertible bond arbitrage\u003cb\u003e.\u003c/b\u003e This conceptually market-neutral investment strategy seeks to exploit a perceived mispricing between a convertible bond and its component parts—namely, the underlying bond and the embedded stock option—relative to the pricing of a reference equity into which the bond may someday convert. The strategy typically involves buying convertible debt securities and simultaneously selling a certain amount of the same issuer’s common stock.\u0026nbsp;As this type of strategy seeks to profit from a pricing discrepancy (an unusual short-term relationship) between related securities,\u0026nbsp;it is best described as a relative value strategy.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "13d3544e-a1d5-4c02-ae9c-eb9c5dda0a51",
+                            "itemBody": "\u003cp\u003eA. Short biased\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "609aec9d-babb-4c50-99fa-4f372aff205c",
+                            "itemBody": "\u003cp\u003eB. Special situations\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9adb8470-e162-41ac-929e-5116cb0bed10",
+                            "itemBody": "\u003cp\u003eC. Convertible bond arbitrage\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8713,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4497,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54237",
+            "entry": {
+                "title": "ITEM_2019BAlt02DTL",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA hedge fund that seeks to profit from a view on overall market direction as influenced by economic trends \u003ci\u003ebest\u003c/i\u003e describes a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7f71549b-c0d0-40c6-8bf2-0a616ea4ceff"
+                },
+                "answerFeedback": {
+                    "63ddb28a-08c7-4cc6-be81-94ac187b97d0": "\u003cp\u003eIncorrect because a multi-strategy hedge fund is an example of a relative value strategy, which seeks\u0026nbsp;to profit from a pricing discrepancy, an unusual short-term relationship,\u0026nbsp;between related securities. The expectation is that the pricing discrepancy will be resolved over time.\u0026nbsp;Strategies of a multi-strategy hedge fund trade relative value within and across asset classes or instruments. Rather than focusing on one type of trade (e.g., convertible arbitrage), a single basis for trade (e.g., volatility), or a particular asset class (e.g., fixed income), this strategy instead looks for investment opportunities wherever they might exist, often with diﬀerent pods of managers executing their own unique market approaches.\u003c/p\u003e",
+                    "7f71549b-c0d0-40c6-8bf2-0a616ea4ceff": "\u003cp\u003eCorrect because macro hedge funds use long and short positions to profit from a view on the overall direction of the market as it is inﬂuenced by major economic trends and events.\u003c/p\u003e",
+                    "c6b4dec1-35f3-4f4b-b927-3c205aeecee0": "\u003cp\u003eIncorrect because market-neutral hedge funds use quantitative (technical) and fundamental analysis to identify under- and over-valued equity securities. The hedge fund takes long positions in securities it has identified as undervalued and short positions in securities it has identified as overvalued.\u0026nbsp;The hedge fund tries to maintain a net position that is neutral with respect to market risk and other risk factors (size, industry, momentum, value, etc.). Ideally, the portfolio has an overall beta of approximately zero. The intent is to profit from the movements of individual securities while remaining largely indiﬀerent to market risk.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7f71549b-c0d0-40c6-8bf2-0a616ea4ceff",
+                            "itemBody": "\u003cp\u003eA. macro hedge fund.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "63ddb28a-08c7-4cc6-be81-94ac187b97d0",
+                            "itemBody": "\u003cp\u003eB. multi-strategy hedge fund.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c6b4dec1-35f3-4f4b-b927-3c205aeecee0",
+                            "itemBody": "\u003cp\u003eC. market-neutral hedge fund.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8713,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4497,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54238",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-Alt-Tsependa-27",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eEvent-driven hedge fund strategies are \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "960dcf00-23fc-4698-9acd-94ef7453467d"
+                },
+                "answerFeedback": {
+                    "5886e04f-1ff6-4b04-91ff-bc25ac4cc7ba": "\u003cp\u003eIncorrect because event-driven strategies seek to profit from defined catalyst events, typically involving changes in corporate structure, such as an acquisition or restructuring. They are considered to be based on bottom-up security-specific analysis, as opposed to top-down analysis.\u003c/p\u003e",
+                    "960dcf00-23fc-4698-9acd-94ef7453467d": "\u003cp\u003eCorrect because event-driven strategies tend to be long biased, with merger arbitrage having the least bias.\u003c/p\u003e",
+                    "9b74acc3-a65a-4da7-90a0-74678509d1e6": "\u003cp\u003eIncorrect because event-driven strategies seek to profit from defined catalyst events, typically involving changes in corporate structure, such as an acquisition or restructuring.\u0026nbsp;It is relative value funds that\u0026nbsp;seek to profit from a pricing discrepancy between related securities based on an unusual short-term relationship.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "960dcf00-23fc-4698-9acd-94ef7453467d",
+                            "itemBody": "\u003cp\u003eA. long biased.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5886e04f-1ff6-4b04-91ff-bc25ac4cc7ba",
+                            "itemBody": "\u003cp\u003eB. based on 'top-down' analysis.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9b74acc3-a65a-4da7-90a0-74678509d1e6",
+                            "itemBody": "\u003cp\u003eC. exploiting short-term pricing discrepancies between two related securities.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8713,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4497,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54239",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-Alt-Kashyap-27",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhat is the \u003ci\u003emost likely\u003c/i\u003e effect of a redemption fee on the returns of the remaining investors in a hedge fund? A redemption fee:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8fac1a19-0277-4aa5-8aa1-0daaa1bfebef"
+                },
+                "answerFeedback": {
+                    "289d821d-a209-4bd1-94a3-4822abdc0922": "\u003cp\u003eIncorrect because the fee increases the value of the hedge fund by the fee amount. A\u0026nbsp;redemption fee may be charged, typically payable to the fund itself (rather than the manager). This is to protect remaining investors in the fund, particularly in circumstances where the redemption takes place during the lockup period.\u003c/p\u003e",
+                    "3b8120de-df39-4f53-b877-f59f4b20fa2b": "\u003cp\u003eIncorrect because the fee increases [not decreases] the value of the hedge fund by the fee amount. A\u0026nbsp;redemption fee may be charged, typically payable to the fund itself (rather than the manager). This is to protect remaining investors in the fund, particularly in circumstances where the redemption takes place during the lockup period.\u003c/p\u003e",
+                    "8fac1a19-0277-4aa5-8aa1-0daaa1bfebef": "\u003cp\u003eCorrect because the fee increases the value of the hedge fund by the fee amount. A\u0026nbsp;redemption fee may be charged, typically payable to the fund itself (rather than the manager). This is to protect remaining investors in the fund, particularly in circumstances where the redemption takes place during the lockup period. This characteristic is called a \u003ci\u003esoft lockup\u003c/i\u003e, and it offers a path (albeit an expensive one) to redeem early.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3b8120de-df39-4f53-b877-f59f4b20fa2b",
+                            "itemBody": "\u003cp\u003eA. reduces investor returns.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "289d821d-a209-4bd1-94a3-4822abdc0922",
+                            "itemBody": "\u003cp\u003eB. has no effect on investor returns.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8fac1a19-0277-4aa5-8aa1-0daaa1bfebef",
+                            "itemBody": "\u003cp\u003eC. enhances investor returns.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8713,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4497,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54240",
+            "entry": {
+                "title": "ITEM_CFA-L1-07699",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eHedge funds are \u003ci\u003emost likely\u003c/i\u003e to place restrictions on:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2514540a-eabb-45df-b68d-2038226d432c"
+                },
+                "answerFeedback": {
+                    "2514540a-eabb-45df-b68d-2038226d432c": "\u003cp\u003eCorrect because alternative investments often have many of the following characteristics. Restrictions on redemptions (i.e., 'lockups'\u0026nbsp;and 'gates'). As such,\u0026nbsp;restrictions on redemptions\u0026nbsp;are typically imposed by hedge funds. Investors may be required to keep their money in the hedge fund for a minimum period (referred to as a lockup period) before they are allowed to make withdrawals or redeem shares. Investors may be required to give notice of their intent to redeem; the notice period is typically 30–90 days. To redeem shares, investors may be charged a fee, typically payable to the fund itself (rather than the manager) so as not to disadvantage remaining investors in the fund, particularly in circumstances where the redemption takes place during the lockup period.\u003c/p\u003e",
+                    "c314f4fd-a980-4a41-837e-701b301495c6": "\u003cp\u003eIncorrect because\u0026nbsp;hedge funds\u0026nbsp;are private investment vehicles that manage portfolios of securities and/or derivative positions using a variety of strategies.\u0026nbsp;They may involve long and short positions and may be highly leveraged. Some aim to deliver investment performance that is independent of broader market performance. A contemporary hedge fund generally has the following characteristics: It is a creatively managed portfolio of investments involved in one or more asset classes (equities, credit, fixed income, commodities, futures, foreign exchange, and sometimes even hard assets, such as real estate), sometimes trading in different geographic regions, that is often leveraged, generally takes both long and short positions (when possible), and quite often uses derivatives to express a view or establish a hedge.\u003c/p\u003e",
+                    "cd0e14d0-ae3f-4a8a-ba76-da1bae33cd83": "\u003cp\u003eIncorrect because hedge funds\u0026nbsp;are private investment vehicles that manage portfolios of securities and/or derivative positions using a variety of strategies. Although hedge funds may be invested entirely in traditional assets, these vehicles are considered alternative because of their private nature. Hedge funds typically have more leeway to pursue investments and strategies offering the potential for higher returns, whether absolute or compared with a specific market benchmark, but these strategies may increase the risk of investment loss. They may involve long and short positions and may be highly leveraged. Some aim to deliver investment performance that is independent of broader market performance.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2514540a-eabb-45df-b68d-2038226d432c",
+                            "itemBody": "\u003cp\u003eA. redemptions.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "cd0e14d0-ae3f-4a8a-ba76-da1bae33cd83",
+                            "itemBody": "\u003cp\u003eB. the use of leverage.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c314f4fd-a980-4a41-837e-701b301495c6",
+                            "itemBody": "\u003cp\u003eC. the use of derivatives.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8713,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4497,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54241",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-Alt-Terry-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA hedge fund strategy that seeks to influence a company's policies through the purchase of equity is \u003ci\u003ebest\u003c/i\u003e described as a(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c2fda0db-dd01-452c-bffd-fb18fe5e025e"
+                },
+                "answerFeedback": {
+                    "1888a893-dc5a-4679-8059-7fa78544a00c": "\u003cp\u003eIncorrect because merger arbitrage strategies involve going long (buying) the stock of the company being acquired at a discount to its announced takeover price and going short (selling) the stock of the acquiring company when the merger or acquisition is announced. The manager may expect to profit once the initial deal spread narrows to the closing value of the transaction after it is fully consummated. The spread exists because there is always some uncertainty over\u0026nbsp;whether the deal will actually close in the face of legal and regulatory hurdles.\u003c/p\u003e",
+                    "91f4bb35-3324-4034-8a1c-80f232f1a971": "\u003cp\u003eIncorrect because equity hedge strategies, which include market neutral,\u0026nbsp;are focused on public equity markets and take long and short positions in equity and equity derivative securities. Market neutral\u0026nbsp;strategies use quantitative (technical) and fundamental analysis to identify under- and overvalued equity securities. The hedge fund takes long positions in securities it has identified as undervalued and short positions in securities it has identified as overvalued. The hedge fund tries to maintain a net position that is neutral with respect to market risk and other risk factors (size, industry, momentum, value, etc.). Ideally, the portfolio has an overall beta of approximately zero.\u003c/p\u003e",
+                    "c2fda0db-dd01-452c-bffd-fb18fe5e025e": "\u003cp\u003eCorrect because event-driven strategies, which include \"activist\", seek to profit from defined catalyst events, typically those that involve changes in corporate structure, such as an acquisition or restructuring. In activist strategies, hedge fund managers secure sufficient equity holdings to allow them to influence a company’s policies or direction. The hedge fund manager thus tries to create his or her own catalyst, influencing the investment’s ultimate destiny by creating a desired corporate outcome.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c2fda0db-dd01-452c-bffd-fb18fe5e025e",
+                            "itemBody": "\u003cp\u003eA. activist strategy.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "91f4bb35-3324-4034-8a1c-80f232f1a971",
+                            "itemBody": "\u003cp\u003eB. market-neutral strategy.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1888a893-dc5a-4679-8059-7fa78544a00c",
+                            "itemBody": "\u003cp\u003eC. merger arbitrage strategy.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8713,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 854,
+            "sourceModuleId": 4497,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

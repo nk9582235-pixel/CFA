@@ -1,0 +1,838 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6284,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 13,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 7: Company Analysis: Forecasting",
+        "topic_id": 1035,
+        "topic": "CFA-26-02-LI-C: Equity",
+        "subtopic_id": 6284,
+        "subtopic": "Module 7: Company Analysis: Forecasting",
+        "question_count": 13,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 851,
+                "name": "Warehouse Course: Equity 26-LI",
+                "code": "Warehouse Course: Equity 26-LI",
+                "module_id": 4461,
+                "question_count": 8,
+                "type": "warehouse"
+            },
+            {
+                "id": 842,
+                "name": "Practice Pack Warehouse: Equity 26-LI",
+                "code": "Practice Pack Warehouse: Equity 26-LI",
+                "module_id": 4678,
+                "question_count": 5,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            ""
+        ],
+        "points_possible": 13.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "18f6aa97761d3e9f",
+        "ordered_item_ids": [
+            "54982",
+            "54983",
+            "54984",
+            "54985",
+            "54986",
+            "53305",
+            "53306",
+            "53307",
+            "53308",
+            "53309",
+            "53310",
+            "53311",
+            "53312"
+        ],
+        "visible_item_ids": [
+            "54982",
+            "54983",
+            "54984",
+            "54985",
+            "54986",
+            "53305",
+            "53306",
+            "53307",
+            "53308",
+            "53309",
+            "53310",
+            "53311",
+            "53312"
+        ]
+    },
+    "items": [
+        {
+            "id": "54982",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-Equity-Hung-05",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about forecasting selling, general and administrative (SG\u0026amp;A) expenses is \u003ci\u003emost\u003c/i\u003e accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e16b70ca-85ae-4590-9d86-362cf381e8d2"
+                },
+                "answerFeedback": {
+                    "060d88af-216f-4cb2-8d8c-a04f5879492b": "\u003cp\u003eIncorrect because general corporate costs are more fixed costs\u0026nbsp;and might be better modeled using a fixed growth rate based on expected wage inflation.\u003c/p\u003e",
+                    "e16b70ca-85ae-4590-9d86-362cf381e8d2": "\u003cp\u003eCorrect because selling and distribution expenses often have a large variable component and can be modeled as a percentage of sales.\u003c/p\u003e",
+                    "f1c1071d-6017-4814-821d-e4f7384f2e2f": "\u003cp\u003eIncorrect because cost of sales (cost of goods sold, or COGS) is typically the single largest cost for companies that make and/or sell products. Because it has a direct link with sales, forecasting this item as a percentage of sales (or as a gross margin) is usually a good approach. SG\u0026amp;A expenses often have a less direct relationship with revenues. Although SG\u0026amp;A expenses overall are generally less closely linked to revenue than is cost of sales, certain SG\u0026amp;A expenses could be more variable than others.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "060d88af-216f-4cb2-8d8c-a04f5879492b",
+                            "itemBody": "\u003cp\u003eA. General corporate costs are mostly variable costs\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e16b70ca-85ae-4590-9d86-362cf381e8d2",
+                            "itemBody": "\u003cp\u003eB. Selling and distribution expenses can be modeled as a percentage of sales\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f1c1071d-6017-4814-821d-e4f7384f2e2f",
+                            "itemBody": "\u003cp\u003eC. Overall SG\u0026amp;A expenses have a more direct relationship with revenues than cost of goods sold\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8854,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4678,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54983",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-Equity-Hung-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about scenario analysis is \u003ci\u003emost\u003c/i\u003e accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "029572ea-3b0c-4811-8a92-c3be2e9b1980"
+                },
+                "answerFeedback": {
+                    "029572ea-3b0c-4811-8a92-c3be2e9b1980": "\u003cp\u003eCorrect because investors compare these scenarios with other analysts’ (e.g., sell-side analysts) forecasts for a company, as well as forecasts implied by current valuations, to make investment decisions.\u003c/p\u003e",
+                    "02c49261-daf6-4937-a469-bcd3c6419e5b": "\u003cp\u003eIncorrect because the final step in forecasting involves incorporating the possibility of different outcomes based on key risk factors as well as judging their likelihood of occurrence. Generic risk factors that affect all companies—but to varying degrees— include changes in the business cycle, competition, inflation and deflation, and technological developments.\u003c/p\u003e",
+                    "7af88e84-c163-4cdd-b45c-61e403e527cd": "\u003cp\u003eIncorrect because rather than develop single point estimate forecasts, analysts make several forecast scenarios that vary based on different outcomes with respect of key risk factors.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7af88e84-c163-4cdd-b45c-61e403e527cd",
+                            "itemBody": "\u003cp\u003eA. Scenario analysis provides a point estimate forecast\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "029572ea-3b0c-4811-8a92-c3be2e9b1980",
+                            "itemBody": "\u003cp\u003eB. Forecast scenarios can be compared to forecasts implied by current valuations\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "02c49261-daf6-4937-a469-bcd3c6419e5b",
+                            "itemBody": "\u003cp\u003eC. Generic risk factors in scenario analysis are assumed to affect all companies in the same way\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8854,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4678,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54984",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-Equity-Young-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich financial statement forecasting approach is \u003ci\u003ebest \u003c/i\u003esuited for companies in highly cyclical industries?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7aa561a0-23ce-4d51-99ed-b09f141cdd5b"
+                },
+                "answerFeedback": {
+                    "0a41bc56-1b69-4d3c-820c-108d7011291f": "\u003cp\u003eIncorrect because management does not have an informational advantage over investors at forecasting macroeconomic variables. Using guidance for forecasts is appropriate when it is provided and when management has demonstrated a track record of reliable estimates (analysts should analyze past guidance versus actuals). We caution against the use of guidance for companies that are highly sensitive to the business cycle, as management does not have an informational advantage over investors at forecasting macroeconomic variables like GDP or the prices of commodities.\u003c/p\u003e",
+                    "7aa561a0-23ce-4d51-99ed-b09f141cdd5b": "\u003cp\u003eCorrect because analyst’s discretionary forecasts include those based on surveys, quantitative models, probability distributions, analogies to historical precedents that differ from comparable companies or industry averages, and other unobservable inputs. This approach is most common for companies in cyclical industries, companies that have no or few comparables, those that do not provide management guidance, and/or those undergoing a fundamental change like a shift in the competitive or regulatory environment.\u003c/p\u003e",
+                    "f0885316-8804-4bbd-b4d9-df9f902e6960": "\u003cp\u003eIncorrect because historical results are best suited for companies' relative insensitivity to changes in macroeconomic factors. Using historical results may be appropriate for companies operating in industries where the analyst does not expect the industry structure (e.g., Porter’s Five Forces, PESTLE influences) to change, as well as for companies that have a low sensitivity to changes in the business cycle.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f0885316-8804-4bbd-b4d9-df9f902e6960",
+                            "itemBody": "\u003cp\u003eA. Historical results\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0a41bc56-1b69-4d3c-820c-108d7011291f",
+                            "itemBody": "\u003cp\u003eB. Management guidance\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7aa561a0-23ce-4d51-99ed-b09f141cdd5b",
+                            "itemBody": "\u003cp\u003eC. Analyst's discretionary forecasts\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8854,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4678,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54985",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-Equity-Glover-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following forecast objects for a bank's revenue is \u003ci\u003ebest\u003c/i\u003e classified as a top-down driver?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e2f06d2a-bdb0-4c18-a954-a77632443c69"
+                },
+                "answerFeedback": {
+                    "2b659c3d-c281-472e-82c2-7ceca8ebcc5a": "\u003cp\u003eIncorrect because examples of bottom-up drivers for revenue forecasts include c\u003ci\u003eapacity-based measures\u003c/i\u003e. Forecasts, for example, in retailing, based on the\u0026nbsp;number of stores and sales per store. In the banking context, the number of branches, and the growth thereof, may be considered a capacity-based measure.\u003c/p\u003e",
+                    "e2f06d2a-bdb0-4c18-a954-a77632443c69": "\u003cp\u003eCorrect because forecast objects for revenues are typically either top-down or bottom-up drivers. Common top-down forecast\u0026nbsp;objects include 'growth relative to GDP\u0026nbsp;growth'\u0026nbsp;and 'market growth and market share. The analyst first forecasts a growth rate for a\u0026nbsp;company's product market, and then considers the company's current market share\u0026nbsp;and how that share is likely to change over time.\u003c/p\u003e",
+                    "ffb9a56f-4ccd-452a-97fa-454796b4436e": "\u003cp\u003eIncorrect because examples of bottom-up drivers for revenue forecasts include r\u003ci\u003eeturn- or yield-based measures\u003c/i\u003e. Forecasts based on account balances and revenue yields on them. For example, net interest income for a bank can be calculated as loans multiplied by the average interest rate minus the product of deposits and liabilities and their average interest rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ffb9a56f-4ccd-452a-97fa-454796b4436e",
+                            "itemBody": "\u003cp\u003eA. Net interest income\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e2f06d2a-bdb0-4c18-a954-a77632443c69",
+                            "itemBody": "\u003cp\u003eB. Growth in market share\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2b659c3d-c281-472e-82c2-7ceca8ebcc5a",
+                            "itemBody": "\u003cp\u003eC. Growth in the number of branches\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8854,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4678,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54986",
+            "entry": {
+                "title": "ITEM_CFA-MC-2023.01-Equity-Glover-08",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eDepreciation expense is \u003ci\u003ebest \u003c/i\u003eused in forecasting:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "669e1f0c-52f3-46a5-b9e7-0e17bd9e9465"
+                },
+                "answerFeedback": {
+                    "1b4c167c-0966-46d9-9404-99e9499da512": "\u003cp\u003eIncorrect because\u0026nbsp;depreciation expense can serve as the basis for maintenance capital expenditures, as it is management's estimate of the cost of fixed assets expensed on the income statement in a manner that tracks its use.\u0026nbsp;Growth capital expenditure forecasts are more discretionary and are tied\u0026nbsp;to management's expansion plans and revenue growth.\u0026nbsp;Therefore, it is unlikely that depreciation expense will be used when forecasting this\u0026nbsp;growth capital expenditure.\u003c/p\u003e",
+                    "5ef3cf4b-bc8e-4fb9-8702-2a29d9e3ad11": "\u003cp\u003eIncorrect because\u0026nbsp;depreciation expense can serve as the basis for maintenance capital expenditures, as it is management's estimate of the cost of fixed assets expensed on the income statement in a manner that tracks its use.\u0026nbsp;Growth capital expenditure forecasts are more discretionary and are tied\u0026nbsp;to management's expansion plans and revenue growth.\u0026nbsp;Therefore, it is unlikely that depreciation expense will be used when forecasting this\u0026nbsp;item.\u003c/p\u003e",
+                    "669e1f0c-52f3-46a5-b9e7-0e17bd9e9465": "\u003cp\u003eCorrect because depreciation expense can serve as the basis for maintenance capital expenditures, as it is management's estimate of the cost of fixed assets expensed on the income statement in a manner that tracks its use.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5ef3cf4b-bc8e-4fb9-8702-2a29d9e3ad11",
+                            "itemBody": "\u003cp\u003eA. growth capital expenditure only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "669e1f0c-52f3-46a5-b9e7-0e17bd9e9465",
+                            "itemBody": "\u003cp\u003eB. maintenance capital expenditure only.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1b4c167c-0966-46d9-9404-99e9499da512",
+                            "itemBody": "\u003cp\u003eC. both growth capital expenditure and maintenance capital expenditure.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8854,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 842,
+            "sourceModuleId": 4678,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53305",
+            "entry": {
+                "title": "CFA2429-R-s06-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Forecast objects should either be disclosed regularly or be directly calculable using what is disclosed regularly. Information that is \u003cem\u003enot\u003c/em\u003e disclosed regularly (such as a third-party consultancy’s report) is suitable to \u003cem\u003einform\u003c/em\u003e forecasts but can be problematic for direct use, because forecasts cannot be confirmed in a timely manner. While it may be intuitive to forecast individual discrete items, such as sales and gross margin by individual product line, if gross margin is disclosed only on a consolidated basis, it will be difficult for analysts to verify their product-line gross margin estimates.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eForecast objects should be:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dba75d35-2f98-48ea-acf6-471d0b980cb3"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8c54fe25-208a-4e34-a226-7a36ed7eaf27",
+                            "itemBody": "A. based on independent third-party reports.",
+                            "position": 1
+                        },
+                        {
+                            "id": "27d9b594-c75c-4341-bc23-22623878c49e",
+                            "itemBody": "B. based on individual discrete items, not aggregations.",
+                            "position": 2
+                        },
+                        {
+                            "id": "dba75d35-2f98-48ea-acf6-471d0b980cb3",
+                            "itemBody": "C. disclosed regularly or based on items that are disclosed regularly.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8514,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4461,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53306",
+            "entry": {
+                "title": "CFA2429-R-s06-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Management has an advantage at the firm level and tends to make more accurate forecasts for objects that are subject to management actions, such as capital expenditures. Management does \u003cem\u003enot\u003c/em\u003e have an informational advantage over investors in forecasting macroeconomic variables, such as GDP, the business cycle, or the prices of commodities. Hutton et al. (2012) found that investors have an informational advantage over management at the macroeconomic level.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eManagement guidance is \u003cem\u003emost\u003c/em\u003e appropriately used by analysts in forecasting:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "bacdd80e-e311-4286-8144-ff756ff561dc"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bacdd80e-e311-4286-8144-ff756ff561dc",
+                            "itemBody": "A. capital expenditures of a company.",
+                            "position": 1
+                        },
+                        {
+                            "id": "ada230b8-d6c0-472b-9a01-4778487d7808",
+                            "itemBody": "B. pricing of commodities sold by a company.",
+                            "position": 2
+                        },
+                        {
+                            "id": "bf142e57-71f6-4c3a-8461-d1e13a3000ba",
+                            "itemBody": "C. revenue of a company sensitive to the business cycle.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8514,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4461,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53307",
+            "entry": {
+                "title": "CFA2429-R-s06-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Market share of routes is a top-down driver of revenues and can be used to estimate an airline’s market share. The number of planes in fleet and the average ticket price per mile flown are bottom-up drivers of revenues.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following is an example of a top-down driver of revenues for a passenger airline?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e8cdc358-04f5-41be-9d89-64ffd4ca7761"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e8cdc358-04f5-41be-9d89-64ffd4ca7761",
+                            "itemBody": "A. Market share of routes",
+                            "position": 1
+                        },
+                        {
+                            "id": "f4a73fe8-c5f8-43f2-bbbe-4a60ae8a57bf",
+                            "itemBody": "B. Number of planes in fleet",
+                            "position": 2
+                        },
+                        {
+                            "id": "d162330c-1e54-4f68-ac7e-2fa3dafb09f4",
+                            "itemBody": "C. Average ticket price per mile flown",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8514,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4461,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53308",
+            "entry": {
+                "title": "CFA2429-R-s06-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Management has a tendency to pad its guidance to make it easier to achieve the forecast results for which management will be rewarded. Management does not have an informational advantage at the macroeconomic level.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst forecasts a company’s sales using a historical results approach and top-down drivers (expected industry sales and expected market share). The analyst observes that the forecast is within the range of management guidance on sales but is toward the upper end and not closer to the midpoint. Which of the following is the \u003cem\u003emost likely\u003c/em\u003e explanation for this observation?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "449043fe-bf8d-49e0-b144-615b36d3f170"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "587ed955-3cfd-42e5-b32d-f54196b86eba",
+                            "itemBody": "A. The analyst has been overly optimistic in estimating the company’s expected market share.",
+                            "position": 1
+                        },
+                        {
+                            "id": "449043fe-bf8d-49e0-b144-615b36d3f170",
+                            "itemBody": "B. Management’s true expectations are toward the upper end, but management has created a range using a pessimistic lower bound that is more easily cleared.",
+                            "position": 2
+                        },
+                        {
+                            "id": "59512bb9-e496-4a69-8925-ec61a9c559c6",
+                            "itemBody": "C. The midpoint represents management’s true expectations, and management has a lower and better estimate of market growth based on macroeconomic variables.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8514,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4461,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53309",
+            "entry": {
+                "title": "CFA2429-R-s06-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Historical results is least appropriate, because the company has changed its competitive strategy. Analyst’s discretionary forecast may be appropriate, because the company is undergoing a fundamental change. The company is growing and may be transitioning to be more like the industry, in which case historical base rates and convergence may be an appropriate approach.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA clothing company, which initially produced designer clothing, has increasingly entered into the mass market. Which of the following approaches to forecasting revenues is \u003cem\u003eleast\u003c/em\u003e appropriate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "545f4044-89f4-48cd-9a34-35253f485083"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "545f4044-89f4-48cd-9a34-35253f485083",
+                            "itemBody": "A. Historical results",
+                            "position": 1
+                        },
+                        {
+                            "id": "66aa35ad-9ac3-4fe8-b887-4742a26b1943",
+                            "itemBody": "B. Analyst’s discretionary forecast",
+                            "position": 2
+                        },
+                        {
+                            "id": "28682704-cbb1-4363-a151-693385882ebb",
+                            "itemBody": "C. Historical base rates and convergence",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8514,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4461,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53310",
+            "entry": {
+                "title": "CFA2429-R-s06-Q13",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Management has an advantage in forecasting for objects that are subject to its actions (such as capital expenditures and inventories, which affect fixed costs). The analyst is likely to have an informational advantage when it comes to forecasting economic conditions and commodity prices, which affect revenues and variable costs.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst is forecasting operating costs for a company with relatively high fixed costs, sensitivity to economic conditions, and commodity inputs with volatile pricing. The company does not follow a hedging strategy for commodity purchases but tries to buy when prices are low. Which of the following is \u003cem\u003emost\u003c/em\u003e appropriate to use in forecasting operating costs? The analyst uses:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e91b7ebd-b50d-4f6f-b673-a0b60315f3c8"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8b42ebc8-4fff-4da8-a3a7-ff2844f83633",
+                            "itemBody": "A. analyst discretion to forecast all operating costs.",
+                            "position": 1
+                        },
+                        {
+                            "id": "2d7fc52f-945e-40f9-aaf8-80ff3cc97e0a",
+                            "itemBody": "B. management guidance to forecast all operating costs.",
+                            "position": 2
+                        },
+                        {
+                            "id": "e91b7ebd-b50d-4f6f-b673-a0b60315f3c8",
+                            "itemBody": "C. management guidance to forecast fixed operating costs and analyst discretion to forecast variable operating costs.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8514,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4461,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53311",
+            "entry": {
+                "title": "CFA2429-R-s06-Q14",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Based on the company’s spending pattern, it most likely makes capital expenditures based on capacity needs as it grows. If it is approaching full usage of existing capacity, it will expand.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst notes that a company’s capital expenditures do not follow a discernible pattern; the company seems to have periods of very low capital expenditures and periods of high capital expenditures. Management does not provide any guidance on capital expenditures. The analyst should develop a forecast of capital expenditures based on:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "becd4694-1aae-41fa-8c04-25537ea115bf"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "becd4694-1aae-41fa-8c04-25537ea115bf",
+                            "itemBody": "A. the company’s usage of PP\u0026amp;E capacity.",
+                            "position": 1
+                        },
+                        {
+                            "id": "3d37ef21-0a63-45e0-9b47-3f7fcd5ac203",
+                            "itemBody": "B. the industry’s average capital expenditures.",
+                            "position": 2
+                        },
+                        {
+                            "id": "7e4c8e1e-c280-4b9e-ab80-8f063f193c25",
+                            "itemBody": "C. the company’s average capital expenditures.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8514,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4461,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53312",
+            "entry": {
+                "title": "CFA2429-R-s06-Q15",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct.\u003c/p\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2429-R-s06-E___15\"\u003eSales = 100(0.95)(1.08) = 102.6\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2429-R-s06-E___16\"\u003eCost of sales = 60(0.85)(1.08) = 55.1\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2429-R-s06-E___17\"\u003eGross profit = 102.2 − 55.1 = 47.5\u003c/div\u003e\n            \u003cdiv style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2429-R-s06-E___18\"\u003eGross profit margin = 47.5/102.6 = 46.3%\u003c/div\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn analyst predicts that if a company’s technological developments are a success, the company’s operating costs \u003cspan\u003e(specifically COGS)\u003c/span\u003e will be reduced by 15%. As a result of the reduction in costs, the company will reduce the average selling price of its products by 5% and the volume of sales will increase by 8%. The company’s current gross profit margin is 40%. If technological developments occur, the company’s gross profit margin will be \u003cem\u003eclosest\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7b47cdd8-c3b5-4e7b-a9a5-835262ecfda1"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4e2de25c-a90d-48a4-a5d4-1a145d11bb55",
+                            "itemBody": "A. 44.8%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "7b47cdd8-c3b5-4e7b-a9a5-835262ecfda1",
+                            "itemBody": "B. 46.3%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "cd00290a-c588-4609-b79c-dd05dea196c3",
+                            "itemBody": "C. 47.5%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8514,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 851,
+            "sourceModuleId": 4461,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

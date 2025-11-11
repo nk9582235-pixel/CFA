@@ -1,0 +1,1947 @@
+{
+    "user_id": 239466,
+    "quiz_id": 5998,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 31,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 8: Pricing and Valuation of Options",
+        "topic_id": 1037,
+        "topic": "CFA-26-02-LI-C: Derivatives",
+        "subtopic_id": 5998,
+        "subtopic": "Module 8: Pricing and Valuation of Options",
+        "question_count": 31,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 853,
+                "name": "Warehouse Course: Derivatives 26-LI",
+                "code": "Warehouse Course: Derivatives 26-LI",
+                "module_id": 4489,
+                "question_count": 19,
+                "type": "warehouse"
+            },
+            {
+                "id": 844,
+                "name": "Practice Pack Warehouse: Derivatives 26-LI",
+                "code": "Practice Pack Warehouse: Derivatives 26-LI",
+                "module_id": 4742,
+                "question_count": 12,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 31.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "bd8030a9d9c8b51e",
+        "ordered_item_ids": [
+            "56304",
+            "56305",
+            "56306",
+            "56307",
+            "56308",
+            "56309",
+            "56310",
+            "56311",
+            "56312",
+            "56313",
+            "56314",
+            "56315",
+            "51240",
+            "51241",
+            "51242",
+            "51243",
+            "51244",
+            "51245",
+            "51246",
+            "51247",
+            "51248",
+            "51249",
+            "53937",
+            "53938",
+            "53939",
+            "53940",
+            "53941",
+            "53942",
+            "53943",
+            "53944",
+            "53945",
+            "53946"
+        ],
+        "visible_item_ids": [
+            "56304",
+            "56305",
+            "56306",
+            "56307",
+            "56308",
+            "56309",
+            "56310",
+            "56311",
+            "56312",
+            "56313",
+            "56314",
+            "56315",
+            "51240",
+            "51241",
+            "51242",
+            "51243",
+            "51244",
+            "51245",
+            "51246",
+            "51247",
+            "51248",
+            "51249",
+            "53937",
+            "53938",
+            "53939",
+            "53940",
+            "53941",
+            "53942",
+            "53943",
+            "53944",
+            "53945",
+            "53946"
+        ]
+    },
+    "items": [
+        {
+            "id": "56304",
+            "entry": {
+                "title": "ITEM_20170601050",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll, else held equal, the value of a European call option is \u003ci\u003ebest\u003c/i\u003e characterized as having a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5bfcfd1b-1744-4f70-b52f-8b13d44aea67"
+                },
+                "answerFeedback": {
+                    "5bfcfd1b-1744-4f70-b52f-8b13d44aea67": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The value of a European call option is directly related to the time to expiration. That is, all else held equal, the value of a European call option is higher the longer the time to expiration.\u003c/p\u003e",
+                    "614a30fa-53e1-44b0-831b-ed58c7c046c6": "\u003cp\u003eIncorrect. The value of a European call option is directly related to the volatility of the underlying.\u003c/p\u003e",
+                    "a8b805c4-6cca-44ed-b7db-bf26e14eccd1": "\u003cp\u003eIncorrect. The value of a European call option is directly related to the price of the underlying.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a8b805c4-6cca-44ed-b7db-bf26e14eccd1",
+                            "itemBody": "\u003cp\u003eA. negative relationship with the price of the underlying.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "614a30fa-53e1-44b0-831b-ed58c7c046c6",
+                            "itemBody": "\u003cp\u003eB. negative relationship with the volatility of the underlying.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "5bfcfd1b-1744-4f70-b52f-8b13d44aea67",
+                            "itemBody": "\u003cp\u003eC. positive relationship with the time to expiration.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8983,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4742,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56305",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.08-Deriv-Hambusch-18",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe upper bound of a call value is the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "286647e5-d3a7-432f-8d06-1ba91ea38fe2"
+                },
+                "answerFeedback": {
+                    "286647e5-d3a7-432f-8d06-1ba91ea38fe2": "\u003cp\u003eCorrect because\u0026nbsp;the upper no-arbitrage bound of a call value\u0026nbsp;is the underlying's spot price.\u003c/p\u003e",
+                    "33b1e4af-cb05-4886-a661-05c64add73f2": "\u003cp\u003eIncorrect because the lower (not upper)\u0026nbsp;bound of a call price is the underlying’s price minus the present value of its exercise price or zero, whichever is greater.\u0026nbsp;Instead,\u0026nbsp;the upper no-arbitrage bound of a call price is the underlying's spot price.\u003c/p\u003e",
+                    "75017420-85f1-4598-bf8c-98ac8e6a7a07": "\u003cp\u003eIncorrect because the lower (not upper)\u0026nbsp;bound of a call price is the underlying’s price minus (not plus) the present value of its exercise price or zero, whichever is greater.\u0026nbsp;Instead,\u0026nbsp;the upper no-arbitrage bound of a call price is the underlying's spot price.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "286647e5-d3a7-432f-8d06-1ba91ea38fe2",
+                            "itemBody": "\u003cp\u003eA. underlying's price.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "75017420-85f1-4598-bf8c-98ac8e6a7a07",
+                            "itemBody": "\u003cp\u003eB. underlying’s price plus the present value of its exercise price or zero, whichever is greater.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "33b1e4af-cb05-4886-a661-05c64add73f2",
+                            "itemBody": "\u003cp\u003eC. underlying’s price minus the present value of its exercise price or zero, whichever is greater.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8983,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4742,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56306",
+            "entry": {
+                "title": "ITEM_CFA-L1-02296",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf the price of the underlying is $57, which of the following long option positions is out of the money? A:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9056b4f3-bac1-48e4-8d14-f4f26970f95f"
+                },
+                "answerFeedback": {
+                    "0f0826d4-6ac2-4d20-a346-06f332541e22": "\u003cp\u003e\u003cspan\u003e\u003cspan\u003eIncorrect because when the underlying is beyond the exercise price in the appropriate direction (higher for a call, lower for a put), the option is said to be in-the-money.\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003cspan\u003eAs the underlying price of $57 is lower than the strike price of $60, the put is in the money, not out of the money.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                    "21a2a604-b324-4df8-8f0c-7fd7fc41431c": "\u003cp\u003e\u003cspan\u003e\u003cspan\u003eIncorrect because w\u003cspan\u003ehen the underlying is beyond the exercise price in the appropriate direction (higher for a call, lower for a put), the option is said to be in-the-money.\u003c/span\u003e\u0026nbsp;In this case, as the underlying price of $57 is higher than the strike price of $50, the call is in the money, not out of the money.\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "9056b4f3-bac1-48e4-8d14-f4f26970f95f": "\u003cp\u003e\u003cspan\u003e\u003cspan\u003eCorrect because when the underlying has not reached the exercise price (currently lower for a call, higher for a put), the option is said to be out-of-the-money. In this case, as the underlying price of $57 is higher than the strike price of $50, the put is out of the money.\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0f0826d4-6ac2-4d20-a346-06f332541e22",
+                            "itemBody": "\u003cp\u003eA. put with a strike price of $60\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9056b4f3-bac1-48e4-8d14-f4f26970f95f",
+                            "itemBody": "\u003cp\u003eB. put with a strike price of $50\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "21a2a604-b324-4df8-8f0c-7fd7fc41431c",
+                            "itemBody": "\u003cp\u003eC. call with a strike price of $50\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8983,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4742,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56307",
+            "entry": {
+                "title": "ITEM_CFA-L1-01692",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eA put option with the greatest moneyness has a strike price:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "be7f5068-efa4-4bda-bb59-7131f7fd6128"
+                },
+                "answerFeedback": {
+                    "38459c9b-e9e1-43ba-85d1-93f41a57d908": "\u003cp\u003e\u003cspan\u003e\u003cspan\u003eIncorrect because when the underlying has not reached the exercise price (currently lower for a call, higher for a put), the option is said to be out-of-the-money. Only in-the-money puts have moneyness.\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "be7f5068-efa4-4bda-bb59-7131f7fd6128": "\u003cp\u003e\u003cspan\u003e\u003cspan\u003eCorrect because hen the underlying is beyond the exercise price in the appropriate direction (higher for a call, lower for a put), the option is said to be in-the-money.\u0026nbsp;In addition, for puts to expire in-the-money, the value of the underlying must fall below the exercise price. The higher the exercise price, the better chance the underlying has of getting below it. Likewise, if the value of the underlying does fall below the exercise price, the higher the exercise price, the greater the payoff. So, if X is higher, S\u003csub\u003eT\u003c/sub\u003e will be below it more often, and if S\u003csub\u003eT\u003c/sub\u003e is less than X, the payoff of X – S\u003csub\u003eT\u003c/sub\u003e is greater, the higher is X for whatever value of S\u003csub\u003eT\u003c/sub\u003e occurs. Therefore, a put option with the greatest moneyness has a strike price \u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan\u003egreater than the price of the underlying.\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "cc94b6e5-df9f-4aec-a9b7-a6b0f85e930e": "\u003cp\u003e\u003cspan\u003eIncorrect because when the underlying is precisely at the exercise price, the option is said to be at-the-money.\u0026nbsp;Only in-the-money put options have moneyness.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "38459c9b-e9e1-43ba-85d1-93f41a57d908",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eless than the price of the underlying.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "cc94b6e5-df9f-4aec-a9b7-a6b0f85e930e",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eequal to the price of the underlying.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "be7f5068-efa4-4bda-bb59-7131f7fd6128",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003egreater than the price of the underlying.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8983,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4742,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56308",
+            "entry": {
+                "title": "ITEM_CFA-L1-04808",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following European options has the greatest value at expiration? A:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a57f3c9b-57dd-4fa0-8f8f-9df90ba75184"
+                },
+                "answerFeedback": {
+                    "1fc13d46-70c0-41c9-b2c9-42859aae9cb3": "\u003cp\u003e\u003cspan\u003e\u003cspan\u003eIncorrect because, as described in the response rationale for the correct answer, the value of the call option at expiration is: c\u003csub\u003eT\u003c/sub\u003e = Max(0,S\u003csub\u003eT\u003c/sub\u003e – X). Therefore, a call option with an exercise price of 83 and an underlying priced at 70 will have a value: c\u003csub\u003eT\u003c/sub\u003e = Max(0, 70 – 83)= 0, which is less than 11 for the case of the correct answer.\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "8eefa07b-1ad3-4e79-93c1-96140a4bf05d": "\u003cp\u003e\u003cspan\u003e\u003cspan\u003eIncorrect because the put is worth the greater of either zero or the exercise price minus the price of the underlying at expiration. That is, p\u003csub\u003eT\u003c/sub\u003e = Max(0,X – S\u003csub\u003eT\u003c/sub\u003e). Therefore, a European \u003cspan\u003eput with an exercise price of 70 and an underlying priced at 83 will have a value: p\u003csub\u003eT\u003c/sub\u003e = Max (0,70 – 83)= 0\u003cspan\u003e, which is less than 11 for the case of the correct answer\u003c/span\u003e.\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "a57f3c9b-57dd-4fa0-8f8f-9df90ba75184": "\u003cp\u003e\u003cspan\u003e\u003cspan\u003eCorrect because the value of the call\u0026nbsp;option at expiration is the greater of either zero or the underlying price at expiration minus the exercise price, which is typically written as: c\u003csub\u003eT\u003c/sub\u003e = Max(0,S\u003csub\u003eT\u003c/sub\u003e – X), where c\u003csub\u003eT\u003c/sub\u003e= call option price at expiration and S\u003csub\u003eT\u003c/sub\u003e= underlying price at expiration. Therefore, a call option with an exercise price of 72 and an underlying priced at 83 will have a value: c\u003csub\u003eT\u003c/sub\u003e = Max(0, 83 – 72)= 11.\u0026nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a57f3c9b-57dd-4fa0-8f8f-9df90ba75184",
+                            "itemBody": "\u003cp\u003eA. call with an exercise price of 72 and an underlying priced at 83\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1fc13d46-70c0-41c9-b2c9-42859aae9cb3",
+                            "itemBody": "\u003cp\u003eB. call with an exercise price of 83 and an underlying priced at 70\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8eefa07b-1ad3-4e79-93c1-96140a4bf05d",
+                            "itemBody": "\u003cp\u003eC. put with an exercise price of 70 and an underlying priced at 83\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8983,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4742,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56309",
+            "entry": {
+                "title": "ITEM_CFA-L1-06694",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eAll else being equal, if the exercise values of a European call option and a European put option on the same underlying are equal, both options must be:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d2650f93-d347-4696-9055-c0998a7a70ac"
+                },
+                "answerFeedback": {
+                    "067952f5-aff4-49e6-a311-e3147d32616b": "\u003cp\u003eIncorrect because the exercise value of a European call is the greater of zero or the value of the underlying minus the exercise price.\u0026nbsp;And the exercise value of a European put is the greater of zero or the exercise price minus the value of the underlying.\u0026nbsp;This means if the call option is in-the-money (out-of-money), the put option on the same strike will be out-of-the money (in-the-money). That is, if the exercise value of a call (put) option is positive, the exercise value of a put (call) option will be zero. Therefore, all else being equal, if the exercise values of a European call option and a European put option are the same, then the European call and the European put cannot both be out-of-the money options.\u0026nbsp;\u003c/p\u003e",
+                    "bc53b81f-764b-45ad-abf2-525406575ea9": "\u003cp\u003eIncorrect because the exercise value of a European call is the greater of zero or the value of the underlying minus the exercise price.\u0026nbsp;And the exercise value of a European put is the greater of zero or the exercise price minus the value of the underlying.\u0026nbsp;This means if the call option is in-the-money (out-of-money), the put option on the same strike will be out-of-the money (in-the-money). That is, if the exercise value of a call (put) option is positive, the exercise value of a put (call) option will be zero. Therefore, all else being equal, if the exercise values of a European call option and a European put option are the same, then the European call and the European put cannot both be in-the-money options.\u0026nbsp;\u003c/p\u003e",
+                    "d2650f93-d347-4696-9055-c0998a7a70ac": "\u003cp\u003eCorrect because the value of a European call at expiration is the exercise value, which is the greater of zero or the value of the underlying minus the exercise price.\u0026nbsp;And the value of a European put at expiration is the exercise value, which is the greater of zero or the exercise price minus the value of the underlying.\u0026nbsp;This means if the call option is in-the-money (out-of-the-money), the put option of the same strike will be out-of-the-money (in-the-money). That is, if the exercise value of a call (put) option is positive, the exercise value of a put (call) option will be zero. But when the underlying is precisely at the exercise price (the option is said to be at-the-money), the exercise value of a European call and a European put will the same, which is zero. Therefore, all else being equal, if the exercise values of a European call option and a European put option are the same, then the European call and the European put must be both at-the-money options.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bc53b81f-764b-45ad-abf2-525406575ea9",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003ein-the-money options.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d2650f93-d347-4696-9055-c0998a7a70ac",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eat-the-money options.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "067952f5-aff4-49e6-a311-e3147d32616b",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eout-of-the-money options.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8983,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4742,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56310",
+            "entry": {
+                "title": "ITEM_CFA-L1-06984",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eThe value of a long position in a European put option is directly related to the:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e4034606-5986-4e68-b468-db443dac08b0"
+                },
+                "answerFeedback": {
+                    "1f0a8efa-beb4-47bb-b64a-c6296ef1a2dc": "\u003cp\u003eIncorrect because the value of a European put is inversely related to the risk-free interest rate,\u0026nbsp;not directly related.\u0026nbsp;\u003c/p\u003e",
+                    "b8151bab-91f6-4f15-85d4-8ba1ad9aa569": "\u003cp\u003eIncorrect because the value of a European put option is inversely related to the value of the underlying, not directly related.\u0026nbsp;\u003c/p\u003e",
+                    "e4034606-5986-4e68-b468-db443dac08b0": "\u003cp\u003eCorrect because the value of a European put option is directly related to the exercise price.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e4034606-5986-4e68-b468-db443dac08b0",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eexercise price.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1f0a8efa-beb4-47bb-b64a-c6296ef1a2dc",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003erisk-free interest rate.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "b8151bab-91f6-4f15-85d4-8ba1ad9aa569",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003evalue of the underlying.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8983,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4742,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56311",
+            "entry": {
+                "title": "ITEM_CFA-L1-07364",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eThe current price of the underlying is $7.40 and the annual risk-free rate is 6%. The minimum price for a 6-month call option with a strike price of $7.50 is \u003ci\u003eclosest\u003c/i\u003e to:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "598a1de2-615f-4c78-836d-59d1e67b13b3"
+                },
+                "answerFeedback": {
+                    "598a1de2-615f-4c78-836d-59d1e67b13b3": "\u003cp\u003eCorrect because the price for a European call option is known to satisfy the formula \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e ≥ Max[0,\u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e – \u003ci\u003eX\u003c/i\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003csup\u003e\u003cem\u003eT\u003c/em\u003e\u003c/sup\u003e]\u0026nbsp;where \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e is the current price of the European call option, \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e is the current stock price, \u003ci\u003eX\u003c/i\u003e is the strike price, \u003ci\u003er\u003c/i\u003e is the risk-free interest rate and \u003ci\u003eT\u003c/i\u003e is time. \u0026nbsp;Therefore the minimum price is equal to Max[0,$7.40 – $7.50/(1.06)\u003csup\u003e6/12\u003c/sup\u003e] = Max[0,$7.40 – $7.28] = Max[0,$0.12] = $0.12.\u0026nbsp;\u003c/p\u003e",
+                    "bb85d40e-1193-450a-9d5d-9053470da654": "\u003cp\u003eIncorrect because the price for a European call option is known to satisfy the formula \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e ≥ Max[0, \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e – \u003ci\u003eX\u003c/i\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003csup\u003eT\u003c/sup\u003e]\u0026nbsp;where \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e is the current price of the European call option, \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e is the current stock price, \u003ci\u003eX\u003c/i\u003e is the strike price, \u003ci\u003er\u003c/i\u003e is the risk-free interest rate and \u003ci\u003eT\u003c/i\u003e is time. \u0026nbsp;The minimum price is therefore not equal to Max [0,\u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e – \u003ci\u003eX\u003c/i\u003e] = Max[0,$7.40 – $7.50] = Max[0,−$0.10] = $0.00.\u0026nbsp;\u003c/p\u003e",
+                    "dce04dff-2700-4a5e-90e2-f4b1109a97f5": "\u003cp\u003eIncorrect because the price for a European call option is known to satisfy the formula \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e ≥ Max[0, \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e – \u003ci\u003eX\u003c/i\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003csup\u003eT\u003c/sup\u003e]\u0026nbsp;where \u003ci\u003ec\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e is the current price of the European call option, \u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e is the current stock price, \u003ci\u003eX\u003c/i\u003e is the strike price, \u003ci\u003er\u003c/i\u003e is the risk-free interest rate and \u003ci\u003eT\u003c/i\u003e is time. The minimum price therefore is not equal to Max[0, \u003ci\u003eX\u003c/i\u003e – (\u003ci\u003eS\u003c/i\u003e\u003csub\u003e0\u003c/sub\u003e/(1 + \u003ci\u003er\u003c/i\u003e)\u003csup\u003e\u003cem\u003eT\u003c/em\u003e\u003c/sup\u003e)] = Max[0,$7.50 – ($7.40/(1.06)\u003csup\u003e6/12\u003c/sup\u003e)] = Max[0,$7.50 – $7.19] = $0.31.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bb85d40e-1193-450a-9d5d-9053470da654",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$0.00.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "598a1de2-615f-4c78-836d-59d1e67b13b3",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$0.12.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "dce04dff-2700-4a5e-90e2-f4b1109a97f5",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e$0.31.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8983,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4742,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56312",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Lee-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003eThe upper bound of a put value is the:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "53e38bd7-d420-4056-b55d-fd21e82bf770"
+                },
+                "answerFeedback": {
+                    "53e38bd7-d420-4056-b55d-fd21e82bf770": "\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003eCorrect because the exercise price,\u0026nbsp;\u003ci\u003eX\u003c/i\u003e, therefore represents the\u0026nbsp;\u003ci\u003eupper\u0026nbsp;\u003c/i\u003ebound on the put value.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "a2fc443e-ce45-4c2c-8b95-ee69fe155613": "\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003eIncorrect because this is the upper bound of a call price, not a put value. The call buyer will not pay more for the right to purchase an underlying than the price of that underlying, which is the\u0026nbsp;\u003ci\u003eupper\u0026nbsp;\u003c/i\u003ebound.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                    "eba4fcd7-df93-417c-a9f2-bc6124d7d3ad": "\u003cp\u003e\u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003eIncorrect because this distractor represents\u0026nbsp;the lower bound of a put value and not the upper bound, as the \u003ci\u003elower\u0026nbsp;\u003c/i\u003ebound is the present value of the exercise price minus the spot price or zero, whichever is greater.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "53e38bd7-d420-4056-b55d-fd21e82bf770",
+                            "itemBody": "\u003cp\u003eA. \u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003eexercise price.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a2fc443e-ce45-4c2c-8b95-ee69fe155613",
+                            "itemBody": "\u003cp\u003eB. \u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003eprice of the underlying.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "eba4fcd7-df93-417c-a9f2-bc6124d7d3ad",
+                            "itemBody": "\u003cp\u003eC. \u003cspan\u003e\u003cspan style=\"font-style:normal\"\u003e\u003cspan\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"letter-spacing:normal\"\u003e\u003cspan style=\"text-transform:none\"\u003e\u003cspan style=\"white-space:normal\"\u003e\u003cspan style=\"word-spacing:0px\"\u003e\u003cspan style=\"text-decoration:none\"\u003epresent value of the exercise price minus the spot price.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8983,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4742,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56313",
+            "entry": {
+                "title": "ITEM_2019BDeriv03DPQ",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eThe value of a European call option is inversely related to the:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2804e183-cb7f-4332-a7d1-fc8416e17a07"
+                },
+                "answerFeedback": {
+                    "2804e183-cb7f-4332-a7d1-fc8416e17a07": "\u003cp\u003eCorrect because the value of a European call option is inversely related to the exercise price.\u003c/p\u003e",
+                    "7b307041-80c7-4f93-84f9-549d3eddb566": "\u003cp\u003eIncorrect because the value of a European call option is directly related to the time to expiration. Therefore, a European call option is not inversely related to the time to expiration.\u003c/p\u003e",
+                    "e14c0cc9-e1c1-48cf-ab43-001bf1a4c120": "\u003cp\u003eIncorrect because the value of a European call is directly related to the risk-free interest rate. Therefore, a European call option is not inversely related to the risk-free interest rate.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2804e183-cb7f-4332-a7d1-fc8416e17a07",
+                            "itemBody": "\u003cp\u003eA. exercise price.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7b307041-80c7-4f93-84f9-549d3eddb566",
+                            "itemBody": "\u003cp\u003eB. time to expiration.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e14c0cc9-e1c1-48cf-ab43-001bf1a4c120",
+                            "itemBody": "\u003cp\u003eC. risk-free interest rate.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8983,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4742,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56314",
+            "entry": {
+                "title": "ITEM_CFA-L1-07458",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eAll else being equal, if the risk-free rate increases, the value of a European put option:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "71726fb2-e0ad-4960-99d5-10143bb1744b"
+                },
+                "answerFeedback": {
+                    "5b24de71-d196-4296-9e22-63540a31dbbb": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eIncorrect because the value of a European put option does not remain the same if the risk-free rate increases; its value decreases, as described in the response rationale for the correct answer.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                    "71726fb2-e0ad-4960-99d5-10143bb1744b": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eCorrect because the value of a European put is inversely related to the risk-free interest rate. Therefore, an increase in the risk-free rate decreases the value of a European put option.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e",
+                    "a6ecc1a2-b23a-430f-9e82-f0f2d95c4ca3": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eIncorrect because the value of a European put option does not increase if the risk-free rate increases; its value decreases, as described in the response rationale for the correct answer.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "71726fb2-e0ad-4960-99d5-10143bb1744b",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003edecreases.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5b24de71-d196-4296-9e22-63540a31dbbb",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eremains the same.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a6ecc1a2-b23a-430f-9e82-f0f2d95c4ca3",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eincreases.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8983,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4742,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56315",
+            "entry": {
+                "title": "ITEM_CFA-L1-06141",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eFor a European call option with one month until expiration, if the spot price is below the exercise price, the call option \u003ci\u003emost likely\u003c/i\u003e has:\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "de376c08-d6de-42bb-a13f-04b2ab7fc816"
+                },
+                "answerFeedback": {
+                    "43fc5c52-b180-4732-a8a9-58a726e5c56d": "\u003cp\u003eIncorrect because the option has zero intrinsic value, as explained in the correct answer.\u0026nbsp;\u003c/p\u003e",
+                    "c1716cb3-e94c-442e-8556-8ebfcfade1a0": "\u003cp\u003eIncorrect because \u003cspan\u003ethe option has zero intrinsic value, as explained in the correct answer.\u003c/span\u003e\u0026nbsp;\u003c/p\u003e",
+                    "de376c08-d6de-42bb-a13f-04b2ab7fc816": "\u003cp\u003eCorrect because a European call option with two months until expiration will typically have positive time value, where time value reflects the value of the uncertainty that arises from the volatility in the underlying.\u0026nbsp;In addition, cT = Max (0, ST – X)\u0026nbsp;or intrinsic value equals the greater of zero or the value of the underlying minus exercise price.\u0026nbsp;The call option is out-of-the-money and therefore, has zero intrinsic value.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "de376c08-d6de-42bb-a13f-04b2ab7fc816",
+                            "itemBody": "\u003cp\u003eA. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003epositive time value only.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "43fc5c52-b180-4732-a8a9-58a726e5c56d",
+                            "itemBody": "\u003cp\u003eB. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003epositive intrinsic value only.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c1716cb3-e94c-442e-8556-8ebfcfade1a0",
+                            "itemBody": "\u003cp\u003eC. \u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003eboth positive time value and positive intrinsic value.\u003c/span\u003e\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8983,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4742,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51240",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe Viswan Family Office (VFO) owns non-dividend-paying shares of Biomian Limited that are currently priced (\u003cem\u003eS\u003csub\u003e0\u003c/sub\u003e\n               \u003c/em\u003e) at INR 295 per share. VFO’s CIO is considering an offer to sell shares at a forward price (\u003cem\u003eF\u003csub\u003e0\u003c/sub\u003e\n               \u003c/em\u003e(\u003cem\u003eT\u003c/em\u003e)) of INR 300.84 per share in six months based on a risk-free rate of 4%. You have been asked to advise on the purchase of a put option or the sale of a call option with an exercise price (\u003cem\u003eX\u003c/em\u003e) equal to the forward price (\u003cem\u003eF\u003csub\u003e0\u003c/sub\u003e\n               \u003c/em\u003e(\u003cem\u003eT\u003c/em\u003e)) as alternatives to a forward share sale.\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8249,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51241",
+            "entry": {
+                "title": "CFA1006-s08-Q1",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The exercise value of both the call and put options are zero because the present value of the exercise price is INR 295, which is equivalent to the stock price of INR 295. Thus, both option premiums reflect time value only. A is incorrect as this statement does not properly account for the discounting of the exercise price. B is incorrect as the call option’s premium does not reflect exercise value.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements correctly describes the put option and call option premiums given the relationship between Biomian’s current price of INR 295 and the exercise price equal to the forward price of INR 300.84?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2e0215f8-f7a4-4101-ac16-cfb741adc35f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "16f121fd-53fc-4e19-8336-4c8bfeb05f04",
+                            "itemBody": "A. The call option’s premium consists solely of time value, and the put option’s premium consists solely of exercise value.",
+                            "position": 1
+                        },
+                        {
+                            "id": "e4bf083f-26d7-456a-831b-0231e63c354d",
+                            "itemBody": "B. The call option’s premium consists solely of exercise value, and the put option’s premium consists solely of time value.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2e0215f8-f7a4-4101-ac16-cfb741adc35f",
+                            "itemBody": "C. The call option’s premium consists solely of time value, and the put option’s premium consists solely of time value.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8249,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": "51240"
+        },
+        {
+            "id": "51242",
+            "entry": {
+                "title": "CFA1006-s08-Q2",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The time value component of an option premium declines toward zero as time passes toward the expiration date. A purchased option declines in value, all else equal, because of the time value decline. A sold option increases in value, all else equal, because of the time value decline. A is incorrect as time value decay is a cost to the purchased put option strategy, and B is incorrect as time value decay is a benefit to the sold option strategy.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements correctly describes an important distinction between the two strategies of buying a put option and selling a call option with respect to option time value decay?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fde64ef3-0763-4707-81b2-0555db368f96"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "893afaf1-0cb1-4fe5-99e3-b163eda2b0fa",
+                            "itemBody": "A. Time value decay is a benefit to both option strategies.",
+                            "position": 1
+                        },
+                        {
+                            "id": "14fa5a25-b2ca-4c1f-9877-266a29dcda92",
+                            "itemBody": "B. Time value decay is a cost to both option strategies.",
+                            "position": 2
+                        },
+                        {
+                            "id": "fde64ef3-0763-4707-81b2-0555db368f96",
+                            "itemBody": "C. Time value decay is a benefit to selling a call option and a cost to buying a put option.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8249,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": "51240"
+        },
+        {
+            "id": "51243",
+            "entry": {
+                "title": "CFA1006-s08-Q3",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. The loss on the forward sale will be greater than the loss on the purchased put at maturity if Biomian’s share price exceeds the forward price by more than the initial put premium. VFO’s downside return is limited to the put premium paid, while the forward sale has unlimited downside as Biomian shares appreciate. A is incorrect as it does not take the put premium paid into account, while C is incorrect as the time value of an option is equal to zero at maturity.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eVFO is considering the purchase of the put option to hedge against a decline in Biomian’s share price. Which of the following statements best characterizes the trade-off between the put and the forward based on no-arbitrage pricing?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d130984a-7289-413b-bad6-9fb62847da54"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d946285a-d66a-4dd6-bc45-661724289a55",
+                            "itemBody": "\u003cp\u003eA. The gain on the forward sale will \u003cem\u003eequal \u003c/em\u003ethe purchased put option’s profit at maturity \u003cem\u003eprovided \u003c/em\u003ethe put option ends up in the money at maturity.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d130984a-7289-413b-bad6-9fb62847da54",
+                            "itemBody": "\u003cp\u003eB. The loss on the forward sale will \u003cem\u003eexceed \u003c/em\u003ethe loss on the purchased put at maturity if Biomian’s share price exceeds the forward price by more than the initial put premium paid.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "e0ef7771-aeb0-481f-88dc-affb5684ff17",
+                            "itemBody": "C. We do not have enough information to answer this question, since we do not know the time value of the option at maturity.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8249,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": "51240"
+        },
+        {
+            "id": "51244",
+            "entry": {
+                "title": "CFA1006-s08-Q4",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. The put exercise price, \u003cem\u003eX\u003c/em\u003e (equal to \u003cem\u003eF\u003csub\u003e0\u003c/sub\u003e \u003c/em\u003e(\u003cem\u003eT\u003c/em\u003e) in this case), represents the \u003cem\u003eupper\u003c/em\u003e bound on the put value, while the \u003cem\u003elower\u003c/em\u003e bound is the greater of the present value of the exercise price minus the spot price and zero:\u003c/p\u003e\n\u003cdiv id=\"CFA1006-s08-E-2-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmtext\u003eMax\u003c/mtext\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmtext\u003e\u0026nbsp;\u003c/mtext\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003et\u003c/mi\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e\u0026lt;\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ep\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003c/msub\u003e \u003cmo\u003e≤\u003c/mo\u003e \u003cmi\u003eX\u003c/mi\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect, as the \u003cem\u003elower\u003c/em\u003e bound of the put price is the greater of zero and the present value of the exercise price minus the spot price, not the present value of the spot price minus the exercise price. B is incorrect, as the \u003cem\u003elower\u003c/em\u003e, not the upper, bound of the put price equals the present value of the exercise price minus the spot price.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn evaluating the purchased put strategy (with \u003cem\u003eX\u003c/em\u003e = \u003cem\u003eF\u003csub\u003e0\u003c/sub\u003e\n                  \u003c/em\u003e(\u003cem\u003eT\u003c/em\u003e)), the CIO has asked you to consider selling the put in three months’ time if its price appreciates over that period. Which of the following best characterizes the no-arbitrage put price at that time?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3b64e09a-d9f8-4826-b319-848412bbb783"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f8133dff-947b-478d-b16f-f55e7e865d24",
+                            "itemBody": "A. As VFO will exercise only if the spot price is below the exercise price, the lower bound of the put price is the greater of zero and the present value of the spot price minus the exercise price.",
+                            "position": 1
+                        },
+                        {
+                            "id": "0e7dd62d-0dbb-463e-b394-e717a374f162",
+                            "itemBody": "B. As VFO will exercise only if the spot price is below the exercise price, the upper bound of the put price equals the present value of the exercise price minus the spot price.",
+                            "position": 2
+                        },
+                        {
+                            "id": "3b64e09a-d9f8-4826-b319-848412bbb783",
+                            "itemBody": "C. The put price can be no greater than the forward price and no less than the greater of zero and the present value of the exercise price minus the spot price.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8249,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": "51240"
+        },
+        {
+            "id": "51245",
+            "entry": {
+                "title": "CFA1006-s08-Q5",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. The option price is equal to the sum of the exercise value and the time value. A call option’s exercise value is equal to the greater of zero and the spot price minus the present value of the exercise price:\u003c/p\u003e\n\u003cdiv id=\"CFA1006-s08-E-2-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmi\u003eM\u003c/mi\u003e \u003cmi\u003ea\u003c/mi\u003e \u003cmi\u003ex\u003c/mi\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmtext\u003e\u0026nbsp;\u003c/mtext\u003e \u003cmsub\u003e \u003cmi\u003eS\u003c/mi\u003e \u003cmi\u003et\u003c/mi\u003e \u003c/msub\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003eX\u003c/mi\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmi\u003er\u003c/mi\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmi\u003eT\u003c/mi\u003e \u003cmo\u003e−\u003c/mo\u003e \u003cmi\u003et\u003c/mi\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cdiv id=\"CFA1006-s08-E-2-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e= Max(0, INR325 − INR300.84(1.04)\u003csup\u003e-0.25\u003c/sup\u003e)\u003c/div\u003e\n\u003cdiv id=\"CFA1006-s08-E-2-___3\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e= INR27.10\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe time value is equal to the call price minus the exercise value, or INR 19.31 (= INR46.41 − INR27.10). A is incorrect as it takes the spot price minus the exercise price as the exercise value, while C calculates the exercise value as the present value of the spot price minus the exercise price.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eVFO is considering a sold call strategy to generate income from the sale of a call. In your scenario analysis of the sold call option alternative, VFO has asked you to value the call option in three months’ time if Biomian’s spot price is INR 325 per share. Given an estimated call price of INR 46.41 at that time, which of the following correctly reflects the relationship between the call’s exercise value and its time value?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f8ef218e-896d-4364-9305-988b09f1a87a"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bafa9259-d793-4c8a-9c8e-f518c5784c44",
+                            "itemBody": "A. The call’s exercise value is INR 24.16, and its time value is INR 22.25.",
+                            "position": 1
+                        },
+                        {
+                            "id": "f8ef218e-896d-4364-9305-988b09f1a87a",
+                            "itemBody": "B. The call’s exercise value is INR 27.10, and its time value is INR 19.31.",
+                            "position": 2
+                        },
+                        {
+                            "id": "675ef5db-9218-47b1-a05d-142274efd968",
+                            "itemBody": "C. The call’s exercise value is INR 20.99, and its time value is INR 25.42.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8249,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": "51240"
+        },
+        {
+            "id": "51246",
+            "entry": {
+                "title": "CFA1006-s08-Q6",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. To replicate selling a call option, combine shorting the\n                  underlying with risk-free lending. This is exactly the opposite strategy to\n                  replicate buying a call option in which the underlying is purchased with proceeds\n                  from risk-free borrowing. A is incorrect as this statement describes replicating\n                  buying a call option. C is incorrect as selling short and borrowing initially\n                  creates two cash inflows at \u003cem\u003et\u003c/em\u003e = 0 followed by two cash outflows\n                  at \u003cem\u003et\u003c/em\u003e = \u003cem\u003eT\u003c/em\u003e. \u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements correctly describes how VFO could replicate selling a call option on Biomian if exercise is certain?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ba12de9b-58df-47d2-b31c-a3018323ca0d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "83c96dbc-c418-47ab-a7d3-4cf2997cbeea",
+                            "itemBody": "A. Borrow X(1 + r)–T at the risk-free rate and use the proceeds to buy Biomian stock at the current spot price, S 0. At expiration, sell the Biomian stock and use the proceeds to pay off the loan.",
+                            "position": 1
+                        },
+                        {
+                            "id": "ba12de9b-58df-47d2-b31c-a3018323ca0d",
+                            "itemBody": "B. Sell short Biomian stock at the current spot price, S 0, and use the proceeds to lend X(1 + r)–T at the risk-free rate. At expiration, receive X as repayment of the risk-free loan and buy back the Biomian stock.",
+                            "position": 2
+                        },
+                        {
+                            "id": "f3ca3bd0-33ba-498e-bfc6-4a3986b8c2d7",
+                            "itemBody": "C. Sell short Biomian stock at the current spot price, S 0, and borrow X(1 + r)–T at the risk-free rate. At expiration, pay off the risk-free loan of X and buy back the Biomian stock.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8249,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": "51240"
+        },
+        {
+            "id": "51247",
+            "entry": {
+                "title": "CFA1006-s08-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is C. An increase in the volatility of the underlying share price will increase both the upfront premium received on the sold call option and the premium paid on the purchased put option. Therefore, since the purchased put strategy involves an increased upfront payment made by VFO and the sold call strategy involves an increased premium received, the volatility increase will increase the attractiveness of the call strategy versus the put strategy.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn comparing the sold call and purchased put strategies at the forward price,\n                  VFO’s CIO is concerned about how an increase in the volatility of the underlying\n                  Biomian shares affects option premiums. Which of the following statements about\n                  volatility change and its effect on strategy is most accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "84335cfe-d423-45ef-a95a-88bc773ed198"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b8f2da98-43d9-4de8-8a24-c4d0b0ac8aa9",
+                            "itemBody": "\u003cp\u003eA. An increase in the volatility of the underlying shares has the \u003cem\u003esame \u003c/em\u003eeffect on call and put option values, so this change should not affect VFO’s strategy decision.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e170f6de-3ec4-48d1-87f8-0e0543e4f75c",
+                            "itemBody": "\u003cp\u003eB. Since changes in the volatility of the underlying shares have the \u003cem\u003eopposite \u003c/em\u003eeffect on put versus call options, this change will increase the attractiveness of the put strategy versus the call strategy.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "84335cfe-d423-45ef-a95a-88bc773ed198",
+                            "itemBody": "\u003cp\u003eC. An increase in the volatility of the underlying shares will increase both the \u003cem\u003ecost \u003c/em\u003eof the purchased put strategy and the premium received on the sold call strategy, so this change will increase the attractiveness of the call strategy versus the put strategy.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8249,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": "51240"
+        },
+        {
+            "id": "51248",
+            "entry": {
+                "title": "CFA1006-s08-Q8",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe correct answer is B. Changes in the time to expiration tend to have a similar directional effect on the put and call strategies (the only exception being deep-in-the-money put options in some cases), while changes in the exercise price and the risk-free rate tend to have the opposite effect.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Because both option strategies (buy a put or sell a call) are short strategies, VFO is delaying cash inflows so higher risk-free rates are negative. A is incorrect as this statement describes the value effect from buying a call option, not from selling. B is incorrect as the locked-in premium will decline after rising risk-free rates.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIn comparing the Biomian purchased put and sold call strategies, which of the following statements is most correct about how the call and put values are affected by changes in factors other than volatility?\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e\u0026nbsp;\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "64589208-356e-4b65-b9b6-0089af184e4e"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "9b93457b-703e-4064-89b0-ef6ee21690cb",
+                            "itemBody": "A. Changes in the time to expiration and the risk-free rate have a similar directional effect on the put and call strategies, while changes in the exercise price tend to have the opposite effect.",
+                            "position": 1
+                        },
+                        {
+                            "id": "64589208-356e-4b65-b9b6-0089af184e4e",
+                            "itemBody": "B. Changes in the time to expiration tend to have a similar directional effect on the put and call strategies, while changes in the exercise price and the risk-free rate tend to have the opposite effect.",
+                            "position": 2
+                        },
+                        {
+                            "id": "88857d00-85af-47b7-b377-493f30cfaa9c",
+                            "itemBody": "C. Changes in the risk-free rate have a similar directional effect on the put and call strategies, while changes in the exercise price and the time to expiration tend to have the opposite effect.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8249,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": "51240"
+        },
+        {
+            "id": "51249",
+            "entry": {
+                "title": "CFA1006-s08-Q9",
+                "feedback": {
+                    "neutral": "\n                  \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Because both option strategies (buy a put or sell a call) are short strategies, VFO is delaying cash inflows so higher risk-free rates are negative. A is incorrect as this statement describes the value effect from buying a call option, not from selling. B is incorrect as the locked-in premium will decline after rising risk-free rates.\u003c/p\u003e\n               "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eVFO is concerned about the potential for increasing interest rates in the future. Which of the following statements provides the most correct description as to how rising rates after entering into the two option strategies would affect the option valuations?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "357fc41b-9f36-481b-a649-4dc08af3aede"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5e082abb-3982-4514-9765-3f8658ca7811",
+                            "itemBody": "A. Rising risk-free rates would make the selling a call option strategy more advantageous to VFO because call options increase in value with higher risk-free rates.",
+                            "position": 1
+                        },
+                        {
+                            "id": "afc44dcd-9894-495c-8003-44a5d2471552",
+                            "itemBody": "B. Rising risk-free rates would make the buying a put option strategy more advantageous to VFO because the company locks in the put option premium at lower interest rates.",
+                            "position": 2
+                        },
+                        {
+                            "id": "357fc41b-9f36-481b-a649-4dc08af3aede",
+                            "itemBody": "C. Rising risk-free rates are a negative for both option strategies.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8249,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": "51240"
+        },
+        {
+            "id": "53937",
+            "entry": {
+                "title": "ITEM_20170601047",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf the exercise price of a European put option at expiration is below the price of the underlying, the value of the option is\u003ci\u003e most likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "25e13690-48fb-43a7-a84c-0d86ca258e40"
+                },
+                "answerFeedback": {
+                    "10c1f231-b007-49b1-a0f5-3e25e5e1ea05": "\u003cp\u003eIncorrect. For the option to have a positive value, exercise price must be above the price of underlying.\u003c/p\u003e",
+                    "25e13690-48fb-43a7-a84c-0d86ca258e40": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e If the exercise price of a European put option is below the underlying price at expiration, the option is worthless and has a value of zero.\u003c/p\u003e",
+                    "da791569-8073-4e72-933d-78c86b64faa5": "\u003cp\u003eIncorrect. The value of an option can never be negative.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "da791569-8073-4e72-933d-78c86b64faa5",
+                            "itemBody": "\u003cp\u003eA. less than zero.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "25e13690-48fb-43a7-a84c-0d86ca258e40",
+                            "itemBody": "\u003cp\u003eB. equal to zero.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "10c1f231-b007-49b1-a0f5-3e25e5e1ea05",
+                            "itemBody": "\u003cp\u003eC. greater than zero.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8696,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53938",
+            "entry": {
+                "title": "ITEM_20170601051",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eHolding other factors constant, the value of a European put option will \u003ci\u003emost likely\u003c/i\u003e decrease as the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "63ef0a56-5bcb-4de7-b839-b61a2fe7d107"
+                },
+                "answerFeedback": {
+                    "079801a3-5574-4c00-a199-a78e9652449b": "\u003cp\u003eIncorrect. The value of a European put option will increase as the volatility of the underlying increases.\u003c/p\u003e",
+                    "55eda7b9-3af4-4930-83c9-4b55993a1d6c": "\u003cp\u003eIncorrect. The value of a European put option will increase as the value of the underlying decreases.\u003c/p\u003e",
+                    "63ef0a56-5bcb-4de7-b839-b61a2fe7d107": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The value of a European put option will decrease as the risk-free interest rate increases.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "63ef0a56-5bcb-4de7-b839-b61a2fe7d107",
+                            "itemBody": "\u003cp\u003eA. risk-free interest rate increases.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "55eda7b9-3af4-4930-83c9-4b55993a1d6c",
+                            "itemBody": "\u003cp\u003eB. value of the underlying decreases.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "079801a3-5574-4c00-a199-a78e9652449b",
+                            "itemBody": "\u003cp\u003eC. volatility of the underlying increases.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8696,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53939",
+            "entry": {
+                "title": "ITEM_20170601052",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf dividends paid by the underlying increase, the value of a European call option will \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ac868b4a-9677-42f0-a12f-8017d968109b"
+                },
+                "answerFeedback": {
+                    "60090269-4135-404e-8372-07ef9b38a198": "\u003cp\u003eIncorrect. A European call option is worth less the more dividends are paid by the underlying.\u003c/p\u003e",
+                    "ac868b4a-9677-42f0-a12f-8017d968109b": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A European call option is worth less the more dividends are paid by the underlying.\u003c/p\u003e",
+                    "e40da32b-dafb-409e-8984-943c7a7dd781": "\u003cp\u003eIncorrect. A European call option is worth less the more dividends are paid by the underlying.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ac868b4a-9677-42f0-a12f-8017d968109b",
+                            "itemBody": "\u003cp\u003eA. decrease.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "e40da32b-dafb-409e-8984-943c7a7dd781",
+                            "itemBody": "\u003cp\u003eB. not change.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "60090269-4135-404e-8372-07ef9b38a198",
+                            "itemBody": "\u003cp\u003eC. increase.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8696,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53940",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-Derivs-Ebeling-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhen the strike price of a call option is lower, the likelihood of the option expiring in-the-money is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ab00d603-b90d-4e71-b27e-a2e474dfcc97"
+                },
+                "answerFeedback": {
+                    "57f62d39-89ec-4908-8f7e-095df7a92575": "\u003cp\u003eIncorrect because for a call option, a lower exercise price has two benefits. One is that there are more values of the underlying at expiration that are above the exercise price, meaning that there are more outcomes in which the call expires in-the-money.\u0026nbsp;Therefore, the likelihood is higher and not unchanged.\u003c/p\u003e",
+                    "ab00d603-b90d-4e71-b27e-a2e474dfcc97": "\u003cp\u003eCorrect because for a call option, a lower exercise price has two benefits. One is that there are more values of the underlying at expiration that are above the exercise price, meaning that there are more outcomes in which the call expires in-the-money.\u003c/p\u003e",
+                    "fed42477-d691-4606-9938-4e1727a2c856": "\u003cp\u003eIncorrect because for a call option, a lower exercise price has two benefits. One is that there are more values of the underlying at expiration that are above the exercise price, meaning that there are more outcomes in which the call expires in-the-money. Therefore, the likelihood is higher and not lower.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fed42477-d691-4606-9938-4e1727a2c856",
+                            "itemBody": "\u003cp\u003eA. lower.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "57f62d39-89ec-4908-8f7e-095df7a92575",
+                            "itemBody": "\u003cp\u003eB. unchanged.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ab00d603-b90d-4e71-b27e-a2e474dfcc97",
+                            "itemBody": "\u003cp\u003eC. higher.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8696,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53941",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.09-Deriv-Ebeling-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003e\u003cspan style=\"font-family:Arial,Helvetica,sans-serif\"\u003e\u003cspan style=\"font-size:16px\"\u003e\u003cspan style=\"background:transparent none repeat scroll 0% 0%\"\u003e\u003cspan style=\"line-height:100%\"\u003e\u003cspan style=\"background:transparent\"\u003eThe value of a European put is directly related to the:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a24f8bce-6011-4234-a404-98d61a1c3b95"
+                },
+                "answerFeedback": {
+                    "4aa923f2-87d7-40e3-a25f-b030bb4996fb": "\u003cp\u003eIncorrect because the value of a European put is inversely related to the risk-free interest rate.\u003c/p\u003e",
+                    "56dc8b47-8ee4-400d-a7b4-381670063551": "\u003cp\u003eIncorrect because the value of a European put option is inversely related to the value of the underlying.\u003c/p\u003e",
+                    "a24f8bce-6011-4234-a404-98d61a1c3b95": "\u003cp\u003eCorrect because the value of a European put option is directly related to the exercise price.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4aa923f2-87d7-40e3-a25f-b030bb4996fb",
+                            "itemBody": "\u003cp\u003eA. risk-free rate.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a24f8bce-6011-4234-a404-98d61a1c3b95",
+                            "itemBody": "\u003cp\u003eB. exercise price.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "56dc8b47-8ee4-400d-a7b4-381670063551",
+                            "itemBody": "\u003cp\u003eC. value of the underlying.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8696,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53942",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.09-Deriv-Lamba-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eBefore expiration, if the price of the underlying is above the exercise price, the European put option has a positive:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "3f910e87-208f-4fdc-b37e-0b7d67320f0f"
+                },
+                "answerFeedback": {
+                    "3f910e87-208f-4fdc-b37e-0b7d67320f0f": "\u003cp\u003eCorrect because if the underlying is equal to or worth more than the exercise price at expiration (\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e ≥ \u003ci\u003eX\u003c/i\u003e), the put will simply expire with no value. So, the put is worth the greater of either zero or the exercise price minus the price of the underlying at expiration. Also, the time value of an option is the difference between the market price of the option and its intrinsic value. As the price of the underlying is above the exercise price the put has a zero exercise value and only a positive time value.\u003c/p\u003e",
+                    "5311dfe9-cda4-47ac-a4e8-7a47334789bd": "\u003cp\u003eIncorrect because if the underlying is equal to or worth more than the exercise price at expiration (\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e ≥ \u003ci\u003eX\u003c/i\u003e), the put will simply expire with no value. So, the put is worth the greater of either zero or the exercise price minus the price of the underlying at expiration. Also, the time value of an option is the difference between the market price of the option and its intrinsic value. As the price of the underlying is above the exercise price the put has a zero intrinsic (or exercise) value and only a positive time value.\u003c/p\u003e",
+                    "d3434643-177a-4106-8107-104f45f9b444": "\u003cp\u003eIncorrect because if the underlying is equal to or worth more than the exercise price at expiration (\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e ≥ \u003ci\u003eX\u003c/i\u003e), the put will simply expire with no value. So, the put is worth the greater of either zero or the exercise price minus the price of the underlying at expiration. Also, the time value of an option is the difference between the market price of the option and its intrinsic value. As the price of the underlying is above the exercise price the put has a zero exercise (or intrinsic) value and only a positive time value.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3f910e87-208f-4fdc-b37e-0b7d67320f0f",
+                            "itemBody": "\u003cp\u003eA. time value.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5311dfe9-cda4-47ac-a4e8-7a47334789bd",
+                            "itemBody": "\u003cp\u003eB. intrinsic value.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d3434643-177a-4106-8107-104f45f9b444",
+                            "itemBody": "\u003cp\u003eC. exercise value.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8696,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53943",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.09-Deriv-Lamba-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eAll else being equal, which of the following European put options on the same underlying \u003ci\u003emost likely\u003c/i\u003e has the highest value?\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border: 1pt solid windowtext; width: 428px;\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"border: 1pt solid windowtext; width: 80px; padding: 0in 5.4pt; max-width: 80px;\" valign=\"top\" width=\"144\"\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd style=\"border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; width: 147px; border-left: none; padding: 0in 5.4pt; max-width: 147px;\" valign=\"top\" width=\"144\"\u003e\u003cstrong\u003eTime to Expiration\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; width: 154px; border-left: none; padding: 0in 5.4pt; max-width: 154px;\" valign=\"top\" width=\"144\"\u003e\n\u003cp\u003e\u003cstrong\u003eExercise Price\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; width: 80px; border-top: none; padding: 0in 5.4pt; max-width: 80px; text-align: left;\" valign=\"top\" width=\"144\"\u003eOption 1\u003c/td\u003e\n\u003ctd style=\"border-bottom: 1pt solid windowtext; width: 147px; border-top: none; border-left: none; border-right: 1pt solid windowtext; padding: 0in 5.4pt; max-width: 147px;\" valign=\"top\" width=\"144\"\u003e\n\u003cp\u003e2 months\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"border-bottom: 1pt solid windowtext; width: 154px; border-top: none; border-left: none; border-right: 1pt solid windowtext; padding: 0in 5.4pt; max-width: 154px;\" valign=\"top\" width=\"144\"\u003e\n\u003cp\u003e$52\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; width: 80px; border-top: none; padding: 0in 5.4pt; max-width: 80px; text-align: left;\" valign=\"top\" width=\"144\"\u003eOption 2\u003c/td\u003e\n\u003ctd style=\"border-bottom: 1pt solid windowtext; width: 147px; border-top: none; border-left: none; border-right: 1pt solid windowtext; padding: 0in 5.4pt; max-width: 147px;\" valign=\"top\" width=\"144\"\u003e\n\u003cp\u003e4 months\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"border-bottom: 1pt solid windowtext; width: 154px; border-top: none; border-left: none; border-right: 1pt solid windowtext; padding: 0in 5.4pt; max-width: 154px;\" valign=\"top\" width=\"144\"\u003e\n\u003cp\u003e$52\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; width: 80px; border-top: none; padding: 0in 5.4pt; max-width: 80px; text-align: left;\" valign=\"top\" width=\"144\"\u003eOption 3\u003c/td\u003e\n\u003ctd style=\"border-bottom: 1pt solid windowtext; width: 147px; border-top: none; border-left: none; border-right: 1pt solid windowtext; padding: 0in 5.4pt; max-width: 147px;\" valign=\"top\" width=\"144\"\u003e\n\u003cp\u003e4 months\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"border-bottom: 1pt solid windowtext; width: 154px; border-top: none; border-left: none; border-right: 1pt solid windowtext; padding: 0in 5.4pt; max-width: 154px;\" valign=\"top\" width=\"144\"\u003e\n\u003cp\u003e$58\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c06c5a30-cf2c-495f-9df3-7104d3343384"
+                },
+                "answerFeedback": {
+                    "01f9de7f-0204-4a33-ba2b-9d3f00c482b4": "\u003cp\u003eIncorrect because \u003ci\u003ethe value of a European put option is directly related to the exercise price. \u003c/i\u003eAlso, \u003ci\u003eThe value of a European put option can be either directly or inversely related to the time to expiration. The direct effect is more common.\u003c/i\u003e Option 1 and Option 2 have the same exercise price, but Option 2 has a longer time to expiration. So, Option 2 is more likely to have a higher value than Option 1. Option 2 and Option 3 have the same time to expiration, but Option 3 has a higher exercise price. So, Option 3 is most likely to have a higher value than Option 2.\u003c/p\u003e",
+                    "829fa868-503f-46a9-9e16-b653dadb1bc9": "\u003cp\u003eIncorrect because \u003ci\u003ethe value of a European put option is directly related to the exercise price. \u003c/i\u003eAlso, \u003ci\u003eThe value of a European put option can be either directly or inversely related to the time to expiration. The direct effect is more common.\u003c/i\u003e Option 1 and Option 2 have the same exercise price, but Option 2 has a longer time to expiration. So, Option 2 is more likely to have a higher value than Option 1. Option 2 and Option 3 have the same time to expiration, but Option 3 has a higher exercise price. So, Option 3 is most likely to have a higher value than Option 2.\u003c/p\u003e",
+                    "c06c5a30-cf2c-495f-9df3-7104d3343384": "\u003cp\u003eCorrect because \u003ci\u003ethe value of a European put option is directly related to the exercise price. \u003c/i\u003eAlso, \u003ci\u003eThe value of a European put option can be either directly or inversely related to the time to expiration. The direct effect is more common.\u003c/i\u003e Option 1 and Option 2 have the same exercise price, but Option 2 has a longer time to expiration. So, Option 2 is more likely to have a higher value than Option 1. Option 2 and Option 3 have the same time to expiration, but Option 3 has a higher exercise price. So, Option 3 is most likely to have a higher value than Option 2.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "829fa868-503f-46a9-9e16-b653dadb1bc9",
+                            "itemBody": "\u003cp\u003eA. Option 1\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "01f9de7f-0204-4a33-ba2b-9d3f00c482b4",
+                            "itemBody": "\u003cp\u003eB. Option 2\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "c06c5a30-cf2c-495f-9df3-7104d3343384",
+                            "itemBody": "\u003cp\u003eC. Option 3\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8696,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53944",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Pitrakkou-08",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is equal to the greater of zero or the present value of the exercise price minus the spot price?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e64a99a3-f404-47fd-944f-0d8f09486288"
+                },
+                "answerFeedback": {
+                    "645a11c8-0266-4f2b-828d-947ffb512a7f": "\u003cp\u003eIncorrect because this is the description of the lower bound of a put option. A call option buyer will exercise only if the spot price, \u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e, exceeds the exercise price (\u003ci\u003eX\u003c/i\u003e) at maturity. The lower bound of a call price is therefore the underlying’s price minus the present value of its exercise price or zero, whichever is greater.\u003c/p\u003e",
+                    "e64a99a3-f404-47fd-944f-0d8f09486288": "\u003cp\u003eCorrect because a\u0026nbsp;put option buyer will exercise only if the spot price,\u0026nbsp;\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e, is below\u0026nbsp;\u003ci\u003eX\u003c/i\u003e\u0026nbsp;at maturity. The exercise price,\u0026nbsp;\u003ci\u003eX\u003c/i\u003e, therefore represents the\u0026nbsp;upper\u0026nbsp;bound on the put value. The\u0026nbsp;lower\u0026nbsp;bound is the present value of the exercise price minus the spot price or zero, whichever is greater.\u0026nbsp;\u003c/p\u003e",
+                    "f0f21d75-7e04-4f07-9d99-b84bb19002f2": "\u003cp\u003eIncorrect because this is the description of the lower bound of a put option.\u0026nbsp;A put option buyer will exercise only if the spot price,\u0026nbsp;\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u003c/i\u003e, is below\u0026nbsp;\u003ci\u003eX\u003c/i\u003e\u0026nbsp;at maturity. The exercise price,\u0026nbsp;\u003ci\u003eX\u003c/i\u003e, therefore represents the\u0026nbsp;upper\u0026nbsp;bound on the put value.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "e64a99a3-f404-47fd-944f-0d8f09486288",
+                            "itemBody": "\u003cp\u003eA. The lower bound of a put option\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "645a11c8-0266-4f2b-828d-947ffb512a7f",
+                            "itemBody": "\u003cp\u003eB. The lower bound of a\u0026nbsp;call option\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f0f21d75-7e04-4f07-9d99-b84bb19002f2",
+                            "itemBody": "\u003cp\u003eC. The upper bound of a put option\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8696,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53945",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Lee-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe upper bound of a call price is the:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "155a0a83-ba42-4ddf-ba58-39d2d5e7af35"
+                },
+                "answerFeedback": {
+                    "155a0a83-ba42-4ddf-ba58-39d2d5e7af35": "\u003cp\u003eCorrect because the call buyer will not pay more for the right to purchase an underlying than the price of that underlying, which is the \u003ci\u003eupper\u003c/i\u003e bound.\u003c/p\u003e",
+                    "3f62f032-1df6-4c1c-9773-e735e83e925d": "\u003cp\u003eIncorrect because this answer choice represents the lower bound of a call price and not the upper bound. The \u003ci\u003elower\u003c/i\u003e bound of a call price is therefore the underlying’s price minus the present value of its exercise price or zero, whichever is greater.\u003c/p\u003e",
+                    "98dad58c-e758-4f25-9b13-44dd709f4252": "\u003cp\u003eIncorrect because this distractor is the upper bound of a put value and not a call price. The exercise price, \u003ci\u003eX\u003c/i\u003e, therefore represents the \u003ci\u003eupper\u003c/i\u003e bound on the put value.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "98dad58c-e758-4f25-9b13-44dd709f4252",
+                            "itemBody": "\u003cp\u003eA. exercise price.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "155a0a83-ba42-4ddf-ba58-39d2d5e7af35",
+                            "itemBody": "\u003cp\u003eB. price of the underlying.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3f62f032-1df6-4c1c-9773-e735e83e925d",
+                            "itemBody": "\u003cp\u003eC. underlying’s price minus the present value of the exercise price.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8696,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53946",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Pitrakkou-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost\u003c/i\u003e accurate regarding a call option replication strategy?\u0026nbsp;\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "10706633-90d6-41c9-a0a6-9da75493c215"
+                },
+                "answerFeedback": {
+                    "10706633-90d6-41c9-a0a6-9da75493c215": "\u003cp\u003eCorrect because the non-linear payoff profile of an option requires that the replicating transaction be adjusted as this likelihood changes, while the replicating trades for a forward commitment remain constant.\u0026nbsp;Also, as in the case of the call option, the asymmetric payoff profile requires adjustment over time based on the\u0026nbsp;likelihood\u0026nbsp;of exercise.\u003c/p\u003e",
+                    "1d29032a-d2fb-4bb7-8762-2de4088fafdd": "\u003cp\u003eIncorrect because this is a put option replication strategy if exercised. A call option replication strategy if exercised, requires to sell the underlying and use the proceeds to repay the\u0026nbsp;loan. In order to replicate the call option at contract inception (t\u0026nbsp;= 0), we also must borrow at the risk-free rate,\u0026nbsp;r, and use the proceeds to purchase the underlying at a price of\u0026nbsp;\u003ci\u003eS\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e.\u0026nbsp;At option expiration (t\u0026nbsp;=\u0026nbsp;T), unlike in the case of the forward commitment, there are two possible replication outcomes:\u003c/p\u003e\u003cp\u003e•\u0026nbsp;Exercise\u0026nbsp;(\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u0026nbsp;\u0026gt;\u0026nbsp;X\u003c/i\u003e): Sell the underlying for\u0026nbsp;\u003ci\u003eS\u003c/i\u003e\u003csub\u003e\u003ci\u003eT\u003c/i\u003e\u0026nbsp;\u003c/sub\u003eand use the proceeds to repay\u0026nbsp;\u003ci\u003eX\u003c/i\u003e.\u003c/p\u003e\u003cp\u003e•\u0026nbsp;No exercise\u0026nbsp;(\u003ci\u003eS\u003csub\u003eT\u003c/sub\u003e\u0026nbsp;\u0026lt;\u0026nbsp;X\u003c/i\u003e): No settlement is required.\u003c/p\u003e\u003cp\u003eIn order to replicate the put option at contract inception (t\u0026nbsp;= 0), we must sell the underlying short at a price of\u0026nbsp;S0\u0026nbsp;and lend the proceeds at the risk-free rate,\u0026nbsp;r.\u0026nbsp;At option expiration (t\u0026nbsp;=\u0026nbsp;T), unlike in the case of the forward commitment, there are two possible replication outcomes:\u003c/p\u003e\u003cp\u003e• Exercise\u0026nbsp;(ST\u0026nbsp;\u0026lt;\u0026nbsp;X): Purchase the underlying for ST\u0026nbsp;from the proceeds of the risk-free loan.\u003c/p\u003e\u003cp\u003e•\u0026nbsp;No exercise\u0026nbsp;(ST\u0026nbsp;\u0026gt;\u0026nbsp;X): No settlement is required.\u003c/p\u003e",
+                    "ee759cfe-3aac-4566-a82d-aff4f27cedaf": "\u003cp\u003eIncorrect because a call\u0026nbsp;option replication strategy does not require the long purchase of a forward contract. In order to replicate the call option at contract inception (t\u0026nbsp;= 0), we also must borrow at the risk-free rate,\u0026nbsp;r, and use the proceeds to purchase the underlying at a price of\u0026nbsp;\u003ci\u003eS\u003csub\u003e0\u003c/sub\u003e\u003c/i\u003e.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "10706633-90d6-41c9-a0a6-9da75493c215",
+                            "itemBody": "\u003cp\u003eA. The strategy requires adjustment over the life of the option contract based on the\u0026nbsp;likelihood\u0026nbsp;of exercise\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "1d29032a-d2fb-4bb7-8762-2de4088fafdd",
+                            "itemBody": "\u003cp\u003eB. If the call option is exercised, the strategy requires purchasing the underlying from the proceeds of\u0026nbsp;the loan\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "ee759cfe-3aac-4566-a82d-aff4f27cedaf",
+                            "itemBody": "\u003cp\u003eC. At inception, the strategy requires buying long\u0026nbsp;a forward contract on the underlying and borrowing at the risk free rate\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8696,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4489,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

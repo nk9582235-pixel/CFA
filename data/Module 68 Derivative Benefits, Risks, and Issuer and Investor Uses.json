@@ -1,0 +1,811 @@
+{
+    "user_id": 239466,
+    "quiz_id": 5973,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 12,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 3: Derivative Benefits, Risks, and Issuer and Investor Uses",
+        "topic_id": 1037,
+        "topic": "CFA-26-02-LI-C: Derivatives",
+        "subtopic_id": 5973,
+        "subtopic": "Module 3: Derivative Benefits, Risks, and Issuer and Investor Uses",
+        "question_count": 12,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 853,
+                "name": "Warehouse Course: Derivatives 26-LI",
+                "code": "Warehouse Course: Derivatives 26-LI",
+                "module_id": 4484,
+                "question_count": 6,
+                "type": "warehouse"
+            },
+            {
+                "id": 844,
+                "name": "Practice Pack Warehouse: Derivatives 26-LI",
+                "code": "Practice Pack Warehouse: Derivatives 26-LI",
+                "module_id": 4737,
+                "question_count": 6,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 12.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "61a1ec8bc9c21b9d",
+        "ordered_item_ids": [
+            "56284",
+            "56285",
+            "56286",
+            "56287",
+            "56288",
+            "56289",
+            "51098",
+            "51099",
+            "51100",
+            "51101",
+            "51102",
+            "53904",
+            "53905"
+        ],
+        "visible_item_ids": [
+            "56284",
+            "56285",
+            "56286",
+            "56287",
+            "56288",
+            "56289",
+            "51098",
+            "51099",
+            "51100",
+            "51101",
+            "51102",
+            "53904",
+            "53905"
+        ]
+    },
+    "items": [
+        {
+            "id": "56284",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Simsek-03",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe potential divergence between the cash flow timing of a derivative instrument versus its underlying \u003ci\u003ebest\u003c/i\u003e describes:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5816a3db-2173-42b8-b7f3-3fe1deb57613"
+                },
+                "answerFeedback": {
+                    "07f35184-7a4b-4340-a6b2-af8122814915": "\u003cp\u003eIncorrect because systemic risk results from excessive risk taking and use of leverage in derivative markets that\u0026nbsp;may contribute to market stress.\u003c/p\u003e",
+                    "3d5e46e6-17fe-4718-989f-d1f3d7ea7e21": "\u003cp\u003eIncorrect because basis risk is described as the potential divergence between the expected value of a derivative instrument versus an underlying or hedged transaction.\u003c/p\u003e",
+                    "5816a3db-2173-42b8-b7f3-3fe1deb57613": "\u003cp\u003eCorrect because liquidity risk is described as potential divergence between the cash flow timing of a derivative instrument versus an underlying or hedged transaction.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3d5e46e6-17fe-4718-989f-d1f3d7ea7e21",
+                            "itemBody": "\u003cp\u003eA. basis risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5816a3db-2173-42b8-b7f3-3fe1deb57613",
+                            "itemBody": "\u003cp\u003eB. liquidity risk.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "07f35184-7a4b-4340-a6b2-af8122814915",
+                            "itemBody": "\u003cp\u003eC. systemic risk.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8973,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4737,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56285",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Derivs-Terry-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe potential divergence between the expected value of a derivative instrument versus an underlying or hedged transaction \u003ci\u003ebest\u003c/i\u003e describes:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fbb77a66-ee72-4287-abce-47325e9d2564"
+                },
+                "answerFeedback": {
+                    "74221e61-39bb-4ca2-9490-01074812d86a": "\u003cp\u003eIncorrect because liquidity risk is the potential divergence between the cash flow timing of a derivative instrument versus an underlying or hedged transaction.\u003c/p\u003e",
+                    "bceea3f2-7385-47b9-9b3b-a285bdcde76e": "\u003cp\u003eIncorrect because systemic risk relates to excessive risk taking and use of leverage in derivative markets.\u003c/p\u003e",
+                    "fbb77a66-ee72-4287-abce-47325e9d2564": "\u003cp\u003eCorrect because basis risk is the potential divergence between the expected value of a derivative instrument versus an underlying or hedged transaction.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "fbb77a66-ee72-4287-abce-47325e9d2564",
+                            "itemBody": "\u003cp\u003eA. basis risk.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "74221e61-39bb-4ca2-9490-01074812d86a",
+                            "itemBody": "\u003cp\u003eB. liquidity risk.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "bceea3f2-7385-47b9-9b3b-a285bdcde76e",
+                            "itemBody": "\u003cp\u003eC. systemic risk.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8973,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4737,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56286",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.08-Deriv-Bangaruswamy-08",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA commodities producer selling\u0026nbsp;its inventory forward in anticipation of lower prices in the future is an example of a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "c340ff76-3bc6-48e5-8298-0c2b2a7a6362"
+                },
+                "answerFeedback": {
+                    "0cc366bc-6d6d-4a3b-b986-95b6082d6adf": "\u003cp\u003eIncorrect because net investment hedges\u0026nbsp;occur when either a foreign currency bond or a derivative such as an FX swap or forward is used to offset the exchange rate risk of the equity of a foreign operation.\u003c/p\u003e",
+                    "78c5c7ab-0d3e-4c68-87fd-5bcabee97484": "\u003cp\u003eIncorrect because derivatives designated as absorbing the variable cash flow of a floating-rate asset or liability such as foreign exchange, interest rates, or commodities are referred to as\u0026nbsp;cash flow hedges. A swap to a fixed rate for a floating-rate debt liability is another example of a cash flow hedge.\u003c/p\u003e",
+                    "c340ff76-3bc6-48e5-8298-0c2b2a7a6362": "\u003cp\u003eCorrect because a\u0026nbsp;fair value hedge\u0026nbsp;designation applies when a derivative is deemed to offset the fluctuation in fair value of an asset or liability. A\u0026nbsp;commodities producer might sell its inventory forward in anticipation of lower future prices.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c340ff76-3bc6-48e5-8298-0c2b2a7a6362",
+                            "itemBody": "\u003cp\u003eA. fair value hedge.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "78c5c7ab-0d3e-4c68-87fd-5bcabee97484",
+                            "itemBody": "\u003cp\u003eB. cash flow hedge.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "0cc366bc-6d6d-4a3b-b986-95b6082d6adf",
+                            "itemBody": "\u003cp\u003eC. net investment hedge.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8973,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4737,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56287",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.08-Deriv-Hambusch-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eBasis risk is \u003ci\u003ebest\u003c/i\u003e described as a(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0b4e8770-8edc-4396-81fa-8c05a4e6a0e4"
+                },
+                "answerFeedback": {
+                    "0b4e8770-8edc-4396-81fa-8c05a4e6a0e4": "\u003cp\u003eCorrect because basis risk is the potential divergence between the expected value of a derivative instrument versus an underlying or hedged transaction.\u003c/p\u003e",
+                    "1e0750dd-6899-435e-89ac-335c399e97b3": "\u003cp\u003eIncorrect because a\u0026nbsp;related risk that can arise for both hedgers and risk takers is liquidity risk, or a divergence in the cash flow timing of a derivative versus that of an underlying transaction.\u003c/p\u003e",
+                    "bd006514-ca5e-4749-b11f-822d21f9e60c": "\u003cp\u003eIncorrect because a\u0026nbsp;related risk that can arise for both hedgers and risk takers is liquidity risk, or a divergence in the cash flow timing of a derivative versus that of an underlying transaction. The daily settlement of gains and losses in the futures market can give rise to liquidity risk. If an investor or issuer using a futures contract to hedge an\u0026nbsp;underlying transaction is unable to meet a margin call due to a lack of funds, the counterparty’s position is closed out and the investor or issuer must cover any losses on the derivative trade.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "bd006514-ca5e-4749-b11f-822d21f9e60c",
+                            "itemBody": "\u003cp\u003eA. investor's inability\u0026nbsp;to meet a margin call due to a lack of funds.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0b4e8770-8edc-4396-81fa-8c05a4e6a0e4",
+                            "itemBody": "\u003cp\u003eB. potential divergence between the expected value of a derivative and its underlying.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1e0750dd-6899-435e-89ac-335c399e97b3",
+                            "itemBody": "\u003cp\u003eC. divergence in the cash flow timing of a derivative versus that of an underlying transaction.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8973,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4737,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56288",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.08-Deriv-Bangaruswamy-06",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWIth respect to hedge accounting designation types, a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2c15a6a6-43a9-4487-9ce4-18b0479ccc63"
+                },
+                "answerFeedback": {
+                    "1215b1a3-d446-4117-8fae-587bde1d768f": "\u003cp\u003eIncorrect because FX forward to hedge forecasted sales absorbs variable cash flow of floating-rate asset or liability (forecasted transaction)\u0026nbsp;and is an example of a cash flow hedge.\u003c/p\u003e",
+                    "2c15a6a6-43a9-4487-9ce4-18b0479ccc63": "\u003cp\u003eCorrect because currency forward designated as offsetting the FX risk of the equity of a foreign operation\u0026nbsp;is an example of a net investment hedge.\u003c/p\u003e",
+                    "5d8d683e-c3c7-4baa-a9e7-df33e8572ea4": "\u003cp\u003eIncorrect because commodity futures used to hedge inventory offsets fluctuation in fair value of an asset or liability\u0026nbsp;and is an example of a fair value hedge.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1215b1a3-d446-4117-8fae-587bde1d768f",
+                            "itemBody": "\u003cp\u003eA. foreign exchange forward to hedge forecasted sales is an example of a fair value hedge.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "5d8d683e-c3c7-4baa-a9e7-df33e8572ea4",
+                            "itemBody": "\u003cp\u003eB. commodity futures contract\u0026nbsp;used to hedge inventory is an example of a cash flow hedge.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2c15a6a6-43a9-4487-9ce4-18b0479ccc63",
+                            "itemBody": "\u003cp\u003eC. currency forward to\u0026nbsp;offset\u0026nbsp;the foreign exchange\u0026nbsp;risk of equity of a foreign operation\u0026nbsp;is an example of a net investment hedge.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8973,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4737,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56289",
+            "entry": {
+                "title": "ITEM_2019B Deriv 04EWL07U2",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA principal argument against using derivatives is that they:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0e5d189c-2034-4c77-aef1-971c9a72f71e"
+                },
+                "answerFeedback": {
+                    "0e5d189c-2034-4c77-aef1-971c9a72f71e": "\u003cp\u003eCorrect because the two principal arguments against derivatives are that they are such speculative devices that they effectively permit legalized gambling and that they destabilize the financial system.\u003c/p\u003e",
+                    "545341c1-ea52-46c4-b132-73098720d79c": "\u003cp\u003eIncorrect because one of the advantages of futures markets has been described as price discovery. Derivative markets can convey information not impounded in spot markets. Therefore, it is not a principal argument against derivatives that they prevent price discovery of the underlying assets in spot markets.\u0026nbsp;\u003c/p\u003e",
+                    "c70169cd-0a5b-4f1e-a729-5ba085572570": "\u003cp\u003eIncorrect because derivatives provide an effective method of transferring risk from parties who do not want the risk to parties who do.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0e5d189c-2034-4c77-aef1-971c9a72f71e",
+                            "itemBody": "\u003cp\u003eA. destabilize the financial system.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "c70169cd-0a5b-4f1e-a729-5ba085572570",
+                            "itemBody": "\u003cp\u003eB. are ineffective in transferring risk between parties.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "545341c1-ea52-46c4-b132-73098720d79c",
+                            "itemBody": "\u003cp\u003eC. prevent price discovery of underlying assets in spot markets.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8973,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4737,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51098",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eConsider the following structured note offered by Baywhite Financial:\u003c/p\u003e\n\u003cdiv id=\"CFA2459-s04-T-1-b\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; background-color: inherit !important; border-top: 2px solid #CCCCCC; border-bottom: none !important; border-right: none; border-left: none; text-align: center; margin-top: .84em !important;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003e\u003cspan style=\"display: block;\"\u003eBaywhite Financial LLC 80% Principal Protected Structured Note\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eDescription:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eThe Baywhite Financial LLC 80% Principal Protected Structured Note (“the Note”) is linked to the performance of the S\u0026amp;P 500 Health Care Select Sector Index (SIXV).\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eIssuer:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eBaywhite Financial LLC\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eStart Date:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e[Today]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eMaturity Date:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e[Six months from Start Date]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eIssuance Price:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e102% of Face Value\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eFace Value:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eSold in a minimum denomination of USD1,000 and multiple units thereof\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003ePayment at Maturity:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eAt maturity, you will receive a cash payment, for each USD1,000 principal amount note, of USD800 plus the Additional Amount, which may be zero.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003ePartial Principal Protection Percentage:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e80% Principal Protection (20% Principal at Risk)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003cstrong\u003eAdditional Amount:\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eAt maturity, you will receive the greater of 100% of the returns on the S\u0026amp;P 500 Health Care Select Sector Index (SIXV) in excess of 5% above the current spot price of the SIXV or zero.\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAs a financial analyst for a wealth management advisory firm, you have been tasked with comparing the features of the Baywhite Financial LLC Structured Note with those of a similar exchange-traded, stand-alone derivative instrument alternative in order to make a recommendation to the firm’s clients.\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8255,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4484,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51099",
+            "entry": {
+                "title": "CFA2459-s04-Q4",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The Structured Note is linked to the performance of the S\u0026amp;P 500 Health Care Select Sector Index (SIXV). Note that the SIXV derivative is similar to that in the earlier SCSI CSI 300 example. The “Additional Amount” paid at maturity is equal to the greater of 100% of the returns on the S\u0026amp;P 500 Health Care Select Sector Index (SIXV) in excess of 5% above the current spot price of the SIXV or zero. This payoff profile [Max (0, S\u003csub\u003eT\u003c/sub\u003e – X)] is identical to that of a purchased six-month SIXV call option with an exercise price (X) at 5% above today’s SIXV spot price.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements best describes the derivative instrument that is embedded in the Baywhite Financial LLC Structured Note? \u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "0e9dbb95-07b2-4a3f-83b1-c97ded8f31de"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1250b135-1dd9-4e2f-ba0a-deaebf16a0db",
+                            "itemBody": "A. The Structured Note has an embedded long futures contract with the S\u0026amp;P 500 Health Care Select Sector Index (SIXV) as an underlying.",
+                            "position": 1
+                        },
+                        {
+                            "id": "0e9dbb95-07b2-4a3f-83b1-c97ded8f31de",
+                            "itemBody": "B. The Structured Note has an embedded long call option contract with the S\u0026amp;P 500 Health Care Select Sector Index (SIXV) as an underlying.",
+                            "position": 2
+                        },
+                        {
+                            "id": "e67e58d0-bb3b-4604-91b2-bc793a122718",
+                            "itemBody": "C. The Structured Note has an embedded short put option contract with the S\u0026amp;P 500 Health Care Select Sector Index (SIXV) as an underlying.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8255,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4484,
+            "stimulusQuizEntryId": "51098"
+        },
+        {
+            "id": "51100",
+            "entry": {
+                "title": "CFA2459-s04-Q5",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The investor assumes the credit risk of Baywhite Financial LLC for the full value of the structured note as the structured note issuer. Under the purchased exchange-traded SIXV call option, the investor faces the risk of the exchange and its clearinghouse, which provides a guarantee of contract settlement backed by the exchange insurance fund.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements best contrasts the credit risk of the Baywhite Financial LLC Structured Note with the counterparty credit risk of an investor entering into the embedded exchange-traded derivative on a stand-alone basis?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "dda4e099-7e55-40c5-a4c4-1ced3f9de6f2"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d8ab6bd5-fe5e-4c26-a093-50b094083e07",
+                            "itemBody": "A. An investor in the Baywhite Structured Note assumes the credit risk of Baywhite Financial LLC for 20% of the note’s face value, as the remaining 80% is principal protected. An investor entering into the SIXV derivative on a stand-alone basis assumes the counterparty credit risk of a financial intermediary.",
+                            "position": 1
+                        },
+                        {
+                            "id": "78d044e9-e4db-48fc-b574-0c0f604bf45a",
+                            "itemBody": "B. An investor in the Baywhite Structured Note assumes the credit risk of Baywhite Financial LLC for 80% of the note’s face value, as the remaining 20% is associated with the embedded derivative. An investor entering into the SIXV derivative on a stand-alone basis assumes the counterparty credit risk of a financial intermediary.",
+                            "position": 2
+                        },
+                        {
+                            "id": "dda4e099-7e55-40c5-a4c4-1ced3f9de6f2",
+                            "itemBody": "C. An investor in the Baywhite Structured Note assumes the credit risk of Baywhite Financial LLC for 100% of the note’s face value, while an investor entering into the SIXV derivative on a stand-alone basis assumes the counterparty credit risk of an exchange and its clearinghouse.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8255,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4484,
+            "stimulusQuizEntryId": "51098"
+        },
+        {
+            "id": "51101",
+            "entry": {
+                "title": "CFA2459-s04-Q6",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The Structured Note is likely to be far less liquid than the stand-alone SIXV call option, which is traded on a derivatives exchange. Recall from an earlier lesson that exchange-traded contracts are more formal and standardized, which facilitates a more liquid and transparent market. Note also that the Baywhite Financial LLC Structured Note is issued at 102% of face value, suggesting that an investor will likely forgo this premium if selling the note prior to maturity.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements most accurately describes the liquidity of the Baywhite Structured Note versus that of the embedded exchange-traded derivative?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "92b2c0f0-33c8-4d49-bf8e-ff72c312ca9b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b7179e01-bad9-4ffa-8be7-08206c428b2d",
+                            "itemBody": "A. The Baywhite Structured Note is likely to be more liquid than the stand-alone SIXV call option, as the Note has 80% principal protection while an investor in the stand-alone derivative may lose the entire option premium if it expires worthless at maturity.",
+                            "position": 1
+                        },
+                        {
+                            "id": "06b4c6af-09c8-49cd-9244-5a76ffb3efd0",
+                            "itemBody": "B. The Baywhite Structured Note is likely to be more liquid than the stand-alone SIXV call option, as the Note is priced at a stated 2% premium above par while an investor in the stand-alone derivative faces the lack of transparency as well as basis, liquidity, and counterparty credit risks associated with derivative transactions.",
+                            "position": 2
+                        },
+                        {
+                            "id": "92b2c0f0-33c8-4d49-bf8e-ff72c312ca9b",
+                            "itemBody": "C. Structured notes such as the Baywhite Financial LLC Structured Note often involve greater cost, lower liquidity, and less transparency than an equivalent stand-alone derivative instrument, while the exchange-traded SIXV derivative contract is standardized and trades in a liquid, transparent market.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8255,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4484,
+            "stimulusQuizEntryId": "51098"
+        },
+        {
+            "id": "51102",
+            "entry": {
+                "title": "CFA2459-s04-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The 20% Principal at Risk, or USD200 of Face Value for each USD1,000 (the minimum denomination), combined with the 2% (or USD20) issue premium, should be compared with the upfront premium for a six-month SIXV call option with an exercise price at 5% above the current SIXV spot price. The comparison should also consider the additional credit risk and liquidity risk of the Structured Note versus the exchange-traded option.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following statements best describes how an investor should evaluate the terms of the Baywhite Financial LLC Structured Note as compared with the stand-alone derivative price in order to make a recommendation?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "69a0dc76-ebc2-485b-b39c-ddc7901f72be"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8d3823a5-8a35-4b3c-b308-31ff8df090b9",
+                            "itemBody": "A. The Baywhite Financial LLC Structured Note issuance price of 2% above par value should be compared with the upfront premium for a six-month SIXV call option with an exercise price at 5% above the current SIXV spot price.",
+                            "position": 1
+                        },
+                        {
+                            "id": "02940725-cf54-4871-a04f-d476a79c8e5f",
+                            "itemBody": "B. The Baywhite Financial LLC Structured Note 20% Principal at Risk should be compared with the upfront premium for a six-month SIXV call option with an exercise price at 5% above the current SIXV spot price.",
+                            "position": 2
+                        },
+                        {
+                            "id": "69a0dc76-ebc2-485b-b39c-ddc7901f72be",
+                            "itemBody": "C. The Baywhite Financial LLC Structured Note issuance price of 2% above par value plus the 20% Principal at Risk should be compared with the upfront premium for a six-month SIXV call option with an exercise price at 5% above the current SIXV spot price.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8255,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4484,
+            "stimulusQuizEntryId": "51098"
+        },
+        {
+            "id": "53904",
+            "entry": {
+                "title": "ITEM_20170601001",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf the implied volatility for options on a broad-based equity market index goes up, then it is \u003ci\u003emost likely\u003c/i\u003e that:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7ce5dce2-4e85-4200-bdb6-880f99899147"
+                },
+                "answerFeedback": {
+                    "7ce5dce2-4e85-4200-bdb6-880f99899147": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e One benefit of derivatives markets is information discovery. Implied volatility reveals information about the risk of the underlying. Increases in implied volatility are an implication of increased market uncertainty.\u003c/p\u003e",
+                    "91566aef-08b3-4ccd-ad37-0bf1dc9cc624": "\u003cp\u003eIncorrect. Implied volatility does not provide information about the level of the equity market.\u003c/p\u003e",
+                    "dcb8c2e9-2dc6-4f34-ad4d-0827552f451d": "\u003cp\u003eIncorrect. Implied volatility does not provide information about the level of market interest rates.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "dcb8c2e9-2dc6-4f34-ad4d-0827552f451d",
+                            "itemBody": "\u003cp\u003eA. market interest rates have gone up.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7ce5dce2-4e85-4200-bdb6-880f99899147",
+                            "itemBody": "\u003cp\u003eB. the general level of market uncertainty has gone up.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "91566aef-08b3-4ccd-ad37-0bf1dc9cc624",
+                            "itemBody": "\u003cp\u003eC. the broad-based equity market index has gone up in value.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8686,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4484,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53905",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020B-Deriv-Fairborn-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about\u0026nbsp;derivatives is \u003ci\u003emost\u003c/i\u003e accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8872ba59-7f7c-4a6a-ae8b-c235f2ec7a1c"
+                },
+                "answerFeedback": {
+                    "60562b5a-d514-4531-946a-73cb53377ded": "\u003cp\u003eIncorrect because when prices deviate from fundamental values, derivative markets offer less costly ways to exploit the mispricing. As noted earlier, less capital is required,\u0026nbsp;transaction costs are lower, and short selling is easier.\u0026nbsp; Also, derivatives offer the following Operational Advantages: Reduced\u0026nbsp;cash outlay, lower transaction costs versus the underlying, increased liquidity and ability to 'short'.\u003c/p\u003e",
+                    "8872ba59-7f7c-4a6a-ae8b-c235f2ec7a1c": "\u003cp\u003eCorrect because excessive risk taking and use of leverage in derivative markets may contribute to market stress, as in the 2008 financial crisis.\u003c/p\u003e",
+                    "d1caefd7-5e08-4421-8538-144aab04903a": "\u003cp\u003eIncorrect because derivative instrument prices serve a price discovery function beyond the underlying cash or spot market. For example, futures prices are often seen as revealing information about the direction of cash markets in the future, although they cannot be strictly considered an unbiased forecast of future spot prices.\u0026nbsp;Therefore, derivatives improve, not reduce, the efficiency of price discovery for the underlying.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d1caefd7-5e08-4421-8538-144aab04903a",
+                            "itemBody": "\u003cp\u003eA. Derivatives\u0026nbsp;reduce the efficiency of price discovery for the underlying\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "60562b5a-d514-4531-946a-73cb53377ded",
+                            "itemBody": "\u003cp\u003eB. Transaction cost\u0026nbsp;of derivatives are\u0026nbsp;greater than the transaction cost\u0026nbsp;of\u0026nbsp;the underlying\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "8872ba59-7f7c-4a6a-ae8b-c235f2ec7a1c",
+                            "itemBody": "\u003cp\u003eC. Excessive risk taking and use of leverage in derivative markets may contribute to market stress\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8686,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4484,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

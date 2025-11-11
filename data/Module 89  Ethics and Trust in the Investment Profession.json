@@ -1,0 +1,1671 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6400,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 27,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 1: Ethics and Trust in the Investment Profession",
+        "topic_id": 1040,
+        "topic": "CFA-26-02-LI-C: Ethical and Professional Standards",
+        "subtopic_id": 6400,
+        "subtopic": "Module 1: Ethics and Trust in the Investment Profession",
+        "question_count": 27,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 856,
+                "name": "Warehouse Course: Ethical and Professional Standards 26-LI",
+                "code": "Warehouse Course: Ethical and Professional Standards 26-LI",
+                "module_id": 4505,
+                "question_count": 25,
+                "type": "warehouse"
+            },
+            {
+                "id": 847,
+                "name": "Practice Pack Warehouse: Ethical and Professional Standards 26-LI",
+                "code": "Practice Pack Warehouse: Ethical and Professional Standards 26-LI",
+                "module_id": 4757,
+                "question_count": 2,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 27.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "572ffd27fd433193",
+        "ordered_item_ids": [
+            "56485",
+            "56486",
+            "50617",
+            "50618",
+            "50619",
+            "50620",
+            "50621",
+            "50622",
+            "50623",
+            "50624",
+            "50625",
+            "50626",
+            "50627",
+            "50628",
+            "54264",
+            "54265",
+            "54266",
+            "54267",
+            "54268",
+            "54269",
+            "54270",
+            "54271",
+            "54272",
+            "54273",
+            "54274",
+            "54275",
+            "54276"
+        ],
+        "visible_item_ids": [
+            "56485",
+            "56486",
+            "50617",
+            "50618",
+            "50619",
+            "50620",
+            "50621",
+            "50622",
+            "50623",
+            "50624",
+            "50625",
+            "50626",
+            "50627",
+            "50628",
+            "54264",
+            "54265",
+            "54266",
+            "54267",
+            "54268",
+            "54269",
+            "54270",
+            "54271",
+            "54272",
+            "54273",
+            "54274",
+            "54275",
+            "54276"
+        ]
+    },
+    "items": [
+        {
+            "id": "56485",
+            "entry": {
+                "title": "ITEM_20180516017",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA profession is \u003ci\u003emost likely\u003c/i\u003e described as a group of people that:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7f5d8108-fc6a-422a-8696-901e89ef68cf"
+                },
+                "answerFeedback": {
+                    "20a2e34c-c641-475b-a9ec-6d491cbc2a1e": "\u003cp\u003eIncorrect. A profession is based on a specialized knowledge and skills, not basic knowledge.\u003c/p\u003e",
+                    "7f5d8108-fc6a-422a-8696-901e89ef68cf": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e A profession is practiced by members who share and agree to adhere to a common code of ethics, and a profession is based on a specialized knowledge and skills and service to others.\u003c/p\u003e",
+                    "f298984b-63fb-4c40-bc46-5d8fae55f1d8": "\u003cp\u003eIncorrect. A profession is based on service to others that may not necessarily mean the interests of its members come first.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "20a2e34c-c641-475b-a9ec-6d491cbc2a1e",
+                            "itemBody": "\u003cp\u003eA. has a common level of basic knowledge about a particular subject.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "7f5d8108-fc6a-422a-8696-901e89ef68cf",
+                            "itemBody": "\u003cp\u003eB. monitors its members based on an agreed-on code of ethics.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f298984b-63fb-4c40-bc46-5d8fae55f1d8",
+                            "itemBody": "\u003cp\u003eC. puts the interests of its members first.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9014,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 847,
+            "sourceModuleId": 4757,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56486",
+            "entry": {
+                "title": "ITEM_20180516018",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eMost societies would \u003ci\u003eleast likely\u003c/i\u003e consider ethical principles to include:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "eee393a5-516b-48d4-a50f-fd429d5fc769"
+                },
+                "answerFeedback": {
+                    "2ad8e721-2372-40ea-aa21-d5601c06b4ff": "\u003cp\u003eIncorrect. Diligence is often considered an ethical principle in most societies.\u003c/p\u003e",
+                    "dd9c14d8-0973-4e1c-9f9b-487f243b1030": "\u003cp\u003eIncorrect. Justice is often considered an ethical principle in most societies.\u003c/p\u003e",
+                    "eee393a5-516b-48d4-a50f-fd429d5fc769": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Most societies acknowledge the ethical principles of honesty, fairness or justice, diligence, and respect for the rights of others. Duplicity or deception would be in violation of most ethical principles.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "dd9c14d8-0973-4e1c-9f9b-487f243b1030",
+                            "itemBody": "\u003cp\u003eA. justice.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "eee393a5-516b-48d4-a50f-fd429d5fc769",
+                            "itemBody": "\u003cp\u003eB. duplicity.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2ad8e721-2372-40ea-aa21-d5601c06b4ff",
+                            "itemBody": "\u003cp\u003eC. diligence.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 9014,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 847,
+            "sourceModuleId": 4757,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50617",
+            "entry": {
+                "title": "CFA1701-Q1",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Standards of conduct are applied to specific communities or societal groups and identify specific behaviors required of community members. These standards of conduct serve as benchmarks for the minimally acceptable behavior of community members. Codes of ethics serve as a general guide for how community members should act; they communicate the organization’s values and overall expectations regarding member behavior, but they do not identify specific behaviors required of community members. Laws and regulations are rules of conduct defined by governments and related entities about obligatory and forbidden conduct broadly applicable for individuals and entities under their jurisdiction.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eBenchmarks for minimally acceptable behaviors of community members are:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "10e46750-e097-405d-8465-4b3de78aec3b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "5008fe0e-f917-4d1b-b46b-94a49aa79dbe",
+                            "itemBody": "A. a code of ethics.",
+                            "position": 1
+                        },
+                        {
+                            "id": "126b15a9-6565-4321-bdb5-8d166f95d4f5",
+                            "itemBody": "B. laws and regulations.",
+                            "position": 2
+                        },
+                        {
+                            "id": "10e46750-e097-405d-8465-4b3de78aec3b",
+                            "itemBody": "C. standards of conduct.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8145,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50618",
+            "entry": {
+                "title": "CFA1701-Q2",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. A profession has several characteristics that distinguish it from an occupation or vocation, such as specialized knowledge and skills, service to others, and a code of ethics shared by its members. A profession is the ultimate evolution of an occupation, resulting from excellence in practice, a mastery mindest, and expected adherence to a code of ethics and standards of practice.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSpecialized knowledge and skills, a commitment to serve others, and a shared code of ethics \u003cem\u003ebest\u003c/em\u003e characterize a(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "fdeb1c6f-9b0e-4e6f-94db-11fdbdb50d6b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d7b84bbf-6275-42c5-b079-fedcd39aa423",
+                            "itemBody": "A. vocation.",
+                            "position": 1
+                        },
+                        {
+                            "id": "fdeb1c6f-9b0e-4e6f-94db-11fdbdb50d6b",
+                            "itemBody": "B. profession.",
+                            "position": 2
+                        },
+                        {
+                            "id": "8f711746-cc0f-448d-b87a-4701ff52b063",
+                            "itemBody": "C. occupation.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8145,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50619",
+            "entry": {
+                "title": "CFA1701-Q6",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Unethical behavior ultimately harms investment firms. Clients are not attracted if they suspect unethical behavior, leading to less business and lower revenues. Investment firms may also experience higher relative costs because regulators are more likely to have cause to initiate costly investigations.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhen unethical behavior erodes trust in an investment firm, that firm is \u003cem\u003emore likely\u003c/em\u003e to experience:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2fbf8b5d-a78b-4e3b-a4c5-38728e324ac0"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "a2f6a4ac-c86b-4b3a-955f-351d7d81e0d9",
+                            "itemBody": "A. lower revenues only.",
+                            "position": 1
+                        },
+                        {
+                            "id": "b46789cb-3365-42d2-bddd-fdd55e874326",
+                            "itemBody": "B. higher expenses only.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2fbf8b5d-a78b-4e3b-a4c5-38728e324ac0",
+                            "itemBody": "C. lower revenues and higher expenses.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8145,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50620",
+            "entry": {
+                "title": "CFA1701-Q9",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. High ethical standards distinguish professions from the craft guilds or trade bodies. Unlike trade bodies, professional bodies also typically have a mission to serve society and enforce professional conduct rules for practitioners.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eHigh ethical standards are distinguishing features of which of the following bodies?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "828386f2-44cc-42d3-ba80-53e0dce8164b"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "58dfbd40-24db-44e5-bad3-9f000cf49ce2",
+                            "itemBody": "A. Craft guilds",
+                            "position": 1
+                        },
+                        {
+                            "id": "175604b8-0f8c-488a-9f0a-095c13a17ee4",
+                            "itemBody": "B. Trade bodies",
+                            "position": 2
+                        },
+                        {
+                            "id": "828386f2-44cc-42d3-ba80-53e0dce8164b",
+                            "itemBody": "C. Professional bodies",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8145,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50621",
+            "entry": {
+                "title": "CFA1701-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Fiduciary duty is an obligation to deliver a high standard of care when acting for the benefit of another party. Professionals must act in the best interest of the client, exercising a reasonable level of care, skill, and diligence. Other entities—including employers, regulators, trade associations, and not-for-profit bodies—may also support an industry but are not the same as professional bodies. Unlike professions, these other entities generally do not exist to set and maintain professional standards.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFiduciary duty is a standard \u003cem\u003emost likely\u003c/em\u003e to be upheld by members of a(n):\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "36a000fc-b40f-4bc9-b455-6f3f11c6c39c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "57386880-4fe1-47c3-b928-2efb6ca20d7a",
+                            "itemBody": "A. employer.",
+                            "position": 1
+                        },
+                        {
+                            "id": "36a000fc-b40f-4bc9-b455-6f3f11c6c39c",
+                            "itemBody": "B. profession.",
+                            "position": 2
+                        },
+                        {
+                            "id": "17787f64-6f3b-47e1-8389-8334659fdf77",
+                            "itemBody": "C. not-for-profit body.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8145,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50622",
+            "entry": {
+                "title": "CFA1701-Q3",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. An overconfidence bias can lead individuals to put too much importance on internal traits and intrinsic motivations, such as their own perceptions of personal honesty, that can lead to faulty decision making. Loyalty to an employer and promise of money or prestige are situational influences that can lead to faulty decision making.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following \u003cem\u003ebest\u003c/em\u003e identifies an internal trait that may lead to poor ethical decision making?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6b020355-ae5b-4bae-b312-34fb41ea6581"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6b020355-ae5b-4bae-b312-34fb41ea6581",
+                            "itemBody": "A. Overconfidence",
+                            "position": 1
+                        },
+                        {
+                            "id": "8a50f963-697d-41e0-a01a-fcc4fc757e0e",
+                            "itemBody": "B. Loyalty to employer",
+                            "position": 2
+                        },
+                        {
+                            "id": "738426e3-66b9-487e-853b-e4089e26c6dd",
+                            "itemBody": "C. Promise of money or prestige",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8145,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50623",
+            "entry": {
+                "title": "CFA1701-Q4",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Consciously considering long-term consequences will help offset situational influences. We more easily recognize and consider short-term situational influences than longer-term considerations because longer-term considerations have fewer immediate consequences than situational influences do. When decision making is too narrowly focused on short-term factors, we tend to ignore longer-term risks and consequences, and the likelihood of poor ethical decision making increases. A strong compliance policy is a good first step toward developing an ethical culture; a focus on rules adherence may not be sufficient. Emphasis on compliance may not encourage decision makers to consider the larger picture and can oversimplify decision making. Taken to the extreme, a strong compliance culture can become another situational influence that blinds employees to other important considerations. An overconfidence bias can place too much importance on internal traits and intrinsic motivations, such as “I’m honest and would not lie,” even though studies have shown that internal traits are generally not the main determinant of whether or not someone will behave ethically in a given situation.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSituational influences in decision making will \u003cem\u003emost likely\u003c/em\u003e be minimized if:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "54a751c2-9bce-4f62-950e-aed687aba30f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "38285c70-84cb-413e-a7b8-f64aeb8a16d5",
+                            "itemBody": "A. strong compliance programs are in place.",
+                            "position": 1
+                        },
+                        {
+                            "id": "54a751c2-9bce-4f62-950e-aed687aba30f",
+                            "itemBody": "B. longer-term consequences are considered.",
+                            "position": 2
+                        },
+                        {
+                            "id": "37c00df0-da42-428b-8400-c5f446d28ea8",
+                            "itemBody": "C. individuals believe they are truthful and honest.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8145,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50624",
+            "entry": {
+                "title": "CFA1701-Q5",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. A compliance approach can oversimplify decision making and may not encourage decision makers to consider the larger picture. A strong compliance culture may be a good start in developing an ethical culture but can become another situational influence that may result in employees failing to consider other important factors.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eDecision makers who use a compliance approach are \u003cem\u003emost likely\u003c/em\u003e to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f359a551-ac0a-4abd-a3d5-94076179af80"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "ab16e6b4-0026-4fab-9fe3-0e1010e4b6a8",
+                            "itemBody": "A. avoid situational influences.",
+                            "position": 1
+                        },
+                        {
+                            "id": "f359a551-ac0a-4abd-a3d5-94076179af80",
+                            "itemBody": "B. oversimplify decision making.",
+                            "position": 2
+                        },
+                        {
+                            "id": "6fbc0c9a-37aa-47fd-b8a6-2f0864215ec5",
+                            "itemBody": "C. consider more factors than when using an ethical decision-making approach.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8145,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50625",
+            "entry": {
+                "title": "CFA1701-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. The investment management profession and investment firms must be interdependent to maintain trust. Employers and regulators have their own standards and practices, which may differ from regulations and standards set by professional bodies.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eTo maintain trust, the investment management profession must be interdependent with:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "da4e60a3-c0bc-4cee-8ebd-d1dae4a5c2a7"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c7190867-3516-4ddd-9fa2-f2fd159dd7ab",
+                            "itemBody": "A. regulators.",
+                            "position": 1
+                        },
+                        {
+                            "id": "773eda70-72e0-4f83-b68a-6302cd566d17",
+                            "itemBody": "B. employers.",
+                            "position": 2
+                        },
+                        {
+                            "id": "da4e60a3-c0bc-4cee-8ebd-d1dae4a5c2a7",
+                            "itemBody": "C. investment firms.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8145,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50626",
+            "entry": {
+                "title": "CFA1701-Q7",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. The investment industry has examples of conduct that may be legal but that CFA Institute considers unethical. Trading while in possession of material nonpublic information is not prohibited by law worldwide and can, therefore, be legal, but CFA Institute considers such trading unethical.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich is an example of an activity that may be legal but that CFA Institute considers unethical?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "e544e71b-b999-4903-8c9c-e1264b5a0bce"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f80f6a4e-3bb2-4dcb-a553-913901109f88",
+                            "itemBody": "A. Making legally required disclosures in marketing materials",
+                            "position": 1
+                        },
+                        {
+                            "id": "e544e71b-b999-4903-8c9c-e1264b5a0bce",
+                            "itemBody": "B. Trading while in possession of material nonpublic information",
+                            "position": 2
+                        },
+                        {
+                            "id": "13a4a344-3c5d-4064-8ec8-82ef7e50a904",
+                            "itemBody": "C. Disclosure by an employee of his or her own company’s dishonest activity",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8145,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50627",
+            "entry": {
+                "title": "CFA1701-Q8",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. Using an ethical decision-making framework consistently will help you develop sound judgment and decision-making skills and avoid making decisions that have unanticipated ethical consequences. The decision-making process is often iterative, and the decision maker may move between phases of the framework. A decision maker should consider more than confirmable facts and relationships; for example, the decision maker should consider situational influences and personal biases.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAn ethical decision-making framework will \u003cem\u003emost likely\u003c/em\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4bebaf6d-19db-428d-a08d-6a417569aeb6"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "dd0eba96-75da-4009-a1c8-295a1d8e0388",
+                            "itemBody": "A. include a pre-determined, uniform sequence.",
+                            "position": 1
+                        },
+                        {
+                            "id": "7ae068b8-a0f5-4525-8ff0-e30226d86ef4",
+                            "itemBody": "B. focus exclusively on confirmable facts and relationships.",
+                            "position": 2
+                        },
+                        {
+                            "id": "4bebaf6d-19db-428d-a08d-6a417569aeb6",
+                            "itemBody": "C. help avoid a decision that has unanticipated ethical consequences.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8145,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50628",
+            "entry": {
+                "title": "CFA1701-Q12",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. When a dilemma occurs, raising an issue internally with a senior employee is often a good starting place and creates an opportunity for an independent internal review. Protecting the client and the firm may take priority over the position of an individual professional raising a concern.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhen an ethical dilemma occurs, an investment professional should \u003cem\u003emost likely\u003c/em\u003e first raise the issue with a:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2b826e56-88ff-43fa-a8fb-5b7d9aad155c"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "c0eba167-88e4-49f8-902c-398954613a3a",
+                            "itemBody": "A. mentor outside the firm.",
+                            "position": 1
+                        },
+                        {
+                            "id": "7b3d7deb-86ec-47ab-8add-360c3d95ca19",
+                            "itemBody": "B. professional body’s hotline.",
+                            "position": 2
+                        },
+                        {
+                            "id": "2b826e56-88ff-43fa-a8fb-5b7d9aad155c",
+                            "itemBody": "C. senior individual in the firm.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "immutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8145,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54264",
+            "entry": {
+                "title": "ITEM_20190530048",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements is \u003ci\u003emost\u003c/i\u003e accurate? Ethical principles are sets of beliefs centered around:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "210b3c64-0d7b-45c0-acca-6c7f93e7b444"
+                },
+                "answerFeedback": {
+                    "210b3c64-0d7b-45c0-acca-6c7f93e7b444": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Ethical principles can be described as societies’ beliefs about what is considered good or bad conduct. Ethics can be described as a set of shared beliefs or moral principles regarding standards of behavior expected or required by a community or societal group.\u003c/p\u003e",
+                    "43088a33-cfbf-4c9b-b0bb-a806731f8e2d": "\u003cp\u003eIncorrect because acceptable conduct based on ethical principles balances self-interest with both the direct and indirect consequences of the behavior for others, not just the direct and indirect consequences alone.\u003c/p\u003e",
+                    "9a2038f2-4641-4dd7-85fb-ff7d8714cd70": "\u003cp\u003eIncorrect because although governments may create a set of laws they require their citizens to abide by, acceptable behavior considered to be ethical is determined outside any legal requirements. An action can be legal yet unethical.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "210b3c64-0d7b-45c0-acca-6c7f93e7b444",
+                            "itemBody": "\u003cp\u003eA. societies’ views on what is considered good or bad conduct\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "43088a33-cfbf-4c9b-b0bb-a806731f8e2d",
+                            "itemBody": "\u003cp\u003eB. acceptable conduct based on the direct and indirect consequences on others\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9a2038f2-4641-4dd7-85fb-ff7d8714cd70",
+                            "itemBody": "\u003cp\u003eC. rules established by a government with regard to what is acceptable behavior\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8729,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54265",
+            "entry": {
+                "title": "ITEM_20180516001",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA research analyst is facing a moral dilemma and decides to use an ethical decision-making framework. After looking at the facts at hand and identifying the situational influences, he still cannot make a decision on the best course of action. His \u003ci\u003eleast \u003c/i\u003eappropriate next step is to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "632ea5c4-24ba-4295-9313-9b8714c9f925"
+                },
+                "answerFeedback": {
+                    "2375e318-0e4c-4a4b-8743-de389874b2d7": "\u003cp\u003eIncorrect. If a decision maker is not yet ready to make a decision the most appropriate course of action would be to ask someone else to give guidance and determine what additional information is needed to clarify the situation.\u003c/p\u003e",
+                    "632ea5c4-24ba-4295-9313-9b8714c9f925": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The least appropriate action would be for the decision maker to go ahead and make a decision based on insufficient information. By doing so, the decision maker could cause harm and make the situation worse. The ethical decision-making framework is iterative, and users can move between phases rather than undertaking them in any one order. If a decision maker is not yet ready to make a decision, the most appropriate course of action would be to ask someone else to give guidance and determine what additional information is needed to clarify the situation.\u003c/p\u003e",
+                    "b1269032-ad23-4d7c-9d69-482a1f36e519": "\u003cp\u003eIncorrect. If a decision maker is not yet ready to make a decision the most appropriate course of action would be to ask someone else to give guidance and determine what additional information is needed to clarify the situation.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "632ea5c4-24ba-4295-9313-9b8714c9f925",
+                            "itemBody": "\u003cp\u003eA. decide, act, monitor, and reflect.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "b1269032-ad23-4d7c-9d69-482a1f36e519",
+                            "itemBody": "\u003cp\u003eB. ask someone else to give guidance.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2375e318-0e4c-4a4b-8743-de389874b2d7",
+                            "itemBody": "\u003cp\u003eC. determine what additional information is needed.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8729,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54266",
+            "entry": {
+                "title": "ITEM_20180516002",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe belief that one’s ethical standards are above average is \u003ci\u003emost likely\u003c/i\u003e a reflection of which of the following behavioral biases?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d479e112-6e81-414d-9d6b-bc8fa439d6f1"
+                },
+                "answerFeedback": {
+                    "0e4353d2-a9ff-4d29-9574-38e059fa9326": "\u003cp\u003eIncorrect. A short-term focus is an aspect of situation influences. Our brains more easily and quickly identify, recognize and consider short-term situational influences versus longer-term considerations. Long-term considerations have less immediate consequences making them less obvious as factors to consider in a decision and therefore, less likely to influence our overall decision making.\u003c/p\u003e",
+                    "9b083300-17a5-4505-b104-7f1f2121b91e": "\u003cp\u003eIncorrect. Situational influences are external factors that shape our thinking, decision making, and behavior. Learning to recognize a situational influence is critical to making good decisions however it is not a behavioral bias.\u003c/p\u003e",
+                    "d479e112-6e81-414d-9d6b-bc8fa439d6f1": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The belief that one’s ethical standards are above average illustrates an overconfidence bias. An overconfidence bias will most likely lead individuals to overestimate the morality of their own behavior and can lead to a failure to consider important inputs and variables needed to make the best ethical decisions.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d479e112-6e81-414d-9d6b-bc8fa439d6f1",
+                            "itemBody": "\u003cp\u003eA. Overconfidence\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0e4353d2-a9ff-4d29-9574-38e059fa9326",
+                            "itemBody": "\u003cp\u003eB. Short-term focus\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "9b083300-17a5-4505-b104-7f1f2121b91e",
+                            "itemBody": "\u003cp\u003eC. Situational influence\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8729,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54267",
+            "entry": {
+                "title": "ITEM_20180516004",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFrom the point of view of an investor, unethical behavior by investment professionals can \u003ci\u003emost likely\u003c/i\u003e lead to which of the following?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "da131a61-2b42-4271-a998-277306c0f854"
+                },
+                "answerFeedback": {
+                    "12a2c726-0426-4bd2-9f32-228c041c03e1": "\u003cp\u003eIncorrect. The loss of trust leads to less willingness to accept risk, not increased willingness to accept risk.\u003c/p\u003e",
+                    "d28eb7bf-a60b-4da8-9a13-042045553f91": "\u003cp\u003eIncorrect. The loss of trust may lead to less demand for investment, not an increase in the demand for investments.\u003c/p\u003e",
+                    "da131a61-2b42-4271-a998-277306c0f854": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Unethical behavior erodes and destroys trust. Investors with low levels of trust are less willing to accept risk and, therefore, will likely demand a higher return for the use of their capital. They may also choose to invest elsewhere or to not invest at all.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "da131a61-2b42-4271-a998-277306c0f854",
+                            "itemBody": "\u003cp\u003eA. Demand for a higher return\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d28eb7bf-a60b-4da8-9a13-042045553f91",
+                            "itemBody": "\u003cp\u003eB. Rise in the demand for investments\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "12a2c726-0426-4bd2-9f32-228c041c03e1",
+                            "itemBody": "\u003cp\u003eC. Increased willingness to accept risk\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8729,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54268",
+            "entry": {
+                "title": "ITEM_20180516005",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA regulator who requires financial advisers to merely consider the suitability of a product when making recommendations to their clients would \u003ci\u003emost likely\u003c/i\u003e be setting:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "6644adbe-56d2-49c0-9505-af0cbfc13f3d"
+                },
+                "answerFeedback": {
+                    "3bbe0378-8ce8-474c-8614-0cb9b0c6b6a6": "\u003cp\u003eIncorrect. Requiring financial advisers to act as fiduciaries would be setting both a legal and an ethical standard by requiring the interests of the client to be above those of the firm or employee.\u003c/p\u003e",
+                    "6644adbe-56d2-49c0-9505-af0cbfc13f3d": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The regulator only sets a legal standard when requiring a financial adviser to merely consider suitability when making recommendations to their clients. Requiring advisers to act as fiduciaries would be setting both a legal and an ethical standard; it would require the interests of the client to be above those of the firm or employee.\u003c/p\u003e",
+                    "faf5f012-6bed-418e-93a1-389e5020a0e8": "\u003cp\u003eIncorrect. The regulator is not setting an ethical standard by requiring a financial adviser to consider suitability; they are setting a legal standard.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6644adbe-56d2-49c0-9505-af0cbfc13f3d",
+                            "itemBody": "\u003cp\u003eA. a legal standard.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "faf5f012-6bed-418e-93a1-389e5020a0e8",
+                            "itemBody": "\u003cp\u003eB. an ethical standard.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3bbe0378-8ce8-474c-8614-0cb9b0c6b6a6",
+                            "itemBody": "\u003cp\u003eC. both a legal and an ethical standard.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8729,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54269",
+            "entry": {
+                "title": "ITEM_20180516006",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following \u003ci\u003ebest\u003c/i\u003e outlines the minimally acceptable behaviors expected of a member belonging to a societal group?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d9c3fe6c-d823-4ffb-99d4-8ab7b6341705"
+                },
+                "answerFeedback": {
+                    "0d5e5bf5-d561-4aa5-bcb3-397d949bffbf": "\u003cp\u003eIncorrect. A code of ethics does not outline the minimally acceptable behaviors expected of its societal members, it serves as a general guide for how community of members should act.\u003c/p\u003e",
+                    "5c42e38d-afea-4779-ac86-6cd394da6bec": "\u003cp\u003eIncorrect. A firm’s employee handbook does not outline the minimally acceptable behaviors expected of its societal members, it outlines the expected behavior of the firm’s employees.\u003c/p\u003e",
+                    "d9c3fe6c-d823-4ffb-99d4-8ab7b6341705": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Standards of conduct outline the minimally acceptable behaviors expected of a member of a societal group. The code of ethics serves as a general guide for how community members should act.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0d5e5bf5-d561-4aa5-bcb3-397d949bffbf",
+                            "itemBody": "\u003cp\u003eA. Code of ethics\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d9c3fe6c-d823-4ffb-99d4-8ab7b6341705",
+                            "itemBody": "\u003cp\u003eB. Standards of conduct\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "5c42e38d-afea-4779-ac86-6cd394da6bec",
+                            "itemBody": "\u003cp\u003eC. A firm’s employee handbook\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8729,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54270",
+            "entry": {
+                "title": "ITEM_20180516009",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eHow does ethical conduct \u003ci\u003emost likely\u003c/i\u003e compare with what is legally required?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b3924297-3eb6-4b8c-96ec-12cabf5ed424"
+                },
+                "answerFeedback": {
+                    "a89bccb2-4931-4b94-aaf6-1ae276fc951e": "\u003cp\u003eIncorrect. Doing what is legally required does not displace the need for ethical conduct. There are instances in the investment industry where an individual’s conduct may be legal, but also considered unethical.\u003c/p\u003e",
+                    "b3924297-3eb6-4b8c-96ec-12cabf5ed424": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Ethical conduct goes beyond what is legally required and encompasses what most societies, communities, and professional organizations consider to be ethically correct behavior. Good ethical judgement requires considering the interests of a multiple of stakeholders while minimizing their risks.\u003c/p\u003e",
+                    "efc0bb42-dd0c-4d03-8959-7e81b6261ef2": "\u003cp\u003eIncorrect. While there is an overlap where ethical conduct and doing what is legally required may be the same, many instances exist where they are not.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b3924297-3eb6-4b8c-96ec-12cabf5ed424",
+                            "itemBody": "\u003cp\u003eA. Ethical conduct goes beyond what is legally required\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "efc0bb42-dd0c-4d03-8959-7e81b6261ef2",
+                            "itemBody": "\u003cp\u003eB. There are no differences between the two; they are the same\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a89bccb2-4931-4b94-aaf6-1ae276fc951e",
+                            "itemBody": "\u003cp\u003eC. Doing what is legally required removes the need for ethical conduct\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8729,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54271",
+            "entry": {
+                "title": "ITEM_20180516010",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe goals of the CFA Institute Code of Ethics would \u003ci\u003eleast likely\u003c/i\u003e include:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2209e8b9-b6c8-4e91-9e3b-eba6f33157cc"
+                },
+                "answerFeedback": {
+                    "2209e8b9-b6c8-4e91-9e3b-eba6f33157cc": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Addressing past ethical failings is not a goal of the CFA Institute Code of Ethics. Fostering public confidence and publicly communicating established principles are both goals of the CFA Institute Code of Ethics.\u003c/p\u003e",
+                    "43990879-79b2-4b18-95ed-0d72645c0a21": "\u003cp\u003eIncorrect. A goal of the CFA Institute Code of Ethics would include fostering public confidence.\u003c/p\u003e",
+                    "f9d0241e-fe67-4aa8-9ef6-e7f85f613dff": "\u003cp\u003eIncorrect. A goal of the CFA Institute Code of Ethics would include publicly communicating established principles.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "43990879-79b2-4b18-95ed-0d72645c0a21",
+                            "itemBody": "\u003cp\u003eA. fostering public confidence.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "2209e8b9-b6c8-4e91-9e3b-eba6f33157cc",
+                            "itemBody": "\u003cp\u003eB. addressing past ethical failings.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "f9d0241e-fe67-4aa8-9ef6-e7f85f613dff",
+                            "itemBody": "\u003cp\u003eC. publicly communicating established principles.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 8,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8729,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54272",
+            "entry": {
+                "title": "ITEM_20180516011",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe \u003ci\u003emost \u003c/i\u003eimportant factor in promoting ethical decision making among an investment firm’s employees is:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "b1229fec-cea0-4680-8239-f55d225c1ce5"
+                },
+                "answerFeedback": {
+                    "518ac9d4-5c30-46d1-9a76-4f69b5591952": "\u003cp\u003eIncorrect. While adopting a code that clearly lays out the ethical principles that guide the thought processes and conduct the firm expects of its employees, a code of ethics alone is insufficient.\u003c/p\u003e",
+                    "adf07dd9-59a7-44f2-acf5-5fc01414315c": "\u003cp\u003eIncorrect. while an investment professional’s natural desire to do the right thing can be reinforced by the firm’s culture of integrity, it is not the single most important factor in promoting ethical behavior.\u003c/p\u003e",
+                    "b1229fec-cea0-4680-8239-f55d225c1ce5": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The single most important factor in promoting ethical behavior within an investment firm is done by the development, maintenance, and demonstration of a strong culture of integrity by the firm’s senior management.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b1229fec-cea0-4680-8239-f55d225c1ce5",
+                            "itemBody": "\u003cp\u003eA. a strong culture of integrity by the firm’s senior management.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "adf07dd9-59a7-44f2-acf5-5fc01414315c",
+                            "itemBody": "\u003cp\u003eB. the investment professional’s natural desire to do the right thing.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "518ac9d4-5c30-46d1-9a76-4f69b5591952",
+                            "itemBody": "\u003cp\u003eC. adoption of a code of ethics that clearly defines the firm’s ethical principles.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 9,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8729,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54273",
+            "entry": {
+                "title": "ITEM_20180516012",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhat is \u003ci\u003emost likely\u003c/i\u003e a critical aspect of the Consider phase of an ethical decision-making framework?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "28141dae-8c73-468f-907d-e6adfbe1076c"
+                },
+                "answerFeedback": {
+                    "2325209a-7250-416e-b0a3-214b100d39f3": "\u003cp\u003eIncorrect. Distinguishing duties to stakeholders can be found in the Identify phase of the ethical decision-making framework.\u003c/p\u003e",
+                    "28141dae-8c73-468f-907d-e6adfbe1076c": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Seeking additional guidance in the Consider phase of the ethical decision-making framework is a critical step in viewing the situation from different perspectives. It is best to seek guidance from someone who is not affected by the same situational influences or behavioral biases to provide a fresh perspective. Additional guidance can be obtained from the firm’s policies and procedures and the CFA Institute Code and Standards.\u003c/p\u003e",
+                    "3a6c5534-7926-4ae7-88a9-c1ee41ad289a": "\u003cp\u003eIncorrect. Contemplating your decision is found in the Reflect phase of the ethical decision-making framework.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "3a6c5534-7926-4ae7-88a9-c1ee41ad289a",
+                            "itemBody": "\u003cp\u003eA. Contemplating your decision\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "28141dae-8c73-468f-907d-e6adfbe1076c",
+                            "itemBody": "\u003cp\u003eB. Seeking additional guidance\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "2325209a-7250-416e-b0a3-214b100d39f3",
+                            "itemBody": "\u003cp\u003eC. Distinguishing duties to stakeholders\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 10,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8729,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54274",
+            "entry": {
+                "title": "ITEM_20180516013",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIf you are seeking guidance from the firm’s code of ethics or written policies, your actions \u003ci\u003emost likely\u003c/i\u003e reflect which phase of an ethical decision-making framework?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "611aaedb-95c8-4f53-baef-ad78d0392e16"
+                },
+                "answerFeedback": {
+                    "611aaedb-95c8-4f53-baef-ad78d0392e16": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e If you are seeking guidance from the firm’s code of ethics or written policies, you are in the Consider phase of the ethical decision-making framework. This phase involves taking time to consider the situation influences as well as personal behavioral biases that could affect your thinking and decision making. During this phase, you may also seek guidance from such trusted sources as the firm's compliance department or outside counsel.\u003c/p\u003e",
+                    "6efb90be-c090-4b6c-936c-5a6f16026ae5": "\u003cp\u003eIncorrect. The Decide phase of the ethical decision-making framework does not involve seeking guidance from the firm’s code of ethics or written policies.\u003c/p\u003e",
+                    "98f694f2-6e2a-484a-8643-bb94366e2862": "\u003cp\u003eIncorrect. The Reflect phase of the ethical decision-making framework does not involve seeking guidance from the firm’s code of ethics or written policies but rather reflecting on and assessing your decision and its outcome.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "6efb90be-c090-4b6c-936c-5a6f16026ae5",
+                            "itemBody": "\u003cp\u003eA. Decide\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "98f694f2-6e2a-484a-8643-bb94366e2862",
+                            "itemBody": "\u003cp\u003eB. Reflect\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "611aaedb-95c8-4f53-baef-ad78d0392e16",
+                            "itemBody": "\u003cp\u003eC. Consider\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 11,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8729,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54275",
+            "entry": {
+                "title": "ITEM_20180516022",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eCan an individual\u003ci\u003e most likely\u003c/i\u003e cause the public to lose confidence in the global financial markets?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "8a03d33d-f054-4fdd-aaab-2dcbe3e26d04"
+                },
+                "answerFeedback": {
+                    "7daa4332-5c67-4ed8-b7db-22004b49597b": "\u003cp\u003eIncorrect. An individual can cause the loss of market confidence and trust in investment professionals.\u003c/p\u003e",
+                    "8a03d33d-f054-4fdd-aaab-2dcbe3e26d04": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Any negative publicity regarding a financial sector employee can lead to the public losing market confidence and trust in the investment industry. Consequently, it is critical for individuals working in the financial services industry to act in an ethical manner. Without market confidence and trust in investment professionals, investors will remove their capital and the industry and economy will suffer.\u003c/p\u003e",
+                    "d495be40-f86d-4f6e-95f4-caecec9a370f": "\u003cp\u003eIncorrect because any negative publicity regarding a financial sector employee can lead to the public losing market confidence. Bernie Madolf is an example of a single person that caused the general public to lose trust of investment professionals.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8a03d33d-f054-4fdd-aaab-2dcbe3e26d04",
+                            "itemBody": "\u003cp\u003eA. Yes\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d495be40-f86d-4f6e-95f4-caecec9a370f",
+                            "itemBody": "\u003cp\u003eB. No, a single person does not have enough influence\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7daa4332-5c67-4ed8-b7db-22004b49597b",
+                            "itemBody": "\u003cp\u003eC. No, a negative event would need to be considered systemic\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 12,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8729,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54276",
+            "entry": {
+                "title": "ITEM_20180516023",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost likely\u003c/i\u003e an example of an overconfidence bias leading to poor ethical decision making?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "5a1238b2-5fea-4974-a477-ffd92254710c"
+                },
+                "answerFeedback": {
+                    "5a1238b2-5fea-4974-a477-ffd92254710c": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e An overconfidence bias is shown by thinking that your intelligence level will prevent you from acting in an unethical manner. A person who understands ethical behavior, no matter her intelligence level, can often decipher unethical behavior by looking at the long-term consequences of improper actions by an individual.\u003c/p\u003e",
+                    "87400a03-4afe-490d-9fd5-7427ebb0b9c0": "\u003cp\u003eIncorrect. Being aware of your ethical obligations does not necessarily provide a sense of overconfidence that you will do the right thing. You can be well versed in ethical obligations but yet purposely set out to act in an unethical behavior.\u003c/p\u003e",
+                    "95031686-0754-49ff-92f5-4008f18b20ee": "\u003cp\u003eIncorrect. Overconfidence bias causes people to not realize they can be subject to poor ethical decision making in the future, not in hindsight.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "95031686-0754-49ff-92f5-4008f18b20ee",
+                            "itemBody": "\u003cp\u003eA. “I’m sure I did the right thing.”\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "87400a03-4afe-490d-9fd5-7427ebb0b9c0",
+                            "itemBody": "\u003cp\u003eB. “I’m aware of my ethical obligations.”\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "5a1238b2-5fea-4974-a477-ffd92254710c",
+                            "itemBody": "\u003cp\u003eC. “I’m smart; that will keep me out of trouble.”\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 13,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8729,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 856,
+            "sourceModuleId": 4505,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

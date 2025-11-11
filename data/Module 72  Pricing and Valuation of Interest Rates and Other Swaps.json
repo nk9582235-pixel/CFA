@@ -1,0 +1,802 @@
+{
+    "user_id": 239466,
+    "quiz_id": 5994,
+    "time_spent": null,
+    "questions_answered": 0,
+    "question_count": 12,
+    "hidden_question_count": 0,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 7: Pricing and Valuation of Interest Rates and Other Swaps",
+        "topic_id": 1037,
+        "topic": "CFA-26-02-LI-C: Derivatives",
+        "subtopic_id": 5994,
+        "subtopic": "Module 7: Pricing and Valuation of Interest Rates and Other Swaps",
+        "question_count": 12,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 853,
+                "name": "Warehouse Course: Derivatives 26-LI",
+                "code": "Warehouse Course: Derivatives 26-LI",
+                "module_id": 4488,
+                "question_count": 8,
+                "type": "warehouse"
+            },
+            {
+                "id": 844,
+                "name": "Practice Pack Warehouse: Derivatives 26-LI",
+                "code": "Practice Pack Warehouse: Derivatives 26-LI",
+                "module_id": 4741,
+                "question_count": 4,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 12.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "deae3f9b4fdefd9c",
+        "ordered_item_ids": [
+            "56300",
+            "56301",
+            "56302",
+            "56303",
+            "51139",
+            "51140",
+            "51141",
+            "51142",
+            "51143",
+            "51144",
+            "51145",
+            "53932",
+            "53933"
+        ],
+        "visible_item_ids": [
+            "56300",
+            "56301",
+            "56302",
+            "56303",
+            "51139",
+            "51140",
+            "51141",
+            "51142",
+            "51143",
+            "51144",
+            "51145",
+            "53932",
+            "53933"
+        ]
+    },
+    "items": [
+        {
+            "id": "56300",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Kashyap-20",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA $10 million interest rate swap with annual payments has a fixed swap rate of 1.95%. The implied forward\u0026nbsp;rates are:\u003c/p\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e\u003cstrong\u003eYear\u003c/strong\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e\n\u003cp\u003e\u003cstrong\u003eImplied Forward Rate\u0026nbsp;(%)\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e0.50\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e1.15\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center;\"\u003e1.35\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eThe periodic settlement value in Year 3\u0026nbsp;for the fixed-rate payer\u0026nbsp;is expected to be \u003ci\u003eclosest\u003c/i\u003e\u0026nbsp;to:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f1093b46-4436-4c1c-8dd0-fdad46cac47a"
+                },
+                "answerFeedback": {
+                    "1095cc6b-4aa6-4e72-942e-d5e3a92dbea5": "\u003cp\u003eIncorrect because an average of the first 3 yearly settlement values is used:\u003c/p\u003e\u003cp\u003e= (MRR – \u003ci\u003es\u003csub\u003eN\u003c/sub\u003e\u003c/i\u003e) × Notional amount × Period\u003c/p\u003e\u003cp\u003e≠ ([0.0050 + 0.0115 + 0.0135]/3 – 0.0195) × $10,000,000 × 1\u003c/p\u003e\u003cp\u003e= (0.0100 – 0.0195) × $10,000,000 × 1 = –$95,000.\u003c/p\u003e",
+                    "7f0b1a25-6c42-42f0-b334-b0f01b0bc074": "\u003cp\u003eIncorrect because this is the periodic settlement value for the floating-rate payer, not the fixed-rate payer:\u003c/p\u003e\u003cp\u003e≠ (\u003ci\u003es\u003c/i\u003e\u003csub\u003e\u003ci\u003eN\u003c/i\u003e \u003c/sub\u003e– MRR) × Notional amount × Period\u003c/p\u003e\u003cp\u003e= (0.0195 – 0.0135) × $10,000,000 × 1 = $60,000.\u003c/p\u003e",
+                    "f1093b46-4436-4c1c-8dd0-fdad46cac47a": "\u003cp\u003eCorrect because the periodic settlement value =\u0026nbsp;(MRR – \u003ci\u003es\u003csub\u003eN\u003c/sub\u003e\u003c/i\u003e) × Notional amount × Period. The market reference rate (MMR) for Year 3 is 1.35%, thus:\u003c/p\u003e\u003cp\u003e= (0.0135 – 0.0195) × $10,000,000 × 1 = –$60,000.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1095cc6b-4aa6-4e72-942e-d5e3a92dbea5",
+                            "itemBody": "\u003cp\u003eA. –$95,000.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f1093b46-4436-4c1c-8dd0-fdad46cac47a",
+                            "itemBody": "\u003cp\u003eB. –$60,000.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "7f0b1a25-6c42-42f0-b334-b0f01b0bc074",
+                            "itemBody": "\u003cp\u003eC. $60,000.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8981,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4741,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56301",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Pirie-17",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA series of forward rate agreements and an interest rate\u0026nbsp;swap contract covering the same\u0026nbsp;periods and using the\u0026nbsp;same market reference rate will \u003ci\u003emost likely\u003c/i\u003e have\u0026nbsp;the same:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "13720e3a-91ea-4b89-a696-adbb38216953"
+                },
+                "answerFeedback": {
+                    "13720e3a-91ea-4b89-a696-adbb38216953": "\u003cp\u003eCorrect because similarities between interest rate forwards and swaps include the symmetric payoff profile and the fact that no cash flow is exchanged upfront.\u003c/p\u003e",
+                    "aa3c7ebd-6d25-4add-8c54-08b222dbedff": "\u003cp\u003eIncorrect because different FRA fixed rates usually exist for different times to maturity. In contrast, a standard interest rate swap has a constant fixed rate over its life, which includes multiple periods\u0026nbsp;and the FRA has a single settlement, which occurs at the beginning of an interest period, while a standard swap has periodic settlements, which occur at the end of each respective period.\u003c/p\u003e",
+                    "f939b609-3800-4408-aac0-6dea88fa6b92": "\u003cp\u003eIncorrect because different FRA fixed rates usually exist for different times to maturity. In contrast, a standard interest rate swap has a constant fixed rate over its life, which includes multiple periods.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f939b609-3800-4408-aac0-6dea88fa6b92",
+                            "itemBody": "\u003cp\u003eA. fixed rates.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "13720e3a-91ea-4b89-a696-adbb38216953",
+                            "itemBody": "\u003cp\u003eB. cash flows upfront.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "aa3c7ebd-6d25-4add-8c54-08b222dbedff",
+                            "itemBody": "\u003cp\u003eC. settlement cash flows.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8981,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4741,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56302",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-Deriv-Pirie-22",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFrom the fixed-rate receiver's perspective, if the market reference rate increases, the value of a swap contract:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "09d26659-514a-4ad2-8c29-27f85ff3a1bf"
+                },
+                "answerFeedback": {
+                    "09d26659-514a-4ad2-8c29-27f85ff3a1bf": "\u003cp\u003eCorrect because the fixed-rate receiver pays the market reference rate and receives the par swap par rate. If the market reference rate increases, they are paying more and the value of the contract decreases to them. Another interpretation of an interest rate swap is that the fixed-rate payer (floating-rate receiver) is long a floating-rate note (FRN) priced at the MRR and short a fixed-rate bond with a coupon equal to the fixed swap rate. Similarly, the fixed-rate receiver (floating-rate payer) is long a fixed-rate bond with a coupon equal to the swap rate and short a floating-rate note priced at the MRR. A rise in the expected forward rates after inception will increase the present value of floating payments, while the fixed-swap rate will remain the same.\u003c/p\u003e",
+                    "69a6b3bd-c909-4778-9155-9f2745daa262": "\u003cp\u003eIncorrect because the fixed-rate receiver pays the\u0026nbsp;market reference rate and receives the\u0026nbsp;swap par rate.\u0026nbsp;If the market reference rate increases, they are paying more and the\u0026nbsp;value of the\u0026nbsp;contract decreases, not increases, to\u0026nbsp;them.\u0026nbsp;Another interpretation of an interest rate swap is that the fixed-rate payer (floating-rate receiver) is long a floating-rate note (FRN) priced at the MRR and short a fixed-rate bond with a coupon equal to the fixed swap rate.\u0026nbsp;Similarly, the fixed-rate receiver (floating rate payer) is long a fixed-rate bond with a coupon equal\u0026nbsp;to the swap rate and short a floating-rate note priced at the MRR.\u0026nbsp;A rise in the expected forward rates after inception will increase the present value of floating payments, while the fixed-swap rate will remain the same.\u003c/p\u003e",
+                    "951e93bd-1493-4d5e-b46e-ecf0d30ed64f": "\u003cp\u003eIncorrect because the fixed-rate receiver pays the\u0026nbsp;market reference rate and receives the\u0026nbsp;swap par rate.\u0026nbsp;If the market reference rate increases, they are paying more and the\u0026nbsp;value of the\u0026nbsp;contract decreases to\u0026nbsp;them, not stays the same.\u0026nbsp;Another interpretation of an interest rate swap is that the fixed-rate payer (floating-rate receiver) is long a floating-rate note (FRN) priced at the MRR and short a fixed-rate bond with a coupon equal to the fixed swap rate.\u0026nbsp;Similarly, the fixed-rate receiver (floating rate payer) is long a fixed-rate bond with a coupon equal\u0026nbsp;to the swap rate and short a floating-rate note priced at the MRR.\u0026nbsp;A rise in the expected forward rates after inception will increase the present value of floating payments, while the fixed-swap rate will remain the same.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "09d26659-514a-4ad2-8c29-27f85ff3a1bf",
+                            "itemBody": "\u003cp\u003eA. decreases.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "951e93bd-1493-4d5e-b46e-ecf0d30ed64f",
+                            "itemBody": "\u003cp\u003eB. stays the same.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "69a6b3bd-c909-4778-9155-9f2745daa262",
+                            "itemBody": "\u003cp\u003eC. increases.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8981,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4741,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "56303",
+            "entry": {
+                "title": "ITEM_CFA-MC-2021.05-Derivs-Lin-09",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA swap is \u003ci\u003emost likely\u003c/i\u003e similar to a series of forward contracts when:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "7bfd030e-23db-42ed-b4ef-3634c1e92acf"
+                },
+                "answerFeedback": {
+                    "7bfd030e-23db-42ed-b4ef-3634c1e92acf": "\u003cp\u003eCorrect because, in a swap, each forward contract will be created at the fixed price that corresponds to the fixed price of a swap of the same maturity with payments made at the same dates as the series of forward contracts. That means that some of the forward contracts would have positive values and some would have negative values, but their combined values would equal zero.\u003c/p\u003e",
+                    "d155dd7a-35fc-477a-bbd3-4384c113b38d": "\u003cp\u003eIncorrect because, in a swap, each implicit forward contract is said to be off-market, because it is created at the swap price, not the appropriate forward price, which would be the price created in the forward market.\u0026nbsp;Therefore, the forward contracts are created at the swap price, not at the price created in the forward market.\u003c/p\u003e",
+                    "d5445663-5e4f-40ef-a110-95890ffb9e88": "\u003cp\u003eIncorrect because, in a swap,\u0026nbsp;each forward contract will be created at the fixed price that corresponds to the fixed price of a swap of the same maturity with payments made at the same dates as the series of forward contracts. That means that some of the forward contracts would have positive values and some would have negative values, but their combined values would equal zero.\u0026nbsp;Therefore, a swap contract is similar to a series of long forward contracts of which some have positive values and some have negative values, but the long forward contracts are not matched with the short forward contracts at each swap payment date.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "7bfd030e-23db-42ed-b4ef-3634c1e92acf",
+                            "itemBody": "\u003cp\u003eA. all forward contracts are created with the combined value equal to zero.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d155dd7a-35fc-477a-bbd3-4384c113b38d",
+                            "itemBody": "\u003cp\u003eB. all forward contracts are entered into at the price created in the forward market.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "d5445663-5e4f-40ef-a110-95890ffb9e88",
+                            "itemBody": "\u003cp\u003eC. the value of the long forward contracts are matched with the value of the short forward contracts at each swap payment date.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8981,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 844,
+            "sourceModuleId": 4741,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51139",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAce Limited is a financial intermediary that is active in forward and swap markets with its issuer and investor clients. You have been asked to consult on a number of client situations to determine the best course of action.\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8251,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4488,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "51140",
+            "entry": {
+                "title": "CFA1001-s03-Q6",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e1. B is correct. A pay-fixed swap counterparty will realize an MTM gain if implied forward rates rise.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e2. A is correct. A receive-fixed swap counterparty will make a net payment if the initial market reference rate sets above the fixed swap rate.\u003c/p\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e3. C is correct. Both a receive-fixed and a pay-fixed swap counterparty will face an initial swap contract value (ignoring transaction and counterparty credit costs) of zero.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIdentify which of the following statements is associated with which Ace counterparty swap position.\u003c/p\u003e\n\u003cdiv id=\"CFA1001-s03-T-2-c\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e1. Ace’s counterparty with this swap position will realize an MTM gain if implied forward rates rise.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eA. A receive-fixed interest rate swap\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2. Ace’s counterparty with this swap position will make a net payment if the initial market reference rate sets above the fixed swap rate.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eB. A pay-fixed interest rate swap\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e3. Ace’s counterparty with this position will face an initial swap contract value (ignoring transaction and counterparty credit costs) of zero.\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eC. Both a receive-fixed and a pay-fixed interest rate swap\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8251,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4488,
+            "stimulusQuizEntryId": "51139"
+        },
+        {
+            "id": "51141",
+            "entry": {
+                "title": "CFA1001-s03-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Ace’s client should consider \u003cem\u003ereceiving\u003c/em\u003e fixed on a five-year swap. A receive-fixed swap has a risk and return profile similar to that of a \u003cem\u003elong\u003c/em\u003e fixed-rate bond position. Ace’s client would therefore expect to have a similar MTM gain or loss on the swap position as if it had purchased a five-year bond at inception.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAce’s client is an asset manager with a significant portion of its fixed-rate bond investment portfolio maturing soon. Ace intends to reinvest the proceeds in five-year bond maturities. Which of the following describes the \u003cem\u003ebest\u003c/em\u003e course of action in the derivatives market for Ace’s client to address its bond reinvestment risk?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d6f18045-910e-4d35-a037-b77d17a66b7d"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "d6f18045-910e-4d35-a037-b77d17a66b7d",
+                            "itemBody": "A. Ace’s client should consider receiving fixed on a cash-settled five-year forward-starting swap that starts and settles in three months in order to best address its bond reinvestment risk.",
+                            "position": 1
+                        },
+                        {
+                            "id": "ab156a5f-d3f3-4545-9cbb-b567fa83c177",
+                            "itemBody": "B. Ace’s client should consider paying fixed on a cash-settled five-year forward-starting swap starting in three months in order to best address its bond reinvestment risk.",
+                            "position": 2
+                        },
+                        {
+                            "id": "ab36478b-f84c-4ef1-9566-eab383d8b1c0",
+                            "itemBody": "C. Ace’s client should consider entering a series of forward rate agreements (FRAs) from today until five years from now under which it pays a fixed rate and receives a floating rate each period ending in five years to address its bond reinvestment risk.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8251,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4488,
+            "stimulusQuizEntryId": "51139"
+        },
+        {
+            "id": "51142",
+            "entry": {
+                "title": "CFA1001-s03-Q8",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eC is correct. At time \u003cem\u003et\u003c/em\u003e = 0, the present value of fixed and future cash flows was set to zero by solving for the swap rate at inception. Although the current settlement value is known, we cannot determine whether the swap has a positive or negative value from Ace’s perspective three months later without further information—specifically, the current level of future forward rates.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAce enters a 10-year GBP interest rate swap with a client in which Ace receives an initial six-month GBP MRR of 1.75% and pays a fixed GBP swap rate of 3.10% for the first semiannual period. Which of the following statements best describes the value of the swap from Ace’s perspective three months after the inception of the trade?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "d561db1d-7b79-4837-bfa0-9a1b71dee29f"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "b222cfce-8e99-48ba-a3af-a1da69dc5ba0",
+                            "itemBody": "A. Ace has an MTM loss on the swap, because it owes a net settlement payment to its counterparty equal to 1.35% multiplied by the notional and period.",
+                            "position": 1
+                        },
+                        {
+                            "id": "886954f1-9c10-4519-b69d-130ec494ed45",
+                            "itemBody": "B. Ace has an MTM gain on the swap, because once it makes the first known net payment to its counterparty, the remainder of the future net fixed versus floating cash flows must have a positive present value from Ace’s perspective.",
+                            "position": 2
+                        },
+                        {
+                            "id": "d561db1d-7b79-4837-bfa0-9a1b71dee29f",
+                            "itemBody": "C. While the present value of fixed and future cash flows was set to zero by solving for the swap rate at inception, we do not have enough information to determine whether the swap currently has a positive or negative value from Ace’s perspective following inception.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8251,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4488,
+            "stimulusQuizEntryId": "51139"
+        },
+        {
+            "id": "51143",
+            "entry": {
+                "title": "CFA1001-s03-Q9",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Ace makes the first net payment because the fixed-rate payment is greater than the floating rate received. Given no change in forward interest rates, this implies that the remaining net cash flows must have positive present value to Ace. B is incorrect as this response states the opposite compared to the prior response. C is incorrect because we have information about forward rate expectations.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAce enters a 10-year GBP interest rate swap with a client in which Ace receives an initial six-month GBP MRR of 1.75% and pays a fixed GBP swap rate of 3.10% for the first semiannual period. Six months later, Ace and its counterparty settle the first swap payment, and no change has occurred in terms of future interest rate expectations. Which of the following statements best describes the value of the swap from Ace’s perspective?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "79531ecc-c53c-42a7-bb15-359084af49db"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "79531ecc-c53c-42a7-bb15-359084af49db",
+                            "itemBody": "A. Ace has an MTM gain on the swap, because once it makes the first known net payment to its counterparty, the remainder of the future net fixed versus floating cash flows must have a positive present value from Ace’s perspective.",
+                            "position": 1
+                        },
+                        {
+                            "id": "060de260-daf2-4da4-9723-a9383db12932",
+                            "itemBody": "B. Ace has an MTM loss on the swap, because once it receives the first known payment from its counterparty, the remainder of the future net fixed versus floating cash flows must have a negative present value from Ace’s perspective.",
+                            "position": 2
+                        },
+                        {
+                            "id": "9aff3faa-a080-4b73-ad84-2e23b5b1d327",
+                            "itemBody": "C. While the present value of fixed and future cash flows was set to zero by solving for the swap rate at inception, we do not have enough information to determine whether the swap currently has a positive or negative value from Ace’s perspective following inception.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8251,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4488,
+            "stimulusQuizEntryId": "51139"
+        },
+        {
+            "id": "51144",
+            "entry": {
+                "title": "CFA1001-s03-Q10",
+                "feedback": {
+                    "correct": "",
+                    "neutral": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eB is correct. Since the expected floating cash flows on the swap are the implied forward rates, we first use zero rates to solve for IFRs using Equation 1:\u003c/p\u003e\n\u003cdiv id=\"CFA1001-s03-E-2-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e(1 + \u003cem\u003ez\u003csub\u003eA\u003c/sub\u003e \u003c/em\u003e)\u003cem\u003e \u003csup\u003eA\u003c/sup\u003e \u003c/em\u003e × (1 + IFR\u003cem\u003e \u003csub\u003eA\u003c/sub\u003e \u003c/em\u003e \u003csub\u003e,\u003c/sub\u003e \u003cem\u003e \u003csub\u003eB\u003c/sub\u003e \u003c/em\u003e \u003csub\u003e–\u003c/sub\u003e \u003cem\u003e \u003csub\u003eA\u003c/sub\u003e \u003c/em\u003e)\u003cem\u003e \u003csup\u003eB\u003c/sup\u003e \u003c/em\u003e \u003csup\u003e–\u003c/sup\u003e \u003cem\u003e \u003csup\u003eA\u003c/sup\u003e \u003c/em\u003e = (1 + \u003cem\u003ez\u003csub\u003eB\u003c/sub\u003e \u003c/em\u003e)\u003cem\u003e \u003csup\u003eB\u003c/sup\u003e \u003c/em\u003e.\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWe may solve for these rates as IFR\u003csub\u003e0,1\u003c/sub\u003e = 2.2727%, IFR\u003csub\u003e1,1\u003c/sub\u003e = 3.7975%, and IFR\u003csub\u003e2,1\u003c/sub\u003e = 4.8525%. We then substitute the respective IFRs discounted by zero rates into the following equation to solve for \u003cem\u003es\u003c/em\u003e \u003csub\u003e3\u003c/sub\u003e:\u003c/p\u003e\n\u003cdiv id=\"CFA1001-s03-E-2-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eI\u003c/mi\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmrow\u003e \u003cmn\u003e0\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmtext\u003e\u0026nbsp;\u003c/mtext\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ez\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eI\u003c/mi\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmtext\u003e\u0026nbsp;\u003c/mtext\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ez\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmi\u003eI\u003c/mi\u003e \u003cmi\u003eF\u003c/mi\u003e \u003cmsub\u003e \u003cmi\u003eR\u003c/mi\u003e \u003cmrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003cmo\u003e,\u003c/mo\u003e \u003cmtext\u003e\u0026nbsp;\u003c/mtext\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/mrow\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ez\u003c/mi\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ez\u003c/mi\u003e \u003cmn\u003e1\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ez\u003c/mi\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003ez\u003c/mi\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSolving for the left-hand side of the equation, we get\u003c/p\u003e\n\u003cdiv id=\"CFA1001-s03-E-2-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e0.10159\u003c/mn\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2.2727\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1.022727\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e3.7975\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.030323\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e4.8525\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.036355\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e2.2727\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmn\u003e1.022727\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e3.7975\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.030323\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmrow\u003e \u003cmn\u003e4.8525\u003c/mn\u003e \u003cmi\u003e%\u003c/mi\u003e \u003c/mrow\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.036355\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSolving for the right-hand side, we get\u003c/p\u003e\n\u003cdiv id=\"CFA1001-s03-E-2-___3\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cmath\u003e\u003csemantics\u003e \u003cmrow\u003e \u003cmn\u003e2.81819\u003c/mn\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msub\u003e \u003cmo\u003e=\u003c/mo\u003e \u003cmrow\u003e\u003cmo\u003e[\u003c/mo\u003e \u003cmrow\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmrow\u003e \u003cmn\u003e1.022727\u003c/mn\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.030323\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e2\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003cmo\u003e+\u003c/mo\u003e \u003cmstyle\u003e\u003cmfrac\u003e \u003cmn\u003e1\u003c/mn\u003e \u003cmrow\u003e \u003cmsup\u003e \u003cmrow\u003e \u003cmrow\u003e\u003cmo\u003e(\u003c/mo\u003e \u003cmrow\u003e \u003cmn\u003e1.036355\u003c/mn\u003e \u003c/mrow\u003e \u003cmo\u003e)\u003c/mo\u003e\u003c/mrow\u003e \u003c/mrow\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msup\u003e \u003c/mrow\u003e \u003c/mfrac\u003e\u003c/mstyle\u003e \u003c/mrow\u003e \u003cmo\u003e]\u003c/mo\u003e\u003c/mrow\u003e \u003cmo\u003e×\u003c/mo\u003e \u003cmsub\u003e \u003cmi\u003es\u003c/mi\u003e \u003cmn\u003e3\u003c/mn\u003e \u003c/msub\u003e \u003c/mrow\u003e \u003c/semantics\u003e\u003c/math\u003e .\u003c/div\u003e\n\u003cdiv id=\"CFA1001-s03-E-2-___4\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"\u003e\u003cem\u003es\u003c/em\u003e \u003csub\u003e3\u003c/sub\u003e = 3.605% = 0.10159 ÷ 2.81819.\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is incorrect, because it discounts zero rates, not IFRs, back to the present using zero rates, while C incorrectly discounts zero rates by the respective IFRs.\u003c/p\u003e",
+                    "incorrect": ""
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAt time \u003cem\u003et\u003c/em\u003e = 0, Ace observes the following zero rates over three periods:\u003c/p\u003e\n\u003cdiv id=\"CFA1001-s03-T-2-d\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px;\"\u003e\u003cstrong\u003ePeriods\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px;\"\u003e\u003cstrong\u003eZero Rates\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e1\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e2.2727%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e2\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e3.0323%\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e3\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: top; padding: 8px;\"\u003e3.6355%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eWhich of the following best describes how Ace arrives at a three-period par swap rate (\u003cem\u003es\u003c/em\u003e \u003csub\u003e3\u003c/sub\u003e)?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2e06d4c1-6e67-4f41-ac7b-487805ae5818"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f5625ccf-b783-4816-ad72-2f65e100a0f4",
+                            "itemBody": "A. Since the par swap rate represents the fixed rate at which the present value of fixed and future cash flows equal one another, we discount each zero rate back to the present using zero rates and solve for s 3 to get 2.961%.",
+                            "position": 1
+                        },
+                        {
+                            "id": "2e06d4c1-6e67-4f41-ac7b-487805ae5818",
+                            "itemBody": "B. Since the par swap rate represents the fixed rate at which the present value of fixed and future cash flows equal one another, we first solve for the implied forward rate per period using zero rates, then discount each implied forward rate back to the present using zero rates, and solve for s 3 to get 3.605%.",
+                            "position": 2
+                        },
+                        {
+                            "id": "27335eef-ada8-439b-82fa-748263575e2b",
+                            "itemBody": "C. Since the par swap rate represents the fixed rate at which the present value of fixed and future cash flows equal one another, we first solve for the implied forward rate per period using zero rates, then discount each zero rate back to the present using implied forward rates, and solve for s 3 to get 3.009%.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8251,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4488,
+            "stimulusQuizEntryId": "51139"
+        },
+        {
+            "id": "51145",
+            "entry": {
+                "title": "CFA1001-s03-Q11",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA is correct. Since the client receives fixed and pays floating swap, in a rising-rate environment, Σ PV(Floating payments) \u0026gt; Σ PV(Fixed payments), and it will therefore owe more in future floating-rate settlements than it will receive in fixed-rate settlements, resulting in an MTM loss for the client and an \u003cem\u003eincrease\u003c/em\u003e in Ace’s MTM exposure.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eAce’s issuer client has swapped its outstanding fixed-rate debt to floating to match asset portfolio cash flows that generate an MRR-based return. Which of the following statements \u003cem\u003ebest\u003c/em\u003e describes how Ace’s MTM credit exposure to the issuer changes if interest rates rise immediately following trade inception?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "2aa8efcb-c664-4dd7-8c0c-3e2b56d2c7e4"
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2aa8efcb-c664-4dd7-8c0c-3e2b56d2c7e4",
+                            "itemBody": "A. Since the client receives fixed and pays floating swap, it faces an MTM loss on the transaction as rates rise, increasing Ace’s MTM exposure to the client.",
+                            "position": 1
+                        },
+                        {
+                            "id": "f405e7d2-9cc9-477f-b26b-36024f680f36",
+                            "itemBody": "B. Since the client receives fixed and pays floating swap, it faces an MTM gain on the transaction as rates rise, decreasing Ace’s MTM exposure to the client.",
+                            "position": 2
+                        },
+                        {
+                            "id": "808bc4c6-6477-4987-b4e7-db93efdbe27a",
+                            "itemBody": "C. Since the swap’s value is equal to the current settlement plus future expected settlement amounts, we do not have enough information to determine whether Ace’s MTM exposure to the client increases or decreases.",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 7,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8251,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4488,
+            "stimulusQuizEntryId": "51139"
+        },
+        {
+            "id": "53932",
+            "entry": {
+                "title": "ITEM_20170601055",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe price of an interest rate swap that involves the exchange of a fixed payment for a floating payment is \u003ci\u003emost likely\u003c/i\u003e:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4ff818a2-d2d4-4328-a943-76d6a1ef2267"
+                },
+                "answerFeedback": {
+                    "4ff818a2-d2d4-4328-a943-76d6a1ef2267": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Swaps have both a price and a value. Price in the context of a swap is a reference to the fixed-rate payment on the swap, which is constant over time. The value of a swap is zero at initiation but can change over the life of the swap as market interest rates change.\u003c/p\u003e",
+                    "8496efc5-acf9-4eab-ad19-dfe1dc6bf0cc": "\u003cp\u003eIncorrect. Price and value are not normally equal at expiration.\u003c/p\u003e",
+                    "96deb5c3-6274-4a8f-83f8-4f547f83a9d5": "\u003cp\u003eIncorrect. The price in the context of a swap is a reference to the fixed-rate payment on the swap, which is constant over time and does not change in reaction to interest rate changes.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "8496efc5-acf9-4eab-ad19-dfe1dc6bf0cc",
+                            "itemBody": "\u003cp\u003eA. equal to its value at expiration.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4ff818a2-d2d4-4328-a943-76d6a1ef2267",
+                            "itemBody": "\u003cp\u003eB. set at initiation and constant over time.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "96deb5c3-6274-4a8f-83f8-4f547f83a9d5",
+                            "itemBody": "\u003cp\u003eC. affected by changes in the floating payment.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8694,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4488,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53933",
+            "entry": {
+                "title": "ITEM_20190530037",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eIt is \u003ci\u003eleast likely \u003c/i\u003etrue that a swap may be viewed as a series of forward contracts where the prices of the implicit forward contracts embedded in the swap:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f2613168-46af-409c-acb8-4f46cd71fc35"
+                },
+                "answerFeedback": {
+                    "1d7663c5-5ba3-45d2-90a5-94769699acea": "\u003cp\u003eIncorrect. This statement is correct. The prices of the implicit forward contracts embedded in a swap will not be equal.\u003c/p\u003e",
+                    "d9aec339-5f4f-44a3-a8d4-6be8da01269c": "\u003cp\u003eIncorrect. This statement is correct. The prices of the implicit forward contracts embedded in a swap will not be equal but will sum to zero.\u003c/p\u003e",
+                    "f2613168-46af-409c-acb8-4f46cd71fc35": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The statement is incorrect. Although a swap may be viewed as a series of forward contracts expiring at various times where one party agrees to make a fixed payment and receive a variable payment, with swaps, the fixed payments are the same and are established at initiation. However, the prices of the implicit forward contracts embedded in a swap will not be equal.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "f2613168-46af-409c-acb8-4f46cd71fc35",
+                            "itemBody": "\u003cp\u003eA. are equal.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "d9aec339-5f4f-44a3-a8d4-6be8da01269c",
+                            "itemBody": "\u003cp\u003eB. sum to zero.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "1d7663c5-5ba3-45d2-90a5-94769699acea",
+                            "itemBody": "\u003cp\u003eC. are not equal.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8694,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 853,
+            "sourceModuleId": 4488,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": null,
+    "scored_data": null
+}

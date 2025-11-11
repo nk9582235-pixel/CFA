@@ -1,0 +1,969 @@
+{
+    "user_id": 239466,
+    "quiz_id": 6038,
+    "time_spent": 6788,
+    "questions_answered": 5,
+    "question_count": 14,
+    "hidden_question_count": 0,
+    "points": null,
+    "points_possible": null,
+    "correct_questions_count": 3,
+    "workflow_state": "in_progress",
+    "quiz": {
+        "name": "Module 2: Investors and Other Stakeholders",
+        "topic_id": 1033,
+        "topic": "CFA-26-02-LI-C: Corporate Issuers",
+        "subtopic_id": 6038,
+        "subtopic": "Module 2: Investors and Other Stakeholders",
+        "question_count": 14,
+        "type": "practice",
+        "warehouses": [
+            {
+                "id": 849,
+                "name": "Warehouse Course: Corporate Issuers 26-LI",
+                "code": "Warehouse Course: Corporate Issuers 26-LI",
+                "module_id": 4437,
+                "question_count": 9,
+                "type": "warehouse"
+            },
+            {
+                "id": 840,
+                "name": "Practice Pack Warehouse: Corporate Issuers 26-LI",
+                "code": "Practice Pack Warehouse: Corporate Issuers 26-LI",
+                "module_id": 4654,
+                "question_count": 5,
+                "type": "practice_pack"
+            }
+        ],
+        "instructions": [
+            "",
+            "",
+            ""
+        ],
+        "points_possible": 14.0,
+        "has_new_questions": false,
+        "settings": {
+            "filters": {
+                "ips": []
+            },
+            "has_time_limit": false,
+            "calculator_type": "none",
+            "shuffle_answers": false,
+            "filter_ip_address": false,
+            "multiple_attempts": {
+                "score_to_keep": "highest",
+                "build_on_last_attempt": false,
+                "multiple_attempts_enabled": true
+            },
+            "shuffle_questions": false,
+            "allow_backtracking": true,
+            "one_at_a_time_type": "none",
+            "student_access_code": null,
+            "result_view_settings": {},
+            "require_student_access_code": false,
+            "session_time_limit_in_seconds": 0
+        }
+    },
+    "metadata": {
+        "shuffle_seed": "3ceb1f0cb2ea407d",
+        "ordered_item_ids": [
+            "54685",
+            "54686",
+            "54687",
+            "54688",
+            "54689",
+            "53642",
+            "53643",
+            "53644",
+            "53645",
+            "50828",
+            "50829",
+            "50830",
+            "50831",
+            "50832",
+            "50833"
+        ],
+        "visible_item_ids": [
+            "54685",
+            "54686",
+            "54687",
+            "54688",
+            "54689",
+            "53642",
+            "53643",
+            "53644",
+            "53645",
+            "50828",
+            "50829",
+            "50830",
+            "50831",
+            "50832",
+            "50833"
+        ]
+    },
+    "items": [
+        {
+            "id": "54685",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Simsek-05",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about corporations is \u003ci\u003emost\u003c/i\u003e accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "45590155-54c4-469a-b070-e67a8155c4a8"
+                },
+                "answerFeedback": {
+                    "2207b9cb-0f41-4a4f-b6d2-12ee25ff5208": "\u003cp\u003eIncorrect because upside return potential is capped for debtholders while it is unlimited for equity holders. If the corporation is successful, there is theoretically no limit to how much equity owners could make from their investment. No matter how profitable the company becomes, however, bondholders will never receive more than their interest and principal repayment.\u003c/p\u003e",
+                    "45590155-54c4-469a-b070-e67a8155c4a8": "\u003cp\u003eCorrect because shareholder losses are limited to their initial investment. For both equity holders and debtholders, their initial investment represents their maximum possible loss.\u003c/p\u003e",
+                    "9832b7aa-c475-42d9-aa3c-60574959e15e": "\u003cp\u003eIncorrect because from issuers' perspective debt is riskier than equity while the opposite is true for the investors. From an investor’s perspective, stocks are riskier than bonds because shareholders are residual claimants on the firm. From the issuer’s perspective, bonds are riskier than stocks for the same reason bonds are safer than stocks for investors. Bonds increase risk to the corporation by increasing leverage. If the company is struggling and cannot meet its promised obligations to bondholders, bondholders have the legal standing to force certain actions upon the corporation, such as bankruptcy and liquidation.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "2207b9cb-0f41-4a4f-b6d2-12ee25ff5208",
+                            "itemBody": "\u003cp\u003eA. Upside return potential is unlimited for both equity holders and debtholders\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9832b7aa-c475-42d9-aa3c-60574959e15e",
+                            "itemBody": "\u003cp\u003eB. Equity is riskier than debt from the perspective of both investors and issuers\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "45590155-54c4-469a-b070-e67a8155c4a8",
+                            "itemBody": "\u003cp\u003eC. Losses for both equity holders and debtholders are limited to their initial investment\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8806,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4654,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54686",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.06-CorpIssuers-Lin-02",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is\u0026nbsp;\u003ci\u003emost\u003c/i\u003e\u0026nbsp;accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "f7d8d034-e45b-4b91-bb65-7f970c89ee75"
+                },
+                "answerFeedback": {
+                    "0002885e-d23e-456a-88bd-9a308343142b": "\u003cp\u003eIncorrect because private debtholders\u0026nbsp;have wide variation in risk appetites. With banks and private lenders, the general perspective of debtholders applies: less financial leverage implies less risk and is therefore preferred. Among private lenders, however, there is wide variation in their risk appetite, approach, behavior, and relationships with companies to whom they have provided capital.\u003c/p\u003e",
+                    "3e9a861a-ce9a-45a7-b9bb-20f61ce8025e": "\u003cp\u003eIncorrect because a company's\u0026nbsp;CEO\u0026nbsp;is hired by the board and responsible for implementing the\u0026nbsp;company’s strategy under the oversight of the board of directors. Managers, led by the chief executive officer of the company, are responsible for determining and implementing the corporation’s strategy under the oversight of the board of directors.\u0026nbsp;In addition, a\u0026nbsp;company’s board of directors is elected by shareholders to protect shareholders’ interests and provide strategic direction, taking into consideration the company’s risk appetite, which it defines for the company. The board is also responsible for hiring the CEO and monitoring the performance of the company and management.\u003c/p\u003e",
+                    "f7d8d034-e45b-4b91-bb65-7f970c89ee75": "\u003cp\u003eCorrect because the positive aspect of a staggered board\u0026nbsp;is that it provides continuous implementation of strategy and oversight without constantly being reassessed by new board members, which otherwise risks bringing short-termism into company strategy.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "0002885e-d23e-456a-88bd-9a308343142b",
+                            "itemBody": "\u003cp\u003eA. Risk appetites are similar among private lenders\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f7d8d034-e45b-4b91-bb65-7f970c89ee75",
+                            "itemBody": "\u003cp\u003eB. Staggered boards provide continuous implementation of strategy and oversight\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "3e9a861a-ce9a-45a7-b9bb-20f61ce8025e",
+                            "itemBody": "\u003cp\u003eC. A company's CEO is responsible for implementing the\u0026nbsp;company’s strategy under the oversight of the company's shareholders\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8806,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4654,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54687",
+            "entry": {
+                "title": "ITEM_CFA-L1-2020A-CorpFin-Whitmer-01",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eA corporation's stakeholders \u003ci\u003emost likely \u003c/i\u003einclude\u003ci\u003e:\u003c/i\u003e\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "665f12e8-115a-46ca-b0e3-b21946516d84"
+                },
+                "answerFeedback": {
+                    "4b01f049-4d49-4ffa-8df3-102815304688": "\u003cp\u003eIncorrect because the primary stakeholder groups of a corporation consist of shareholders, creditors,\u0026nbsp;managers (or executives), other employees, board of directors, customers, suppliers,\u0026nbsp;and governments/regulators (and, by extension, affected individuals and community\u0026nbsp;groups).\u0026nbsp; Additionally, in some\u0026nbsp;companies, a particular shareholder or block of shareholders may hold a percentage\u0026nbsp;of shares that gives them sufficient voting power to control the election of the board\u0026nbsp;of directors and to influence the approval or blockage of a company resolution; these\u0026nbsp;shareholders are known as \u003cb\u003econtrolling shareholders\u003c/b\u003e. In contrast, non-controlling\u0026nbsp;shareholders (\u003cb\u003eminority shareholders\u003c/b\u003e) hold a much smaller proportion of a company’s\u0026nbsp;outstanding shares, resulting in a more limited ability to exercise control in voting\u0026nbsp;activities.\u0026nbsp;Controlling and minority shareholders are stakeholders, and the only stakeholders who own shares. The full group of stakeholders is more inclusive.\u0026nbsp;\u0026nbsp;\u003c/p\u003e",
+                    "665f12e8-115a-46ca-b0e3-b21946516d84": "\u003cp\u003eCorrect because the primary stakeholder groups of a corporation consist of shareholders, creditors,\u0026nbsp;managers (or executives), other employees, board of directors, customers, suppliers,\u0026nbsp;and governments/regulators (and, by extension, affected individuals and community\u0026nbsp;groups).\u003c/p\u003e",
+                    "f83253f3-6414-4176-a47b-66839f9a1c91": "\u003cp\u003eIncorrect because the primary stakeholder groups of a corporation consist of shareholders, creditors,\u0026nbsp;managers (or executives), other employees, board of directors, customers, suppliers,\u0026nbsp;and governments/regulators (and, by extension, affected individuals and community\u0026nbsp;groups).\u0026nbsp;Additionally, in some\u0026nbsp;companies, a particular shareholder or block of shareholders may hold a percentage\u0026nbsp;of shares that gives them sufficient voting power to control the election of the board\u0026nbsp;of directors and to influence the approval or blockage of a company resolution; these\u0026nbsp;shareholders are known as \u003cb\u003econtrolling shareholders\u003c/b\u003e. In contrast, non-controlling\u0026nbsp;shareholders (\u003cb\u003eminority shareholders\u003c/b\u003e) hold a much smaller proportion of a company’s\u0026nbsp;outstanding shares, resulting in a more limited ability to exercise control in voting\u0026nbsp;activities.\u0026nbsp;Controlling and minority shareholders are stakeholders, and the only stakeholders who own shares.\u0026nbsp;The full group of stakeholders is more inclusive.\u0026nbsp;\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "4b01f049-4d49-4ffa-8df3-102815304688",
+                            "itemBody": "\u003cp\u003eA. shareholders only.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "f83253f3-6414-4176-a47b-66839f9a1c91",
+                            "itemBody": "\u003cp\u003eB. controlling shareholders only.\u0026nbsp;\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "665f12e8-115a-46ca-b0e3-b21946516d84",
+                            "itemBody": "\u003cp\u003eC. all shareholders\u0026nbsp;and all employees.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8806,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4654,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54688",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.08-CorpIssuers-Kashyap-13",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following company stakeholders is \u003ci\u003emost likely\u003c/i\u003e exposed to the greatest information asymmetry when compared to the company's\u0026nbsp;management?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "ee84cfcc-8568-4709-9f8e-8d89a6dd1496"
+                },
+                "answerFeedback": {
+                    "6b42a177-43d3-420f-a395-37bc9325e243": "\u003cp\u003eIncorrect because a member of the board of directors has significant influence and access to non-public information. A company’s board of directors is elected by shareholders to protect shareholders’ interests and provide strategic direction, taking into consideration the company’s risk appetite, which it defines for the company. The board is also responsible for hiring the CEO and monitoring the performance of the company and management.\u003c/p\u003e",
+                    "810481b6-ede6-4c15-836e-2dc3b1f463dc": "\u003cp\u003eIncorrect because banks and private lenders generally hold a company’s debt to maturity. They typically have direct access to company management and non-public information about the company; in principle, this reduces information asymmetries that exist between the company and these groups.\u003c/p\u003e",
+                    "ee84cfcc-8568-4709-9f8e-8d89a6dd1496": "\u003cp\u003eCorrect because public debtholders do not have access to non-public information. Public debtholders (or bondholders) rely on public information and credit rating agency determinations to make their investment decisions. Unlike shareholders, debtholders do not hold voting power, and they typically have limited influence over a company’s day-to-day operations.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "810481b6-ede6-4c15-836e-2dc3b1f463dc",
+                            "itemBody": "\u003cp\u003eA. A bank lender\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "ee84cfcc-8568-4709-9f8e-8d89a6dd1496",
+                            "itemBody": "\u003cp\u003eB. A public debtholder\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "6b42a177-43d3-420f-a395-37bc9325e243",
+                            "itemBody": "\u003cp\u003eC. A member of the board\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8806,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4654,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "54689",
+            "entry": {
+                "title": "ITEM_2019B Corp Fin 03DTL 11U1",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWith respect to ESG\u0026nbsp;implementation, which of the following is \u003ci\u003emost likely\u003c/i\u003e a social factor?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "4e4f3854-6a71-4050-97a9-b4dbfe931a5c"
+                },
+                "answerFeedback": {
+                    "0f1e066e-dc4a-4f06-b33f-d64b30c634a0": "\u003cp\u003eIncorrect because environmental factors that are generally considered material in investment analysis include natural resource management and/or\u0026nbsp;pollution prevention Thus, pollution prevention is an environmental consideration and not a social factor considered in ESG implementation.\u003c/p\u003e",
+                    "4e4f3854-6a71-4050-97a9-b4dbfe931a5c": "\u003cp\u003eCorrect because social factors considered in ESG implementation generally pertain to the management of the human capital of a business, including human rights and welfare concerns in the workplace; product development; and, in some cases, community impact.\u003c/p\u003e",
+                    "57dacfdb-240e-4235-84a9-bb5db47cb6fc": "\u003cp\u003eIncorrect because governance factors have long been recognized in investment analysis. Many performance indicators can help evaluate risks arising from governance issues such as ownership structure, board independence and composition. Thus, board composition is a matter of governance and not a social factor considered in ESG implementation.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "57dacfdb-240e-4235-84a9-bb5db47cb6fc",
+                            "itemBody": "\u003cp\u003eA. Board composition\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "0f1e066e-dc4a-4f06-b33f-d64b30c634a0",
+                            "itemBody": "\u003cp\u003eB. Pollution prevention\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "4e4f3854-6a71-4050-97a9-b4dbfe931a5c",
+                            "itemBody": "\u003cp\u003eC. Management of human capital\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8806,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 840,
+            "sourceModuleId": 4654,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53642",
+            "entry": {
+                "title": "ITEM_20170502032",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eThe\u003ci\u003e \u003c/i\u003eprimary motivation of activist shareholders is to promote:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "036ae4fa-2ce1-49d6-b169-70cc49312b26"
+                },
+                "answerFeedback": {
+                    "034df72a-359d-4188-8e88-eec9d10fce1f": "\u003cp\u003eIncorrect. This is more likely to be a goal of ESG investors with an investment mandate focused on environmental factors.\u003c/p\u003e",
+                    "036ae4fa-2ce1-49d6-b169-70cc49312b26": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e The primary motivation of activist shareholders is to increase shareholder value. If they feel management or the board has failed to act in the best interests of shareholders, they may attempt to force changes by gaining control of the board.\u003c/p\u003e",
+                    "a599fd75-ca2c-4984-b37b-6476c7cdc78a": "\u003cp\u003eIncorrect. This is more likely to be a goal of ESG investors with an investing mandate focused on social factors.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "036ae4fa-2ce1-49d6-b169-70cc49312b26",
+                            "itemBody": "\u003cp\u003eA. improved shareholder value.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "034df72a-359d-4188-8e88-eec9d10fce1f",
+                            "itemBody": "\u003cp\u003eB. environmentally sustainable business practices.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "a599fd75-ca2c-4984-b37b-6476c7cdc78a",
+                            "itemBody": "\u003cp\u003eC. consideration of human rights in employee relations.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8603,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4437,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53643",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.01-CorpIssuers-Pitrakkou-10",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following statements about a mature\u0026nbsp;company's stakeholders\u0026nbsp;is \u003ci\u003emost\u003c/i\u003e accurate?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "9c113cd9-13f8-4f47-81f2-f6eb98ff947f"
+                },
+                "answerFeedback": {
+                    "413617ae-37b5-4ee0-84a9-60f39a68fe75": "\u003cp\u003eIncorrect because this holds for debt, not equity. Equityholders represent a more permanent source of capital and have voting rights to elect the board of directors, which oversees the management of the company. In contrast, debt represents a cheaper financing source for companies and a lower risk for investors.\u003c/p\u003e",
+                    "539110a9-09a6-4004-96f9-00195b3c1fe5": "\u003cp\u003eIncorrect because another difference is that interest payments to debtholders are generally treated as a tax-deductible expense for the company, while dividend payments to shareholders are not.\u003c/p\u003e",
+                    "9c113cd9-13f8-4f47-81f2-f6eb98ff947f": "\u003cp\u003eCorrect because debtholders have a prior legal claim on the company’s cash flows and assets over the claims of equity owners. Equityholders [shareholders] are therefore residual claimants to the company after all other stakeholders have been paid, including creditors (interest/principal), suppliers (accounts payable), government (taxes), and employees (wages).\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "413617ae-37b5-4ee0-84a9-60f39a68fe75",
+                            "itemBody": "\u003cp\u003eA. Equity represents a cheaper financing source for companies\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "9c113cd9-13f8-4f47-81f2-f6eb98ff947f",
+                            "itemBody": "\u003cp\u003eB. Shareholders are\u0026nbsp;residual claimants to the company after all other stakeholders have been paid\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "539110a9-09a6-4004-96f9-00195b3c1fe5",
+                            "itemBody": "\u003cp\u003eC. Dividend payments to company shareholders are generally treated as a tax-deductible expense for the\u0026nbsp;company\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8603,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4437,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53644",
+            "entry": {
+                "title": "ITEM_20170502093",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eWhich of the following is \u003ci\u003emost \u003c/i\u003econsistent with good corporate governance practices?\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "08845282-0b5f-4bd1-8ca1-9947b0132bf2"
+                },
+                "answerFeedback": {
+                    "08845282-0b5f-4bd1-8ca1-9947b0132bf2": "\u003cp\u003e\u003cstrong\u003eCorrect.\u003c/strong\u003e Effective corporate governance requires a system of appropriate controls and procedures to protect financial markets and investors.\u003c/p\u003e",
+                    "456660b6-0d1f-40eb-a70b-1e6e36fc03fe": "\u003cp\u003eIncorrect. Only shareholders have the right (not all stakeholders) to participate in the governance of the firm.\u003c/p\u003e",
+                    "4bf76981-6d38-46b7-9bdb-d3f063f2fec6": "\u003cp\u003eIncorrect. The audit and compensation committees are best structured with exclusively independent directors, and no management involvement.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "456660b6-0d1f-40eb-a70b-1e6e36fc03fe",
+                            "itemBody": "\u003cp\u003eA. All stakeholders should have the right to participate in the governance of the firm.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "4bf76981-6d38-46b7-9bdb-d3f063f2fec6",
+                            "itemBody": "\u003cp\u003eB. An audit committee that benefits from the direct guidance of management.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "08845282-0b5f-4bd1-8ca1-9947b0132bf2",
+                            "itemBody": "\u003cp\u003eC. Appropriate controls and procedures to effectively manage the firm should be in place.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8603,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4437,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "53645",
+            "entry": {
+                "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Terry-11",
+                "feedback": {},
+                "itemBody": "\u003cp\u003eFrom an investor's perspective, equity \u003ci\u003emost likely\u003c/i\u003e has:\u003c/p\u003e",
+                "properties": {
+                    "shuffleRules": {
+                        "choices": {
+                            "toLock": [],
+                            "shuffled": false
+                        }
+                    },
+                    "varyPointsByAnswer": false
+                },
+                "scoringData": {
+                    "value": "a4934209-4e54-405d-9a5a-ca8d044d1643"
+                },
+                "answerFeedback": {
+                    "1f17f434-8ba4-4652-af8f-24b61e786046": "\u003cp\u003eIncorrect because the maximum loss equity owners face is limited to the amount of their equity investment.\u003c/p\u003e",
+                    "78484e34-094d-4092-a285-e72437fc5492": "\u003cp\u003eIncorrect because stocks are considered riskier for investors, however, because the company has no contractual obligation to distribute funds to shareholders or repay their capital investment. Also, with a fixed priority claim, bondholders are contractually promised priority in receiving their specified interest payment with return of principal.\u003c/p\u003e",
+                    "a4934209-4e54-405d-9a5a-ca8d044d1643": "\u003cp\u003eCorrect because however, an equity owner has the potential for significant upside gain, dependent on future share price increases. If the corporation is successful, there is theoretically no limit to how much equity owners could make from their investment.\u003c/p\u003e"
+                },
+                "calculatorType": "none",
+                "interactionData": {
+                    "choices": [
+                        {
+                            "id": "1f17f434-8ba4-4652-af8f-24b61e786046",
+                            "itemBody": "\u003cp\u003eA. unlimited loss.\u003c/p\u003e",
+                            "position": 1
+                        },
+                        {
+                            "id": "a4934209-4e54-405d-9a5a-ca8d044d1643",
+                            "itemBody": "\u003cp\u003eB. unlimited upside potential.\u003c/p\u003e",
+                            "position": 2
+                        },
+                        {
+                            "id": "78484e34-094d-4092-a285-e72437fc5492",
+                            "itemBody": "\u003cp\u003eC. lower investment risk than that of debt.\u003c/p\u003e",
+                            "position": 3
+                        }
+                    ]
+                },
+                "scoringAlgorithm": "Equivalence",
+                "interactionTypeSlug": "choice"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8603,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4437,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50828",
+            "entry": {
+                "body": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eConsider a firm with assets of 200 fully financed by equity and an identical firm financed with 80% debt and 20% equity. Assume both firms have revenue over a period of 200 and non-debt operating expenses of 140.\u003c/p\u003e",
+                "title": "Vignette",
+                "passage": false,
+                "sourceUrl": "",
+                "orientation": "left",
+                "instructions": null
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 1,
+            "entryType": "Stimulus",
+            "properties": {},
+            "sourceQuizId": 8179,
+            "entryEditable": false,
+            "pointsPossible": 0.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4437,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50829",
+            "entry": {
+                "title": "CFA1734-R-s04-Q7",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eSolve for net income by subtracting expenses from revenue, and divide net income by total equity to solve for the one-period return on equity:\u003c/p\u003e\n               \u003cdiv id=\"CFA1734-R-s04-T-2-a\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n                  \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                     \n                     \u003cthead\u003e\n                        \u003ctr\u003e\n                           \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\n                              \u003cstrong\u003eEquity-Financed \u003c/strong\u003e\n                           \u003c/th\u003e\n                           \u003cth style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                              \u003cstrong\u003eDebt- and Equity-Financed\u003c/strong\u003e\n                           \u003c/th\u003e\n                           \u003cth style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/th\u003e\n                        \u003c/tr\u003e\n                     \u003c/thead\u003e\n                     \u003ctbody\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eRevenue\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e200\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eRevenue\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e200\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eLess: Operating Expenses\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e−140\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eLess: Operating Expenses\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e−140\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eLess: Interest Expense*\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e−32\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eNet Income\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e60\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eNet Income\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e28\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eTotal Equity\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e200\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eTotal Equity\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e40\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003eReturn on Equity\u003c/strong\u003e\n                           \u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003e30%\u003c/strong\u003e\n                           \u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003eReturn on Equity \u003c/strong\u003e\n                           \u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003e70%\u003c/strong\u003e\n                           \u003c/td\u003e\n                        \u003c/tr\u003e\n                     \u003c/tbody\u003e\n                  \u003c/table\u003e\u003c/div\u003e\n               \u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003e*Interest expense with 80% debt financing = 160 × 0.20 = 32.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eIf we assume an interest rate of 20% for the period, calculate net income for each firm and compare their returns on equity for the period, ignoring income taxes.\u003c/p\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 2,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8179,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4437,
+            "stimulusQuizEntryId": "50828"
+        },
+        {
+            "id": "50830",
+            "entry": {
+                "title": "CFA1734-R-s04-Q8",
+                "feedback": {
+                    "neutral": "\n               \n               \u003cdiv id=\"CFA1734-R-s04-T-2-b\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch3 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; background-color: #fff; border-top: 2px solid #CCCCCC; border-bottom: none !important; border-right: none; border-left: none; text-align: center; margin-top: .84em !important; background-color: inherit !important;\"\u003e\n\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003e\u003cspan style=\"display: block;\"\u003e20% \u003cem\u003eIncrease\u003c/em\u003e in Revenue\u003c/span\u003e\n\u003c/h3\u003e\n                  \n                  \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                     \n                     \u003cthead\u003e\n                        \u003ctr\u003e\n                           \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\n                              \u003cstrong\u003eEquity-Financed \u003c/strong\u003e\n                           \u003c/th\u003e\n                           \u003cth style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                              \u003cstrong\u003eDebt- and Equity-Financed\u003c/strong\u003e\n                           \u003c/th\u003e\n                           \u003cth style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/th\u003e\n                        \u003c/tr\u003e\n                     \u003c/thead\u003e\n                     \u003ctbody\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eRevenue\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e240\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eRevenue\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e240\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eLess: Operating Expenses\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e−140\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eLess: Operating Expenses\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e−140\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eLess: Interest Expense \u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e−32\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eNet Income\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e100\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eNet Income\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e68\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eTotal Equity\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e200\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eTotal Equity\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e40\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003eReturn on Equity\u003c/strong\u003e\n                           \u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003e50%\u003c/strong\u003e\n                           \u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003eReturn on Equity \u003c/strong\u003e\n                           \u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003e170%\u003c/strong\u003e\n                           \u003c/td\u003e\n                        \u003c/tr\u003e\n                     \u003c/tbody\u003e\n                  \u003c/table\u003e\u003c/div\u003e\n               \u003c/div\u003e\n               \u003cdiv id=\"CFA1734-R-s04-T-2-c\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch3 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; background-color: #fff; border-top: 2px solid #CCCCCC; border-bottom: none !important; border-right: none; border-left: none; text-align: center; margin-top: .84em !important; background-color: inherit !important;\"\u003e\n\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003e\u003cspan style=\"display: block;\"\u003e20% \u003cem\u003eDecrease\u003c/em\u003e in Revenue\u003c/span\u003e\n\u003c/h3\u003e\n                  \n                  \u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\u003ctable\u003e\n                     \n                     \u003cthead\u003e\n                        \u003ctr\u003e\n                           \u003cth style=\"text-align: left; vertical-align: bottom; padding: 8px; \"\u003e\n                              \u003cstrong\u003eEquity-Financed \u003c/strong\u003e\n                           \u003c/th\u003e\n                           \u003cth style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/th\u003e\n                           \u003cth style=\"text-align: center; vertical-align: bottom; padding: 8px; \"\u003e\n                              \u003cstrong\u003eDebt- and Equity-Financed\u003c/strong\u003e\n                           \u003c/th\u003e\n                           \u003cth style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/th\u003e\n                        \u003c/tr\u003e\n                     \u003c/thead\u003e\n                     \u003ctbody\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eRevenue\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e160\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eRevenue\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e160\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eLess: Operating Expenses\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e−140\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eLess: Operating Expenses\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e−140\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eLess: Interest Expense\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e−32\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eNet Income\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e20\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eNet Income\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003e(12)\u003c/strong\u003e\n                           \u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eTotal Equity\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e200\u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003eTotal Equity\u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e40\u003c/td\u003e\n                        \u003c/tr\u003e\n                        \u003ctr\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003eReturn on Equity\u003c/strong\u003e\n                           \u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003e10%\u003c/strong\u003e\n                           \u003c/td\u003e\n                           \u003ctd style=\"text-align: left; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003eReturn on Equity \u003c/strong\u003e\n                           \u003c/td\u003e\n                           \u003ctd style=\"text-align: center; vertical-align: top; padding: 8px; \"\u003e\n                              \u003cstrong\u003e(30%)\u003c/strong\u003e\n                           \u003c/td\u003e\n                        \u003c/tr\u003e\n                     \u003c/tbody\u003e\n                  \u003c/table\u003e\u003c/div\u003e\n               \u003c/div\u003e\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eLike the example in the lesson, the use of debt increases the variance in return on equity.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCalculate the return on equity for the period if the firms experience a 20% increase and decrease in revenue (from Question 1), assuming operating expenses remain unchanged.\u003c/p\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 3,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8179,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4437,
+            "stimulusQuizEntryId": "50828"
+        },
+        {
+            "id": "50831",
+            "entry": {
+                "title": "CFA1734-R-s04-Q9",
+                "feedback": {
+                    "neutral": "\n               \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eFinancing the investment with new shares produces the lowest ROE among the three financing options. However, since the investment produced a return equal to the beginning ROE, there was no change in ROE from the initial case. Financing with debt produced a higher ROE, because the interest rate on debt was lower than the return on the new investment and no new shares were issued, avoiding dilution. The highest ROE was produced by using excess cash on hand, which avoids both dilution and the interest cost of debt.\u003c/p\u003e\n            "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eConsider the same all-equity-financed firm as in Question 1 and its choices for financing a new investment in LT assets of 40. The pertinent details in the firm’s initial balance sheet are shown below. Revenue before the investment is 200, operating expenses are 140 and are expected to remain unchanged, interest on new debt financing is 20%, and the return on the new investment is 30%.\u003c/p\u003e\n\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eCalculate the ROE for the firm if it finances the investment with debt, the issuance of new shares, or cash on hand and compare the results. Discuss the results of the comparison.\u003c/p\u003e\n\u003cdiv id=\"CFA1734-R-s04-T-2-d\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003ch2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; background-color: inherit !important; border-top: 2px solid #CCCCCC; border-bottom: none !important; border-right: none; border-left: none; text-align: center; margin-top: .84em !important;\"\u003e\u003ci class=\"fas fa-image\" style=\"background: inherit !important;\"\u003e \u003c/i\u003e\u003cspan style=\"display: block;\"\u003eInitial Balance Sheet\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCash\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e60\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eOther assets\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e40\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eLT assets\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e100\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eEquity\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e200\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv id=\"CFA1734-R-s04-T-2-e\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth style=\"vertical-align: top; padding: 8px; text-align: center;\" colspan=\"2\" scope=\"row\"\u003e\u003cstrong\u003eShare Issuance\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\" colspan=\"2\" scope=\"row\"\u003e\u003cstrong\u003eDebt Issuance\u003c/strong\u003e\u003c/th\u003e\n\u003cth style=\"text-align: center; vertical-align: top; padding: 8px;\" colspan=\"2\" scope=\"row\"\u003e\u003cstrong\u003eCash on Hand\u003c/strong\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCash 60\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCash 60\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eCash 20\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eOther 40\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eOther 40\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eDebt 40\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eOther 40\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eLT assets 140\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eEquity 240\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eLT assets 140\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eEquity 200\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eLT assets 140\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eEquity 200\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv id=\"CFA1734-R-s04-T-2-f\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\"\u003e\n\u003cdiv style=\"overflow-x: auto; display: flex; justify-content: center;\"\u003e\n\u003ctable style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eRevenue\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e212\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e212\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e212\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eLess: Operating Expenses\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e140\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e140\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e140\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eLess: Interest\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e8\u003c/td\u003e\n\u003ctd style=\"text-align: left; vertical-align: middle; padding: 8px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eNet Income\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e72\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e64\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e72\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eTotal Equity\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e240\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e200\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e200\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: left; vertical-align: top; padding: 8px;\"\u003eROE\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e30%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e32%\u003c/td\u003e\n\u003ctd style=\"text-align: center; vertical-align: middle; padding: 8px;\"\u003e36%\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 4,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8179,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4437,
+            "stimulusQuizEntryId": "50828"
+        },
+        {
+            "id": "50832",
+            "entry": {
+                "title": "CFA1734-R-s04-Q10",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eThe supplier has a clear vested interest in the success and survival of the company, so it is considered a stakeholder. The supplier extends short-term credit to the company and has a long-term interest in the success of the company because it has invested in integrated complex systems. High financial leverage would not be in the best interest of the supplier, because it presents both short-term risk that the company may be unable to make payments for goods delivered and long-term risk for the investment made to integrate the supplier’s complex systems with those of the company.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eA company has developed a long-term relationship with its major supplier. The supplier has developed complex systems that integrate with those of the company and has an agreement to receive payment within 30 days for goods delivered. Discuss the supplier’s stakeholder relationship with the firm. Why would high financial leverage be inconsistent with the supplier’s interests?\u003c/p\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 5,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8179,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4437,
+            "stimulusQuizEntryId": ""
+        },
+        {
+            "id": "50833",
+            "entry": {
+                "title": "CFA1734-R-s04-Q11",
+                "feedback": {
+                    "neutral": "\n            \u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eManagers are in a principal-agent relationship with a company’s shareholders. Managers, overseen by the board of directors, serve as agents who should act in the best interests of the company’s shareholders. However, in some cases, managers may put their own interests ahead of shareholders’ interests. Examples include insufficient effort, excessive perquisite consumption (e.g., corporate jets, elaborate offices), and failure to take appropriate risks or make investments in an effort to safeguard their jobs. Oversight by a majority independent board and compensation to align managers’ interests with shareholders’, such as performance-based and equity-based compensation schemes, are mechanisms to mitigate these conflicts of interest.\u003c/p\u003e\n         "
+                },
+                "itemBody": "\u003cp style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\"\u003eExplain why a company’s management might not act in the best interests of shareholders.\u003c/p\u003e",
+                "properties": {
+                    "wordLimit": false,
+                    "spellCheck": false,
+                    "wordLimitMax": 0,
+                    "wordLimitMin": 0,
+                    "showWordCount": false,
+                    "richContentEditor": false
+                },
+                "scoringData": {
+                    "value": ""
+                },
+                "answerFeedback": {},
+                "calculatorType": "none",
+                "interactionData": {
+                    "rce": true,
+                    "essay": null,
+                    "wordCount": false,
+                    "fileUpload": false,
+                    "spellCheck": false,
+                    "userResponse": {
+                        "value": {}
+                    },
+                    "wordLimitMax": null,
+                    "wordLimitMin": null,
+                    "wordLimitEnabled": false
+                },
+                "scoringAlgorithm": "None",
+                "interactionTypeSlug": "essay"
+            },
+            "status": "mutable",
+            "archived": false,
+            "position": 6,
+            "entryType": "Item",
+            "properties": {},
+            "sourceQuizId": 8179,
+            "entryEditable": false,
+            "pointsPossible": 1.0,
+            "sourceCourseId": 849,
+            "sourceModuleId": 4437,
+            "stimulusQuizEntryId": ""
+        }
+    ],
+    "responses": {
+        "54685": "9832b7aa-c475-42d9-aa3c-60574959e15e",
+        "54686": "f7d8d034-e45b-4b91-bb65-7f970c89ee75",
+        "54687": "665f12e8-115a-46ca-b0e3-b21946516d84",
+        "54688": "6b42a177-43d3-420f-a395-37bc9325e243",
+        "54689": "4e4f3854-6a71-4050-97a9-b4dbfe931a5c"
+    },
+    "scored_data": {
+        "54685": {
+            "score": 0,
+            "value": {
+                "45590155-54c4-469a-b070-e67a8155c4a8": {
+                    "correct": true,
+                    "resultScore": 1,
+                    "userResponded": false
+                },
+                "9832b7aa-c475-42d9-aa3c-60574959e15e": {
+                    "correct": false,
+                    "resultScore": 0,
+                    "userResponded": true
+                }
+            },
+            "correct": false
+        },
+        "54686": {
+            "score": 1,
+            "value": {
+                "f7d8d034-e45b-4b91-bb65-7f970c89ee75": {
+                    "correct": true,
+                    "resultScore": 1,
+                    "userResponded": true
+                }
+            },
+            "correct": true
+        },
+        "54687": {
+            "score": 1,
+            "value": {
+                "665f12e8-115a-46ca-b0e3-b21946516d84": {
+                    "correct": true,
+                    "resultScore": 1,
+                    "userResponded": true
+                }
+            },
+            "correct": true
+        },
+        "54688": {
+            "score": 0,
+            "value": {
+                "6b42a177-43d3-420f-a395-37bc9325e243": {
+                    "correct": false,
+                    "resultScore": 0,
+                    "userResponded": true
+                },
+                "ee84cfcc-8568-4709-9f8e-8d89a6dd1496": {
+                    "correct": true,
+                    "resultScore": 1,
+                    "userResponded": false
+                }
+            },
+            "correct": false
+        },
+        "54689": {
+            "score": 1,
+            "value": {
+                "4e4f3854-6a71-4050-97a9-b4dbfe931a5c": {
+                    "correct": true,
+                    "resultScore": 1,
+                    "userResponded": true
+                }
+            },
+            "correct": true
+        }
+    }
+}
