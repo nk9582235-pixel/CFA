@@ -2167,7 +2167,11 @@ input[type="radio"]{width:18px;height:18px;margin-top:3px}
         {% endfor %}
       </div>
 
-      {% if not is_mock %}
+      {% if is_mock %}
+      <div class="controls" style="justify-content:flex-end">
+        <button type="button" class="btn primary" onclick="showAnswer({{ loop.index0 }})">Show Answer</button>
+      </div>
+      {% else %}
       <div class="controls" style="justify-content:flex-end">
         <button type="button" class="btn primary" onclick="submitQuestion({{ loop.index0 }})">Submit Answer</button>
       </div>
@@ -2192,6 +2196,57 @@ setInterval(()=> {
   const mm = String(Math.floor(s/60)).padStart(2,'0'), ss = String(s%60).padStart(2,'0');
   document.getElementById('timer').textContent = `Time ${mm}:${ss}`;
 }, 500);
+
+function showAnswer(questionIdx) {
+  const q = questions[questionIdx];
+  const radioName = `choice-${questionIdx}`;
+  const fbDiv = document.getElementById(`feedback-${questionIdx}`);
+  
+  const correct = q.correct || null;
+  
+  let resultHTML = `<div class="result correct">✓ Correct Answer</div>`;
+  
+  // Show explanations
+  const hasPerChoiceFeedback = q.feedback && Object.keys(q.feedback).some(key => key !== 'neutral' && key !== 'correct' && key !== 'incorrect');
+  
+  resultHTML += '<div style="border-top:1px solid var(--card-border);padding-top:14px;margin-top:12px"><div style="font-weight:600;color:var(--text-primary);margin-bottom:12px">Answer Explanations:</div>';
+  
+  (q.choices || []).forEach((c, j) => {
+    const answerLetter = String.fromCharCode(65 + j);
+    const isAnswerCorrect = c.id === correct;
+    
+    let optionExplanation = '';
+    if (q.feedback) {
+      const feedbackKey = c.id;
+      if (q.feedback[feedbackKey]) {
+        optionExplanation = q.feedback[feedbackKey];
+      } else if (hasPerChoiceFeedback) {
+        optionExplanation = '';
+      } else if (q.feedback.neutral) {
+        if (isAnswerCorrect) {
+          optionExplanation = q.feedback.neutral;
+        }
+      }
+    }
+    
+    if (optionExplanation || isAnswerCorrect) {
+      const feedbackClass = isAnswerCorrect ? 'correct-option' : 'incorrect-option';
+      const statusText = isAnswerCorrect ? '✓ Correct Answer' : '';
+      if (optionExplanation || isAnswerCorrect) {
+        resultHTML += `<div class="explanation" style="display:block;margin:12px 0"><div class="feedback-option ${feedbackClass}"><div class="feedback-option-header">${answerLetter}. ${statusText}</div><div class="feedback-option-text">${optionExplanation || (isAnswerCorrect ? '<p>This is the correct answer.</p>' : '')}</div></div></div>`;
+      }
+    }
+  });
+  
+  resultHTML += '</div>';
+  fbDiv.innerHTML = resultHTML;
+  
+  // Auto-check the radio button to the correct answer
+  const correctRadio = document.querySelector(`input[name="${radioName}"][value="${correct}"]`);
+  if (correctRadio) {
+    correctRadio.checked = true;
+  }
+}
 
 function submitQuestion(questionIdx) {
   const q = questions[questionIdx];
