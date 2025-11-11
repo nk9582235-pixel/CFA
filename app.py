@@ -2055,47 +2055,38 @@ ALL_TEMPLATE = """
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
 <title>All Questions - CFA Level 1</title>
 <style>
-:root{--bg:#0f1419;--card:#1a202c;--card-border:#2d3748;--muted:#94a3b8;--accent:#a78bfa;--text-primary:#f1f5f9;--text-secondary:#cbd5e1;--text-muted:#94a3b8;--gold:#d4af37;--jewel-sapphire:#0ea5e9;--success:#34d399;--danger:#f87171;--glass-bg:rgba(255,255,255,0.05);--glass-border:rgba(255,255,255,0.1)}
-body{margin:0;font-family:'Inter','Segoe UI',Arial,Helvetica,sans-serif;background:linear-gradient(135deg, var(--bg) 0%, #1e293b 100%);color:var(--text-primary)}
-.container{max-width:1200px;margin:28px auto;padding:0 18px}
-.header{text-align:center;margin-bottom:32px}
-.header h1{font-size:32px;font-weight:800;margin:0 0 8px 0;background:linear-gradient(135deg, #a78bfa 0%, #d4af37 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
-.header p{color:var(--text-muted);font-size:14px;margin:0}
-.user-actions{display:flex;align-items:center;justify-content:center;gap:15px;margin:20px 0;flex-wrap:wrap}
-.btn{padding:10px 20px;border-radius:10px;font-size:14px;font-weight:600;text-decoration:none;display:inline-block;transition:all 0.3s;border:1px solid var(--glass-border);cursor:pointer}
-.btn-primary{background:linear-gradient(135deg, #8b5cf6 0%, #a78bfa 100%);color:#fff;border:none;box-shadow:0 4px 15px rgba(139,92,246,0.3)}
-.btn-primary:hover{background:linear-gradient(135deg, #a78bfa 0%, #c4b5fd 100%);transform:translateY(-2px);box-shadow:0 8px 25px rgba(167,139,250,0.4)}
-.btn-secondary{background:var(--glass-bg);color:var(--text-secondary);border:1px solid var(--glass-border)}
-.btn-secondary:hover{background:rgba(167,139,250,0.15);color:#c4b5fd;border-color:var(--accent);transform:translateY(-2px);box-shadow:0 4px 15px rgba(167,139,250,0.2)}
-.btn-toggle{background:rgba(139,92,246,0.2);color:var(--accent);padding:6px 12px;font-size:13px;border:1px solid var(--glass-border)}
-.btn-toggle:hover{background:rgba(139,92,246,0.3);color:#c4b5fd}
-.question{background:var(--card);padding:20px;margin-bottom:20px;border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.3);position:relative;border:1px solid var(--card-border);transition:all 0.3s}
-.question:hover{box-shadow:0 12px 40px rgba(167,139,250,0.25);border-color:var(--accent)}
-.question-title{font-weight:700;font-size:16px;margin-bottom:12px;color:var(--text-primary);line-height:1.6}
-.question-title table{width:100% !important;border-collapse:collapse !important;margin:15px 0 !important;border:1px solid rgba(167,139,250,0.3) !important;font-size:14px;background:var(--glass-bg) !important}
-.question-title table tbody{display:table-row-group}
-.question-title table thead{display:table-header-group}
-.question-title table tr{display:table-row}
-.question-title table th,.question-title table td{display:table-cell;padding:12px !important;border:1px solid rgba(167,139,250,0.2) !important;text-align:left !important;background:transparent !important;vertical-align:middle;color:var(--text-secondary) !important}
-.question-title table th{background:rgba(167,139,250,0.2) !important;font-weight:600 !important;color:var(--accent) !important;text-align:center !important}
-.question-title table td{background:transparent !important}
-.question-title table td[style*="text-align: center"],.question-title table th[style*="text-align: center"]{text-align:center !important}
-.question-title p{margin:10px 0;line-height:1.6}
-.question-title span{font-size:inherit;line-height:inherit}
-.question-meta{color:var(--text-muted);font-size:13px;margin-bottom:15px}
-.choices{margin:15px 0}
-.choice{padding:10px 15px;margin:8px 0;border:1px solid var(--card-border);border-radius:8px;background:var(--glass-bg);line-height:1.6;color:var(--text-secondary);transition:all 0.2s}
-.choice:hover{border-color:var(--accent);background:rgba(167,139,250,0.1)}
-.choice table{width:100% !important;border-collapse:collapse !important;margin:10px 0 !important;border:1px solid rgba(167,139,250,0.2) !important;font-size:14px}
-.choice table tbody{display:table-row-group}
-.choice table thead{display:table-header-group}
-.choice table tr{display:table-row}
-.choice table th,.choice table td{display:table-cell;padding:10px !important;border:1px solid rgba(167,139,250,0.2) !important;text-align:left !important;background:transparent !important;color:var(--text-secondary) !important}
-.choice table th{background:rgba(167,139,250,0.2) !important;font-weight:600 !important}
-.choice table td{background:transparent !important}
-.choice table td[style*="text-align: center"],.choice table th[style*="text-align: center"]{text-align:center !important}
-.choice p{margin:8px 0;line-height:1.6}
-.choice span{font-size:inherit}
+:root{--bg:#0f1419;--card:#1a202c;--card-border:#2d3748;--muted:#94a3b8;--accent:#a78bfa;--accent-dark:#8b5cf6;--accent-light:#c4b5fd;--success:#34d399;--danger:#f87171;--warning:#fbbf24;--text-primary:#f1f5f9;--text-secondary:#cbd5e1;--text-muted:#94a3b8;--gold:#d4af37;--jewel-emerald:#10b981;--jewel-sapphire:#0ea5e9;--jewel-amethyst:#a78bfa;--jewel-ruby:#f43f5e;--glass-bg:rgba(255,255,255,0.05);--glass-border:rgba(255,255,255,0.1)}
+body{margin:0;font-family:'Inter','Segoe UI',Arial,Helvetica,sans-serif;background:linear-gradient(135deg, var(--bg) 0%, #1e293b 100%);color:var(--text-primary);min-height:100vh}
+.container{max-width:1100px;margin:28px auto;padding:0 18px}
+.topbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px;background:var(--glass-bg);backdrop-filter:blur(10px);padding:16px;border-radius:12px;border:1px solid var(--glass-border);animation:slideDown 0.4s ease}
+.exam-title{font-weight:700;font-size:18px;background:linear-gradient(135deg, var(--accent-light) 0%, var(--gold) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.time-box{padding:8px 12px;border-radius:8px;background:var(--glass-bg);border:1px solid var(--glass-border);font-weight:600;transition:all 0.3s ease;color:var(--accent-light)}
+.time-box:hover{transform:scale(1.05);box-shadow:0 0 20px rgba(167,139,250,0.3);background:rgba(167,139,250,0.1)}
+.card{background:var(--card);padding:22px;border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.3);transition:all 0.3s ease;border:1px solid var(--card-border);position:relative;overflow:hidden;margin-bottom:18px}
+.card::before{content:'';position:absolute;top:0;left:0;right:0;height:1px;background:linear-gradient(90deg, transparent, var(--gold), transparent);opacity:0;transition:opacity 0.3s ease}
+.card:hover{transform:translateY(-5px);box-shadow:0 16px 40px rgba(167,139,250,0.2);border-color:var(--accent)}
+.card:hover::before{opacity:1}
+.q-header{display:flex;align-items:flex-start;gap:12px}
+.q-num{background:linear-gradient(135deg, var(--jewel-amethyst) 0%, var(--jewel-sapphire) 100%);padding:8px 12px;border-radius:8px;font-weight:700;transition:all 0.3s ease;color:#000;min-width:40px;text-align:center}
+.q-num:hover{transform:scale(1.1) rotate(5deg);box-shadow:0 0 20px rgba(167,139,250,0.4)}
+.question-text{font-size:15px;line-height:1.6;color:var(--text-secondary)}
+.choices{margin-top:14px;border-top:1px solid var(--card-border);padding-top:14px}
+.choice-item{display:flex;align-items:flex-start;gap:10px;padding:10px;border-radius:8px;cursor:pointer;transition:all 0.2s ease;color:var(--text-secondary)}
+.choice-item:hover{background:rgba(167,139,250,0.1);transform:translateX(5px);border-radius:8px}
+.controls{display:flex;justify-content:space-between;align-items:center;margin-top:18px}
+.btn{padding:10px 14px;border-radius:8px;border:1px solid var(--glass-border);background:var(--glass-bg);cursor:pointer;font-weight:600;transition:all 0.2s ease;color:var(--text-secondary)}
+.btn:hover{transform:translateY(-2px);box-shadow:0 4px 16px rgba(167,139,250,0.2);border-color:var(--accent)}
+.btn.primary{background:linear-gradient(135deg, var(--accent-dark) 0%, var(--accent) 100%);color:#fff;border:none}
+.btn.primary:hover{background:linear-gradient(135deg, var(--accent) 0%, var(--accent-light) 100%);box-shadow:0 8px 24px rgba(167,139,250,0.4)}
+.result{margin-top:12px;padding:12px;border-radius:8px;font-size:14px;animation: fadeIn 0.5s ease-in}
+.result.correct{background:rgba(52,211,153,0.15);border:1px solid rgba(52,211,153,0.4);color:var(--success)}
+.result.wrong{background:rgba(244,63,94,0.15);border:1px solid rgba(244,63,94,0.4);color:var(--danger)}
+.result.info{background:rgba(167,139,250,0.15);border:1px solid rgba(167,139,250,0.4);color:var(--accent-light)}
+.explain{margin-top:10px;color:var(--text-muted);background:var(--glass-bg);padding:12px;border-radius:8px;border:1px solid rgba(52,211,153,0.2)}
+.progress-bar{height:8px;background:#e2e8f0;border-radius:4px;margin-top:16px;overflow:hidden}
+.progress-fill{height:100%;background:var(--accent);transition:width 0.3s ease}
+.progress-text{font-size:12px;color:var(--muted);margin-top:4px;text-align:right}
+input[type="radio"]{width:18px;height:18px;margin-top:3px}
 .explanation{background:rgba(52,211,153,0.1);border:1px solid rgba(52,211,153,0.3);border-radius:8px;padding:20px;margin-top:15px;display:none;line-height:1.6}
 .explanation .correct-answer{color:var(--text-primary);font-weight:700;font-size:16px;margin-bottom:15px;padding-bottom:10px;border-bottom:2px solid rgba(52,211,153,0.3)}
 .explanation .feedback-option{margin:15px 0;padding:15px;border-radius:6px;background:var(--card)}
@@ -2118,129 +2109,192 @@ body{margin:0;font-family:'Inter','Segoe UI',Arial,Helvetica,sans-serif;backgrou
 .explanation .feedback-option-text table th{background:rgba(167,139,250,0.2) !important;font-weight:600 !important}
 .explanation .feedback-option-text table td{background:transparent !important}
 .explanation .feedback-option-text table td[style*="text-align: center"],.explanation .feedback-option-text table th[style*="text-align: center"]{text-align:center !important}
-.controls{display:flex;justify-content:flex-end;margin-top:15px}
-.global-controls{display:flex;justify-content:center;gap:15px;margin:20px 0}
+.question-text table, .choice-item table{width:100% !important;border-collapse:collapse !important;margin:15px 0 !important;border:1px solid rgba(167,139,250,0.3) !important;font-size:14px;background:var(--glass-bg) !important}
+.question-text table thead, .choice-item table thead{display:table-header-group}
+.question-text table tbody, .choice-item table tbody{display:table-row-group}
+.question-text table tr, .choice-item table tr{display:table-row}
+.question-text table th, .question-text table td, .choice-item table th, .choice-item table td{display:table-cell;padding:12px !important;border:1px solid rgba(167,139,250,0.2) !important;text-align:left !important;background:transparent !important;vertical-align:middle;color:var(--text-secondary) !important}
+.question-text table th, .choice-item table th{background:rgba(167,139,250,0.2) !important;font-weight:600 !important;color:var(--accent-light) !important;text-align:center !important}
+.question-text table td, .choice-item table td{background:transparent !important}
+.question-text table td[style*="text-align: center"], .question-text table th[style*="text-align: center"], .choice-item table td[style*="text-align: center"], .choice-item table th[style*="text-align: center"]{text-align:center !important}
+.question-text p, .question-text span, .choice-item p, .choice-item span{line-height:1.6;margin:10px 0;color:var(--text-secondary)}
+@keyframes fadeIn {from {opacity: 0; transform: translateY(-10px);} to {opacity: 1; transform: translateY(0);}}
+@keyframes slideDown {from {opacity: 0; transform: translateY(-20px);} to {opacity: 1; transform: translateY(0);}}
+@media(max-width:900px){ .card{padding:14px} }
 </style>
 </head>
 <body>
 <div class="container">
-  <div class="header">
-    <h1>📚 All Questions - {{ data_source }}</h1>
-    <p>Complete question list from {{ data_source }}</p>
-    <div class="user-actions">
-      <a href="/menu" class="btn btn-secondary">🏠 Back to Menu</a>
+  <div class="topbar">
+    <div>
+      <div class="exam-title">All Questions — {{ total }} questions</div>
+      <div style="color:var(--muted);font-size:13px">Source: {{ data_source }}</div>
+    </div>
+    <div style="display:flex;gap:8px;align-items:center">
+      <a href="/menu" class="btn" style="text-decoration:none;color:#0f1724">🏠 Home</a>
+      <a href="/logout" class="btn" style="text-decoration:none;color:#0f1724">Logout</a>
+      <div class="time-box" id="timer">Time 00:00</div>
     </div>
   </div>
-  
-  {% if questions %}
-  <div class="global-controls">
-    <button id="toggleAllBtn" class="btn btn-primary" onclick="toggleAllAnswers()">Show All Answers</button>
-  </div>
-  
-  <div>
-    <h2>Total Questions: {{ total }}</h2>
-    {% for question in questions %}
-    <div class="question" data-question-index="{{ loop.index0 }}">
-      <div class="question-title">Q{{ loop.index }}: {{ question.stem | safe }}</div>
-      <div class="question-meta">ID: {{ question.id }}</div>
-      <div class="choices">
-        {% for choice in question.choices %}
-        <div class="choice">{{ choice.text | safe }}</div>
-        {% endfor %}
+
+  <div class="card" id="card">
+    <div class="q-header">
+      <div class="q-num" id="qnum">1</div>
+      <div style="flex:1">
+        <div style="color:var(--muted);font-size:13px" id="qtitle">Multiple Choice</div>
+        <div class="question-text" id="stem">Loading…</div>
       </div>
-      
-      <div class="explanation" id="explanation-{{ loop.index0 }}">
-        {% if question.correct_label %}
-        <div class="correct-answer">✓ Correct Answer: {{ question.correct_label }}</div>
-        {% endif %}
-        
-        {% set has_per_choice = question.feedback and question.feedback.keys()|list|select('in', ['neutral', 'correct', 'incorrect'])|list|length != question.feedback.keys()|list|length %}
-        
-        {% if has_per_choice %}
-          {% for choice in question.choices %}
-            {% set choice_label = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'[loop.index0] %}
-            {% set is_correct = choice.id == question.correct %}
-            {% if choice.id in question.feedback and question.feedback[choice.id] %}
-            <div class="feedback-option {% if is_correct %}correct-option{% else %}incorrect-option{% endif %}">
-              <div class="feedback-option-header">{{ choice_label }}. {% if is_correct %}Correct{% else %}Incorrect{% endif %}</div>
-              <div class="feedback-option-text">{{ question.feedback[choice.id] | safe }}</div>
-            </div>
-            {% endif %}
-          {% endfor %}
-        {% elif question.feedback and 'neutral' in question.feedback %}
-          {% for choice in question.choices %}
-            {% set choice_label = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'[loop.index0] %}
-            {% set is_correct = choice.id == question.correct %}
-            <div class="feedback-option {% if is_correct %}correct-option{% else %}incorrect-option{% endif %}">
-              <div class="feedback-option-header">{{ choice_label }}. {% if is_correct %}Correct{% else %}Incorrect{% endif %}</div>
-              {% if is_correct %}
-              <div class="feedback-option-text">{{ question.feedback.neutral | safe }}</div>
-              {% else %}
-              <div class="feedback-option-text"><p>Incorrect. This is not the correct answer.</p></div>
-              {% endif %}
-            </div>
-          {% endfor %}
-        {% endif %}
-      </div>
-      
+    </div>
+
+    <div class="progress-bar">
+      <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+    </div>
+    <div class="progress-text" id="progressText">0 of {{ total }} questions</div>
+
+    <form id="form" onsubmit="return false;">
+      <div class="choices" id="choices"></div>
+
       <div class="controls">
-        <button class="btn btn-toggle" onclick="toggleAnswer({{ loop.index0 }})" id="toggleBtn-{{ loop.index0 }}">Show Answer</button>
+        <div>
+          <button type="button" class="btn" id="prev">← Previous</button>
+          <button type="button" class="btn" id="next">Next →</button>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px">
+          <div>
+            <input id="gotoInput" type="number" min="1" style="width:64px;padding:6px;border-radius:6px;border:1px solid #e6eef6;margin-left:6px"/>
+            <button class="btn" id="gotoBtn" type="button">Go</button>
+          </div>
+          <button type="button" class="btn" id="skip">Skip</button>
+          <button type="button" class="btn primary" id="submit">Submit Answer</button>
+        </div>
       </div>
-    </div>
-    {% endfor %}
+    </form>
+
+    <div id="feedback"></div>
   </div>
-  {% else %}
-  <p>No questions found in this file.</p>
-  {% endif %}
-  
-  <a href="/menu" class="btn btn-primary" style="margin-top:20px">🏠 Back to Menu</a>
 </div>
 
 <script>
-// Track the state of all answers (true = shown, false = hidden)
-let allAnswersShown = false;
+const questions = {{ questions | tojson }};
+let idx = 0;
+const total = questions.length;
+let userAnswers = new Array(total).fill(null);
+let questionStatus = new Array(total).fill(false);
+let currentQuestions = [...questions];
+let originalOrder = [...Array(total).keys()];
 
-// Toggle individual question answer
-function toggleAnswer(index) {
-  const explanation = document.getElementById('explanation-' + index);
-  const toggleBtn = document.getElementById('toggleBtn-' + index);
+document.getElementById('qnum').textContent = idx+1 + ' / ' + total;
+
+// Timer
+let start = Date.now();
+setInterval(()=> {
+  const s = Math.floor((Date.now()-start)/1000);
+  const mm = String(Math.floor(s/60)).padStart(2,'0'), ss = String(s%60).padStart(2,'0');
+  document.getElementById('timer').textContent = `Time ${mm}:${ss}`;
+}, 500);
+
+function updateProgress() {
+  const answeredCount = questionStatus.filter(status => status).length;
+  const progressPercent = (answeredCount / total) * 100;
+  document.getElementById('progressFill').style.width = progressPercent + '%';
+  document.getElementById('progressText').textContent = `${answeredCount} of ${total} questions answered`;
+}
+
+function stripHtml(html){
+  const d = new DOMParser().parseFromString(html,'text/html');
+  return d.body.textContent || '';
+}
+
+function render(i){
+  idx = i;
+  const q = currentQuestions[i];
+  document.getElementById('qnum').textContent = (i+1) + ' / ' + total;
+  document.getElementById('stem').innerHTML = q.stem ? q.stem : (q.title || '');
+  const choicesWrap = document.getElementById('choices');
+  choicesWrap.innerHTML = '';
+  (q.choices || []).forEach((c,j)=>{
+    const label = document.createElement('label');
+    label.className = 'choice-item';
+    const isChecked = userAnswers[i] === c.id ? 'checked' : '';
+    label.innerHTML = `<input type="radio" name="choice" value="${c.id}" id="opt-${j}" ${isChecked}> <div style="font-size:14px">${c.text ? c.text : ''}</div>`;
+    label.addEventListener('click', ()=> { document.getElementById('feedback').innerHTML=''; });
+    choicesWrap.appendChild(label);
+  });
   
-  if (explanation.style.display === 'block') {
-    // Hide the explanation
-    explanation.style.display = 'none';
-    toggleBtn.textContent = 'Show Answer';
-  } else {
-    // Show the explanation
-    explanation.style.display = 'block';
-    toggleBtn.textContent = 'Hide Answer';
+  document.getElementById('feedback').innerHTML = '';
+  document.getElementById('gotoInput').value = '';
+  
+  if (userAnswers[i]) {
+    const prevSelected = document.querySelector(`input[value="${userAnswers[i]}"]`);
+    if (prevSelected) prevSelected.checked = true;
   }
 }
 
-// Toggle all answers
-function toggleAllAnswers() {
-  const toggleAllBtn = document.getElementById('toggleAllBtn');
-  const questions = document.querySelectorAll('.question');
+document.getElementById('submit').addEventListener('click', ()=>{
+  const chosen = document.querySelector('input[name="choice"]:checked');
+  if (!chosen) {
+    document.getElementById('feedback').innerHTML = '<div class="result info">Please select an answer first.</div>';
+    return;
+  }
   
-  allAnswersShown = !allAnswersShown;
+  const fbDiv = document.getElementById('feedback');
+  fbDiv.innerHTML = '';
   
-  questions.forEach((question, index) => {
-    const explanation = document.getElementById('explanation-' + index);
-    const toggleBtn = document.getElementById('toggleBtn-' + index);
+  userAnswers[idx] = chosen.value;
+  questionStatus[idx] = true;
+  updateProgress();
+  
+  const q = currentQuestions[idx];
+  const correct = q.correct || null;
+  const isCorrect = chosen.value === correct;
+  
+  let resultHTML = `<div class="result ${isCorrect ? 'correct' : 'wrong'}">${isCorrect ? '✓ Correct!' : '✗ Wrong!'}</div>`;
+  
+  // Show explanations similar to quiz format
+  const hasPerChoiceFeedback = q.feedback && Object.keys(q.feedback).some(key => key !== 'neutral' && key !== 'correct' && key !== 'incorrect');
+  
+  resultHTML += '<div style="border-top:1px solid var(--card-border);padding-top:14px;margin-top:12px"><div style="font-weight:600;color:var(--text-primary);margin-bottom:12px">Answer Explanations:</div>';
+  
+  (q.choices || []).forEach((c, j) => {
+    const answerLetter = String.fromCharCode(65 + j);
+    const isAnswerCorrect = c.id === q.correct;
+    const isAnswerSelected = c.id === chosen.value;
     
-    if (allAnswersShown) {
-      // Show all explanations
-      explanation.style.display = 'block';
-      toggleBtn.textContent = 'Hide Answer';
-    } else {
-      // Hide all explanations
-      explanation.style.display = 'none';
-      toggleBtn.textContent = 'Show Answer';
+    let optionExplanation = '';
+    if (q.feedback) {
+      const feedbackKey = c.id;
+      if (q.feedback[feedbackKey]) {
+        optionExplanation = q.feedback[feedbackKey];
+      } else if (hasPerChoiceFeedback) {
+        optionExplanation = '';
+      } else if (q.feedback.neutral) {
+        if (isAnswerCorrect) {
+          optionExplanation = q.feedback.neutral;
+        } else {
+          optionExplanation = '<p>Incorrect. This is not the correct answer.</p>';
+        }
+      }
+    }
+    
+    const feedbackClass = isAnswerCorrect ? 'correct-option' : 'incorrect-option';
+    const statusIcon = isAnswerCorrect ? '✓' : (isAnswerSelected ? '✗' : '');
+    const statusText = isAnswerCorrect ? 'Correct' : (isAnswerSelected ? 'Your Answer' : '');
+    
+    if (optionExplanation) {
+      resultHTML += `<div class="explanation" style="display:block;margin:12px 0"><div class="feedback-option ${feedbackClass}"><div class="feedback-option-header">${answerLetter}. ${statusIcon} ${statusText}</div><div class="feedback-option-text">${optionExplanation}</div></div></div>`;
     }
   });
   
-  // Update the global toggle button text
-  toggleAllBtn.textContent = allAnswersShown ? 'Hide All Answers' : 'Show All Answers';
-}
+  resultHTML += '</div>';
+  fbDiv.innerHTML = resultHTML;
+});
+
+document.getElementById('next').addEventListener('click', ()=>{ render((idx+1) % total); });
+document.getElementById('prev').addEventListener('click', ()=>{ render((idx-1+total) % total); });
+document.getElementById('skip').addEventListener('click', ()=>{ render((idx+1) % total); });
+document.getElementById('gotoBtn').addEventListener('click', ()=>{ const num = parseInt(document.getElementById('gotoInput').value) - 1; if (num >= 0 && num < total) render(num); });
+
+render(0);
 </script>
 </body>
 </html>
@@ -2402,9 +2456,28 @@ def load_users():
 
 def save_users(users_data):
     """Save users to users.json file"""
-    users_file = os.path.join(BASE_DIR, 'config', 'users.json')
-    with open(users_file, 'w') as f:
-        json.dump(users_data, f, indent=4)
+    try:
+        # Determine the correct path to save users.json
+        config_dir = os.path.join(BASE_DIR, 'config')
+        users_file = os.path.join(config_dir, 'users.json')
+        
+        # Create config directory if it doesn't exist
+        os.makedirs(config_dir, exist_ok=True)
+        
+        # Write to file with proper encoding
+        with open(users_file, 'w', encoding='utf-8') as f:
+            json.dump(users_data, f, indent=4, ensure_ascii=False)
+        
+        return True, "Users saved successfully"
+    except PermissionError as e:
+        print(f"Permission denied when saving users: {e}")
+        return False, "Permission denied: Cannot write to users.json"
+    except IOError as e:
+        print(f"IO error when saving users: {e}")
+        return False, f"Error saving users: {e}"
+    except Exception as e:
+        print(f"Unexpected error when saving users: {e}")
+        return False, f"Unexpected error: {e}"
 
 def add_user(user_id, password, name, expiry=None, role="user"):
     """Add a new user to the system"""
@@ -2424,8 +2497,12 @@ def add_user(user_id, password, name, expiry=None, role="user"):
         'expiry': expiry
     })
     
-    save_users(users_data)
-    return True, "User added successfully"
+    # Save and return the result from save_users
+    save_success, save_message = save_users(users_data)
+    if save_success:
+        return True, "User added successfully"
+    else:
+        return False, f"User created but failed to save: {save_message}"
 
 def remove_user(user_id):
     """Remove a user from the system"""
@@ -2434,8 +2511,12 @@ def remove_user(user_id):
     # Find and remove the user
     users_data['users'] = [user for user in users_data['users'] if user['id'] != user_id]
     
-    save_users(users_data)
-    return True, "User removed successfully"
+    # Save and return the result from save_users
+    save_success, save_message = save_users(users_data)
+    if save_success:
+        return True, "User removed successfully"
+    else:
+        return False, f"User removed but failed to save: {save_message}"
 
 def edit_user(user_id, name=None, role=None, expiry=None, password=None):
     """Edit an existing user's details"""
@@ -2460,8 +2541,12 @@ def edit_user(user_id, name=None, role=None, expiry=None, password=None):
     if not user_found:
         return False, "User not found"
     
-    save_users(users_data)
-    return True, "User updated successfully"
+    # Save and return the result from save_users
+    save_success, save_message = save_users(users_data)
+    if save_success:
+        return True, "User updated successfully"
+    else:
+        return False, f"User updated but failed to save: {save_message}"
 
 def is_user_valid(user):
     """Check if user account is still valid based on expiry date"""
