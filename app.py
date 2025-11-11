@@ -2166,7 +2166,10 @@ input[type="radio"]{width:18px;height:18px;margin-top:3px}
     {% endfor %}
   </div>
 
-  <a href="/menu" class="btn primary" style="margin-top:20px">🏠 Back to Menu</a>
+  <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:20px">
+    <button type="button" class="btn primary" onclick="showAllAnswers()" id="showAllBtn">📋 Show All Answers</button>
+    <a href="/menu" class="btn primary" style="text-decoration:none;color:#0f1724">🏠 Back to Menu</a>
+  </div>
 </div>
 
 <script>
@@ -2237,6 +2240,72 @@ function submitQuestion(questionIdx) {
   
   resultHTML += '</div>';
   fbDiv.innerHTML = resultHTML;
+}
+
+function showAllAnswers() {
+  // Auto-submit all questions to show all answers and feedback
+  const showAllBtn = document.getElementById('showAllBtn');
+  const wasDisabled = showAllBtn.disabled;
+  showAllBtn.disabled = true;
+  showAllBtn.textContent = '⏳ Revealing answers...';
+  
+  questions.forEach((q, idx) => {
+    const fbDiv = document.getElementById(`feedback-${idx}`);
+    
+    const correct = q.correct || null;
+    
+    let resultHTML = `<div class="result correct">✓ Correct Answer</div>`;
+    
+    // Show explanations
+    const hasPerChoiceFeedback = q.feedback && Object.keys(q.feedback).some(key => key !== 'neutral' && key !== 'correct' && key !== 'incorrect');
+    
+    resultHTML += '<div style="border-top:1px solid var(--card-border);padding-top:14px;margin-top:12px"><div style="font-weight:600;color:var(--text-primary);margin-bottom:12px">Answer Explanations:</div>';
+    
+    (q.choices || []).forEach((c, j) => {
+      const answerLetter = String.fromCharCode(65 + j);
+      const isAnswerCorrect = c.id === correct;
+      
+      let optionExplanation = '';
+      if (q.feedback) {
+        const feedbackKey = c.id;
+        if (q.feedback[feedbackKey]) {
+          optionExplanation = q.feedback[feedbackKey];
+        } else if (hasPerChoiceFeedback) {
+          optionExplanation = '';
+        } else if (q.feedback.neutral) {
+          if (isAnswerCorrect) {
+            optionExplanation = q.feedback.neutral;
+          }
+        }
+      }
+      
+      if (optionExplanation || isAnswerCorrect) {
+        const feedbackClass = isAnswerCorrect ? 'correct-option' : 'incorrect-option';
+        const statusText = isAnswerCorrect ? '✓ Correct Answer' : '';
+        if (optionExplanation || isAnswerCorrect) {
+          resultHTML += `<div class="explanation" style="display:block;margin:12px 0"><div class="feedback-option ${feedbackClass}"><div class="feedback-option-header">${answerLetter}. ${statusText}</div><div class="feedback-option-text">${optionExplanation || (isAnswerCorrect ? '<p>This is the correct answer.</p>' : '')}</div></div></div>`;
+        }
+      }
+    });
+    
+    resultHTML += '</div>';
+    fbDiv.innerHTML = resultHTML;
+  });
+  
+  showAllBtn.disabled = false;
+  showAllBtn.textContent = '📋 Show All Answers';
+  
+  // Auto-check the radio buttons to the correct answers
+  questions.forEach((q, idx) => {
+    const radioName = `choice-${idx}`;
+    const correctRadio = document.querySelector(`input[name="${radioName}"][value="${q.correct}"]`);
+    if (correctRadio) {
+      correctRadio.checked = true;
+    }
+  });
+  
+  // Scroll to first question
+  document.querySelector('.card').scrollIntoView({ behavior: 'smooth' });
 }
 </script>
 </body>
